@@ -58,7 +58,7 @@ The vault lives in a private GitHub repository. Claude makes changes there, and 
 
 1. In Obsidian, open **Settings → Community plugins → Browse**, search for **Git** (by Vinzent), install it and turn it on.
 2. On a computer, the plugin needs Git installed. If it says Git is missing, install it from git-scm.com and restart Obsidian.
-3. Get the repo onto your computer. The easiest way: install **GitHub Desktop**, sign in, choose **Clone a repository**, pick **midgard-sagas-wiki**, and put it where you keep your vaults.
+3. Get the repo onto your computer. The easiest way: install **GitHub Desktop**, sign in, choose **Clone a repository**, pick **Midgard-Sagas**, and put it where you keep your vaults.
 4. In Obsidian, **Manage vaults → Open folder as vault**, and pick that cloned folder.
 5. In the Git plugin's settings, turn on **Pull on startup**, set **Auto pull interval** to 10 minutes, and set **Auto commit-and-sync interval** to 10 minutes. Then your own edits go up to GitHub too, and Claude always works from your latest version.
 
