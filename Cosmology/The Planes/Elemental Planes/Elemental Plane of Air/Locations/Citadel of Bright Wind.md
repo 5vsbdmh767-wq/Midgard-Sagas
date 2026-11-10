@@ -1,0 +1,4 @@
+---
+publish: true
+---
+ This palace is the seat of power for the Storm Caliphate, ruler of the djinn. It is a vast, floating oval-shaped diamond carved by wind and magic into towers, domes, gardens, plazas, and labyrinths. The city of [[Qasfi Alasam]] encircles the citadel. The complex features no stairways, forcing visitors without the ability to fly to rely upon air elemental guides. Smaller spheres of ice and stone orbit it, housing guest chambers, barracks, and impressive defensive armaments. The latest name of the citadel was chosen by the current ruler of the djinn, Calipha Astallah al-Zahra bint Husam al-Balil.

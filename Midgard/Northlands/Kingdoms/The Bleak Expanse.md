@@ -1,0 +1,20 @@
+---
+aliases: [Bleak Expanse, Realm of Boreas, Geskleithron, Black Tower, Tower of the North Wind, Boiling Tower, Auvindri Against-the-Wind, Skraelings]
+publish: true
+---
+| Ruler | Important Personages | Population | Great Gods | Trade Goods |
+| --- | --- | --- | --- | --- |
+| [[Boreas (North Wind)\|Boreas]] the Devourer, the North Wind | Auvindri Against-the-Wind (fire giant wizard); Queen Morrinn of Grokeheim, the Snow Queen, daughter of Boreas | About 10,000 (mostly frost giants and humans, with a few fire giants at the Boiling Tower). Capital: Geskleithron | [[Boreas (North Wind)\|Boreas]] (patron), Chernobog, [[Loki]], [[Vardesain]], [[White Goddess\|the White Goddess]] | Cold magic items, thralls, souls; fire and frost giant weapons, armor, tools, and crafts |
+
+Beyond [[Jotunheim]] and the Reaching Mountains, windswept white tundra stretches to the end of the world: a land of ice so deep some say there is no ground beneath it, and never was. Here reigns [[Boreas (North Wind)|Boreas]], the cruel, capricious, eternal god of the North Wind, who means to drown the world in endless winter. His living glaciers advance like armies, driven by divine hatred. Several now move south to breach the Falling Wall further, and others crawl west toward the Lung of the Sea. Giants, dragons, and fell beasts worship him, along with mortal zealots devoted to the North Wind. Rebels and exiles of every kind, human, giant, and beast, struggle to survive his storms. Its banner is the white pick of Boreas on a black cloud.
+
+Few mortals survive here. The hardy nomadic humans called skraelings roam the outskirts of the tundra and the frozen sea, evading white bears, remorhazes, white dragons, and linnorms, and hidden enclaves of other peoples hunt the frozen rifts, always wary of the ancient evils sleeping under the ice. Legends tell of lost palaces and tombs swallowed by the ice, lush hidden worlds, and great treasures under the snow, but most adventurers find only death. Land and sky blur into one white haze, and the emptiness brings despair and hallucinations. Beyond the few fixed places, nothing is certain: sheets of ice the size of nations break up and grind together, here revealing churning water a mile down, there blasted rock. Only the skraelings and the servants of Boreas cross it with any confidence, and neither gives up its secrets easily.
+
+## Places of Note
+
+| Place | Description |
+| --- | --- |
+| The Black Tower | The Tower of the North Wind, an enormous mountain rising hundreds of miles to the north like a spear, taller than the highest peaks of Jotunheim. At its summit, far above the clouds, is the ice palace of Boreas, where frozen souls dangle like icicles from the corridors. |
+| Geskleithron | Boreas's capital at the foot of the Black Tower, a city carved entirely from ice, with snow-white walls, halls of blue ice, and glasslike towers, built with skill even frost giant artisans can't match. Its markets trade in bottled storms, frozen mortal souls, and memories frozen solid, and frozen souls are traded there for divine favors. Mortals can survive in it, but only Boreas's elemental servants are truly welcome. |
+| The Boiling Tower | At the southern edge of the Expanse, a tower of red stones hotter than lava, marked by a column of steam; for a mile around, the ice is boiling water. Raging thuellai circle it, unable to harm its master, Auvindri Against-the-Wind, a fire giant archmage waging a lonely war against Boreas. He is surprisingly friendly to visitors (except the North Wind's servants), sets out mulled wine and roast bear for those who bring news or tales of victories over Boreas, and has a habit of appearing out of nowhere to rescue travelers from the cold's servants. He won't discuss his feud. Boreas's minions have besieged the tower on and off, and it is said Auvindri may have learned how to stop the living glaciers, having driven one off with magic. |
+| Grokeheim | The wandering ice palace of the Snow Queen; see [[Legendary Places of the North#Grokeheim, the Snow Queen's Palace\|Legendary Places of the North]]. |

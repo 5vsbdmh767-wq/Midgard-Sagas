@@ -1,0 +1,4 @@
+---
+publish: true
+---
+A civilized and highly administrative vampiric community founded by the infamous, blood-soaked saint of [[Marena]], the parish straddles the Road of Fangs, extorting a “toll” in blood from merchants, slavers, and travelers. Mortal visitors are mostly safe in the “red city” by law as the vampire citizens feed from an indentured slave class. However, the punishment for transgressing the very complicated laws and social customs in the city is indenture, so “safe” is a relative term. The ruler of the city, Exarch [[Gwledd Parlak]], an elegant vampire patrician, openly courts an alliance with [[King Lucan]] of Midgard’s [[Blood Kingdom]].

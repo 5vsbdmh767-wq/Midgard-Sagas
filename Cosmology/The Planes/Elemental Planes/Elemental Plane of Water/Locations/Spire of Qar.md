@@ -1,0 +1,4 @@
+---
+publish: true
+---
+ This spindle of solid onyx relocated itself from the [[Elemental Plane of Earth]] to the [[Elemental Plane of Water]] an eon ago during a particularly violent coterminous storm. Delighting in its uniqueness, the genie-kind of the plane built Nacre—their mother-of-pearl city—around it. The marid Empress Quarrimaj built her palace, a replica of the [[Pearl Fane]], carved from a giant, magically created golden pearl, in the in the genie city. Her decision, along with her harsh criticisms of Saliandla, has rewarded her with the increasing support of her peers as well as a steady stream of mortal petitioners attracted to her unique ability to grant wishes.

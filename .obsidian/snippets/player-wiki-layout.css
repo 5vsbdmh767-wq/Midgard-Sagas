@@ -1,0 +1,213 @@
+
+/* ===== Between Iron & Oak: house book ============================== */
+
+/* palette: black oak and linen, with brass, rust, verdigris and moss thread */
+body.theme-dark:not(.x-a):not(.x-b) {
+  --love-rgb: 176, 106, 59;   --rose-rgb: 192, 154, 78;  --gold-rgb: 160, 128, 62;
+  --pine-rgb: 110, 138, 74;   --foam-rgb: 106, 165, 150; --iris-rgb: 128, 160, 132;
+  --base: #110d08; --surface-rgb: 22, 17, 11; --overlay: #201912;
+  --muted: #8f836b; --subtle: #a99c80; --text: #dacdb1;
+  --highlight-low: #1b150e; --highlight-med-rgb: 52, 42, 30; --highlight-high: #3d3224;
+  --accent-h: 41; --accent-s: 47%; --accent-l: 53%; --color-accent-hsl: 41, 47%, 53%;
+  --bark: #1d1710; --thread-rule: rgba(218, 205, 177, 0.13);
+}
+body.theme-light:not(.x-a):not(.x-b) {
+  --love-rgb: 139, 74, 34;    --rose-rgb: 116, 84, 14;   --gold-rgb: 102, 78, 24;
+  --pine-rgb: 68, 96, 44;     --foam-rgb: 26, 100, 90;   --iris-rgb: 52, 90, 70;
+  --base: #d9cba9; --surface-rgb: 230, 218, 192; --overlay: #d6c6a2;
+  --muted: #645844; --subtle: #554a38; --text: #2a2016;
+  --highlight-low: #dccdab; --highlight-med-rgb: 199, 184, 152; --highlight-high: #b4a07a;
+  --accent-h: 41; --accent-s: 78%; --accent-l: 26%; --color-accent-hsl: 41, 78%, 26%;
+  --bark: #ddcfae; --thread-rule: rgba(42, 32, 22, 0.16);
+}
+body.theme-dark:not(.x-a):not(.x-b),
+body.theme-light:not(.x-a):not(.x-b) {
+  --font-text-theme: "Alegreya", Georgia, serif;
+  --font-interface-theme: "Alegreya", Georgia, serif;
+  --page-title-font: "IM Fell English", "Alegreya", Georgia, serif;
+  --page-title-size: 2.6em;
+  --page-title-weight: 400;
+  --font-text-size: 17.5px;
+  --line-height-normal: 1.62;
+  --bold-color: var(--text);
+  --italic-color: var(--text);
+  --link-color: var(--rose);
+  --link-color-hover: var(--rose);
+  --link-external-color: var(--foam);
+  --link-external-color-hover: var(--foam);
+  --link-unresolved-color: var(--muted);
+  --link-unresolved-opacity: 1;
+  --h1-color: var(--text); --h2-color: var(--rose); --h3-color: var(--foam);
+  --h4-color: var(--pine); --h5-color: var(--text); --h6-color: var(--subtle);
+  --text-selection: rgba(var(--rose-rgb), 0.28);
+  --file-line-width: 42rem;
+  --list-marker-color: var(--love);
+}
+
+/* ---- the embroidered band: under every page title, and as section breaks */
+.page-header::after,
+.markdown-rendered .el-h1:first-child h1::after {
+  content: "";
+  display: block;
+  height: 33px;
+  margin-top: 0.35em;
+  background: url("data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2260%22%20height=%2233%22%20viewBox=%220%200%2060%2033%22%3E%3Cpath%20d=%22M0.5%200.5L2.5%202.5M2.5%200.5L0.5%202.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M6.5%200.5L8.5%202.5M8.5%200.5L6.5%202.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M12.5%200.5L14.5%202.5M14.5%200.5L12.5%202.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M18.5%200.5L20.5%202.5M20.5%200.5L18.5%202.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M24.5%200.5L26.5%202.5M26.5%200.5L24.5%202.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M30.5%200.5L32.5%202.5M32.5%200.5L30.5%202.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M36.5%200.5L38.5%202.5M38.5%200.5L36.5%202.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M42.5%200.5L44.5%202.5M44.5%200.5L42.5%202.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M48.5%200.5L50.5%202.5M50.5%200.5L48.5%202.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M54.5%200.5L56.5%202.5M56.5%200.5L54.5%202.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M15.5%203.5L17.5%205.5M17.5%203.5L15.5%205.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M12.5%206.5L14.5%208.5M14.5%206.5L12.5%208.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M18.5%206.5L20.5%208.5M20.5%206.5L18.5%208.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M45.5%206.5L47.5%208.5M47.5%206.5L45.5%208.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M9.5%209.5L11.5%2011.5M11.5%209.5L9.5%2011.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M15.5%209.5L17.5%2011.5M17.5%209.5L15.5%2011.5%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M21.5%209.5L23.5%2011.5M23.5%209.5L21.5%2011.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M39.5%209.5L41.5%2011.5M41.5%209.5L39.5%2011.5%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M42.5%209.5L44.5%2011.5M44.5%209.5L42.5%2011.5%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M45.5%209.5L47.5%2011.5M47.5%209.5L45.5%2011.5%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M48.5%209.5L50.5%2011.5M50.5%209.5L48.5%2011.5%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M51.5%209.5L53.5%2011.5M53.5%209.5L51.5%2011.5%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M6.5%2012.5L8.5%2014.5M8.5%2012.5L6.5%2014.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M12.5%2012.5L14.5%2014.5M14.5%2012.5L12.5%2014.5%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M18.5%2012.5L20.5%2014.5M20.5%2012.5L18.5%2014.5%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M24.5%2012.5L26.5%2014.5M26.5%2012.5L24.5%2014.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M36.5%2012.5L38.5%2014.5M38.5%2012.5L36.5%2014.5%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M39.5%2012.5L41.5%2014.5M41.5%2012.5L39.5%2014.5%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M42.5%2012.5L44.5%2014.5M44.5%2012.5L42.5%2014.5%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M45.5%2012.5L47.5%2014.5M47.5%2012.5L45.5%2014.5%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M48.5%2012.5L50.5%2014.5M50.5%2012.5L48.5%2014.5%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M51.5%2012.5L53.5%2014.5M53.5%2012.5L51.5%2014.5%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M54.5%2012.5L56.5%2014.5M56.5%2012.5L54.5%2014.5%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M3.5%2015.5L5.5%2017.5M5.5%2015.5L3.5%2017.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M9.5%2015.5L11.5%2017.5M11.5%2015.5L9.5%2017.5%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M15.5%2015.5L17.5%2017.5M17.5%2015.5L15.5%2017.5%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M21.5%2015.5L23.5%2017.5M23.5%2015.5L21.5%2017.5%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M27.5%2015.5L29.5%2017.5M29.5%2015.5L27.5%2017.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M39.5%2015.5L41.5%2017.5M41.5%2015.5L39.5%2017.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M42.5%2015.5L44.5%2017.5M44.5%2015.5L42.5%2017.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M45.5%2015.5L47.5%2017.5M47.5%2015.5L45.5%2017.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M48.5%2015.5L50.5%2017.5M50.5%2015.5L48.5%2017.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M51.5%2015.5L53.5%2017.5M53.5%2015.5L51.5%2017.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M6.5%2018.5L8.5%2020.5M8.5%2018.5L6.5%2020.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M12.5%2018.5L14.5%2020.5M14.5%2018.5L12.5%2020.5%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M18.5%2018.5L20.5%2020.5M20.5%2018.5L18.5%2020.5%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M24.5%2018.5L26.5%2020.5M26.5%2018.5L24.5%2020.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M39.5%2018.5L41.5%2020.5M41.5%2018.5L39.5%2020.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M42.5%2018.5L44.5%2020.5M44.5%2018.5L42.5%2020.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M45.5%2018.5L47.5%2020.5M47.5%2018.5L45.5%2020.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M48.5%2018.5L50.5%2020.5M50.5%2018.5L48.5%2020.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M51.5%2018.5L53.5%2020.5M53.5%2018.5L51.5%2020.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M9.5%2021.5L11.5%2023.5M11.5%2021.5L9.5%2023.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M15.5%2021.5L17.5%2023.5M17.5%2021.5L15.5%2023.5%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M21.5%2021.5L23.5%2023.5M23.5%2021.5L21.5%2023.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M42.5%2021.5L44.5%2023.5M44.5%2021.5L42.5%2023.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M45.5%2021.5L47.5%2023.5M47.5%2021.5L45.5%2023.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M48.5%2021.5L50.5%2023.5M50.5%2021.5L48.5%2023.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M12.5%2024.5L14.5%2026.5M14.5%2024.5L12.5%2026.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M18.5%2024.5L20.5%2026.5M20.5%2024.5L18.5%2026.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M45.5%2024.5L47.5%2026.5M47.5%2024.5L45.5%2026.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M15.5%2027.5L17.5%2029.5M17.5%2027.5L15.5%2029.5%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M0.5%2030.5L2.5%2032.5M2.5%2030.5L0.5%2032.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M6.5%2030.5L8.5%2032.5M8.5%2030.5L6.5%2032.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M12.5%2030.5L14.5%2032.5M14.5%2030.5L12.5%2032.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M18.5%2030.5L20.5%2032.5M20.5%2030.5L18.5%2032.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M24.5%2030.5L26.5%2032.5M26.5%2030.5L24.5%2032.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M30.5%2030.5L32.5%2032.5M32.5%2030.5L30.5%2032.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M36.5%2030.5L38.5%2032.5M38.5%2030.5L36.5%2032.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M42.5%2030.5L44.5%2032.5M44.5%2030.5L42.5%2032.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M48.5%2030.5L50.5%2032.5M50.5%2030.5L48.5%2032.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M54.5%2030.5L56.5%2032.5M56.5%2030.5L54.5%2032.5%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3C/svg%3E") repeat-x left center;
+  opacity: 0.92;
+}
+.markdown-rendered hr {
+  border: none;
+  height: 14px;
+  width: 120px;
+  margin: 2.2em auto;
+  background: url("data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2240%22%20height=%2214%22%20viewBox=%220%200%2040%2014%22%3E%3Cpath%20d=%22M8.4%200.4L9.6%201.6M9.6%200.4L8.4%201.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M12.4%200.4L13.6%201.6M13.6%200.4L12.4%201.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M30.4%200.4L31.6%201.6M31.6%200.4L30.4%201.6%22%20stroke=%22%236b8445%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M6.4%202.4L7.6%203.6M7.6%202.4L6.4%203.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M10.4%202.4L11.6%203.6M11.6%202.4L10.4%203.6%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M14.4%202.4L15.6%203.6M15.6%202.4L14.4%203.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M26.4%202.4L27.6%203.6M27.6%202.4L26.4%203.6%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M28.4%202.4L29.6%203.6M29.6%202.4L28.4%203.6%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M30.4%202.4L31.6%203.6M31.6%202.4L30.4%203.6%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M32.4%202.4L33.6%203.6M33.6%202.4L32.4%203.6%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M34.4%202.4L35.6%203.6M35.6%202.4L34.4%203.6%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M4.4%204.4L5.6%205.6M5.6%204.4L4.4%205.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M8.4%204.4L9.6%205.6M9.6%204.4L8.4%205.6%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M12.4%204.4L13.6%205.6M13.6%204.4L12.4%205.6%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M16.4%204.4L17.6%205.6M17.6%204.4L16.4%205.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M24.4%204.4L25.6%205.6M25.6%204.4L24.4%205.6%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M26.4%204.4L27.6%205.6M27.6%204.4L26.4%205.6%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M28.4%204.4L29.6%205.6M29.6%204.4L28.4%205.6%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M30.4%204.4L31.6%205.6M31.6%204.4L30.4%205.6%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M32.4%204.4L33.6%205.6M33.6%204.4L32.4%205.6%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M34.4%204.4L35.6%205.6M35.6%204.4L34.4%205.6%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M36.4%204.4L37.6%205.6M37.6%204.4L36.4%205.6%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M2.4%206.4L3.6%207.6M3.6%206.4L2.4%207.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M6.4%206.4L7.6%207.6M7.6%206.4L6.4%207.6%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M10.4%206.4L11.6%207.6M11.6%206.4L10.4%207.6%22%20stroke=%22%23c49a48%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M14.4%206.4L15.6%207.6M15.6%206.4L14.4%207.6%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M18.4%206.4L19.6%207.6M19.6%206.4L18.4%207.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M26.4%206.4L27.6%207.6M27.6%206.4L26.4%207.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M28.4%206.4L29.6%207.6M29.6%206.4L28.4%207.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M30.4%206.4L31.6%207.6M31.6%206.4L30.4%207.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M32.4%206.4L33.6%207.6M33.6%206.4L32.4%207.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M34.4%206.4L35.6%207.6M35.6%206.4L34.4%207.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M4.4%208.4L5.6%209.6M5.6%208.4L4.4%209.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M8.4%208.4L9.6%209.6M9.6%208.4L8.4%209.6%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M12.4%208.4L13.6%209.6M13.6%208.4L12.4%209.6%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M16.4%208.4L17.6%209.6M17.6%208.4L16.4%209.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M26.4%208.4L27.6%209.6M27.6%208.4L26.4%209.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M28.4%208.4L29.6%209.6M29.6%208.4L28.4%209.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M30.4%208.4L31.6%209.6M31.6%208.4L30.4%209.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M32.4%208.4L33.6%209.6M33.6%208.4L32.4%209.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M34.4%208.4L35.6%209.6M35.6%208.4L34.4%209.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M6.4%2010.4L7.6%2011.6M7.6%2010.4L6.4%2011.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M10.4%2010.4L11.6%2011.6M11.6%2010.4L10.4%2011.6%22%20stroke=%22%234f9688%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M14.4%2010.4L15.6%2011.6M15.6%2010.4L14.4%2011.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M28.4%2010.4L29.6%2011.6M29.6%2010.4L28.4%2011.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M30.4%2010.4L31.6%2011.6M31.6%2010.4L30.4%2011.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M32.4%2010.4L33.6%2011.6M33.6%2010.4L32.4%2011.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M8.4%2012.4L9.6%2013.6M9.6%2012.4L8.4%2013.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M12.4%2012.4L13.6%2013.6M13.6%2012.4L12.4%2013.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M30.4%2012.4L31.6%2013.6M31.6%2012.4L30.4%2013.6%22%20stroke=%22%23a65a33%22%20stroke-width=%220.90%22%20stroke-linecap=%22round%22/%3E%3C/svg%3E") repeat-x center;
+}
+
+/* ---- type ---------------------------------------------------------- */
+.page-header, .markdown-rendered h1 {
+  font-family: "IM Fell English", "Alegreya", Georgia, serif;
+  font-weight: 400;
+  letter-spacing: 0;
+  border: none;
+}
+.markdown-rendered h2, .markdown-rendered h3 {
+  font-family: "Alegreya SC", "Alegreya", Georgia, serif;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  border: none;
+}
+.markdown-rendered h2 { font-size: 1.55em; margin-top: 1.6em; }
+.markdown-rendered h3 { font-size: 1.25em; }
+.markdown-rendered h4 { font-family: "Alegreya", Georgia, serif; font-style: italic; font-weight: 500; font-size: 1.1em; }
+.markdown-rendered h5, .markdown-rendered h6 { font-family: "Alegreya SC", Georgia, serif; font-weight: 700; font-size: 1em; }
+.markdown-rendered h1::before, .markdown-rendered h2::before, .markdown-rendered h3::before { content: none; }
+.markdown-rendered strong { font-weight: 700; color: inherit; }
+.markdown-rendered em { color: inherit; }
+
+/* drop caps opening sections on lore pages (cssclasses: lore) */
+.lore .el-h2 + .el-p > p:first-child::first-letter,
+.lore .el-h3 + .el-p > p:first-child::first-letter {
+  font-family: "IM Fell English", Georgia, serif;
+  float: left;
+  font-size: 3.4em;
+  line-height: 0.82;
+  padding: 0.06em 0.1em 0 0;
+  color: rgb(var(--love-rgb));
+}
+
+/* ---- links: ink, not pills ------------------------------------------ */
+body .markdown-rendered a.internal-link,
+body .markdown-rendered a.external-link {
+  background: none !important;
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+  text-decoration: underline dotted 1px;
+  text-underline-offset: 0.22em;
+}
+body .markdown-rendered a.internal-link:hover,
+body .markdown-rendered a.external-link:hover { text-decoration-style: solid; }
+body .markdown-rendered a.external-link { background-image: none !important; }
+
+/* ---- glosses: sidebars and stat blocks, edged with running stitches --- */
+body .markdown-rendered .callout {
+  background: var(--bark);
+  border: none;
+  border-top: 2px dashed rgba(var(--callout-color), 0.85);
+  border-bottom: 1px solid var(--thread-rule);
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0.75em 1.1em 0.8em;
+  mix-blend-mode: normal;
+}
+body .markdown-rendered .callout-icon { display: none; }
+body .markdown-rendered .callout-title { padding: 0; gap: 0; }
+body .markdown-rendered .callout-title-inner {
+  font-family: "Alegreya SC", Georgia, serif;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: rgb(var(--callout-color));
+}
+body .markdown-rendered .callout[data-callout="note"] { --callout-color: var(--foam-rgb); }
+
+/* ---- ledger tables --------------------------------------------------- */
+body .markdown-rendered table { border-collapse: collapse; font-size: 0.95em; border: none; }
+body .markdown-rendered th {
+  font-family: "Alegreya SC", Georgia, serif;
+  font-weight: 500;
+  text-align: left;
+  background: none;
+  color: var(--text);
+  border: none;
+  border-bottom: 3px double rgba(var(--rose-rgb), 0.8);
+  padding: 0.35em 0.7em;
+}
+body .markdown-rendered td {
+  background: none;
+  border: none;
+  border-bottom: 1px solid var(--thread-rule);
+  padding: 0.3em 0.7em;
+  vertical-align: top;
+}
+body .markdown-rendered tbody tr:nth-child(even) td { background: rgba(var(--rose-rgb), 0.045); }
+
+/* ---- home page (cssclasses: home) ------------------------------------ */
+.home .page-header { display: none; }
+.home .el-h1:first-child h1 { font-size: 3.1em; line-height: 1.05; margin-bottom: 0.1em; }
+.home .el-h1:first-child + .el-p em { font-size: 1.12em; }
+
+/* side-by-side columns: > [!multi-column] with >> nested callouts */
+body .markdown-rendered .callout[data-callout="multi-column"] {
+  background: none; border: none; padding: 0; margin: 0.4em 0 1.2em;
+}
+.callout[data-callout="multi-column"] > .callout-title { display: none; }
+.callout[data-callout="multi-column"] > .callout-content { display: flex; flex-wrap: wrap; gap: 0; }
+body .markdown-rendered .callout[data-callout="multi-column"] > .callout-content > .callout {
+  flex: 1 1 150px;
+  min-width: 0;
+  margin: 0;
+  background: none;
+  border: none;
+  border-left: 2px dashed var(--thread-rule);
+  padding: 0.2em 0.9em 0.4em 1.1em;
+}
+body .markdown-rendered .callout[data-callout="multi-column"] > .callout-content > .callout:first-child { border-left: none; padding-left: 0; }
+body .markdown-rendered .callout[data-callout="multi-column"] .callout-title-inner {
+  font-family: "IM Fell English", Georgia, serif;
+  font-weight: 400;
+  font-size: 1.45em;
+  letter-spacing: 0;
+}
+.callout[data-callout="multi-column"] .callout-content ul { padding-left: 1.1em; margin: 0.3em 0 0; }
+.callout[data-callout="world"] { --callout-color: var(--pine-rgb); }
+.callout[data-callout="gods"]  { --callout-color: var(--foam-rgb); }
+.callout[data-callout="rules"] { --callout-color: var(--love-rgb); }
+body .markdown-rendered .callout[data-callout="archive"] { --callout-color: var(--rose-rgb); }
+
+@media (max-width: 640px) {
+  body .markdown-rendered .callout[data-callout="multi-column"] > .callout-content > .callout {
+    flex-basis: 100%; border-left: none; padding-left: 0; border-top: 2px dashed var(--thread-rule); padding-top: 0.8em;
+  }
+  body .markdown-rendered .callout[data-callout="multi-column"] > .callout-content > .callout:first-child { border-top: none; }
+  .home .el-h1:first-child h1 { font-size: 2.3em; }
+}
+
+/* ---- fixes over the base theme -------------------------------------- */
+body:not(.x-a):not(.x-b) { --table-header-color: var(--text); }
+body:not(.x-a) .markdown-preview-view.markdown-rendered,
+body:not(.x-a) .markdown-preview-view.markdown-rendered p,
+body:not(.x-a) .markdown-preview-view.markdown-rendered td { text-align: left; hyphens: manual; }
+body .markdown-rendered thead tr > th { color: var(--text); }
+/* stat lines (Casting Time:, Range:, Hit Dice: ...) sit close together */
+body .markdown-rendered .el-p:has(> p > strong:first-child) > p { margin-block: 0.12em; }
+/* lore pages that open straight into prose also get a drop cap */
+.lore .markdown-preview-sizer > .el-p:first-child > p:first-child::first-letter,
+.lore .mod-header + .el-p > p:first-child::first-letter,
+.lore .markdown-preview-pusher + .el-p > p:first-child::first-letter {
+  font-family: "IM Fell English", Georgia, serif;
+  float: left;
+  font-size: 3.4em;
+  line-height: 0.82;
+  padding: 0.06em 0.1em 0 0;
+  color: rgb(var(--love-rgb));
+}

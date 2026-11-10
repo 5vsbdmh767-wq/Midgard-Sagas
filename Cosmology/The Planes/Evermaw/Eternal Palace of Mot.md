@@ -1,0 +1,4 @@
+---
+publish: true
+---
+The Eternal Palace is a maze within a tomb, boxed into a labyrinth, and hidden under miles of bone and dust. The entrance is a rather plain cavern set into a spur of obsidian and guarded by two enormous, hulking, rune-carved [[Gnolls]]. Within, the interior is richly decorated but haunted by shadows, necrotic fire, and the smell of dust and decay. Within the Hall of Hunger, undead courtiers move in a dark parody of courtly life while grim jesters provide grisly entertainment. Guarded by the power of the god himself, [[Mot]]’s Treasury contains the wealth of the undead of [[Evermaw]], past, present, and future.

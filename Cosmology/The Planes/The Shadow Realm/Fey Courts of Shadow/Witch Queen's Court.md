@@ -1,0 +1,12 @@
+---
+publish: true
+---
+| Ruler | Important Personages | Population | Great Gods | Trade Goods |
+| --- | --- | --- | --- | --- |
+| Nicnevin, Queen of Witches, Lady of the Dolorous Mountain, Mistress of the Moonsilver Ring, Keeper of the Cauldron, patron of hags, witches, and hedge wizards | Clagrieda Ironborn, Cauldron Maker and Master Smith; Utarna Terrosi, First of the Night Hags; Jingalla Portana, Potion Mistress | 2,100 (600 umbral humans, 500 shadow fey, 400 shadow goblins, 250 dwarves, 100 alseid, 100 ravenfolk, 100 quicksteps, 50 hags) | [[Hecate]] (patron), [[Bastet\|Ailuros]], [[Alquam]], [[Baccholon]], [[Kupkoresh]] | Copper, herbs, fine woven cloth, wool, crystals, iron, dyes |
+
+The Court of Nicnevin, usually called the Witch Queen's Court, stands high on a windswept mountain and has a somewhat dangerous reputation. The court itself lies in a sheltered valley in the foothills, while Nicnevin's own home is somewhere under the mountain, where she spends the nights of the full moon. Its halls hold not only beautiful spiral-pillared dancing chambers and hearths of steaming herbal cauldrons but working mines, smelters, chimneys, and forges for copper, silver, and iron. Her followers include surprisingly many umbral humans and bearfolk as well as fey.
+
+The court is built for mountain storms and snow, with enormous timbers holding up slate roofs and reaching deep into the mountain. Some halls look like the stave halls of the mortal [[Northlands]], others like onion-domed eastern halls or the simple turf huts of the plains. In every great hall a cauldron boils, usually stew, sometimes magic, potions, or the distilling of souls and essences, tended in turns by pairs of elderly women, human or alseid, who serve whatever the hags or shadow fey decide each cauldron should make next.
+
+Nicnevin depends on umbral humans and dwarves far more than most fey rulers, and she welcomes hags, alseid, and many others to her mountain eyrie, and they repay her with great loyalty and works of magic. The Dolorous Mountain is one of the few working iron mines in the region, and cold iron weapons and armor give the court an important edge over other courts; her followers' iron arrows fetch good prices among assassins in [[Corremel]] and duelists in [[Dalliance]]. It is a practical court: dwarves and umbral humans dig crystals, ore, and stone from the mountain, ravenfolk, alseid, and shadow goblins gather herbs and roots from the river valleys, and her casters enchant potions, charms, and trinkets for her followers.

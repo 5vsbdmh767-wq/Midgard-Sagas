@@ -1,0 +1,14 @@
+---
+publish: true
+---
+| Ruler | Important Personages | Population | Great Gods | Trade Goods |
+| --- | --- | --- | --- | --- |
+| King Frulio Cornutus, Duke of Roses, Count of Spiders, Lord of Illusions, Lord Mayor of Lurgestown, Baron of the Void Immaculate | Olmed Carroso, Alchemist-in-Chief; Igo Natterbutt, Chancellor of the Royal College Alchemical; General Flavestor Murena; Vares the Silent, High Priest; Aiyesh bin Teleros, Keeper of Roses; Lady Vindesol; Ellec Ish-Vardes, Mistress of the Cloisters | 2,450 (1,300 wyrd gnomes, 600 umbral humans, 300 shadow fey, 100 quicksteps, 50 tieflings, 50 bearfolk, 50 satarre) | [[Hecate]] (patron), [[Bastet\|Ailuros]], [[Baccholon\|Baccho]], [[Charun]], Laughing [[Loki]] | Flowers, weavings, ale, glasswork, ceramics |
+
+Home to a great community of wyrd gnomes, the Court of Pale Roses is young by fey standards, steeped in magic, and unusually open to civil dealings among shadow fey, wyrd gnomes, and umbral humans. With a tolerant ruler and open doors, it is home to many, and visited now and then by tiefling arcanists, quickstep duelists, and even bearfolk druids, who share the secrets of their groves with this court and no other. Its ruler, King Frulio Cornutus, is a young and vigorous shadow fey obsessed with arcane workings and enchantments, which brings him many followers, and some who only pretend to arcane knowledge while they look for weaknesses at court. The Flower Road runs from here to [[Gardens of Carnessa|Carnessa]] in the mortal world.
+
+Illusion seeds grow in great profusion in the court's namesake gardens, watered with chill, half-frozen water drawn from the Somering Well, a planar spring of great fertility that runs through a root of [[Yggdrasil]] somewhere beneath the court; only the shadow fey and a few trusted gnomes know where. The gardens are warded by magic and watched by the king's sworn guards, the Rose Guard.
+
+The young king is courting the puckish Lady Vindesol of the Linden Tree, an elf maid of the [[Silendora|Summer Lands]] with a love of birds and fine embroidery. He is also a frequent visitor to the halls of the cat goddess [[Bastet|Ailuros]], has commissioned prayers, scents, and holidays in her honor, and is said to be her favorite king among the fey. He loves great festivals with shows of strength, arranged by General Murena, a wyrd gnome with an eye for a good warrior, and he lavishes praise on his alchemists and gardeners. He founded the Royal College Alchemical for the study of natural philosophy, especially botany, enchantment, philters, and potions.
+
+Every so often the court is swept up in a new fashion: clothes, a particular cantrip, a fashionable memory philter. Just now it's the cult of the Void, preached by the satarre priestess Ellec Ish-Vardes, and it is considered elegant at least to pretend to understand what these doom-ridden creatures go on about. Most sable elves find it more amusing than revelatory.

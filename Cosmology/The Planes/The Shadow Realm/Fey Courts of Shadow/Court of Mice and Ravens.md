@@ -1,0 +1,14 @@
+---
+publish: true
+---
+| Ruler | Important Personages | Population | Great Gods | Trade Goods |
+| --- | --- | --- | --- | --- |
+| His Jocund Majesty King Reynard, the Fox Lord, First Keeper of Ravens, Master of the Roads, Lord of the Blue Pine Forest, and High Prelate of Laughing Loki | Grumfell Skarsgaar, Chief Scout and Master of War; Illahellan Silverbells, Court Jester; Darresh kip-Bristletooth, Swift Flying Lord of Branches; Tii-kaw Tokkaw, Haberdasher Royal; Winsy Cooperson, Master of Protocol; Unwina the Cook, Most Watchful Guardian of the Gate; Marossa Carashtella Fimbulfinger, High Prelate of [[Santerr Marossa]] | 8,000 (3,000 shadow goblins, 2,000 sable elves, 800 wyrd gnomes, 600 erina, 500 courtfolk halflings, 400 ravenfolk, 400 ratfolk, 150 bearfolk, 100 alseid, 50 ratatosk) | Laughing [[Loki]] (patron), [[Baccholon\|Baccho]], [[Charun]], Santerr Marossa, [[Sarastra]] | Furs, dried meat, maple wood, dyed leathers, hats, ironwork, musical instruments |
+
+Ruled, or at least sponsored, by the fey lord Reynard, the Court of Mice and Ravens is a blend of trickery, clever plots, and alchemy, with impulsive magic and a bent toward the mystical and the funny. It looks like chaos, but the erina at the bridge gates keep most threats off the island city, and the Haberdasher Royal always seems uncannily well informed, through divination or through his network of ratfolk and other furred and feathered spies. The court has a shadow road to the court of the Mouse King.
+
+Rogues and bards adore Reynard, and the fey often call this the Rogue's Court. Its people are wildly varied: courtiers, officious minions, seal-toting officials, and a great many fraudsters, charlatans, jongleurs, fire-eaters, runaway apprentices, and disinherited noble children. Everyone has a story, and most are looking for just a little help to get back their rightful title, shape, inheritance, or land. Besides a small, lively ratfolk quarter jokingly called the Pantry, sable elf rogues, human bards, courtfolk halflings, fey owls, bearfolk, alseid, and erina are all common.
+
+The court does a thriving trade in lost goods and somewhat shady potions. Outrageous philters of lust and enchanted fortune are easy to find, and so is the addictive requiem. The wyrd gnomes grow a few rose golems, and gnomish pranks with exploding frogs, glow-painted bats, magical balloons, and fireworks are frequent. Things stolen anywhere in the [[The Shadow Realm|Shadow Realm]] sometimes turn up here, or at least the master of protocol or the sharp-eyed master of the gate may have noticed them passing through by boat or bridge.
+
+The court is built on a chain of islands in a river, with deep woods on one side. Its gardens are lush, and small boats and barges link the noble houses on the islands: some with bright towers, some with busy docks, and a few silent and a little ominous, with tree-lined shores, few lights, and a bad reputation.

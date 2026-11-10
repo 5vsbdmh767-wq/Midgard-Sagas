@@ -1,0 +1,6 @@
+---
+publish: true
+---
+As best as anyone can determine, the shadow fey were once elves and goblins who swore undying and eternal fealty to [[Sarastra]], the goddess of night and magic, and were embraced by her heralds and ambassadors of the [[The Shadow Realm|Shadow Realm]]. This arrangement granted them great power over shadow and a twilight kingdom in the Shadow Realm, though at a cost of abandoning their homes and loved ones and turning to the night sky and the stars as their guiding lights. The shadow fey despise sunlight and bear great affection for things of darkness and shadow.
+
+Shadow fey are courtly, swift, and powerful spellcasters, with special talents as enchanters, illusionists, and weavers of shadowstuff. They are prone to corruption and melancholy, though they hold feasts and revels in the old style, as the Midgard elves did when their kingdoms were still whole. The shadow fey have a great love of hunting, trickery, and duels, and they retain powerful hounds, horses, and hunting owls to assist them in finding and destroying the enemies of their eternal king and queen, and expanding the power of the Shadow Realm.

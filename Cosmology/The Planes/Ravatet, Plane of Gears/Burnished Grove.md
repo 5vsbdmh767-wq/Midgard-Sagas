@@ -1,0 +1,4 @@
+---
+publish: true
+---
+At the center of a field of brass, far from the nearest settlement, sprawls a copse of trees. This is no organic anomaly. This is the Burnished Grove, and every tree, beast, shrub, leaf, insect, and blossom of this ten-thousand acre forest is made from exquisitely crafted metal and clockwork. Guarded by powerful constructs and fanatical druids, the grove is somehow connected to the ticking clock of fate and time. A [[Yggdrasil|world tree]] called Mainspring at the center of the wood produces the fabled nimalli fruit, which can repair constructs or produce oracular visions in organics.

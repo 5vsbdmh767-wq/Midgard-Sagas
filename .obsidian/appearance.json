@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Underwater",
+  "theme": "obsidian",
+  "baseFontSize": 20,
+  "interfaceFontFamily": "Arial Black",
+  "accentColor": "#5cf5f2",
+  "enabledCssSnippets": [
+    "player-wiki-layout"
+  ]
+}

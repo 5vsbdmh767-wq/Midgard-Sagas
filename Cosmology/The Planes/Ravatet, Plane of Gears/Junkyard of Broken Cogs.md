@@ -1,0 +1,4 @@
+---
+publish: true
+---
+A massive landscape of metal, broken machines, and shattered devices, the Junkyard of Broken Cogs is a dumping ground for the refuse of countless planes. Scrap and treasures in equal measure fall from portals to form mountains and valleys. Most broken machines and devices from across the multiverse eventually find their way to the yard, many falling from randomly open portals. Living creatures who arrive in this manner emerge infected by the calcesplasia variation of rust disease. The yard is ruled by the Takasundur (or “Dismantlers”), a clan of rogues, tinkerers, artificers, and mages who turn rubble into clockwork creatures, half-formed golems, and other oddities. Recently, Vaerdalaga, an adult wasteland dragon seized one quarter of the junkyard as her personal hoard and resists every Dismantler effort to remove her. 

@@ -1,0 +1,4 @@
+---
+publish: true
+---
+This club is a favorite of [[Mhalmet]]’s idle rich. Here, they can trade their coin for delights of all kinds. Extravagant while maintaining an air of studied elegance, the Salon of Mysteries offers games of chance, fine dining, and exquisite companionship. The owner, Wazen Al-Shamuri, prides himself on being an honorable businessman who ensures that the games of chance are fair. Recently, a bigger, gaudier establishment called the Lounge of a Thousand Whispers opened nearby. This new business is playing dirty, bribing bureaucrats to close Wazen’s doors without warning, hiring thugs to hassle Salon customers, and generally trying to drive Wazen out of business. Wazen is attempting to minimize the loss of patrons by emphasizing customer loyalty and reminding his guests of his sterling reputation, but his establishment has still suffered a worrying drop-off in income.

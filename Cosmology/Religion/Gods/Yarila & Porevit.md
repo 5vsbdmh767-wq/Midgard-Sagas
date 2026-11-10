@@ -1,0 +1,43 @@
+---
+aliases: [Yarila, Porevit, Freyr and Freyja]
+publish: true
+---
+*The Green Gods,* *the Fair Gods
+Father Forest and Mother Field,* 
+*the [[Keepers of the Keys|Keepers]] of Sowing and Harvest,*
+*Gods of Fertility, Forests, and Wine*
+
+**Divine Domains:** Life, Nature, Tempest 
+**Domains:** Earth, Healing, Plant, Water, Weather Subdomains: Caves, Decay, Growth, Metal, Resurrection, Seasons 
+**Alignment:** Chaotic Good 
+
+Among the most complicated of gods and goddesses is Porevit, the forest god of harvest, wine, and greenery, who is also the goddess Yarila during the spring planting and even sometimes invoked as the goddess [[Kostroma]] the earth mother, slain in the [[Aesir/Vanir War]] long ago. The mystery of how one god carries so many forms, names, and genders is best left to the druids and field priests, who prepare the sacrifices to Yarila and Porevit. Most followers think of them as two divine masks that are publicly known rather than hidden. As deities both wild and tame, both growing and harvested, all living things belong to the Green Gods, especially all plants, trees, and crops but also springs, metal tools, and the turning of the seasons. Porevit is a tall man with green hair and a simple covering of leaves, depicted with a spear or grapes in hand, sometimes with a handful of knives. Yarila appears as a blond or white-haired elf maiden holding flowers and with one hand casting seeds or holding a planting stick; her feet are always bare. When to call on Yarila and when to call on Porevit is a mystery known only the Green Gods’ priests, as well as the peasants who rely on their blessings. 
+
+*Worshippers* 
+[[Elves]], the elfmarked, [[bearfolk]], peasants, farmers, hunters, vintners, and even woodcutters are all followers of Yarila and Porevit, seeking their blessings for crops and for forests. The faith flourishes from the Grand Duchy of [[Grand Duchy of Dornig|Dornig]] to [[Krakovar]], as well as in [[Zobeck]], the [[Northlands]], and the [[Magdar Kingdom]]. 
+
+*Symbols and Books* 
+Yarila and Porevit have few sacred books; the primary one is the Coming of the Green Gods. It alternates druidic wisdom with strange revelations and proscriptions against the eating of certain animals at certain times. Most find it indecipherable. The rites of Yarila and Porevit involve food, wine, or green wood burnt to smoke, and extend for a full day. Summer and winter solstices are especially sacred times, with symbolic human sacrifices buried in the fields at midsummer and figures made of straw set ablaze to bring back the sun at midwinter. 
+
+*Shrines and Priests*
+Followers build shrines to Yarila and Porevit at the edge of fields or in shallow caverns, especially those containing springs or rivers. The largest stone temple of the faith is the Twinned Cathedral in Reywald in the Grand Duchy. The greatest priest of Yarila and Porevit is the Saintmistress Rowanmantle, the Abbess of the Twinned Cathedral and confidant of the Imperatrix. The faith of Yarila and Porevit is especially strong along the border of the [[Arbonesse]]; within the elven forest, the faith takes an entirely elven turn, with stranger rites and greater magic. The current high priest of Yarila and Porevit in [[Perunalia]] is Ogolai Kiyat, an elderly centaur who wandered in from the [[Rothenian Plain]] one winter, first to Zobeck, then to Sephaya, always happy to share a meal or perform a benediction. His profound wisdom and his unusual race seems to confirm the dual nature of his god to the pious followers he guides in worship. 
+
+*Masks* 
+Yarila and Porevit are widely believed to be masks of Freyr and Freyja, [[Nun and Naunet]] in the South, and possibly for [[Baccholon|Baccho]], the god of wine. More complex is their relationship to an elemental deity called the [[Green God]], a silent two-faced figure whom elves revered through offerings of flowers and honey in summer, and blood and hair in winter. The elven records on the Green God are contradictory; he might have been Yarila and Porevit’s father. Other traditions indicate that the god was a dual divinity, but over time the two halves became separate figures now called Yarila and Porevit. The nature, existence, and meaning of this divine parthogenesis was a thorny one in elven theology, bound up with high elven ritual magic. 
+
+*Other Faiths* 
+Yarila and Porevit are on good terms with the Northern gods and with the gods of the [[The Crossroads|Crossroads]], and eternal enemies of the Southern gods and the Dragon gods. They sustain a special loathing of [[Marena]], the blood goddess of [[Blood Kingdom|Morgau]], and oppose her at every turn. 
+
+*What Yarila and Porevit Demand* 
+More than respect for the wild and growing things, the green gods’ mysteries demand that one frequently abstain from meat, plant as often as reap, and be fruitful, drunken, and generous on high holy days. Worshippers must provide alms if asked. Male followers of Porevit must participate in the harvest, while Yarila’s female followers must participate in the spring planting. Never fail to celebrate the solstice, and never refuse food and drink to a guest.
+
+*In the North*
+In the [[Northlands]], Freyr and Freyja are the Twins of Passion, Lord and Lady of the Vanir, and Flames of Witchcraft. Freyr is God of Nature and the Living World and Patron of Farmers, with the sickle as his favored weapon. Freyja is Goddess of Beauty, Fertility, and Magic and Patron of [[Shield-Maidens of Sif|Shield-Maidens]], and her favored weapon is the longsword. See [[Gods of the North]].
+
+The twins were once hostages of the Vanir and now live among the Aesir as equals. They taught the gods witchcraft and druidic lore and together sponsored [[Njord]] for divinity. Freyr brings peace and the harvest, protects farmers, and opposes the fire giants. Freyja is a skilled witch tied to beauty, fertility, gold, magic, and war, and as patron of shield-maidens she is gathering fallen warriors to her hall of Sessrumnir, an army the Vanir will lead beside the Aesir at Ragnarok. Freyr is shown as a beautiful golden-haired man crowned with antlers or wheat, often riding the shining metal boar Gullinbursti. Freyja is a radiant golden-haired woman in a falcon-feather cloak and the fabled *Necklace of the Brisings*, often in a chariot drawn by huge magical cats.
+
+Farmers, hunters, shepherds, druids, and witches follow Freyr, cherishing the land's bounty and refusing to despoil nature, and it is common to spill a drop of mead for him before a meal. Freyja's followers are bards, lovers, seers, wizards, and shield-maidens. She teaches that beauty lives in all things, the wild, magic, and even the battlefield, and her worshipers train for war every day, many wearing a small gold pin or bead. A dark sect of her faithful, the Kosslock or "Final Kiss," believes that finishing off wounded foes with a poisoned blade honors her.
+
+Freyr's symbols are antlers tied with sheaves of wheat, a cup of wine or mead, and golden boars; Freyja's are a golden falcon feather, falcons, and cats. The *Jera* rune belongs to both. Freyr's holy text is the *Coming of the Green Gods*; Freyja's is the *Wisdom of the Vanir*, a grimoire of charms, curses, omens, and divination rites. The largest stone temple to the twins is the Temple of the Hive and Flower in Bjeornheim, in [[Björnrike]], with bearfolk and human priests. Feather Rise Hall, a cliff-top shrine in [[Thrumagard]] where Freyja's falcons roost, is said to be where she grants the most faithful the power to fly. Freyr's priests travel village to village or settle in one community, while Freyja's wander as seers, healers, and shield-maidens.
+
+Freyr and Freyja are gods of the old elven religion, which has adapted better than most to the new ways. They are wildly popular in the Northlands, the [[Grand Duchy of Dornig]], and the [[Arbonesse]], among elves, the elfmarked, farmers, and hunters. Freyja is so beautiful she weeps golden tears. Yarila and Porevit are thought the elven faces of the twins, and Freyr and Freyja the more human ones. In the South they are Nun and Naunet, and among the centaurs the Twins of Wine. They fiercely oppose [[Boreas (North Wind)|Boreas]], the [[White Goddess]], and [[Loki]], ally with the [[Black Goat|Goat of the Woods]], [[Nethus]], and [[Ninkash]], and are rivals of [[Sarastra]], competitive rather than hostile. They demand that their worshipers revere the old ways and respect the power of nature and the fey and elementals bound to it, distrust or destroy new things, offer nature's bounty and drunken revelry, and lay curses on those who scorn the old ways.

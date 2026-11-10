@@ -1,0 +1,4 @@
+---
+publish: true
+---
+At the heart of the plane is a yawning pit known simply as the Maw—and around it, the city of Vulture’s Beyond. Built on the edge of the funneling sinkhole, the streets are home to undead, planar beings, sinful souls, and cannibalistic mortals. Slavers such as the denizens of [[Leng]], the [[Arachni]], and the like feed the city a near constant flow of living creatures. This is a city of butchers and tanners, of scrimshaw, rendered fat, and polished bones. Meat is both a commodity and a currency with flesh exchanged for goods and services in time of need with replacement parts purchased when available, regardless of aesthetics. The largest building in Vulture’s Beyond is the Great Temple to [[Vardesain]], patron of the city, where the undead cult, the Teeth of Gula and Abnegation, alternates between denying their hunger and gluttonous feasting—all in praise of the Hunger God

@@ -1,0 +1,12 @@
+---
+publish: true
+---
+| Ruler | Important Personages | Population | Great Gods | Trade Goods |
+| --- | --- | --- | --- | --- |
+| Oshlan the Chef, Lord of Misrule | Phildra VII, Keeper of Cards; Naldos Even Handed, Keeper of the Dice; Sister Fox | 3,800 (1,300 umbral humans, 800 shadow fey, 600 shadow goblins, 600 halflings, 500 wyrd gnomes) | Laughing [[Loki]] (patron), [[Bastet\|Ailuros]], [[Charun]], [[Hecate]], [[Santerr Illosi]] | Carved bone dice, books and cards, inks, hides, gold ingots, herbs and potions, woolen and linen cloth, leather goods |
+
+A minor court popular with young fey gentlemen, loosely sworn to the [[Court of Winter's Love]], Langmire's Court is full of gamblers, secret lovers, and idle wastrels. Dozens of small outbuildings surround three great halls, and gnomes, halflings, and shadow goblins bustle about as cooks, maids, and house servants, and walk off with most of the profits at the end of the day.
+
+By night, Long Hall can look like a bacchanal; by day it is a bright, smelly place with flaking black paint, where a crew of hardworking halflings clears away the mess and prepares the next extravagant display of flowers, stage scenery, or the like. Gambling starts at moonrise and runs into the morning, with vast sums, magic, and even land and whole mansions wagered. The Lord of Misrule, Oshlan the Chef, a halfling, plans the entertainments, hires singers, brings in flocks of trained birds, and makes Long Hall a wonderland for the rich and foolish to spend their coin. Rumor says he owns the estates of several young shadow fey nobles and holds the keys to mansions in [[Corremel]], [[Merrymead]], and [[Fandeval]].
+
+Loki's Golden Hall may be the largest shrine to Laughing [[Loki]] anywhere, a somewhat garish wooden temple of gilded pillars and silver nets with a statue of the god in a pose of mirth that changes from time to time, by minor miracle or because the priests have five or more statues to swap around. Its priests, in green and gold cloaks, are entertainers and gossips as often as they are ministers to those who have lost everything, and they are often asked to bless dice or pray with those wagering enormous sums in Loki's name. Servant's Hall is home to the gnomes, halflings, and shadow goblins who truly keep Langmire running, with family life, weaving, cooking, and schooling for the court's young. Visitors are rarely let in; two gargoyles at the door stop anyone taller than a shadow goblin.

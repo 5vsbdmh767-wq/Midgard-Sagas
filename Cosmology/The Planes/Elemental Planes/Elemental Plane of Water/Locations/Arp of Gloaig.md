@@ -1,0 +1,4 @@
+---
+publish: true
+---
+This triptych of crystalline vortices is encased at the center of [[Bittereye]] at the ever-moving heart of the plane. The speed and direction in which the Arp rotates changes occasionally for reasons no scholar has yet been able to fathom, though it undeniably generates more light the faster it spins. The blue light it produces radiates outward through [[Bittereye]] and extends through most of the [[Aquan Totality]], dimming the farther it travels before fading entirely near the Stygian Veil.It is generally thought that the Arp of Gloaig is encased in solid ice since the rotation of [[Bittereye]] matches its movement. This belief is not true though, for the Arp actually spins in a nutrient-rich, high-viscosity, supercooled liquid. Living organisms that survive exposure to the liquid undergo rapid, beneficial mutation.
