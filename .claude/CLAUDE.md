@@ -35,6 +35,7 @@ This repo is Bryant's Obsidian vault for the player wiki *Midgard Sagas* (Obsidi
 - `sh .wiki-tools/check.sh`: watermark scan, missing links, bad anchors, unescaped table pipes. Run after every batch. Bad anchors and the watermark count must be 0.
 - `python3 -I .wiki-tools/autolink.py <copy-of-vault>`: links the first plain mention of each page name. Always run on a copy, read `.wiki-tools/linklog.json`, copy changed files back, then fix bad links by hand. The never-link list is `NOLINK` near the top of the script.
 - `linknames.json`: the name list autolink uses.
+- `pre-commit-hook`: the watermark guard. In a fresh clone, install it first: `cp .wiki-tools/pre-commit-hook .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit`.
 
 ## Workflow
 
