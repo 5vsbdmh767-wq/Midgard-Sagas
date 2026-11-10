@@ -9,6 +9,7 @@ publish: true
 
 ## Shopping and Business
 - [[Shopping & Markets]]: the Shopping downtime activity, and how markets, auctions, the black market, fairs, and festivals work
+- [[Creating a Business]]: choosing a location, a trade, inventory, a name, and security for a business of your own
 - [[Running a Business]]: investing, securing supply, hiring staff, and the Running a Business downtime activity
 
 

@@ -4,7 +4,7 @@ publish: true
 ---
 *Optional, from Trade Secrets.*
 
-PCs with a more entrepreneurial nature might wish to start a business of their own, buying and selling whatever goods they feel are likely to make them the most profit. How and where they try this has an impact on not just their startup costs, but also on their ongoing operating costs, and ultimately, their profits.
+PCs with a more entrepreneurial nature might wish to start a business of their own, buying and selling whatever goods they feel are likely to make them the most profit. How and where they try this has an impact on not just their startup costs, but also on their ongoing operating costs, and ultimately, their profits. For choosing a location, trade, and inventory, see [[Creating a Business]].
 
 ## Ways to Build
 

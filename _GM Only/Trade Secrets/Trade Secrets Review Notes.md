@@ -29,3 +29,28 @@ Edits to the book's text:
 Open items:
 - Two places on Running a Business point to "Structures in Chapter 4". That section comes with the gear batch; the pointers get linked then.
 - The Shopping activity mentions the Random Magic Item tables in the *Game Master's Guide*. Left as written.
+
+### Batch A2: Chapter 2, Creating a Business
+
+New pages:
+- `Rules/Trade Secrets/Creating a Business` (player): the five steps, choosing a location, choosing a trade (every industry with its capital, labor, supplies, goods, proficiencies, and risks), acquiring inventory for a player-owned business, the inventory ledger, naming a business with the random name tables, and security (nonmagical measures and useful spells).
+- `_GM Only/Trade Secrets/Creating a Business (GM)`: NPC businesses, the stock check table and other ways to decide what is in stock, magic items for sale, the six sample inventories, making a merchant, the four example merchants, all eleven merchant generation tables, store interior and shop quirk tables, and the five ready-to-use shops.
+
+Changes to existing pages:
+- `Rules/Trade Secrets/Trade Secrets`: added the Creating a Business line.
+- `Rules/Trade Secrets/Running a Business`: one sentence at the end of the opening paragraph pointing to Creating a Business. **Mine.**
+- `Creating a Business` opening paragraph ends with one sentence pointing to Running a Business. **Mine.**
+
+Edits to the book's text:
+- Fixed plain typos: "Workship", "SalePrice", "available for buy", "an accessible spells", "Joyfer's drives", "in in", "No se of magic", "Arcan Emporium", a stray bold on "Labor" in three trade entries.
+- Merchant Names: the book prints 1 to 50 and 51 to 100 side by side. It is one table here. Merchant Lineage and Merchant Attitude are also unfolded into single tables. Same values.
+- Three staff names that wrapped onto a second line in the book's sample tables (Cindra Longhair, Bumbottle Brown, Thadius the Brave) are rejoined.
+- Sample tables sit under their own headings with their descriptions; the book scatters them across the page.
+- Page references ("see page 54") are removed.
+- On the player page, the Labor section drops one sentence that pointed to the GM-only merchant tables.
+
+Printed as the book has it, though they look like errors in the book:
+- Shop Name Formula is labeled d6 but has four entries.
+- Interior Style (GM page) is a d10 table with rows 1, 2-3, 5, 6, 7-8, 9, 10. There is no 4.
+
+Spells named under Useful Security Spells link to their entries where the wiki has one. *Antipathy* links to the wiki's Antipathy/Sympathy entry. The Forbiddance entry never names the spell in its text, so a linked name in brackets is added there (**Mine**). *Private sanctuary* has no entry on the wiki, so it is unlinked.
