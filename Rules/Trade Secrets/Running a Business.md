@@ -28,10 +28,10 @@ It’s also possible that a business loses money. In that case, the PCs have to 
 
 ### From the Ground Up
 
-If the PCs want more challenge, they can build their business up from nothing more than a patch of land and some money. **Structures** in **Chapter 4** has more information on how to build a physical storefront, where it can be built, what it costs, and how it can be modified to improve the profits (or cut a few corners).
+If the PCs want more challenge, they can build their business up from nothing more than a patch of land and some money. [[Setting Up Shop]] has more information on how to build a physical storefront, where it can be built, what it costs, and how it can be modified to improve the profits (or cut a few corners).
 
 > [!note] Maximum Stake
-> Your shop’s Stake mostly represents physical inventory, so your total Stake is limited by the size of your place of business. See **Structures** in **Chapter 4** for more information.
+> Your shop’s Stake mostly represents physical inventory, so your total Stake is limited by the size of your place of business. See [[Setting Up Shop]] for more information.
 
 ## Securing Supply
 
@@ -168,7 +168,7 @@ Alternately, a hireling with an identical or complementary proficiency can step 
 
 For most hirelings, find an appropriate stat block in the NPC sections of *Monster Vault* or a similar source. Add the value in the Ability Check Bonus column to rolls when the hireling is doing something job-related for you.
 
-Hirelings on staff have an effect on your Stake, but note that unlike the physical elements of your shop (see **Structures**), this effect only applies on those days when you pay the hireling. For example, if you pay a farmer hireling for a day’s work, your Stake for that day increases by 3%. If you pay a clerk for a day’s work, your Stake at the end of the day increases by 1%.
+Hirelings on staff have an effect on your Stake, but note that unlike the physical elements of your shop (see [[Setting Up Shop]]), this effect only applies on those days when you pay the hireling. For example, if you pay a farmer hireling for a day’s work, your Stake for that day increases by 3%. If you pay a clerk for a day’s work, your Stake at the end of the day increases by 1%.
 
 #### Hireling Descriptions
 
@@ -340,7 +340,7 @@ The check determines how much money the PC earned that day, as shown on the **Co
 | 21–25 | You earn 20% of your Stake for the day |
 | 26+ | You earn 30% of your Stake for the day + bonus percentage equal to your PB × 3 |
 
-Note that if you are using the **Structures** rules in **Chapter 4**, the choices you make there modify this roll, the percentages listed in the resolutions, or both.
+Note that if you are using the [[Setting Up Shop]] rules, the choices you make there modify this roll, the percentages listed in the resolutions, or both.
 
 ---
 *Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*

@@ -78,3 +78,42 @@ Edits to the book's text:
 - Page references removed.
 
 Kept as written: the Syreena example's numbers, and "Malchonite" with its pointer to the *Labyrinth Worldbook*.
+
+### Batch B: Chapter 4, Equipment Expanded
+
+Placement follows the wiki's existing pattern for optional books (Player's Guide 2 and the Northlands Worldbook): new gear is added as a "More … (Trade Secrets)" section at the end of each core equipment page.
+
+Changes to existing pages:
+- `Rules/Equipment/Adventuring Gear`: new section "More Adventuring Gear (Trade Secrets)": provisions, alchemical items, herbal concoctions, mechanical devices (with the Timer Duration sidebar), and fourteen equipment packs.
+- `Rules/Equipment/Tools`: new section "More Tool Uses (Trade Secrets)": Big Projects, and New Tool Challenges for every tool set (new goods with prices, and new example tasks with DCs).
+- `Rules/Equipment/Weapons`: new section "More Weapons (Trade Secrets)": weapon descriptions, table, three new weapon options (Brand, Distract, Grappling), the Shoddy material, and the Disguised, Hot, and Secure properties.
+- `Rules/Equipment/Armor`: new section "More Armor (Trade Secrets)": nine armors and shields, the Decorative material, and six armor properties.
+- Each of those four pages gets the Trade Secrets credit line at the bottom.
+- `Rules/Trade Secrets/Running a Business`: the four pointers to "Structures in Chapter 4" now link to Setting Up Shop.
+- `Rules/Trade Secrets/Trade Secrets`: Setting Up Shop line, and a new Gear section.
+
+New pages:
+- `Rules/Trade Secrets/Setting Up Shop` (player): the book's Structures section: financing, shop components, location, other considerations, mobile shops, permanent shops, workshops, factories, and farms, and renting. The opening sentence is reworded to introduce the page (**Mine**).
+- `_GM Only/Trade Secrets/Equipment Expanded (GM)`: Tool Limitations, Creating Tools, and Homebrew Tool Proficiencies (advice for the GM on adjusting and inventing tool sets).
+
+Skipped as duplicates (Bryant: skip obvious duplicates):
+- Hook swords and rope dart: already on the wiki from Book of Blades, with different stats.
+- Garrote: already on the wiki from Book of Blades as gear, with its own rules.
+- Net: already in the core Adventuring Gear.
+- The Linked and Strangling properties, used only by hook swords and the garrote.
+
+Edits to the book's text:
+- Crafting tables: the book prints cost and weight in one table and crafting time and DC in a second one beside it. They are one table here, headed Crafting Time and Crafting DC (**Mine**). Same values.
+- Shop Components: the book prints the Effect column apart from its table. Rejoined and checked against the page images.
+- Investor Funding, Guild Funding, and Management Difficulty tables were side by side pairs of columns; unfolded into single tables. All three skip 100 gp (51−99, then 101−200). Changed to 100−200 (**Mine**).
+- Weapons and Armor tables rebuilt by hand from the page images: "Marital" (Martial), "piecing" (piercing), "Cat o nine tails" (Cat o’ nine tails), "4 gp." and "14 _ DEX" (14 + DEX) fixed.
+- The second "Iron Goods" table under Tinker Tools lists clocks, locks, and toys. Retitled "Tinker Devices", column "Device" (**Mine**).
+- "Navigation Tools" is "Navigator Tools", the name the wiki's Tools page uses (**Mine**).
+- "Alchemical Tools New Example Tasks" is "Alchemist Tools New Example Tasks".
+- Several typos fixed: "lures insect", "potion provide", "checks … has advantage", "can be trigger", "1 days of rations", "colder climbs", "instantly extinguished", "Safes. A safe or keeps", "boats of this size are have", "The hook us used".
+
+Kept as written:
+- The book gives no description for the sabre or the scutum, only their table rows. Disappearing ink is in the alchemist table with no description.
+- Brand says the target is "scared by the weapon". It probably means the Frightened condition; left as written.
+- The pistol sword lists a Gunpowder property, which isn't defined on the wiki.
+- Commerce Cost, Commerce Land Cost/Rent, and Frontage tables each have two columns headed just "Modifier". The book doesn't say which modifier is which. **Question for Bryant.**

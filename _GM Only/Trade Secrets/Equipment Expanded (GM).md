@@ -1,0 +1,24 @@
+---
+publish: false
+---
+*From Trade Secrets, chapter 4. GM advice on tools. The player-facing rules from this chapter are on [[Adventuring Gear#More Adventuring Gear (Trade Secrets)|Adventuring Gear]], [[Tools#More Tool Uses (Trade Secrets)|Tools]], [[Weapons#More Weapons (Trade Secrets)|Weapons]], [[Armor#More Armor (Trade Secrets)|Armor]], and [[Setting Up Shop]].*
+
+### Tool Limitations
+
+The artist tools are a good example of a tool that has a broad name and a more narrowly limited description. The tools’ description makes it clear they are for drawing and painting, but many artists don’t work with pens, paper, and brushes such as sculptors, jewelers, architects, and others. Meanwhile, the tools a sculptor might use are almost all construction tools, though the intended use is pragmatic rather than artistic.
+
+In these situations, adjust the tools to meet your needs rather than restricting players to the exact details provided for existing tool sets. If a player wants to be a sculptor, then you can change the artist tools to include tools appropriate for doing sculpture. It’s unlikely you will need to restrict them from then using those tools to paint as that’s not the player’s concept and few adventures require that a painting be produced to resolve a narrative. Like most areas of roleplaying, let player creativity to flow freely, using the specific game rules as inspiration rather than as limitations.
+
+Another challenging situation arises when a PC uses a set of tools for tasks outside its normal area of use. For example, someone with charlatan tools may look at what’s in the kit and decide they want to make sincere holiday cards with them. After all, if someone can make nice looking fake documents, why couldn’t they make nice looking real documents? Again, the best thing to do as a GM is to encourage this kind of creativity. If the tools seem a stretch, it’s usually better to impose disadvantage on the check rather than disallowing the proficiency. It may be more challenging, but the PC is still putting their knowledge and tools good use.
+
+### Creating Tools
+
+Many interesting tools and professions are not covered in the **Tales of the Valiant** *Player’s Guide*. For example, farming is the most common profession in most classic fantasy settings, but there are no defined farming tools. Other professions like tanning, shipbuilding, woodworking, and butchering are also not directly represented. This is the result of focusing the game design on tool sets that are either express a character concept or which help the party during a typical adventure story. Farming and tanning are neither expressive professions nor something you can do while briefly resting in an abandoned temple complex. That said, as GM you can create new tool sets for a player who wants a background in a more mundane profession; that character can pursue it in their downtime or apply it to the challenges they face during an adventure.
+
+The two most essential conceptual elements for a set of tools are naming them and deciding what they are useful for. Often these go hand in hand. Farming tools are useful for activities you do on a farm. After this, assigning them a cost and weight are important for the game play. Tools generally cost between one and fifty gold pieces and weigh between one and ten pounds. A little historical research can give you a guess for a realistic weight, but the tools should be something that a PC can carry around on their adventures: no one is carrying around an anvil or a mill wheel, and probably not a full loom or a set of barrels. Assigning a price is more art than science but sticking to the established range is a good idea; the gold cost of tools is not meant to be a game balancing element.
+
+If you want to create a fully developed tool set you need a description, two associated abilities, a list of components, and a few sample tasks or downtime activities the tools can be used for. When creating tools for your own game these details are rarely needed. The player and GM will have a good sense of what the tools were created to do. To share your new tools with others, these details help inspire readers and show how they could use those tools in play.
+
+#### Homebrew Tool Proficiencies
+
+One of the challenges of homebrew skill and tool proficiencies is making sure they are accessible to PCs. A handful of classes allow the selection of any tool proficiency, but most character-building options grant specific proficiencies. This means there are almost no built-in means for characters to acquire a homebrew tool proficiency, and none for first level PCs. The answer to this is for the GM to either create a homebrew heritage that grants the tool proficiency or to allow players to make a reasonable substitution for a tool or skill proficiency they are normally granted during character creation.

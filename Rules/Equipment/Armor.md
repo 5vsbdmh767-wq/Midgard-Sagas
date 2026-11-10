@@ -202,9 +202,80 @@ These types of armor are found in the [[Northlands]]. The **Armor** table lists 
 | Beinagrind | 15 | STR 13 | Disadvantage | 40 lb. | 50 gp |
 | Double mail | 17 | STR 16 | Disadvantage | 65 lb. | 350 gp |
 
+## More Armor (Trade Secrets)
+
+*Optional, from Trade Secrets.*
+
+The listed additional types of armor are available to PCs. The Armor table lists the cost, AC bonus, weight, special properties, and proficiencies required for each.
+
+### Armor Types (Trade Secrets)
+
+Armor is categorized into four types: light, medium, heavy, and shield. You need proficiency in the relevant armor type to use it well (as described in the *Player’s Guide*).
+
+***Bone (Medium Armor).*** This armor is made from natural materials such as woven reeds, sturdy fabric, or leather with bones used as ridged reinforcement over vital organs and joints. Skulls or antlers are often incorporated for cosmetic effect. While far less flexible and durable than metal, it can still save the wearer’s life.
+
+***Buckler (Shield).*** These small metal shields are designed for melee dueling. In addition to blocking, they can knock an opponent’s weapon out of position, creating an opening to attack.
+
+***Fashionable Armor (Light Armor).*** This armor provides little protection because it is designed for its striking appearance rather than any practical use in combat. It looks grand, and it does include a few well-placed pieces of polished metal that could turn a blade if the wearer were very lucky.
+
+***Lamellar (Medium Armor).*** This armor is made from horizontal strips of overlapping metal plates connected by silk cord or strong fabric. Lamellar is easier to craft than most metal armors and offers significant protection but is less flexible than more sophisticated armors like scale.
+
+***Leather Shield (Shield).*** Shields made of leather are common among groups without access to metal working. Cured leather is stretched over a light wooden frame that includes a simple grip. They are light weight but offer limited protection against metal armaments.
+
+***Musket Shield (Shield).*** This device combines a short musket and a rounded metal shield. The musket protrudes though the shield and a metal grate allow the wielder to aim the weapon while still being protected. Unlike most shields it cannot be used effectively in a single hand because it is supported by holding on to the musket built into it. The statistics for the included weapon are identical to a standard musket.
+
+***Pavise (Shield).*** This is an exceptionally large wooden shield used by archers in battle. The shield is carried in both hands as the archer advances and is then planted on the ground and braced with a fold out stand. Once it stands, that the archer can use it as cover while keeping both hands free to fire their weapon.
+
+***Spike Shield (Shield).*** This small metal shield has a sharp and sturdy spike in the boss that can be thrust at an opponent in close combat.
+
+***Wooden Plate (Heavy Armor).*** This armor is made by using sinew and rope to strap a thick wooden breastplate over the chest and groin while wearing hides or furs underneath for padding. While offering decent protection, such armor is heavy and cumbersome to wear.
+
+**Armor (Trade Secrets)**
+
+| Armor | Cost | Armor Class (AC) | Weight | Properties |
+|---|---|---|---|---|
+| **Light Armor** |  |  |  |  |
+| Fashionable armor | 20 gp | 11 + DEX modifier | 6 lb. | — |
+| **Medium Armor** |  |  |  |  |
+| Bone | 15 gp | 13 + DEX modifier (max 2) | 20 lb. | Cumbersome (STR 13), Natural Materials |
+| Lamellar | 40 gp | 14 + DEX modifier (max 2) | 40 lb. | Cumbersome (STR 13), Noisy |
+| **Heavy Armor** |  |  |  |  |
+| Wooden plate | 5 gp | 14 | 45 lb. | Buoyant, Cumbersome (STR 16), Natural Materials |
+| **Shields** |  |  |  |  |
+| Buckler | 5 gp | +1 | 3 lb. | Offensive |
+| Leather shield | 1 gp | +1 | 1 lb. | Natural Materials |
+| Musket shield | 70 gp | +2 | 15 lb. | Two-handed |
+| Pavise | 20 gp | +3 | 15 lb. | Cover, Two-handed |
+| Scutum | 15 gp | +2 | 8 lb. | Interlocking |
+| Spike shield | 10 gp | +1 | 4 lb. | Spiked |
+
+### Armor Materials (Trade Secrets)
+
+Armor can be made from special materials to gain additional properties. These properties are natural extensions of the material and are not magical. Such armors typically cost, and can be sold for, more than the same armor made with standard materials. (Armor made from special materials is available for purchase at GM’s discretion.)
+
+***Decorative.*** This armor is functional but has been decorated by skilled artisans to be a beautiful work of art. Owning such armor marks the wearer as a person of significance and distinction, both on and off the battlefield. Decorative armor helps the wearer make a strong first impression and grants Advantage to the first Charisma Check made to influence a given non-hostile NPC. Decorative armor can be purchased for an amount equal to the item’s base price + 500 gp.
+
+### Armor Properties (Trade Secrets)
+
+Many sets of armor have properties that affect their use, as shown in the Properties column of the Armor table.
+
+***Buoyant.*** This wooden armor floats in water and can keep its wearer from drowning. The wearer has Advantage on STR (Athletics) checks made to avoid drowning when swimming but cannot effectively dive underwater.
+
+***Cover.*** This shield can be propped up as a portable form of cover. When used this way, the shield is stationary and provides a cover bonus rather than its usual bonus to AC.
+
+***Interlocking.*** Interlocking shields can be linked by adjacent combatants to form a shield wall. Doing so provides an additional +1 shield AC bonus to each linked combatant with an interlocking shield. Forming or joining a shield wall is a free action and can be initiated by any allied combatant. Any combatant in a shield wall that moves out of the formation or no longer has an adjacent ally with an interlocking shield, loses the additional AC bonus.
+
+*Offensive*. At the start of the wielder’s turn, they can choose to lose the shield’s bonus to AC in exchange for a +1 bonus to melee attack rolls.
+
+***Spiked.*** This shield has a spike that can be used as a weapon with the same statistics as a dagger, except that it does not have the “Thrown” property.
+
+***Two-handed.*** Two-handed shields require two hands to effectively hold and position to gain their AC bonus.
+
 ---
 *This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
 
 *Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
 
 *Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+
+*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*

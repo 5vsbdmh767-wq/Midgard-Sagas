@@ -301,9 +301,122 @@ The Northlands Worldbook also describes masterwork weapons, using the same rule 
 
 Make an attack roll with this weapon against a target wearing manufactured armor. On a hit, the target must succeed on a DEX save or the armor takes a −1 penalty to the AC it offers. On a critical hit, this penalty increases to −2.
 
+## More Weapons (Trade Secrets)
+
+*Optional, from Trade Secrets.*
+
+The listed additional weapons are available to PCs. The Weapons table lists the cost, damage dice and type, weight, weapon options, and special properties for each. The table is also split by the proficiencies (simple or martial) required to wield the various weapons most effectively.
+
+### Weapon Types (Trade Secrets)
+
+Each weapon is categorized into a type associated with a proficiency, either simple or martial.
+
+***Aruval (Martial Melee).*** This is a broad, single-edged blade, two to three feet long. At the end of the blade, opposite the cutting edge, it has a backswept spike used to defeat heavy armor or catch an opponent’s limbs.
+
+***Bayonet (Simple Melee).*** A short blade attached to the end of a musket makes it much like a short spear in close quarters combat.
+
+***Bolo (Simple Ranged).*** A typical bolo has three weighted lines connected to a central ring or knot. When thrown correctly the lines spread out evenly and spin. A bolo can trip up a moving target wrapping around the runner’s legs.
+
+***Broadsword (Martial Melee).*** This large family of single- handed, double-edged swords are commonly paired with a shield on the battlefield. It is the classic knight’s blade. Most have a sturdy enough pommel to deliver a solid strike to opponents in the clinch.
+
+***Cat o’ Nine Tails (Simple Melee).*** Also known as a scourge, this flail-like weapon combines small weights at the end of multiple short chains connected to a wooden handle. While commonly used in corporal punishments, it can also be harass opponents in battle.
+
+***Fire Lance (Martial Melee).*** This spear has a bundle of fireworks attached to the shaft just behind the tip of the spear. Once lit, it spews flames, smoke, and noxious smells. This can be disorient and terrify opponents, and it sets materials on fire when the spear is stuck in them. The fireworks need to be replaced after they are used, but they last for a good minute before sputtering out.
+
+***Gaff (Simple Melee).*** A sturdy metal hook mounted on a long pole often serves as a rough-and-ready weapons. They are used by fishermen to pull fish up from a net and by sailors to hook ropes and cargo. They also can knock someone down in a pinch.
+
+***Guisarme (Martial Melee).*** One of many polearm types, the guisarme features a stabbing point for thrusting, a hooked blade for grabbing and cutting, and a stout metal spike for bashing away at armor.
+
+***Hairpin (Simple Melee).*** Disguised as a regular hairpin, this holdout weapon is made of sturdy steel and can be used as a deadly weapon in the right hands.
+
+***Hot Iron (Simple Melee).*** Any long piece of iron heated to a red-hot glow can make a menacing weapon to bludgeon, burn, and scar an opponent. Fireplace pokers and smith’s heated tools are classic examples.
+
+***Jitte (Simple Melee).*** Jitte are sturdy metal batons with a forward-facing hook mounted just above the grip. The hook us used to catch enemy weapons and to catch an opponent’s wrist or joints when grappling.
+
+***Katar (Martial Melee).*** Also known as push daggers or punching daggers, a katar features a thick and wide blade with a tapered point that is mounted on a guarded handle perpendicular to the blade. This allows it to make powerful punching strikes.
+
+***Lucerne Hammer (Martial Melee).*** This polearm has a stabbing pike point at either end and a beaked hammer head set just below the forward-facing point. This gives you choices in exactly how you want to stab your enemies.
+
+***Monkey’s Fist (Simple Melee).*** The monkey’s fist is sailor’s knot combining a thick, round ball of rope with a leading “tail” to hold it by. When tied around a stone or lead weight, it makes an effective flail like weapon.
+
+***Pistol Sword (Martial Melee and Ranged).*** These hybrid weapons are created more as a test of skill than for practical use, but they are still deadly. The single-shot pistol is aimed down the back of the single edged blade and fired with a trigger built into the handle.
+
+***Pitchfork (Simple Melee).*** When not moving hay, pitchforks can fend off bandits or overthrow tyrants.
+
+***Poleaxe (Martial Melee).*** A typical poleax has a six-foot- long, square wooden shaft reinforced with long metal plates. The business end combines three weapons: a bladed spear point, an axe-head, and a hammerhead, making it one of the most complex and versatile knightly weapons.
+
+***Throwing Stick (Simple Melee).*** Much like a boomerang, a throwing stick has a wing shape to be thrown a good distance and to deliver a hard strike. Unlike its trickier cousins, it does not return to the thrower.
+
+***Tiger Claws (Simple Melee).*** These metal claws are held like brass knuckles but used to make slashing attacks at very close range. It’s common to wield one in each hand.
+
+***War Fan (Simple Melee).*** War fans resemble normal folding paper fans at first blush, but they are made of iron or steel and can strike a heavy blow or block incoming attacks.
+
+**Weapons (Trade Secrets)**
+
+| Weapon | Cost | Damage | Weight | Weapon Options | Properties |
+|---|---|---|---|---|---|
+| **Simple Melee Weapons** |  |  |  |  |  |
+| Bayonet | 3 gp | 1d6 piercing | 1 lb. | Hamstring | Two-handed |
+| Cat o’ nine tails | 10 gp | 1d4 bludgeoning | 4 lb. | Disarm, Trip | — |
+| Gaff | 4 sp | 1d6 piercing | 3 lb. | Trip | Reach, Two-handed |
+| Hairpin | 1 sp | 1 piercing | 0 lb. | — | Disguised, Finesse, Light |
+| Hot iron | 1 gp | 1d4 bludgeoning | 2 lb. | Bash, Brand | Hot |
+| Jitte | 2 gp | 1d4 bludgeoning | 1 lb. | Bash, Disarm, Grappling | Defensive, Finesse, Light |
+| Monkey’s fist | 1 sp | 1d4 bludgeoning | 1 lb. | Bash, Grappling | Finesse, Light |
+| Pitchfork | 1 sp | 1d4 piercing | 3 lb. | Pinning Shot, Trip | Reach, Two-handed |
+| Tiger claws | 5 gp | 1d4 slashing | 1 lb. | — | Finesse, Light, Secure |
+| Throwing stick | 1 sp | 1d4 bludgeoning | 1 lb. | Bash | Light, Thrown (range 60/180 ft.) |
+| War fan | 4 gp | 1d4 bludgeoning | 2 lb. | Bash, Disarm | Defensive, Disguised, Finesse, Light |
+| **Simple Ranged Weapons** |  |  |  |  |  |
+| Bolo | 2 sp | 1d4 bludgeoning | 1 lb. | Trip | Thrown (range 20/60 ft.) |
+| **Martial Melee Weapons** |  |  |  |  |  |
+| Aruval | 13 gp | 1d8 slashing | 3 lb. | Hamstring, Trip | — |
+| Broadsword | 15 gp | 1d8 slashing | 3 lb. | Bash, Disarm, Hamstring | — |
+| Fire lance | 25 gp | 1d8 piercing | 4 lb. | Distract, Trip | Reach, Thrown (30/90 ft.), Two-handed |
+| Guisarme | 20 gp | 1d10 piercing | 6 lb. | Pull, Hamstring, Trip | Heavy, Reach, Two-handed |
+| Katar | 5 gp | 1d6 piercing | 1 lb. | — | Finesse, Light, Secure |
+| Lucerne hammer | 25 gp | 1d10 piercing | 6 lb. | Bash, Trip | Heavy, Reach, Two-handed |
+| Pistol sword, pistol\* | 150 gp | 1d6 piercing | 4 lb. |  | Ammunition (range 20/80 ft.), Gunpowder, Loading |
+| Poleaxe | 20 gp | 1d10 slashing | 4 lb. | Bash, Disarm, Hamstring, Trip | Heavy, Two-handed |
+| Sabre | 20 gp | 1d8 slashing | 2.5 lb. | Bash, Disarm, Hamstring | Finesse, Secure |
+| **Martial Ranged Weapons** |  |  |  |  |  |
+| Pistol sword, sword\* | 150 gp | 1d8 slashing | 4 lb. |  | — |
+
+\* The listings for “Pistol sword, pistol” and “Pistol sword, sword” are the same item showing different attack modes.
+
+### Weapon Options (Trade Secrets)
+
+This section offers options for using weapons in ways other than dealing damage. The Weapon Option column on the Weapons table shows which weapons can perform which weapon options. A character can use a weapon option only if the character is wielding and is proficient with an appropriate weapon.
+
+***Brand.*** Make an attack roll with this weapon. On a hit, the target takes 1d4 fire damage and the target must succeed on a CON Saving Throw or be scared by the weapon.
+
+***Distract.*** Make an attack roll with this weapon. On a hit the target must succeed on a WIS Saving Throw or be unable to use a reaction or take bonus action until the end of their next turn.
+
+***Grappling.*** You can use this weapon to grapple. While wielding this weapon, you do not need a free hand to grapple with. While you have an opponent grappled, attacks made with this weapon against the opponent cannot miss unless a natural 1 is rolled.
+
+### Weapon Materials (Trade Secrets)
+
+A weapon’s material can give it additional properties. These properties aren't considered magical.
+
+Weapons made from special materials often cost (and can be sold for) more than the same weapon made with standard materials. Some well-known special weapon materials are described here. Your GM decides whether weapons made from special materials are available for purchase.
+
+***Shoddy.*** Not every weapon is made with quality materials. Some smiths and craftspeople either make do with what they have or try to cut costs to maximize profits. Either way, these are not weapons you want to bet your life on. A shoddy weapon breaks after any Critical Hit or Critical Miss is rolled when attacking with it. In the case of a Critical Hit, damage is still dealt. If the seller is honest, a shoddy weapon costs three-quarter the weapon’s base cost, otherwise they are full price.
+
+### Weapon Properties (Trade Secrets)
+
+Many weapons have special properties, as shown in the Properties column of the Weapons table.
+
+***Disguised.*** While this is a weapon, it looks mundane and harmless unless closely inspected.
+
+***Hot.*** This weapon deals an additional 1 Fire damage on a successful attack.
+
+***Secure.*** You have Advantage on Ability Checks and Saving Throws made to avoid being disarmed.
+
 ---
 *This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
 
 *Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
 
 *Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+
+*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
