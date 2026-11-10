@@ -40,4 +40,4 @@ This repo is Bryant's Obsidian vault for the player wiki *Midgard Sagas* (Obsidi
 
 - Pitch the shape in chat first; build after Bryant rules on it. One batch at a time.
 - After each batch: run `check.sh`, write review notes in `_GM Only/` (`publish: false`), commit with a plain message, push.
-- Bryant pulls with the Obsidian Git plugin, then publishes from Obsidian. If his edits conflict with mine, resolve in the repo and keep his wording.
+- Bryant pulls and pushes by hand with GitHub Desktop (he chose not to use the Obsidian Git plugin), then publishes from Obsidian. Remind him to pull after a batch, and to push his own edits before asking for more. If his edits conflict with mine, resolve in the repo and keep his wording.

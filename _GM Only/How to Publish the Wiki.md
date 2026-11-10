@@ -50,29 +50,34 @@ In the Publish changes window, click **Change site options**.
 2. Under **NEW**, select all, and make sure `publish.css` is ticked (it's the site design and isn't shown in the file list). Then click **Publish**.
 3. Click **View site** to see it live.
 
-## Updating through GitHub (Obsidian Git)
+## Updating through GitHub (GitHub Desktop)
 
-The vault lives in a private GitHub repository. Claude makes changes there, and the **Obsidian Git** plugin keeps your copy in step with it. No more zips.
+The vault lives in a private GitHub repository called **Midgard-Sagas**. Claude makes changes there, and **GitHub Desktop** brings them down to your computer. No more zips.
 
 ### One-time setup
 
-1. In Obsidian, open **Settings → Community plugins → Browse**, search for **Git** (by Vinzent), install it and turn it on.
-2. On a computer, the plugin needs Git installed. If it says Git is missing, install it from git-scm.com and restart Obsidian.
-3. Get the repo onto your computer. The easiest way: install **GitHub Desktop**, sign in, choose **Clone a repository**, pick **Midgard-Sagas**, and put it where you keep your vaults.
-4. In Obsidian, **Manage vaults → Open folder as vault**, and pick that cloned folder.
-5. In the Git plugin's settings, turn on **Pull on startup**, set **Auto pull interval** to 10 minutes, and set **Auto commit-and-sync interval** to 10 minutes. Then your own edits go up to GitHub too, and Claude always works from your latest version.
+1. Install **GitHub Desktop** from desktop.github.com and sign in.
+2. Choose **File → Clone repository**, pick **Midgard-Sagas** on the GitHub.com tab, choose a folder you'll remember, and click **Clone**.
+3. In Obsidian, **Manage vaults → Open folder as vault**, and pick that cloned folder.
 
 Your Publish site doesn't care which folder the notes come from. Click the paper plane, choose **midgard-sagas** if asked, and publish as usual.
 
 ### After Claude makes changes
 
-1. Open Obsidian (it pulls automatically), or run **Git: Pull** from the command palette.
-2. Click the paper plane. Pages with `publish: true` are already ticked under **NEW** and **CHANGED**. Also tick `publish.css` and anything in `Assets` if they changed.
+1. Open GitHub Desktop. Click **Fetch origin**, then **Pull origin**.
+2. In Obsidian, click the paper plane. Pages with `publish: true` are already ticked under **NEW** and **CHANGED**. Also tick `publish.css` and anything in `Assets` if they changed.
 3. Look at **DELETED** before you click Publish. If it lists pages you still want, untick them and tell Claude.
 4. Click **Publish**.
 
+### After you edit pages yourself
+
+1. Open GitHub Desktop. Your changed files are listed on the left.
+2. Type a short note in the **Summary** box at the bottom left (anything, like "my edits"), click **Commit to main**, then **Push origin**.
+
+Do this before asking Claude for more changes, so Claude works from your latest version.
+
 > [!warning] If something goes wrong
-> Every change is saved in GitHub's history, so nothing is lost for good. If a pull reports a conflict (you and Claude changed the same lines), don't fix it by hand. Tell Claude and it will sort it out in the repo.
+> Every change is saved in GitHub's history, so nothing is lost for good. If GitHub Desktop reports a conflict (you and Claude changed the same lines), don't fix it by hand. Tell Claude and it will sort it out in the repo.
 
 ## Day to day
 
