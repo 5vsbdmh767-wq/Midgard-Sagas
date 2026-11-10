@@ -12,6 +12,10 @@ publish: true
 - [[Creating a Business]]: choosing a location, a trade, inventory, a name, and security for a business of your own
 - [[Running a Business]]: investing, securing supply, hiring staff, and the Running a Business downtime activity
 
+## Money and Trade
+- [[Trade Goods & Money]]: how economies work, currency, stores of value, the trade goods price list, market prices, and merchant organizations
+- [[Batch Crafting]]: fourteen downtime activities for brewing, farming, mining, smithing, and other trades
+
 
 ---
 *Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*

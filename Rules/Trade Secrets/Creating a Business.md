@@ -645,7 +645,7 @@ For shop names, first roll or choose a formula from the **Shop Name Formula** ta
 
 **Shop Name Formula**
 
-| d6 | Name Formula | Example |
+| d4 | Name Formula | Example |
 |---|---|---|
 | 1 | The *Adjective* + *Noun* | The Angry Acorn |
 | 2 | *Attribute* + *Trade* | Amazing Armory |

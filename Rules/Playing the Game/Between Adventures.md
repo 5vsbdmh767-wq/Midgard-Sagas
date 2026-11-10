@@ -29,7 +29,7 @@ Each downtime activity includes instructions for resolving that activity. For ex
 
 These downtime activities cover a range of options including fun nights out, making things, or earning money. If you don't find an activity that fits with how you want to spend your downtime, discuss with your GM to devise an alternative.
 
-*Optional, from Trade Secrets:* two more downtime activities, [[Shopping & Markets#Shopping|Shopping]] and [[Running a Business#Running a Business|Running a Business]].
+*Optional, from Trade Secrets:* two more downtime activities, [[Shopping & Markets#Shopping|Shopping]] and [[Running a Business#Running a Business|Running a Business]], and fourteen trade activities on [[Batch Crafting]].
 
 ### Carousing
 

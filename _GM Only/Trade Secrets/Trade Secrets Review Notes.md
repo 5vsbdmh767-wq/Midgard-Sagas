@@ -49,8 +49,32 @@ Edits to the book's text:
 - Page references ("see page 54") are removed.
 - On the player page, the Labor section drops one sentence that pointed to the GM-only merchant tables.
 
-Printed as the book has it, though they look like errors in the book:
-- Shop Name Formula is labeled d6 but has four entries.
-- Interior Style (GM page) is a d10 table with rows 1, 2-3, 5, 6, 7-8, 9, 10. There is no 4.
+Fixed errors in the book (Bryant said to use judgement):
+- Shop Name Formula is labeled d6 but has four entries. Changed to d4. **Mine.**
+- Interior Style (GM page) is a d10 table with no result for 4. Canvas now covers 4–5. **Mine.**
 
 Spells named under Useful Security Spells link to their entries where the wiki has one. *Antipathy* links to the wiki's Antipathy/Sympathy entry. The Forbiddance entry never names the spell in its text, so a linked name in brackets is added there (**Mine**). *Private sanctuary* has no entry on the wiki, so it is unlinked.
+
+### Batch A3: Chapter 3, Fantasy Finance
+
+New pages:
+- `Rules/Trade Secrets/Trade Goods & Money` (player): methods of exchange, currency, stores of value, financial crimes (how societies handle them), the full trade goods price list with units of measure, buying and selling trade goods with the market modifier tables, and merchant organizations.
+- `Rules/Trade Secrets/Batch Crafting` (player): all fourteen trade activities (brewing, farming, foraging, hunting and trapping, mining, pottery, processing, prospecting, sewing, smelting, smithing, spinning and weaving, tanning, woodcutting).
+- `_GM Only/Trade Secrets/Fantasy Finance (GM)`: Trade Events, Wartime Trade Events, and the random goods tables.
+
+Changes to existing pages:
+- `Rules/Trade Secrets/Trade Secrets`: new "Money and Trade" section with both pages.
+- `Rules/Equipment/Currency & Trade`: one line pointing to Trade Goods & Money.
+- `Rules/Playing the Game/Between Adventures`: the Trade Secrets line now also points to Batch Crafting.
+- `Batch Crafting` ends with one sentence pointing to Trade Goods & Money, and its opening links the core Crafting activity. **Mine.**
+
+Edits to the book's text:
+- Typos fixed: "Tree essential factors" (Three), "should paying", "the apple owner desire", "High inflation are", "refined good", "The Cloth", "Your ruin the hides", "to make complete", "If the time is to be made" (item), "functional and textiles work", missing spaces after two event names.
+- Buyer Type table: its second column was headed "Type of Seller" in the book. Changed to "Type of Buyer".
+- Hide Cost and Fiber Cost tables: the book heads the first column "Cloth". Changed to "Hide" and "Fiber".
+- Sewing Cost, Fiber Cost, and Hide Cost are printed side by side in the book. They are single two-column tables here.
+- Processing Cost and Resolution is one four-column table in the book; the PDF splits it, so it was rebuilt and checked against the page.
+- Random goods tables: the book nests a d6 list inside each row. Each row here reads "1–2: Furs; 3: Hair…". The book's "Firs" is "Furs", and the Arcane Ink row's "1–4, 4–6" is "1–4, 5–6". **Mine** (both fixes).
+- Page references removed.
+
+Kept as written: the Syreena example's numbers, and "Malchonite" with its pointer to the *Labyrinth Worldbook*.

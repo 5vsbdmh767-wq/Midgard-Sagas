@@ -558,10 +558,10 @@ If a business is the focus of adventure, then it’s best to work up a map of th
 | d10 | Style Description |
 |---|---|
 | 1 | **Adobe.** The walls of this shop are made of dried and hardened clay with a smooth texture, while the roof is supported by a crosshatch of timbers. |
-| 2-3 | **Brick.** The walls of this building are made from mortared bricks with wooden framing and a ceramic tiled roof. |
-| 5 | **Canvas.** This is more of a tent or pavilion than a building. Wooden poles hold up canvas walls and ceilings. |
+| 2–3 | **Brick.** The walls of this building are made from mortared bricks with wooden framing and a ceramic tiled roof. |
+| 4–5 | **Canvas.** This is more of a tent or pavilion than a building. Wooden poles hold up canvas walls and ceilings. |
 | 6 | **Stone.** This impressive building is constructed almost entirely of carved stone blocks that fit perfectly with one another. The arched ceilings are especially impressive. |
-| 7-8 | **Stone and Timber.** This sturdy shop looks like a castle, with heavy stone foundations and thick timber framing. |
+| 7–8 | **Stone and Timber.** This sturdy shop looks like a castle, with heavy stone foundations and thick timber framing. |
 | 9 | **Timber.** This shop is built of planed timber including paneled walls and floor planks. |
 | 10 | **Wattle and Daub.** This simple shop features rough wooden framing around panels of plastered thatch. |
 
