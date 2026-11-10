@@ -31,6 +31,7 @@ publish: true
 - [[Heroes of the Northlands]] (optional, from the *Northlands Worldbook*)
 - [[Heroes of Horror]] (optional, from *Night Hunters*): horror backstories and options for monster hunters
 - [[Book of Blades]] (optional): martial subclasses, gear, weapons, and new ways to fight
+- [[Trade Secrets]] (optional): shopping, markets, and running a business
 - [[Conditions]]
 
 ## Table Rules
@@ -51,6 +52,8 @@ publish: true
 *Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
 
 *Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+
+*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
 
 *Material marked as from Lineages & Heritages is from Lineages & Heritages Supplements 1 and 3 by Kobold Press.*
 
