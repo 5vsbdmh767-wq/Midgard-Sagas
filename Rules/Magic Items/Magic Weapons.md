@@ -39,6 +39,18 @@ When this arrow is used to make an attack, it grants advantage to your attack ro
 
 This arrow deals an additional 1d6 cold damage on a successful hit. If a creature takes damage from the ammunition, it must make a DC 15 STR save. On a failed save, the target becomes restrained in bands of ice. It can repeat its save at the end of each of its turns to end this effect on itself. While it is restrained, the target takes 1d6 cold damage at the start of each of its turns. The target or a creature within 5 ft. of it can take an action to make a DC 15 STR (Athletics) check, freeing the target on a success.
 
+## Arrow of Indication
+
+*Optional, from Trade Secrets.*
+
+*Weapon, Uncommon 300 gp*
+
+This magic ammunition marks a target on a successful hit, allowing you to deal an additional 1d4 damage to the creature every time you successfully hit it. This effect lasts for 1 minute or until the creature dies.
+
+You also know its exact location while it remains within 60 feet of you and does not have advantage on attacks against you because of being invisible or otherwise unseen. Furthermore, if the creature is within 60 feet of you, you don’t suffer disadvantage on your attack rolls against it due to an inability to see it.
+
+A creature struck by this arrow can spend an action to remove it. If it does, or if the creature dies, the arrow becomes nonmagical. Variations exist for other weapons, such as *bolts of indication* for a crossbow or *stones of indication* for a sling, though arrows are most common.
+
 ## Arrow of Multiplication
 
 *Optional, from Player's Guide 2.*
@@ -135,6 +147,16 @@ When you use this weapon to make a ranged attack, you can use the command word t
 
 The bow has 3 charges and regains 1d3 expended charges daily at dawn. As an action, you can expend 1 charge along with an arrow to create a hail of arrows that rain down on a 30-foot radius, centered on a point within the bow’s normal range. (You can instead expend 2 charges to increase this to the bow’s long range.) Each creature in the area must make a DC 16 DEX save, taking 8d6 piercing damage (shortbow) or 8d8 piercing damage (longbow) on a failed save, or half as much damage on a successful one. If this reduces one or more creatures to 0 HP, the bow regains 1 charge.
 
+## Bracers of Seven Winds
+
+*Optional, from Trade Secrets.*
+
+*Weapon, Very Rare 75,000 gp (Requires Attunement by a Monk)*
+
+These gleaming metal bracers are worked with symbols of a dragon on the right bracer, and a phoenix on the left.
+
+You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you successfully strike the same opponent with two unarmed strikes in one attack, the target must succeed on a DC 17 STR save or be pushed away from you. Huge creatures are pushed 5 feet, Large creatures 10 feet, Medium creatures 15 feet, and Small creatures 20 feet. You can expend 1 technique point to double the distance the target is pushed, but you must spend the technique point before the target attempts the saving throw.
+
 ## Dagger of Darkness
 
 *Optional, from Labyrinth Worldbook.*
@@ -142,6 +164,14 @@ The bow has 3 charges and regains 1d3 expended charges daily at dawn. As an acti
 *Weapon (Dagger), Uncommon 1,000 gp*
 
 While holding this dagger, you can use a bonus action to speak the command word, gathering writhing darkness around your hand and sending a bolt of darkness at a creature you can see within 30 feet of you. Make a ranged spell attack using your INT modifier. If the target is in dim light or darkness, you have advantage on the attack roll. On a hit, the target takes 2d8 necrotic damage and is frightened until the end of its next turn. The dagger can’t be used this way again until the next dawn.
+
+## Dagger of Determination
+
+*Optional, from Trade Secrets.*
+
+*Weapon, Rare 2,500 gp*
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you deal damage with it, any single die you roll for damage deals its maximum amount, which you choose after you roll. For instance, if you make a sneak attack with it and roll 1d4 and 2d6 for damage, you can treat the result of the d4 as a 4 or either d6 as a 6. You can use this ability once until you finish a short or long rest.
 
 ## Dagger of Venom
 
@@ -489,6 +519,16 @@ When you attack a creature with this handaxe and one of your allies is within 5 
 
 *+ weapon base cost* When you miss an attack with this clockwork-enhanced polearm, you can gain advantage on your next attack made with it within 1 minute. Once used, this property can’t be used again for 1 minute.
 
+## Reliquary Weapon
+
+*Optional, from Trade Secrets.*
+
+*Weapon, Rare 5,000 gp + base weapon cost (Requires Attunement)*
+
+A religious relic was embedded in this weapon as part of the crafting process. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus increases to +2 when you attack a Fiend or Undead with it.
+
+If the GM deems that the relic is sacred to your religion, you can double your PB for ability checks when you call out loudly to your deity for help as a reaction. You can use this effect once until it recharges at the next dawn.
+
 ## Reverberating Hammer
 
 *Optional, from Player's Guide 2.*
@@ -655,6 +695,20 @@ Hit points lost to this weapon’s damage can be regained only through a short o
 
 Once per turn, when you hit a creature with an attack using this magic weapon, you can choose (no action required) to wound the target. At the start of each of the wounded creature’s turns, it takes 1d4 necrotic damage for each time you’ve wounded it. It can then make a DC 15 CON save, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 WIS (Medicine) check, ending the effect of such wounds on it on a success.
 
+## Three-Dragon Staff
+
+*Optional, from Trade Secrets.*
+
+*Weapon, Very Rare 15,000 gp*
+
+This flexible weapon is a three-sectioned staff, attached in series by short lengths of chain. Each section is shod in metal worked to give it the appearance of a dragon, with the last one biting the tail of the next one, which bites the tail of the first one.
+
+You gain a +2 bonus to attack and damage rolls made with this magic weapon. It normally deals 1d8 bludgeoning damage, as a flail. However, as a bonus action, you can make the head of the staff glow red-hot or turn the tail icy cold. When you strike an opponent, you can choose whether to deal an extra 2d6 fire damage to the target, or an extra 2d6 cold damage.
+
+Both effects can be active simultaneously. While only the head is active (fire damage), you have resistance to cold damage. While only the tail is active (cold damage), you have resistance to fire damage.
+
+The weapon uses stats of a flail, including its status as a martial melee weapon. However, it weighs 6 pounds, and you can use the trip weapon option with it, in addition to the flail’s normal bash and disarm. Unlike a flail, it has the Finesse and Two-Handed properties.
+
 ## Titancall Dagger
 
 *Optional, from Northlands Worldbook.*
@@ -723,6 +777,14 @@ If you hit a creature that is a larger size than you with this weapon, that crea
 
 If you hit a creature that is your size or smaller, that creature must succeed on a DC 15 STR save or take 2d6 thunder damage and be both knocked prone and restrained as it is driven into the ground. The target, or a creature within reach of it, can use an action to make a DC 15 STR (Athletics) check to free it.
 
+## Weapon of the Wyrd
+
+*Optional, from Trade Secrets.*
+
+*Weapon, Rare 4,000 gp + base weapon cost*
+
+This weapon is infused with Wyrd magic, making it unsettling to the average Humanoid, though it makes an ideal pact weapon. If you perform the warlock special ritual to transform this weapon into your pact weapon, any creature you hit with it must succeed on a DC 14 WIS save or gain the frightened condition until the end of its next turn, with the weapon as the source of its fear. You can use this effect three times until the following midnight.
+
 ## Weapon of Wealth
 
 *Optional, from Player's Guide 2.*
@@ -745,6 +807,14 @@ You have a bonus to attack and damage rolls made with this magic weapon. The bon
 | +2 | Rare | 5,000 gp + weapon base cost |
 | +3 | Very Rare | 15,000 gp + weapon base cost |
 
+## Wrathful Weapon
+
+*Optional, from Trade Secrets.*
+
+*Weapon (Any Two-Handed or Versatile Weapon), Rare (Requires Attunement by a Cleric or Paladin) 6,000 gp + base weapon cost*
+
+If you have the Channel Divinity class feature, when you wield this *+1 weapon*, you can expend one use of your Channel Divinity to gain a damage bonus equal to half your PB (rounded up) on your next successful melee attack. If you strike a Fiend or an Undead with this weapon while this effect is active, the damage bonus is instead equal to your full PB.
+
 ---
 *This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
 
@@ -757,3 +827,5 @@ You have a bonus to attack and damage rolls made with this magic weapon. The bon
 *Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
 
 *Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+
+*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*

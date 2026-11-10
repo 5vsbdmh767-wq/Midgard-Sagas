@@ -116,4 +116,29 @@ Kept as written:
 - The book gives no description for the sabre or the scutum, only their table rows. Disappearing ink is in the alchemist table with no description.
 - Brand says the target is "scared by the weapon". It probably means the Frightened condition; left as written.
 - The pistol sword lists a Gunpowder property, which isn't defined on the wiki.
-- Commerce Cost, Commerce Land Cost/Rent, and Frontage tables each have two columns headed just "Modifier". The book doesn't say which modifier is which. **Question for Bryant.**
+- Commerce Cost, Commerce Land Cost/Rent, and Frontage tables each have two columns headed just "Modifier". The book doesn't say which modifier is which. Bryant ruled: the first is Land Cost/Rent Modifier, the second is Commerce Modifier.
+
+### Batch C: Chapter 5, Magic Items Expanded, and the Appendix
+
+Bryant's ruling on the Setting Up Shop modifier columns is applied: Land Cost/Rent Modifier and Commerce Modifier.
+
+New pages:
+- `Rules/Trade Secrets/Disenchanting` (player): the optional prima materia rules, overcharging, the Disenchanting Magic Items and Extracting Prima Materia downtime activities, and the four sidebars.
+- `Rules/Magic Items/Recommended Magic Items by Class` (player): all four tiers. The book prints each class as one row with every item, price, and note stacked in single cells. Here each item is its own row with its source book and a link to its wiki entry where one exists. The column header "Why It Helps" and the tier sentence about sources are **Mine**.
+- `_GM Only/Trade Secrets/Mercantile Tables (GM)`: the eight d20 appendix tables.
+
+Changes to existing pages:
+- 38 new magic items, each inserted in alphabetical order with "Optional, from Trade Secrets", the same way the Northlands and Player's Guide 2 items are: 7 in Magic Weapons, 5 in Magic Armor, 1 in Potions, 14 in Wondrous Items A–L, 11 in Wondrous Items M–Z. Each of those pages gets the Trade Secrets credit line.
+- `Fabled Magic Items`: new section "More Fabled Items (Trade Secrets)" with 16 fabled items, one per class.
+- `Magic Items` index: a "More Ways to Use Magic Items" list with the two new pages.
+- `Trade Secrets` hub: a Magic Items section.
+
+Edits to the book's text:
+- Tier 2 Paladin rows (shield of righteousness, wrathful weapon, tattoo of the dawn) lost their class label in the book where the table breaks across pages. Their notes mention Channel Divinity and Sacred Weapon, so they are filed under Paladin.
+- Apparatus of the Avian: the book splits the levers table in two; rejoined.
+- Spirit Effigy Creature Types was printed as two pairs of columns; unfolded into one table.
+- Pauper's Grove's name was set in a different style in the book; it's a normal entry here.
+- Typos: "She save", "can also extra materia", "note how many charges has", "isn'toriously", "up to q hour", "12,000gp", "+3sword", "bagof holding", "A second command word revert … can folded up", "Not an obvious, but" (Not an obvious choice, but), "1000 gp".
+- In the recommended items table, "belt of storm giant strength" links to the Belt of Giant Strength entry, and "scroll: revivify" links to the revivify spell.
+
+- Enforcer of the Pact said the creature "can be summoned for 8 before disappearing", with no unit. Changed to "8 hours" (**Mine**).

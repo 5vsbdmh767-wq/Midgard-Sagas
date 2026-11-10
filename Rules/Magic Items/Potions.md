@@ -57,6 +57,22 @@ When you drink this potion, for 1 hour you are immune to magic that allows other
 
 The liquid is a deep purple and contains flecks of ash.
 
+## Elixir of Fury
+
+*Optional, from Trade Secrets.*
+
+*Potion, Uncommon 500 gp*
+
+This potion’s dark red liquid boils and bubbles while held. When you drink the potion while not wearing heavy armor, you gain the following benefits for 1 minute:
+
+- *You have advantage on STR* checks and saves. When you make a melee weapon attack using STR, you gain a +2 bonus to the damage roll. The damage type matches that of the weapon used to deal it.
+
+- You have resistance to bludgeoning, piercing, and slashing damage. If you can cast spells, you can’t cast them or concentrate on them while raging.
+
+- If you have the Rage class feature and drink this potion while raging, the potion duration adds to your Rage duration and prevents your rage from ending early unless you choose to end it.
+
+When the potion effect ends, you suffer one level of exhaustion. If you use your Rage feature and choose to end it early, you suffer no exhaustion from this potion.
+
 ## Far Traveler’s Potion
 
 *Optional, from Labyrinth Worldbook.*
@@ -346,3 +362,5 @@ When you consume this honey, you have advantage on the first initiative check yo
 *Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
 
 *Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+
+*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*

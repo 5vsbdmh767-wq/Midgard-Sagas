@@ -105,6 +105,23 @@ If you move at least 15 ft. in a straight line before dealing damage to a creatu
 
 ***Spells.*** The headband has 3 charges and regains 1d3 expended charges daily at dawn. You can take an action to expend 1 or more of its charges to cast one of the following spells from it using your spell save DC: *[[2nd-Circle Spells#Darkness|darkness]]* (1 charge), *[[8th-Circle Spells#Greater Dominate|greater dominate]]* (3 charges). You can target Undead creatures with this use of *[[8th-Circle Spells#Greater Dominate|greater dominate]]*, even if they have immunity to the charmed condition.
 
+## Apparatus of the Avian
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Very Rare 50,000 gp*
+
+This item initially resembles a Large, sealed iron-banded barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 15 INT (Investigation) check. Releasing this catch transforms the barrel into a device resembling a giant bird. This bird can be ridden like a mount and controlled via levers just forward of the built-in saddle. The levers are not labeled, but they can be shifted to cause the apparatus to move, as shown on the **Levers of the Apparatus** table.
+
+The *apparatus of the avian* is a Large object with AC 17 and 100 HP with a speed of 20 feet and a flying speed of 80 feet.
+
+**Levers of the Apparatus**
+
+| Lever | Left | Right | Forward | Back |
+|---|---|---|---|---|
+| 1 | Increase altitude | Decrease altitude | Move forward | Hover |
+| 2 | Veer left | Veer right | Extend feet (to land) | Retract feet (to fly) |
+
 ## Apparatus of the Crab
 
 *Wondrous Item, Legendary 50,000 gp* This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 INT (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster. See the **Levers of the Apparatus** table for what each lever does.
@@ -241,6 +258,22 @@ You must have proficiency with instruments (woodwinds) to use these bagpipes. Th
 
 ***Spells.*** While playing the bagpipes, as an action, you can expend 1 or more of the instrument’s charges to cast one of the following spells (using your spell save DC): *[[1st-Circle Spells#Bane|bane]]* (1 charge), *[[4th-Circle Spells#Confusion|confusion]]* (4 charges), *[[5th-Circle Spells#Dominate|dominate]]* (5 charges), *[[2nd-Circle Spells#Enthrall|enthrall]]* (2 charges), or *[[3rd-Circle Spells#Hypnotic Pattern|hypnotic pattern]]* (3 charges). Spells cast using the bagpipes require no components, but targets must be able hear its music in order to be affected. The spells don’t require concentration when cast in this way, though the playing does, and you must use a bonus action on subsequent turns to keep the song (and thus the spell) going, but this can be the same bonus action used to maintain a Bardic Performance. You can only play one song at a time.
 
+## Beachhead Banner
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Very Rare 50,000 gp (Requires Attunement by a Vanguard)*
+
+This long steel pole bears a banner with the coat of arms of a legendary hero. As an action, you can plant this banner in an unoccupied space within 5 feet of you. You can then spend one use of your War Banner feature to open a 15-foot radius teleportation circle centered on the *beachhead banner*. Everyone within that circle is transported to a different plane of existence.
+
+You can specify the target destination on the other plane in general terms, such as the city of Fandeval in the Shadow Realm, and you appear in or near that destination.
+
+When you and your companions, if any, arrive at the destination, your War Banner appears in the space where you placed the *beachhead banner*, while the *beachhead banner* itself remains on your plane of origin.
+
+So long as your War Banner and the *beachhead banner* remain (that is, you don’t become incapacitated, use an action to place a new banner, move more than 120 feet away from your War Banner, or choose to end the effect), the connection remains. Regardless, the effect ends when your banner expires (usually after 1 minute).
+
+Once the connection ends, any creature within the 15-foot radius of the banner on the destination plane returns to your plane of origin. Creatures outside that area remain on the destination plane.
+
 ## Bead of Force
 
 *Wondrous Item, Rare 650 gp each* This small, black sphere measures 3/4 of an inch in diameter and weighs 1 ounce. Typically, 1d4 + 4 *beads of force* are found together.
@@ -330,6 +363,28 @@ While wearing this wolf-hide belt, you can choose to use the following feature e
 *Wondrous Item, Uncommon 4,000 gp*
 
 This light cloak of fey silk is waterproof. While wearing this cloak in the rain, you can use your action to pull up the hood and become invisible for up to 1 hour. The effect ends early if you attack or cast a spell, if you use an action to pull down the hood, or if the rain stops. The cloak can't be used this way again until the next dawn.
+
+## Book of Baleful Bargains
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Very Rare 25,000 gp (Requires Attunement by a Warlock)*
+
+This stained tome is inscribed with hundreds of names. As an action, you can read one of these names aloud to summon an Undead—a former warlock, bound to the book by Wyrd magic. It appears within 10 feet of you and obeys your commands. It lasts until it is destroyed, until it is more than 30 feet away from you for 1 minute or more, until you become unconscious, or until the book closes. You can summon only one Undead at a time using this book.
+
+Summoning a creature from the book requires expending a spell slot of a circle corresponding to the Undead you wish to summon.
+
+**Baleful Bargains Summons**
+
+| Undead | CR | Spell Slot |
+|---|---|---|
+| Skeleton | 1/4 | 1st |
+| Shadow | 1/2 | 1st |
+| Ghoul | 1 | 2nd |
+| Specter | 1 | 2nd |
+| Wight | 3 | 3rd |
+| Ghost | 4 | 3rd |
+| Wraith | 5 | 4th |
 
 ## Book of Curses
 
@@ -604,6 +659,18 @@ While wearing this circlet, you gain the following benefits:
 - ***Friend of the Fey.*** You have advantage on ability checks to interact socially with Fey.
 - ***Poison Sense.*** You know if any food or drink you are holding contains poison.
 
+## Circlet of Syzygy
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Very Rare 15,000 gp (Requires Attunement by a Theurge)*
+
+This gold-and-silver circlet resembles two intertwined dragons holding two sides of a fire opal in their jaws.
+
+Wearing this circlet allows you to replace one spell you have prepared with another spell of the same circle— though not of the same source—transcribed within your libram. For example, if you’re a 3rd-level theurge, you could instantly replace one 1st-circle Arcane spell you currently have prepared with a 1st-circle Divine spell transcribed in your libram.
+
+Using this effect requires a bonus action and a number of Spellcraft dice equal to the spell circle you are replacing.
+
 ## Cloak of Arachnida
 
 *Wondrous Item, Very Rare 31,000 gp*
@@ -647,6 +714,14 @@ While you wear this cloak with its hood up, WIS (Perception) checks made to see 
 *(Requires Attunement)*
 
 This magic cloak has 3 charges and regains 1d3 expended charges daily at dawn. While wearing it, if a creature targets you with an attack or spell effect, you can use a reaction to expend 1 charge to force the attacker to make a DC 15 WIS save. On a failed save, the creature considers you irrelevant, deciding not to attack you, and must choose a new target or lose the triggering attack or spell.
+
+## Cloak of Meditation
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Very Rare 30,000 gp (Requires Attunement by a Sorcerer)*
+
+When you complete a short rest while wearing this cloak, instead of rolling randomly, you regain the maximum number of sorcery points: 5 at 5th level, 9 at 9th level, and so on. You can’t exceed the maximum sorcery points for your level in this way.
 
 ## Cloak of Protection
 
@@ -737,6 +812,14 @@ To “recharge” its transmission limit, the orb and its companion amulet must 
 *Wondrous Item, Uncommon 1,100 gp*
 
 This charm has 3 charges and regains 1d3 expended charges daily at dawn. As a reaction when you or another creature you can see within 30 feet are charmed, you can expend 1 charge to allow the save to be rerolled with advantage.
+
+## Cowl of the Wild
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Uncommon 500 gp (Requires Attunement by a Druid)*
+
+If you use the Beast Form druid feature while wearing this leather cowl, you don’t automatically revert to your normal form when you become unconscious or drop to 0 HP, though you do still revert if you die.
 
 ## Crystal Ball
 
@@ -894,6 +977,14 @@ In addition, you can make a CHA (Deception or Persuasion) check with advantage i
 
 - “Geyser” produces 30 gallons of water that gushes forth in a geyser 30 feet long and 1 foot wide. As a bonus action while holding the decanter, you can aim the geyser at a creature you can see within 30 feet of you. The target must succeed on a DC 13 STR save or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn’t being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 15 feet away from you.
 
+## Diadem of Focus
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Rare 4,000 gp (Requires Attunement by a Sorcerer)*
+
+While wearing this diadem, you can spend a sorcery point to add a +1 bonus to concentration checks to maintain your arcane spells. You can spend multiple sorcery points in this way to increase the bonus, to a limit equal to your PB.
+
 ## Dimensional Shackles
 
 *Wondrous Item, Rare 8,000 gp* You can use an action to place these shackles on an incapacitated creature. The shackles adjust to fit a creature of Small to Large size. In addition to serving as mundane manacles, the shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don’t prevent the creature from passing through an interdimensional portal.
@@ -923,6 +1014,16 @@ Once consumed, a candy takes effect immediately and lasts until dispelled or a d
 | Pillow Puff | Common | 10 gp |
 | Mellow Yellow | Uncommon | 100 gp |
 | Crystal Melon | Rare | 350 gp |
+
+## Drum of Interruption
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Uncommon 2,500 gp (Requires Attunement)*
+
+This brightly colored drum looks like an ordinary military drum and comes with a pair of bright red drumsticks. While you play the drums as an action, anyone within 60 feet who attempts to cast a spell with verbal components or concentrates on a spell must make a DC 13 CON save. On a failure, the spell fails and has no effect, or the caster loses concentration and the spell ends immediately. Note that this effect applies to all spellcasters within the area.
+
+You can stop playing at any time to end the drum’s effect but must take another action to resume playing.
 
 ## Dust of Disappearance
 
@@ -1273,6 +1374,20 @@ This volume details the foundations of a cult of the void and is bound in leathe
 
 ***Void Knowledge.*** The book functions as a source of alien wisdom that answers questions and prophesizes the future with frightening accuracy. As an action, you can pose one question to the book and make a DC 17 CHA save. On a success, you know the answer as if you used the *contact other* *plane* or *[[5th-Circle Spells#Legend Lore|legend lore]]* spells. On a failure, you suffer one level of void taint (see **Chapter 7**). Once used, this property of the book can’t be used again until the next dawn.
 
+## Hagseye Circlet
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Very Rare 40,000 gp (Requires Attunement by a Witch)*
+
+This delicate silver circlet holds a flawed moonstone. When worn, it resembles a gray eye in the middle of the wearer’s forehead. The circlet has 3 charges that can be used for the following effects. Each effect uses 1 charge. The circlet regains all expended charges at dusk.
+
+***Illusory Appearance.*** You can cover yourself and anything you are wearing or carrying with an illusion, making you look like another creature of your general size and Humanoid shape for 8 hours. The illusion doesn’t hold up to physical inspection, similar to the *disguise self* spell. Without physical contact, a creature can take an action to make a DC 20 INT (Investigation) check. On a success, it learns that your appearance is illusory.
+
+***Death Glare.*** As an action, select one creature you can see within 30 feet of you. That creature must succeed on a DC 15 WIS save or be frightened until the end of its next turn. If the target is already frightened and fails the save, it takes 6d6 psychic damage instead. If reduced to 0 HP in this way, the creature is stable.
+
+***Truesight.*** As an action, you gain truesight to a range of 60 feet, for a number of minutes equal to your PB. When this duration expires, you are blinded for an equal number of hours. You can end your truesight early to minimize this condition. You can also remove the blinded condition through *restoration* or similar means.
+
 ## Handy Haversack
 
 *Wondrous Item, Rare 8,000 gp* This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 20 pounds of material, not exceeding a volume of 2 cubic feet. The large central pouch can hold up to 8 cubic feet or 80 pounds of material. The backpack always weighs 5 pounds, regardless of its contents.
@@ -1291,6 +1406,14 @@ Placing the haversack inside an extradimensional space created by a *[[#Bag of H
 
 While wearing this hat, you can use an action to cast the *[[1st-Circle Spells#Disguise Self|disguise self]]* spell from it. The spell ends if the hat is removed.
 
+## Hat of Reproach
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Very Rare 10,000 gp (Requires Attunement by a Wizard)*
+
+This tall, pointy hat bears arcane symbols representing the various schools of magic. While wearing this hat, if you succeed on a save against a spell cast on you, the next spell you cast does not expend a spell slot, provided the spell you cast is of the same school and equal or lower circle than the spell you saved against.
+
 ## Haunted Doll
 
 *Optional, from Night Hunters.*
@@ -1308,6 +1431,30 @@ This dolly is made of rags and stuffed with straw. It has button eyes and patchw
 The doll’s personality is that of a mother who died in childbirth and whose spirit then possessed it to remain near her child. (Additional details, including whether the child is still alive as an adult or long since passed, at GM’s discretion.)
 
 The possessing spirit is filled with grief and wants to protect the PC attuned to the doll. However, it ultimately wishes to find a home with another child, whom it can play with and protect. If the attuned PC acts too far outside the spirit’s wishes, such as by refusing to help a child in need or ignoring the doll for too long, the spirit feels rejected, and as punishment, it withholds attunement for 24 hours—or longer, possibly even permanently.
+
+## Hawk-Eyed Oculus
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Rare 5,000 gp*
+
+When this small hawk statuette is set down and its command word spoken, you can see through the statue’s eyes for as long as desired, or until the distance between you and the statue exceeds 1 mile. While looking through the statue’s eyes, you are blind to your surroundings. As an action, you can change your vision between your own perspective and the statue’s.
+
+## Hawking Sign
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Uncommon 200 gp*
+
+This shop sign activates whenever someone passes within 20 feet, immediately and loudly announcing the shop’s wares and sales. A merchant who installs a *hawking sign* outside their shop has a +1 bonus on their daily Commerce Resolution checks and increases their closing Stake by 2%.
+
+## Headband of Awareness
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Rare 5,000 gp (Requires Attunement)*
+
+This leather headband grants you supernatural alertness. You can’t be surprised while you wear it, even while asleep, though it has no effect if you have the unconscious condition for any other reason.
 
 ## Headband of Intellect
 
@@ -1505,6 +1652,18 @@ A stone has AC 24 and 10 HP, and it is resistant to all damage. It is considered
 
 ***Sustenance (Rare, 4,000 gp).*** You don’t need to eat or drink while this clear spindle orbits your head.
 
+## Ioun Stone: Reciprocation
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Rare 16,000 gp (Requires Attunement by a Wizard)*
+
+When you use an action to toss this marbled lavender and blue sphere into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 DEX (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+
+A stone has AC 24 and 10 HP, and it is resistant to all damage. It is an object that is also a carried item while it orbits your head.
+
+This stone allows you to expend a spell slot filled with a prepared spell to cast a spell in your spell book of a lower circle that you don’t have prepared. Casting that spell causes the prepared spell to be lost and expends the spell slot it was prepared in.
+
 ## Iron Bands of Binding
 
 *Wondrous Item, Rare 8,000 gp* This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 60 feet of you. As the sphere moves through the air, it opens into a tangle of metal bands.
@@ -1663,3 +1822,5 @@ An Arcane circle spell on a *[[#Spell Scroll|spell scroll]]* can be copied just 
 *Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
 
 *Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+
+*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*

@@ -109,6 +109,24 @@ A single jar of *masking clay* contains enough material for one use.
 
 This medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the *[[2nd-Circle Spells#Detect Thoughts|detect thoughts]]* spell (save DC 13) from it. The *medallion* regains 1d3 expended charges daily at dawn.
 
+## Megaphone of Commanding Presence
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Rare 2,500 gp*
+
+This conical device is made of tree bark and decorated with images of laurel leaves. You can use it to cast *command* (targeting one creature up to 120 feet away) once until you finish a short or long rest. With a successful DC 15 WIS save, the target can resist your command.
+
+In addition, if you have the bardic performance class ability, the range of that ability is doubled while you use the megaphone.
+
+## Merchant’s Champion
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Common 200 gp*
+
+Found in shops in sketchy parts of town, this palm-sized figurine is in the shape of an alert watchman. If any violence occurs within 20 feet of the figurine, it shouts loudly, audible up to 300 feet, for the town guards until it is destroyed or until you speak its command phrase.
+
 ## Merfolk Belt
 
 *Optional, from Player's Guide 2.*
@@ -260,6 +278,16 @@ As a bonus action, you can speak the pot's command word and force it to roll dir
 
 This [[Northlands]] lyre is strung with cords made of braided jotun hair. As an action, you can play the talharpa to grant all your allies within 60 ft. who can hear it advantage on saves spells and effects that inflict the frightened condition and on STR (Athletics) checks for 1 hour. Once this ability has been used, it cannot be used again until the next dawn.
 
+## Pauper’s Grove
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Rare 4,000 gp*
+
+This bulging sack contains seeds, twigs, patches of fungus, feathers, and bits of animal fur. If you pour the contents out in a rough circle no greater than a 40-foot diameter, the area rapidly fills with grass, saplings, mushrooms, birds, and other small animals. The grove can be foraged for 45 pounds of food and 30 gallons of water (enough to sustain twenty Large or smaller creatures for 24 hours). After 10 minutes, the plant and animal life dissipates and dies off. The *pauper’s grove* can only be used once, after which the sack is no longer magical.
+
+A druid with the Wild Shape: Sacred Grove class feature can make this grove permanent by expending one use of Wild Shape, in which case the grove can be foraged in this way once per week until destroyed by other means.
+
 ## Pearl of Power
 
 *Wondrous Item, Uncommon 500 gp*
@@ -271,6 +299,16 @@ While this pearl is on your person, you can use an action to speak its command w
 ## Pendulous Periapt
 
 *Wondrous Item, Common 50 gp* This clockwork necklace contains tiny weights and gyroscopes enchanted to maintain balance with each other. When you make a weapon attack while wearing the necklace, you can forgo rolling a d20 to choose a result of 1 (failing in this way doesn't generate Luck). The next weapon attack you make within 1 minute is considered a critical hit, no roll required. Once used, this property can’t be used again until the next dawn.
+
+## Periapt of Fixation
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Rare 8,000 gp*
+
+This small bauble depicts a pair of hands cradling a tiger’s eye gemstone. While carrying the periapt, you have advantage on CON saves to maintain concentration on a spell when you take damage or suffer an effect that could potentially break concentration (this doesn’t apply to the CON saves you make at the start of each of your turns).
+
+If you can maintain two spells simultaneously (such as by the theurge’s Superior Focus feature), and you fail a concentration check while wielding this periapt, you can choose which of your two spells to maintain concentration on. The other spell immediately ends.
 
 ## Periapt of Health
 
@@ -338,6 +376,20 @@ If the *hole* is folded up, a creature within the *hole’s* extradimensional sp
 
 Placing a *[[#Portable Hole|portable hole]]* inside an extradimensional space created by a *[[Wondrous Items A–L#Bag of Holding|bag of holding]]*, *[[Wondrous Items A–L#Handy Haversack|handy haversack]]*, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
 
+## Portable Vault
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Very Rare 40,000 gp*
+
+This canvas bundle unfolds and sets up like an ordinary two-person tent, after which it hardens to a steel-like durability, and its 4 ft. by 4 ft. tent flap locks into place like a vault door. While set up, the tent can’t be moved, and it can be entered only by speaking the command word or with a successful DC 25 DEX (Sleight of Hand) check.
+
+The tent’s interior is an extradimensional space larger than its exterior: a 15 ft. by 15 ft. space with a 10 ft. ceiling, outfitted with shelves and racks. The space can hold anything that fits through the entrance.
+
+Opening a *bag of holding*, *handy haversack*, or similar item (including another *portable vault*) within this extradimensional space instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
+
+A second command word reverts the tent’s iron to canvas, so it can be folded up like an ordinary tent. While the vault is in tent form, anything that was stored within it exists in an extradimensional space and can’t be accessed. A breathing creature within a closed *portable vault* can survive for up to 20 minutes, after which time it begins to suffocate. The *portable vault* has AC 19 and 27 HP, and it weighs 20 lbs. in its canvas form.
+
 ## Portal Key
 
 *Optional, from Labyrinth Worldbook.*
@@ -379,6 +431,14 @@ This stone has a hole drilled through its center, through which runs a leather t
 When using the command “person,” the stone orients and gently pulls toward some number of people. The strength of the pull is stronger when the targets are closer or higher in quantity. The range is 1 mile per gathering of 100 humanoid people, 10 miles for 1000 people, or 100 miles for 10,000 people. A gathering is a temporary or permanent living community, such as a hamlet, village, or town.
 
 When using the command “gold,” the stone orients and pulls you toward valuables. The strength of the pull is stronger when the targets are closer or more valuable. The range is 10 feet for coins or art objects worth a total of 100 gp, 100 feet for coins or art objects worth a total of 1000 gp, or 1000 feet for coins or art objects worth a total of 10,000 gp. Whether you use it to find people or gold, it pulls you for 1 minute.
+
+## Resolute Boots
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Rare 4,000 gp*
+
+While wearing these rugged, hobnail boots and standing on solid ground, you can use a bonus action to root yourself to that spot. Your speed is 0 feet, and you can’t be forced to move or knocked prone by any means. You remain firmly in place until you choose to end the effect (no action required).
 
 ## Restorative Ointment
 
@@ -524,6 +584,14 @@ The rope has AC 20 and 20 HP. It regains 1 HP every 5 minutes as long as it has 
 
 In addition, you can use a bonus action to take the Dash action. Once you use this property, you can’t do so again until you finish a short or long rest.
 
+## Safe-and-Sound Alarm
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Common 100 gp*
+
+This thin silver wire can line a doorway or window frame and can be hidden or left visible. It comes with a small brass key. When someone opens the door or window without first touching the key to the frame, the alarm produces a constant ringing audible up to 60 feet away. The alarm sounds for 1 hour or until someone touches the key to the frame.
+
 ## Safety Goblet
 
 *Optional, from Player's Guide 2.*
@@ -585,6 +653,16 @@ As the heart of a lover scorned turns black and potent, so too does this pouch w
 *Wondrous Item, Uncommon (Requires Attunement) 3,000 gp*
 
 Aside from being carved from bone, this comb is a beautiful example of functional art. It has 3 charges. As an action, you can expend a charge to cast invisibility. Unlike the standard version of this spell, you are invisible only to Undead creatures. However, you can attack creatures who aren't Undead (and thus unaffected by the spell) without ending the effect. Casting a spell breaks the effect as normal. The comb regains 1d3 expended charges daily at dawn.
+
+## Searing Safe
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Uncommon 500 gp*
+
+This heavy metal safe is decorated with embossed fiends torturing robbers in fiery pits, and is accompanied by a matching key. When anyone attempts to open the safe without the key, the safe’s exterior begins to glow red hot for 1 minute. Any creature that touches the safe during this time takes 2d8 fire damage every round until they stop touching it, until the command word is spoken, or until the safe is destroyed. The safe has AC 19 and 18 HP.
+
+Objects inside the safe are not harmed by the heat. Note that even if the command word is given, the safe reactivates every time a creature attempts to open it without the key.
 
 ## Seidr Rune Necklace
 
@@ -676,6 +754,36 @@ When holding this shovel, as an action, you can speak its command word to make i
 
 Once the location is pinpointed, the shovel can be treated as adamantine for 1 minute to more easily dig up the treasure. Once this feature is used, the item can’t be used again until the next dawn.
 
+## Skintaker Cloak
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Varies Price Varies (Requires Attunement by a Barbarian)*
+
+Made from the hides of wild animals, *skintaker cloaks* confer a bonus to the wearer’s AC as well as an additional ability related to the animal’s nature. Further, each of those cloaks is considered a token of the animal, for purposes of certain barbarian class features.
+
+Unless otherwise noted, the effects of *skintaker cloaks* stack with the effects of barbarian features associated with the listed animal.
+
+**Skintaker Cloaks**
+
+| Animal | Price | AC Bonus | Effects |
+|---|---|---|---|
+| **Uncommon** |  |  |  |
+| Alligator | 600 gp | +2 | You can hold your breath for 10 minutes. |
+| Bear | 500 gp | +1 | You gain a +4 bonus to WIS (Perception) checks when perceiving by smell. |
+| Tiger | 1,000 gp | +2 | You gain darkvision 60 ft. |
+| Toad | 800 gp | +1 | Your long jump is 20 ft., and your high jump is up to 10 ft., even without a running start. |
+| **Rare** |  |  |  |
+| Hawk | 6,000 gp | +1 | You gain a flying speed of 40 ft. for up to 1 hour until you finish a long rest. |
+| Lizard | 5,000 gp | +2 | You can move on vertical surfaces while leaving your hands free, for up to 1 hour until you finish a long rest. |
+| Turtle | 5,000 gp | +1 | If you don’t move on your turn, you gain an additional +3 bonus to AC until the start of your next turn. |
+| Wolf | 6,000 gp | +3 | As a bonus action, you can growl at a creature you can see within 30 ft. The target must succeed on a DC 13 WIS save or be frightened until the end of its next turn. |
+| **Very Rare** |  |  |  |
+| Crane | 12,000 gp | +1 | You gain a flying speed of 40 ft. for up to 1 hour until you finish a long rest. In addition, you can make an unarmed strike as a bonus attack. This is a kick that deals 1d8 + your STR modifier. |
+| Ram | 12,000 gp | +1 | As a bonus action, you can unleash a terrifying scream that frightens creatures within 10 feet of you. Each creature in the area must succeed on a DC 13 WIS save or be frightened until the end of its next turn. |
+| Shark | 12,000 gp | +2 | You can breathe underwater, and you gain a swimming speed of 40 ft. You have advantage on melee attack rolls against any creature that has fewer than half its maximum HP. |
+| Snake | 12,000 gp | +2 | As a bonus action, you can bite an opponent within 5 feet of you. Your bite deals 1d6 + 2 piercing damage, and the target must make a DC 13 CON save, taking 2d4 poison damage on a failure, or half as much damage on a success. |
+
 ## Slip-Bane Bracelet
 
 *Optional, from Northlands Worldbook.*
@@ -723,6 +831,56 @@ One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute
 These shards are always created in pairs and can take any form, such as polished stones, faceted crystals, or small mirrors as pendants, and are inscribed with unique, matching glyphs. While touching a shard, as an action, you can send a short to the creature possessing the other stone, as the *[[3rd-Circle Spells#Sending|sending]]* spell (see *Player’s Guide*). A creature must have an INT of 5 (−3) or higher.
 
 Once used, the item can’t be used again until the next dawn. If one shard is destroyed, or its magic otherwise permanently deactivated, its twin suffers the same fate.
+
+## Spirit Effigy
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Uncommon varies*
+
+Made as a doll, wax figure, or carving, a *spirit effigy* allows you to affect a target creature of the type represented by the effigy. As an action, choose an appropriate creature within 30 feet, speak the command word, and choose one of the following effects:
+
+***Assist.*** You can use your reaction to take the Help action for the target creature, provided you can see the creature and it is within 30 feet of you.
+
+***Cast Spell.*** You can cast the following spells on the target creature via the effigy, if the target creature is in range: *blindness/deafness, cure wounds, hold, inflict wounds, lesser restoration, protection from poison, resistance,* and *restoration*. (See *Player’s Guide* for all spells.)
+
+***Cause Pain.*** As an action, you can damage the doll by stabbing it, holding it to a flame, or dripping acid on it. The target suffers 1d6 damage of the type inflicted upon the doll (piercing, fire, or acid).
+
+***Spasm.*** If the target creature is making an attack roll or a STR or DEX check or save, as a reaction, you can manipulate the doll to give it disadvantage on its roll.
+
+The target creature can make a DC 13 WIS saving throw to resist. On a failure, or if the creature chooses to fail it, apply the effect you chose. On a success, the target knows that someone nearby is trying to control their actions.
+
+A creature with resistance to the charmed condition has advantage on this WIS save. A creature with immunity to the charmed condition can’t be affected by this item.
+
+The cost for a spirit effigy depends on the creature type controlled. See the **Spirit Effigy Creature Types** table for prices.
+
+**Spirit Effigy Creature Types**
+
+| Creature Type | Price |
+|---|---|
+| Aberration | 1,000 gp |
+| Beast | 50 gp |
+| Celestial | 500 gp |
+| Construct | 250 gp |
+| Dragon | 1,000 gp |
+| Elemental | 500 gp |
+| Fey | 500 gp |
+| Fiend | 500 gp |
+| Giant | 500 gp |
+| Humanoid, Human | 100 gp |
+| Humanoid, Dwarf | 100 gp |
+| Humanoid, Elf | 100 gp |
+| Humanoid, Halfling | 100 gp |
+| Humanoid, Goblin | 100 gp |
+| Humanoid, Beastkin | 100 gp |
+| Humanoid, Kobold | 100 gp |
+| Humanoid, Orc | 100 gp |
+| Humanoid, Syderean | 250 gp |
+| Humanoid, Gnome | 100 gp |
+| Monstrosity | 100 gp |
+| Ooze | 250 gp |
+| Plant | 50 gp |
+| Undead | 100 gp |
 
 ## Spirit Stick
 
@@ -823,6 +981,16 @@ The rituals to prepare and light the thurible take 10 minutes and can be done as
 *Wondrous Item, Very Rare 30,000 gp*
 
 Appearing to be merely a copper statue of a seated dwarf, this duergar marvel is actually a magic and clockwork automaton. When the command word is spoken, the device duplicates itself until there are enough dwarves to row the entire ship. A single *tireless rower* can replace the rowing crew of a longship for 8 hours. It needs to recharge for 8 hours before it can be used again.
+
+## Traveling Tool Chest
+
+*Optional, from Trade Secrets.*
+
+*Wondrous Item, Rare 8,000 gp (Requires Attunement)*
+
+This heavy wooden chest has intricate metal fittings and several elaborate drawers and compartments, capable of carrying three separate tool sets of your choice that you can load into it. When you tap the chest while speaking the command word, the chest unlocks, opens, and unfolds into a kind of compact workshop, complete with a small bench. It re-closes in the same way. Opening or closing the chest takes 30 seconds.
+
+When not in use, the *traveling tool chest* follows you at a distance you tell it, sprouting tiny mechanical legs that give it a speed of 30 feet. The chest is a Medium object with AC 15 and 10 HP.
 
 ## Treebleed Bucket
 
@@ -1024,3 +1192,5 @@ As an action, you can throw this magic stuffed toy at a point within 30 feet, wh
 *Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
 
 *Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+
+*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*

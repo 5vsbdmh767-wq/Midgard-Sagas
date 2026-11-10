@@ -558,6 +558,290 @@ In addition, as an action, you can summon three **will-o’-wisps** that remain 
 
 **17th Level.** You now gain a +3 bonus to spell attack rolls while holding the lantern, instead of +2, and the cone of eldritch light can now be used three times before the next dawn.
 
+## More Fabled Items (Trade Secrets)
+
+*Optional, from Trade Secrets.*
+
+Fabled items are magic items that grow in power as their owner does. This section details several new fabled magic items, each listing key information, such as its type, any attunement factors, and a description of its properties.
+
+## Ancestral Armor
+
+*Armor, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Vanguard)*
+
+This ornate plate armor is fashioned to resemble a kind of humanoid-shaped fortress. While wearing it, you add 5 feet to the range of your War Banner feature’s effects, provided you remain within 5 feet of the banner. In addition, as an action, you can double your size as the enlarge effect of *[[2nd-Circle Spells#Enlarge/Reduce|enlarge/reduce]]* spell, once until you finish a long rest.
+
+***Ramparts (Requires Attunement).*** As your level increases, you gain the following benefits any time you are wearing this armor.
+
+***5th Level.*** Until the start of your next turn, you gain a +2 bonus to AC if you neither move nor attack on your turn. You also gain advantage on checks and saves to resist being knocked prone or moved. The bonus continues on your turn if you don’t attack or move. The bonus ends if you are knocked prone or forced to move.
+
+***9th Level.*** Instead of a 5-foot range bonus, the range of your war banner’s effect now doubles if you neither move nor attack on your turn. In addition, each of your allies within 10 feet of you while you are neither moving nor attacking gains a +2 bonus to their own AC and DEX saves.
+
+***13th Level.*** Your AC now increases by +5 if you neither move nor attack on your turn. You can’t be knocked prone or moved. The effect ends when you attack or move. In addition, allies within 10 feet of you regain 3d8 HP at the beginning of each of your turns, as ghostly servants tend to their wounds.
+
+***17th Level.*** Each ally within 10 feet of you while you are neither moving nor attacking now gains a +5 bonus to its AC and DEX saves. Furthermore, you can direct spectral soldiers to fire ghostly ballistae every other round at any target within 120 feet, using your attack bonus. Each successful hit deals 3d10 piercing damage.
+
+## Blades of Blood and Fury
+
+*Weapons, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Barbarian)*
+
+This pair of well-worn handaxes has seen decades or centuries of use. They serve as simple magical weapons with a +1 bonus to attack and damage rolls.
+
+***Blood Rage (Requires Attunement).*** As your level increases, wielding this pair of handaxes grants you the following additional benefits.
+
+***5th Level.*** When you slay an enemy while raging, the duration of your rage increases by 2 rounds.
+
+***9th Level.*** The handaxes now provide a +2 bonus to attack and damage rolls instead of +1. Their thrown range increases to 40 feet with a long range of 120 feet. When you roll a 20 on an attack roll when throwing one of these axes, a wave of thunderous force sweeps along the path of the throw. Every creature in a 5-foot line from you to the target must make a CON save. On a failure, a creature takes 2d8 thunder damage and is pushed 5 feet away from the line in a direction it chooses. On a success, creatures are only pushed and take no damage.
+
+***13th Level.*** As a bonus action, you can call a thrown handaxe back to your hand from anywhere on the same plane. You must have at least one free hand to catch it.
+
+***17th Level.*** The handaxes now provide a +3 bonus to attack and damage rolls instead of +2, and you maximize your weapon damage dice against the target. If both axes hit the same target, it takes an extra 4d6 slashing damage.
+
+## Crown of the Spellspeaker
+
+*Wondrous Item, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Sorcerer)*
+
+This simple brass crown is engraved with images of figures from various walks of life, bowing toward a small sapphire in the center of the crown’s brow. When you wear this crown, you gain a +2 bonus to your CHA and can cast the *[[Cantrips#Message|message]]* cantrip. However, if you use the Subtle Spell Metamagic feature, you can’t cast the spell silently while wearing the crown.
+
+***Noble Mien (Requires Attunement).*** As your level increases, you gain the following benefits while you are wearing the crown.
+
+***5th Level.*** When you cast a spell with a verbal component, your spell save DC increases by 1. Once until the next dawn, when a creature fails a save against one of your spells with a verbal component, you immediately regain a 1st- or 2nd-circle spell slot. ***9th Level.*** When you cast a spell with a verbal component, your spell save DC now increases by 2 instead of 1. If the spell involves speaking a command (such as *[[2nd-Circle Spells#Suggestion|suggestion]]*) or conveying a message (such as *[[3rd-Circle Spells#Sending|sending]]*), you can apply the Twinned Spell Metamagic feature to it at half the normal sorcery point cost (rounded up).
+
+***13th Level.*** When you cast a spell with a verbal component, targets now suffer disadvantage on their save. If the spell is of the enchantment school, and has a casting time of 1 action, you can cast the spell as a bonus action instead, but it is still the only spell you can cast this round.
+
+***17th Level.*** When you cast a spell with a verbal component, your spell save DC now increases by 3 instead of 2. In addition, you can cast *[[9th-Circle Spells#Wish|wish]]*, suffering the stressful effects detailed in that spell’s description regardless of the effect you choose. Once you cast *[[9th-Circle Spells#Wish|wish]]* from the crown, you can’t cast it again until the next month has passed.
+
+## Direhide
+
+*Armor, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Ranger)*
+
+This hide armor is made from the pelt of a timber wolf, with a cowl that shows the beast’s snarling snout. While wearing it, as an action, you can transform into a dire wolf (see *Monster Vault*) for up to one hour until the next dawn. This ability otherwise follows the Rules of Transformation, as outlined in the druid’s Wild Shape feature.
+
+***Feral Armor (Requires Attunement).*** As your level increases, you acquire the following additional benefits while wearing this armor.
+
+***5th Level.*** You gain a +1 bonus to your AC. In addition, you can now transform into a dire wolf for up to two hours. You also gain the ability to track by smell, allowing you to make WIS (Survival) checks with advantage if your quarry leaves any scent behind. You can use the tracking feature without transforming into a dire wolf.
+
+***9th Level.*** You gain a +2 bonus to your AC, instead of +1. In addition, you can now transform into a dire wolf for up to four hours. If you succeed on a WIS (Survival) check to track a creature, you can also place a Mystic Mark on it, even if you have not hit it with an attack roll or isn’t within your line of sight.
+
+***13th Level.*** You gain resistance to piercing and slashing damage. In addition, you can now transform into a dire wolf for up to eight hours. If you succeed on a WIS (Survival) check to track a creature that you’ve placed your Mystic Mark on, even if it isn’t within your line of sight, you immediately know the creature’s immunities, resistances, and vulnerabilities, or if it has none. This feature doesn’t function if the target is magically concealed by a *[[3rd-Circle Spells#Nondetection|nondetection]]* spell or similar effect that counters divination magic. Finally, you have advantage on attack rolls that you make against that creature, as long as your Mystic Mark remains on it.
+
+***17th Level.*** You gain a +3 bonus to your AC, instead of +2. You can now remain in dire wolf form indefinitely, even when you are unconscious or drop to 0 HP.
+
+## Enforcer of the Pact
+
+*Wondrous Item, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Warlock)*
+
+This tiny figurine, in the vague shape of a humanoid, bears the symbol of your patron. As an action, you can use it to summon a homunculus (see *Monster Vault*). The homunculus disappears after 8 hours and serves you as well as it can, including with its Bound Construct trait. If you have a familiar, it is intensely jealous, and tries to kill it if both are left unsupervised. You can dismiss the homunculus at any time, as a bonus action. You can summon the homunculus again after the next midnight.
+
+***Menacing Servant (Requires Attunement).*** As your level increases, you can summon increasingly powerful creatures. As with the homunculus, the creature can be summoned for 8 hours before disappearing, can be dismissed as a bonus action, and if not destroyed, can be summoned again after midnight. In addition, if you significantly violate the terms of the pact with your patron (to your patron’s understanding), the creature might attack you as punishment.
+
+***5th Level.*** As an alternative to the homunculus, you can now choose to summon a flesh golem (see *Monster Vault*) with 65 HP that remains for 8 hours. If the flesh golem is reduced to 30 HP or fewer, it goes berserk, as detailed in its Berserk trait. You can dismiss it as a bonus action, but if you do so while it is berserk, it reappears 1d4 rounds later and continues its rampage. If the flesh golem is destroyed, you can’t summon it again for 2d4 days.
+
+***9th Level.*** As an alternative to either of the previous forms, you can now choose to summon a clay golem with 75 HP. If the clay golem is destroyed, you can’t summon it again for 2d6 days.
+
+***13th Level.*** As an alternative to any of the previous forms, you can now choose to summon a stone golem with 85 HP. If the stone golem is destroyed, you can’t summon it again for 2d8 days.
+
+***17th Level.*** As an alternative to any of the previous forms, you can now choose to summon an iron golem with 95 HP. If the iron golem is destroyed, you can’t summon it again for 2d12 days.
+
+## The Great Making of Nashem-Puir
+
+*Wondrous Item, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Mechanist)*
+
+This complicated, overwrought box is made of iron, copper, brass, glass, and several different types of wood. Originally created by the mechanist Nashem-Puir, it was meant to be the defining creation of her career: a masterpiece by which all other mechanists would be judged.
+
+However, the longer she worked on it, the more she revised it, correcting previous design issues or expanding the scope of the project. After her death, the Great Making passed on to her apprentice, then his apprentice, and so on, each making their own revisions, and upgrades until the item is now a hodgepodge of design philosophies and skill levels.
+
+The box itself is 6 inches on a side. The surfaces are irregular, with numerous buttons, dials, switches, and catches. A mechanist who uses this box can create a replacement shard of creation as a 10-minute ritual instead of 1 hour.
+
+***Life’s Work (Requires Attunement).*** You gain additional benefits from the *Great Making of Nashem-Puir* as you advance in level. Accessing many of these benefits means replacing prior benefits (and thereby losing access to them). If you choose to replace a prior benefit when you are first given the option, you can revise your decision each time you gain a level. Making these changes requires 1 hour, whenever you choose to do them.
+
+***5th Level.*** *Maker’s Vision*: The box unfolds into a pair of goggle-like lenses that allow you to use your Eyes of the Maker class feature at a range of up to 30 feet.
+
+***9th Level.*** *Turret Mode*: As an action, you can attach the box to a light crossbow, heavy crossbow, or hand crossbow (or similar ranged weapon, at the GM’s discretion), to allow it to operate independently of you. The weapon remains where it was placed, and attacks one creature of your choice within range that you could see if you were operating it. It uses the same attack bonus you would have with the weapon and adds your INT modifier to its damage rolls. The weapon automatically reloads itself if the appropriate ammunition is within 5 feet.
+
+Optional Replacement—*Expanded Scope*: You can re- engineer the box’s *Maker’s Vision* ability to instead create a spyglass-like device that doubles the range of the Detecting augment effect.
+
+***13th Level.*** *Ambulance*: When you are reduced to 0 HP or incapacitated, at the end of your turn, the box reconfigures itself into an exoskeleton that attaches to your armor and clothing. On your next turn, the exoskeleton pilots your unconscious or incapacitated form to the nearest location where you are not in danger (such as behind cover or a nearby room, as determined by the GM). The exoskeleton then remains in place and healing you for 1d4 hit points every round until you are at half your maximum hit points or you instruct it to stop.
+
+Optional Replacement—*Siege Mode*: You can re-engineer the *Turret Mode* trait of the box to instead attach to and operate a siege weapon, such as a ballista. The siege weapon attacks one creature or object of your choice within range. It uses the same attack bonus you would have with the weapon and adds your INT modifier to its damage rolls. The weapon automatically reloads itself if the appropriate ammunition is within 5 feet, but the weapon can’t move until you deactivate siege mode by removing the box from it.
+
+***17th Level.*** You gain greater control over the Ambulance trait of the box. You can instruct it in advance to deliver your unconscious form to a specific individual. In addition, if you are conscious and within 5 feet of the *Great Making of Nashem-Puir*, you can instruct it to perform its Ambulance function on any creature you can see within 60 feet. If you fall unconscious or become incapacitated during that time, however, it abandons its other target to tend to you.
+
+Optional Replacement—*Area Denial*: You can re-engineer the *Siege Mode* trait to instead create a 10-foot-sphere of invisible force. Nothing can physically pass through the sphere. It is immune to all damage and can’t be dispelled by the *[[3rd-Circle Spells#Dispel Magic|dispel magic]]* spell. However, a *[[6th-Circle Spells#Disintegrate|disintegrate]]* spell destroys the field instantly, and renders the *Great Making of Nashem- Puir* inoperative for 2d4 days.
+
+## Harrowhelm
+
+*Wondrous Item, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Paladin)*
+
+This gleaming metal helmet is adorned with a pair of angelic wings. You have immunity to being frightened when you wear it, and you can touch an ally to end the frightened condition as a bonus action.
+
+***Foe of the Fiendish (Requires Attunement).*** As your level increases, wearing the helmet affords you the following additional benefits.
+
+***5th Level.*** When at least one Fiend is within 30 feet of you, *Harrowhelm* glows with bright light. Creatures within 30 feet are affected as though in sunlight. You can also use the helm to cast *[[3rd-Circle Spells#Spirit Guardians|spirit guardians]]* once until the next dawn.
+
+***9th Level.*** You can expend one use of your Channel Divinity ability to cast *[[5th-Circle Spells#Dispel Evil and Good|dispel evil and good]]* once until the next dawn.
+
+***13th Level.*** You can expend one use of your Channel Divinity ability to cast *[[7th-Circle Spells#Divine Word|divine word]]* once until the next dawn.
+
+***17th Level.*** You can cast the *[[8th-Circle Spells#Holy Aura|holy aura]]* spell from the helm with a duration of 1 hour once until the next dawn.
+
+## Mailcoat of the Living Martyr
+
+*Armor, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Cleric)*
+
+This resplendent coat of scale mail armor never dulls or tarnishes. It is *+1 scale mail*. While wearing it, you can touch a blinded, deafened, paralyzed, or poisoned creature and remove that condition as a bonus action.
+
+***Armor of Faith (Requires Attunement).*** As your level increases, you acquire the following additional benefits while wearing this armor.
+
+***5th Level.*** As an action, you can cast *[[3rd-Circle Spells#Remove Curse|remove curse]]* on a creature. However, instead of ending the curse, you transfer it to yourself. When you do so, you can immediately attempt a DC 15 WIS save. On a success, the curse ends. On a failure, you are afflicted by the curse, and can remove it by other means. If the creature is cursed because of an item, the curse does not transfer to you. You can use this effect once until the next dawn.
+
+***9th Level.*** As an action, you can expend one use of Channel Divinity to touch a creature and immediately cure it of all nonmagical diseases. Any disease transfers to you, as though you had at that moment come into contact them for the first time. You can immediately make a DC 15 CON save for each disease you take on yourself. On a success, the disease ends.
+
+***13th Level.*** As an action, you can expend one use of Channel Divinity to touch up to two other creatures and transfer any number of your current hit points to them, even if doing so would bring your hit point total to 0. If you expend another use of your Channel Divinity, you can afterward cast *[[6th-Circle Spells#Heal|heal]]* upon yourself as a bonus action.
+
+***17th Level.*** As an action, you can expend one use of Channel Divinity to cast *[[9th-Circle Spells#Mass Heal|mass heal]]*, after which you immediately become incapacitated until you finish a short or long rest.
+
+## Mask of the Laughing Knave
+
+*Wondrous Item, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Bard)*
+
+This gold-trimmed carnival mask is expressionless and completely covers the wearer’s face. While wearing it, you can cast the *[[1st-Circle Spells#Disguise Self|disguise self]]* spell from it as often as you wish. In addition, your speed increases by 10 feet and you can double your normal jumping distance (though no further than your remaining movement allows).
+
+***Thrilling Heroics (Requires Attunement).*** As your level increases, wearing the mask affords you the following additional benefits.
+
+***5th Level.*** Your speed increases by 20 feet instead of 10 feet, and you can walk on water or other harmless liquid as easily as solid ground. If you move across a harmful liquid such as lava or acid, you still take damage from the substance. If you end your move on a liquid, the water walking effect ends until you return to dry ground.
+
+***9th Level.*** You can cast the *[[2nd-Circle Spells#Alter Self|alter self]]* spell from the mask as often as you wish. In addition, your CHA score increases by 2, to a maximum of 20.
+
+***13th Level.*** When you use the mask to cast *[[1st-Circle Spells#Disguise Self|disguise self]]*, you can also cast *[[2nd-Circle Spells#Enhance Ability|enhance ability]]* upon yourself, applying any two effects from the list, instead of one (see *Player’s Guide*). This effect lasts until you finish a short or long rest and does not require concentration. Once used, this *[[2nd-Circle Spells#Enhance Ability|enhance ability]]* effect can’t be used again until the next dawn.
+
+***17th Level.*** As an action, when you use the mask to impersonate a specific Humanoid, you can exchange physical locations with it via teleportation, provided it is within 1 mile of you. The Humanoid arrives in whatever clothing they are currently wearing, with whatever gear they have on their person, in whatever condition they happen to be in (such as unconscious or dead). The target can choose to make a DC 17 WIS save to resist being teleported to your location. On a success, you still teleport, arriving in the nearest empty space to them. You can use this effect three times until the next dawn.
+
+## Pack of Peerless Purloining
+
+*Wondrous Item, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Rogue)*
+
+This dark canvas haversack is unremarkable, and even emptying the pockets produces nothing more than a suit of common clothes, a suit of fine clothes, and some lint. While you carry the pack, you can cast *[[3rd-Circle Spells#Nondetection|nondetection]]* on yourself from it once until the next dawn.
+
+***Pilfering Pockets (Requires Attunement).*** As your level increases, the pack provides you with additional benefits.
+
+***5th Level.*** The pack functions as a more compact *[[Wondrous Items A–L#Handy Haversack|handy haversack]]*. Its central pouch can hold up to 4 cubic feet or 40 pounds of material, while each of its two side pockets can hold up to 10 pounds of material, not exceeding 1 cubic foot each. The backpack always weighs 5 pounds, regardless of its contents.
+
+When first opened, the central pouch contains a bullseye lantern (filled but unlit), a steel mirror, and 50 feet of silk rope. One of the side pockets holds a set of *[[Wondrous Items A–L#Dancing Lockpicks|dancing lockpicks]]* (see *Player’s Guide*). If you lose the lockpicks or if they become nonmagical, another set appears in the pocket 1d4 hours after you notice.
+
+Placing an object in a pouch or pocket follows the normal rules for interacting with objects. Retrieving an item from the pack requires an action. When you reach into the pack for a specific item, that item is always magically on top.
+
+If a sharp object pierces or tears the pack, it ruptures and is destroyed. If the pack is destroyed, its contents are lost forever, although exceptionally powerful magic items lost in the bag tend to turn up again somewhere. Turning the pack inside out produces nothing of value; items that you previously placed inside the pack don’t spill out. If a breathing creature is placed within the pack, the creature can survive for up to 10 minutes until it begins to suffocate.
+
+Placing the pack inside an extradimensional space created by a *[[Wondrous Items A–L#Bag of Holding|bag of holding]]*, *[[Wondrous Items M–Z#Portable Hole|portable hole]]*, *[[Wondrous Items A–L#Handy Haversack|handy haversack]]*, *portable vault*, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
+
+***9th Level.*** You discover an additional pouch on the pack that holds up to 4 cubic feet or 40 pounds of material. When discovered, it contains a *[[Potions#Potion of Due Notice|potion of due notice]]*, a *[[Potions#Potion of Climbing|potion of climbing]]*, and a *[[Potions#Potion of Invisibility|potion of invisibility]]* (all clearly labeled). If you consume one of these potions and return the empty vial to the pocket, the pouch contains a new dose of that potion 1d4 days later. ***13th Level.*** While wearing the pack, if you use the Evasion class ability and take no damage from an area effect, you can choose to become invisible as the *[[2nd-Circle Spells#Invisibility|invisibility]]* spell for 2d4 minutes, or until you decide to end the effect. ***17th Level.*** You can open and unfold all of the pouches and pockets of the pack to create a 5-foot-square door over the course of 1 minute. Once assembled, the door opens to a demiplane, which appears as a room 30 feet in each dimension, made of stone. This room contains every item you have ever placed in the *Pack of Peerless Purloining*. It also contains a 12-foot rowboat with oars, a 24-foot wooden ladder, a 2-person tent, and a donkey cart with no donkey.
+
+You can remain in this demiplane indefinitely but can’t close the door unless you are outside. If someone else closes the pack while you are inside, you become trapped in the room, but the air supply is seemingly infinite.
+
+## Plume of Names
+
+*Wondrous Item, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Theurge)*
+
+An ostentatious quill made from a peacock’s feather; the *Plume of Names* allows you to use you libram to record the names of creatures. You can use the quill to write the names of a number of allied creatures equal to your PB. So long as their names are inscribed in your libram, you can cast *[[3rd-Circle Spells#Sending|sending]]* to any of those creatures without expending a spell slot.
+
+***Magical Tale (Requires Attunement).*** As your level increases, you gain the following benefits while using this quill pen to write in your libram. Note that a creature’s name must be the name by which it refers to itself (rather than what others call it, or how they describe it), for purposes of these effects.
+
+***5th Level.*** When you gain a theurge level, you can record a spell from an ally’s list of known spells into your libram, if that ally’s name is also inscribed in it with this quill. Doing so replaces a spell in your libram of the same circle.
+
+***9th Level.*** When you cast a spell that requires you to name a target (such as *[[Rituals 1st–3rd Circle#Locate|locate]]* or *[[5th-Circle Spells#Legend Lore|legend lore]]*), you can cast it using a spell slot one circle lower than the spell’s circle.
+
+***13th Level.*** You now have a telepathic link with up to five willing creatures whose names are inscribed in your libram with this quill, as the spell *[[5th-Circle Spells#Telepathic Bond|telepathic bond]]*. Each creature can opt into and out of the link at will. If you erase a creature’s names, they are removed from the link. If your libram is destroyed, you must re-inscribe their names to re-establish the link.
+
+***17th Level.*** You can inscribe the name of a creature who has been dead for up to 500 years (provided they did not die of old age or are not currently Undead). If that creature’s remains are within 60 feet of you, and its soul is free and willing, it is immediately returned to life, as the spell *[[Rituals 7th–9th Circle#True Resurrection|true resurrection]]*. However, if you erase their name from your libram, if your libram is destroyed, or you resurrect any other creature by this means, the current resurrected creature immediately disintegrates.
+
+## Sanguine Spellbook
+
+*Wondrous Item, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Wizard)*
+
+This stained leather spellbook is bulging with pages inked in blood. If you prepare spells from this book, the DC of any saving throw required by the spell increases by 1. When you acquire this book, it has the following spells recorded in it: *[[1st-Circle Spells#False Life|false life]]*, *[[1st-Circle Spells#Hideous Laughter|hideous laughter]]*, *[[2nd-Circle Spells#Blindness/Deafness|blindness/deafness]]*, *[[2nd-Circle Spells#Detect Thoughts|detect thoughts]]*, *[[3rd-Circle Spells#Fear|fear]]*, *[[3rd-Circle Spells#Nondetection|nondetection]]*, and *[[4th-Circle Spells#Arcane Eye|arcane eye]]*.
+
+***Sinister Aspect (Requires Attunement).*** As your level increases, you gain the following benefits while using this book.
+
+***5th Level.*** When you record a new 1st- or 2nd-circle spell into this book, you can choose to make it a rote spell for you (as the wizard class feature), but your hit point maximum decreases by one per circle for each spell you record in this way. This reduction can’t be offset by any means as long as you are attuned to the spellbook.
+
+***9th Level.*** The *[[5th-Circle Spells#Modify Memory|modify memory]]* spell appears in the spellbook. If you had already recorded *[[5th-Circle Spells#Modify Memory|modify memory]]* in it, the old page is missing, and the new page is recorded in someone else’s handwriting. When you prepare *[[5th-Circle Spells#Modify Memory|modify memory]]* from this spellbook, the target has disadvantage on its WIS saving throw to resist.
+
+***13th Level.*** The *[[7th-Circle Spells#Sequester|sequester]]* spell appears in the spellbook. If you had already recorded *[[7th-Circle Spells#Sequester|sequester]]* in it, the old page is missing, and the new page is recorded in someone else’s handwriting. When you prepare *[[7th-Circle Spells#Sequester|sequester]]* from this spellbook, you can affect a target up to 30 feet away instead of at touch range.
+
+***17th Level.*** The *[[9th-Circle Spells#True Polymorph|true polymorph]]* spell appears in the spellbook. If you had already recorded *[[9th-Circle Spells#True Polymorph|true polymorph]]* in it, the old page is missing, the new page is recorded in someone else’s handwriting, and you find you have a nonmagical crystal ball among your belongings. When you prepare *[[9th-Circle Spells#True Polymorph|true polymorph]]* from this spellbook, the target has disadvantage on its WIS saving throw to resist.
+
+## Scepter of the Warrior King
+
+*Rod, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Fighter)*
+
+This weighty iron rod has golden inlays and fittings. Some kingdoms consider it a historical artifact from their early ruler. It serves as a magic mace with a +1 bonus to attack and damage rolls. As an action, you can also command it to take the form of a portable ram or return to its rod form. The rod’s bonus to attack and damage applies to any form the mace takes at your command.
+
+***Royal Armory (Requires Attunement).*** As you advance in level, you gain additional benefits while wielding this rod.
+
+***5th Level.*** As a bonus action, you can command the rod to take the form of a battleaxe or return to rod form. When you hit a Giant with this battleaxe, it deals an extra 2d6 slashing damage and must succeed on a DC 15 STR save or fall prone.
+
+***9th Level.*** The rod now provides a +2 bonus to attack and damage rolls instead of +1. As a bonus action, you can command the rod to take the form of a lance or return to rod form. When you hit a Dragon with this lance, it deals an extra 3d6 piercing damage.
+
+***13th Level.*** As a bonus action, you can command the mace to take the form of a *flame tongue greatsword* or return to rod form. The flames are harmless to you and the weapon, and they shed bright light in a 40-foot radius and dim light for another 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop the sword, sheathe it, or change its form.
+
+***17th Level.*** The rod now provides a +3 bonus to attack and damage rolls instead of +2. As a bonus action, you can command the rod to take the form of a greataxe or return to rod form. This greataxe ignores resistance to slashing damage. When you roll a 20 on your attack roll with it, it deals an extra 4d6 slashing damage.
+
+## Skein of Weal and Woe
+
+*Wondrous Item, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Witch)*
+
+This bundle of gray thread appears nondescript. You can used it to make small repairs in clothing, and the skein remains the same size, no matter how much of it you use You can unravel the skein to cast the *[[Rituals 1st–3rd Circle#Augury|augury]]* ritual spell with no other material components once until the next dawn.
+
+***Fates Foretold (Requires Attunement).*** As your level increases, you gain the following benefits while you remain attuned to the skein. Each of these abilities requires that you weave the skein’s thread into a kind of miniature tapestry, depicting the life of a specific creature you choose. Doing so requires 10 minutes of work. When you unravel your creation, rewinding the skein takes 1 minute before you can use an effect again.
+
+***5th Level.*** You can cast *[[3rd-Circle Spells#Bestow Curse|bestow curse]]* or *[[3rd-Circle Spells#Remove Curse|remove curse]]* from the skein on the creature you depicted by touching it with the cloth. The thread then unravels. If you cast *[[3rd-Circle Spells#Bestow Curse|bestow curse]]* with it, the target can make a DC 17 WIS save, resisting the effects on a success.
+
+***9th Level.*** You can cast *[[4th-Circle Spells#Compulsion|compulsion]]* or *[[4th-Circle Spells#Confusion|confusion]]* from the skein on the creature you depicted, plus any three creatures you choose within 10 feet of it. The thread then unravels. Each creature affected by either spell can make a DC 19 WIS save, resisting the effects on a success.
+
+***13th Level.*** You can cast *[[8th-Circle Spells#Greater Dominate|greater dominate]]* from the skein on the creature you depicted. The target can make a DC 21 WIS save, resisting the effects on a success. The thread unravels after 10 minutes, or when the target successfully saves against this effect.
+
+***17th Level.*** You can cast *[[Rituals 7th–9th Circle#Imprisonment|imprisonment]]* from the skein on the creature you depicted. The target can make a DC 23 WIS save to resist becoming trapped in the tapestry, where they can thereafter be seen struggling against some barrier. The effect ends when you the thread unravels or after you finish a long rest.
+
+## Wand of the Wodewalker
+
+*Wand, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Druid)*
+
+This rough-hewn yew wand always gives off a greenish glimmer, as though it were reflecting some unseen light source. While wielding it in one hand, you gain a +10 bonus to DEX (Stealth) checks and can’t be tracked by nonmagical means. As an action, you can confer these effects on anyone you choose within 30 feet of you, for up to an hour. This transference can be used once until the next dawn.
+
+***Deep Forester (Requires Attunement).*** As you advance in level, the *Wand of the Wodewalker* provides additional benefits.
+
+***5th Level.*** You permanently gain the ability to understand the language of plants as the *[[3rd-Circle Spells#Speak with Plants|speak with plants]]* spell. You can ask questions and gain information about anything that took place within 30 feet of the plant. In addition, with a successful DC 15 CHA check, you can turn difficult terrain caused by plant growth (thickets, undergrowth, and so on) into ordinary terrain that lasts for a number of hours equal to your level, or vice versa. Each successful CHA check affects a 30-foot radius of such terrain.
+
+***9th Level.*** You can cast *[[5th-Circle Spells#Tree Stride|tree stride]]* from the wand, no action required. You can use this ability for a number of minutes equal to your PB, after which you can’t use this ability again until you finish a long rest.
+
+***13th Level.*** You gain the ability to cast *[[Rituals 4th–6th Circle#Commune with Nature|commune with nature]]* from the wand as an action, rather than as a ritual. Once per minute, you learn one additional fact about the surrounding area, as described in the spell (see *Player’s Guide*). While you are maintaining this spell, you are in a trancelike state, and are considered blinded and deafened. You can exit this trance as an action.
+
+***17th Level.*** You can enter a tree as an action by expending 5 feet of movement, and move from inside it to another tree anywhere on the same plane of existence, as the *[[6th-Circle Spells#Transport Via Plants|transport via plants]]* spell. You can’t use this ability again until you finish a short rest. If you allow other creatures to accompany you, you must take a long rest before you can use this ability again.
+
+## Wraps of the Enlightened Path
+
+*Weapon, Fabled Priceless (5th-Level and Higher Properties Require Attunement by a Monk)*
+
+These four cloth wraps are marked with symbols of celestial purity and serenity. When properly wrapped around your hands, wrists, shins, and ankles, they can be aligned to form new symbols, representing martial prowess and enlightened awareness. While wearing them, you gain a +1 bonus to your AC, and you have advantage on your first attack after using the Patient Defense technique.
+
+***Serene Action (Requires Attunement).*** You gain additional benefits from the wraps as you advance in level, provided you are not wearing armor or wielding a shield.
+
+***5th Level.*** When you use your Flurry of Blows feature, you can spend 1 additional technique point to activate your Patient Defense technique as part of the same bonus action.
+
+***9th Level.*** You now gain a +2 bonus to your AC, instead of +1. You can also add your PB to your unarmed strike damage.
+
+***13th Level.*** You can spend 4 technique points to gain another action in addition to the action and bonus action you regularly get on your turn. You can’t use this ability more than once on your turn.
+
+***17th Level.*** You now gain a +3 bonus to your AC, instead of +2. When you take no action other than Dodge on your turn, all of your attacks on your next turn have advantage.
+
+As an action, you can also assume a hybrid form for up to 1 hour per long rest. This hybrid form grants you the following abilities:
+
+***Vicious Multiattack.*** You can make three Claw or Bite attacks in any combination in addition to the attacks you gain from your normal Multiattack class feature.. You can also use either Claw or Bite attacks as unarmed strikes in your Flurry of Blows class feature. These attacks use your unarmed strike attack bonus.
+
+***Bite.*** *Melee Weapon Attack:* reach 5 ft., one target. *Hit:* 2d8 + 2 piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* reach 5 ft., one target. *Hit:* 2d6 + 2 slashing damage.
+
 ---
 *This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
 
@@ -568,3 +852,5 @@ In addition, as an action, you can summon three **will-o’-wisps** that remain 
 *Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
 
 *Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+
+*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*

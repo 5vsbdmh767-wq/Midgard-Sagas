@@ -53,6 +53,7 @@ def elements(pdf, a, b):
                 if not sp: continue
                 k = kind(sp[0]['font'], sp[0]['size'])
                 if k in ('PG', 'RUN'): continue
+                if k == 'SEG' and len(sp) == 1 and 'Semibold' in sp[0]['font'] and sp[0]['size'] >= 9.8: k = 'ITEM'
                 x0 = min(s['bbox'][0] for s in sp); y = sp[0]['origin'][1]
                 col = 0 if x0 < W / 2 - 8 else 1
                 full = x0 < W / 2 - 20 and max(s['bbox'][2] for s in sp) > W / 2 + 20 and k != 'SEG'
@@ -65,7 +66,7 @@ def elements(pdf, a, b):
         i = 0
         while i < len(lines):
             L = lines[i]
-            if L['k'] in ('H1', 'H2', 'H3', 'H4', 'CH'):
+            if L['k'] in ('H1', 'H2', 'H3', 'H4', 'CH', 'ITEM'):
                 txt = re.sub(r'\s+', ' ', ''.join(s[2] for s in L['spans'])).strip()
                 while i + 1 < len(lines) and lines[i + 1]['k'] == L['k'] and lines[i + 1]['col'] == L['col'] and lines[i + 1]['y'] - lines[i]['y'] < 30:
                     i += 1; txt += ' ' + re.sub(r'\s+', ' ', ''.join(s[2] for s in lines[i]['spans'])).strip()
@@ -99,6 +100,11 @@ def table_md(grp):
         out_title.append(''.join(s[3] for s in sorted(rows[0]['sp'])).strip()); rows.pop(0)
     hdr = []
     while rows and all(s[2] == 'b' for s in rows[0]['sp']): hdr.append(rows.pop(0))
+    if not hdr and len(rows) >= 3 and sum(len(''.join(s[3] for s in r['sp'])) for r in rows) / len(rows) > 35:
+        # a sidebar set in the table font: return it as one note callout
+        txt = md([(s[2], s[3] + ' ') for r in rows for s in sorted(r['sp'])])
+        txt = re.sub(r'(\w)- (\w)', r'\1-\2', txt).strip()
+        return '> [!note]' + (' ' + ' '.join(out_title) if out_title else '') + '\n> ' + txt + '\n'
     cols = []
     for r in hdr:
         for s in sorted(r['sp']):
@@ -143,7 +149,7 @@ def table_md(grp):
     return s
 
 SMALL = {'a', 'an', 'the', 'and', 'or', 'of', 'in', 'for', 'to', 'as', 'by', 'from', 'with', 'on', 'at'}
-def render(pdf, a, b, hmap={'CH': '#', 'H1': '#', 'H2': '##', 'H3': '###', 'H4': '####'}):
+def render(pdf, a, b, hmap={'CH': '#', 'H1': '#', 'H2': '##', 'H3': '###', 'H4': '####', 'ITEM': '###'}):
     out = []
     def unfinished(t): return not re.search(r'[.!?:”"\)\*]$', t.strip())
     lastB = None

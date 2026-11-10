@@ -22,6 +22,12 @@ publish: true
 - [[Tools#More Tool Uses (Trade Secrets)|New tool uses]]: big projects, and new goods and tasks for every tool set
 - [[Weapons#More Weapons (Trade Secrets)|New weapons]] and [[Armor#More Armor (Trade Secrets)|new armor]]
 
+## Magic Items
+- [[Disenchanting]]: an optional rule for breaking magic items and creatures down into prima materia
+- [[Recommended Magic Items by Class]]: suggested magic items for every class at each tier
+- New magic items, added to [[Magic Weapons]], [[Magic Armor]], [[Potions]], [[Wondrous Items A–L]], and [[Wondrous Items M–Z]], each marked as from Trade Secrets
+- [[Fabled Magic Items#More Fabled Items (Trade Secrets)|New fabled items]]: one for each class
+
 
 ---
 *Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*

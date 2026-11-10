@@ -336,3 +336,10 @@ if '--write' in sys.argv:
             '- [[Tools#More Tool Uses (Trade Secrets)|New tool uses]]: big projects, and new goods and tasks for every tool set\n'
             '- [[Weapons#More Weapons (Trade Secrets)|New weapons]] and [[Armor#More Armor (Trade Secrets)|new armor]]\n')
     open(p, 'w', encoding='utf-8').write(s)
+
+# Bryant's ruling (10 Nov 2026): first Modifier column = land cost/rent, second = daily commerce.
+if '--write' in sys.argv or '--labels' in sys.argv:
+    p = V + '/Rules/Trade Secrets/Setting Up Shop.md'; s = open(p, encoding='utf-8').read()
+    for h in ('Neighborhood', 'Traffic', 'Frontage'):
+        s = rep(s, f'| {h} | Modifier | Modifier |', f'| {h} | Land Cost/Rent Modifier | Commerce Modifier |')
+    open(p, 'w', encoding='utf-8').write(s)

@@ -65,6 +65,18 @@ While wearing this armor, you gain a +1 bonus to AC, and you can understand and 
 
 ***Curse.*** Once you don this cursed armor, you can’t doff it unless you are targeted by a *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saves against their spells and special abilities.
 
+## Doubletake Armor
+
+*Optional, from Trade Secrets.*
+
+*Armor, Rare 5,000 gp (Requires Attunement)*
+
+While wearing this leather armor, you gain a +1 bonus to AC. In addition, the armor has 3 charges. When you speak the command word, you can expend a number of charges up to the maximum the armor has. The number of charges expended equals the number of illusory duplicates that appears in your space.
+
+If a creature targets you and hits you with an attack while this effect is active, roll a d20 to determine whether the attack targets you or a duplicate. Regardless of the number of duplicates, you must roll an 11 or higher to change the attack’s target to a duplicate. If you do so, the duplicate is destroyed. If an attack or damaging effect doesn’t specifically target you, the duplicates remain unaffected. A creature’s attacks are unaffected by this effect if it relies on senses other than sight, such as keensense.
+
+The armor regains all expended charges at dusk.
+
 ## Dragon Scale Mail
 
 *Armor (Scale Mail), Very Rare 60,000 gp (Requires Attunement)*
@@ -104,6 +116,14 @@ While wearing this armor, you gain a +2 bonus to AC. In addition, if an effect m
 *Armor (Shield), Rare (Requires Attunement) 4,000 gp*
 
 This shield resembles a snarling goblin's head. It has 3 charges and regains 1d3 expended charges daily at dawn. While wielding this shield, you can use a bonus action to expend 1 charge and command the goblin's head to bite a creature within 5 feet of you. Make a melee weapon attack with the shield. You have proficiency with this attack if you are proficient with shields. On a hit, the target takes 2d4 piercing damage.
+
+## Helm of Readiness
+
+*Optional, from Trade Secrets.*
+
+*Armor, Uncommon 2,000 gp (Requires Attunement)*
+
+When wearing this metal helmet, you have advantage on initiative rolls. If you don’t act first in initiative order, you also have advantage on your first attack roll in the encounter.
 
 ## Iced Steel Armor
 
@@ -150,6 +170,16 @@ This armor has sharp porcupine quills sewn throughout the body. While you are gr
 *Armor (Any Medium or Heavy), Rare 5,000 gp + base armor cost*
 
 While wearing this armor, as a reaction to being hit by a melee attack, the attacker must succeed on a DC 14 CON save or take bludgeoning damage equal to half the damage dealt to you.
+
+## Reliquary Armor
+
+*Optional, from Trade Secrets.*
+
+*Armor, Rare 20,000 gp (Requires Attunement)*
+
+A religious relic was embedded in this armor as part of the crafting process. While wearing this armor, you gain a +1 bonus to AC and you know Celestial. You have advantage on saves against curses while attuned to it, and you can cast *remove curse* on any other creature once. This effect recharges at dawn.
+
+If the GM deems that the relic is sacred to your religion, you can double your PB for saves when you call out loudly to your deity for help as a reaction. You can use this effect once until it recharges at the next dawn.
 
 ## Rostungr Armor
 
@@ -200,6 +230,14 @@ The shield has 3 charges and regains 1d3 expended charges daily at dawn. While y
 While holding this shield, you have resistance to damage from ranged weapon attacks.
 
 ***Curse.*** This shield is cursed. Attuning to it curses you until you are targeted by the *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic. Removing the shield fails to end the curse on you. When a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead.
+
+## Shield of Righteousness
+
+*Optional, from Trade Secrets.*
+
+*Armor (Shield), Very Rare 10,000 gp + base armor cost (Requires Attunement)*
+
+This silver-trimmed shield bears the image of a divine figure in a protective pose. While wielding this shield, you have a +1 bonus to AC, in addition to the shield’s normal bonus to AC. In addition, when an enemy targets you with an attack and misses, you can deal 1 radiant damage to it, no action required. If the enemy is a Fiend or Undead, you deal 2 radiant damage to it.
 
 ## Shield, +1, +2, or +3
 
@@ -317,6 +355,16 @@ While wearing this armor, you gain a +1 bonus to AC. In addition, you have advan
 
 Each day at dawn, the armor grows three pieces of magical fruit, which you can pick as a bonus action and eat as an action. A creature eating one of these fruits regains 1d8 + 4 hit points and has sufficient nourishment to sustain them for 24 hours.
 
+## Warding Shield
+
+*Optional, from Trade Secrets.*
+
+*Shield, Uncommon 8,000 gp (Requires Attunement)*
+
+This shield is blazoned with half a stylized heart on one side, and half a stylized lion on the other. While wielding this shield, you can choose an ally. While the chosen ally remains within 30 feet of you, it gains a +1 bonus to AC and saves, and it has resistance to bludgeoning, piercing, and slashing damage. However, each time your ally takes damage, you take the same amount of damage.
+
+The effect ends if you drop to 0 HP or if you and the target become separated by more than 60 feet. You can use this effect for 1 hour once until the following dawn.
+
 ---
 *This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
 
@@ -327,3 +375,5 @@ Each day at dawn, the armor grows three pieces of magical fruit, which you can p
 *Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
 
 *Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+
+*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*

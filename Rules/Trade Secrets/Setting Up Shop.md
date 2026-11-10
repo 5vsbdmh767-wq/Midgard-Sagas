@@ -212,7 +212,7 @@ Where you set up shop can determine whether your business turns a profit. The fa
 
 **Commerce Cost**
 
-| Neighborhood | Modifier | Modifier |
+| Neighborhood | Land Cost/Rent Modifier | Commerce Modifier |
 |---|---|---|
 | Public Square | +10% | +50% |
 | Market District | +5% | +25% |
@@ -242,7 +242,7 @@ Sometimes, the success of a business hinges on something other than what the sho
 
 **Commerce Land Cost/Rent**
 
-| Traffic | Modifier | Modifier |
+| Traffic | Land Cost/Rent Modifier | Commerce Modifier |
 |---|---|---|
 | Deserted | −20% | −10% |
 | Slow | −10% | −5% |
@@ -257,7 +257,7 @@ Sometimes, the success of a business hinges on something other than what the sho
 
 **Frontage Commerce Resolution Modifiers**
 
-| Frontage | Modifier | Modifier |
+| Frontage | Land Cost/Rent Modifier | Commerce Modifier |
 |---|---|---|
 | Hidden | −10% | −5% |
 | Small | −5% | −1% |
