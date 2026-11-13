@@ -295,7 +295,7 @@ Cotton, flax, hemp, jute, and other plant fibers don’t fetch the same prices a
 
 Ore is mined rock that contains unrefined minerals. It’s not an ideal trade good due to its cost of transport, but it is commonly traded in regions close to where it is mined by those who operate a refinery. The value of ore depends a lot on its quality, typical refinement yields, and the value of the mineral being extracted.
 
-**Unit of Measure:** ton **Note:** Malchonite is a reddish-gold metal mined from the body of a primordial being on the icy world of Coldforge. (see *Labyrinth Worldbook* and [[The Labyrinth]]). It is a superb metal for magic weapons, but wielders on Coldforge risk being driven into a supernatural fury. The metal is unheard of on most other worlds, and isn’t known to incite rage outside of Coldforge. However, so little of it exists on most Material planes, its true effects are unmeasured.
+**Unit of Measure:** ton **Note:** Malchonite is a reddish-gold metal mined from the body of a primordial being on the icy world of Coldforge. (see [[The Labyrinth]]). It is a superb metal for magic weapons, but wielders on Coldforge risk being driven into a supernatural fury. The metal is unheard of on most other worlds, and isn’t known to incite rage outside of Coldforge. However, so little of it exists on most Material planes, its true effects are unmeasured.
 
 **Ore Base Prices**
 

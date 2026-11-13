@@ -1,14 +1,11 @@
 ---
-aliases: [Labyrinth Options, Labyrinth Worldbook Options]
+aliases: [Labyrinth Options]
 publish: true
 ---
-> [!note] Optional Content
-> Everything from the *Labyrinth Worldbook* is optional. Ask your GM before taking any of it for your character. Throughout the rules pages, material from this book is marked: *Optional, from Labyrinth Worldbook.*
-
 The Labyrinth is the great maze of roads and portals that links Midgard to the other worlds (see [[The Labyrinth]]). These options are built for characters who travel it, or who come from one of the worlds it touches.
 
 ## Where to Find It
-- **Lineages:** [[Derro Lineage|Derro]], [[Dragonborn Lineage|Dragonborn (Labyrinth version)]], [[Gearforged Lineage|Gearforged (Labyrinth version)]], [[Minotaur Lineage|Minotaur]], [[Satyr Lineage|Satyr]], [[Dwarf Lineage#Midnight Dwarf|Midnight Dwarf]], [[Elf Lineage#Star Elf|Star Elf]], and [[Syderean Lineage#Natural Adaptation: Spellborn (Labyrinth)|Spellborn]]
+- **Lineages:** [[Derro Lineage|Derro]], [[Dragonborn Lineage|Dragonborn]], [[Gearforged Lineage|Gearforged]], [[Minotaur Lineage|Minotaur]], [[Satyr Lineage|Satyr]], [[Dwarf Lineage#Midnight Dwarf|Midnight Dwarf]], [[Elf Lineage#Star Elf|Star Elf]], and [[Syderean Lineage#Natural Adaptation: Spellborn (Labyrinth)|Spellborn]]
 - **Heritages:** [[Heritages#Boatwright Heritage|boatwright]], [[Heritages#Exalted Heritage|exalted]], [[Heritages#Fallen Heritage|fallen]], [[Heritages#Maze-Born Heritage|maze-born]], [[Heritages#Messenger Heritage|messenger]], [[Heritages#Oldwood Heritage|oldwood]], [[Heritages#Steam-and-Brass Heritage|steam-and-brass]], [[Heritages#Stygian Heritage|stygian]], and [[Heritages#Void-Touched Heritage|void-touched]]
 - **Backgrounds:** [[Backgrounds#Cult Escapee|Cult Escapee]], [[Backgrounds#Wanderer|Wanderer]], [[Backgrounds#Concordan Guard|Concordan Guard]], [[Backgrounds#Grove Warden|Grove Warden]], [[Backgrounds#Portal Wright|Portal Wright]], and [[Backgrounds#Visionary|Visionary]]
 - **Talents:** [[Magic Talents#Mystic Visions|Mystic Visions]], and [[Magic Talents#Voracious Arcana|Voracious Arcana]] (magic); [[Martial Talents#Lacerating Slash|Lacerating Slash]], [[Martial Talents#Rallying Call|Rallying Call]], and [[Martial Talents#Void Strike|Void Strike]] (martial); [[Technical Talents#Locksmith|Locksmith]], [[Technical Talents#Perfect Memory|Perfect Memory]], and [[Technical Talents#Versatile Driver|Versatile Driver]] (technical)
@@ -27,10 +24,10 @@ The Labyrinth is the great maze of roads and portals that links Midgard to the o
   - [[Warlock#Celestial|Celestial]], and [[Warlock#Void Saint|Void Saint]] warlocks
   - [[Wizard#Void Caster|Void Caster]] wizards
   - New warlock [[Warlock#Eldritch Invocations|eldritch invocations]]
-- **Spells and rituals:** mixed into the [[Spells]] and [[Rituals]] pages; the [[Spell Lists]] flag them
+- **Spells and rituals:** in the [[Spells]] and [[Rituals]] lists with all the others
 - **Magic styles:** [[Magic Styles]], themed spell lists for clockwork, dream, illumination, portal, void, and ward magic
-- **Magic items:** mixed into the [[Magic Items]] pages, plus three [[Fabled Magic Items#Bright Fey Weapons|bright fey weapons]]
-- **Vehicles:** six new vehicles on the [[Vehicles#The Labyrinth|Vehicles]] page
+- **Magic items:** in the [[Magic Items]] lists, plus three [[Fabled Magic Items#Bright Fey Weapons|bright fey weapons]]
+- **Vehicles:** six vehicles on the [[Vehicles#The Labyrinth|Vehicles]] page
 
 Some of these options refer to void taint and dread, which your GM tracks.
 

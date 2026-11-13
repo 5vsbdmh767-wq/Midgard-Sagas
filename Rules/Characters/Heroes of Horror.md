@@ -1,11 +1,8 @@
 ---
-aliases: [Night Hunters Options, Horror Options, Building Backstories]
+aliases: [Horror Options, Building Backstories, Horror Rules, Horror Campaign Rules]
 publish: true
 ---
-> [!note] Optional Content
-> Everything from *Night Hunters* is optional. Ask your GM before taking any of it for your character. Throughout the rules pages, material from this book is marked: *Optional, from Night Hunters.*
-
-These options are suited to characters made for horror campaigns: hunters of the things that stalk the night, and those marked by them. They sit alongside the regular rules on each page, so you can browse them here or find them where you'd expect them. This page also holds the book's advice for building a horror backstory. For the optional horror rules, see [[Horror Rules]].
+These options are suited to characters made for horror campaigns: hunters of the things that stalk the night, and those marked by them. They sit alongside the regular rules on each page, so you can browse them here or find them where you'd expect them. This page also holds advice for building a character with a horror backstory.
 
 ## Building Backstories
 
@@ -180,6 +177,17 @@ A tragedy occurred, and you were the only one to make it out alive. To determine
 | [[Rods, Staffs & Wands\|Wands]] | [[Rods, Staffs & Wands#Wand of Spell Stealing\|Wand of Spell Stealing]] |
 | Wondrous Items | [[Wondrous Items A–L#Alluring Perfume\|Alluring Perfume]], [[Wondrous Items A–L#Book of Curses\|Book of Curses]], [[Wondrous Items A–L#Dark Carousel\|Dark Carousel]], [[Wondrous Items A–L#Haunted Doll\|Haunted Doll]], [[Wondrous Items A–L#Kerchief of Weeping\|Kerchief of Weeping]], [[Wondrous Items M–Z#Mask of the Red Death\|Mask of the Red Death]], [[Wondrous Items M–Z#Necklace of Teeth\|Necklace of Teeth]], [[Wondrous Items M–Z#Shadow Oracle Deck\|Shadow Oracle Deck]], [[Wondrous Items M–Z#Spirit Stick\|Spirit Stick]] |
 | [[Fabled Magic Items\|Fabled Items]] | [[Fabled Magic Items#Monster Hunter’s Crossbow\|Monster Hunter’s Crossbow]], [[Fabled Magic Items#Shroud of Shadows\|Shroud of Shadows]], [[Fabled Magic Items#Witch Light\|Witch Light]] |
+
+## Campaign Rules
+
+These rules support horror campaigns.
+
+| Rules | What They Cover |
+|---|---|
+| [[Safety Tools]] | Session zero, safety tools, emotional bleed, and table rules for horror play |
+| [[Dread Expanded]] | Accruing and curing dread, the optional dread exposure rule, and the short-term, long-term, and indefinite dread tables |
+| [[Curses, Diseases, and Hazards]] | Ready-to-use horror curses, diseases, and hazards, with how each is triggered and resolved |
+| [[Shadow Tokens]] | A token system that rewards players for leaning into horror, and how to earn and spend tokens |
 
 ---
 <small>Sources: [[Credits]].</small>

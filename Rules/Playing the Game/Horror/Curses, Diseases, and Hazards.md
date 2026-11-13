@@ -1,5 +1,5 @@
 ---
-aliases: [Curses, Diseases, and Hazards (Night Hunters), Horror Curses, Horror Diseases, Horror Hazards]
+aliases: [Horror Curses, Horror Diseases, Horror Hazards]
 publish: true
 ---
 %% source: Night Hunters %%
@@ -48,7 +48,7 @@ When inserting a curse, disease, or hazard, you can alter the degree of danger i
 Curses are most commonly encountered when a PC attunes to a cursed magic item. They can also be passed on by a few monsters as part of an attack, such as the werewolf; and they can be tied to locations, individual creatures, or objects. This section details a collection of ready-to-use curses.
 
 > [!note] Targeted Affliction
-> Despite the dark nature of *Night Hunters*, inherited curses might not appeal to your gaming group. Though the house of malignance curse is intended to reflect the petty vengeance of fallen evils, having the deeds of family members used against their PC might not sit well with some players. If you wish to remove the hereditary nature of the house of malignance curse for your game, use the following alternative trigger to make it a lingering curse passed through bloodshed instead of bloodline:
+> Despite the dark nature of horror campaigns, inherited curses might not appeal to your gaming group. Though the house of malignance curse is intended to reflect the petty vengeance of fallen evils, having the deeds of family members used against their PC might not sit well with some players. If you wish to remove the hereditary nature of the house of malignance curse for your game, use the following alternative trigger to make it a lingering curse passed through bloodshed instead of bloodline:
 >
 > **Trigger:** After slaying a cursed creature, a creature must succeed on a DC 14 CHA save or be cursed and targeted by its effects. The curse has no effect on Constructs or Undead.
 

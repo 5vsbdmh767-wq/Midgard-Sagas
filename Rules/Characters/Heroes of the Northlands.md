@@ -1,10 +1,7 @@
 ---
-aliases: [Northlands Options, Northlands Worldbook Options]
+aliases: [Northlands Options, Northlands Rules, Northlands Campaign Rules]
 publish: true
 ---
-> [!note] Optional Content
-> Everything from the *Northlands Worldbook* is optional. Ask your GM before taking any of it for your character. Throughout the rules pages, material from this book is marked: *Optional, from Northlands Worldbook.*
-
 These options are built for heroes of the [[Northlands]]: reavers, skalds, seers, and shield-maidens who sail the cold seas and stand against the giants of [[Jotunheim]]. They sit alongside the regular rules on each page, so you can browse them here or find them where you'd expect them.
 
 ## Lineages
@@ -60,7 +57,7 @@ These options are built for heroes of the [[Northlands]]: reavers, skalds, seers
 
 ## Spells and Rituals
 
-The 78 Northlands spells and rituals are mixed into the [[Spells]] and [[Rituals]] pages. The [[Spell Lists]] page marks them, under each source of magic.
+The Northlands spells and rituals are in the [[Spells]] and [[Rituals]] lists with all the others, and on the [[Spell Lists]] under each source of magic.
 
 ## Equipment
 
@@ -87,7 +84,16 @@ The 78 Northlands spells and rituals are mixed into the [[Spells]] and [[Rituals
 
 ## Campaign Rules
 
-The same book's optional campaign rules, for reputation, flyting, prophecy, raiding, weather, and sea combat, are collected on [[Northlands Rules]].
+These rules deepen the themes of a Northlands campaign.
+
+| Rules | What They Cover |
+|---|---|
+| [[Reputation]] | Deeds, dishonorable acts, reputation thresholds, reputation challenges that let you take narrative control, and the holmganga duel |
+| [[Flyting and Kennings]] | The Northern duel of rhyming insults, with a rhyme table, and how to build kennings |
+| [[Prophecies and Omens]] | Seers' prophetic blessings and warnings, greater prophecies, tables for building them, and omens |
+| [[Raiding]] | Abstract rules for planning and running a raid, from choosing a target to sharing the spoils |
+| [[Northlands Weather]] | Extreme cold, hypothermia, frigid water, thin ice, snow blindness, and the high "Death-Fields" of [[Jotunheim]] |
+| [[Ships and Sea Combat]] | Ship weapons, sailing and wind, sea weather, and naval combat with shipboard actions |
 
 ---
 <small>Sources: [[Credits]].</small>

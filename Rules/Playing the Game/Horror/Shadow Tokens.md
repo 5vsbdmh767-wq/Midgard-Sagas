@@ -35,7 +35,7 @@ A PC can spend shadow tokens in a number of ways:
 
 ## Dread Villains and Shadow Tokens
 
-As archetypes of horror, the dread villains of *Night Hunters* each have their own shadow token mechanics specific to their narrative and associated tropes. These provide additional ways for players to earn and spend tokens. Your GM will tell you about them when they come into play.
+As archetypes of horror, the dread villains each have their own shadow token mechanics specific to their narrative and associated tropes. These provide additional ways for players to earn and spend tokens. Your GM will tell you about them when they come into play.
 
 ---
 <small>Sources: [[Credits]].</small>

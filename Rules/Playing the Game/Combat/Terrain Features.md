@@ -1,5 +1,5 @@
 ---
-aliases: [Weather Effects (Book of Blades)]
+aliases: [Weather Effects in Battle]
 publish: true
 ---
 %% source: Book of Blades %%

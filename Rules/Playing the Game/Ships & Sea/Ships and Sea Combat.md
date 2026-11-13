@@ -4,7 +4,7 @@ publish: true
 ---
 %% source: Northlands Worldbook %%
 
-These naval combat rules from the *Northlands Worldbook* are meant to make the ship a dynamic, exciting part of any fight. They cover much the same ground as the other [[Nautical Rules]] pages, written for the [[Vehicles#Longships|longships]] of the [[Northlands]]; use whichever set your table prefers.
+These naval combat rules are meant to make the ship a dynamic, exciting part of any fight. They cover much the same ground as the other [[Nautical Rules]] pages, written for the [[Vehicles#Longships|longships]] of the [[Northlands]]; use whichever set your table prefers.
 
 ## Ship Siege Weapons
 

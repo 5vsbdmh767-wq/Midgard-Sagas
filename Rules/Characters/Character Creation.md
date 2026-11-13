@@ -200,8 +200,8 @@ Give your character a name and decide what they look like. It’s also a good id
 - [[Leveling Up]]
 - [[Character Sheet]]
 - [[Classes]]
-- [[Lineages & Heritages]]
-- [[Backgrounds & Talents]]
+- [[Lineages]] and [[Heritages]]
+- [[Backgrounds]] and [[Talents]]
 - [[Random Names]]
 
 ---

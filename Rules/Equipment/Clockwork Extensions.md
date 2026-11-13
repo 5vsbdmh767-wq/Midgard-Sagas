@@ -4,7 +4,7 @@ publish: true
 ---
 %% source: Book of Blades %%
 
-The list below provides clockwork extensions for gearforged (see *Labyrinth Worldbook*) or other contruct‑based characters that can replace limbs with weapons or utility gadgets. For certain campaigns, a GM might also allow flesh-and-blood PCs to take these in place of lost body parts.
+The list below provides clockwork extensions for [[Gearforged Lineage|gearforged]] or other contruct‑based characters that can replace limbs with weapons or utility gadgets. For certain campaigns, a GM might also allow flesh-and-blood PCs to take these in place of lost body parts.
 
 A clockwork extension replaces the existing part of the gearforged equipping it. To replace the current part, the gearforged character must spend at least 1 hour (which can include a short rest) making the alterations with tinker tools. All gearforged have five available body slots (head, left arm, right arm, torso, and legs) for clockwork extensions. As with regular armor and weapons, clockwork extensions can be enchanted as magic items. See the **Clockwork Extensions** table below.
 

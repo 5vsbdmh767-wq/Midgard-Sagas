@@ -12,7 +12,11 @@ This section covers standard nonmagical equipment and the rules for using it. Eq
 - [[Mounts & Services]]
 - [[Vehicles]]
 
-Optional gear from *[[Book of Blades]]*: [[Clockwork Extensions]], [[Arcanepunk Items]], and [[Siege Engines]].
+- [[Clockwork Extensions]]
+- [[Siege Engines]]
+- [[Warframes]]
+
+See also [[Magic Items]], [[Crafting & Alchemy]], and [[Trade Goods & Money]].
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

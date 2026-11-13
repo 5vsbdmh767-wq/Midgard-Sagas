@@ -33,7 +33,7 @@ New here? Start with the [[Between Iron & Oak|campaign primer]], meet [[The Part
 >> [!rules] [[Rules]]
 >> - [[Character Creation]]
 >> - [[Classes]]
->> - [[Lineages & Heritages]]
+>> - [[Lineages]] & [[Heritages]]
 >> - [[Spellcasting|Spells & Magic]]
 >> - [[Equipment]]
 >> - [[Magic Items]]

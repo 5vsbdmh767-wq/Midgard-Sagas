@@ -3,7 +3,9 @@ aliases: [Void Taint, Flesh Warp, Flesh Warps, Indefinite Dread]
 cssclasses: [lore]
 publish: true
 ---
-*From the Labyrinth Worldbook, in use in this campaign.*
+*In use in this campaign.*
+
+%% source: Labyrinth Worldbook %%
 
 Anyone exposed to the corrupting influence of the Void risks losing a piece of themselves to it. That corruption is void taint, and it is measured in levels.
 
@@ -67,4 +69,4 @@ A flesh warp can only be removed by the *regenerate* ritual, or magic of 7th cir
 | 10 | **Tusks.** Your incisors grow into enormous, curved tusks like those of a boar or a warthog. You have difficulty speaking and must make a successful DC 12 DEX check to cast a spell that has a verbal component. |
 
 ---
-*Void taint rules from the Labyrinth Worldbook by Kobold Press.*
+<small>Sources: [[Credits]].</small>

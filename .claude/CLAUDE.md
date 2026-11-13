@@ -35,6 +35,12 @@ This repo is Bryant's Obsidian vault for the player wiki *Midgard Sagas* (Obsidi
 - New material goes where its topic lives: items into the one alphabetical list or table for that kind of thing, rules into Characters, Equipment, Magic, or Playing the Game.
 - Two versions of the same thing: if they clearly differ, keep both under one heading as named variants (named for the place or people, not the book). If they are nearly the same, flag it for Bryant.
 - Variant systems: Injuries (tied to Called Shots) and DOOM are in play. Spell Points are optional for players. Epic Advancement is an alternate rule not in play. Ship combat and weather each have more than one system and still need reconciling.
+- Near-identical duplicates: keep the version from the more recently published book (Bryant, 13 Nov 2026).
+- No "see the Player's Guide" notes. Link to the wiki's own page for the thing instead.
+- Rules shelves: `Characters` (with `Classes`, `Lineages`, `Talents`), `Equipment`, `Crafting & Alchemy`, `Magic` (with `Spells`, `Rituals`, `Magic Items`), `Playing the Game` (with `Combat`, `Downtime & Rewards`, `Trade & Business`, `Travel & Weather`, `Ships & Sea`, `Horror`, `Renown & Fate`), `House Rules`, `Variant Rules` (not in play). `Rules.md` is the index.
+- Each lineage has its own page named "X Lineage" (people pages keep the plain name). Variants and regional versions live on that page. Each subclass lives on its class page, alphabetical. Class options (boons, invocations, martial actions, augments) go into the class feature they extend.
+- The four "Heroes of..." pages are guides to the options that fit a place or theme. Add new regional options to them as links.
+- `_GM Only/Wiki Reorganization Notes.md` is the full log of the November 2026 reorganization.
 
 ## Security
 

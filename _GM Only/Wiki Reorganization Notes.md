@@ -155,3 +155,27 @@ Merged as near-identical (one entry; the other book's description kept in a note
 Flags for Bryant:
 - Syderean has "spellborn" twice: once in "More Natural Adaptations" and once as "Natural Adaptation: Spellborn (Labyrinth)". Both kept.
 - Five people pages (Alseid, Bearfolk, Erina, Gearforged, Piney) carry their own copy of the lineage traits. Left alone; the rules pages are now the place for traits.
+
+### Stage 5: index pages, guides, last book mentions (done)
+
+- `Rules` is rebuilt as one index in five parts: Make a Character, Gear Up, Use Magic, Play the Game, At This Table.
+- Removed hub pages: Book of Blades, Trade Secrets, Player's Guide 2, Horror Rules, Northlands Rules, Backgrounds & Talents, Lineages & Heritages, Expanded or Variant Rules. Links to them now go to the right place.
+- New `Variant Rules` page (rules not in play: Epic Advancement).
+- The four "Heroes of…" pages are now guides under Characters. The "optional, ask your GM" boxes are gone, and the Northlands and Horror guides each gained a "Campaign Rules" table (from the two removed hub pages).
+- Playing the Game, Equipment, Magic Items, Crafting & Alchemy, Classes, Character Creation, and Home have updated link lists.
+- Recommended Magic Items by Class: the column naming each item's book is gone. Every item is linked.
+- Last visible book names removed from Void Taint, Curses Diseases and Hazards, Shadow Tokens, Ships and Sea Combat, Trade Goods & Money, Clockwork Extensions.
+
+Left on purpose:
+- Bryant's Nautical Rules page and his ship combat pages are untouched apart from moving folders.
+- Converting 5e Material names books because that is what the page is about.
+- Mentions of the Monster Vault and Game Master's Guide (stat blocks and GM rules that are not on the wiki), and one pointer to the Northlands book for the fenrikyn stat block (Druid, Fenris).
+- The world and campaign sections were not reorganized.
+
+Open items for Bryant:
+1. Reconcile the three ship combat systems (Ships & Sea) and the three weather systems (Weather, Northlands Weather, Terrain Features).
+2. Names I chose for clashes: Boomerang, rebounding; Scythe, war; Spiked shield, large; Bloodhound (Margreve); Northlands Bearfolk; Northlands Trollkin; Midgard Dhampir; Midgard Goblin.
+3. Dragonscale armor and Dragonhide are both kept. Syderean "spellborn" appears twice.
+4. Scythe, war is 1 sp for 1d12 as printed, probably a misprint. The armor "Gunpowder" property is undefined.
+5. Five people pages carry their own copy of lineage traits.
+6. Pirates & Plunder is still waiting on three answers (ship combat as a system, guns, ratfolk).

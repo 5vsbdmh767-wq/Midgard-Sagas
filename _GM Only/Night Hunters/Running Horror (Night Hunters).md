@@ -1,7 +1,7 @@
 ---
 publish: false
 ---
-GM-only notes from *Night Hunters* chapter 2. These are summaries plus the rollable tables. The player-facing rules (Safety Tools, Dread Expanded, Shadow Tokens, and Curses, Diseases, and Hazards) are on the wiki under [[Horror Rules]].
+GM-only notes from *Night Hunters* chapter 2. These are summaries plus the rollable tables. The player-facing rules (Safety Tools, Dread Expanded, Shadow Tokens, and Curses, Diseases, and Hazards) are on the wiki under [[Heroes of Horror#Campaign Rules|Horror Rules]].
 
 ## Flavors of Horror
 

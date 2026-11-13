@@ -14,6 +14,8 @@ publish: true
 - [[Wondrous Items M–Z]]
 - [[Magic Tattoos]]
 - [[Fabled Magic Items]]
+- [[Arcanepunk Items]]
+- [[Weapons of Legacy]]
 
 ## More Ways to Use Magic Items
 - [[Recommended Magic Items by Class]]
