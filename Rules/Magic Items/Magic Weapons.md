@@ -157,6 +157,16 @@ These gleaming metal bracers are worked with symbols of a dragon on the right br
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you successfully strike the same opponent with two unarmed strikes in one attack, the target must succeed on a DC 17 STR save or be pushed away from you. Huge creatures are pushed 5 feet, Large creatures 10 feet, Medium creatures 15 feet, and Small creatures 20 feet. You can expend 1 technique point to double the distance the target is pushed, but you must spend the technique point before the target attempts the saving throw.
 
+## Chain of Hexed Souls
+
+%% source: Book of Blades %%
+
+*Weapon (Flail), Rare*
+
+*Price 4,010 gp (Requires Attunement)*
+
+This magical length of gray chain is warm to the touch and wraps around your arm when you attune to it. You can make melee attacks with the chain as if it were a flail with the Reach property, and you have a +1 bonus to attack and damage rolls made with it. Once per turn, when you hit a creature with an attack using this magic chain, you can hex it. While the creature is hexed, you can use a bonus action to deal 1d8 force damage to you and the creature. At the start of each of the hexed creature’s turns, it can make a DC 15 WIS save, ending the hex on a success.
+
 ## Dagger of Darkness
 
 %% source: Labyrinth Worldbook %%

@@ -23,12 +23,12 @@ publish: true
 - [[Character Themes]]: ready-made combinations of options for fifteen kinds of warrior
 
 ## Equipment
-- [[Martial Arms]]: new armor, martial arts weapons, and unusual weapons
-- [[More Weapon Options]]: new weapon options, magic weapon options, and rogue tricks
-- [[Martial Gear]]: rogue gear, mount gear, and magic items for mounts
+- New armor, martial arts weapons, and unusual weapons are in the [[Armor]] and [[Weapons]] lists
+- New weapon options and magic weapon options are under [[Weapons#Weapon Options|Weapon Options]]; rogue tricks are on the [[Rogue#Rogue Tricks|Rogue]] page
+- Rogue gear is in [[Adventuring Gear]]; mount gear and magic items for mounts are under [[Mounts & Services#Mount Gear and Expenses|Mount Gear]]
 - [[Clockwork Extensions]]: replacement limbs and devices for gearforged
 - [[Arcanepunk Items]]: gem-powered magic technology
-- [[Martial Magic Items]]: magic items for martial characters, and fabled items
+- Magic items for martial characters are in the [[Magic Items]] lists; the fabled ones are under [[Fabled Magic Items]]
 - [[Weapons of Legacy]]: weapons that grow with their wielder's deeds
 - [[Booby Traps]] and [[Siege Engines]]
 

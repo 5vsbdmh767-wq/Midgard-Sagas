@@ -12,7 +12,7 @@ This section covers standard nonmagical equipment and the rules for using it. Eq
 - [[Mounts & Services]]
 - [[Vehicles]]
 
-Optional gear from *[[Book of Blades]]*: [[Martial Arms]], [[More Weapon Options]], [[Martial Gear]], [[Clockwork Extensions]], [[Arcanepunk Items]], [[Booby Traps]], and [[Siege Engines]].
+Optional gear from *[[Book of Blades]]*: [[Clockwork Extensions]], [[Arcanepunk Items]], [[Booby Traps]], and [[Siege Engines]].
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

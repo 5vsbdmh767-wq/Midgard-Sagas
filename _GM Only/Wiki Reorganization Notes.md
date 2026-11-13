@@ -81,3 +81,26 @@ Not changed:
 - Mentions of the *Monster Vault* and *Game Master's Guide* (about 45). Those books are not on the wiki, so there is nothing to link to. They tell a player where a stat block or GM rule lives.
 - Recommended Magic Items by Class still has a column naming each item's book. To be handled in Stage 5.
 - The Lineages page keeps its book sections until Stage 4 splits it.
+
+### Stage 2, part 2: Book of Blades equipment merged (done)
+
+Four pages are gone because everything on them now lives in the main lists: Martial Arms, More Weapon Options, Martial Gear, Martial Magic Items.
+
+- Weapons: 12 weapons added to the table and descriptions (butterfly sword, hook sword, ji, lasso, nunchaku, rope dart, sai, shuriken, tonfa, umbrella, and two renamed below). Two properties (Hooked, Shielding) and 9 weapon options added. New section "Magic Weapon Options" (9 options that need a magic weapon).
+- Armor: lantern shield and a second spiked shield under Shields; dragonscale and winged armor under a new "Special Armor" group.
+- Adventuring Gear: ether, garrote, smokeball.
+- Mounts & Services: 14 pieces of mount gear in the one table, plus a line linking the 13 magic items for mounts.
+- Magic items: 19 items placed alphabetically in Magic Armor, Magic Weapons, and the two Wondrous Items pages. 11 fabled items added to Fabled Magic Items, each with its story and its rules joined into one entry.
+- Rogue: new "Rogue Tricks" section before the subclasses.
+- A GM advice box ("Challenges for the Well-Equipped Adventurer") moved to `_GM Only/Book of Blades GM Notes`.
+
+Mine (names I chose because two different things shared a name):
+- "Boomerang, rebounding" (5 sp, range 20/60, bounces back) beside the existing Boomerang (1 gp, range 60/120).
+- "Scythe, war" (1 sp, 1d12) beside the existing Scythe (20 gp, 2d4).
+- "Spiked shield, large" (100 gp, +2, usable as a weapon) beside the existing Spike shield (10 gp, +1).
+
+Fixed: two weapon descriptions (butterfly sword, sai) had table fragments in the middle of a sentence. Two fabled items had lost the first word of their story.
+
+Flags for Bryant:
+- Dragonscale armor (Special Armor) and Dragonhide (Armor Materials) are two takes on armor made from a dragon. Different prices and slightly different rules. Both kept.
+- Scythe, war costs 1 sp for 1d12 damage, as printed. That looks like a misprint in the book.

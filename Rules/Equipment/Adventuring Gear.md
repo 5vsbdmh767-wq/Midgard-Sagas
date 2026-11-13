@@ -28,6 +28,7 @@ Useful equipment that isn’t armor or weapons is called Adventuring Gear. The *
 | Component pouch | 25 gp | 2 lb. |
 | Crowbar | 2 gp | 5 lb. |
 | Fishing tackle | 1 gp | 4 lb. |
+| Garrote | 5 sp | 1/2 lb. |
 | Hammer | 1 gp | 3 lb. |
 | Hand trebuchet | 5 gp | 3 lb. |
 | Healer’s kit | 5 gp | 3 lb. |
@@ -85,6 +86,7 @@ Useful equipment that isn’t armor or weapons is called Adventuring Gear. The *
 | Alchemist’s jelly | 200 gp | 10 lb. |
 | Bolstering incense | 10 gp | — |
 | Boom pot (ceramic pot) | 150 gp | 3 lb. |
+| Ether (vial) | 25 gp | 1/4 lb. |
 | Everflame torch | 50 gp | 1 lb. |
 | Fast-Acting cloth dye | 5 sp | 1 lb. |
 | Fast-Acting hair dye | 1 sp | 1 lb. |
@@ -95,6 +97,7 @@ Useful equipment that isn’t armor or weapons is called Adventuring Gear. The *
 | Royal balm | 100 gp | 1/2 lb. |
 | Skyrocket | 25 gp | 1 lb. |
 | Smelling salts | 20 gp | — |
+| Smokeball | 10 gp | 1 lb. |
 | Stillsmoke | 25 gp | 1 lb. |
 | Stimulant | 10 gp | — |
 | Stink bomb | 10 gp | 1/2 lb. |
@@ -173,7 +176,7 @@ Useful equipment that isn’t armor or weapons is called Adventuring Gear. The *
 | Primordial focus | 5 gp | 2 lb. |
 | Wyrd focus | 5 gp | 2 lb. |
 
-%% sources: Player's Guide 2: Acid, potent (vial), Agglutinite (flask), Alchemical bolts (5), Alchemist’s fire, potent (flask), Bola, Boom pot (ceramic pot), Everflame torch, Hand trebuchet, Liquid light (vial), Magazine, repeating crossbow (empty), Net, silk; Northlands Worldbook: Jotunskull helm, Skates, Skis, Snow goggles, Snow visor, Snowshoes, Talharpa; Trade Secrets: Air pack, Alchemist’s jelly, Auto-Crank, Bees’ bonnet, Bittermilk (bottle), Bolstering incense, Dowry chicken, Dragon’s tears (bottle), Dwarf’s helm, Faerie cake, Faerie-Friend, Fast-Acting cloth dye, Fast-Acting hair dye, Flash powder, Ghoulsfoil lotion, Glimmer oil, Hag’s ale (bottle), Hardbread (biscuit), Harmony root, Hounds’ baffle, Iron gag, Kobold kurutk, Kobold’s kiss, Marching meal, Monk’s hood, Noisemaker, Pottage, Puzzling padlock, Reach extender, Rowers’ relief, Royal balm, Saddle butter, Skyrocket, Slug loaf (loaf), Slumberleaf tea, Small cider (bottle), Smelling salts, Spring staff, Stillsmoke, Stimulant, Stink bomb, Tears of night, Tears of revelation, Terrorwort, Timer trigger, Trap tapper, Trapsetter, Tumbler-Tickler, Victory stew, Vital herbs, Waterproofing wax, Wideawake tea %%
+%% sources: Player's Guide 2: Acid, potent (vial), Agglutinite (flask), Alchemical bolts (5), Alchemist’s fire, potent (flask), Bola, Boom pot (ceramic pot), Everflame torch, Hand trebuchet, Liquid light (vial), Magazine, repeating crossbow (empty), Net, silk; Northlands Worldbook: Jotunskull helm, Skates, Skis, Snow goggles, Snow visor, Snowshoes, Talharpa; Trade Secrets: Air pack, Alchemist’s jelly, Auto-Crank, Bees’ bonnet, Bittermilk (bottle), Bolstering incense, Dowry chicken, Dragon’s tears (bottle), Dwarf’s helm, Faerie cake, Faerie-Friend, Fast-Acting cloth dye, Fast-Acting hair dye, Flash powder, Ghoulsfoil lotion, Glimmer oil, Hag’s ale (bottle), Hardbread (biscuit), Harmony root, Hounds’ baffle, Iron gag, Kobold kurutk, Kobold’s kiss, Marching meal, Monk’s hood, Noisemaker, Pottage, Puzzling padlock, Reach extender, Rowers’ relief, Royal balm, Saddle butter, Skyrocket, Slug loaf (loaf), Slumberleaf tea, Small cider (bottle), Smelling salts, Spring staff, Stillsmoke, Stimulant, Stink bomb, Tears of night, Tears of revelation, Terrorwort, Timer trigger, Trap tapper, Trapsetter, Tumbler-Tickler, Victory stew, Vital herbs, Waterproofing wax, Wideawake tea; Book of Blades: Ether (vial), Garrote, Smokeball %%
 
 **Crafting Times**
 
@@ -266,6 +269,12 @@ This section describes items that have special rules or require further explanat
 
 ***Fishing Tackle.*** This kit includes a wooden rod, silken line, corkwood bobbers, iron hooks, lead sinkers, velvet lures, and netting.
 
+***Garrote.*** A garrote is a wire or thin rope about a foot or two in length, often attached to handles for grip. Acquiring one is rarely legal. The purpose of this grim tool is to strangle a creature with maximum efficiency. Anyone proficient with thieves’ tools is proficient with a garrote. %% source: Book of Blades %%
+
+You must successfully grapple a creature to effectively use a garrote. Instead of making a STR (Athletics) check for the grapple, you can make a DEX (Thieves’ Tools) check. You have disadvantage on the check if you are sensed by your target. While attempting to garrote a target, attackers have advantage to hit you and you have disadvantage on DEX saves.
+
+Grappled creatures begin suffocating immediately, having no time to draw breath. See [[Life and Death#Suffocating|Suffocating]].
+
 ***Healer’s Kit.*** This kit is a leather pouch containing bandages, salves, and splints. The kit has 10 uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 HP without needing to make a WIS (Medicine) check.
 
 ***Holy Water.*** As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw the flask up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a Fiend or Undead, it takes 2d6 radiant damage—otherwise, the water has no effect. A creature that can cast at least one 1st-circle Divine spells can create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-circle spell slot.
@@ -348,6 +357,12 @@ When the jelly is exposed to air, it explodes, dealing 4d4 fire damage to everyt
 
 ***Boom Pot.*** This ceramic pot is filled with an explosive powder that is ignited by a fuse. As an action, you can light its fuse and throw it at a point within 20 feet, where it explodes on impact in a 5-foot-radius sphere. Each creature in the area must succeed on a DC 10 CON save or take 3d6 thunder damage and be deafened for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. %% source: Player's Guide 2 %%
 
+***Ether.*** Ether and similar alchemical substances are designed to knock out a target. Industrious souls proficient with alchemist tools can craft bottles of ether with a successful DC 13 INT (Alchemist Tools) check. %% source: Book of Blades %%
+
+To use ether, you must take an action to douse a rag in the contents of a vial. The fumes fade quickly and lose effectiveness after 1 minute. During this time, you must succeed in grappling a creature that breathes, who then must make a DC 13 CON save over a number of turns. As long as you maintain the grapple, the creature must make a new CON save at the start of each of your turns. Creatures who are surprised during the grapple attempt have disadvantage on the save.
+
+Once a creature accumulates 3 failures, it falls unconscious for 1 hour or until it takes damage. If a save fails by 5 or more, treat it as two failures toward the total. After three successes, the ether has no effect.
+
 ***Everflame Torch.*** When lit, this item shines light as a normal torch, but it burns with a heatless flame that can’t be extinguished. This flame is traditionally blue, but alchemists can produce a variety of signature colors. These torches are typically sold with a cloth hood to cover the light as needed, and their heatless properties allow them to be safely handled and stowed in a pack with other items. Despite its name, an everflame torch’s light starts to dim after burning continuously for a year. A creature proficient with alchemist tools can restore a torch to full functionality, typically for half the initial cost of the torch. ***Hand Trebuchet*** The metal pocket of this handheld trebuchet can be loaded with a small container of acid, alchemist’s fire, holy water, or similar substance. While wielding the trebuchet, as a Use an Object action, you can make a ranged weapon attack against a target within 60 feet (or up to 240 feet with disadvantage), treating the hand trebuchet as an improvised weapon. On a hit, the target is then subjected to that substance’s effect. %% source: Player's Guide 2 %%
 
 ***Fast-Acting Cloth Dye.*** Soaking cloth in these simple dye formulations for half an hour temporarily changes the color of any one item made of cloth, until the item is washed. Two craft checks are required: one to create the dye, and one to dye the cloth. A character wearing dyed clothing gains a +1 bonus to CHA (Deception) checks made to pull off a disguise. %% source: Trade Secrets %%
@@ -371,6 +386,10 @@ Ghoulsfoil lotion wears off after an hour, but during that time, the creature ha
 ***Skyrocket.*** Used to signal one’s location outdoors at night, skyrockets can also be launched as missile weapons, dealing 1d4 fire damage. Igniting and aiming a rocket is an attack action, but because rockets have no guidance once lit, attacks made with skyrockets have disadvantage.
 
 If the wielder suffers any fire damage while carrying skyrockets, this immediately ignites the fireworks, dealing 1d4 damage per rocket to the wielder. Crafting skyrockets can be dangerous. Whenever the crafter rolls a 1 while crafting skyrockets, they must immediately roll again. If the second roll fails, the ingredients ignite prematurely. Each creature in a 20-foot radius must make a DC 15 DEX save. A failed save deals 8d4 fire damage, while a success deals half that damage. ***Smelling Salts.*** Waving a packet of smelling salts under the nose of an unconscious creature allows the creature to make an immediate DC 14 CON save to lose the unconscious condition—if the creature needs to breathe. (Smelling salts have no effect on creatures who do not breathe air.) Using smelling salts requires one action. %% source: Trade Secrets %%
+
+***Smokeball.*** This pellet or pouch filled with alchemical substances releases sudden, powerful smoke after a strong impact, such as striking the ground. A character proficient with alchemist tools can craft smokeballs with a successful DC 15 INT (Alchemist Tools) check. %% source: Book of Blades %%
+
+As an action, you can throw a smokeball at a point up to 30 feet away from you. This heavily obscures a 10-foot-radius area around that point until the start of your next turn. A favorite tactic of many rogues is to throw a smokeball, move to where the line of sight is broken, and then hide using the Cunning Action feature.
 
 ***Stillsmoke.*** Burning a bundle of this powder creates a low-lying pale gray smoke in a 20-foot radius. This smoke spreads around corners but does not significantly obscure vision. While the bundle burns, a strong wind (at least 20 miles per hour) can disperse the cloud after four rounds, but otherwise, it persists for two minutes.
 

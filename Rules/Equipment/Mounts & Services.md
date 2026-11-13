@@ -56,17 +56,49 @@ Travel across the [[Northlands]] can be its own adventure. From howling blizzard
 
 The **Mount Gear and Expenses** table lists gear for sale specifically for use with mounts. Items that have special rules or require further explanation are covered here.
 
+***Aerial Compass.*** An aerial compass is a specialized clockwork device that accounts for altitude and heading to aid in navigating from the air where landmarks might be less visible. %% source: Book of Blades %%
+
 ***Barding.*** Barding is armor designed to protect a mount’s head, neck, chest, and body. Any type of armor shown on the **Armor** table in this chapter can be purchased as barding. The cost of barding is four times the equivalent armor made for Humanoids and weighs twice as much.
+
+***Barding, Aerial.*** Made of expensive lightweight materials, this armor protects your flying mount’s head, neck, chest, and body while accommodating it wings. The cost to bard an aerial mount is six times the equivalent armor made for Humanoids and it weighs one and a half times as much. %% source: Book of Blades %%
+
+***Cold Weather Tack.*** Exposure to frigid temperatures can come from cold-weather climes or high-altitude flights. This tack includes a fur-lined body blanket and hood and is specially designed to keep your mount warm and mobile. A mount wearing this has advantage on CON saves due to cold weather. %% source: Book of Blades %%
+
+***Courier’s Bag.*** This waxed leather saddle bag is water‑resistant and comes with a lock that requires a successful DC 15 DEX (Thieves’ Tools) check to pick. A copy of the key is usually held by the recipient and not carried by the courier. It has space for a cubic foot of volume and can hold 30 pounds. %% source: Book of Blades %%
 
 ***Drawn Objects.*** A mount pulling a drawn object like a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the drawn object. If multiple animals pull the same object, they can add their carrying capacity together.
 
+***Hobbles.*** These restraints are placed around your mount’s legs to prevent it from straying while grazing during short or long rests when your attention might be elsewhere. While hobbled, your mount’s movement is limited to 10 feet. %% source: Book of Blades %%
+
+***Howdah.*** These canopy-covered platforms accommodate multiple riders, usually carried on the backs of camels or elephants. Large mounts can carry two riders in a howdah, while Huge mounts can carry four riders. Riders in a howdah have half cover from attacks from a lower elevation. %% source: Book of Blades %%
+
+***Parachute.*** This small backpack parachute is used for emergency landings if the rider’s mount becomes incapacitated. As a reaction, the wearer can deploy the parachute and make a DEX (Acrobatics) check. The wearer reduces bludgeoning damage taken from falling by an amount equal to twice the result of the check. If the roll is a natural 1, the parachute fails to properly deploy and the wearer takes falling damage as normal. %% source: Book of Blades %%
+
+***Quick-Release Mechanism.*** This mechanism is added to an aerial saddle that allows the rider to quickly release themselves from a mount that is injured or in danger. Adding this mechanism to a saddle allows a rider to dismount as a reaction. Repacking the mechanism so it can be used again requires 1 minute. %% source: Book of Blades %%
+
 ***Saddle.*** A saddle braces the rider, helping you keep your seat in battle. It gives you advantage on any ability check or save you make to remain mounted. At the GM’s discretion, a saddle crafted for an unusually sized or shaped mount might double or triple the cost.
+
+***Saddle, Aerial.*** An aerial saddle has additional straps to keep a rider firmly mounted in aerial battles. It requires an action to mount or dismount, but the rider automatically succeeds on DEX ability checks or saves to remain mounted. %% source: Book of Blades %%
+
+***Saddle, Bubble.*** A bubble saddle is an enclosed saddle meant for riders with burrowing or underwater mounts. Bubbles are usually constructed from alchemically treated leather or chitin, increasing their durability and transparency. A bubble saddle contains four hours of breathable air. The bubble has 15 AC and 20 hit points. If reduced to 0 HP, the bubble ruptures. %% source: Book of Blades %%
+
+***Signal Flags.*** These colorful flags are used to communicate between distant riders or by ground forces to signal formations or give orders mid-flight. One of these flags can be seen clearly from 1 mile away. %% source: Book of Blades %%
+
+***Smoke Bomb.*** Designed for aerial combat, this alchemical sachet disperses thick smoke creating a 30-foot-radius sphere of heavy obscurement that lasts for 4 rounds in still air, but even a moderate wind disperses it in 1 round. %% source: Book of Blades %%
+
+***Warm Weather Tack.*** This tack includes lightweight, breathable mesh coverings that reflect heat and protect the mount from biting insects. A mount wearing this has advantage on CON saves due to warm weather and diseases spread by biting insects. %% source: Book of Blades %%
+
+***Magic Items for Mounts.*** Some magic items are made for mounts or their riders: *[[Magic Armor#Armor of the Paired Heart|armor of the paired heart]]*, *[[Wondrous Items A–L#Banner of the Horse Lord|banner of the horse lord]]*, *[[Wondrous Items A–L#Blanket of the War Steed|blanket of the war steed]]*, *[[Wondrous Items A–L#Bridle of Calling|bridle of calling]]*, *[[Wondrous Items A–L#Bridle of Handling|bridle of handling]]*, *[[Magic Weapons#Chain of Hexed Souls|chain of hexed souls]]*, *[[Wondrous Items A–L#Hallowed Feedbag|hallowed feedbag]]*, *[[Wondrous Items A–L#Horseshoes of Traveling|horseshoes of traveling]]*, *[[Wondrous Items A–L#Infernal Bit|infernal bit]]*, *[[Magic Armor#Ironhide Barding|ironhide barding]]*, *[[Wondrous Items M–Z#Right-Sizing Saddle|right-sizing saddle]]*, *[[Wondrous Items M–Z#Saddle of Flying|saddle of flying]]*, *[[Wondrous Items M–Z#Thundering Horseshoes|thundering horseshoes]]*, *[[Wondrous Items M–Z#Vehicular Charm Bracelet|vehicular charm bracelet]]*. Items that require attunement must be attuned to by the mount’s rider, not the mount itself. %% source: Book of Blades %%
 
 **Mount Gear and Expenses**
 
 | Item | Cost | Weight |
 |---|---|---|
+| Aerial compass | 100 gp | — |
 | Barding | ×4 (base armor cost) | ×2 (base armor weight) |
+| Barding, aerial | ×6 (base armor cost) | ×1.5 (base armor weight) |
+| Cold weather tack | 20 gp | 10 lb. |
+| Courier's bag | 15 gp | 5 lb. |
 | Drawn Objects |  |  |
 | Carriage | 100 gp | 600 lb. |
 | Cart | 15 gp | 200 lb. |
@@ -74,8 +106,20 @@ The **Mount Gear and Expenses** table lists gear for sale specifically for use w
 | Sled | 20 gp | 300 lb. |
 | Wagon | 35 gp | 400 lb. |
 | Feed (per day) | 5 cp | 10 lb. |
+| Hobbles (set) | 5 sp | 1 lb. |
+| Howdah (Huge) | 75 gp | 250 lb. |
+| Howdah (Large) | 30 gp | 100 lb. |
+| Parachute | 75 gp | 25 lb. |
+| Quick-release mechanism | +30 gp | +10 lb. |
 | Saddle | 10 gp | 25 lb. |
+| Saddle, aerial | 20 gp | 30 lb. |
+| Saddle, bubble | 150 gp | 70 lb. |
+| Signal flags | 1 gp | 3 lb. |
+| Smoke bomb | 50 gp | 1 lb. |
 | Stabling (per day) | 5 sp | — |
+| Warm weather tack | 25 gp | 3 lb. |
+
+%% sources: Book of Blades: Aerial compass, Barding, aerial, Cold weather tack, Courier's bag, Hobbles (set), Howdah (Large), Howdah (Huge), Parachute, Quick-release mechanism, Saddle, aerial, Saddle, bubble, Signal flags, Smoke bomb, Warm weather tack %%
 
 ## Combat Animals
 

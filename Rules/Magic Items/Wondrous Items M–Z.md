@@ -1,6 +1,16 @@
 ---
 publish: true
 ---
+## Magic Weights
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Rare 8,000 gp (Requires Attunement)*
+
+These weights allow warriors to train all their waking hours. While wearing these weights, your movement speed is reduced by 10 feet, and you have disadvantage on all ability checks and saves made using DEX. Once you have worn them for at least 5 days without removing them, your body acclimates to them and these penalties end.
+
+When you remove the magic weights after acclimating to them, your speed increases dramatically as your body feels lighter without its magical constraint. You act as though under the power of the *haste* spell for up to 5 minutes, at which point your body goes back to normal. If you wish to take advantage of this effect again, you must spend another five days reacclimating to the weights.
+
 ## Mantle of Spell Resistance
 
 *Wondrous Item, Rare 8,000 gp*
@@ -376,6 +386,16 @@ If the *hole* is folded up, a creature within the *hole’s* extradimensional sp
 
 Placing a *[[#Portable Hole|portable hole]]* inside an extradimensional space created by a *[[Wondrous Items A–L#Bag of Holding|bag of holding]]*, *[[Wondrous Items A–L#Handy Haversack|handy haversack]]*, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
 
+## Portable Palisade
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Uncommon 2,000 gp*
+
+You place this small box onto the ground as a bonus action, expanding it into a short wall, 5 feet high, 6 inches thick, and 10 feet long. The wall cannot be moved or repositioned while it is active. The wall has 20 hit points and a 10 AC. If the wall runs out of hit points, it is knocked down and reverts to its box state.
+
+If not knocked down, the wall remains until you use a bonus action to speak its command word again while touching it. The *portable palisade* regains any hit points that it lost every morning at dawn.
+
 ## Portable Vault
 
 %% source: Trade Secrets %%
@@ -471,6 +491,16 @@ This orb is a sphere of obsidian 3 inches in diameter. When you speak the comman
 Each creature in the area at the start of its turn, or when it enters the area for the first time on a turn, must succeed on a DC 15 STR save or be pulled 10 feet toward the rift. A creature that touches the rift takes 4d10 necrotic damage. Objects in the area that aren’t being worn or carried are pulled up to 10 feet toward the rift at the start of your turn. Nonmagical objects pulled into the rift are destroyed.
 
 The orb functions for 1 minute, after which time it becomes inert. It can’t be used again until the following midnight.
+
+## Right-Sizing Saddle
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Rare 4,000 gp (Requires Attunement)*
+
+Created by a dungeon-delving wizard who never wanted to be separated from her mount, this plain leather saddle always seems to be a little too small for the mount wearing it, but it still manages to fit. When you saddle your mount while attuned to this saddle, your mount shrinks one size category—from Large to Medium, for example. This decrease in size doesn’t change its speed, carrying capacity, or ability to carry you. While affected by the magic of the saddle, your mount’s attacks deal 1d4 less damage on a hit (this can’t reduce the damage below 1).
+
+The size reduction lasts until you use an action to end it or until 8 hours have passed. Once used, the saddle can’t be used again until the next dawn.
 
 ## Robe of Eyes
 
@@ -583,6 +613,18 @@ The rope has AC 20 and 20 HP. It regains 1 HP every 5 minutes as long as it has 
 *1,000 gp* While you wear these boots, you have advantage on saves against any effect that would cause you to become restrained or reduce your movement speed.
 
 In addition, you can use a bonus action to take the Dash action. Once you use this property, you can’t do so again until you finish a short or long rest.
+
+## Saddle of Flying
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Uncommon 8,000 gp (Requires Attunement)*
+
+This leather saddle is inlaid with a pegasus with its wings unfurled. While you are attuned to this saddle and riding a creature saddled with this saddle, your mount has a flying speed equal to its walking speed as spectral wings extend from the saddle, lifting you both into the air.
+
+You can use the saddle to allow your mount to fly for up to 4 hours, all at once or in several shorter flights, each one using a minimum of 1 minute from the duration. If your mount is flying when the duration expires or if you are dismounted while the wings are active, the saddle’s wings deactivate and the mount descends at a rate of 30 feet per round until it lands or until you are seated in the saddle again and choose to reactivate the wings (no action required).
+
+The saddle regains 2 hours of flying capability for every 12 hours it isn’t in use.
 
 ## Safe-and-Sound Alarm
 
@@ -736,6 +778,14 @@ As an action, you can throw this small crystalline sphere at a point up to 60 fe
 
 The circle of the *[[2nd-Circle Spells#Shatter|shatter]]* spell determines the spell’s save DC, as well as the item’s rarity, as shown in the **Shattersphere Rarity** table.
 
+## Sheltering Cape
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Rare 4,000 gp (Requires Attunement)*
+
+While you wear this cape, you gain a +1 bonus to AC. When a friendly creature you can see within 10 feet of you takes damage, you can use a reaction to flare this cape in that creature’s direction. The damage dealt to the target is reduced by 1d6. Once the cape has prevented 24 damage, it can’t be used in this way again until the next dawn.
+
 ## Shield of the World Serpent
 
 %% source: Northlands Worldbook %%
@@ -831,6 +881,14 @@ One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute
 These shards are always created in pairs and can take any form, such as polished stones, faceted crystals, or small mirrors as pendants, and are inscribed with unique, matching glyphs. While touching a shard, as an action, you can send a short to the creature possessing the other stone, as the *[[3rd-Circle Spells#Sending|sending]]* spell. A creature must have an INT of 5 (−3) or higher.
 
 Once used, the item can’t be used again until the next dawn. If one shard is destroyed, or its magic otherwise permanently deactivated, its twin suffers the same fate.
+
+## Speartag
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Uncommon 1,100 gp (Requires Attunement)*
+
+This tiny tag is made from the feathers of a magical bird that can always find its way home. The speartag has 5 charges and regains 1d4 + 1 expended charges daily at dawn. When attached to a weapon with the Thrown property, you can use a bonus action to expend 1 charge and magically teleport that weapon into your empty hand, provided it is on the same plane of existence as you.
 
 ## Spirit Effigy
 
@@ -958,6 +1016,16 @@ This wide belt has short, soft grey fur on both its inner and outer faces, with 
 
 A thin wooden disk is attached to two pieces of string: an image of a bird is painted on one side of the disk and a birdcage is on the other. While holding the end of the strings in each hand, as an action, you can twirl them between your fingers—causing the disk to spin and creating the optical illusion that the bird is in the cage—and cast the *[[1st-Circle Spells#Silent Image|silent image]]* spell. As long as you keep spinning the disk, the spell requires no concentration. If you stop spinning it, the spell ends at the start of your next turn.
 
+## Thundering Horseshoes
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Rare 17,600 gp*
+
+The surface of these heavy horseshoes roils with dark storm clouds, leaving whispers of fog as the shod creature runs. While all four shoes are affixed to the hooves of a horse or similar creature, and that creature hits with a Hoof or similar attack, the target takes an extra 1d6 thunder damage.
+
+The horseshoes have 3 charges and regain 1d3 expended charges daily at dawn. While riding a creature shod with these horseshoes, you can use an action to expend one charge to amplify the sound of your mount’s hooves into the thunderous pounding of a cavalry charge until the start of your next turn. If your mount moves at least 10 feet, each creature within 60 feet of your mount when it stops moving must succeed on a DC 15 WIS save or be frightened of you and your mount for 1 minute. While frightened, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. An affected creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. This thunderous charge can be heard for 1 mile.
+
 ## Thurible of Dream Traveling
 
 %% source: Labyrinth Worldbook %%
@@ -1031,6 +1099,31 @@ This iron bowsprit is forged in the shape of the one-handed god [[Tyr]] in the m
 *Wondrous Item, Rare 4,000 gp*
 
 This magic sheath contains an extradimensional space that can store any number of simple or martial melee weapons, regardless of whether or not the weapon would normally fit. In addition, if you make a ranged attack with a thrown weapon, the weapon instantly returns to the sheath after the attack resolves, unless you wish otherwise (no action required). If you are disarmed of your weapon, it immediately returns to the sheath. To draw a specific weapon from the sheath, simply intend to draw the correct weapon and then pull it free to wield it (no action required).
+
+## Vehicular Charm Bracelet
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Uncommon 2,200 gp*
+
+This gold bracelet has three small charms, each shaped like a miniature vehicle. The bracelet has 3 charges and regains 1d3 expended charges daily at dawn.
+
+While wearing the bracelet, you can use an action to expend one charge and activate one charm. A full-size, functional version of the vehicle depicted by the charm appears in an unoccupied space of your choice within 10 feet of you. If there is not enough space for the vehicle, it doesn’t appear, and the charge is wasted. The vehicle remains for 8 hours and during that time, the same charm can’t be used again. If you expend the last charge, roll a d20. On a 1, the bracelet blackens, crumbles into ash, and is destroyed.
+
+Eight magic charms exist. The GM decides the types of charms on the bracelet or determines them by rolling a d20 and consulting the **Vehicle Charms** table. See [[Vehicles]] for a vehicle’s statistics. Some of the vehicles listed in the chart are basic vehicles pulled by mounts and similar creatures, and they don’t have statistics. At the GM’s discretion, bracelets featuring charms for larger or more powerful vehicles might exist.
+
+**Vehicle Charms**
+
+| d20 | Vehicle |
+|---|---|
+| 1–3 | Cart |
+| 4–6 | Carriage |
+| 7–8 | Keelboat (unarmed) |
+| 9–10 | Raft |
+| 11–13 | Rowboat |
+| 14–15 | Sand Skimmer |
+| 16–18 | Tandem Glider |
+| 19–20 | Wagon |
 
 ## Veil of Charms and Frights
 

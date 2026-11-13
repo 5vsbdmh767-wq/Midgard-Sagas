@@ -210,6 +210,56 @@ Your commitment to the rogue’s path grants you a powerful new ability. You gai
 
 %% source: Player's Guide 2: Mask of Oblivion, Shroud of Shadow %%
 
+## Rogue Tricks
+
+%% source: Book of Blades %%
+
+This section provides additional options useful to rogues and others who take on their roles in a game.
+
+### Dead to Rights
+
+It can be disappointing to hold a foe at knifepoint or spellpoint, only for them to slip away with a Disengage trait or by sucking up the opportunity attack. Worse, your foe might ignore your threat completely and attack anyway.
+
+If you are wielding a melee weapon and your opponent is surprised, you can use your action to declare a target dead to rights. You can also declare a single creature dead to rights if it’s in range of your attack for a full round and neither of you moves, takes a Dodge action, or attacks any creature during that time. The target must have no intention or means to defend itself, such as a pleading negotiator.
+
+Dead to rights is a special [[Encounter Gameplay#Ready|Ready]] action. If the trigger conditions you set for attacking the target are met and you hit, you score an automatic critical hit.
+
+If two or more instances of dead to rights occur, such as when a hidden enemy reveals itself and puts you dead to rights while you were staring down a foe, then a standoff occurs. If only one creature in initiative opts to attack, its dead to rights Ready action triggers first. If two or more parties meet their attacking trigger conditions on the same initiative count, they must make contested DEX checks. The winner can use its reaction to benefit from dead to rights.
+
+A GM might consider dealing the attack’s maximum damage instead of normal critical damage. This could especially apply if the target is restrained, paralyzed, or otherwise unable to avoid the worst.
+
+### Setup
+
+Due to their typically high DEX modifiers, rogues often go early in initiative, when they would rather wait for an ally to get into position first. The Setup option lets you address this hurry-up-and-wait situation.
+
+If you are not surprised and none of your enemies have acted in this encounter, as a bonus action, you can swap your place in the initiative order with one ally you can see. The ally takes its turn on your initiative count. Then you take your turn (without a bonus action) on their former initiative count.
+
+### Cunning Tricks
+
+A cunning rogue has a toolkit of tricks to play in a fight, from a barroom tussle to a dragon’s lair. You can perform these tricks as extensions of your Cunning Action class feature at 2nd level. If the trick requires a save, the difficulty class is equal to 8 + your DEX modifier + your PB. All cunning tricks are bonus actions in addition to other requirements included in the trick.
+
+Once you’ve used a trick, any creature that witnessed it has advantage on saves to resist the same trick for 24 hours.
+
+**Blind.** This trick requires a handful of sand, dust, ash, embers, ink, or similar substance. You toss a substance at the eyes of a creature (or its ocular equivalent). It must succeed on a DEX save or be blinded until it spends a bonus action clearing the grime.
+
+**Grab.** A creature within 5 feet of you and also within 5 feet of an ally must make a DEX save. On a failure, you or the ally grapple it as a reaction.
+
+**Graze.** This trick requires a weapon with the Finesse property. Make an attack roll. On a hit, you do not add your ability modifier to damage. Your next attack against the same creature before the end of your next turn can be a Sneak Attack, as if you met the normal requirements.
+
+**Mug.** After attacking a creature with a melee weapon attack or a shove, you can attempt to snatch a small, easily concealed object carried by the target without being noticed. Make a DEX (Sleight of Hand) check with a DC equal to the creature’s Perception score. On a success, you steal the item without being noticed, and you can stow it among your possessions without being seen. You can also plant a small object using the same rules. In the case of volatile items like alchemist’s fire, an acid flask, or holy water, you can use this trick instead of a ranged attack and douse the target on a success.
+
+**Press.** You use nimble leverage to reposition a foe. Make a melee weapon attack against a creature. Regardless of whether you hit, the press follows. The creature must make a STR or INT save (your choice). On a failure, it’s pushed 5 feet.
+
+**Startle.** If a creature is surprised or has not acted in combat yet, you can frighten it with loud noise and sudden movement. A creature within 30 feet of you must succeed on a WIS save or be frightened of you until the end of your next turn. If you deal damage to it before the frightened condition expires, it is extended for another turn. The creature can make a new WIS save at the end of each of its turns to end the effect. Afterward, it can’t be affected by this trick again.
+
+### Set Pitfalls
+
+With clever use of thieves’ tools and some useful materials, you can avoid figurative pitfalls of combat by setting literal pitfalls for your foes. A rogue can set up a pitfall where, should the target fail a save, they’ll be subject to a rogue’s Sneak Attack damage and potentially suffer a debilitating condition. To set a pitfall, you need at least 1 minute, you need to have a set of thieves’ tools and be proficient with them, and you must have any other materials as decided by your GM. Examples include rocks hanging from a string, oil to create a slick, ball bearings, or acid flasks. The save DC of a pitfall is equal to 8 + your PB + your INT modifier.
+
+A pitfall affects 5 square feet of space. Compare a creature’s Perception score to the pitfall’s save DC to determine whether the creature notices it.
+
+The base damage of a pitfall is 1d4 + your INT modifier bludgeoning damage. Certain materials can change the damage type, as appropriate. In addition, you add your Sneak Attack damage to the final result.
+
 ## Rogue Subclasses
 
 Not all rogues are criminals, but the long history of rogues working on the wrong side of the law carries forward in discussion of your roguish specialties. Your subclass represents the brand of skullduggery you bring to the table, typically (but not necessarily) in the context of a criminal operation.

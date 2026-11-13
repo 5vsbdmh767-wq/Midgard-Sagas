@@ -47,9 +47,13 @@ Your character can wear any kind of armor, regardless of proficiency. However, i
 | Splint | 200 gp | 17 | 60 lb. | Cumbersome (STR 15), Noisy |
 | Stonesteel | 3,000 gp | 19 | 80 lb. | Cumbersome (STR 19), Noisy |
 | Wooden plate | 5 gp | 14 | 45 lb. | Buoyant, Cumbersome (STR 16), Natural Materials |
+| **Special Armor** |  |  |  |  |
+| Dragonscale armor | +5,000 gp | Matches type | +10 lb. | Natural Materials (as armor) |
+| Winged armor | +200 gp | Matches type | +10 lb. | — |
 | **Shields** |  |  |  |  |
 | Buckler | 5 gp | +1 | 3 lb. | Offensive |
 | Kite shield | 15 gp | +2 | 10 lb. | — |
+| Lantern shield | 30 gp | +2 | 8 lb. | — |
 | Leather shield | 1 gp | +1 | 1 lb. | Natural Materials |
 | Manica | 6 gp | +1 | 4 lb. | — |
 | Musket shield | 70 gp | +2 | 15 lb. | Two-handed |
@@ -57,10 +61,11 @@ Your character can wear any kind of armor, regardless of proficiency. However, i
 | Scutum | 15 gp | +2 | 8 lb. | Interlocking |
 | Shield | 10 gp | +2 | 6 lb. | —\* |
 | Spike shield | 10 gp | +1 | 4 lb. | Spiked |
+| Spiked shield, large | 100 gp | +2 | 8 lb. | Light |
 
 \* At the GM’s discretion, this armor can have the Natural Materials property. Make this decision when you acquire it and note it on your character sheet.
 
-%% sources: Player's Guide 2: Kite shield, Manica, Silk-backed coin mail, Stonesteel; Northlands Worldbook: Beinagrind, Double mail, Hardened mail shirt, Walrus hide; Trade Secrets: Bone, Buckler, Fashionable armor, Lamellar, Leather shield, Musket shield, Pavise, Scutum, Spike shield, Wooden plate %%
+%% sources: Player's Guide 2: Kite shield, Manica, Silk-backed coin mail, Stonesteel; Northlands Worldbook: Beinagrind, Double mail, Hardened mail shirt, Walrus hide; Trade Secrets: Bone, Buckler, Fashionable armor, Lamellar, Leather shield, Musket shield, Pavise, Scutum, Spike shield, Wooden plate; Book of Blades: Dragonscale armor, Lantern shield, Spiked shield, large, Winged armor %%
 
 > [!note] What About Equipment Size?
 > To keep things simple, assume that PCs can wear any nonmagical armor or wield any nonmagical equipment they find, within bounds of common sense. For example, it’s unlikely that a smallfolk could wear armor taken from a slain giant. Note that magic items have special sizing rules (see **Magic Items** in this chapter). However, a GM can decide a piece of armor or equipment requires alteration or won’t work for a PC due to its size. The cost for resizing a piece of equipment varies from 10 to 40 percent of the item’s base cost depending on how much alteration is needed and whether the item is made of special materials.
@@ -124,6 +129,33 @@ Heavy armor provides the most protection of any armor type, but wearing it deman
 
 ***Wooden Plate.*** This armor is made by using sinew and rope to strap a thick wooden breastplate over the chest and groin while wearing hides or furs underneath for padding. While offering decent protection, such armor is heavy and cumbersome to wear. %% source: Trade Secrets %%
 
+### Special Armor
+
+%% source: Book of Blades %%
+
+These are made as light, medium, or heavy armor; the cost and weight are added to the base armor.
+
+***Dragonscale Armor.*** This armor can be light, medium, or heavy, depending on its manufacture. Few sets of armor prove as deadly to produce as dragonscale armor. The reward for such dangerous work is armor that grants resistance to the element corresponding to the dragon it was made from, as shown in the **Damage Resistance by Dragon Type** table.
+
+**Damage Resistance By Dragon Type**
+
+| Scale Color | Damage Resistance |
+|---|---|
+| Black | Acid |
+| Blue | Lightning |
+| Brass | Fire |
+| Bronze | Lightning |
+| Copper | Acid |
+| Gold | Fire |
+| Green | Poison |
+| Red | Fire |
+| Silver | Cold |
+| White | Cold |
+
+***Winged Armor.*** This armor can be made light, medium, or heavy and is generally only made for Humanoids. The armor isn’t winged itself but is rather built for warriors who have wings and adjustable for different wing sizes. A non-winged character would feel less protected in winged armor with two large holes in the back.
+
+In addition to allowing winged Humanoids to wear armor, winged armor is built to help fliers stabilize when they’re hit in midair. When an attack or effect would cause you to fall prone in midair, you have advantage on saves against that effect.
+
 ### Shields
 
 A shield is handheld armor that is wielded instead of worn. This means their AC bonus can be lost if the shield is destroyed or becomes disarmed. Wielding a shield requires the use of one hand, which means a PC can’t use two-handed weapons while holding a shield. You can only benefit from one shield AC bonus at a time, even if you wield multiple shields.
@@ -131,6 +163,10 @@ A shield is handheld armor that is wielded instead of worn. This means their AC 
 ***Buckler.*** These small metal shields are designed for melee dueling. In addition to blocking, they can knock an opponent’s weapon out of position, creating an opening to attack. %% source: Trade Secrets %%
 
 ***Kite Shield.*** Favored by mounted warriors, this shield’s leaf-like shape protects the rider’s legs and their mount’s flanks. When you use a kite shield while mounted, the shield’s bonus to AC applies to your AC as well as to your mount’s AC. %% source: Player's Guide 2 %%
+
+***Lantern Shield.*** Attached to this buckler is a lightweight lantern. It can be lit like any other lantern by mundane or magical means. The lantern swings from the shield, shedding bright light in a 10-foot radius and dim light for an additional 20 feet. %% source: Book of Blades %%
+
+As a bonus action while the lantern is lit, you can swing your shield toward an opponent within 5 feet of you in an attempt to blind them with the light. Your opponent must succeed on a DC 13 CON save or be blinded until the start of its next turn.
 
 ***Leather Shield.*** Shields made of leather are common among groups without access to metal working. Cured leather is stretched over a light wooden frame that includes a simple grip. They are light weight but offer limited protection against metal armaments. %% source: Trade Secrets %%
 
@@ -143,6 +179,8 @@ A shield is handheld armor that is wielded instead of worn. This means their AC 
 ***Shield.*** This broad piece of wood and metal is held by a handle attached to one side.
 
 ***Spike Shield.*** This small metal shield has a sharp and sturdy spike in the boss that can be thrust at an opponent in close combat. %% source: Trade Secrets %%
+
+***Spiked Shield, Large.*** This shield has the Light weapon property. You can use a spiked shield as a weapon and can use it in two-weapon fighting. On a successful melee attack with it, you deal 1d4 + your STR modifier piercing damage. %% source: Book of Blades %%
 
 ## Armor Properties
 

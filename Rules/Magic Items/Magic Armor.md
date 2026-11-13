@@ -23,6 +23,31 @@ You are resistant to one type of damage while you wear this armor. The GM choose
 | 4 | Force | 9 | Radiant |
 | 5 | Lightning | 10 | Thunder |
 
+## Armor of the Paired Heart
+
+%% source: Book of Blades %%
+
+*Armor, Rare Price Varies*
+
+These matched sets of barding and armor are bedecked with scrollwork depicting a flaming heart. This armor only functions while you and your mount wear matching sets of armor. The various types of armor and their costs are on the **Armor and Barding Types** table.
+
+**Armor and Barding Types**
+
+| d10 | Armor and Barding Type | Cost |
+|---|---|---|
+| 1 | Leather | 8,040 gp |
+| 2 | Studded Leather | 8,180 gp |
+| 3 | Brigandine | 8,200 gp |
+| 4 | Hide | 8,040 gp |
+| 5 | Scale mail | 8,200 gp |
+| 6 | Breastplate | 9,600 gp |
+| 7 | Half plate | 11,000 gp |
+| 8 | Chain mail | 12,000 gp |
+| 9 | Splint | 14,000 gp |
+| 10 | Plate | 20,000 gp |
+
+The armor allows you to take some of your mount’s injuries onto yourself. When your mount takes damage, you can use your reaction to halve the damage it takes and take the other half yourself (rounded up). In addition, the armor makes you an effortless burden for your mount. Your weight and the equipment you carry do not count against your mount’s carrying capacity.
+
 ## Armor of Thorns
 
 %% source: Player's Guide 2 %%
@@ -132,6 +157,14 @@ When wearing this metal helmet, you have advantage on initiative rolls. If you d
 *Armor (Any medium or heavy armor made primarily of metal), Uncommon 1,000 gp + armor base cost*
 
 This suit of armor is made of iced steel, which legends hold originates in the frozen underworld of Niflheim. Objects made of iced steel always feel cold to the touch. While you are wearing it, you automatically succeed on saves against extreme heat, and you have advantage on saves against spells involving fire and heat.
+
+## Ironhide Barding
+
+%% source: Book of Blades %%
+
+*Armor (Half-Plate), Rare Price 30,000 gp*
+
+This magical half-plate barding is composed of thick, angular plates with Dwarven runes carved into intricate scrollwork. Your mount has a +1 bonus to AC while wearing this barding. While riding it, you can use an action to make your mount resistant to nonmagical bludgeoning, piercing, and slashing damage for 10 minutes. Once you use this effect, you can’t use it again until you finish a long rest.
 
 ## Laekning Shield
 

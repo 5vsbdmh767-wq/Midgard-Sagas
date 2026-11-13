@@ -258,6 +258,16 @@ You must have proficiency with instruments (woodwinds) to use these bagpipes. Th
 
 ***Spells.*** While playing the bagpipes, as an action, you can expend 1 or more of the instrument’s charges to cast one of the following spells (using your spell save DC): *[[1st-Circle Spells#Bane|bane]]* (1 charge), *[[4th-Circle Spells#Confusion|confusion]]* (4 charges), *[[5th-Circle Spells#Dominate|dominate]]* (5 charges), *[[2nd-Circle Spells#Enthrall|enthrall]]* (2 charges), or *[[3rd-Circle Spells#Hypnotic Pattern|hypnotic pattern]]* (3 charges). Spells cast using the bagpipes require no components, but targets must be able hear its music in order to be affected. The spells don’t require concentration when cast in this way, though the playing does, and you must use a bonus action on subsequent turns to keep the song (and thus the spell) going, but this can be the same bonus action used to maintain a Bardic Performance. You can only play one song at a time.
 
+## Banner of the Horse Lord
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Rare Price 16,000 gp*
+
+This three-foot-long tapered banner affixes to the saddle of a mount. When activated, the banner unfurls and allied mounts within 300 feet are filled with vigor and excitement for battle. They become immune to fear, increase their speed by 10 feet, and gain a +2 bonus to melee attacks and saves. Mounts with the Trampling Charge trait increase the save DC of that ability by 2.
+
+These benefits last for 10 minutes or until the banner is struck, either as an action taken by the mount’s rider or by slaying or disabling the mount carrying the banner. Once you use this ability, you can’t use it again until the next dawn.
+
 ## Beachhead Banner
 
 %% source: Trade Secrets %%
@@ -355,6 +365,14 @@ While wearing this thick fur and leather belt, you gain the following benefits:
 While wearing this wolf-hide belt, you can choose to use the following feature each time you activate your Rage class feature:
 
 ***Foolhardy Rage.*** While you are raging, you gain an extra bonus action each turn that you can only use to extend your rage or to take the Dash action. If you use it to take the Dash action, you cannot take the Dash action again on that turn. In addition, you gain a +1 bonus to your rage damage. Finally, you must use your Reckless Attack class feature on each of your turns during your rage, or your rage ends.
+
+## Blanket of the War Steed
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Rare Price 4,000 gp*
+
+These blankets are decorated with heroic heraldry and magically adjust their size and cut to your mount. While your mount is wearing this blanket and you are riding it, your mount gains a +1 bonus to all saves and is immune to fear effects. In addition, when you roll initiative, your mount gains temporary hit points equal to 1d8 + your PB.
 
 ## Blue Willow Cloak
 
@@ -517,6 +535,22 @@ After using the amulet, you can’t use it again until the next midnight.
 When you place this seemingly normal brick on a solid surface, as an action, you can cast the *[[5th-Circle Spells#Wall of Stone|wall of stone]]* spell, centered on the brick. The wall is 6 inches thick and is limited to only three 10-foot-by-10-foot panels.
 
 Maintaining the wall does not require concentration, and it lasts for 1 hour, until you use an action to dismiss it, or until it is destroyed. The brick remains intact, even if the wall was destroyed, and can’t be used again until the next dawn.
+
+## Bridle of Calling
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Uncommon Price 2,000 gp*
+
+While your mount wears this bell-covered bridle, you can mentally call your mount to you as long as it is within 10 miles. Your mount instantly knows your direction and distance even if you continue to move, and it does everything it can to come to you. It doesn’t take actions or travel through dangerous terrain that causes obvious harm, such as swimming through lava, but it instead seeks the shortest path around dangerous terrain. Your mount takes rests as needed, but otherwise does not stop until it finds you. Once you use the bridle, you can’t use it again until the next dawn.
+
+## Bridle of Handling
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Common Price 50 gp*
+
+Gold tassels hang from this finely made bridle. While using this bridle to control your mount, you gain proficiency in Animal Handling. If you already have proficiency, double your PB.
 
 ## Brooch of Shielding
 
@@ -1388,6 +1422,14 @@ This delicate silver circlet holds a flawed moonstone. When worn, it resembles a
 
 ***Truesight.*** As an action, you gain truesight to a range of 60 feet, for a number of minutes equal to your PB. When this duration expires, you are blinded for an equal number of hours. You can end your truesight early to minimize this condition. You can also remove the blinded condition through *restoration* or similar means.
 
+## Hallowed Feedbag
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Common Price 25 gp*
+
+Created by faiths devoted to war, animals, or healing, these one-use items are prized by owners of valuable mounts. Food placed within the feedbag becomes blessed when the feedbag is attached to your mount’s muzzle. The mount consuming the food is cleansed of all poison and disease. The food becomes nonmagical if the feedbag is removed from the mount. Once the feedbag is used, its magic is expended and it becomes nonmagical.
+
 ## Handy Haversack
 
 *Wondrous Item, Rare 8,000 gp* This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 20 pounds of material, not exceeding a volume of 2 cubic feet. The large central pouch can hold up to 8 cubic feet or 80 pounds of material. The backpack always weighs 5 pounds, regardless of its contents.
@@ -1486,6 +1528,14 @@ You gain the following benefits while wearing it:
 
 *Wondrous Item, Uncommon 2,500 gp* While wearing this helm, you can use an action to cast the *[[1st-Circle Spells#Comprehend Languages|comprehend languages]]* spell from it.
 
+## Helm of Enriching Aura
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Very Rare 120,000 gp (Requires Attunement by a [[Paladin]])*
+
+This brilliant helm radiates a commanding aura. Each friendly creature that starts its turn within 10 feet of you while you wear this helm gains a bonus on its weapon attack and damage rolls until the end of its turn. The bonus it gains depends on the weapon you are wielding. If you are wielding a magical weapon, the creature’s weapon attacks are magical. If you are wielding a weapon that gives you a bonus to attack and damage rolls, such as a *+2 longsword*, the creature gains that same bonus on weapon attacks. If you are wielding a weapon that deals extra damage, such as a *flame tongue longsword*, and that extra damage doesn’t require a special condition to activate, such as a critical hit, the creature’s weapon attacks deal that same extra damage on a hit. The helm can share only the passive, inherent traits of your weapon. It doesn’t share extra features you might add to the weapon, such as the bonus damage from the Divine Smite or Sneak Attack class features or the bonuses from a mechanist’s Augment class feature.
+
 ## Helm of Telepathy
 
 *Wondrous Item, Uncommon 3,000 gp*
@@ -1521,6 +1571,16 @@ This helmet, covered in rust and verdigris, features glowing inlays in Void Spee
 While carrying this blackened silver coin, if you fail a death save, you treat the save as a success instead. Then the coin crumbles into dust.
 
 If you carry more than one *Hel’s coin*, you gain the following curse instead; If you succeed on a death save, you treat the success as a failure, then one *Hel’s coin* crumbles to dust. This curse remains until there is only one coin left in your possession, whereupon that coin’s normal effect resumes. You can freely divest yourself of extra coins.
+
+## Hidden Scabbard
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Uncommon 1,000 gp*
+
+This scabbard is a plain and unassuming scabbard for holding a specific type of weapon, offering no detail or decoration to distinguish it from an ordinary one designed to hold that type of weapon. When a weapon appropriate for the scabbard is sheathed in it, the scabbard creates an illusion on itself and the weapon to disguise the pair as something inconspicuous, such as a belt pouch or other accessory. While wearing the scabbard, you can see through the illusion.
+
+Physical interaction with the scabbard reveals the illusion. A creature other than you can use its action to examine the scabbard and determine it is covered by an illusion with a successful DC 15 INT (Investigation) check. Magic that can dispel illusions can end this illusion for 10 minutes.
 
 ## Hjartarydi’s Belt
 
@@ -1582,6 +1642,20 @@ When you blow this horn, you can expend 1 charge to cast *[[3rd-Circle Spells#Co
 
 *Wondrous Item, Very Rare 30,000 gp* These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above nonsolid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march.
 
+## Horseshoes of Traveling
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Rare Price 8,000 gp*
+
+These set of four horseshoes are covered in arcane runes of travel. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature a second mode of travel with a speed equal to the creature’s walking speed. The horseshoes do not provide any special adaptation to terrain.
+
+| d20 | Movement Type |
+|---|---|
+| 1–6 | Burrowing |
+| 6–12 | Climbing |
+| 13–20 | Swimming |
+
 ## Incendiary Coal
 
 %% source: Northlands Worldbook %%
@@ -1593,6 +1667,14 @@ This lump of coal is pleasingly warm to the touch. As an action, you breathe gen
 A creature that ends its turn within or adjacent to the sphere must make a DC 15 DEX save, taking 1d6 fire damage on a failed save, or half as much damage on a successful one. Flammable objects in or adjacent to the sphere that aren’t worn or carried start burning.
 
 At the end of each of your subsequent turns, the sphere’s radius increases by 5 feet, and the fire damage dealt increases by 1d6 until it reaches its maximum size of 30 feet and maximum damage of 6d6. At the end of each of your turns after that, the sphere’s radius decreases by 5 feet, and the fire damage dealt decreases by 1d6 until both reach 0, at which point the coal cannot be used again until the next dawn.
+
+## Infernal Bit
+
+%% source: Book of Blades %%
+
+*Wondrous Item, Uncommon Price 2,000 gp*
+
+This bit is worked from iron tainted with fiendish blood. While in your mount’s mouth or similar orifice, as an action, you can command it to exhale a 20-foot cone of fire. Each creature in the area must make a DC 13 DEX save. Creatures take 4d6 fire damage on a failed save, or half as much damage on a success. Once used, you cannot use the bit again until you finish a short or long rest.
 
 ## Insta-Pit
 
