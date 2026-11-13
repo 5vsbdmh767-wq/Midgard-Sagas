@@ -14,7 +14,7 @@ This could be as straightforward as a player with a fear of spiders or as comple
 
 ### Safety Tools
 
-Safety tools are a set of rules and practices meant to ensure that everyone continues having fun. It provides a framework to empower anyone at the table to interrupt the game without recrimination or ridicule, if an unexpected and unwanted topic arises. These rules might include anonymous questionnaires handed out by the GM, candid one-on-one conversations or group discussions, and other safety tools: anything needed and agreed upon based on the comfort level of the gaming group. For more details on safety tools, see the *Player’s Guide*.
+Safety tools are a set of rules and practices meant to ensure that everyone continues having fun. It provides a framework to empower anyone at the table to interrupt the game without recrimination or ridicule, if an unexpected and unwanted topic arises. These rules might include anonymous questionnaires handed out by the GM, candid one-on-one conversations or group discussions, and other safety tools: anything needed and agreed upon based on the comfort level of the gaming group.
 
 ### Emotional Bleed
 

@@ -28,7 +28,7 @@ As a theurge, you have the following class features.
 >
 > - For ability scores, prioritize INT and then CON.
 >
-> - For background and talent, choose Scholar and Ritualist (see *Player’s Guide* for both).
+> - For background and talent, choose [[Backgrounds#Scholar|Scholar]] and [[Magic Talents#Ritualist|Ritualist]].
 >
 > - For spells, choose the *[[Cantrips#Guidance|guidance]]*, *[[Cantrips#Light|light,]]* and *[[Cantrips#Ray of Frost|ray of frost]]* cantrips. Your libram contains the following 1st-circle Arcane and Divine spells: *[[1st-Circle Spells#Bless|bless]]*, *burning hands, cure* *wounds, feather fall, mage armor,* and *[[1st-Circle Spells#Magic Missile|magic missile]]*. Then choose your 1st-circle ritual: *[[Rituals 1st–3rd Circle#Identify|identify]]*. If you took the Ritualist talent, choose your Divine 1st-circle ritual: *[[Rituals 1st–3rd Circle#Detect Poison and Disease|detect poison and disease]]*.
 >
@@ -192,7 +192,7 @@ Choose one of the following improvements (ability scores can’t be raised above
 
 - Increase two different ability scores by 1 each.
 
-- Increase one ability score by 1 and select a talent from the magic talents list (see *Player’s Guide*).
+- Increase one ability score by 1 and select a talent from the [[Magic Talents|magic talents]] list.
 
 ### Spell Synthesis
 
@@ -279,7 +279,7 @@ Your mastery of magical power allows you to transfer raw energy in various ways.
 
 ***Exchange Life.*** You can convert your own life force into raw magical power. As a bonus action, you can expend Hit Dice to recover an expended spell slot. When you do so, expend a number of Hit Dice equal to the circle of the spell slot you are attempting to recover. Roll the expended Hit Dice and add your CON modifier to the roll. You immediately lose hit points equal to the result, and your hit point maximum is reduced by that amount until you finish a long rest. If you have at least 1 HP remaining after losing these hit points, you successfully recover the spell slot.
 
-***Exchange Power.*** You can control the energy within magic items. As an action, you can expend a spell slot to restore charges to a magic item you are touching. When you do so, the magic item regains expended charges equal to the circle of the spell slot expended, up to the item’s maximum charges. This feature can’t restore charges to items that don’t have charges, such as a *[[Rings#Ring of Feather Falling|ring of feather falling,]]* and it can’t restore charges to consumables or items that cease to be magical once all their charges or uses are expended, such as the *[[Wondrous Items A–L#Gem of Brightness|gem of brightness]]* or *[[Wondrous Items M–Z#Restorative Ointment|restorative ointment]]* (see *Player’s* *Guide* for all items).
+***Exchange Power.*** You can control the energy within magic items. As an action, you can expend a spell slot to restore charges to a magic item you are touching. When you do so, the magic item regains expended charges equal to the circle of the spell slot expended, up to the item’s maximum charges. This feature can’t restore charges to items that don’t have charges, such as a *[[Rings#Ring of Feather Falling|ring of feather falling,]]* and it can’t restore charges to consumables or items that cease to be magical once all their charges or uses are expended, such as the *[[Wondrous Items A–L#Gem of Brightness|gem of brightness]]* or *[[Wondrous Items M–Z#Restorative Ointment|restorative ointment]]*.
 
 ### Mystic Vitality
 
@@ -372,7 +372,7 @@ You and creatures within 30 feet of you that are marked by your symbol gain a cu
 
 *15th-Level Illuminary Feature*
 
-Your mastery of glyphs gives you a new way to cast the *[[Rituals 7th–9th Circle#Symbol|symbol]]* ritual (see full spell description in *Player’s Guide*). As an action, you can use this feature to cast *[[Rituals 7th–9th Circle#Symbol|symbol]]* without expending a spell slot or using any material components. When you cast the spell in this way, the symbol created lasts until triggered or dispelled (as per the spell description) or until you use this feature to cast symbol again, which causes the old spell’s glyph to disappear as soon as the new glyph is created.
+Your mastery of glyphs gives you a new way to cast the *[[Rituals 7th–9th Circle#Symbol|symbol]]* ritual. As an action, you can use this feature to cast *[[Rituals 7th–9th Circle#Symbol|symbol]]* without expending a spell slot or using any material components. When you cast the spell in this way, the symbol created lasts until triggered or dispelled (as per the spell description) or until you use this feature to cast symbol again, which causes the old spell’s glyph to disappear as soon as the new glyph is created.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 

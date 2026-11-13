@@ -91,11 +91,11 @@ You confer divine blessings on a group of creatures, preparing them for the batt
 
 *You bind willing creatures to a contract, with magical consequences for breaking it.*
 
-You formalize an agreement between two or more willing creatures, either through a formal, written contract or a religious ceremony with oaths sworn aloud. In either form, the agreement and the consequences of breaking it are set. If any of the sworn break their vow, they are struck by a curse, chosen from one of the options in the *bestow* *curse* spell (see *Player’s Guide*). When the oath is broken, all participants are immediately aware this has occurred, but they know no other details.
+You formalize an agreement between two or more willing creatures, either through a formal, written contract or a religious ceremony with oaths sworn aloud. In either form, the agreement and the consequences of breaking it are set. If any of the sworn break their vow, they are struck by a curse, chosen from one of the options in the *[[3rd-Circle Spells#Bestow Curse|bestow curse]]* spell. When the oath is broken, all participants are immediately aware this has occurred, but they know no other details.
 
 The curse effect of this spell can’t be dismissed by *dispel* *magic*, but it can be removed with *[[5th-Circle Spells#Dispel Evil and Good|dispel evil and good]]*, *remove* *curse*, or *[[9th-Circle Spells#Wish|wish]]*. The *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell functions only if the spell slot used to cast it is equal to or higher than the spell slot used to cast this spell. Depending on the nature of the oath, one creature’s breaking of it might not necessarily invalidate the oath for the other targets. If the oath is completely broken, the spell ends for every affected creature, but curse effects already bestowed remain until magically removed.
 
-***At Higher Circles.*** As you unlock higher circles, this ritual grows in potency. When you cast *[[#Binding Oath|binding oath]]*, it is considered a spell of the highest circle you are able to cast for the purposes of attempting to use a *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell (see *Player’s Guide*) to remove the effects of this spell. For example, if you are capable of casting 6th-circle spells, a caster must cast *[[3rd-Circle Spells#Remove Curse|remove curse]]* using at least a 6th-circle spell slot to remove the curse.
+***At Higher Circles.*** As you unlock higher circles, this ritual grows in potency. When you cast *[[#Binding Oath|binding oath]]*, it is considered a spell of the highest circle you are able to cast for the purposes of attempting to use a *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell to remove the effects of this spell. For example, if you are capable of casting 6th-circle spells, a caster must cast *[[3rd-Circle Spells#Remove Curse|remove curse]]* using at least a 6th-circle spell slot to remove the curse.
 
 ## Briar Rose
 
@@ -607,7 +607,7 @@ You conjure a Huge war wagon forged from black iron and hellfire in an unoccupie
 
 The war wagon has AC 18 and 80 HP. It is immune to fire, poison, psychic, and necrotic damage, and it has resistance to nonmagical damage. Creatures inside do not receive any of these benefits but do have three-quarters cover from attacks outside the wagon.
 
-While riding the war wagon, you can drive it in place of your move. The war wagon has a speed of 30 feet and a flying speed of 30 feet. For other vehicular interactions not specified here, see the **war wagon** in **Chapter 5** of the *Player’s Guide*.
+While riding the war wagon, you can drive it in place of your move. The war wagon has a speed of 30 feet and a flying speed of 30 feet. For other vehicular interactions not specified here, see the [[Vehicles#War Wagon|war wagon]].
 
 If the war wagon ends its move in a space occupied by Medium or smaller creatures, all creatures sharing the space of the war wagon at the end of its movement must make a STR save. On a failure, the creatures take damage as if they had touched the war wagon, are pushed to the nearest unoccupied space, and knocked prone. On a success, the target takes half damage, is pushed to the nearest safe, unoccupied space, and is not prone.
 
@@ -1301,7 +1301,7 @@ You can create a permanent *[[#Teleportation Circle|teleportation circle]]* by c
 
 You invoke a blessing upon a building, placing divine protection upon it, those dwelling within, and any invited guests. The spell affects a structure of up to 3,600 square feet per floor, and up to three floors. Its protection includes any creatures that claim the building as a dwelling and any invited guests inside when the spell is cast, including any invited in before the duration expires. While the spell lasts, the structure is resistant to fire and lightning damage. The DC for forcing open or picking locks on doors and windows is increased by 5.
 
-All protected creatures are under the effects of a *protection* *from evil and good* spell (see *Player’s Guide*) while within the building. If a protected creature receives benefit of healing magic, roll twice for effects and use the higher roll to determine the number of hit points regained.
+All protected creatures are under the effects of a *[[1st-Circle Spells#Protection from Evil and Good|protection from evil and good]]* spell while within the building. If a protected creature receives benefit of healing magic, roll twice for effects and use the higher roll to determine the number of hit points regained.
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

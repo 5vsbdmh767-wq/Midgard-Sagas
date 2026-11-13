@@ -156,7 +156,7 @@ Your commitment to the fighter’s path grants you a powerful new ability. Choos
 
 - **Defiant.** When you fail a save, you can instead choose to succeed on the save. You can use this feature once and regain the use of it when you finish a long rest. You can use it twice before a long rest at 13th level, and three times at 17th.
 
-- **Martial Expert.** Learn three additional actions of your choice from the Martial Action feature (see *Player’s* *Guide*). In addition, when you take the Attack action on your turn, you can substitute one of your attacks to perform a martial action instead.
+- **Martial Expert.** Learn three additional actions of your choice from the [[#Martial Action|Martial Action]] feature. In addition, when you take the Attack action on your turn, you can substitute one of your attacks to perform a martial action instead.
 
 - **Unavoidable.** When you make an attack roll against a creature and fail to hit it with the attack, you have advantage on the next attack you make against that creature before the end of your next turn.
 
@@ -259,7 +259,7 @@ While wearing heavy armor and carrying a shield, as an action, you can cast *wal
 
 %% source: Player's Guide 2 %%
 
-This section lists additional martial actions available for fighters. See the Martial Action class feature in the *Player’s* *Guide* for the full description of how these effects work.
+This section lists additional martial actions available for fighters. See the [[#Martial Action|Martial Action]] class feature for the full description of how these effects work.
 
 ### Destabilizing Blow
 
@@ -604,7 +604,7 @@ You have focused your training on ranged weapons, specifically bows and crossbow
 
 Once per turn, when you roll damage for an attack with a bow or crossbow, you can reroll the weapon’s damage dice and use either result. Alternatively, once per turn, when you use a weapon option for a bow or crossbow, you can roll the attack’s damage even if the weapon option doesn’t normally allow it.
 
-When you gain this subclass, choose one bow or crossbow to master. This weapon has the Ricochet Shot weapon option (see **Weapons** in *Player’s Guide* for Ricochet Shot and more on weapon options) when wielded by you, even if it normally wouldn’t have that weapon option.
+When you gain this subclass, choose one bow or crossbow to master. This weapon has the Ricochet Shot weapon option (see [[Weapons|Weapons]]) when wielded by you, even if it normally wouldn’t have that weapon option.
 
 ### Stunt Shots
 
@@ -660,7 +660,7 @@ You increase the normal range for any bow or crossbow you wield: weapon, even if
 
 - If the normal range is between 50 and 100 feet, it increases by 20 feet.
 
-- If the normal range is greater than 100 feet, it increases by 30 feet. When you wield the weapon that you chose as part of your Bow Mastery feature, its range increases by an additional 10 feet. This feature doesn’t affect any weapon’s long range. In addition, you can choose one additional bow or crossbow to master, and you can use the Ricochet Shot weapon option (see **Weapons** in *Player’s Guide*) with that
+- If the normal range is greater than 100 feet, it increases by 30 feet. When you wield the weapon that you chose as part of your Bow Mastery feature, its range increases by an additional 10 feet. This feature doesn’t affect any weapon’s long range. In addition, you can choose one additional bow or crossbow to master, and you can use the Ricochet Shot weapon option (see [[Weapons|Weapons]]) with that
 
 > [!note] Varied Archery
 > The stunt archer subclass focuses on bows and crossbows and is optimal when using those weapons. However, the features of this subclass can instead apply to other ranged weapons (GM’s discretion), such as darts, slings, firearms (see *Game Master’s Guide* for more information on firearms), or even more exotic ranged weapons, like laser pistols. GMs considering such a switch should think about the most common types of ranged weapons in their world and work with the player to determine how that style of ranged combat works with or differs from the style and stunts presented here.
@@ -674,7 +674,7 @@ The following powerful stunt shots are available to you whenever you could use a
 
 #### Bouncing Shot
 
-When you take the Attack action, you can apply the Ricochet Shot weapon option (see **Weapons** in *Player’s* *Guide*) to the weapon. If the weapon already has this option, you can now target a creature that has total cover.
+When you take the Attack action, you can apply the Ricochet Shot weapon option (see [[Weapons|Weapons]]) to the weapon. If the weapon already has this option, you can now target a creature that has total cover.
 
 #### Fusillade
 
@@ -700,7 +700,7 @@ As a reaction when a creature within 5 feet of you uses the Disengage action and
 
 *15th-Level Stunt Archer Feature*
 
-You treat all bows and crossbows as if they had the Ricochet Shot weapon option (see **Weapons** in *Player’s Guide*). When wielded by you, a bow or crossbow’s long range is 4 × its normal range, including the increase in normal range from your Keen Eye feature.
+You treat all bows and crossbows as if they had the Ricochet Shot weapon option (see [[Weapons|Weapons]]). When wielded by you, a bow or crossbow’s long range is 4 × its normal range, including the increase in normal range from your Keen Eye feature.
 
 In addition, when you roll initiative and have no uses of your Stunt Shots feature remaining, you regain 3 uses. You must complete a long rest before you can use this aspect of this feature again.
 

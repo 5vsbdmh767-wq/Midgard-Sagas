@@ -172,9 +172,9 @@ Your commitment to the mechanist’s path grants you a powerful new ability. Cho
 
 - **Curse of Unmaking.** As an action, you can make a melee spell attack using your augment attack modifier (see **Augment Effects**) against a creature or item within reach. On a successful hit, the target becomes cursed so that it is vulnerable to all damage. If the target is a creature, it can attempt a CON save against your augment save DC (see **Augment Effects**) each time it takes a new instance of damage, ending the curse on a success. Once you use this feature, you must finish a long rest before you can use it again.
 
-- **Inspired Combatant.** You can now use the Inspire effect of your Shard of Creation feature (see *Player’s* *Guide*) to enhance your attacks. When you make an attack roll while touching the shard (regardless of its current form), you can spend 1 charge to roll a d8 and then add the number rolled to your check result. If you hit with the attack, the attack deals extra damage (of the type dealt by the triggering attack) equal to the number rolled. When you reach 18th level in the mechanist class, this die increases to a d10.
+- **Inspired Combatant.** You can now use the Inspire effect of your [[#Shard of Creation|Shard of Creation]] feature to enhance your attacks. When you make an attack roll while touching the shard (regardless of its current form), you can spend 1 charge to roll a d8 and then add the number rolled to your check result. If you hit with the attack, the attack deals extra damage (of the type dealt by the triggering attack) equal to the number rolled. When you reach 18th level in the mechanist class, this die increases to a d10.
 
-- **Manifold Invention.** You learn two additional effects of your choice from your Augment feature. These effects don’t count against your total effects known, as shown in the Augments Effects Known column of the **Mechanist Progression** table (see *Player’s Guide*).
+- **Manifold Invention.** You learn two additional effects of your choice from your Augment feature. These effects don’t count against your total effects known, as shown in the Augments Effects Known column of the **Mechanist Progression** table.
 
 - **Mend the Broken.** As an action, you touch a creature or item and cause it to magically regain a number of hit points equal to 5 × your mechanist level. This effect also repairs any catastrophic damage suffered by the target, such as lost limbs, missing parts, or other harm that would ordinarily be irreparable. If the item doesn’t have a hit point total, your touch restores it to working order as best it can with the pieces available. This feature can’t restore expended charges on magic items or restore magical properties to nonmagical items that were once magical. Once you use this feature, you must finish a long rest before you can use it again.
 
@@ -224,9 +224,9 @@ Your commitment to the mechanist’s path grants you a powerful new ability. You
 
 - **Creative Engine.** You gain a +1 bonus to your saves for each effect from your Augment feature currently active on items within 60 feet of you. If you fail a save while any of those items are within 60 feet of you, you can automatically end one of those effects (your choice) to succeed on the save instead.
 
-- **Energy Transfer.** As a reaction when you would suffer an instance of damage, you can end one of the active effects from your Augment feature (see *Player’s* *Guide*) on an item within 60 feet of you (you choose which if multiple) to instead take no damage from the triggering instance.
+- **Energy Transfer.** As a reaction when you would suffer an instance of damage, you can end one of the active effects from your [[#Augment|Augment]] feature on an item within 60 feet of you (you choose which if multiple) to instead take no damage from the triggering instance.
 
-- **Fully Loaded.** For each effect from your Augment feature (see *Player’s Guide*) currently active on items within 60 feet, you gain a +1 bonus to any attack rolls and damage rolls you make. If you fail to hit with an attack roll while any of those items are within 60 feet of you, you can automatically end one of those effects (your choice) to automatically succeed on the attack roll instead.
+- **Fully Loaded.** For each effect from your [[#Augment|Augment]] feature currently active on items within 60 feet, you gain a +1 bonus to any attack rolls and damage rolls you make. If you fail to hit with an attack roll while any of those items are within 60 feet of you, you can automatically end one of those effects (your choice) to automatically succeed on the attack roll instead.
 
 %% source: Player's Guide 2: Energy Transfer, Fully Loaded %%
 
@@ -394,7 +394,7 @@ As you perfect your craft, you gain new abilities that reflect the specific ways
 
 %% source: Player's Guide 2 %%
 
-This section lists additional augments available for mechanists to learn and use. See the Augment class feature in the *Player’s Guide* for a full description of how these effects work.
+This section lists additional augments available for mechanists to learn and use. See the [[#Augment|Augment]] class feature for a full description of how these effects work.
 
 #### Controlled
 
@@ -510,7 +510,7 @@ Some mechanists see the universe and its workings as mathematical calculations. 
 
 *3rd-Level Cog Augur Feature*
 
-You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table (see *Player’s Guide*).
+You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table.
 
 #### Augment: Clairvoyant
 
@@ -524,7 +524,7 @@ You gain the following unique effect for your Augment feature. This effect can�
 
 You learn to transmute a small device into an augury tool that aids you in calculating and predicting the future. If you spend 1 hour of uninterrupted focus in contact with an object small enough for you to hold in one hand (which can be done as part of a short or long rest), you can transmute that object into an auguring device. The chosen object must be a single object (though that object can have internal moving parts, like a watch or lock) and can’t be a set of tools. The transformation lasts until you choose to end it or until you use this feature to transmute a different object.
 
-Any ongoing effects from your Augment feature (see *Player’s Guide*) on the object automatically end when the device reverts to its normal state. If anyone other than you attempts to use the auguring device, it instantly reverts to its normal state.
+Any ongoing effects from your [[#Augment|Augment]] feature on the object automatically end when the device reverts to its normal state. If anyone other than you attempts to use the auguring device, it instantly reverts to its normal state.
 
 Once transformed, the auguring device resembles a handheld, often clockwork, gadget or device, like a watch or astrolabe, but you choose its color, style, and other cosmetic details. Creatures who handle or inspect the device can tell it isn’t a true magic item. Otherwise, it follows the rules of a typical magic item.
 
@@ -722,7 +722,7 @@ You can modify grenades a number of times equal to your PB, and you regain all e
 
 *3rd-Level Grenadier Feature*
 
-You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table (see *Player’s Guide*).
+You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table.
 
 #### Augment: Explosive
 
@@ -960,7 +960,7 @@ Inventors, builders, and engineers, tinkers are driven by the thrill of creation
 
 *3rd-Level Tinker Feature*
 
-You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table in the *Player’s Guide*.
+You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table.
 
 #### Wind Up
 
@@ -1058,9 +1058,9 @@ You can modify your clockwork companion to enhance and upgrade its abilities. Un
 
 As a tinker, you have dabbled in all manner of construction, artistry, and engineering. Your experiences across many disciplines allow you to craft and repair items more efficiently than most. You gain the following benefits:
 
-- When you craft nonmagical items as part of the downtime crafting activity (see *Player’s Guide*), you produce items more quickly. For each workday spent crafting, you can craft one or more items worth a combined total of 10 gp × your PB (minimum of 20 gp), instead of the standard 10 gp limit. If you are crafting something worth more than that total, you contribute 10 gp × your PB worth of progress each workday you spend crafting the item instead of 10 gp limit.
+- When you craft nonmagical items as part of the downtime [[Between Adventures#Crafting|crafting]] activity, you produce items more quickly. For each workday spent crafting, you can craft one or more items worth a combined total of 10 gp × your PB (minimum of 20 gp), instead of the standard 10 gp limit. If you are crafting something worth more than that total, you contribute 10 gp × your PB worth of progress each workday you spend crafting the item instead of 10 gp limit.
 
-- You can attempt to make repairs on any vehicle, even if you aren’t proficient in the relevant vehicle type (see Vehicle Repair rules in the *Player’s Guide*). Vehicle repairs you make take half the time and you can halve the cost of spare parts required to make said repairs. At the GM’s discretion, the benefits of this ability might also extend to repairing damaged objects and structures— but this feature can’t be used to reduce any costs or requirements to the creation or repair of magic items.
+- You can attempt to make repairs on any vehicle, even if you aren’t proficient in the relevant vehicle type (see [[Vehicles#Vehicle Repairs|Vehicle Repair]]). Vehicle repairs you make take half the time and you can halve the cost of spare parts required to make said repairs. At the GM’s discretion, the benefits of this ability might also extend to repairing damaged objects and structures— but this feature can’t be used to reduce any costs or requirements to the creation or repair of magic items.
 
 ### Compound Machine
 
@@ -1123,7 +1123,7 @@ Toymakers are mechanists who revel in creating miniature replicas of animals and
 
 *3rd-Level Toymaker Feature*
 
-You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table (see *Player’s Guide*).
+You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table.
 
 #### Augment: Messenger
 
@@ -1147,7 +1147,7 @@ You design and animate intricate Tiny objects that follow your instructions. Dur
 
 - **Construct Resilience.** The toy is immune to poison and psychic damage, and it is immune to exhaustion and the charmed, frightened, paralyzed, petrified, and poisoned conditions.
 
-- **Immutable Form.** The toy is immune to any spell or effect that would alter its form. If a toy is reduced to 0 HP, it is destroyed. A toy can be augmented with any augment that can affect an item or object that doesn’t need to be worn, and a toy can be augmented with the Detecting augment (see *Player’s Guide*), treating itself as both the augmented item and the “you” receiving the benefit. A toy can be augmented with any augment that can be applied to a weapon, but the augment applies to the toy’s weapon attacks. Starting at 5th level, you can have any number of toys under your control, provided the combined total CR of the toys is no higher than half your level in the mechanist class (rounded down). Toys with a CR of 0 are considered to have a CR of 1/8 for the purpose of this calculation.
+- **Immutable Form.** The toy is immune to any spell or effect that would alter its form. If a toy is reduced to 0 HP, it is destroyed. A toy can be augmented with any augment that can affect an item or object that doesn’t need to be worn, and a toy can be augmented with the [[#Detecting|Detecting]] augment, treating itself as both the augmented item and the “you” receiving the benefit. A toy can be augmented with any augment that can be applied to a weapon, but the augment applies to the toy’s weapon attacks. Starting at 5th level, you can have any number of toys under your control, provided the combined total CR of the toys is no higher than half your level in the mechanist class (rounded down). Toys with a CR of 0 are considered to have a CR of 1/8 for the purpose of this calculation.
 
 #### Commanding Toys
 
@@ -1181,7 +1181,7 @@ In addition, you can now create toys during a short or long rest, and the toys c
 
 *15th-Level Toymaker Feature*
 
-Your maximum number of augmented items (see Augment feature in *Player’s Guide*) increases by 3, but these extra augments must be on toys from your Autonomous Toys feature. A toy can have up to two augments on it at one time. As normal, multiple instances of one augment aren’t cumulative on the toy.
+Your maximum number of augmented items (see [[#Augment|Augment]]) increases by 3, but these extra augments must be on toys from your Autonomous Toys feature. A toy can have up to two augments on it at one time. As normal, multiple instances of one augment aren’t cumulative on the toy.
 
 In addition, the toys you create can now be modeled after Beasts (or creatures with the Animal tag) that are Medium or smaller and that have a CR up to 2.
 

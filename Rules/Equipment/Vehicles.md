@@ -70,7 +70,7 @@ On each of its turns, a vehicle with the required number of crew members a vehic
 
 %% source: Player's Guide 2 %%
 
-***Vehicle Proficiency.*** Vehicle proficiency works just like tool proficiency (see *Player’s Guide*). Proficiency allows you to add your PB to any check to control all vehicles of that type in difficult circumstances. When you gain proficiency with a vehicle, you choose one type: air, land, or water. You must have multiple proficiencies to have proficiency with more than one type of vehicle. Proficiency with a vehicle type also allows you to repair damaged vehicles of that type, as detailed in the full vehicle rules.
+***Vehicle Proficiency.*** Vehicle proficiency works just like [[Tools|tool proficiency]]. Proficiency allows you to add your PB to any check to control all vehicles of that type in difficult circumstances. When you gain proficiency with a vehicle, you choose one type: air, land, or water. You must have multiple proficiencies to have proficiency with more than one type of vehicle. Proficiency with a vehicle type also allows you to repair damaged vehicles of that type, as detailed in the full vehicle rules.
 
 ***Vehicle Resilience.*** Like most items, vehicles are immune to poison and psychic damage and to the following conditions: blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, and unconscious. Instead of listing all those immunities in each stat block, a vehicle that fits this standard has Vehicle Resilience in the Immune line of its stat block.
 

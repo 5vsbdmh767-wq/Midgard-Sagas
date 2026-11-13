@@ -527,7 +527,7 @@ Your shade character has the following hereditary traits.
 
 ***Speed.*** Your speed is determined by your living form.
 
-***Hybrid Humanoid.*** You are a Humanoid, but your partial transition into undeath gives you traits in common with Undead. You are resistant to poison damage. In addition, you have advantage on saves against being poisoned and advantage on checks made to resist suffering levels of exhaustion. Game effects that raise a creature from the dead work on you as normal, but they return you to life as a shade. A *[[Rituals 7th–9th Circle#True Resurrection|true resurrection]]* or *[[9th-Circle Spells#Wish|wish]]* spell (see *Player’s Guide*) can restore you to life as a fully living member of your original lineage.
+***Hybrid Humanoid.*** You are a Humanoid, but your partial transition into undeath gives you traits in common with Undead. You are resistant to poison damage. In addition, you have advantage on saves against being poisoned and advantage on checks made to resist suffering levels of exhaustion. Game effects that raise a creature from the dead work on you as normal, but they return you to life as a shade. A *[[Rituals 7th–9th Circle#True Resurrection|true resurrection]]* or *[[9th-Circle Spells#Wish|wish]]* spell can restore you to life as a fully living member of your original lineage.
 
 ***Phantasmal Form.*** As an action, you can temporarily dissolve your physical body and assume a ghostly form. This transformation lasts for 1 minute or until you choose to end it (no action required). While transformed, you become translucent and devoid of color, and the air around you grows cold. You also gain the following abilities:
 
@@ -585,7 +585,7 @@ This section contains expanded options available for use with the base lineages 
 
 %% source: Player's Guide 2 %%
 
-Fossorial and quillback are additional options you can choose when selecting a Natural Adaption (see *Player’s* *Guide*) for your beastkin PC during character creation.
+Fossorial and quillback are additional options you can choose when selecting a [[#Natural Adaptation|Natural Adaptation]] for your beastkin PC during character creation.
 
 ***Natural Adaptation.*** You have inherited one of the following traits, determined by what kind of animal characteristics you want your character to have:
 
@@ -597,7 +597,7 @@ Fossorial and quillback are additional options you can choose when selecting a N
 
 %% source: Player's Guide 2 %%
 
-Aberrant and spellborn are additional options you can choose when selecting a Natural Adaption (see *Player’s* *Guide*) for your syderean character during character creation.
+Aberrant and spellborn are additional options you can choose when selecting a [[#Natural Adaptation|Natural Adaptation]] for your syderean character during character creation.
 
 **Natural Adaptation.** You have inherited one of the following traits, determined by the nature of the forces that shaped you:
 
@@ -701,7 +701,7 @@ Your sea elf character has the following hereditary traits.
 
 ***Darkvision.*** You have darkvision to a range of 60 feet.
 
-***Seaborn.*** You can breathe air and water. In addition, you are perfectly comfortable in temperatures as low as 0 degrees Fahrenheit and you ignore the effects of Extreme Cold hazard (see *Player’s Guide*).
+***Seaborn.*** You can breathe air and water. In addition, you are perfectly comfortable in temperatures as low as 0 degrees Fahrenheit and you ignore the effects of [[Encounter Gameplay#Extreme Cold|Extreme Cold]] hazard.
 
 ***Trance.*** Sea elves don’t need to sleep. Instead, they enter a meditative trance state, remaining semiconscious for 4 hours a day. You choose whether you can dream while meditating. After resting in this way, you gain the same benefit that other creatures do from 8 hours of sleep.
 
@@ -741,7 +741,7 @@ Your alseid character has the following hereditary traits.
 
 ***Light Hooves.*** You have advantage on DEX (Stealth) checks. In addition, your steps leave no tracks, unless you choose for them to do so.
 
-***Quadruped.*** The mundane details of the structures of Humanoids can present considerable obstacles for you. You have to squeeze (see Squeezing into a Smaller Space in Player's Guide) when moving through trapdoors, manholes, and similar structures even when a Medium creature wouldn't have to squeeze. In addition, ladders, stairs, and similar structures are difficult terrain for you.
+***Quadruped.*** The mundane details of the structures of Humanoids can present considerable obstacles for you. You have to squeeze (see [[Encounter Gameplay|Squeezing into a Smaller Space]]) when moving through trapdoors, manholes, and similar structures even when a Medium creature wouldn't have to squeeze. In addition, ladders, stairs, and similar structures are difficult terrain for you.
 
 ### Bearfolk
 
@@ -841,7 +841,7 @@ Your piney character has the following hereditary traits.
 
 ***Living Wood.*** In moments of peril, you can rapidly grow tough bark, vines, or similar growth to shield you from harm. When an attacker you can see would hit you with a melee attack, you can use your reaction to increase your AC by an amount equal to your PB against the triggering attack. You can use this trait a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
-***Photosynthetic.*** If you spend at least 1 hour in an area of sunlight or natural bright light, your daily food requirements are met (see Starvation and Dehydration in the Player's Guide). In addition, if you spend the entirety a short rest in such an area, you can regain a number of expended hit dice up to your PB. Once you recover hit dice in this way, you can't do so again until you finish a long rest.
+***Photosynthetic.*** If you spend at least 1 hour in an area of sunlight or natural bright light, your daily food requirements are met (see [[Life and Death#Starvation and Dehydration|Starvation and Dehydration]]). In addition, if you spend the entirety a short rest in such an area, you can regain a number of expended hit dice up to your PB. Once you recover hit dice in this way, you can't do so again until you finish a long rest.
 
 ## More Lineages (Labyrinth Worldbook)
 
@@ -1086,7 +1086,7 @@ Your star elf character has the following hereditary traits.
 
 %% source: Labyrinth Worldbook %%
 
-Spellborn is an option you can choose when you select the Natural Adaptation for your syderean character during character creation, in addition to the Celestial and Fiendish options in the *Player’s Guide.*
+Spellborn is an option you can choose when you select the Natural Adaptation for your syderean character during character creation, in addition to the Celestial and Fiendish options.
 
 ***Natural Adaptation.*** You have inherited one set of the following unique traits, determined by the nature of the forces that shaped you.
 

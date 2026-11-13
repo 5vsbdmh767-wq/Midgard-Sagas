@@ -72,7 +72,7 @@ For more information on how hiring staff affects your daily profits, see [[#Runn
 
 ### Hireling Pay Expanded
 
-The section on [[Mounts & Services#Services|Services]] in the *Player’s Guide* describes the kinds of hirelings a PC might contract for short-term jobs: hauling loot, casting healing spells, tending the party’s camp and looking after their mounts. These are all the generally low-risk things that adventurers don’t have the time or the inclination to do for themselves.
+The section on [[Mounts & Services#Services|Services]] describes the kinds of hirelings a PC might contract for short-term jobs: hauling loot, casting healing spells, tending the party’s camp and looking after their mounts. These are all the generally low-risk things that adventurers don’t have the time or the inclination to do for themselves.
 
 Hirelings are rated as either “skilled,” for those with some basic proficiency, or “untrained” for everyone else. They get paid either 2 gp or 2 sp per day, respectively.
 
@@ -138,7 +138,7 @@ The **Hireling Costs by Skill and Proficiency** table lists a range of the kinds
 \* The listed cost to hire a caster for a day secures their skills and knowledge, but it does not include the cost of any spells they cast. See [[Mounts & Services#Spellcasting Services|Spellcasting Services]] for more information.
 
 > [!note] Skilled vs. Unskilled Labor
-> As explained in the *Player’s Guide*, the “skilled labor” category covers workers who have a proficiency from a skill, tool, vehicle, armor, or weaponry. This isn’t necessarily factored in to an NPC’s ability modifiers.
+> As explained under [[Mounts & Services#Services|Services]], the “skilled labor” category covers workers who have a proficiency from a skill, tool, vehicle, armor, or weaponry. This isn’t necessarily factored in to an NPC’s ability modifiers.
 >
 > Unskilled labor is virtually everyone else. Those workers do straightforward physical labor such as ditch diggers, porters, and tally clerks.
 >
@@ -162,7 +162,7 @@ The more skilled a hireling is, the more you must pay them. For most of the prof
 
 ### Benefits of Hirelings
 
-In addition to providing opportunities to use the [[Rolling the Dice#Working Together|Working Together]] and [[Rolling the Dice#Group Checks|Group Check]] rules (see the *Player’s Guide*), hirelings can supply proficiencies that the PC doesn’t have. This allows them to make checks that the PC would otherwise be unable to attempt.
+In addition to providing opportunities to use the [[Rolling the Dice#Working Together|Working Together]] and [[Rolling the Dice#Group Checks|Group Check]] rules, hirelings can supply proficiencies that the PC doesn’t have. This allows them to make checks that the PC would otherwise be unable to attempt.
 
 Alternately, a hireling with an identical or complementary proficiency can step in for the PC on occasions when the call of adventure is stronger than the call of commerce. In such cases, the GM can make **Commerce Resolution** checks for the PC’s business, using the NPC hireling’s ability check bonus, as shown on the **Hireling Costs by Skill and Proficiency** table.
 
@@ -216,7 +216,7 @@ Here’s more detail about each kind of hireling.
 
 ***Minder.*** This basic type of guard watches over a business and reports back, but can’t necessarily be counted on for stopping theft.
 
-***Overseer.*** These hirelings lead others, often known as foremen, managers, or taskmasters. When you have an overseer, your other hirelings can make group checks (see *Player’s Guide*) for tasks such as completing projects and assisting customers. If half or more of the hirelings making the group check succeed, the attempt succeeds (or at least makes a day’s progress).
+***Overseer.*** These hirelings lead others, often known as foremen, managers, or taskmasters. When you have an overseer, your other hirelings can make [[Rolling the Dice#Group Checks|group checks]] for tasks such as completing projects and assisting customers. If half or more of the hirelings making the group check succeed, the attempt succeeds (or at least makes a day’s progress).
 
 ***Performer.*** Musicians, singers, dancers, actors, jesters, storytellers, acrobats, and more all fall into this category.
 

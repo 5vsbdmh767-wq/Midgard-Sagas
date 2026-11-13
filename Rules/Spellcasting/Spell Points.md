@@ -14,7 +14,7 @@ Your class type and level also determine the highest circle spell you can cast w
 
 ### Full Spellcasting Class
 
-A full spellcasting class receives the Spellcasting class feature at 1st level (see class progression tables in the *Player’s Guide* or **Chapter 1** of this book) and eventually learns to cast up to 9th-circle spells. Full spellcasting classes include the bard, cleric, druid, sorcerer, theurge, witch, and wizard. If you are playing a full spellcasting class, use the **Spell Points by Full Spellcasting Class Level** table to determine your maximum spell points at each level and the highest circle spell you can cast with points at each level.
+A full spellcasting class receives the Spellcasting class feature at 1st level (see the progression table on each [[Classes|class]] page) and eventually learns to cast up to 9th-circle spells. Full spellcasting classes include the bard, cleric, druid, sorcerer, theurge, witch, and wizard. If you are playing a full spellcasting class, use the **Spell Points by Full Spellcasting Class Level** table to determine your maximum spell points at each level and the highest circle spell you can cast with points at each level.
 
 *Spell Points by Full Spellcasting Class Level*
 
@@ -24,7 +24,7 @@ A full spellcasting class receives the Spellcasting class feature at 1st level (
 
 ### Half Caster Class
 
-A half caster class receives the Spellcasting class feature at 2nd level (see class progression tables in the *Player’s Guide*) and eventually learns to cast spells up to 5th circle. Half caster classes include the paladin, ranger, and warlock. If you are playing a half caster class, use the **Spell Points by Half Caster Class Level** table to determine your maximum spell points at each level and the highest circle spell you can cast with points at each level.
+A half caster class receives the Spellcasting class feature at 2nd level (see [[Classes|class progression tables]]) and eventually learns to cast spells up to 5th circle. Half caster classes include the paladin, ranger, and warlock. If you are playing a half caster class, use the **Spell Points by Half Caster Class Level** table to determine your maximum spell points at each level and the highest circle spell you can cast with points at each level.
 
 *Spell Points by Half Caster Class Level*
 
@@ -34,7 +34,7 @@ A half caster class receives the Spellcasting class feature at 2nd level (see cl
 
 ### Subclass Caster
 
-A subclass caster gains the ability to cast spells through its subclass chosen at 3rd level instead of the Spellcasting feature from its base class. Subclass casters eventually learn to cast spells up to 4th circle. Examples of subclass casters include the Spell Blade fighter subclass in the *Player’s Guide* *or the Con Arcanist rogue subclass in* **Chapter 1** of this book*.* If you are playing a subclass caster, use the **Spell Points by Subclass Caster Class Level** table to determine your maximum spell points at each level and the highest circle spell you can cast with points at each level.
+A subclass caster gains the ability to cast spells through its subclass chosen at 3rd level instead of the Spellcasting feature from its base class. Subclass casters eventually learn to cast spells up to 4th circle. Examples of subclass casters include the [[Fighter#Spell Blade|Spell Blade]] fighter subclass or the [[Rogue#Con Arcanist|Con Arcanist]] rogue subclass. If you are playing a subclass caster, use the **Spell Points by Subclass Caster Class Level** table to determine your maximum spell points at each level and the highest circle spell you can cast with points at each level.
 
 *Spell Points by Subclass Caster Class Level*
 

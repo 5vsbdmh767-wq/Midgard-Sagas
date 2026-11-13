@@ -224,9 +224,9 @@ Your commitment to the warlock’s path grants you a powerful new ability. Choos
 
 - **Echoes of Power.** When you successfully hit with one of your Eldritch Blast beams and roll a 10 on the damage die, you can roll the d10 again and add the result as extra force damage dealt by that beam.
 
-- **Echoes of the Elder.** Immediately gain two invocations from your Eldritch Invocations feature (see *Player’s* *Guide*) of your choice that you meet the prerequisites for. These invocations don’t count against the total number of invocations you know. When you gain a level in warlock, you can choose to replace these invocations as you would any other.
+- **Echoes of the Elder.** Immediately gain two invocations from your [[#Eldritch Invocations|Eldritch Invocations]] feature of your choice that you meet the prerequisites for. These invocations don’t count against the total number of invocations you know. When you gain a level in warlock, you can choose to replace these invocations as you would any other.
 
-- **Echoes of the Undying.** When you deal damage to a creature below half its hit point maximum with a beam from your Eldritch Blast feature (see *Player’s Guide*), you can regain a number of hit points equal to half the damage dealt by the beam. Alternatively, you can instead restore hit points equal to half the damage dealt by the beam to a creature of your choice that you can see within 5 feet of the beam’s target.
+- **Echoes of the Undying.** When you deal damage to a creature below half its hit point maximum with a beam from your [[#Eldritch Blast|Eldritch Blast]] feature, you can regain a number of hit points equal to half the damage dealt by the beam. Alternatively, you can instead restore hit points equal to half the damage dealt by the beam to a creature of your choice that you can see within 5 feet of the beam’s target.
 
 %% source: Player's Guide 2: Echoes of the Elder, Echoes of the Undying %%
 
@@ -244,7 +244,7 @@ Your commitment to the warlock’s path grants you a powerful new ability. You g
 
 - **Eldritch Master.** If you start your turn with no uses of Pact Magic remaining, you can beseech your patron to immediately restore all expended uses (no action required). You must finish a long rest before you can use this feature again.
 
-- **Eldritch Scourge.** When you hit a creature with a beam from your Eldritch Blast feature (see *Player’s Guide*), you have advantage on attack rolls made to hit that creature with any additional beams until the start of your next turn. In addition, your beams automatically deal maximum damage when you hit a target. If you have the Echoes of Power boon (see *Player’s Guide*), you still roll a d10 to determine if a beam deals additional force damage (on a result of 10, it automatically deals the maximum 10 additional damage).
+- **Eldritch Scourge.** When you hit a creature with a beam from your [[#Eldritch Blast|Eldritch Blast]] feature, you have advantage on attack rolls made to hit that creature with any additional beams until the start of your next turn. In addition, your beams automatically deal maximum damage when you hit a target. If you have the Echoes of Power boon (see [[#Heroic Boon|Heroic Boon]]), you still roll a d10 to determine if a beam deals additional force damage (on a result of 10, it automatically deals the maximum 10 additional damage).
 
 - **Patron’s Revenge.** When a creature reduces you to 0 HP or would cause you to be instantly slain, you can choose to expend any number of your current warlock Hit Dice. Roll all the expended dice. The creature that harmed you immediately takes necrotic damage up to the amount rolled (it can’t take more damage than it has hit point maximum), and you regain hit points equal to the amount of damage it takes. When you regain these hit points, you immediately become conscious, and any damage that was done to your body is reversed (even if your body was disintegrated or otherwise destroyed). Necrotic damage dealt by this feature ignores immunities and resistances and can’t be reduced by any means. Once you use this feature, you can’t do so again until you finish a long rest.
 
@@ -688,7 +688,7 @@ Your patron is an otherworldly being bound to the forces of law and order. Archo
 
 *3rd-Level Archon Feature*
 
-You gain pact spells at the warlock levels listed in the **Archon Pact Spells** table. See the Warlock Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain pact spells at the warlock levels listed in the **Archon Pact Spells** table. See the [[#Warlock Subclass|Warlock Subclass]] feature for how these spells work.
 
 *Archon Pact Spells*
 
@@ -724,7 +724,7 @@ As a reaction when you take damage, you can disperse some of that damage into a 
 
 *15th-Level Archon Feature*
 
-You can call upon your patron to correct imbalances that threaten fulfilment of the cosmic plan. As an action, you can expend a use of your Pact Magic feature (see *Player’s* *Guide*) to create a 15-foot-radius sphere of perfect order centered on you that lasts until the start of your next turn. When the sphere forms, choose any number of friendly creatures within it. You can restore a total number of hit points equal to 3 × your warlock level to those creatures, choosing how to divide the hit points among them.
+You can call upon your patron to correct imbalances that threaten fulfilment of the cosmic plan. As an action, you can expend a use of your [[#Pact Magic|Pact Magic]] feature to create a 15-foot-radius sphere of perfect order centered on you that lasts until the start of your next turn. When the sphere forms, choose any number of friendly creatures within it. You can restore a total number of hit points equal to 3 × your warlock level to those creatures, choosing how to divide the hit points among them.
 
 Until the sphere ends, creatures within the sphere, including you, can’t have advantage or disadvantage on attack rolls, ability checks, or saves, and when a creature within the sphere must roll dice to determine an effect, such as from the *[[4th-Circle Spells#Confusion|confusion]]* spell, it rolls the dice twice and chooses which result to take.
 
@@ -752,7 +752,7 @@ Your patron is a greater Celestial who commands angels or similar divine servant
 
 *3rd-Level Celestial Feature*
 
-You gain pact spells at the warlock levels listed in the **Celestial Pact Spells** table. See the **Warlock Subclass** class feature in the *Player’s Guide* for how these spells work.
+You gain pact spells at the warlock levels listed in the **Celestial Pact Spells** table. See the [[#Warlock Subclass|Warlock Subclass]] feature for how these spells work.
 
 **Celestial Pact Spells**
 
@@ -893,7 +893,7 @@ Your patron is an elemental entity with dominion over a sizeable territory withi
 
 *3rd-Level Elemental Regent Feature*
 
-Whenever you use your Eldritch Blast feature (see *Player’s* *Guide*), you can choose for the damage of your beams to be the damage type associated with your patron’s element instead of force. If you change the damage type, you can choose for one of the targets of your Eldritch Blast to suffer an additional effect based on your patron’s element:
+Whenever you use your [[#Eldritch Blast|Eldritch Blast]] feature, you can choose for the damage of your beams to be the damage type associated with your patron’s element instead of force. If you change the damage type, you can choose for one of the targets of your Eldritch Blast to suffer an additional effect based on your patron’s element:
 
 - **Air.** The target can’t take reactions until the start of its next turn.
 
@@ -907,7 +907,7 @@ Whenever you use your Eldritch Blast feature (see *Player’s* *Guide*), you can
 
 *3rd-Level Elemental Regent Feature*
 
-You gain pact spells at the warlock levels listed in the **Elemental Regent Pact Spells** table. See the Warlock Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain pact spells at the warlock levels listed in the **Elemental Regent Pact Spells** table. See the [[#Warlock Subclass|Warlock Subclass]] feature for how these spells work.
 
 Choose an element that your patron represents: air, earth, fire, or water. This choice determines the damage type associated with your features and with some of the spells you gain with this feature, as noted in the **Elemental Regent Damage Type and Spells** table.
 
@@ -934,7 +934,7 @@ Choose an element that your patron represents: air, earth, fire, or water. This 
 
 *3rd-Level Elemental Regent Feature*
 
-Your patron’s influence subtly changes your Pact Boon (see *Player’s Guide*).
+Your patron’s influence subtly changes your [[#Pact Boon|Pact Boon]].
 
 ***Pact of the Blade.*** When you deal damage with your pact weapon, you can choose for that damage to be the damage type associated with your patron’s element instead of the weapon’s normal damage type.
 
@@ -999,7 +999,7 @@ Your patron is an immortal fey, one whose existence predates the advent of morta
 
 *3rd-Level Fey Noble Feature*
 
-You gain pact spells at the warlock levels listed in the **Fey Noble Pact Spells** table. See the Warlock Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain pact spells at the warlock levels listed in the **Fey Noble Pact Spells** table. See the [[#Warlock Subclass|Warlock Subclass]] feature for how these spells work.
 
 *Fey Noble Pact Spells*
 
@@ -1426,7 +1426,7 @@ When a creature you target with a feature of this subclass or a spell from the v
 
 *3rd-Level Void Saint Feature*
 
-You gain pact spells at the warlock levels listed in the **Void Saint Pact Spells** table. See the **Warlock Subclass** class feature in the *Player’s Guide* for how these spells work.
+You gain pact spells at the warlock levels listed in the **Void Saint Pact Spells** table. See the [[#Warlock Subclass|Warlock Subclass]] feature for how these spells work.
 
 **Voint Saint Pact Spells**
 

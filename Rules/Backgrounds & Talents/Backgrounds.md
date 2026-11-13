@@ -73,7 +73,7 @@ Every background, in alphabetical order. The last column says where a background
 | [[#Homesteader\|Homesteader]] | Survival and choose one from Athletics, Animal Handling, or Intimidation | Any character |
 | [[#Ice Nomad\|Ice Nomad]] | Two of Animal Handling, Athletics, Nature, or Survival | The [[Northlands]] |
 | [[#Investigator\|Investigator]] | Two of Deception, Insight, Investigation, or Perception | Any character |
-| [[#Judicial Champion\|Judicial Champion]] | Two of History, Intimidation, Perception, or Sense Motive | Martial characters |
+| [[#Judicial Champion\|Judicial Champion]] | Two of History, Insight, Intimidation, or Perception | Martial characters |
 | [[#Maker\|Maker]] | Investigation and one skill of your choice from the following: History, Performance, or Sleight of Hand | Any character |
 | [[#Monster Hunter\|Monster Hunter]] | Two of Arcana, Investigation, Perception, or Survival | Horror campaigns |
 | [[#Northlands Reaver\|Northlands Reaver]] | Two of Athletics, Insight, Intimidation, or Survival | The [[Northlands]] |
@@ -96,7 +96,7 @@ Every background, in alphabetical order. The last column says where a background
 | [[#Tomb Raider\|Tomb Raider]] | Two of Acrobatics, Athletics, Investigation, Perception, Stealth, or Survival | Horror campaigns |
 | [[#Vampire Hunter\|Vampire Hunter]] | Two of History, Insight, Investigation, or Sleight of Hand | Any character; pairs well with a dhampir |
 | [[#Venerator\|Venerator]] | Two of History, Insight, Performance, or Religion | Midgard |
-| [[#Visionary\|Visionary]] | Arcana, Insight, Medicine, or Performance | The [[The Labyrinth\|Labyrinth]] (faction background) |
+| [[#Visionary\|Visionary]] | Two of Arcana, Insight, Medicine, or Performance | The [[The Labyrinth\|Labyrinth]] (faction background) |
 | [[#Wanderer\|Wanderer]] | Two of Animal Handling, Athletics, Nature, or Survival | The [[The Labyrinth\|Labyrinth]] |
 
 For an ongoing goal your character can take up during play, see [[Character Threads]].
@@ -1122,7 +1122,7 @@ Additional responsibilities include protecting judges and court officials, deten
 
 The court expects you to uphold your duties and act lawfully when you display or announce your position. Still, judicial champions face moral quandaries, such as upholding sentences they feel are unjust and criminals attempting to work the system through bribery and extortion.
 
-**Skill Proficiencies:** Choose two from History, Intimidation, Perception, or Sense Motive.
+**Skill Proficiencies:** Choose two from History, Insight, Intimidation, or Perception.
 
 **Additional Proficiencies:** Choose any two tool or language proficiencies.
 
@@ -1917,7 +1917,7 @@ Like the other members of the Embraced, your job was to meditate, enter a drug-i
 
 Visionaries are usually based at a shrine or temple somewhere in the Labyrinth, with many living on one of the Dreamer’s Islands. Perhaps you were assigned to the Temple of the Golden Portal, the Dreaming God’s greatest shrine at Delinos on the island of Bamahi, or to a smaller shrine in the town of Revelport. Alternatively, you might have been part of a group of wandering mystics that traveled through the Labyrinth, camping in a different spot each night and sharing your dreams each morning with your companions.
 
-**Skill Proficiencies:** Arcana, Insight, Medicine, or Performance.
+**Skill Proficiencies:** Choose two from Arcana, Insight, Medicine, or Performance.
 
 **Additional Proficiencies:** You gain proficiency with alchemist tools or herbalist tools (choose one) and a musical instrument of your choice.
 

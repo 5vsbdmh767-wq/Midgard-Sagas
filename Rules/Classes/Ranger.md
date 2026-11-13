@@ -234,11 +234,11 @@ Your movement never provokes opportunity attacks, and you have advantage on any 
 
 Your commitment to the ranger’s path grants you a powerful new ability. You gain one of the following epic boons:
 
-- **Deadeye.** The extra damage dealt by your Mystic Mark feature (see *Player’s Guide*) becomes a d12, and you can now use your Mystic Mark an unlimited number of times.
+- **Deadeye.** The extra damage dealt by your [[#Mystic Mark|Mystic Mark]] feature becomes a d12, and you can now use your Mystic Mark an unlimited number of times.
 
 - **Foe Slayer.** You can add your WIS modifier to either the attack roll or the damage roll of each attack you make against a creature marked by your Mystic Mark on your turn.
 
-- **Ghost Step.** You can now activate your Stalker’s Step feature (see *Player’s Guide*) at any time, regardless of current environment, lighting conditions, and obscurement, and the invisibility granted by the feature lasts up to 1 minute (though it still ends early if you attack or cast a spell). As part of the bonus action used to become invisible, and as a bonus action on any subsequent turns you remain invisible, you can teleport up to 30 feet to an unoccupied space you can see.
+- **Ghost Step.** You can now activate your [[#Stalker’s Step|Stalker’s Step]] feature at any time, regardless of current environment, lighting conditions, and obscurement, and the invisibility granted by the feature lasts up to 1 minute (though it still ends early if you attack or cast a spell). As part of the bonus action used to become invisible, and as a bonus action on any subsequent turns you remain invisible, you can teleport up to 30 feet to an unoccupied space you can see.
 
 %% source: Player's Guide 2: Deadeye, Ghost Step %%
 
@@ -280,7 +280,7 @@ Arrow binders are rangers who have melded their mastery of the wilds with their 
 
 *3rd-Level Arrow Binder Feature*
 
-You gain calling spells at the ranger levels listed in the **Arrow Binder Calling Spells** table. See the Ranger Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain calling spells at the ranger levels listed in the **Arrow Binder Calling Spells** table. See the [[#Ranger Subclass|Ranger Subclass]] feature for how these spells work.
 
 *Arrow Binder Calling Spells*
 
@@ -306,7 +306,7 @@ While you have a spell bound into a ranged weapon, ranged attacks you make with 
 
 *3rd-Level Arrow Binder Feature*
 
-You imbue your ammunition with primordial magic as you fire. Once on your turn, when you hit a creature marked by your Mystic Mark feature (see *Player’s Guide*) with a ranged weapon attack, you can cause one of the following effects:
+You imbue your ammunition with primordial magic as you fire. Once on your turn, when you hit a creature marked by your [[#Mystic Mark|Mystic Mark]] feature with a ranged weapon attack, you can cause one of the following effects:
 
 - **Frost Shot.** The target’s speed is reduced by 10 feet until the end of its next turn.
 
@@ -747,13 +747,13 @@ Your attunement to the dark corners of the world sharpens your senses. You gain 
 
 *3rd-Level Shadow Feature*
 
-You have advantage on attack rolls against surprised creatures. Once on your turn, when you make a weapon attack that hits a creature that can’t see you or that has no allies within 5 feet of it, you deal extra damage to the creature. The extra damage is equal to the amount your Mystic Mark feature (see *Player’s Guide*) deals at your level and is of the same damage type as the weapon.
+You have advantage on attack rolls against surprised creatures. Once on your turn, when you make a weapon attack that hits a creature that can’t see you or that has no allies within 5 feet of it, you deal extra damage to the creature. The extra damage is equal to the amount your [[#Mystic Mark|Mystic Mark]] feature deals at your level and is of the same damage type as the weapon.
 
 ### Shadow Calling Spells
 
 *3rd-Level Shadow Feature*
 
-You gain calling spells at the ranger levels listed in the **Shadow Calling Spells** table. See the Ranger Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain calling spells at the ranger levels listed in the **Shadow Calling Spells** table. See the [[#Ranger Subclass|Ranger Subclass]] feature for how these spells work.
 
 *Shadow Calling Spells*
 
@@ -769,7 +769,7 @@ You gain calling spells at the ranger levels listed in the **Shadow Calling Spel
 
 *7th-Level Shadow Feature*
 
-When you use your Stalker’s Step feature (see *Player’s* *Guide*), you can also take the Hide action as part of that bonus action. When you have no uses of Stalker’s Step available, you can expend a spell slot to regain a use of it.
+When you use your [[#Stalker’s Step|Stalker’s Step]] feature, you can also take the Hide action as part of that bonus action. When you have no uses of Stalker’s Step available, you can expend a spell slot to regain a use of it.
 
 ### Stalker’s Leap
 
@@ -787,7 +787,7 @@ As an action, you subsume yourself into an embodiment of a moonless, pitiless ni
 
 - At the start of each of your turns, you can take the Hide action without spending an action.
 
-- You can use your Predator’s Strike feature on any hit, not just once on your turn, and the extra damage is equal to the amount your Mystic Mark feature (see *Player’s Guide*) deals at your level + your ranger level. The target must still meet all other requirements of the Predator’s Strike feature.
+- You can use your Predator’s Strike feature on any hit, not just once on your turn, and the extra damage is equal to the amount your [[#Mystic Mark|Mystic Mark]] feature deals at your level + your ranger level. The target must still meet all other requirements of the Predator’s Strike feature.
 
 - You have advantage on saves. Once you use this feature, you can’t use it again until you finish a long rest.
 
@@ -901,7 +901,7 @@ In addition, when you make a Nature or Survival check or when you roll initiativ
 
 *3rd-Level Trailblazer Feature*
 
-When you mark a creature with your Mystic Mark feature (see *Player’s Guide*), you can share some of its power with an ally. Choose one friendly creature within 30 feet that can see or hear you. While the mark lasts, the chosen ally deals extra damage of their weapon’s type equal to your Mystic Mark die the first time they hit the marked creature with a weapon attack on each of the ally’s turns. This feature ends early if your chosen ally can no longer see or hear you, or if the ally ends their turn more than 60 feet away from you.
+When you mark a creature with your [[#Mystic Mark|Mystic Mark]] feature, you can share some of its power with an ally. Choose one friendly creature within 30 feet that can see or hear you. While the mark lasts, the chosen ally deals extra damage of their weapon’s type equal to your Mystic Mark die the first time they hit the marked creature with a weapon attack on each of the ally’s turns. This feature ends early if your chosen ally can no longer see or hear you, or if the ally ends their turn more than 60 feet away from you.
 
 Starting at 6th level, your chosen ally also gains the benefits of your Empowered Mark feature while benefiting from this feature.
 
@@ -909,7 +909,7 @@ Starting at 6th level, your chosen ally also gains the benefits of your Empowere
 
 *3rd-Level Trailblazer Feature*
 
-You gain calling spells at the ranger levels listed in the **Trailblazer Calling Spells** table. See the Ranger Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain calling spells at the ranger levels listed in the **Trailblazer Calling Spells** table. See the [[#Ranger Subclass|Ranger Subclass]] feature for how these spells work.
 
 *Trailblazer Calling Spells*
 
@@ -933,13 +933,13 @@ In addition, as a bonus action, you can expend a Primordial spell slot to increa
 
 *11th-Level Trailblazer Feature*
 
-When you hit a creature with an attack roll, you can goad the creature into attacking you. The target must succeed on a WIS save against your spell save DC, or until the end of its next turn, it has disadvantage both on attack rolls against creatures that aren’t you and on saves against spells and effects from creatures that aren’t you. If the target is marked with your Mystic Mark (see *Player’s Guide*), this effect instead lasts until the mark ends. You can use this feature a number of times equal to your PB. You regain all expended uses when you finish a long rest.
+When you hit a creature with an attack roll, you can goad the creature into attacking you. The target must succeed on a WIS save against your spell save DC, or until the end of its next turn, it has disadvantage both on attack rolls against creatures that aren’t you and on saves against spells and effects from creatures that aren’t you. If the target is marked with your [[#Mystic Mark|Mystic Mark]], this effect instead lasts until the mark ends. You can use this feature a number of times equal to your PB. You regain all expended uses when you finish a long rest.
 
 ### Tracker’s Brand
 
 *15th-Level Trailblazer Feature*
 
-As a bonus action, you can choose a creature marked by your Mystic Mark (see *Player’s Guide*) and enhance the mark’s effect on it. For 1 minute, the target suffers the following effects:
+As a bonus action, you can choose a creature marked by your [[#Mystic Mark|Mystic Mark]] and enhance the mark’s effect on it. For 1 minute, the target suffers the following effects:
 
 - The first attack roll you make against the target each turn has advantage.
 
@@ -987,7 +987,7 @@ You also gain the following benefits from your Explorer ranger feature:
 
 *3rd-Level Waysmith Feature*
 
-You gain calling spells at the ranger levels listed in the **Waysmith Calling Spells** table. See the **Ranger Subclass** class feature in the *Player’s Guide* for how these spells work.
+You gain calling spells at the ranger levels listed in the **Waysmith Calling Spells** table. See the [[#Ranger Subclass|Ranger Subclass]] feature for how these spells work.
 
 Additionally, whenever a ranger class feature would allow you to learn a new spell or replace a spell you know, you can choose the new spell from either the Primordial or Wyrd spell list. Any spells chosen from the Wyrd spell list still count as Primordial spells for you. You must still abide by the other restrictions detailed in the relevant class feature.
 

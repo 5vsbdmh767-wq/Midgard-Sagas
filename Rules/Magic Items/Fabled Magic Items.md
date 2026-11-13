@@ -7,7 +7,7 @@ Fabled items grow in power along with their owner. This section lists some fable
 
 %% source: Player's Guide 2 %%
 
-A fabled magic item begins as a common magic item and does not require attunement to use, granting a useful minor trait to its owner. To access its higher-level traits, a PC must attune to it, using standard attunement rules (see *Player’s Guide*). Once attuned, that PC can use the item’s increasingly powerful properties as they themselves gain experience. If a PC higher than 1st level attunes to the item, its level-dependent properties, up to the PC’s current level, are immediately available. Unless otherwise noted, the item’s properties remain in effect as long as the PC is wearing, carrying, or touching it. If a PC chooses not to attune to it, the item remains a common magic item, granting only its minor property, regardless of the PC’s level.
+A fabled magic item begins as a common magic item and does not require attunement to use, granting a useful minor trait to its owner. To access its higher-level traits, a PC must attune to it, using standard [[Using Magic Items#Attunement|attunement rules]]. Once attuned, that PC can use the item’s increasingly powerful properties as they themselves gain experience. If a PC higher than 1st level attunes to the item, its level-dependent properties, up to the PC’s current level, are immediately available. Unless otherwise noted, the item’s properties remain in effect as long as the PC is wearing, carrying, or touching it. If a PC chooses not to attune to it, the item remains a common magic item, granting only its minor property, regardless of the PC’s level.
 
 At the GM’s discretion, a fabled magic item’s more powerful properties might become available only after the PC completes a particular quest or event related to the item rather than simply reaching each required level.
 
@@ -47,9 +47,9 @@ This warhammer, unblemished and with a seemingly eternal shine, appears to be ma
 > Fabled magic items are designed to be unique—absolute one of a kinds—and each has a rich story tied to it that might just include the PCs going forward. That said, a GM has some wiggle room on how they are presented. Some items might be intrinsically tied to their forms. For instance, the *[[#Helm of the Medusa|Helm of the Medusa]]* and *Dreadnought* *Plate* seem particularly well suited to a helmet and plate armor, respectively. But others might not need to be as
 >
 
-**9th Level.** You gain a +1 bonus to attack and damage rolls made with this weapon. In addition, as an action, you can cast the *[[2nd-Circle Spells#Zone of Truth|zone of truth]]* spell (see *Player’s Guide*) from the weapon at will (save DC 15), requiring no verbal or somatic components or concentration.
+**9th Level.** You gain a +1 bonus to attack and damage rolls made with this weapon. In addition, as an action, you can cast the *[[2nd-Circle Spells#Zone of Truth|zone of truth]]* spell from the weapon at will (save DC 15), requiring no verbal or somatic components or concentration.
 
-**13th Level.** You gain a +2 bonus to attack and damage rolls made with this weapon, instead of +1. When you roll a 20 on an attack roll with it, the target takes an extra 1d10 (or 1d12 if used with two hands) bludgeoning damage. In addition, it has 3 charges and regains all expended charges daily at dawn. As an action, you can expend 1 charge to cast the *[[3rd-Circle Spells#Spirit Guardians|spirit guardians]]* spell (see *Player’s Guide*) from the weapon (save DC 16), requiring no concentration.
+**13th Level.** You gain a +2 bonus to attack and damage rolls made with this weapon, instead of +1. When you roll a 20 on an attack roll with it, the target takes an extra 1d10 (or 1d12 if used with two hands) bludgeoning damage. In addition, it has 3 charges and regains all expended charges daily at dawn. As an action, you can expend 1 charge to cast the *[[3rd-Circle Spells#Spirit Guardians|spirit guardians]]* spell from the weapon (save DC 16), requiring no concentration.
 
 **17th Level.** You gain a +3 bonus to attack and damage rolls made with this weapon, instead of +2. When you roll a 20 on an attack roll with this weapon against a creature, the target takes an extra 2d10 (or 2d12 if used with two hands) bludgeoning damage, instead of 1d10 (or 1d12). If the target has 100 HP or fewer after taking this damage, it dies.
 
@@ -67,13 +67,13 @@ In addition, if you reach out your empty hand, you can conjure a chilled, empty 
 
 ***Chalice Divinity (Requires Attunement).*** As your level increases, you gain the following benefits while wearing this medallion.
 
-**5th Level.** You can use the medallion as your holy symbol. You gain a +1 bonus to your spell save DC and to spell attack rolls. Once per dawn, you can also use your Channel Divinity class feature (see the cleric or paladin in *Player’s* *Guide*), without expending one of the feature’s uses.
+**5th Level.** You can use the medallion as your holy symbol. You gain a +1 bonus to your spell save DC and to spell attack rolls. Once per dawn, you can also use your Channel Divinity class feature (see [[Cleric|cleric or paladin]]), without expending one of the feature’s uses.
 
 **9th Level.** As an action, you can summon tankards for you and your companions, up to a number of creatures equal to your WIS modifier. A creature can use its action to imbibe this “battlebrew” and gain temporary hit points equal to your total number of cleric and paladin levels + either your WIS or CHA modifier (your choice). Once used, this property can’t be used again until the next dawn.
 
 **13th Level.** You gain a new effect for your Channel Divinity class feature: Intoxicate. As an action, you can use your Channel Divinity to cause an intoxicating miasma to emanate from the medallion. Each creature of your choice within 15 feet of you must make a CON save against your spell save DC. On a failed save, the creature becomes poisoned and incapacitated. At the end of each of the creature’s turns, it can repeat the save, ending the effect on a success. This effect lasts for 1 minute or until you are incapacitated.
 
-**17th Level.** You can use the medallion to cast the *heroes’* *feast* spell (see *Player’s Guide*). The feast you conjure can be made entirely of drink instead of food if you wish, and creatures consuming it will get a pleasant buzz if desired but suffer no ill effects. Once used, this property can’t be used again until 7 days have passed.
+**17th Level.** You can use the medallion to cast the *[[Rituals 4th–6th Circle#Heroes’ Feast|heroes’ feast]]* spell. The feast you conjure can be made entirely of drink instead of food if you wish, and creatures consuming it will get a pleasant buzz if desired but suffer no ill effects. Once used, this property can’t be used again until 7 days have passed.
 
 ## Blades of Blood and Fury
 
@@ -233,11 +233,11 @@ This bronze hourglass contains fine white quartz sand. This magic hourglass, onc
 
 ***Time Alteration (Requires Attunement).*** As your level increases, you gain the following benefits while holding the hourglass.
 
-**5th Level.** You have advantage on saves against spells and effects that would slow (such as from the *[[3rd-Circle Spells#Slow|slow]]* spell) or age you. The hourglass has 6 charges and regains all expended charges at the next dawn. While holding the hourglass, as an action, you can expend 1 or more of its charges to cast one of the following spells, using INT as your spellcasting ability: *[[3rd-Circle Spells#Haste|haste]]* (3 charges) and *[[3rd-Circle Spells#Slow|slow]]* (3 charges). (See *Player’s* *Guide* for spells.)
+**5th Level.** You have advantage on saves against spells and effects that would slow (such as from the *[[3rd-Circle Spells#Slow|slow]]* spell) or age you. The hourglass has 6 charges and regains all expended charges at the next dawn. While holding the hourglass, as an action, you can expend 1 or more of its charges to cast one of the following spells, using INT as your spellcasting ability: *[[3rd-Circle Spells#Haste|haste]]* (3 charges) and *[[3rd-Circle Spells#Slow|slow]]* (3 charges).
 
-**9th Level.** The hourglass now has 9 charges. As an action, you can expend 4 charges to cast the *[[4th-Circle Spells#Banishment|banishment]]* spell (see *Player’s Guide*) on one creature. In addition, as a bonus action, you can expend 2 charges to gain an additional action. Once you gain an action in this way, you can’t do so again until the next dawn.
+**9th Level.** The hourglass now has 9 charges. As an action, you can expend 4 charges to cast the *[[4th-Circle Spells#Banishment|banishment]]* spell on one creature. In addition, as a bonus action, you can expend 2 charges to gain an additional action. Once you gain an action in this way, you can’t do so again until the next dawn.
 
-**13th Level.** The hourglass now has 12 charges, and as an action, you can expend 6 charges to cast the *[[4th-Circle Spells#Banishment|banishment]]* spell (see *Player’s Guide*) on up to three creatures. In addition, as a reaction after you use your action or after a creature you can see within 30 feet of you uses an action, you can expend 4 charges to force the target to redo the action, rerolling all associated attack rolls, damage dice, and similar. If the target’s action forced another creature to make a save, that creature rerolls the save, taking the new result. This effect can trigger only when a creature uses an action, not a legendary action or lair action. If you target a creature that is unwilling, it can make a DC 17 WIS save. On a success, it is unaffected.
+**13th Level.** The hourglass now has 12 charges, and as an action, you can expend 6 charges to cast the *[[4th-Circle Spells#Banishment|banishment]]* spell on up to three creatures. In addition, as a reaction after you use your action or after a creature you can see within 30 feet of you uses an action, you can expend 4 charges to force the target to redo the action, rerolling all associated attack rolls, damage dice, and similar. If the target’s action forced another creature to make a save, that creature rerolls the save, taking the new result. This effect can trigger only when a creature uses an action, not a legendary action or lair action. If you target a creature that is unwilling, it can make a DC 17 WIS save. On a success, it is unaffected.
 
 *Dragon Type*
 
@@ -250,7 +250,7 @@ This bronze hourglass contains fine white quartz sand. This magic hourglass, onc
 | 5 | Copper | Acid | 30-Foot Line | 11 | White | Cold | 15-Foot Cone |
 | 6 | Gold | Fire | 15-Foot Cone | 12 | Yellow | Radiant | 30-Foot Line |
 
-**17th Level.** You are immune to spells and effects that would slow or age you. The hourglass now has 18 charges, and as an action, you can expend 9 charges to cast the *[[4th-Circle Spells#Banishment|banishment]]* spell on up to six creatures. In addition to the previously listed spells, you can cast the following additional spells from the hourglass, expending the necessary number of charges: *[[7th-Circle Spells#Sequester|sequester]]* (7 charges) and *[[9th-Circle Spells#Time Stop|time stop]]* (9 charges). (See *Player’s* *Guide* for spells.)
+**17th Level.** You are immune to spells and effects that would slow or age you. The hourglass now has 18 charges, and as an action, you can expend 9 charges to cast the *[[4th-Circle Spells#Banishment|banishment]]* spell on up to six creatures. In addition to the previously listed spells, you can cast the following additional spells from the hourglass, expending the necessary number of charges: *[[7th-Circle Spells#Sequester|sequester]]* (7 charges) and *[[9th-Circle Spells#Time Stop|time stop]]* (9 charges).
 
 ## Crown of the Spellspeaker
 
@@ -456,13 +456,13 @@ This tarnished bronze helm covers the wearer’s eyes and is embossed with snake
 
 ***Aspect of the Medusa (Requires Attunement).*** As your level increases, you gain the following benefits while wearing this helm.
 
-**5th Level.** You are resistant to poison damage and to the petrified and poisoned conditions. In addition, you can communicate with snakes as if you shared a language. As an action, you can cast the *[[1st-Circle Spells#Animal Friendship|animal friendship]]* spell (see *Player’s Guide*), but the target must be a snake. Once used, this property can’t be used again until the next dawn.
+**5th Level.** You are resistant to poison damage and to the petrified and poisoned conditions. In addition, you can communicate with snakes as if you shared a language. As an action, you can cast the *[[1st-Circle Spells#Animal Friendship|animal friendship]]* spell, but the target must be a snake. Once used, this property can’t be used again until the next dawn.
 
 **9th Level.** As a bonus action, you can animate the snakes on the helm to attack a creature you can see within 10 feet. The target must succeed on a DC 15 DEX save or take 1d6 piercing damage plus 2d6 poison damage. In addition, as a reaction when a creature you can see targets you with a melee weapon attack, the snakes animate to intervene, and the attacker has disadvantage on the attack. You can use each of these properties a number of times equal to your PB, regaining all expended uses at the next dawn.
 
 **13th Level.** You are immune to poison damage and to the petrified and poisoned conditions.
 
-**17th Level.** As an action, you can turn your magical gaze toward a creature you can see within 30 feet that can also see you. That creature must make a DC 17 CON save. If the save fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the save at the end of its next turn, becoming petrified on a failure or ending the effect on itself on a success. The petrification lasts for 1 minute, or until the creature is freed by the *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell (see *Player’s* *Guide*) or other magic.
+**17th Level.** As an action, you can turn your magical gaze toward a creature you can see within 30 feet that can also see you. That creature must make a DC 17 CON save. If the save fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the save at the end of its next turn, becoming petrified on a failure or ending the effect on itself on a success. The petrification lasts for 1 minute, or until the creature is freed by the *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell or other magic.
 
 ## Mailcoat of the Living Martyr
 
@@ -496,7 +496,7 @@ This gold-trimmed carnival mask is expressionless and completely covers the wear
 
 ***9th Level.*** You can cast the *[[2nd-Circle Spells#Alter Self|alter self]]* spell from the mask as often as you wish. In addition, your CHA score increases by 2, to a maximum of 20.
 
-***13th Level.*** When you use the mask to cast *[[1st-Circle Spells#Disguise Self|disguise self]]*, you can also cast *[[2nd-Circle Spells#Enhance Ability|enhance ability]]* upon yourself, applying any two effects from the list, instead of one (see *Player’s Guide*). This effect lasts until you finish a short or long rest and does not require concentration. Once used, this *[[2nd-Circle Spells#Enhance Ability|enhance ability]]* effect can’t be used again until the next dawn.
+***13th Level.*** When you use the mask to cast *[[1st-Circle Spells#Disguise Self|disguise self]]*, you can also cast *[[2nd-Circle Spells#Enhance Ability|enhance ability]]* upon yourself, applying any two effects from the list, instead of one. This effect lasts until you finish a short or long rest and does not require concentration. Once used, this *[[2nd-Circle Spells#Enhance Ability|enhance ability]]* effect can’t be used again until the next dawn.
 
 ***17th Level.*** As an action, when you use the mask to impersonate a specific Humanoid, you can exchange physical locations with it via teleportation, provided it is within 1 mile of you. The Humanoid arrives in whatever clothing they are currently wearing, with whatever gear they have on their person, in whatever condition they happen to be in (such as unconscious or dead). The target can choose to make a DC 17 WIS save to resist being teleported to your location. On a success, you still teleport, arriving in the nearest empty space to them. You can use this effect three times until the next dawn.
 
@@ -506,7 +506,7 @@ This gold-trimmed carnival mask is expressionless and completely covers the wear
 
 *Weapon (Greataxe), Fabled Priceless (5th-Level and Higher Properties Require Attunement)*
 
-This greataxe has a dulled, brushed texture and shows many scars, but it occasionally seems to pulse as its impatient power bubbles out. While wielding this magic weapon, you can’t cast or concentrate on spells, but you are resistant to the charmed and frightened conditions and are immune to the effects of the *[[2nd-Circle Spells#Calm Emotions|calm emotions]]* spell (see *Player’s Guide*).
+This greataxe has a dulled, brushed texture and shows many scars, but it occasionally seems to pulse as its impatient power bubbles out. While wielding this magic weapon, you can’t cast or concentrate on spells, but you are resistant to the charmed and frightened conditions and are immune to the effects of the *[[2nd-Circle Spells#Calm Emotions|calm emotions]]* spell.
 
 ***Sentience.*** This is a sentient weapon with the following statistics: INT 11, WIS 9, CHA 17. It has hearing and darkvision out to a range of 120 feet and can communicate telepathically with its wielder by transmitting intense, chaotic emotions that unsettle the mind.
 
@@ -516,7 +516,7 @@ This greataxe has a dulled, brushed texture and shows many scars, but it occasio
 
 **5th Level.** When you hit with an attack using this weapon, the target takes an extra 1d8 psychic damage.
 
-**9th Level.** You gain a +1 bonus to attack and damage rolls made with this weapon. In addition, it has 3 charges and regains all expended charges daily at dawn. As a reaction when you damage a creature with it, you can expend 1 charge to force the target to succeed on a DC 15 WIS save or suffer the effects of the *[[4th-Circle Spells#Confusion|confusion]]* spell (see *Player’s Guide*) for up to 1 minute, requiring no concentration.
+**9th Level.** You gain a +1 bonus to attack and damage rolls made with this weapon. In addition, it has 3 charges and regains all expended charges daily at dawn. As a reaction when you damage a creature with it, you can expend 1 charge to force the target to succeed on a DC 15 WIS save or suffer the effects of the *[[4th-Circle Spells#Confusion|confusion]]* spell for up to 1 minute, requiring no concentration.
 
 **13th Level.** You gain a +2 bonus to attack and damage rolls made with this weapon, instead of +1. You are immune to the charmed and frightened conditions.
 
@@ -558,7 +558,7 @@ This dark canvas haversack is unremarkable, and even emptying the pockets produc
 
 ***5th Level.*** The pack functions as a more compact *[[Wondrous Items A–L#Handy Haversack|handy haversack]]*. Its central pouch can hold up to 4 cubic feet or 40 pounds of material, while each of its two side pockets can hold up to 10 pounds of material, not exceeding 1 cubic foot each. The backpack always weighs 5 pounds, regardless of its contents.
 
-When first opened, the central pouch contains a bullseye lantern (filled but unlit), a steel mirror, and 50 feet of silk rope. One of the side pockets holds a set of *[[Wondrous Items A–L#Dancing Lockpicks|dancing lockpicks]]* (see *Player’s Guide*). If you lose the lockpicks or if they become nonmagical, another set appears in the pocket 1d4 hours after you notice.
+When first opened, the central pouch contains a bullseye lantern (filled but unlit), a steel mirror, and 50 feet of silk rope. One of the side pockets holds a set of *[[Wondrous Items A–L#Dancing Lockpicks|dancing lockpicks]]*. If you lose the lockpicks or if they become nonmagical, another set appears in the pocket 1d4 hours after you notice.
 
 Placing an object in a pouch or pocket follows the normal rules for interacting with objects. Retrieving an item from the pack requires an action. When you reach into the pack for a specific item, that item is always magically on top.
 
@@ -736,7 +736,7 @@ Warts dot the length of this green staff, an emerald frog sitting at its top. Wh
 
 ***Toad Dominion (Requires Attunement).*** As your level increases, you gain the following benefits while holding the staff.
 
-**5th Level.** You are resistant to poison damage and to the poisoned condition. In addition, you have a swimming speed equal to your walking speed and can breathe air and water. The staff has 5 charges and regains all expended charges at the next dawn. While holding the staff, as an action, you can expend 1 or more of its charges to cast one of the following spells from it, using CHA as the spellcasting ability: *[[3rd-Circle Spells#Conjure Animals|conjure animals]]* (frogs and toads only, 3 charges), *[[2nd-Circle Spells#Enlarge/Reduce|enlarge/reduce]]* (2 charges), *[[1st-Circle Spells#Longstrider|longstrider]]* (1 charge), and *[[1st-Circle Spells#Thunderwave|thunderwave]]* (1 charge). (See *Player’s Guide* for spells.)
+**5th Level.** You are resistant to poison damage and to the poisoned condition. In addition, you have a swimming speed equal to your walking speed and can breathe air and water. The staff has 5 charges and regains all expended charges at the next dawn. While holding the staff, as an action, you can expend 1 or more of its charges to cast one of the following spells from it, using CHA as the spellcasting ability: *[[3rd-Circle Spells#Conjure Animals|conjure animals]]* (frogs and toads only, 3 charges), *[[2nd-Circle Spells#Enlarge/Reduce|enlarge/reduce]]* (2 charges), *[[1st-Circle Spells#Longstrider|longstrider]]* (1 charge), and *[[1st-Circle Spells#Thunderwave|thunderwave]]* (1 charge).
 
 **9th Level.** The staff now has 10 charges. In addition to the previously listed spells, you can cast the following additional spells from the staff, expending the necessary number of charges: *[[5th-Circle Spells#Contagion|contagion]]* (5 charges) and *[[4th-Circle Spells#Polymorph|polymorph]]* (frog or toad only, 4 charges). In addition, as a bonus action, you can expend 1 charge to make your skin secrete a mild toxin for 1 minute. For the duration, a creature that touches you or hits you with a melee attack while within 5 feet of you must succeed on a DC 15 CON save or be poisoned until the end of its next turn.
 
@@ -808,7 +808,7 @@ This rough-hewn yew wand always gives off a greenish glimmer, as though it were 
 
 ***9th Level.*** You can cast *[[5th-Circle Spells#Tree Stride|tree stride]]* from the wand, no action required. You can use this ability for a number of minutes equal to your PB, after which you can’t use this ability again until you finish a long rest.
 
-***13th Level.*** You gain the ability to cast *[[Rituals 4th–6th Circle#Commune with Nature|commune with nature]]* from the wand as an action, rather than as a ritual. Once per minute, you learn one additional fact about the surrounding area, as described in the spell (see *Player’s Guide*). While you are maintaining this spell, you are in a trancelike state, and are considered blinded and deafened. You can exit this trance as an action.
+***13th Level.*** You gain the ability to cast *[[Rituals 4th–6th Circle#Commune with Nature|commune with nature]]* from the wand as an action, rather than as a ritual. Once per minute, you learn one additional fact about the surrounding area, as described in the spell. While you are maintaining this spell, you are in a trancelike state, and are considered blinded and deafened. You can exit this trance as an action.
 
 ***17th Level.*** You can enter a tree as an action by expending 5 feet of movement, and move from inside it to another tree anywhere on the same plane of existence, as the *[[6th-Circle Spells#Transport Via Plants|transport via plants]]* spell. You can’t use this ability again until you finish a short rest. If you allow other creatures to accompany you, you must take a long rest before you can use this ability again.
 

@@ -535,7 +535,7 @@ Until the spell ends, you can use an action on each of your turns to choose a di
 
 ***Blue.*** The target takes an additional 4d8 cold damage.
 
-***Indigo.*** The target must succeed on a CON save or begin to turn to stone and be restrained. The restrained creature must repeat the save at the end of its next turn, becoming petrified on a failure or ending the effect on itself on a success. The petrification lasts for 1 minute, or until the creature is freed by the *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell (see *Player’s* *Guide*) or similar magic.
+***Indigo.*** The target must succeed on a CON save or begin to turn to stone and be restrained. The restrained creature must repeat the save at the end of its next turn, becoming petrified on a failure or ending the effect on itself on a success. The petrification lasts for 1 minute, or until the creature is freed by the *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell or similar magic.
 
 ***Violet.*** The target must succeed on a CHA save or be banished to a harmless demiplane. While there, it is incapacitated. The target remains there for 1 minute, at which point it reappears in the space it left or in the nearest unoccupied space if that space is occupied. Once you fire an arrow, that arrow’s color disappears from the bow, and you can’t select it again for the duration of the spell. The bow vanishes early if you use all seven colors, otherwise it remains for the duration of the spell.
 
@@ -579,7 +579,7 @@ Physical interaction with the image reveals it to be an illusion because things 
 
 You pronounce impending doom upon your enemies. Choose up to eight creatures that you can see within range. Each one must make a CHA save. On a failure, that target has disadvantage on attacks it makes while the spell is in effect, and attacks against the target are made with advantage.
 
-A *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell (see *Player’s Guide*) cast on a target immediately ends the effects of this spell.
+A *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell cast on a target immediately ends the effects of this spell.
 
 ## Righteous Fervor
 

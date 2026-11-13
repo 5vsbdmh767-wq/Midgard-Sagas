@@ -341,7 +341,7 @@ Your skill with thrown weapons knows few equals, and you gain these benefits:
 
 - When you make a weapon attack, you can draw a thrown weapon as part of that attack, even if you’ve already done so on the current turn.
 
-- If you have the Rage class feature (see barbarian in *Player’s Guide*), you can add your rage damage to attacks made with thrown weapons.
+- If you have the Rage class feature (see [[Barbarian|barbarian]]), you can add your rage damage to attacks made with thrown weapons.
 
 ## Juggernaut
 

@@ -41,7 +41,7 @@ Vanguards are exceptional warriors and diplomats, capable of navigating combat a
 >
 > - For ability scores, prioritize CHA, followed by STR and CON.
 >
-> - For background and talent, choose Courtier and Mental Fortitude (see *Player’s Guide* for both).
+> - For background and talent, choose [[Backgrounds#Courtier|Courtier]] and [[Magic Talents#Mental Fortitude|Mental Fortitude]].
 >
 
 Vanguards are first and foremost leaders, deeply devoted to their comrades-in-arms. This sense of duty runs deep in all aspects of a vanguard’s life, often driving them to put loyalty to family, faith, and country before all else— whatever the cost. Such noble sensibilities often inspire respect and adoration in those that vanguards meet during their travels, but this can just as easily spark conflict with those who reject authority.
@@ -112,7 +112,7 @@ You create a banner that spurs your allies to give no quarter. When you or a fri
 
 Starting at 6th level, you gain this third War Banner option. When you create this banner, it appears with a number of Luck equal to your CHA modifier (minimum of 1). Each time a friendly creature within the banner’s range gains Luck, the banner gains the same amount of Luck, adding to its current total. The banner has no limit to the amount of Luck it can have at any one time.
 
-If you choose to allow it, a friendly creature within the banner’s range can spend Luck from the banner to modify a roll as if that creature had that Luck (see **Luck** in the *Player’s Guide*), which reduces the banner’s total by the amount spent. A creature can use any combination of Luck it has accumulated normally and Luck from the banner to modify a roll, but it can’t spend more than 5 Luck to modify the same roll. You must follow all other normal rules and restrictions when spending Luck from the banner.
+If you choose to allow it, a friendly creature within the banner’s range can spend Luck from the banner to modify a roll as if that creature had that Luck (see [[Rolling the Dice#Luck|Luck]]), which reduces the banner’s total by the amount spent. A creature can use any combination of Luck it has accumulated normally and Luck from the banner to modify a roll, but it can’t spend more than 5 Luck to modify the same roll. You must follow all other normal rules and restrictions when spending Luck from the banner.
 
 ### Stratagems
 
@@ -128,7 +128,7 @@ Unless otherwise noted, you can use only one stratagem on your turn, and creatur
 
 *2nd-Level Vanguard Feature*
 
-Your honed situational awareness allows you to act quickly on the battlefield. As a bonus action, you can take the Disengage or Help action (see **Actions in Combat** in *Player’s Guide*) or perform a weapon option (see **Weapon Options** in *Player’s Guide*).
+Your honed situational awareness allows you to act quickly on the battlefield. As a bonus action, you can take the Disengage or Help action (see [[Encounter Gameplay#Actions in Combat|Actions in Combat]]) or perform a weapon option (see [[Weapons#Weapon Options|Weapon Options]]).
 
 ### Vanguard Subclass
 
@@ -146,7 +146,7 @@ Choose one of the following improvements (ability scores can’t be raised above
 
 - Increase two different ability scores by 1 each.
 
-- Increase one ability score by 1 and select a talent from the martial talents list (see *Player’s Guide*).
+- Increase one ability score by 1 and select a talent from the [[Martial Talents|martial talents]] list.
 
 ### Multiattack
 

@@ -10,7 +10,7 @@ The following sections cover unique new rewards to offer in addition to experien
 
 ## Downtime
 
-Rewarding periods of downtime is an excellent way to signal the end of a major adventure or story arc. Downtime is essentially free time that allows PCs to take a breather and pursue more mundane interests when the action is light. Periods of downtime are also critical for building, expanding, and enjoying the benefits of the base building rules presented in this chapter. Since most downtime activities require at least a full week of downtime to make progress, handing out downtime rewards of one or more weeks is recommended, as opposed to handing out single days. For more information on how downtime works and a selection of downtime activities (in addition to those presented in this chapter), see the *Player’s Guide*. For additional optional downtime activities, see the *Game* *Master’s Guide.*
+Rewarding periods of downtime is an excellent way to signal the end of a major adventure or story arc. Downtime is essentially free time that allows PCs to take a breather and pursue more mundane interests when the action is light. Periods of downtime are also critical for building, expanding, and enjoying the benefits of the base building rules presented in this chapter. Since most downtime activities require at least a full week of downtime to make progress, handing out downtime rewards of one or more weeks is recommended, as opposed to handing out single days. For more information on how downtime works and a selection of downtime activities (in addition to those presented in this chapter), see [[Between Adventures]]. For additional optional downtime activities, see the *Game Master’s Guide.*
 
 ## Luck
 
@@ -24,9 +24,9 @@ If a charm or blessing allows you to cast a spell, you can do so even if you can
 
 ### Charms
 
-Charms are limited in use and most commonly replicate the effects of potions or spells. Each charm explains how long it remains once granted, after which it disappears, removing your access to it. Otherwise, only divine intervention or the *[[9th-Circle Spells#Wish|wish]]* spell (see *Player’s Guide*) can remove a charm from a creature.
+Charms are limited in use and most commonly replicate the effects of potions or spells. Each charm explains how long it remains once granted, after which it disappears, removing your access to it. Otherwise, only divine intervention or the *[[9th-Circle Spells#Wish|wish]]* spell can remove a charm from a creature.
 
-Use the charms listed here (see *Player’s Guide* for all listed spells), or simply use them as examples when creating new ones better tailored to the story and setting of your game:
+Use the charms listed here, or simply use them as examples when creating new ones better tailored to the story and setting of your game:
 
 - **Charm of Abjuring.** This charm has 3 charges. As an action, you can expend 1 charge to cast *[[3rd-Circle Spells#Remove Curse|remove curse]]*. Alternatively, if you would be affected by a curse effect or otherwise cursed against your will, it expends 1 charge and instantly triggers, preventing you from being affected. Once all its charges have been expended, the charm disappears.
 
@@ -44,7 +44,7 @@ Use the charms listed here (see *Player’s Guide* for all listed spells), or si
 
 ### Blessings
 
-A blessing is a potent magical effect that grants a permanent benefit to a PC and most commonly replicates the effects of a wondrous magic item. The entity that bestowed the blessing can choose to revoke it, but otherwise, nothing short of divine intervention or a *[[9th-Circle Spells#Wish|wish]]* spell *(see Player’s Guide)* can remove it.
+A blessing is a potent magical effect that grants a permanent benefit to a PC and most commonly replicates the effects of a wondrous magic item. The entity that bestowed the blessing can choose to revoke it, but otherwise, nothing short of divine intervention or a *[[9th-Circle Spells#Wish|wish]]* spell can remove it.
 
 A PC can only have a number of blessings equal to their PB at any one time—though it is unlikely for a single person to ever receive more than one blessing in a single lifetime. Additionally, a PC can’t benefit from the same blessing twice.
 

@@ -51,7 +51,7 @@ When a creature you can see attempts to hit you with a melee weapon attack, you 
 
 ## New Weapon Options for Existing Weapons
 
-These weapon options are usable by some weapons on the **Weapons** table in **Chapter 5** of *Player’s Guide* in addition to martial art weapons in this chapter.
+These weapon options are usable by some weapons on the [[Weapons]] table in addition to martial art weapons in this chapter.
 
 ### Ensnare
 
@@ -179,7 +179,7 @@ It can be disappointing to hold a foe at knifepoint or spellpoint, only for them
 
 If you are wielding a melee weapon and your opponent is surprised, you can use your action to declare a target dead to rights. You can also declare a single creature dead to rights if it’s in range of your attack for a full round and neither of you moves, takes a Dodge action, or attacks any creature during that time. The target must have no intention or means to defend itself, such as a pleading negotiator.
 
-Dead to rights is a special Ready action (see **Chapter 6** of *Player’s Guide*). If the trigger conditions you set for attacking the target are met and you hit, you score an automatic critical hit.
+Dead to rights is a special [[Encounter Gameplay#Ready|Ready]] action. If the trigger conditions you set for attacking the target are met and you hit, you score an automatic critical hit.
 
 If two or more instances of dead to rights occur, such as when a hidden enemy reveals itself and puts you dead to rights while you were staring down a foe, then a standoff occurs. If only one creature in initiative opts to attack, its dead to rights Ready action triggers first. If two or more parties meet their attacking trigger conditions on the same initiative count, they must make contested DEX checks. The winner can use its reaction to benefit from dead to rights.
 

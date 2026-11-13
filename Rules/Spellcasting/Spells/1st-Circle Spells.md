@@ -445,7 +445,7 @@ When you cast this spell, choose which of the following effects to create.
 
 *You petrify plants, turning them to crumbling chalk.*
 
-When you cast this spell, all plants in a 20-foot square or a 10-foot wide, 40-foot-long line are petrified, becoming white, crumbling chalk. If the plants created difficult terrain, the area is now easily passable. This spell doesn’t affect any part of the area that is under the effects of magic, such as the *[[#Entangle|entangle]]* spell or a Leaf druid’s Sacred Grove class feature (see *Player’s Guide* for both).
+When you cast this spell, all plants in a 20-foot square or a 10-foot wide, 40-foot-long line are petrified, becoming white, crumbling chalk. If the plants created difficult terrain, the area is now easily passable. This spell doesn’t affect any part of the area that is under the effects of magic, such as the *[[#Entangle|entangle]]* spell or a Leaf druid’s Sacred Grove class feature.
 
 Alternatively, you can cast this spell on a creature with the Plant type. The creature must succeed on a CON save or have disadvantage on attacks, saves, and ability checks for a number of rounds equal to your PB.
 

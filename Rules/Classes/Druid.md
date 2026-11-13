@@ -220,13 +220,13 @@ At 9th level, you can assume the form of any Beast of CR 1 or less. At 14th leve
 
 Your commitment to the druid’s path grants you a powerful new ability. Choose one of the following heroic boons:
 
-- **Rite of the Healer.** When you use your Nature’s Gift feature (see *Player’s Guide*), you can now heal a number of creatures equal to your PB within 60 feet of you with one use of the feature. In addition, you no longer have to see a creature to target it when using Nature’s Gift as long as both you and the target are standing on earth, wood, stone, ice, or other solid, natural surface.
+- **Rite of the Healer.** When you use your [[#Nature’s Gift|Nature’s Gift]] feature, you can now heal a number of creatures equal to your PB within 60 feet of you with one use of the feature. In addition, you no longer have to see a creature to target it when using Nature’s Gift as long as both you and the target are standing on earth, wood, stone, ice, or other solid, natural surface.
 
 - **Rite of the Kingdom.** All Beasts and creatures with the Animal tag understand your speech, and you can understand their noises and motions as if they were speaking, even if they don't speak a language. This ability doesn’t grant Beasts the intelligence to understand or communicate complex concepts, but you can share basic information with ease. Your GM has final say on what a particular creature can express. In addition, you have advantage on Charisma checks made to interact with or influence such creatures.
 
 - **Rite of the Shaper.** When you roll initiative and have no remaining uses of Wild Shape, you regain one use. Once you use this feature, you can’t do so again until you complete a long rest.
 
-- **Rite of the Traveler.** As a bonus action, you can give yourself a 30-foot burrowing, climbing, flying (with the ability to hover), or swimming speed. Alternatively, you can use this bonus action to increase a movement speed you already have by 30 feet. You can activate and benefit from this feature whether in your standard form or while transformed via the Wild Shape feature (see *Player’s Guide*). Once activated, this bonus movement lasts until you either finish a long rest or use this feature again to select a different movement type.
+- **Rite of the Traveler.** As a bonus action, you can give yourself a 30-foot burrowing, climbing, flying (with the ability to hover), or swimming speed. Alternatively, you can use this bonus action to increase a movement speed you already have by 30 feet. You can activate and benefit from this feature whether in your standard form or while transformed via the [[#Wild Shape|Wild Shape]] feature. Once activated, this bonus movement lasts until you either finish a long rest or use this feature again to select a different movement type.
 
 %% source: Player's Guide 2: Rite of the Healer, Rite of the Traveler %%
 
@@ -382,7 +382,7 @@ Druids aligned with the [[Servants of the Dreaming God|Dreamers]] and the [[Old 
 
 *3rd-Level Dreamer Feature*
 
-You gain ring spells at the druid levels listed in the **Dreamer Ring Spells** table. See the **Druid Subclass** class feature in the *Player’s Guide* for how these spells work.
+You gain ring spells at the druid levels listed in the **Dreamer Ring Spells** table. See the [[#Druid Subclass|Druid Subclass]] feature for how these spells work.
 
 If these additional spells include a ritual spell, that spell is added to your available ritual spell list. The spell functions as a normal ritual spell but doesn’t count against the total number of ritual spells you know.
 
@@ -460,7 +460,7 @@ Druids of the Elementalist ring believe that the best way to be a protector of n
 
 *3rd-Level Elementalist Feature*
 
-You learn one cantrip from the following list: *[[Cantrips#Acid Splash|acid splash]]*, *[[Cantrips#Electric Jolt|electric jolt]]*, *[[Cantrips#Fire Bolt|firebolt]]*, *[[Cantrips#Hoarfrost|hoarfrost]]*, *[[Cantrips#Ray of Frost|ray of frost]]*, or *[[Cantrips#Shocking Grasp|shocking grasp]]*. This cantrip counts as a Primordial spell when you cast it, but it doesn’t count against the number of cantrips you know as listed in the **Druid Progression** table (see *Player’s* *Guide*). When you finish a long rest, you can switch your chosen cantrip for another cantrip on the list. When you deal damage with one of these cantrips, you deal additional damage of its type equal to your PB.
+You learn one cantrip from the following list: *[[Cantrips#Acid Splash|acid splash]]*, *[[Cantrips#Electric Jolt|electric jolt]]*, *[[Cantrips#Fire Bolt|firebolt]]*, *[[Cantrips#Hoarfrost|hoarfrost]]*, *[[Cantrips#Ray of Frost|ray of frost]]*, or *[[Cantrips#Shocking Grasp|shocking grasp]]*. This cantrip counts as a Primordial spell when you cast it, but it doesn’t count against the number of cantrips you know as listed in the **Druid Progression** table. When you finish a long rest, you can switch your chosen cantrip for another cantrip on the list. When you deal damage with one of these cantrips, you deal additional damage of its type equal to your PB.
 
 In addition, when you deal acid, cold, fire, lightning, or thunder damage, you can choose for any number of those damage dice to be damage of one of the other types. For example, if you cast the *[[3rd-Circle Spells#Fireball|fireball]]* spell, you can choose for any number of its damage dice to be thunder, with all other damage dice being fire, as normal.
 
@@ -468,7 +468,7 @@ In addition, when you deal acid, cold, fire, lightning, or thunder damage, you c
 
 *3rd-Level Elementalist Feature*
 
-You gain ring spells at the druid levels listed in the **Elementalist Ring Spells** table. See the Druid Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain ring spells at the druid levels listed in the **Elementalist Ring Spells** table. See the [[#Druid Subclass|Druid Subclass]] feature for how these spells work.
 
 *Elementalist Ring Spells*
 
@@ -487,7 +487,7 @@ You gain the following Wild Shape option.
 
 #### Wild Shape: Elemental Conduit
 
-As a bonus action, you can expend a use of your Wild Shape feature (see *Player’s Guide*) to become a living conduit to the elemental planes, taking on physical characteristics related to the elements, such as constantly blowing hair, fiery eyes, fluid-seeming movement, and rock-solid bones. You remain in this form for 10 minutes or until you dismiss it (no action required), are incapacitated, or die.
+As a bonus action, you can expend a use of your [[#Wild Shape|Wild Shape]] feature to become a living conduit to the elemental planes, taking on physical characteristics related to the elements, such as constantly blowing hair, fiery eyes, fluid-seeming movement, and rock-solid bones. You remain in this form for 10 minutes or until you dismiss it (no action required), are incapacitated, or die.
 
 As a reaction while the conduit is active, you can produce one of the following effects.
 
@@ -612,7 +612,7 @@ In addition, you can use your WIS modifier in place of your CHA modifier on CHA 
 
 *3rd-Level Fey Feature*
 
-You gain ring spells at the druid levels listed in the **Fey Ring Spells** table. See the Druid Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain ring spells at the druid levels listed in the **Fey Ring Spells** table. See the [[#Druid Subclass|Druid Subclass]] feature for how these spells work.
 
 *Fey Ring Spells*
 
@@ -633,7 +633,7 @@ You gain the following Wild Shape option.
 
 *3rd-Level Fey Feature*
 
-As a bonus action, you can expend a use of your Wild Shape feature (see *Player’s Guide*) to magically summon a sliver of the faerie realms, which manifests as a fey spirit. The spirit appears at a point you can see within 60 feet of you, but it is spectral, doesn’t occupy its space, and isn’t a creature or object.
+As a bonus action, you can expend a use of your [[#Wild Shape|Wild Shape]] feature to magically summon a sliver of the faerie realms, which manifests as a fey spirit. The spirit appears at a point you can see within 60 feet of you, but it is spectral, doesn’t occupy its space, and isn’t a creature or object.
 
 When you use this feature, choose a season: spring, summer, autumn, or winter. That season infuses the spirit, determining its appearance and what effects it can create, as described in the **Seelie Seasons** table. Once chosen, you can’t change the spirit’s season unless you expend another use of Wild Shape.
 
@@ -1030,7 +1030,7 @@ In addition, you have advantage on checks related to the origin and purpose of a
 
 *3rd-Level Stoneheart Feature*
 
-You gain ring spells at the druid levels listed in the **Stoneheart Ring Spells** table. See the Druid Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain ring spells at the druid levels listed in the **Stoneheart Ring Spells** table. See the [[#Druid Subclass|Druid Subclass]] feature for how these spells work.
 
 *Stoneheart Ring Spells*
 
@@ -1051,7 +1051,7 @@ You gain the following Wild Shape option.
 
 *3rd-Level Stoneheart Feature*
 
-As a bonus action while not wearing armor, you can expend a use of your Wild Shape feature (see *Player’s Guide*) to wrap yourself in protective earth, stone, and crystal. The armor covers you from head to toe, but you determine the appearance of the armor. Regardless of appearance, the armor remains composed of the earthen materials from which it was formed. The armor is lightweight and doesn’t hinder movement, and you are considered proficient with it.
+As a bonus action while not wearing armor, you can expend a use of your [[#Wild Shape|Wild Shape]] feature to wrap yourself in protective earth, stone, and crystal. The armor covers you from head to toe, but you determine the appearance of the armor. Regardless of appearance, the armor remains composed of the earthen materials from which it was formed. The armor is lightweight and doesn’t hinder movement, and you are considered proficient with it.
 
 While the armor is active, you gain the following benefits:
 
@@ -1137,9 +1137,9 @@ You gain the following Wild Shape option.
 
 #### Wild Shape: Plant Form
 
-As an action, you can magically assume the form of a Plant. This feature works like the Beast Form Wild Shape option, except it applies to Plants instead of Beasts. Choose two Plants of challenge rating (CR) 1 or less as your known forms. To select a known form, you must have seen or interacted with a Plant in your past. The Plant you choose can't have any legendary actions or lair actions. When you take the form of a Plant, you use the hit points of the creature, not the Hit Points by Form Size table found in the Player's Guide.
+As an action, you can magically assume the form of a Plant. This feature works like the Beast Form Wild Shape option, except it applies to Plants instead of Beasts. Choose two Plants of challenge rating (CR) 1 or less as your known forms. To select a known form, you must have seen or interacted with a Plant in your past. The Plant you choose can't have any legendary actions or lair actions. When you take the form of a Plant, you use the hit points of the creature, not the Hit Points by Form Size table under [[#Wild Shape|Wild Shape]].
 
-As you advance in druid levels, you can choose more plant forms instead of beast forms, as shown in the Beast Forms Known column of the Druid Progression table (see Player's Guide). When you gain a level of druid, you can replace one known form with a different form of your choosing. Any new form you choose must abide by the form restrictions.
+As you advance in druid levels, you can choose more plant forms instead of beast forms, as shown in the Beast Forms Known column of the Druid Progression table. When you gain a level of druid, you can replace one known form with a different form of your choosing. Any new form you choose must abide by the form restrictions.
 
 You can't speak while in plant form—unless your new form is capable of doing so—but you do have a limited form of telepathy that allows you to communicate simple emotions and images with creatures within 30 feet of you. As normal, you can't cast spells while transformed.
 

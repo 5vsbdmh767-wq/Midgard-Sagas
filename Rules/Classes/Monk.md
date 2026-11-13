@@ -200,7 +200,7 @@ Your commitment to the monk’s path grants you a powerful new ability. Choose o
 
 - **Superior Deflection.** Your continued martial arts training allows you to deflect all manner of attacks. As a reaction when you are hit by a melee or ranged attack, you can reduce the damage you take from the attack by 1d10 + your DEX modifier + your monk level. If you reduce the damage to 0, you can redirect the force of the attack as long as you have at least one hand free. If you redirect the attack in this way, you can force one creature you can see within 60 feet of you to succeed on a DEX save against your technique save DC or take force damage equal to your martial arts die + your DEX modifier.
 
-- **Vitality of Spirit.** As a reaction when you spend technique points (see *Player’s Guide*) on your turn, you can redirect some of that energy to heal your injuries. When you do so, roll your martial arts die a number of times equal to the amount of technique points spent (up to a maximum number of rolls equal to your PB) and recover hit points equal to the total amount rolled. You can use this feature a number of times equal to your PB and regain expended uses when you finish a long rest.
+- **Vitality of Spirit.** As a reaction when you spend [[#Techniques|technique points]] on your turn, you can redirect some of that energy to heal your injuries. When you do so, roll your martial arts die a number of times equal to the amount of technique points spent (up to a maximum number of rolls equal to your PB) and recover hit points equal to the total amount rolled. You can use this feature a number of times equal to your PB and regain expended uses when you finish a long rest.
 
 %% source: Player's Guide 2: Superior Deflection, Vitality of Spirit %%
 
@@ -244,7 +244,7 @@ Your commitment to the monk’s path grants you a powerful new ability. You gain
 
 - **Harmonious Being.** You have honed your mind and body to work in perfect unison. Your DEX and WIS scores each increase by 4. Your maximum for those scores is now 24.
 
-- **Meditation Technique.** As an action, if you don’t move and don’t take any other action on your turn, you can regain technique points (see *Player’s Guide*) up to your maximum. Once you recover technique points in this way, you can’t do so again until you finish a long rest.
+- **Meditation Technique.** As an action, if you don’t move and don’t take any other action on your turn, you can regain [[#Techniques|technique points]] up to your maximum. Once you recover technique points in this way, you can’t do so again until you finish a long rest.
 
 %% source: Player's Guide 2: Harmonious Being, Meditation Technique %%
 
@@ -284,7 +284,7 @@ Some monks realize the careful balance between life and death, and they’ve hon
 
 As a bonus action, you can touch a creature within 5 feet of you and heal it at a cost to you. The target regains a number of hit points up to your CON modifier + your monk level or loses a condition affecting it. In exchange, you take damage equal to the hit points the target regained, or you gain the condition you removed from the target. If the condition allowed a save and has a duration of 1 minute or less, you can make that save at the end of each of your turns, ending the effect on yourself on a success, even if the effect allowed no repeat saves. If the condition has a longer duration, you can make the save every hour.
 
-Starting at 7th level, you can use this feature to affect a creature within 30 feet of you. You can extend the range by spending 1 technique point (see *Player’s Guide*) for each additional 30 feet.
+Starting at 7th level, you can use this feature to affect a creature within 30 feet of you. You can extend the range by spending 1 [[#Techniques|technique point]] for each additional 30 feet.
 
 You can use this feature a number of times equal to your WIS modifier, and you regain all expended uses when you finish a long rest.
 
@@ -335,7 +335,7 @@ Monks that pursue the way of the Elemental Voice seek to reshape the primordial 
 
 *3rd-Level Elemental Voice Feature*
 
-When you choose this tradition, you learn certain words and phrases that command the primordial elements: earth, flame, water, and wind. Choose one of those elements as the element that calls to you the strongest. Your attire, adornments, and even mannerisms might be influenced by your connection with this element. Regardless of the element chosen, your connection to all elements allows you to spend technique points (see *Player’s Guide*) to invoke them to empower yourself, infuse your attacks, or reshape your environment.
+When you choose this tradition, you learn certain words and phrases that command the primordial elements: earth, flame, water, and wind. Choose one of those elements as the element that calls to you the strongest. Your attire, adornments, and even mannerisms might be influenced by your connection with this element. Regardless of the element chosen, your connection to all elements allows you to spend [[#Techniques|technique points]] to invoke them to empower yourself, infuse your attacks, or reshape your environment.
 
 You know the Shape Elements word and one other elemental word of your choice from the list (see **Elemental Words**). You learn two additional words of your choice at 7th, 11th, and 15th level, which can be chosen from the words in this feature or from those in either of the Additional Elemental Words features, provided you are of the appropriate level. When you gain a level of monk, you can replace one elemental word you know with another word of your choice.
 
@@ -347,11 +347,11 @@ The elemental words available to you are listed here and are divided into earth,
 
 #### Boulder Fist Strikes
 
-*Earth, 1 Technique Point* Whenever you use your Flurry of Blows feature (see *Player’s* *Guide*), you can spend 1 additional technique point to increase the damage of your unarmed strikes by an amount equal to your WIS modifier until the start of your next turn. You can use this word even while you can’t speak or are otherwise silenced.
+*Earth, 1 Technique Point* Whenever you use your [[#Flurry of Blows|Flurry of Blows]] feature, you can spend 1 additional technique point to increase the damage of your unarmed strikes by an amount equal to your WIS modifier until the start of your next turn. You can use this word even while you can’t speak or are otherwise silenced.
 
 #### Drown
 
-*Water, 2 Technique Points* As an action, you can spend 2 technique points to attempt to drown one creature you can see within 30 feet of you. The target must succeed on a STR save or be choked by a bubble of translucent water until the end of your next turn (see **Suffocating** in the *Player’s Guide*). You can spend additional technique points to increase the duration by 1 round for each point spent. The bubble moves with the target, remaining centered on it. While choked, the target can’t breathe or speak unless it can breathe water. The target or a creature within 5 feet of it can use its action to make a STR check against your technique save DC to free the target from the bubble. The bubble harmlessly bursts if the target moves farther than 30 feet away from you.
+*Water, 2 Technique Points* As an action, you can spend 2 technique points to attempt to drown one creature you can see within 30 feet of you. The target must succeed on a STR save or be choked by a bubble of translucent water until the end of your next turn (see [[Life and Death#Suffocating|Suffocating]]). You can spend additional technique points to increase the duration by 1 round for each point spent. The bubble moves with the target, remaining centered on it. While choked, the target can’t breathe or speak unless it can breathe water. The target or a creature within 5 feet of it can use its action to make a STR check against your technique save DC to free the target from the bubble. The bubble harmlessly bursts if the target moves farther than 30 feet away from you.
 
 #### Erupt
 
@@ -860,7 +860,7 @@ Seal Guardian monks apply the knowledge they gain from transcribing written work
 
 *3rd-Level Seal Guardian Feature*
 
-You transcribe protective spells (see **Protective Spells Known**) onto parchment, creating magic seals for your allies. You can create such a seal by using the same type of action required to cast the spell that you want to transcribe. Once you give a seal to a creature, only that creature can use it and gain its benefits. Using the seal requires the same type of action that casting the spell inscribed upon the seal requires. The spell uses your spellcasting ability (see **Spellcasting Ability**), and any spell cast in this way is always cast at the highest circle you have access to, via the Maximum Circle column of the **Seal Guardian Progression** table. If the spell requires concentration, the creature using the seal must concentrate as the normal spellcasting rules (see **Chapter 7** in the *Player’s Guide*).
+You transcribe protective spells (see **Protective Spells Known**) onto parchment, creating magic seals for your allies. You can create such a seal by using the same type of action required to cast the spell that you want to transcribe. Once you give a seal to a creature, only that creature can use it and gain its benefits. Using the seal requires the same type of action that casting the spell inscribed upon the seal requires. The spell uses your spellcasting ability (see **Spellcasting Ability**), and any spell cast in this way is always cast at the highest circle you have access to, via the Maximum Circle column of the **Seal Guardian Progression** table. If the spell requires concentration, the creature using the seal must concentrate as the normal spellcasting rules (see [[Spellcasting#Concentration|Concentration]]).
 
 A seal loses its magic after 24 hours, the magical inscription fading from it. The parchment can then be used to make a new seal. You can create a number of seals equal to your PB, and you regain all expended uses when you finish a long rest.
 
@@ -915,7 +915,7 @@ Your thoughts are girded against the influence of other creatures. You have adva
 
 *7th-Level Seal Guardian Feature*
 
-As an action, you can spend 1 technique point (see *Player’s* *Guide*), draw a series of runes imbued with power on a bit of parchment, and place it on a creature within 5 feet of you. If the creature is charmed, frightened, or paralyzed, it immediately makes another save against that effect (even if the effect doesn’t allow for repeat saves), and it makes the save with advantage, ending the condition on itself on a success. If a creature that caused the effect on the target is within 30 feet of you, it must make a WIS save against your technique save DC, taking radiant damage equal to your WIS modifier + your monk level on a failed save or half as much damage on a successful one.
+As an action, you can spend 1 [[#Techniques|technique point]], draw a series of runes imbued with power on a bit of parchment, and place it on a creature within 5 feet of you. If the creature is charmed, frightened, or paralyzed, it immediately makes another save against that effect (even if the effect doesn’t allow for repeat saves), and it makes the save with advantage, ending the condition on itself on a success. If a creature that caused the effect on the target is within 30 feet of you, it must make a WIS save against your technique save DC, taking radiant damage equal to your WIS modifier + your monk level on a failed save or half as much damage on a successful one.
 
 ### Ward Against the Otherworldly
 

@@ -4,7 +4,7 @@ publish: true
 ---
 %% source: Player's Guide 2 %%
 
-The *Player’s Guide* provides basic guidance for the pricing of magic items, and this section expands on those basics with more detailed steps. **Step-by-Step Permanent Magic Item Pricing** The following guidance is specifically used for pricing permanent magic items. For consumable or enchanted magic items, simply use the basic guidelines in the *Player’s Guide*.
+[[Using Magic Items#Buying and Selling Magic Items|Buying and Selling Magic Items]] provides basic guidance for the pricing of magic items, and this section expands on those basics with more detailed steps. **Step-by-Step Permanent Magic Item Pricing** The following guidance is specifically used for pricing permanent magic items. For consumable or enchanted magic items, simply use [[Using Magic Items#Pricing Consumable Magic Items|the basic guidelines]].
 
 ## Step 1: Establish Minimum Value
 
@@ -22,7 +22,7 @@ Before setting this number, double-check if your item meets anything listed in t
 
 - Wishes.
 
-***Example:*** As an example, let’s walk through the pricing of the *[[Wondrous Items M–Z#Winged Boots|winged boots]]* from the *Player’s Guide*. The boots are an uncommon magic item, but it enables flight, which is one of the pricing exceptions listed. So, we start the pricing process as if the *[[Wondrous Items M–Z#Winged Boots|winged boots]]* are a rare magic item (one step higher than uncommon), giving us a starting value of 2,000 gp.
+***Example:*** As an example, let’s walk through the pricing of the *[[Wondrous Items M–Z#Winged Boots|winged boots]]*. The boots are an uncommon magic item, but it enables flight, which is one of the pricing exceptions listed. So, we start the pricing process as if the *[[Wondrous Items M–Z#Winged Boots|winged boots]]* are a rare magic item (one step higher than uncommon), giving us a starting value of 2,000 gp.
 
 *Permanent Pricing by Rarity*
 
@@ -60,7 +60,9 @@ If the magic item allows you to cast one or more spells, identify the highest-ci
 
 ***Example:*** The *[[Wondrous Items M–Z#Winged Boots|winged boots]]* don’t allow the user to cast any spells or utilize charges, so we don’t need to make any more adjustments. Their final base value is 8,000 gp.
 
-## Player's Guide 2 Items by Rarity
+## Items by Rarity
+
+%% source: Player's Guide 2 (the items and potions from that book only) %%
 
 *Consumable [[Magic Items]]*
 
@@ -83,19 +85,18 @@ If the magic item allows you to cast one or more spells, identify the highest-ci
 
 | d100 | Potion of… | d100 | Potion of… | d100 | Potion of… |
 |---|---|---|---|---|---|
-| 1–4 | Animal Friendship | 39–41 | Courage* | 75–77 | Giant Strength (Fire) |
+| 1–4 | Animal Friendship | 39–41 | Courage | 75–77 | Giant Strength (Fire) |
 | 5–8 | Water Breathing | 42–44 | Greater Healing | 78–80 | Invisibility |
 | 9–11 | Healing | 45–47 | Force Resistance | 81–83 | Radiant Resistance |
 | 12–14 | Climbing | 48–50 | Giant Strength (Frost) | 84–86 | Flying |
 | 15–17 | Clairvoyance | 51–53 | Mind Reading | 87–89 | Necrotic Resistance |
 | 18–20 | Acid Resistance | 54–56 | Lightning Resistance | 90–92 | Growth |
-| 21–23 | Hardiness* | 57–59 | Diminution | 93–95 | Readiness* |
+| 21–23 | Hardiness | 57–59 | Diminution | 93–95 | Readiness |
 | 24–26 | Thunder Resistance | 60–62 | Poison Resistance | 96 | Heroism |
 | 27–29 | Cold Resistance | 63–65 | Giant Strength (Stone) | 97 | Supreme Healing |
-| 30–32 | Knowledge* | 66–68 | Superior Healing | 98 | Speed |
-| 33–35 | Giant Strength (Hill) | 69–71 | Locomotion* | 99 | Giant Strength (Cloud) |
+| 30–32 | Knowledge | 66–68 | Superior Healing | 98 | Speed |
+| 33–35 | Giant Strength (Hill) | 69–71 | Locomotion | 99 | Giant Strength (Cloud) |
 | 36–38 | Fire Resistance | 72–74 | Psychic Resistance | 100 | Roll twice and take the preferred result. |
-| (*) Potions marked with an asterisk appear in this volume. Others appear in the |  |  |  | Player’s Guide. |  |
 
 *Magic Items*
 

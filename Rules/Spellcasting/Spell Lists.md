@@ -208,7 +208,6 @@ Spells and rituals available to each source of magic, by circle, with each spell
 - *[[4th-Circle Spells#Arcane Eye|Arcane Eye]]* (Divination): You manifest a movable and invisible eye that you can look through.
 - *[[4th-Circle Spells#Banishment|Banishment]]* (Abjuration): You banish a creature to another plane for a short while.
 - *[[4th-Circle Spells#Bladed Wings|Bladed Wings]]* (Transmutation): You grow a pair of metallic wings.
-- *[[4th-Circle Spells#Bladed Wings (Labyrinth)|Bladed Wings (Labyrinth)]]* (Transmutation): You grow a pair of metallic wings.
 - *[[4th-Circle Spells#Burning Pitch|Burning Pitch]]* (Evocation): You create a flaming ball of sludge that sticks to its target and creates a noxious cloud.
 - *[[4th-Circle Spells#Compulsion|Compulsion]]* (Enchantment): You compel a creature to move in a direction you choose each round.
 - *[[4th-Circle Spells#Confusion|Confusion]]* (Enchantment): You juggle three nuts, speak nonsense, and befuddle creatures to act in a random way each turn.

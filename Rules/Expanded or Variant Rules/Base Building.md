@@ -59,7 +59,7 @@ If the existing base doesn’t have available unused space to install a given fa
 
 ### Upgrading a Base
 
-Once the PCs have acquired a base, they can make additions or alterations to better fit their lifestyles and can hire staff to help with operations and upkeep. Many of these upgrades grant benefits to the downtime activities associated with that particular upgrade. See the *Game Master’s Guide and* *Player’s Guide* for the rules for downtime activities.
+Once the PCs have acquired a base, they can make additions or alterations to better fit their lifestyles and can hire staff to help with operations and upkeep. Many of these upgrades grant benefits to the downtime activities associated with that particular upgrade. See [[Between Adventures]] for the rules for downtime activities.
 
 There are two types of upgrades: facilities and personnel.
 
@@ -111,7 +111,7 @@ Typically, the price of a facility falls between 500 gp and 1,200 gp.
 
 ***Personnel.*** To determine what, if any, personnel would potentially be associated with the facility, consider the following questions. Does the facility require someone to run it, like a shop or tavern? Does it require a highly skilled individual to operate it, or can it be run by someone with minimal training? Check the existing list of personnel to see if it makes sense for any of those types to be associated with the facility or create your own personnel (see **Personnel**).
 
-***Downtime Activities.*** Consider what downtime activities might be associated with the facility, if any. Is it a place for carousing and socializing? Or is it a space for crafting items of a specific type? Are there any advantages for conducting the downtime activity in the facility? For example, a PC crafting an item in a fully stocked studio has access to materials and tools they likely won’t have on the road, so it is typically quicker and easier for them to craft items in such a space. Similarly, PCs with a ballroom might gain additional carousing benefits by impressing their guests with such a beautiful, opulent space. If there don’t seem to be any suitable downtime activities, don’t worry because they’re not required. For more on downtime activities, see **Between Adventures** in **Chapter 6** of the *Player’s Guide*.
+***Downtime Activities.*** Consider what downtime activities might be associated with the facility, if any. Is it a place for carousing and socializing? Or is it a space for crafting items of a specific type? Are there any advantages for conducting the downtime activity in the facility? For example, a PC crafting an item in a fully stocked studio has access to materials and tools they likely won’t have on the road, so it is typically quicker and easier for them to craft items in such a space. Similarly, PCs with a ballroom might gain additional carousing benefits by impressing their guests with such a beautiful, opulent space. If there don’t seem to be any suitable downtime activities, don’t worry because they’re not required. For more on downtime activities, see [[Between Adventures]].
 
 ***Special Benefits.*** Some facilities, such as the chapel and the infirmary, convey special benefits to PCs who spend time within them. These are rare and often found only in those facilities that have no other mechanical or downtime benefit.
 
@@ -135,7 +135,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 ***Alchemist Tools.*** Creatures are considered to have alchemist tools while in the laboratory. PCs proficient with alchemist tools have advantage on ability checks made with them while within this facility.
 
-***Crafting.*** A PC can use the crafting downtime activity (see *Player’s Guide*) to craft alchemical concoctions in the laboratory. Crafting here is more efficient than at other locations. For each workday spent crafting, a PC or alchemist (see **Personnel**) can craft one item (or multiple items) worth a total of 15 gp. A PC must still cover the costs of required materials and follow other crafting requirements.
+***Crafting.*** A PC can use the [[Between Adventures#Crafting|crafting]] downtime activity to craft alchemical concoctions in the laboratory. Crafting here is more efficient than at other locations. For each workday spent crafting, a PC or alchemist (see **Personnel**) can craft one item (or multiple items) worth a total of 15 gp. A PC must still cover the costs of required materials and follow other crafting requirements.
 
 *Facilities*
 
@@ -174,7 +174,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 **Downtime Activities:** Crafting, Training An apothecary functions similarly to a standard crafting workshop. However, due to the specialty materials required for the crafting of herbal concoctions and potions, and the delicate nature of the work done within, the space must be specially constructed.
 
-***Crafting.*** A PC can use the crafting downtime activity (see *Player’s Guide*) to craft herbal concoctions in the apothecary. Crafting here is more efficient than at other locations. For each workday spent crafting, a PC or herbalist (see **Personnel**) can craft one item (or multiple items) worth a total of 15 gp. A PC must still cover the costs of required materials and follow other crafting requirements.
+***Crafting.*** A PC can use the [[Between Adventures#Crafting|crafting]] downtime activity to craft herbal concoctions in the apothecary. Crafting here is more efficient than at other locations. For each workday spent crafting, a PC or herbalist (see **Personnel**) can craft one item (or multiple items) worth a total of 15 gp. A PC must still cover the costs of required materials and follow other crafting requirements.
 
 ***Herbalist Tools.*** Creatures are considered to have herbalist tools while in the apothecary. PCs proficient with herbalist tools have advantage on ability checks made with them while within this facility.
 
@@ -194,7 +194,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 **Downtime Activities:** Carousing (Upper Class) A ballroom is a vast room with hardwood or marble floors, high ceilings, and beautiful ornamentation. Used for hosting parties, balls, and other large social events, a ballroom typically features a central dance floor, tables for drinks and other refreshments, and an area for musicians, though it can be rearranged to suit the specific needs of a particular event.
 
-***Carousing.*** A PC can spend 1 week of downtime performing the carousing activity (see *Player’s Guide*) with the upper class by hosting events in the ballroom. You don’t need to pay the typical 250 gp cost, and you have advantage on the CHA (Persuasion) check made to determine the carousing resolution result when you spend downtime in this way.
+***Carousing.*** A PC can spend 1 week of downtime performing the [[Between Adventures#Carousing|carousing]] activity with the upper class by hosting events in the ballroom. You don’t need to pay the typical 250 gp cost, and you have advantage on the CHA (Persuasion) check made to determine the carousing resolution result when you spend downtime in this way.
 
 ***Well Appointed.*** If a retained performer or servant (see **Personnel**) is assigned to the ballroom when a PC makes the week’s carousing resolution check, the PC can treat any d20 roll of 9 or less as if they had rolled a 10 on the die.
 
@@ -230,7 +230,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 **Downtime Activities:** None A bathhouse is a room or collection of rooms that hold baths and other spa-like amenities, such as massage tables, steam rooms, and saunas. A standard bathhouse contains one 20-foot-by-20-foot pool or four individual tubs. The bathhouse requires little maintenance, but PCs can hire servants to provide massages or other treatments, serve drinks and food, or act as general attendants to any bathhouse guests.
 
-***Relaxed and Recharged.*** A creature that spends 8 hours (can be done over the course of a long rest) relaxing in a bathhouse is cured of all levels of exhaustion. Alternatively, if a creature is suffering from a multi-day effect caused by a disease, curse, spell, or something similar, such as the penalties caused by the *raise dead spell* *(see Player’s Guide)*, spending 8 hours in the bathhouse reduces the effect as if 2 days have passed (instead of 1).
+***Relaxed and Recharged.*** A creature that spends 8 hours (can be done over the course of a long rest) relaxing in a bathhouse is cured of all levels of exhaustion. Alternatively, if a creature is suffering from a multi-day effect caused by a disease, curse, spell, or something similar, such as the penalties caused by the *[[Rituals 4th–6th Circle#Raise Dead|raise dead]]* spell, spending 8 hours in the bathhouse reduces the effect as if 2 days have passed (instead of 1).
 
 ***Well Appointed.*** If a PC spends at least 1 hour in the bathhouse receiving a massage or other treatment from a retained servant (see **Personnel**), they gain temporary hit points equal to twice their PB. These temporary hit points last until expended or until the PC finishes their next long rest.
 
@@ -248,7 +248,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 **Downtime Activities:** Crafting A brewery is a large space filled with mills, furnaces, wooden barrels, glass jugs, and other heavy-duty equipment for the crafting of ale and beer.
 
-***Crafting.*** A PC proficient with provisioner tools can use the crafting downtime activity (see *Player’s Guide*) to produce barrels of ale or beer here. Due to the time needed to complete the fermenting process, crafting in a brewery requires a minimum time requirement of at least 2 weeks of downtime and other creatures can’t assist to speed up the process. A brewer (see **Personnel**) can also craft barrels for the PCs. Either way, a PC must cover the costs of required materials, in addition to meeting other crafting requirements.
+***Crafting.*** A PC proficient with provisioner tools can use the [[Between Adventures#Crafting|crafting]] downtime activity to produce barrels of ale or beer here. Due to the time needed to complete the fermenting process, crafting in a brewery requires a minimum time requirement of at least 2 weeks of downtime and other creatures can’t assist to speed up the process. A brewer (see **Personnel**) can also craft barrels for the PCs. Either way, a PC must cover the costs of required materials, in addition to meeting other crafting requirements.
 
 ***Rate of Production.*** Due to the large volume of goods produced by a brewery, the required crafting time, amounts produced, and costs are different from the rules governing standard crafting. See the **Batch Brewing** table for these requirements. Note that a brewer can craft multiple barrels at once, making them more efficient than PCs.
 
@@ -289,7 +289,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 | Barrel, Common Ale or Beer or Wine | 50 gallons (or pitchers) | 10 gp (2 sp per pitcher) | 2 weeks |
 | Barrel, Fine Ale or Beer | 50 gallons (or pitchers) | 30 gp (6 sp per pitcher) | 4 weeks |
 
-***Crafting.*** A PC can use the crafting downtime activity (see *Player’s Guide*) to craft meals, rations, and similar provisions in the kitchen. A PC must still cover the costs of required materials and follow other crafting requirements.
+***Crafting.*** A PC can use the [[Between Adventures#Crafting|crafting]] downtime activity to craft meals, rations, and similar provisions in the kitchen. A PC must still cover the costs of required materials and follow other crafting requirements.
 
 ***Meal Prep.*** A PC, proficient with provisioner tools, or a chef (see **Personnel**) can spend 1 hour working in the kitchen to produce up to five exquisite meals. Creatures who consume these meals within an hour of their creation gain temporary hit points equal to twice the creator’s PB. These temporary hit points last until expended or until the target finishes its next long rest.
 
@@ -377,13 +377,13 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 **Downtime Activities:** Crafting, Training A gearworks is a space specifically fitted for working on mechanical contraptions, clockwork devices, and vehicles. It comes with items like a workbench, hand tools, and basic materials.
 
-***Crafting.*** A PC can use the crafting downtime activity (see *Player’s Guide*) to craft or repair mechanical contraptions or other items made with tinker tools. Crafting in the gearworks is more efficient than other locations. For each workday spent crafting, a PC or tinker (see **Personnel**) can craft one item (or multiple items) worth a total of 15 gp. A PC must still cover the costs of required materials and follow other crafting requirements.
+***Crafting.*** A PC can use the [[Between Adventures#Crafting|crafting]] downtime activity to craft or repair mechanical contraptions or other items made with tinker tools. Crafting in the gearworks is more efficient than other locations. For each workday spent crafting, a PC or tinker (see **Personnel**) can craft one item (or multiple items) worth a total of 15 gp. A PC must still cover the costs of required materials and follow other crafting requirements.
 
 ***Tinker Tools.*** Creatures are considered to have tinker tools while in the gearworks. PCs proficient with tinker tools have advantage on ability checks made with them while within this facility.
 
 ***Training.*** A PC performing the training downtime activity to gain proficiency with tinker tools can double their PB when determining the training result for the week. The PC must have daily access to this facility and a skilled and willing instructor to gain this benefit.
 
-***Vehicle Repairs.*** A PC proficient with a vehicle type can more efficiently repair vehicles of that type while in the gearworks. A tinker (see **Personnel**) gains these same benefits while repairing vehicles of any type. When a proficient creature performs a patch job in this facility, the vehicle gains twice the number of temporary hit points. When a proficient creature replaces parts in this facility, the vehicle regains twice the number of hit points per hour spent repairing it. PCs must still provide the required repair cost and abide by other vehicle repair restrictions specified in the *Player’s Guide.*
+***Vehicle Repairs.*** A PC proficient with a vehicle type can more efficiently repair vehicles of that type while in the gearworks. A tinker (see **Personnel**) gains these same benefits while repairing vehicles of any type. When a proficient creature performs a patch job in this facility, the vehicle gains twice the number of temporary hit points. When a proficient creature replaces parts in this facility, the vehicle regains twice the number of hit points per hour spent repairing it. PCs must still provide the required repair cost and abide by other [[Vehicles#Vehicle Repairs|vehicle repair]] restrictions.
 
 #### Guest Quarters
 
@@ -401,7 +401,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 ***Grateful Guests.*** If a creature stays in the guest quarters for at least a night, the PCs gain advantage on CHA checks to interact with that creature for as long as they continue to lodge in the guest quarters.
 
-***Well Appointed.*** If a retained servant (see **Personnel**) is assigned to the guest quarters for at least 1 week while an NPC is staying in the facility, that NPC’s attitude toward the PCs automatically increases by one step (see attitude in either *Game Master’s Guide or Player’s Guide*) at the end of that week. If the visiting NPC already has the maximum positive attitude toward the PCs, the GM can rule that this personal attention earns the PCs a favor (as per the carousing activity) from the NPC or else increases the party’s status with the NPC’s associated faction (as per the status rules in *Game Master’s Guide*).
+***Well Appointed.*** If a retained servant (see **Personnel**) is assigned to the guest quarters for at least 1 week while an NPC is staying in the facility, that NPC’s attitude toward the PCs automatically increases by one step (see [[Encounter Gameplay#Attitude|Attitude]]) at the end of that week. If the visiting NPC already has the maximum positive attitude toward the PCs, the GM can rule that this personal attention earns the PCs a favor (as per the carousing activity) from the NPC or else increases the party’s status with the NPC’s associated faction (as per the status rules in *Game Master’s Guide*).
 
 #### Infirmary
 
@@ -566,7 +566,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 **Downtime Activities:** Carousing (Middle Class) A parlor is a cozy space for hosting intimate gatherings such as afternoon tea or an evening of gaming. It is typically well-appointed with plush chairs and quality furniture and comes with two gaming sets of the PCs’ choice or one musical instrument.
 
-***Carousing.*** A PC can spend 1 week of downtime performing the carousing activity (see *Player’s Guide*) with the middle class by entertaining guests in the parlor. Doing so reduces the week’s cost by 50 percent, and you have advantage on the CHA (Persuasion) check made to determine the carousing resolution result when you spend downtime in this way.
+***Carousing.*** A PC can spend 1 week of downtime performing the [[Between Adventures#Carousing|carousing]] activity with the middle class by entertaining guests in the parlor. Doing so reduces the week’s cost by 50 percent, and you have advantage on the CHA (Persuasion) check made to determine the carousing resolution result when you spend downtime in this way.
 
 ***Gaming Set.*** Creatures are considered to have gaming sets (cards, dice, and board games) while in the parlor. PCs proficient with a type of gaming set have advantage on ability checks made with that set while within this facility.
 
@@ -592,10 +592,10 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 | Cost | Time | Upgrade |
 |---|---|---|
-| 600 gp | 1 day | One cell is permanently affected by the alarm spell (see Player’s Guide). Choose which PC is bound to the spell when it is cast. |
-| 2,500 gp | 2 days | One cell door is permanently affected by the arcane lock spell (see Player’s Guide). Choose which creatures can freely open the door or determine the password when the spell is cast. If the cell door is reduced to 0 HP or otherwise permanently destroyed, this upgrade is lost forever. |
-| 6,750 gp | 3 days | One cell (and everything within it) is affected by the nondetection spell (see Player’s Guide). |
-| 14,000 gp + arcanist | 365 days | One cell is permanently affected by the private sanctum spell (see Player’s Guide). |
+| 600 gp | 1 day | One cell is permanently affected by the *[[Rituals 1st–3rd Circle#Alarm\|alarm]]* spell. Choose which PC is bound to the spell when it is cast. |
+| 2,500 gp | 2 days | One cell door is permanently affected by the *[[Rituals 1st–3rd Circle#Arcane Lock\|arcane lock]]* spell. Choose which creatures can freely open the door or determine the password when the spell is cast. If the cell door is reduced to 0 HP or otherwise permanently destroyed, this upgrade is lost forever. |
+| 6,750 gp | 3 days | One cell (and everything within it) is affected by the *[[3rd-Circle Spells#Nondetection\|nondetection]]* spell. |
+| 14,000 gp + arcanist | 365 days | One cell is permanently affected by the *[[Rituals 4th–6th Circle#Private Sanctum\|private sanctum]]* spell. |
 | monthly costs* |  |  |
 | (*) See Personnel. |  |  |
 
@@ -617,7 +617,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 ***Artist Tools.*** Creatures are considered to have artist tools while in the scriptorium. PCs proficient with artist tools have advantage on ability checks made with them while within this facility.
 
-***Crafting.*** A PC can use the crafting downtime activity (see *Player’s Guide*) to craft books, illuminated manuscripts, legal documents, and similar items in the scriptorium. Crafting such items here is more efficient than other locations. For each workday spent crafting, a PC or artisan (see **Personnel**) can craft one item (or multiple items) worth a total of 15 gp. A PC must still cover the costs of required materials and follow other crafting requirements (even if an artisan is producing the items).
+***Crafting.*** A PC can use the [[Between Adventures#Crafting|crafting]] downtime activity to craft books, illuminated manuscripts, legal documents, and similar items in the scriptorium. Crafting such items here is more efficient than other locations. For each workday spent crafting, a PC or artisan (see **Personnel**) can craft one item (or multiple items) worth a total of 15 gp. A PC must still cover the costs of required materials and follow other crafting requirements (even if an artisan is producing the items).
 
 ***Scroll Making.*** If allowed by the GM, a PC can use the scroll making downtime activity (see *Game Master’s Guide*) to craft magical *spell scrolls* in the scriptorium. A PC must still cover the required costs, abide by level restrictions, and follow the other scroll making requirements. Alternatively, the PCs can have a retained arcanist (see **Personnel**) spend time making *spell scrolls they* request. An arcanist making scrolls in this way doesn’t roll to determine the time it takes to craft each scroll. Instead, they automatically take the maximum number of days or weeks required to make a scroll of the requested spell circle. PCs must still pay the required material costs for scrolls crafted by the arcanist, and the highest-circle (and therefore rarity) item an arcanist can create is restricted, as described in the **Personnel** section.
 
@@ -653,13 +653,13 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 **Personnel:** Shopkeep
 
-**Downtime Activities:** Working A shopfront is a small store that the PCs can use to sell items they produce at their base or that they find on their adventures. Examples of merchandise include produce grown in their garden, items crafted in their studio, or armaments made in their smithy. Standard pricing for such items can be found in the *Player’s Guide*.
+**Downtime Activities:** Working A shopfront is a small store that the PCs can use to sell items they produce at their base or that they find on their adventures. Examples of merchandise include produce grown in their garden, items crafted in their studio, or armaments made in their smithy. Standard pricing for such items can be found under [[Equipment]].
 
 ***Operation.*** The shopfront requires little maintenance but can only be operated by a PC or a shopkeep (see **Personnel**). If no one is there to operate the shopfront, it brings in no revenue during that time.
 
 ***Shop Revenue.*** Since the shopfront sells what the base provides, the amount of money made will depend on the types of goods sold. To simplify, at the end of each week of operation, roll on the **Shop Business** table to determine the customer traffic the shop saw that week and the percentage of goods sold. If a shopkeep is operating the store (as opposed to a PC), roll two d20s and choose the higher result to determine percentage of goods sold that week. Other factors might influence the revenue earned (GM’s discretion), including the economy of the surrounding area, demand for the shop’s items, and the PCs’ reputation.
 
-***Working.*** A PC can spend a week or more of downtime performing the working activity (see *Player’s Guide*) operating or assisting in the operation of the shop. A PC that does so makes resolution checks and receives benefits as described in the activity.
+***Working.*** A PC can spend a week or more of downtime performing the [[Between Adventures#Working|working]] activity operating or assisting in the operation of the shop. A PC that does so makes resolution checks and receives benefits as described in the activity.
 
 *Shop Business*
 
@@ -685,7 +685,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 **Downtime Activities:** Carousing (Lower Class), Criminal Enterprise, Training A skulk is a haven for assassins, thieves, and other ne’er-do-wells from the underbelly of society. Usually carefully hidden, it might be built in a forgotten wine cellar, abandoned cistern, blocked-off sewer wing, or unused warehouse. It often has multiple exits, so its occupants can scatter if the authorities unexpectedly appear. Rogues and those with connections to the criminal underworld might find a skulk to be particularly appealing, allowing them to gather like-minded folks in one place and strengthen their influence within those particular groups. The space might be equipped with cots or bedrolls for those who need to lie low, tables and other seating for plotting, or secure storage for stashing valuables. The entrance might be hidden beneath a rug or behind stacks of crates, nestled deep within the base where no guests have access, or even disguised as an entrance to something else entirely. A hidden or disguised door requires a successful DC 25 INT (Investigation) or WIS (Perception) to discover or correctly identify.
 
-***Carousing.*** A PC can spend 1 week of downtime performing the carousing activity (see *Player’s Guide*) with the lower class by entertaining guests in the skulk. Doing so reduces the week’s cost by 50 percent, and you have advantage on the CHA (Persuasion) check made to determine the carousing resolution result when you spend downtime in this way.
+***Carousing.*** A PC can spend 1 week of downtime performing the [[Between Adventures#Carousing|carousing]] activity with the lower class by entertaining guests in the skulk. Doing so reduces the week’s cost by 50 percent, and you have advantage on the CHA (Persuasion) check made to determine the carousing resolution result when you spend downtime in this way.
 
 ***Criminal Enterprise.*** A PC can spend downtime to perform the criminal enterprise activity (see **Downtime Expanded** in this chapter), planning a criminal operation in the skulk for 1 week. Doing so reduces the week’s cost by 50 percent. The skulk is also always considered an eligible location to spend Infamy points or arrange introductions with criminal contacts.
 
@@ -713,7 +713,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 **Downtime Activities:** Crafting A smithy is an area built to work and smelt metals to craft a variety of items, from horseshoes to weapons. This workshop typically includes a forge, anvil, quenching trough, and other equipment necessary for the work.
 
-***Crafting.*** A PC can use the crafting downtime activity (see *Player’s Guide*) to craft weapons, armor, and similar forged items in the smithy. Crafting such items here is more efficient than other locations. For each workday spent crafting, a PC or smith (see **Personnel**) can craft one item (or multiple items) worth a total of 15 gp. A PC must cover the costs of required materials and follow other crafting requirements (even if a smith is producing the items).
+***Crafting.*** A PC can use the [[Between Adventures#Crafting|crafting]] downtime activity to craft weapons, armor, and similar forged items in the smithy. Crafting such items here is more efficient than other locations. For each workday spent crafting, a PC or smith (see **Personnel**) can craft one item (or multiple items) worth a total of 15 gp. A PC must cover the costs of required materials and follow other crafting requirements (even if a smith is producing the items).
 
 ***Smithing Tools.*** Creatures are considered to have smithing tools while in the smithy. PCs proficient with smithing tools have advantage on ability checks made with smithing tools while within this facility.
 
@@ -770,7 +770,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 - **Trapper.** A trapper workshop is a space specifically fitted for leatherworking, taxidermy, or trap-making, and it includes one set of trapper tools.
 
-***Crafting.*** A PC can use the crafting downtime activity (see *Player’s Guide*) to craft items relevant to the type of studio (chosen when it is first built). Crafting such items here is more efficient than other locations. For each workday spent crafting, a PC or artisan of the appropriate type (see **Personnel**) can craft one item (or multiple items) worth a total of 15 gp. A PC must still cover the costs of required materials and follow other crafting requirements (even if an artisan is producing the items).
+***Crafting.*** A PC can use the [[Between Adventures#Crafting|crafting]] downtime activity to craft items relevant to the type of studio (chosen when it is first built). Crafting such items here is more efficient than other locations. For each workday spent crafting, a PC or artisan of the appropriate type (see **Personnel**) can craft one item (or multiple items) worth a total of 15 gp. A PC must still cover the costs of required materials and follow other crafting requirements (even if an artisan is producing the items).
 
 ***Tools.*** Creatures are considered to have tools matching the studio’s type while in the studio. PCs proficient with the studio’s associated tools have advantage on ability checks made with them while within this facility.
 
@@ -790,13 +790,13 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 **Downtime Activities:** Carousing (Lower Class, Middle Class), Working A tavern is typically a cozy establishment where locals and travelers alike can stop in for a warm meal and a flagon of ale. They often serve as a social center for a community, where folks go to socialize after hours, to enjoy traveling performers, or to make business deals of varying legality.
 
-***Carousing.*** A PC can spend 1 week of downtime performing the carousing activity (see *Player’s Guide*) with members of the lower or middle class by spending time with its patrons. Doing so reduces the week’s cost by 50 percent, and you have advantage on the CHA (Persuasion) check made to determine the carousing resolution result when you spend downtime in this way. Note that a PC can’t carouse and work in the tavern during the same week.
+***Carousing.*** A PC can spend 1 week of downtime performing the [[Between Adventures#Carousing|carousing]] activity with members of the lower or middle class by spending time with its patrons. Doing so reduces the week’s cost by 50 percent, and you have advantage on the CHA (Persuasion) check made to determine the carousing resolution result when you spend downtime in this way. Note that a PC can’t carouse and work in the tavern during the same week.
 
 ***Operation.*** The tavern requires at least two dedicated individuals to operate each week. These staffing needs can be met by at least two PCs or by a retained shopkeep and servant (see **Personnel**). In addition to these staffing requirements, a tavern can only serve fine fare if either an additional PC, proficient with provisioner tools, or retained chef (see **Personnel**) spends the week working in the tavern. If the minimum staffing requirements aren’t met, the tavern can’t be used for carousing and brings in no revenue during that time.
 
 ***Tavern Revenue.*** Rather than calculating the expense versus income minutia for operating a tavern, use the following rules to simplify the process. At the end of each week of operation, roll on the **Tavern Revenue** table to determine overall profit for the week. This role can be positively influenced by hiring additional help. For each additional PC, retained servant, or retained performer beyond the minimum staff required to operate the tavern, add +2 to the week’s tavern revenue result. Other factors might influence the revenue earned (GM’s discretion), including the economy of the surrounding area and the PCs’ reputation with the locals.
 
-***Working.*** A PC can spend a week or more of downtime performing the working activity (see *Player’s Guide*) to operate or assist in the operation of the tavern. A PC that does so makes resolution checks and receives benefits as described in the activity.
+***Working.*** A PC can spend a week or more of downtime performing the [[Between Adventures#Working|working]] activity to operate or assist in the operation of the tavern. A PC that does so makes resolution checks and receives benefits as described in the activity.
 
 *Tavern Revenue*
 
@@ -827,13 +827,13 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 > The PCs’ reputation in the region surrounding their base can have an impact on the money they make from their various businesses, such as a tavern or theater. If their reputation is particularly poor or especially stellar, the GM might decide to impose disadvantage or advantage on the ability check made to determine the business’s revenue for a given time period. Similarly, the establishment’s reputation might impact the abundance and type of clientele. Constant bar fights, for example, will dissuade some folks and attract a more unsavory element.
 >
 
-***Carousing.*** A PC can spend 1 week of downtime performing the carousing activity (see *Player’s Guide*) with members of the middle or upper class by hosting performances. You don’t need to pay the typical weekly cost, and you have advantage on the CHA (Persuasion) check made to determine the carousing resolution result when you spend downtime in this way.
+***Carousing.*** A PC can spend 1 week of downtime performing the [[Between Adventures#Carousing|carousing]] activity with members of the middle or upper class by hosting performances. You don’t need to pay the typical weekly cost, and you have advantage on the CHA (Persuasion) check made to determine the carousing resolution result when you spend downtime in this way.
 
 ***Operation.*** The theater can only operate if the PCs are running it. However, if they hire an entertainer (see **Personnel**), shows can run even when the PCs are off on adventures. Other than the personnel costs, there is very little overhead to maintain the theater, and the PCs can sell tickets to shows to earn revenue. Ticket prices can vary from as little as a few copper to hundreds of gold, depending on the PCs’ pricing, the intended audience, and the demand for the show. Some recommended prices for tickets are listed in the **Theater Ticket Prices** table.
 
 ***Well Appointed.*** If a retained performer (see **Personnel**) is assigned to the theater when a PC makes the week’s carousing resolution check, the PC can treat any d20 roll of 9 or less as if they had rolled a 10 on the die.
 
-***Working.*** A PC can spend a week or more of downtime performing the working activity (see *Player’s Guide*) to operate or assist in the operation of the theater. A PC that does so makes resolution checks and receives benefits as described in the activity.
+***Working.*** A PC can spend a week or more of downtime performing the [[Between Adventures#Working|working]] activity to operate or assist in the operation of the theater. A PC that does so makes resolution checks and receives benefits as described in the activity.
 
 *Theater Ticket Prices*
 
@@ -903,16 +903,16 @@ Unless specified otherwise, all types of personnel follow certain general rules.
 
 ***Assignment.*** At the start of each week, you can assign which facility each retained member will work in for that week. If you don’t change an individual’s assignment, they remain assigned to their previously assigned facility. As long as a member is assigned to a facility, you can safely assume they are available whenever you need them to conduct a specific activity within that facility—so you don’t need to track or plan hour-by-hour activity. However, in situations where counting hours per day or days per week matters, personnel work at the same pace as a PC would, using downtime rules. You can’t force anyone to work either more than 8 hours a day or more than 5 days a week.
 
-***Crafting Costs.*** Many types of personnel can craft items requested by the PCs. Whenever they create, modify, or repair something, the PCs must still pay the required monetary costs. This rule must always be followed regardless of item type, circumstances, or whether the item is magical or nonmagical. The personnel never pay for material costs or any other required gold. In almost all cases, the required costs to make an item can be found in the associated downtime activity rules, like the crafting activity description in the Player’s Guide.
+***Crafting Costs.*** Many types of personnel can craft items requested by the PCs. Whenever they create, modify, or repair something, the PCs must still pay the required monetary costs. This rule must always be followed regardless of item type, circumstances, or whether the item is magical or nonmagical. The personnel never pay for material costs or any other required gold. In almost all cases, the required costs to make an item can be found in the associated downtime activity rules, like the [[Between Adventures#Crafting|crafting]] activity description.
 
 *Magic Upgrades*
 
 | Cost | Time | Upgrade |
 |---|---|---|
-| 600 gp | 1 day | The vault is permanently affected by the alarm spell (see Player’s Guide). Choose which PC is bound to the spell when it is cast. |
-| 2,500 gp | 2 days | The vault door is permanently affected by the arcane lock spell (see Player’s Guide). Choose which creatures can freely open the door or determine the password when the spell is cast. If the vault door is reduced to 0 HP or otherwise permanently destroyed, this upgrade is lost forever. |
-| 6,750 gp | 3 days | The vault (and everything within it) is affected by the nondetection spell (see Player’s Guide). |
-| 14,000 gp + arcanist | 365 days | The vault is permanently affected by the private sanctum spell (see Player’s Guide). |
+| 600 gp | 1 day | The vault is permanently affected by the *[[Rituals 1st–3rd Circle#Alarm\|alarm]]* spell. Choose which PC is bound to the spell when it is cast. |
+| 2,500 gp | 2 days | The vault door is permanently affected by the *[[Rituals 1st–3rd Circle#Arcane Lock\|arcane lock]]* spell. Choose which creatures can freely open the door or determine the password when the spell is cast. If the vault door is reduced to 0 HP or otherwise permanently destroyed, this upgrade is lost forever. |
+| 6,750 gp | 3 days | The vault (and everything within it) is affected by the *[[3rd-Circle Spells#Nondetection\|nondetection]]* spell. |
+| 14,000 gp + arcanist | 365 days | The vault is permanently affected by the *[[Rituals 4th–6th Circle#Private Sanctum\|private sanctum]]* spell. |
 | monthly costs* |  |  |
 | (*) See Personnel. |  |  |
 
@@ -975,9 +975,9 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 **Cost:** 50 gp An academic has spent years studying in a particular field. They are a font of knowledge on their chosen subject and are able to help dig up information on any other topic the PCs might inquire about. They can also instruct others on their topic and might hold classes or lectures for those interested.
 
-***Researching.*** An academic can assist a PC conducting research, as detailed in the researching activity description (see *Player’s Guide*). If assigned to a library (see **Facilities**), an academic can also independently conduct research on topics requested by the PCs.
+***Researching.*** An academic can assist a PC conducting research, as detailed in the [[Between Adventures#Researching|researching]] activity description. If assigned to a library (see **Facilities**), an academic can also independently conduct research on topics requested by the PCs.
 
-***Training.*** A retained academic counts as a willing instructor for PCs using the training downtime activity (see *Player’s Guide*) to learn a new language (standard or esoteric) or gain proficiency in the Arcana, History, Nature, or Religion skills.
+***Training.*** A retained academic counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to learn a new language (standard or esoteric) or gain proficiency in the Arcana, History, Nature, or Religion skills.
 
 #### Agent
 
@@ -987,9 +987,9 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 **Cost:** 1,200 gp An agent works on behalf of the PCs, collecting intel and covertly handling troublesome individuals as needed. However, PCs should be cautious when sending an agent to engage in criminal activity, for if caught, there’s a chance their involvement will be revealed. An agent uses the **spy** stat block **(see** *Monster Vault***)** and is proficient with thieves’ tools.
 
-***Gather Information.*** You can assign a retained agent to spend a week or more gathering intelligence on a specific individual or organization. At the end of each week spent in this way, the PCs gain one clue (see researching in the *Player’s Guide*) about the target or two clues if using an upgraded agent. If the agent’s target is geographically distant from the PCs’ base, the GM might require a minimum number of weeks to factor in travel time, which doesn’t earn clues.
+***Gather Information.*** You can assign a retained agent to spend a week or more gathering intelligence on a specific individual or organization. At the end of each week spent in this way, the PCs gain one clue (see [[Between Adventures#Researching|researching]]) about the target or two clues if using an upgraded agent. If the agent’s target is geographically distant from the PCs’ base, the GM might require a minimum number of weeks to factor in travel time, which doesn’t earn clues.
 
-***Training.*** A retained agent counts as a willing instructor for PCs using the training downtime activity (see *Player’s* *Guide*) to gain proficiency with thieves’ tools or in the Deception, Insight, Sleight of Hand, or Stealth skills.
+***Training.*** A retained agent counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency with thieves’ tools or in the Deception, Insight, Sleight of Hand, or Stealth skills.
 
 ***Upgrade.*** The PCs can upgrade the agent as per the **Agent Upgrade** table.
 
@@ -1008,11 +1008,11 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 **Cost:** 50 gp An alchemist is a professional crafter of alchemical concoctions and magical consumables.
 
-***Crafting.*** An alchemist can assist a PC in crafting alchemical concoctions, as detailed in the crafting activity description (see *Player’s Guide*). If assigned to an alchemical laboratory (see **Facilities**), an alchemist can also independently craft alchemical concoctions requested by the PCs.
+***Crafting.*** An alchemist can assist a PC in crafting alchemical concoctions, as detailed in the [[Between Adventures#Crafting|crafting]] activity description. If assigned to an alchemical laboratory (see **Facilities**), an alchemist can also independently craft alchemical concoctions requested by the PCs.
 
-***Potion Brewing.*** If allowed by the GM and assigned to an alchemical laboratory (see **Facilities**), an alchemist can use the potion brewing downtime activity (see *Game* *Master’s Guide*) to craft consumable magic items (except for *spell scrolls*) requested by the PCs. The highest rarity of consumable an alchemist can craft is listed in the **Alchemist Upgrade** table.
+***Potion Brewing.*** If allowed by the GM and assigned to an alchemical laboratory (see **Facilities**), an alchemist can use the potion brewing downtime activity (see *Game Master’s Guide*) to craft consumable magic items (except for *spell scrolls*) requested by the PCs. The highest rarity of consumable an alchemist can craft is listed in the **Alchemist Upgrade** table.
 
-***Training.*** A retained alchemist counts as a willing instructor for PCs using the training downtime activity (see *Player’s Guide*) to gain proficiency with alchemist tools.
+***Training.*** A retained alchemist counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency with alchemist tools.
 
 ***Upgrade.*** The PCs can upgrade the alchemist as per the **Alchemist Upgrade** table.
 
@@ -1036,7 +1036,7 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 ***Scroll Making.*** If allowed by the GM and assigned to a scriptorium (see **Facilities**), an arcanist can use the scroll making downtime activity (see *Game Master’s Guide*) to craft *spell scrolls* requested by the PCs. The spells an arcanist can make into scrolls are determined by their chosen source, and the highest circle of *[[Wondrous Items A–L#Spell Scroll|spell scroll]]* they can craft is listed in the **Arcanist Upgrade** table. Note that arcanists can craft scrolls from standard spells or ritual spells.
 
-***Training.*** A retained arcanist counts as a willing instructor for PCs using the training downtime activity (see *Player’s Guide*) to gain proficiency in the Arcana skill or learn a magic talent.
+***Training.*** A retained arcanist counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency in the Arcana skill or learn a magic talent.
 
 ***Upgrade.*** The PCs can upgrade the arcanist as per the **Arcanist Upgrade** table.
 
@@ -1056,7 +1056,7 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 **Cost:** 50 gp Artisan is a general term for a professional who crafts items relevant to their specific discipline. When you first hire an artisan, you must decide their specific disciple, which determines what kinds of items they create, what tools they use, and which facilities are required to retain them, as shown in the **Artisan Discipline** table. A retained artisan can work up to 8 hours a day, 5 days a week. Artisans can only craft (or assist in the crafting of) items associated with the tools of their chosen discipline.
 
-***Crafting.*** An artisan can assist a PC crafting art objects or other items associated with their particular discipline, as detailed in the crafting activity description (see *Player’s* *Guide*). If assigned to a studio that matches their discipline (see **Facilities**), an artisan can also independently craft items requested by the PCs.
+***Crafting.*** An artisan can assist a PC crafting art objects or other items associated with their particular discipline, as detailed in the [[Between Adventures#Crafting|crafting]] activity description. If assigned to a studio that matches their discipline (see **Facilities**), an artisan can also independently craft items requested by the PCs.
 
 *Artisan Discipline*
 
@@ -1067,7 +1067,7 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 | Construction | Carpenter, Cartwright, Mason | Construction Tools | Studio |
 | Trapper | Cordwainer, Tanner, Taxidermist | Trapper Tools | Studio |
 
-***Training.*** A retained artisan counts as a willing instructor for PCs using the training downtime activity (see *Player’s* *Guide*) to gain proficiency with the tool of the artisan’s associated type.
+***Training.*** A retained artisan counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency with the tool of the artisan’s associated type.
 
 #### Brewer
 
@@ -1097,9 +1097,9 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 **Cost:** 50 gp A chef is a skilled cook, able to craft delicious meals out of even the most subpar of ingredients. They know how to run a large-scale kitchen, are adept at planning for banquets and other events, and can keep up with the fast-paced demands of a tavern.
 
-***Crafting.*** A chef can assist a PC crafting nonmagical consumables—primarily food, beverages, or rations—as detailed in the crafting activity description (see *Player’s* *Guide*). If assigned to a chef’s kitchen (see **Facilities**), a chef can also independently craft items requested by the PCs.
+***Crafting.*** A chef can assist a PC crafting nonmagical consumables—primarily food, beverages, or rations—as detailed in the [[Between Adventures#Crafting|crafting]] activity description. If assigned to a chef’s kitchen (see **Facilities**), a chef can also independently craft items requested by the PCs.
 
-***Training.*** A retained chef counts as a willing instructor for PCs using the training downtime activity (see *Player’s Guide*) to gain proficiency with provisioner tools.
+***Training.*** A retained chef counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency with provisioner tools.
 
 #### Enchanter
 
@@ -1109,9 +1109,9 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 **Cost:** 100 gp An enchanter is a master of magical artifice, combining the skills of a craftsperson with the ability to channel magical power into objects.
 
-***Crafting Magic Items (Enchanted Only).*** If allowed by the GM and assigned to a mystic foundry (see **Facilities**), an enchanter can use the crafting magic items downtime activity (see *Game Master’s Guide*) to craft permanent magic items specifically from the enchanted category. The highest combination of enchanting bonus (or bonus equivalent) and rarity of enchanted magic item an enchanter can craft is listed in the **Enchanter Upgrade** table. For more information on determining what qualifies as an enchanted magic item, see the **Magic Item** section of the *Player’s Guide.*
+***Crafting Magic Items (Enchanted Only).*** If allowed by the GM and assigned to a mystic foundry (see **Facilities**), an enchanter can use the crafting magic items downtime activity (see *Game Master’s Guide*) to craft permanent magic items specifically from the enchanted category. The highest combination of enchanting bonus (or bonus equivalent) and rarity of enchanted magic item an enchanter can craft is listed in the **Enchanter Upgrade** table. For more information on determining what qualifies as an enchanted magic item, see [[Using Magic Items]].
 
-***Training.*** A retained enchanter counts as a willing instructor for PCs using the training downtime activity (see *Player’s Guide*) to gain proficiency with smithing tools or with the Arcana skill.
+***Training.*** A retained enchanter counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency with smithing tools or with the Arcana skill.
 
 ***Upgrade.*** The PCs can upgrade the enchanter as per the **Enchanter Upgrade** table.
 
@@ -1134,7 +1134,7 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 ***Battlefield Leader.*** If a retained guard captain goes into battle with any retained soldiers, those soldiers automatically gain 10 temporary hit points when initiative is rolled. As long as the guard captain remains alive, any retained soldiers reduced to 0 HP aren’t automatically slain but instead remain stable at 0 HP for up to 1 hour, as long as they don’t take additional damage. If a soldier doesn’t receive nonmagical or magical medical care before the end of that hour, they die as normal.
 
-***Training.*** A retained guard captain assigned to a training yard counts as a willing instructor for PCs using the training downtime activity (see *Player’s Guide*) to gain proficiency with a type or armor or weapon, with a martial talent, or with the Athletics skill.
+***Training.*** A retained guard captain assigned to a training yard counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency with a type or armor or weapon, with a martial talent, or with the Athletics skill.
 
 #### Handler
 
@@ -1146,7 +1146,7 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 ***Creature Training.*** A retained handler assigned to a kennel, mews, or stable facility (see **Facilities**) can spend a minimum of 4 weeks performing creature training with one creature stabled in the facility. A handler training a creature in this way doesn’t make resolution checks. Instead, they automatically succeed at teaching the creature the chosen training benefit after spending a number of consecutive weeks with that creature equal to twice the creature’s PB (minimum of 4 weeks). A handler must abide by other training restrictions described in the **Creature Training** section of this chapter.
 
-***Training.*** A retained handler counts as a willing instructor for PCs using the training downtime activity (see *Player’s* *Guide*) to gain proficiency in the Animal Handling skill.
+***Training.*** A retained handler counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency in the Animal Handling skill.
 
 #### Healer
 
@@ -1164,7 +1164,7 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 - The progress of any diseases affecting a creature is halted while it remains within the infirmary under the healer’s care (though this does not cure the disease outright).
 
-***Training.*** A retained healer counts as a willing instructor for PCs using the training downtime activity (see *Player’s* *Guide*) to gain proficiency in the Medicine skill.
+***Training.*** A retained healer counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency in the Medicine skill.
 
 #### Herbalist
 
@@ -1174,13 +1174,13 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 **Cost:** 50 gp An herbalist is skilled in the practical applications of herbs and other botanicals for medicinal effects.
 
-***Crafting.*** An herbalist can assist a PC crafting herbal concoctions, as detailed in the crafting activity description (see *Player’s Guide*). If assigned to an apothecary (see **Facilities**), an herbalist can also independently craft herbal concoctions requested by the PCs. However, a standard herbalist refuses to craft or assist in the crafting of poisons.
+***Crafting.*** An herbalist can assist a PC crafting herbal concoctions, as detailed in the [[Between Adventures#Crafting|crafting]] activity description. If assigned to an apothecary (see **Facilities**), an herbalist can also independently craft herbal concoctions requested by the PCs. However, a standard herbalist refuses to craft or assist in the crafting of poisons.
 
 ***Poisoner.*** Due to the dangerous and highly illegal nature of poisons, a standard herbalist is unwilling to craft poisons or to assist PCs in their crafting. However, PCs can pay a higher monthly fee to retain a poisoner—a discrete individual willing to work with poisons (in addition to standard herbal concoctions). For a robust list of poisons, see the *Game Master’s Guide. The PCs might have to make a*
 
 *contact or call in a favor before locating a poisoner willing to work for them (GM’s discretion).*
 
-***Training.*** A retained herbalist counts as a willing instructor for PCs using the training downtime activity (see *Player’s Guide*) to gain proficiency with herbalist tools.
+***Training.*** A retained herbalist counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency with herbalist tools.
 
 ***Upgrade.*** The PCs can upgrade the herbalist as per the **Herbalist Upgrade** table.
 
@@ -1201,7 +1201,7 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 If the retained performer is the leader of such an ensemble, such as the leader of a theatrical troupe, a team of journeyman acrobats, or a quartet conductor, assume the retained entertainer dispenses their standard monthly rate equally between the performers without additional monthly costs to the PCs.
 
-***Training.*** A retained performer counts as a willing instructor for PCs using the training downtime activity (see *Player’s Guide*) to gain proficiency with a charlatan kit, with a musical instrument, or with the Deception, Insight, or Performance skills.
+***Training.*** A retained performer counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency with a charlatan kit, with a musical instrument, or with the Deception, Insight, or Performance skills.
 
 #### Seneschal
 
@@ -1211,9 +1211,9 @@ If the retained performer is the leader of such an ensemble, such as the leader 
 
 **Cost:** 100 gp A seneschal serves as the primary organizer of the household, particularly in the PCs’ absence. They handle the logistics of the base, direct the servants and other personnel, see to any guests that arrive unexpectedly, order necessary supplies, and otherwise make sure the gears of the base are well-oiled and running smoothly. A good seneschal is worth their weight in gold, and savvy PCs make sure their seneschal is empowered to act on their behalf.
 
-***Training.*** A retained seneschal counts as a willing instructor for PCs using the training downtime activity (see *Player’s Guide*) to gain proficiency in the Insight or Persuasion skills.
+***Training.*** A retained seneschal counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency in the Insight or Persuasion skills.
 
-***Unwavering Authority.*** The seneschal is confident in their command over the household and its personnel. Once per day, they can attempt to command up to 10 creatures they can see, as per the *[[1st-Circle Spells#Command|command]]* spell (DC 15, see *Player’s Guide*) except individuals need not all receive the same command.
+***Unwavering Authority.*** The seneschal is confident in their command over the household and its personnel. Once per day, they can attempt to command up to 10 creatures they can see, as per the *[[1st-Circle Spells#Command|command]]* spell (DC 15) except individuals need not all receive the same command.
 
 #### Servant
 
@@ -1223,7 +1223,7 @@ If the retained performer is the leader of such an ensemble, such as the leader 
 
 **Cost:** 5 gp Servants are skilled at handling the needs of a household, including cleaning, serving meals, and cooking basic fare. They know the proper etiquette for most social situations and are adept at being unobtrusive to the point of being almost unseen.
 
-***Ear for Gossip.*** When a servant spends at least 1 hour attending to an event, such as a formal dinner, ball, or parlor games, roll a d20. On a result of 15 or higher, the servant overheard a juicy piece of gossip or useful information that counts as a clue, as per the researching downtime activity (see *Player’s Guide*).
+***Ear for Gossip.*** When a servant spends at least 1 hour attending to an event, such as a formal dinner, ball, or parlor games, roll a d20. On a result of 15 or higher, the servant overheard a juicy piece of gossip or useful information that counts as a clue, as per the [[Between Adventures#Researching|researching]] downtime activity.
 
 #### Shopkeep
 
@@ -1247,7 +1247,7 @@ If the retained performer is the leader of such an ensemble, such as the leader 
 
 - **Weapon.** For the next 30 days, whenever a PC deals bludgeoning, piercing, or slashing damage with the weapon, it deals additional damage equal to the wielder’s PB.
 
-***Training.*** A retained smith counts as a willing instructor for PCs using the training downtime activity (see *Player’s* *Guide*) to gain proficiency with smithing or trapper tools.
+***Training.*** A retained smith counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency with smithing or trapper tools.
 
 #### Soldier
 
@@ -1275,11 +1275,11 @@ If the retained performer is the leader of such an ensemble, such as the leader 
 
 **Cost:** 50 gp A tinker is a jack-of-all trades craftsperson, skilled at building and repairing mechanical devices and vehicles.
 
-***Crafting.*** A tinker can assist a PC in crafting mechanisms or adventuring gear that defies clear categorization, as detailed in the crafting activity description (see *Player’s* *Guide*). If assigned to a gearworks (see **Facilities**), a tinker can also independently craft items requested by the PCs.
+***Crafting.*** A tinker can assist a PC in crafting mechanisms or adventuring gear that defies clear categorization, as detailed in the [[Between Adventures#Crafting|crafting]] activity description. If assigned to a gearworks (see **Facilities**), a tinker can also independently craft items requested by the PCs.
 
-***Training.*** A retained tinker counts as a willing instructor for PCs using the training downtime activity (see *Player’s* *Guide*) to gain proficiency with tinker tools or with any type of vehicle.
+***Training.*** A retained tinker counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency with tinker tools or with any type of vehicle.
 
-***Vehicle Repairs.*** A retained tinker assigned to a gearworks can perform vehicle repairs on vehicles of any type (see **Vehicle Repairs** in the *Player’s Guide).*
+***Vehicle Repairs.*** A retained tinker assigned to a gearworks can perform vehicle repairs on vehicles of any type (see [[Vehicles#Vehicle Repairs|Vehicle Repairs]]).*
 
 ## Mysteries
 
@@ -1356,11 +1356,11 @@ This mystery might be an overgrown cemetery or mausoleum, an unmarked grave, or 
 
 #### Immortal Prisoner
 
-There is a prisoner hidden away somewhere in the base or on the grounds. This might be a vampire, locked in a mausoleum. Or a noble or royal, under the effects of the *[[7th-Circle Spells#Sequester|sequester]]* spell (see *Player’s Guide*), which might have been broken accidentally by the PCs. Or an infamous villain of lore, subjected to the *[[Rituals 7th–9th Circle#Imprisonment|imprisonment]]* spell (see *Player’s* *Guide*) and then lost to memory. The GM should determine who this individual is, what circumstances led to their imprisonment, and what must be done to free them, if anything can be done.
+There is a prisoner hidden away somewhere in the base or on the grounds. This might be a vampire, locked in a mausoleum. Or a noble or royal, under the effects of the *[[7th-Circle Spells#Sequester|sequester]]* spell, which might have been broken accidentally by the PCs. Or an infamous villain of lore, subjected to the *[[Rituals 7th–9th Circle#Imprisonment|imprisonment]]* spell and then lost to memory. The GM should determine who this individual is, what circumstances led to their imprisonment, and what must be done to free them, if anything can be done.
 
 #### Locked Journal
 
-This journal’s appearance is up to the GM. For example, it might be small and unassuming, or it might be made of rich leather and embossed with strange glyphs. Whatever its appearance, it is warded with a modified *[[Rituals 1st–3rd Circle#Arcane Lock|arcane lock]]* spell and a modified *[[Rituals 7th–9th Circle#Symbol|symbol]]* spell (see *Player’s Guide* for both spells). Opening the journal requires a successful DC 30 STR check, and once opened, each PC within 10 feet of it must succeed on a DC 25 WIS save or become frightened as per the fear effect of the *[[Rituals 7th–9th Circle#Symbol|symbol]]* spell. When dropped, the journal slams shut of its own accord. Alternatively, a PC can speak the password (assigned by the GM) aloud, temporarily disabling the effects of both spells and allowing the journal to be opened and read freely.
+This journal’s appearance is up to the GM. For example, it might be small and unassuming, or it might be made of rich leather and embossed with strange glyphs. Whatever its appearance, it is warded with a modified *[[Rituals 1st–3rd Circle#Arcane Lock|arcane lock]]* spell and a modified *[[Rituals 7th–9th Circle#Symbol|symbol]]* spell. Opening the journal requires a successful DC 30 STR check, and once opened, each PC within 10 feet of it must succeed on a DC 25 WIS save or become frightened as per the fear effect of the *[[Rituals 7th–9th Circle#Symbol|symbol]]* spell. When dropped, the journal slams shut of its own accord. Alternatively, a PC can speak the password (assigned by the GM) aloud, temporarily disabling the effects of both spells and allowing the journal to be opened and read freely.
 
 The GM should determine the author (likely a previous inhabitant) and the contents of the journal. It might be encoded, or its contents might be concealed with magic, requiring additional work from the PCs before they can read it. It might also hint at other mysteries that have yet to be discovered within the base or its grounds or else contain answers to previously discovered mysteries.
 
@@ -1391,7 +1391,7 @@ Much like the PCs are not the first inhabitants of the base, the base itself mig
 | d10 | Feature | d10 | Property |
 |---|---|---|---|
 | 1–2 | The reflections in the water don’t match what is around it. | 1–2 | Roll a d20. On a result of 1–10, the creature is poisoned until they finish a long rest; on a result of 11–20, the creature gains 2d6 temporary hit points. |
-| 3–4 | The water shimmers with bioluminescence. | 3–4 | The creature can understand any language for 1 hour, as per the tongues spell (see Player’s Guide ), but can’t speak for the duration. |
+| 3–4 | The water shimmers with bioluminescence. | 3–4 | The creature can understand any language for 1 hour, as per the *[[3rd-Circle Spells#Tongues\|tongues]]* spell, but can’t speak for the duration. |
 | 5–6 | The water sings (or screams) when poured into a vessel. | 5–6 | The creature doesn’t need to eat or drink for 3 days. |
 | 7–8 | The water smells like roses (or rot). | 7–8 | The creature must succeed on a DC 15 CON save, or its eyes turn inky black for 1 hour. For the duration, the creature is blinded in the Material Plane but can see into the Ethereal Plane. |
 | 9–10 | When taken from the spring, the water turns black as ink. | 9–10 | The creature sees everyone as if they were dead. For 1 hour, the creature has disadvantage on WIS (Insight) checks but is immune to being frightened. |
@@ -1436,7 +1436,7 @@ To determine the quality of the wine found within the cellar, the GM can roll on
 
 The size of the shrine can vary widely, from a small altar that fits easily in a closet to a sprawling cathedral concealed behind a false wall or in a subterranean cavern. It is dedicated to a dark god, demon lord, archdevil, or other evil entity, and it typically features a statue, effigy, or symbol of that entity. Old offerings of a kind that would be attractive to the entity might be strewn about, left by a previous devotee. It might have been built by an individual worshiping in secret, or it might be a sign or a much larger cult presence.
 
-The area of the shrine is considered desecrated against celestials and has one other effect bound to it, as per the *[[Rituals 4th–6th Circle#Hallow|hallow]]* spell (see *Player’s Guide*, GM’s discretion). PCs can rid the area of the desecration with appropriate magic. In addition, if the shrine is removed for a year, the desecration and its associated effect end.
+The area of the shrine is considered desecrated against celestials and has one other effect bound to it, as per the *[[Rituals 4th–6th Circle#Hallow|hallow]]* spell (GM’s discretion). PCs can rid the area of the desecration with appropriate magic. In addition, if the shrine is removed for a year, the desecration and its associated effect end.
 
 #### Toadstool Ring
 
@@ -1453,7 +1453,7 @@ To determine the effect of the toadstool ring, the GM can roll on the **Toadstoo
 | 1 | A creature that sleeps within the toadstool ring has prophetic dreams. |
 | 2 | Fey creatures can effortlessly pass through the toadstool ring to and from the faerie realms, as if it were a gateway. |
 | 3 | Stepping into the toadstool ring at a certain time can spirit a creature to the faerie realms or other location. |
-| 4 | The mushrooms can be used to make certain poisons (GM’s discretion, see Game Master’s Guide and Player’s Guide for more on poisons). |
+| 4 | The mushrooms can be used to make certain poisons (GM’s discretion, see [[Life and Death#Poisons\|Poisons]]). |
 
 #### Treasure Cache
 
@@ -1461,7 +1461,7 @@ A treasure cache is a collection of coins, gemstones, or art that has monetary a
 
 To determine the type of cache found, the GM can roll on the **Treasure Cache** table or simply choose a result. More than one treasure cache can be found together or else alongside an arcane cache (see **Arcane Cache**). Additional treasure tables can be found in the *Game Master’s Guide*.
 
-***Arcane Cache.*** The cache contains magic items instead of mundane treasures. To determine the contents, the GM can roll on the **Arcane Cache** table or simply choose a result. More than one treasure cache can be found together. For the table’s purposes, “consumable magic items” refers to magic items like potions and scrolls while “magic items” refers to any nonconsumable magic item, such as armor, weapons, shields, jewelry, staves, wands, and wondrous items. Magic item descriptions can be found in the *Player’s Guide*, and additional treasure bundles can be found in the *Game Master’s Guide*.
+***Arcane Cache.*** The cache contains magic items instead of mundane treasures. To determine the contents, the GM can roll on the **Arcane Cache** table or simply choose a result. More than one treasure cache can be found together. For the table’s purposes, “consumable magic items” refers to magic items like potions and scrolls while “magic items” refers to any nonconsumable magic item, such as armor, weapons, shields, jewelry, staves, wands, and wondrous items. Magic item descriptions can be found under [[Magic Items]], and additional treasure bundles can be found in the *Game Master’s Guide*.
 
 *Treasure Cache*
 

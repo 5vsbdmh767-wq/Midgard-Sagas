@@ -175,7 +175,7 @@ A creature restrained by the tentacles can use its action to make a STR or DEX c
 
 ## Bladed Wings
 
-%% source: Player's Guide 2 %%
+%% source: Player's Guide 2 (the Labyrinth Worldbook prints a near-identical version, removed 13 Nov 2026 on Bryant's ruling) %%
 
 *4th-Circle Arcane (Transmutation)*
 
@@ -194,28 +194,6 @@ You instantly sprout metallic wings that grant you a flying speed of 60 feet. If
 As a bonus action, you can make two melee weapon attacks with your wings, with a reach of 10 feet. For the duration, you can use your spellcasting ability instead of STR for the attack and damage rolls using this weapon. A wing attack deals 2d8 + your spellcasting modifier slashing damage. The wings are magical weapons.
 
 As an action, you can launch the metallic feathers in a 60-foot cone of razor-sharp blades. Each creature in the area must make a DEX save. On a failure, a creature takes 6d8 piercing damage, or half as much damage on a success. This action ends the spell.
-
-## Bladed Wings (Labyrinth)
-
-%% source: Labyrinth Worldbook %%
-
-*4th-Circle Arcane (Transmutation)*
-
-**Casting Time:** 1 action
-
-**Range:** self
-
-**Components:** V, S, M (a silver needle)
-
-**Duration:** Concentration, up to 10 minutes
-
-*You grow a pair of metallic wings.*
-
-You instantly sprout metallic wings that grant you a 60‑foot fly speed for the duration of the spell. If you are still aloft when the spell ends, you fall to the ground.
-
-While you have the wings, you can use a bonus action to make two melee weapon attacks with them against one or two targets within 10 feet of you. Your bonus to hit is equal to your spell attack bonus. On a successful hit, an attack deals 2d8 + your spellcasting modifier slashing damage.
-
-As an action, you can choose to launch the metallic feathers in a 60-foot cone of razor-sharp blades. Each creature in the area must make a DEX save, taking 6d8 piercing damage on a failed save, or half as much damage on a successful one. This action causes the spell to end.
 
 ## Blight
 

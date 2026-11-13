@@ -218,7 +218,7 @@ Your commitment to the paladin’s path grants you a powerful new ability. Choos
 
 - **Radiant Strikes.** Your every strike is divinely empowered. When you hit a creature with a weapon, the attack deals an extra 1d8 radiant damage. Fiends and Undead instead take 2d8 radiant damage. This extra damage stacks with any damage from your Divine Smite feature.
 
-- **Seraphic Sight.** While your Divine Sense feature (see *Player’s Guide*) is active, you don’t have disadvantage on attack rolls against creatures you sense with Divine sense, even if you can’t see them, and such creatures don’t have advantage on attack rolls against you from being hidden, invisible, or otherwise unable to be seen by you. In addition, you can target such creatures with spells, even if the spell normally requires you to see the target.
+- **Seraphic Sight.** While your [[#Divine Sense|Divine Sense]] feature is active, you don’t have disadvantage on attack rolls against creatures you sense with Divine sense, even if you can’t see them, and such creatures don’t have advantage on attack rolls against you from being hidden, invisible, or otherwise unable to be seen by you. In addition, you can target such creatures with spells, even if the spell normally requires you to see the target.
 
 %% source: Player's Guide 2: Mystic Steed, Seraphic Sight %%
 
@@ -244,9 +244,9 @@ Your commitment to the paladin’s path grants you a powerful new ability. You g
 
 - **Aura of Salvation.** As an action, you can exude a calming reassurance for 1 hour. While the aura is active, you and friendly creatures within 30 feet of you have resistance to nonmagical damage and automatically succeed on death saving throws. A creature with at least 1 HP that starts its turn in the aura regains hit points equal to your CHA modifier. This effect ends early if you are incapacitated or die. Once used, you can't use it again until you finish a long rest.
 
-- **Avenger.** When you expend a Divine spell slot of 5th circle or lower to deal extra damage with your Divine Smite feature (see *Player’s Guide*), you can choose to roll a d6. If the result of the roll is higher than the circle of the expended slot, you automatically recover the spell slot.
+- **Avenger.** When you expend a Divine spell slot of 5th circle or lower to deal extra damage with your [[#Divine Smite|Divine Smite]] feature, you can choose to roll a d6. If the result of the roll is higher than the circle of the expended slot, you automatically recover the spell slot.
 
-- **Sacred Conduit.** When you finish a long rest, you gain one additional use of your Channel Divinity feature (see *Player’s Guide*). Once this extra use is expended, you can’t recover it by any means other than finishing a long rest. In addition, whenever you roll initiative, you automatically recover up to two expended uses of Channel Divinity.
+- **Sacred Conduit.** When you finish a long rest, you gain one additional use of your [[#Channel Divinity|Channel Divinity]] feature. Once this extra use is expended, you can’t recover it by any means other than finishing a long rest. In addition, whenever you roll initiative, you automatically recover up to two expended uses of Channel Divinity.
 
 %% source: Player's Guide 2: Avenger, Sacred Conduit %%
 
@@ -378,7 +378,7 @@ Paladins who swear the oath of Anathema are often quick to adapt to unexpected s
 
 *3rd-Level Anathema Feature*
 
-You gain oath spells at the paladin levels listed in the **Anathema Oath Spells** table. See the Paladin Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain oath spells at the paladin levels listed in the **Anathema Oath Spells** table. See the [[#Paladin Subclass|Paladin Subclass]] feature for how these spells work.
 
 *Anathema Oath Spells*
 
@@ -420,7 +420,7 @@ In addition, you gain proficiency in one of the following: Deception, Sleight of
 
 While you aren’t incapacitated, you and friendly creatures within 10 feet of you gain a bonus to CHA (Intimidation) checks equal to your proficiency bonus.
 
-In addition, such checks are made with advantage against Fiends and Undead. This aura is enhanced by the 17th-level Aura Improvements class feature (see *Player’s Guide*).
+In addition, such checks are made with advantage against Fiends and Undead. This aura is enhanced by the 17th-level [[#Aura Improvements|Aura Improvements]] class feature.
 
 ### Direct Action
 
@@ -430,9 +430,9 @@ You take a more proactive approach with Fiends and Undead, and your attacks refl
 
 - If you target a Fiend or Undead with a spell that specifically affects such creatures, the target has disadvantage on its save. If you target a Fiend or Undead with a spell that deals damage, the target is vulnerable to that damage. If the target is resistant to that damage type, it instead loses its resistance. This feature has no effect if the target is immune to that damage type.
 
-- When you use your Divine Sense feature (see *Player’s* *Guide*), for any being whose presence you sense, you now know the specific kind of creature it is.
+- When you use your [[#Divine Sense|Divine Sense]] feature, for any being whose presence you sense, you now know the specific kind of creature it is.
 
-- You score a critical hit on a d20 roll of 19 or 20. If you score a critical hit and are using your Divine Smite feature or the Radiant Strikes boon (see *Player’s Guide* for both), you can add one extra d8 of damage to the attack. Alternatively, you can forgo the extra damage dealt to Fiends and Undead (from this feature and from Divine Smite or Radiant Strikes) to force the target to succeed on a CHA save or be affected as if it failed a save against the dismissal option of the *[[5th-Circle Spells#Dispel Evil and Good|dispel evil and good]]* spell.
+- You score a critical hit on a d20 roll of 19 or 20. If you score a critical hit and are using your [[#Divine Smite|Divine Smite]] feature or the Radiant Strikes boon (see [[#Heroic Boon|Heroic Boon]]), you can add one extra d8 of damage to the attack. Alternatively, you can forgo the extra damage dealt to Fiends and Undead (from this feature and from Divine Smite or Radiant Strikes) to force the target to succeed on a CHA save or be affected as if it failed a save against the dismissal option of the *[[5th-Circle Spells#Dispel Evil and Good|dispel evil and good]]* spell.
 
 ### Divine Anathema
 
@@ -834,7 +834,7 @@ As an action, you present your holy symbol and target a friendly creature within
 
 *3rd-Level Safekeeping Feature*
 
-You gain oath spells at the paladin levels listed in the **Safekeeping Oath Spells** table. See the Paladin Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain oath spells at the paladin levels listed in the **Safekeeping Oath Spells** table. See the [[#Paladin Subclass|Paladin Subclass]] feature for how these spells work.
 
 *Safekeeping Oath Spells*
 
@@ -850,7 +850,7 @@ You gain oath spells at the paladin levels listed in the **Safekeeping Oath Spel
 
 *7th-Level Safekeeping Feature*
 
-While you aren’t incapacitated, you and friendly creatures within 10 feet of you gain a bonus to WIS (Insight and Perception) checks equal to your PB. This aura is enhanced by the 17th-level Aura Improvements class feature (see *Player’s Guide*).
+While you aren’t incapacitated, you and friendly creatures within 10 feet of you gain a bonus to WIS (Insight and Perception) checks equal to your PB. This aura is enhanced by the 17th-level [[#Aura Improvements|Aura Improvements]] class feature.
 
 ### Unwavering Protection
 
@@ -913,13 +913,13 @@ As an action, you can imbue one weapon you are holding with your wrath. For 1 mi
 
 *3rd-Level Unbound Feature*
 
-When you use features that would normally deal radiant damage, such as your Divine Smite feature or the Radiant Strikes boon (see *Player’s Guide* for both), that damage is instead psychic, and if such effects deal extra damage to Fiends and Undead, they instead deal that extra damage to Celestials and Fiends. This doesn’t change the damage type of spells you cast that deal damage.
+When you use features that would normally deal radiant damage, such as your [[#Divine Smite|Divine Smite]] feature or the Radiant Strikes boon (see [[#Heroic Boon|Heroic Boon]]), that damage is instead psychic, and if such effects deal extra damage to Fiends and Undead, they instead deal that extra damage to Celestials and Fiends. This doesn’t change the damage type of spells you cast that deal damage.
 
 ### Unbound Oath Spells
 
 *3rd-Level Unbound Feature*
 
-You gain oath spells at the paladin levels listed in the **Unbound Oath Spells** table. See the Paladin Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain oath spells at the paladin levels listed in the **Unbound Oath Spells** table. See the [[#Paladin Subclass|Paladin Subclass]] feature for how these spells work.
 
 *Unbound Oath Spells*
 
@@ -935,7 +935,7 @@ You gain oath spells at the paladin levels listed in the **Unbound Oath Spells**
 
 *7th-Level Unbound Feature*
 
-While you aren’t incapacitated, you and friendly creatures within 10 feet of you gain a bonus equal to your PB to saves against spells and effects that inflict the charmed condition and against all spells of the enchantment school. This aura is enhanced by the 17th-level Aura Improvements class feature (see *Player’s Guide*).
+While you aren’t incapacitated, you and friendly creatures within 10 feet of you gain a bonus equal to your PB to saves against spells and effects that inflict the charmed condition and against all spells of the enchantment school. This aura is enhanced by the 17th-level [[#Aura Improvements|Aura Improvements]] class feature.
 
 ### Free Body/Free Mind
 
@@ -943,11 +943,11 @@ While you aren’t incapacitated, you and friendly creatures within 10 feet of y
 
 Your resolve prevents direct control of your body and mind. This feature grants you the following benefits:
 
-- When you use your Divine Sense feature (see *Player’s* *Guide*), you also know the location of any creature with the charmed condition or that is being magically controlled by another creature.
+- When you use your [[#Divine Sense|Divine Sense]] feature, you also know the location of any creature with the charmed condition or that is being magically controlled by another creature.
 
 - You are immune to the charmed, incapacitated, and paralyzed conditions, provided those conditions come from another creature. You can still suffer these conditions from effects like hazards, poisons, or traps.
 
-- You can use your Lay on Hands feature (see *Player’s* *Guide*) to expend 5 HP from your pool of healing to remove the charmed, grappled, or restrained condition from a target.
+- You can use your [[#Lay on Hands|Lay on Hands]] feature to expend 5 HP from your pool of healing to remove the charmed, grappled, or restrained condition from a target.
 
 ### Bond Severer
 

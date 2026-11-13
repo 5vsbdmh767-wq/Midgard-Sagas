@@ -250,7 +250,7 @@ Creatures restrained by the web can use an action to make a DC 14 STR (Athletics
 
 ## Weather Effects
 
-*Player’s Guide* and *Game Master’s Guide* both contain sections on weather and weather-related hazards you can apply to a scene. To augment those existing rules, this section contains a set of standard weather types and mechanical effects that can accompany them.
+The core rules cover [[Encounter Gameplay#Hazards|weather-related hazards]] you can apply to a scene. To augment those rules, this section contains a set of standard weather types and mechanical effects that can accompany them.
 
 Each terrain type in this section has a set of suggested weather effects. In addition to adding to the ambiance of the scene, use the **Weather Types** table to add ready-made in-game effects based on a weather type.
 

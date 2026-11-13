@@ -4,7 +4,7 @@ publish: true
 ---
 %% source: Trade Secrets %%
 
-Trade skills downtime activities are more detailed versions of the [[Between Adventures#Crafting|crafting downtime activity]] (see *Player’s Guide*). Use these options for a more story-oriented downtime with higher risks and rewards.
+Trade skills downtime activities are more detailed versions of the [[Between Adventures#Crafting|crafting downtime activity]]. Use these options for a more story-oriented downtime with higher risks and rewards.
 
 These downtime activities assume the PC is pursuing these trades independently or with a small group rather than as part of full scale, organized production with many other workers. While most of the products are trade goods, some nontrade goods are included which could be sold in local markets.
 

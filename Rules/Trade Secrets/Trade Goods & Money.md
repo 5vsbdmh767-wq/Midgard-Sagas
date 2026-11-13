@@ -350,7 +350,7 @@ Metal ingots are the standard goods for the metalwork trade. Moving ingots is no
 
 **Unit of Measure:** 2 lb. ingot (1,000 ingots per ton)
 
-**Note:** Adamantine, mithral, and starmetal can be used to create weapons and armor with special properties (see *Player’s Guide* and *Player’s Guide 2*). Starmetal is generally found rather than mined, so it comes in only small quantities and is never sold by the ton. In most cases, malchonite is imported from another world. It too comes in similarly small quantities.
+**Note:** Adamantine, mithral, and starmetal can be used to create weapons and armor with special properties (see [[Weapons#Weapon Materials|Weapon Materials]] and [[Armor#Armor Materials|Armor Materials]]). Starmetal is generally found rather than mined, so it comes in only small quantities and is never sold by the ton. In most cases, malchonite is imported from another world. It too comes in similarly small quantities.
 
 **Ingot Base Prices**
 
@@ -547,7 +547,7 @@ While most household goods aren’t produced in sufficient quantities to qualify
 
 **Unit of Measure:** 1 tool (650 tools per ton) or 1 tool set (200 sets per ton)
 
-**Note:** Tool sets have their own highly varying prices in the *Player’s Guide*. Base prices here are an approximation, and can vary up or down by 100 percent depending on location and specific sets in question.
+**Note:** Tool sets have their own highly varying prices (see [[Tools]]). Base prices here are an approximation, and can vary up or down by 100 percent depending on location and specific sets in question.
 
 **Tool Base Prices**
 

@@ -71,7 +71,7 @@ Fashioned from the remains of a dragon, the type of that dragon determines the s
 
 ***Dragon Breath.*** While holding the staff, as an action, you can expend 10 charges to breathe the staff’s associated energy as either a 30-foot line that is 5 feet wide or as a 30-foot cone. Each creature in the area must make a save against your spell save DC, taking 10d10 damage of the associated type on a failed save or half as much damage on a successful one.
 
-***Spells.*** While holding the staff, as an action, you can expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: *[[2nd-Circle Spells#Elemental Blade|elemental blade]]* (1 charge, and the staff transforms into the blade), *[[3rd-Circle Spells#Fear|fear]]* (3 charges), *[[3rd-Circle Spells#Fly|fly]]* (3 charges), *[[3rd-Circle Spells#Protection from Energy|protection from energy]]* (3 charges), *[[6th-Circle Spells#True Seeing|true seeing]]* (6 charges), *true* *[[4th-Circle Spells#Polymorph|polymorph]]* (9 charges, but can only polymorph into a dragon and of the same type associated with the staff). (See *Player’s* *Guide* for spells.)
+***Spells.*** While holding the staff, as an action, you can expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: *[[2nd-Circle Spells#Elemental Blade|elemental blade]]* (1 charge, and the staff transforms into the blade), *[[3rd-Circle Spells#Fear|fear]]* (3 charges), *[[3rd-Circle Spells#Fly|fly]]* (3 charges), *[[3rd-Circle Spells#Protection from Energy|protection from energy]]* (3 charges), *[[6th-Circle Spells#True Seeing|true seeing]]* (6 charges), *true* *[[4th-Circle Spells#Polymorph|polymorph]]* (9 charges, but can only polymorph into a dragon and of the same type associated with the staff).
 
 If the spell protects against an energy type or deals damage, use the staff’s associated energy type instead of the spell’s normal type. You can expend double the charges to choose an alternative damage type.
 
@@ -91,7 +91,7 @@ This short, stubby staff with a jester’s hat at its crown has 10 charges and r
 
 ***Commanding Presence.*** While holding the staff, as a bonus action, you can expend 2 charges to give yourself advantage on CHA checks for 1 hour.
 
-***Spells.*** While holding the staff, as an action, you can expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: *[[1st-Circle Spells#Charm|charm]]* (1 charge), *hideous* *laughter* (1 charge), or *[[3rd-Circle Spells#Hypnotic Pattern|hypnotic pattern]]* (3 charges). (See *Player’s Guide* for spells.)
+***Spells.*** While holding the staff, as an action, you can expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: *[[1st-Circle Spells#Charm|charm]]* (1 charge), *hideous laughter* (1 charge), or *[[3rd-Circle Spells#Hypnotic Pattern|hypnotic pattern]]* (3 charges).
 
 ***Unnerving Laughter.*** While holding the staff, as a reaction when you are targeted by a melee attack from a creature you can see within 10 feet, you can expend 1 charge and impose disadvantage on the attack roll.
 
@@ -357,7 +357,7 @@ This staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If
 
 ***Righteous.*** While holding the staff, you have advantage on WIS and CHA saves as well as advantage on checks to resist illusions.
 
-***Spells.*** While holding the staff, as an action, you can cast the *[[Cantrips#Guidance|guidance]]* cantrip or expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: *[[4th-Circle Spells#Banishment|banishment]]* (4 charges), *[[3rd-Circle Spells#Bestow Curse|bestow curse]]* (3 charges), *[[1st-Circle Spells#Command|command]]* (1 charge), *[[4th-Circle Spells#Compulsion|compulsion]]* (4 charges), *[[3rd-Circle Spells#Counterspell|counterspell]]* (3 charges), *[[2nd-Circle Spells#Hold|hold]]* (2 charges), or *[[2nd-Circle Spells#Suggestion|suggestion]]* (2 charges). (See *Player’s Guide* for spells.)
+***Spells.*** While holding the staff, as an action, you can cast the *[[Cantrips#Guidance|guidance]]* cantrip or expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: *[[4th-Circle Spells#Banishment|banishment]]* (4 charges), *[[3rd-Circle Spells#Bestow Curse|bestow curse]]* (3 charges), *[[1st-Circle Spells#Command|command]]* (1 charge), *[[4th-Circle Spells#Compulsion|compulsion]]* (4 charges), *[[3rd-Circle Spells#Counterspell|counterspell]]* (3 charges), *[[2nd-Circle Spells#Hold|hold]]* (2 charges), or *[[2nd-Circle Spells#Suggestion|suggestion]]* (2 charges).
 
 ## Staff of the Simian
 
@@ -469,7 +469,7 @@ This wand has 5 charges and regains 1d4 + 1 expended charges daily at dawn. If y
 
 ***Creeper Clutch.*** While holding the wand, as an action, you can expend 1 charge, targeting a creature you can see within 60 feet of you. Creeping vines erupt from the ground around the target, which must succeed on a DC 15 STR save or be restrained for 1 minute. A restrained creature can repeat the save at the end of each of its turns, ending the effect on a success. While a creature is restrained in this way, as a bonus action, you can summon thorns to sprout from the vines, and the restrained creature must make a DC 15 CON save, taking 2d4 piercing damage on a failed save and half as much damage on a successful one.
 
-***Spells.*** While holding the wand, as an action, you can expend some of its charges to cast one of the following spells (save DC 15): *[[1st-Circle Spells#Entangle|entangle]]* (1 charge) and *[[2nd-Circle Spells#Spike Growth|spike growth]]* (2 charges). (See *Player’s Guide* for spells.)
+***Spells.*** While holding the wand, as an action, you can expend some of its charges to cast one of the following spells (save DC 15): *[[1st-Circle Spells#Entangle|entangle]]* (1 charge) and *[[2nd-Circle Spells#Spike Growth|spike growth]]* (2 charges).
 
 ## Wand of Enemy Detection
 

@@ -4,7 +4,7 @@ publish: true
 ---
 %% source: Player's Guide 2 %%
 
-This section introduces additional downtime activity options for PCs. See the *Player’s Guide for the general* *downtime rules.*
+This section introduces additional downtime activity options for PCs. See [[Between Adventures]] for the general downtime rules.
 
 ## Creature Training
 
@@ -46,7 +46,7 @@ Meeting a creature’s basic needs is relatively simple, but training a creature
 | Agility | The creature’s base movement speed increases by 5 feet. If the creature has multiple types of movement, you choose which receives this increase. A creature can undergo this training multiple times if it has multiple speeds in its stat block, selecting a different movement speed each time you do so. |
 | Combat | The creature gains the unique abilities and features described in the Combat Animals section in Chapter 4. Note that a combat-trained creature can only be used as a mount if it also has the mount training benefit. |
 | Conditioning | The creature’s hit point maximum increases by 10. |
-| Mount | As long as you have the appropriate equipment and the creature is of the appropriate size, you can ride the creature as a mount (see Mounted Combat in Player’s Guide). |
+| Mount | As long as you have the appropriate equipment and the creature is of the appropriate size, you can ride the creature as a mount (see [[Encounter Gameplay#Mounted Combat\|Mounted Combat]]). |
 | Obedience | The creature learns to trust you and obey your commands, and you have advantage on WIS (Animal Handling) checks made to interact with the creature. Obedience training doesn’t allow you to command a creature to attack or otherwise act against its nature, but it does allow you to issue basic commands, which the creature follows to the best of its capabilities. Calling the creature to your side, asking it to stand still, or ordering it to be quiet are examples of reasonable commands. |
 | Skill | Choose one of the following skills: Acrobatics, Athletics, Intimidation, Perception, Performance, Sleight of Hand, Stealth, or Survival. The creature has advantage on all ability checks made with the chosen skill. A creature can undergo this training a number of times equal to its PB, but you must select a different skill each time. Certain skill options might not be available to certain creatures (GM’s discretion). For example, it likely doesn’t make sense to choose the Sleight of Hand skill for a hoofed creature like a horse. |
 
@@ -54,13 +54,13 @@ Meeting a creature’s basic needs is relatively simple, but training a creature
 
 If allowed by the GM, you can spend downtime engaging in criminal enterprise—a sophisticated variety of crime that is organized, complex, and requires the combined talents of many individuals. Running a successful criminal enterprise requires gathering information, forging connections with criminal contacts, and ensuring the necessary wheels of business stay greased.
 
-This activity requires access to a thieves’ guild or similarly well-organized criminal network. Work with your GM to determine what organizations of this type exist in the world of your game and how the PCs can get involved in their particular brand of illicit business. In most cases, arranging an introduction with a criminal organization requires you to use some combination of earned contacts and favors (see carousing downtime activity in *Player’s Guide*).
+This activity requires access to a thieves’ guild or similarly well-organized criminal network. Work with your GM to determine what organizations of this type exist in the world of your game and how the PCs can get involved in their particular brand of illicit business. In most cases, arranging an introduction with a criminal organization requires you to use some combination of earned contacts and favors (see [[Between Adventures#Carousing|carousing]]).
 
 > [!note] What Is a Thieves’ Guild?
 > Thieves’ guilds are clandestine organizations of criminals commonly found in fantasy worlds, typically in large cities also possessing a variety of government-sanctioned trade guilds. Like standard guilds, a thieves’ guild offers benefits like training, support, and protection to its members in exchange for a share of their profits. While members of such a guild operate outside the confines of local law, they are strictly bound to follow the unique rules codified by the guild, which it strictly enforces to maintain secrecy and prevent individuals from getting too greedy. Petty thieves operating in settlements under the dominion of prolific and powerful thieves’ guilds are pressured to join their ranks or face the consequences— which might very well mean a knife in the back when next you turn down a dark alley.
 >
 
-A major component of this activity is engaging in criminal operations. The nature of these operations depends on the type of crimes performed by your criminal network, but common examples include pulling off a heist, smuggling cargo, breaking someone out of prison, or assassinating a prominent individual. Whatever the specifics, you must have your GM’s approval before you attempt such an operation to ensure it falls within the bounds of the story and the overall themes and restrictions agreed upon by all the players at the table (see **Safety Tools** in the *Player’s Guide).*
+A major component of this activity is engaging in criminal operations. The nature of these operations depends on the type of crimes performed by your criminal network, but common examples include pulling off a heist, smuggling cargo, breaking someone out of prison, or assassinating a prominent individual. Whatever the specifics, you must have your GM’s approval before you attempt such an operation to ensure it falls within the bounds of the story and the overall themes and restrictions agreed upon by all the players at the table (see [[Safety Tools#Safety Tools|Safety Tools]]).*
 
 ***Time.*** The criminal enterprise activity is measured in weeks of downtime. It requires a PC to spend a minimum of 1 week of downtime for the planning and actioning of a single criminal operation.
 
@@ -92,7 +92,7 @@ A major component of this activity is engaging in criminal operations. The natur
 
 Infamy represents a PC’s successful crime streak, respect, and influence within their associated criminal network. You can spend Infamy immediately upon receiving it or bank it to spend at a later time. Infamy can be spent in the following ways.
 
-***Acquire Contact (Costs 1 Infamy).*** You can spend 1 Infamy to make a new criminal contact. Each new contact automatically owes the PC one favor. For more information on contacts, favors, and their uses, see carousing downtime activity in the Player’s Guide.
+***Acquire Contact (Costs 1 Infamy).*** You can spend 1 Infamy to make a new criminal contact. Each new contact automatically owes the PC one favor. For more information on contacts, favors, and their uses, see the [[Between Adventures#Carousing|carousing]] downtime activity.
 
 ***Get Paid (Costs 1 or More Infamy).*** You can spend 1 Infamy to fence stolen goods or otherwise collect your payout for successfully completing criminal operations. You can choose to spend one or more Infamy in this way, and when you do, you receive 250 gp × the number of Infamy spent. You must be in a populated settlement or in a location otherwise populated by one or more criminal networks to spend Infamy in this way.
 

@@ -271,7 +271,7 @@ For the duration, while you hold the doll, you can perform the following effects
 
 ***Assist.*** By subtle manipulation of the doll, you can use your reaction to take the Help action for the target creature, provided you can see the creature and it is in range.
 
-***Cast Spell.*** You can cast the following spells on the target creature, via the effigy, as long as the target creature is in range: *[[1st-Circle Spells#Cure Wounds|cure wounds]]*, *lesser restoration*, *[[2nd-Circle Spells#Protection from Poison|protection from poison]]*, *[[Cantrips#Resistance|resistance]]*, and *[[2nd-Circle Spells#Restoration|restoration]]*. (See *Player’s Guide* for all spells.)
+***Cast Spell.*** You can cast the following spells on the target creature, via the effigy, as long as the target creature is in range: *[[1st-Circle Spells#Cure Wounds|cure wounds]]*, *lesser restoration*, *[[2nd-Circle Spells#Protection from Poison|protection from poison]]*, *[[Cantrips#Resistance|resistance]]*, and *[[2nd-Circle Spells#Restoration|restoration]]*.
 
 ***Divert Pain.*** As a reaction, you can redirect some of the damage of an attack or spell to the effigy rather than the target. The target takes half of the total damage dealt and the effigy is destroyed, ending the spell.
 
@@ -994,7 +994,7 @@ When you cast this spell, you form a doll in the likeness of a Humanoid using cl
 
 For the duration, while you hold the doll, you can perform the following effects.
 
-***Cast Spell.*** You can cast the following spells on the target creature, via the effigy, as long as the target creature is in range: *[[2nd-Circle Spells#Blindness/Deafness|blindness/deafness]]*, *[[2nd-Circle Spells#Hold|hold]]*, and *[[1st-Circle Spells#Inflict Wounds|inflict wounds]]*. (See *Player’s Guide* for all spells.)
+***Cast Spell.*** You can cast the following spells on the target creature, via the effigy, as long as the target creature is in range: *[[2nd-Circle Spells#Blindness/Deafness|blindness/deafness]]*, *[[2nd-Circle Spells#Hold|hold]]*, and *[[1st-Circle Spells#Inflict Wounds|inflict wounds]]*.
 
 ***Cause Pain.*** As an action, you can expose the doll to damage such as stabbing it, holding it to a flame, or dripping acid on it, and cause the target to suffer damage of the appropriate type. The target takes 1d8 damage of the type inflicted upon the doll.
 
@@ -1086,7 +1086,7 @@ You turn a door or gate into a one-way portal to another door or gate within ran
 
 On completing the spell, the door opens, revealing a shimmering image of the location beyond the destination door. You can move through the door, emerging instantly out of the destination door. You can also allow one other willing creature to pass through the door instead. Anything you carry moves through the door with you, including other creatures, willing or unwilling.
 
-For the purpose of this spell, any locks, bars, or magical effects such as the *[[#Arcane Lock|arcane lock]]* spell (see *Player’s Guide*) are ineffectual for the spell’s duration. You can travel only to a side of the door you can see or have physically visited in the past; divinations such as the *[[#Clairvoyance|clairvoyance]]* spell (see *Player’s* *Guide*) count as seeing. Once you or a willing creature passes through, both doors shut, ending the spell.
+For the purpose of this spell, any locks, bars, or magical effects such as the *[[#Arcane Lock|arcane lock]]* spell are ineffectual for the spell’s duration. You can travel only to a side of the door you can see or have physically visited in the past; divinations such as the *[[#Clairvoyance|clairvoyance]]* spell count as seeing. Once you or a willing creature passes through, both doors shut, ending the spell.
 
 ***At Higher Circles.*** As you unlock higher circles, this ritual grows in potency. Once you have access to 3rd-circle spell slots, the range increases by 300 feet for each circle you have access to above 2nd, and one additional creature you designate can move through the portal before the spell ends. Once you have access to 6th-circle spell slots, the spell’s duration to 10 minutes, and the portal becomes two-way, allowing you and any chosen creatures to pass between the portals until the spell ends. Once you have access to 7th-circle spell slots, there is no range limit, so long as the two doors are on the same plane of existence.
 
@@ -1156,7 +1156,7 @@ Some examples of the information you can learn include the following:
 
 - Information regarding the item’s historical significance, if any.
 
-- The item’s name, if it has one. Information gathered through this ritual can be enough to use for other divinatory magic, such as the *[[#Locate|locate]]* or *[[Rituals 4th–6th Circle#Scrying|scrying]]* spells (see *Player’s Guide* for both). If the latter, consider any creatures seen through the spell as if you had met the target when casting *[[Rituals 4th–6th Circle#Scrying|scrying]]*.
+- The item’s name, if it has one. Information gathered through this ritual can be enough to use for other divinatory magic, such as the *[[#Locate|locate]]* or *[[Rituals 4th–6th Circle#Scrying|scrying]]* spells. If the latter, consider any creatures seen through the spell as if you had met the target when casting *[[Rituals 4th–6th Circle#Scrying|scrying]]*.
 
 ## Reinforcing Ward
 
@@ -1178,7 +1178,7 @@ You block a door, window, gate, or other entryway for the duration. You can also
 
 The affected entry is difficult to force open, increasing the DC to break it or pick its locks by 10. If a nonmagical tool or item is used to defeat the ward and the attempt fails, the item is destroyed. A nonmagical weapon used suffers a permanent and cumulative −1 penalty to damage rolls, and if the penalty drops to −5, the weapon is destroyed. If a creature used its own body in a failed attempt to defeat the ward, and it doesn’t have the Siege Monster or similar trait, it takes bludgeoning damage equal to the difference between its check and the DC.
 
-If a *[[2nd-Circle Spells#Knock|knock]]* spell (see *Player’s Guide*) is cast on the warded entry, the spellcaster must succeed on an ability check using its spellcasting ability against your spell save DC to bypass this spell for 1 minute.
+If a *[[2nd-Circle Spells#Knock|knock]]* spell is cast on the warded entry, the spellcaster must succeed on an ability check using its spellcasting ability against your spell save DC to bypass this spell for 1 minute.
 
 ## Shadow Board
 

@@ -224,7 +224,7 @@ Your commitment to the cleric’s path grants you a powerful new ability. Choose
 
 - **Gift of Guidance.** Whenever you make an ability check with a skill, tool, or vehicle you are proficient with, you can use your WIS modifier to calculate the check result instead of whatever ability modifier would normally apply.
 
-- **Gift of Sacred Power.** Whenever you expend a spell slot to cast one of your domain spells (see Cleric Subclass feature in *Player’s Guide*), you can cast the spell as if you used a spell slot one circle higher than the slot expended.
+- **Gift of Sacred Power.** Whenever you expend a spell slot to cast one of your domain spells (see [[#Cleric Subclass|Cleric Subclass]]), you can cast the spell as if you used a spell slot one circle higher than the slot expended.
 
 - **Gift of Wrath.** Choose either the radiant or necrotic damage type. You are now resistant to damage of the chosen type. In addition, when you cast a spell that deals damage of any type, you can choose for it to deal radiant or necrotic damage instead (you choose which each casting).
 
@@ -236,7 +236,7 @@ Your commitment to the cleric’s path grants you a powerful new ability. Choose
 
 Your commitment to the cleric’s path grants you a powerful new ability. You gain one of the following epic boons:
 
-- **Divine Channeler.** If you start your turn with no uses of your Channel Divinity feature (see *Player’s Guide*) remaining, you can beseech your deity to immediately restore all expended uses (no action required). You must finish a long rest before you can use this feature again.
+- **Divine Channeler.** If you start your turn with no uses of your [[#Channel Divinity|Channel Divinity]] feature remaining, you can beseech your deity to immediately restore all expended uses (no action required). You must finish a long rest before you can use this feature again.
 
 - **Divine Herald.** When you use your Divine Intervention feature, your deity automatically intervenes without a roll, and you no longer have to wait a week before you use Divine Intervention again, though you can still use it only once per long rest. You are still bound by the other restrictions of the feature.
 
@@ -285,7 +285,7 @@ Gods of the Crafting domain embody creativity, invention, and all the various di
 
 *3rd-Level Crafting Domain Feature*
 
-You gain domain spells at the cleric levels listed in the **Crafting Domain Spells** table. See the **Cleric Subclass** class feature in the *Player’s Guide* for how these spells work.
+You gain domain spells at the cleric levels listed in the **Crafting Domain Spells** table. See the [[#Cleric Subclass|Cleric Subclass]] feature for how these spells work.
 
 If these additional spells include a ritual spell, that spell is added to your available ritual spell list. The spell functions as a normal ritual spell but doesn’t count against the total number of ritual spells you know.
 
@@ -495,7 +495,7 @@ In addition, the target is vulnerable to any necrotic damage you deal to it for 
 
 *3rd-Level Death Feature*
 
-You gain domain spells at the cleric levels listed in the **Death Domain Spells** table. See the Cleric Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain domain spells at the cleric levels listed in the **Death Domain Spells** table. See the [[#Cleric Subclass|Cleric Subclass]] feature for how these spells work.
 
 *Death Domain Spells*
 
@@ -646,7 +646,7 @@ As an action, you present your holy symbol and grant yourself keen understanding
 
 *3rd-Level Knowledge Domain Feature*
 
-You gain domain spells at the cleric levels listed in the **Knowledge Domain Spells** table. See the **Cleric Subclass** feature in the *Player’s Guide* for how these spells work.
+You gain domain spells at the cleric levels listed in the **Knowledge Domain Spells** table. See the [[#Cleric Subclass|Cleric Subclass]] feature for how these spells work.
 
 If these additional spells include a ritual spell, that spell is added to your available ritual spell list. The spell functions as a normal ritual spell but doesn’t count against the total number of ritual spells you know.
 
@@ -894,7 +894,7 @@ As a reaction when you or a creature within 30 feet of you would take acid, cold
 
 *3rd-Level Nature Feature*
 
-You gain domain spells at the cleric levels listed in the **Nature Domain Spells** table. See the Cleric Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain domain spells at the cleric levels listed in the **Nature Domain Spells** table. See the [[#Cleric Subclass|Cleric Subclass]] feature for how these spells work.
 
 *Nature Domain Spells*
 
@@ -1036,7 +1036,7 @@ Alternatively, when you hit a target with a melee weapon attack, you can use you
 
 *3rd-Level Tempest Feature*
 
-You gain domain spells at the cleric levels listed in the **Tempest Domain Spells** table. See the Cleric Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain domain spells at the cleric levels listed in the **Tempest Domain Spells** table. See the [[#Cleric Subclass|Cleric Subclass]] feature for how these spells work.
 
 *Tempest Domain Spells*
 
@@ -1122,7 +1122,7 @@ You learn the *[[Cantrips#Minor Illusion|minor illusion]]* cantrip if you don’
 
 *3rd-Level Trickery Domain Feature*
 
-You gain domain spells at the cleric levels listed in the **Trickery Domain Spells** table. See the Cleric Subclass feature in the *Player’s Guide* for how these spells work.
+You gain domain spells at the cleric levels listed in the **Trickery Domain Spells** table. See the [[#Cleric Subclass|Cleric Subclass]] feature for how these spells work.
 
 If these additional spells include a ritual spell, that spell is added to your available ritual spell list. The spell functions as a normal ritual spell but doesn’t count against the total number of ritual spells you know.
 

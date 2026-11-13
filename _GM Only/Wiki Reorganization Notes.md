@@ -68,3 +68,16 @@ Flags for Bryant:
 - Text still says "see the Player's Guide" in many places inside rules. Not touched yet.
 
 Still to come in Stage 2: the Book of Blades equipment pages (Martial Arms, More Weapon Options, Martial Gear, Martial Magic Items) have not been merged into these lists yet.
+
+### Rulings applied, 13 Nov 2026 (second round)
+
+- Bladed Wings: the Labyrinth copy is removed; the fuller version stays. Rule for the future: when two versions are essentially the same, keep the one from the more recently published book.
+- Judicial Champion: "Sense Motive" changed to Insight.
+- Visionary: "Choose two from" added. It has nothing else in place of the choice.
+- "See the Player's Guide" notes are replaced with links to the wiki's own pages. About 320 notes across 57 pages: class features link to their heading on the class page, spells and rituals to their entries, downtime activities to Between Adventures, and so on. Where the thing was already linked, the note is simply removed.
+- Magic Item Pricing: "Player's Guide 2 Items by Rarity" is now "Items by Rarity"; the footnote that sorted potions by book is gone.
+
+Not changed:
+- Mentions of the *Monster Vault* and *Game Master's Guide* (about 45). Those books are not on the wiki, so there is nothing to link to. They tell a player where a stat block or GM rule lives.
+- Recommended Magic Items by Class still has a column naming each item's book. To be handled in Stage 5.
+- The Lineages page keeps its book sections until Stage 4 splits it.

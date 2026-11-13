@@ -7,7 +7,7 @@ publish: true
 
 *Wondrous Item, Uncommon 200 gp*
 
-This is a small, hollow figurine of a stirge, made of copper and filled with liquid. As a bonus action, you can jab the stirge into your arm, leg, or neck and then squeeze it, crushing it and injecting yourself with the magic liquid within. This gives you the benefit of the Action Surge class feature (see the fighter in *Player’s Guide*), allowing you to take an additional action on your turn. If you already possess this class feature, you can’t benefit from both on the same turn—though you could potentially still use it on someone else on the same turn. Once used, the figurine is destroyed.
+This is a small, hollow figurine of a stirge, made of copper and filled with liquid. As a bonus action, you can jab the stirge into your arm, leg, or neck and then squeeze it, crushing it and injecting yourself with the magic liquid within. This gives you the benefit of the Action Surge class feature (see [[Fighter|fighter]]), allowing you to take an additional action on your turn. If you already possess this class feature, you can’t benefit from both on the same turn—though you could potentially still use it on someone else on the same turn. Once used, the figurine is destroyed.
 
 ## Adaptive Boots
 
@@ -47,7 +47,7 @@ When found, this crystal vial of perfume contains 1d6 + 2 uses. As an action, yo
 
 While wearing this amulet, you have advantage on CHA (Persuasion) checks.
 
-The amulet has 3 charges and regains 1d3 expended charges daily at dawn. As an action, you can expend 1 charge to cast *[[2nd-Circle Spells#Calm Emotions|calm emotions]]* (see *Player’s Guide*)*.*
+The amulet has 3 charges and regains 1d3 expended charges daily at dawn. As an action, you can expend 1 charge to cast *[[2nd-Circle Spells#Calm Emotions|calm emotions]]**.*
 
 ## Amulet of Health
 
@@ -79,7 +79,7 @@ This deep-blue sapphire is carved with a single eye surrounded by tentacles or w
 
 *Wondrous Item, Uncommon 1,500 gp*
 
-While wearing this amulet, you gain one use per day of the Beast Form effect of the Wild Shape class feature (see druid class in *Player’s Guide*). If you already possess this class feature, the additional use is on top of your normal uses between rests. However, the Beast Form granted by the amulet must be that of a woodland creature of CR 1/8 or lower.
+While wearing this amulet, you gain one use per day of the Beast Form effect of the Wild Shape class feature (see [[Druid|druid class]]). If you already possess this class feature, the additional use is on top of your normal uses between rests. However, the Beast Form granted by the amulet must be that of a woodland creature of CR 1/8 or lower.
 
 ## Anklets of Alacrity
 
@@ -514,7 +514,7 @@ After using the amulet, you can’t use it again until the next midnight.
 
 *(Requires Attunement)*
 
-When you place this seemingly normal brick on a solid surface, as an action, you can cast the *[[5th-Circle Spells#Wall of Stone|wall of stone]]* spell (see *Player’s Guide*), centered on the brick. The wall is 6 inches thick and is limited to only three 10-foot-by-10-foot panels.
+When you place this seemingly normal brick on a solid surface, as an action, you can cast the *[[5th-Circle Spells#Wall of Stone|wall of stone]]* spell, centered on the brick. The wall is 6 inches thick and is limited to only three 10-foot-by-10-foot panels.
 
 Maintaining the wall does not require concentration, and it lasts for 1 hour, until you use an action to dismiss it, or until it is destroyed. The brick remains intact, even if the wall was destroyed, and can’t be used again until the next dawn.
 
@@ -564,7 +564,7 @@ These fluffy boots have wide soles and sharp spikes along the front that act as 
 
 While wearing this cowl, you can speak its command word as an action to create a cloak of shadows, extending from the cowl. This lasts until you dismiss it (no action required). While the shadowy cloak is deployed, you have advantage on DEX (Stealth) checks.
 
-The item has 3 charges and regains 1d3 expended charges daily at dusk. As part of the same action used to deploy the cloak, you can expend 1 charge to cast the *[[2nd-Circle Spells#Darkness|darkness]]* spell (see *Player’s Guide*). The magical darkness is limited to a 5-foot radius centered on the cowl, and you can see normally within this darkness while attuned to the item. Maintaining the effect does not require concentration, and it lasts for 1 minute or until you dismiss the cloak.
+The item has 3 charges and regains 1d3 expended charges daily at dusk. As part of the same action used to deploy the cloak, you can expend 1 charge to cast the *[[2nd-Circle Spells#Darkness|darkness]]* spell. The magical darkness is limited to a 5-foot radius centered on the cowl, and you can see normally within this darkness while attuned to the item. Maintaining the effect does not require concentration, and it lasts for 1 minute or until you dismiss the cloak.
 
 ## Cape of the Mountebank
 
@@ -627,7 +627,7 @@ These cloaks are made from the pelts of various large cats. While wearing one, y
 
 *Wondrous Item, Uncommon 330 gp*
 
-This magical chalk is indistinguishable from standard chalk and is typically found in unassuming pouches containing three pieces. You can spend 1 minute using it to draw a protective sigil on the ground, casting the *[[Rituals 1st–3rd Circle#Magic Circle|magic circle]]* spell (see *Player’s Guide*). One stick of chalk is expended in the process.
+This magical chalk is indistinguishable from standard chalk and is typically found in unassuming pouches containing three pieces. You can spend 1 minute using it to draw a protective sigil on the ground, casting the *[[Rituals 1st–3rd Circle#Magic Circle|magic circle]]* spell. One stick of chalk is expended in the process.
 
 ## Charm of Restoration
 
@@ -769,7 +769,7 @@ While wearing this wolf-skin cloak, you have advantage on CON saves to avoid lev
 
 *(Requires Attunement)*
 
-These hookahs come in a variety of shapes, some highly decorative, and must be filled with water to function. The hookah has 5 charges and regains all expended charges daily at dawn. While holding the hookah, as an action, you can expend some of its charges to cast one of the following spells from it, using CHA as the spellcasting ability: *[[5th-Circle Spells#Cloudkill|cloudkill]]* (5 charges), *[[1st-Circle Spells#Fog Cloud|fog cloud]]* (1 charge), and *[[3rd-Circle Spells#Stinking Cloud|stinking cloud]]* (3 charges). (See *Player’s Guide* for spells.)
+These hookahs come in a variety of shapes, some highly decorative, and must be filled with water to function. The hookah has 5 charges and regains all expended charges daily at dawn. While holding the hookah, as an action, you can expend some of its charges to cast one of the following spells from it, using CHA as the spellcasting ability: *[[5th-Circle Spells#Cloudkill|cloudkill]]* (5 charges), *[[1st-Circle Spells#Fog Cloud|fog cloud]]* (1 charge), and *[[3rd-Circle Spells#Stinking Cloud|stinking cloud]]* (3 charges).
 
 ## Cockatrice Egg
 
@@ -1228,13 +1228,13 @@ The creature exists for a duration specific to each figurine and reverts to its 
 
 ***Citrine Snake (Rare, 7,000 gp).*** This citrine statuette is of a sinuous snake. It can become a **poisonous snake** for 3 hours. While in snake form, you can use a bonus action to cause it to become a **swarm of poisonous snakes** for 1 minute. At the end of the minute, the swarm vanishes, leaving only one snake. Once it has been used, it can’t be used again until 5 days have passed.
 
-***Garnet Badger (Rare, 8,020 gp).*** This garnet statuette is of a badger with claws raised. It can become a **giant badger** for 1 hour. While in badger form, as an action, you can cast the *[[2nd-Circle Spells#Wildsense|wildsense]]* spell (see *Player’s Guide*) on it. Once it has been used, it can’t be used again until 2 days have passed.
+***Garnet Badger (Rare, 8,020 gp).*** This garnet statuette is of a badger with claws raised. It can become a **giant badger** for 1 hour. While in badger form, as an action, you can cast the *[[2nd-Circle Spells#Wildsense|wildsense]]* spell on it. Once it has been used, it can’t be used again until 2 days have passed.
 
 ***Malachite Baboon (Rare, 7,000 gp).*** This malachite statuette is of a baboon in full display. It can become a **baboon** for 2 hours. While it is in baboon form, you gain a climbing speed of 30 feet. Once it has been used, it can’t be used again until 7 days have passed.
 
-***Pink Tourmaline Pony (Rare, 20,060 gp).*** This pink tourmaline statuette depicts a pony in mid-stride. It can become a **pony** for 7 hours, though able to carry three times more weight than a normal pony and be used as a mount. While riding the pony, as an action, you can cast the *[[6th-Circle Spells#Irresistible Dance|irresistible dance]]* spell (see *Player’s Guide*) once. Once the pony has been used, you can’t use it again until 8 days have passed.
+***Pink Tourmaline Pony (Rare, 20,060 gp).*** This pink tourmaline statuette depicts a pony in mid-stride. It can become a **pony** for 7 hours, though able to carry three times more weight than a normal pony and be used as a mount. While riding the pony, as an action, you can cast the *[[6th-Circle Spells#Irresistible Dance|irresistible dance]]* spell once. Once the pony has been used, you can’t use it again until 8 days have passed.
 
-***Rose Quartz Leopards (Rare, 10,010 gp).*** These pink quartz statuettes are found in entwined pairs. You can use one figurine or both simultaneously. Each can become a leopard (using the **panther** stat block) for up to 8 hours. While the leopards are within 5 feet of one another, as an action, you can cast the *[[1st-Circle Spells#Charm|charm]]* spell (see *Player’s Guide*) once at a target within 30 feet of the leopards. Once a leopard has been used, it can’t be used again until 8 days have passed.
+***Rose Quartz Leopards (Rare, 10,010 gp).*** These pink quartz statuettes are found in entwined pairs. You can use one figurine or both simultaneously. Each can become a leopard (using the **panther** stat block) for up to 8 hours. While the leopards are within 5 feet of one another, as an action, you can cast the *[[1st-Circle Spells#Charm|charm]]* spell once at a target within 30 feet of the leopards. Once a leopard has been used, it can’t be used again until 8 days have passed.
 
 ***Tourmaline Axe Beak (Rare, 24,000 gp).*** This tourmaline statuette of an axe beak can become an **axe beak** for up to 24 hours. The axe beak can carry one rider. Once it has been used, it can’t be used again until 3 days have passed.
 
@@ -1244,7 +1244,7 @@ The creature exists for a duration specific to each figurine and reverts to its 
 
 *Wondrous Item, Rare 8,000 gp*
 
-This malachite statuette is of a selang prancing and playing a pan flute. It can become a **selang** (see *Monster Vault*) and play its alien pipes for up to 1 hour. Once it reverts, it can’t be used again until 3 days have passed. See *Figurine* *of Wondrous Power* in **Chapter 5** of *Player’s Guide* for full information on this magic item.
+This malachite statuette is of a selang prancing and playing a pan flute. It can become a **selang** (see *Monster Vault*) and play its alien pipes for up to 1 hour. Once it reverts, it can’t be used again until 3 days have passed. See *[[#Figurine of Wondrous Power|Figurine of Wondrous Power]]* for full information on this magic item.
 
 ## Firebird Feather
 
@@ -1729,7 +1729,7 @@ This black-lace handkerchief smells slightly of frankincense and myrrh. If you m
 
 *Wondrous Item, Uncommon 520 gp*
 
-This magic key has 6 charges and regains 1d6 expended charges daily at dawn. While holding it, as an action, you can expend 2 charges to cast one of the following spells from it: *arcane lock or knock*. (See *Player’s Guide* for spells.)
+This magic key has 6 charges and regains 1d6 expended charges daily at dawn. While holding it, as an action, you can expend 2 charges to cast one of the following spells from it: *[[Rituals 1st–3rd Circle#Arcane Lock|arcane lock]] or [[2nd-Circle Spells#Knock|knock]]*.
 
 ## Key of Secure Lodging
 
@@ -1737,7 +1737,7 @@ This magic key has 6 charges and regains 1d6 expended charges daily at dawn. Whi
 
 *Wondrous Item, Uncommon 630 gp*
 
-This magic key has 9 charges. As an action, you can expend 3 charges to cast *[[Rituals 1st–3rd Circle#Tiny Hut|tiny hut]]* (see *Player’s Guide*). Once all the key’s charges are expended, it disappears, only to reappear somewhere else in the realm, most likely in some random drawer where an unsuspecting person will discover it.
+This magic key has 9 charges. As an action, you can expend 3 charges to cast *[[Rituals 1st–3rd Circle#Tiny Hut|tiny hut]]*. Once all the key’s charges are expended, it disappears, only to reappear somewhere else in the realm, most likely in some random drawer where an unsuspecting person will discover it.
 
 ## Key of the Starfield
 

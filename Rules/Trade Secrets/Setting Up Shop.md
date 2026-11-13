@@ -297,7 +297,7 @@ Each of the options listed here has a size limitation that applies to your Stake
 | Medium Boat | 150 gp | 250 gp | 9 |
 | Large Boat | 250 gp | 500 gp | 20 |
 
-***Peddler’s Pack.*** This pack is a cabinet full of the merchant’s wares, fitted with straps and carried on the merchant’s back. If the pack includes tools of the merchant’s trade (such as artist tools, clothier tools, and so on—for use in repairing items that the merchant sells), adjust the price in accordance with the **Tools** rules in **Chapter 5** of *Player’s Guide*.
+***Peddler’s Pack.*** This pack is a cabinet full of the merchant’s wares, fitted with straps and carried on the merchant’s back. If the pack includes tools of the merchant’s trade (such as artist tools, clothier tools, and so on—for use in repairing items that the merchant sells), adjust the price in accordance with the [[Tools]] rules.
 
 If your shop is a peddler’s pack, your Frontage is considered Hidden, and the maximum result on your daily Commerce Resolution checks is 6−15 (a break-even result), although your total percentage can increase due to Traffic and Reputation. (See **Other Considerations**.)
 

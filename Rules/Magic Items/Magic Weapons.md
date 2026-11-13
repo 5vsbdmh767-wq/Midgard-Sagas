@@ -197,9 +197,9 @@ After the hovering sword attacks for the fourth time, it flies up to 30 feet and
 
 *Weapon (Dart), Uncommon 200 gp*
 
-When this dart is used to make an attack, the target takes normal damage on a hit and is affected by the *[[2nd-Circle Spells#Silence|silence]]* spell (see *Player’s Guide*). The effect is limited to a 5-foot-radius sphere centered on (and moving with) the target. Maintaining the effect does not require concentration, and it lasts for 1 minute. If the attack misses, the dart’s magic is not expended.
+When this dart is used to make an attack, the target takes normal damage on a hit and is affected by the *[[2nd-Circle Spells#Silence|silence]]* spell. The effect is limited to a 5-foot-radius sphere centered on (and moving with) the target. Maintaining the effect does not require concentration, and it lasts for 1 minute. If the attack misses, the dart’s magic is not expended.
 
-Barbs make the dart difficult to remove after a hit. The target, or another creature within 5 feet of it, can use its action to attempt to remove the dart with a successful DC 15 STR (Athletics) check. The target of the original attack takes 1d4 slashing damage if it is removed. This doesn’t change the target or duration of the *[[2nd-Circle Spells#Silence|silence]]* spell (see *Player’s Guide*).
+Barbs make the dart difficult to remove after a hit. The target, or another creature within 5 feet of it, can use its action to attempt to remove the dart with a successful DC 15 STR (Athletics) check. The target of the original attack takes 1d4 slashing damage if it is removed. This doesn’t change the target or duration of the *[[2nd-Circle Spells#Silence|silence]]* spell.
 
 Once its magic is expended, the dart can be treated as a nonmagical dart, which can be left embedded in a target’s body as part of a successful attack.
 
@@ -449,7 +449,7 @@ In addition, while you hold the weapon, you have resistance to psychic damage.
 
 This item appears to be the hilt of a dagger or sword. While grasping the hilt, as a bonus action, you can cause a blade of darkness to spring into existence (or make the blade disappear). You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals cold damage instead of piercing or slashing damage. When you hit a Celestial or a creature that naturally sheds light (such as a creature with the Illumination trait) with this weapon, the weapon deals one extra die of its damage.
 
-The blade has 3 charges and regains 1d3 expended charges daily at dusk. As an action, you can expend 1 charge to cast the *[[2nd-Circle Spells#Darkness|darkness]]* spell (see *Player’s Guide*) from it. The darkness lasts 1 minute and doesn’t require your concentration. You can see normally within this darkness while attuned to the weapon.
+The blade has 3 charges and regains 1d3 expended charges daily at dusk. As an action, you can expend 1 charge to cast the *[[2nd-Circle Spells#Darkness|darkness]]* spell from it. The darkness lasts 1 minute and doesn’t require your concentration. You can see normally within this darkness while attuned to the weapon.
 
 ## Nine Lives Stealer
 

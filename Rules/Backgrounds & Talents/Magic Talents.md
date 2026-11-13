@@ -193,7 +193,7 @@ If you select this talent again, you gain advantage when making checks involving
 
 Your keen understanding of the chaos that permeates the cosmos (or perhaps the magic in your blood) allows you to draw on additional power.
 
-When you expend a spell slot of 1st circle or higher to cast a spell on your turn, you can attempt to cast the spell as if the expended spell slot is one circle higher than the one you’re using. To do so, you must succeed on an ability check using your spellcasting ability (DC 11 + the base circle of the spell you are attempting to cast). On a failure, you expend a use of this feature, and the spell is cast as normal. On a success, you cast the spell at the higher circle. Immediately roll on the **Volatile Spell Effect** table in the Player’s Guide to determine additional effects the spell has. Any effects created by the spell that require a save use your spellcasting DC.
+When you expend a spell slot of 1st circle or higher to cast a spell on your turn, you can attempt to cast the spell as if the expended spell slot is one circle higher than the one you’re using. To do so, you must succeed on an ability check using your spellcasting ability (DC 11 + the base circle of the spell you are attempting to cast). On a failure, you expend a use of this feature, and the spell is cast as normal. On a success, you cast the spell at the higher circle. Immediately roll on the [[Sorcerer#Volatile Magic|Volatile Spell Effect]] table to determine additional effects the spell has. Any effects created by the spell that require a save use your spellcasting DC.
 
 You can use this feature a number of times equal to your PB. You recover all expended uses when you finish a long rest.
 
@@ -333,7 +333,7 @@ Alternatively, the GM can propose a vision with this feature. In this instance, 
 
 *Prerequisite: Ability to Cast the Guidance Cantrip*
 
-You’ve mastered the *[[Cantrips#Guidance|guidance]]* cantrip (see *Player’s Guide*), granting you the following benefits when you cast it:
+You’ve mastered the *[[Cantrips#Guidance|guidance]]* cantrip, granting you the following benefits when you cast it:
 
 - You can now cast *guidance on a willing creature you can see* *within* 30 feet of you, instead of touch.
 
@@ -363,7 +363,7 @@ You can use this feature a number of times equal to your PB, and you regain all 
 
 *Prerequisite: Ability to Cast the Light Cantrip*
 
-You’ve mastered the *[[Cantrips#Light|light]]* cantrip (see *Player’s Guide*), granting you the following benefits when you cast it:
+You’ve mastered the *[[Cantrips#Light|light]]* cantrip, granting you the following benefits when you cast it:
 
 - You can now cast *[[Cantrips#Light|light]]* as either an action or bonus action, and it no longer requires material components to cast. You can now cast *[[Cantrips#Light|light]]* on an item you can see within 30 feet of you, instead of touch.
 
@@ -405,7 +405,7 @@ You’ve become attuned to the crash of lightning and have funneled this knowled
 
 *Prerequisite: Ability to Cast the Mage Hand Cantrip*
 
-You’ve mastered the *[[Cantrips#Mage Hand|mage hand]]* cantrip (see *Player’s Guide*), granting you the following benefits when you cast it:
+You’ve mastered the *[[Cantrips#Mage Hand|mage hand]]* cantrip, granting you the following benefits when you cast it:
 
 - When you cast *mage hand, y*ou can now use either an action or a bonus action to control the cantrip’s hand. Casting it no longer requires verbal or somatic components, and you can choose to make the cantrip’s hand invisible.
 
@@ -423,7 +423,7 @@ You’ve mastered the *[[Cantrips#Mage Hand|mage hand]]* cantrip (see *Player’
 
 You excel at minor magical wonders, granting you the following benefits:
 
-- You learn the *[[Cantrips#Minor Illusion|minor illusion]]* cantrip and either the *[[Cantrips#Prestidigitation|prestidigitation]]* or *[[Cantrips#Thaumaturgy|thaumaturgy]]* cantrip (see *Player’s Guide* for all cantrips). These cantrips require no components, and the range of each is doubled. The spellcasting ability for these spells is INT, WIS, or CHA (choose when you select this talent).
+- You learn the *[[Cantrips#Minor Illusion|minor illusion]]* cantrip and either the *[[Cantrips#Prestidigitation|prestidigitation]]* or *[[Cantrips#Thaumaturgy|thaumaturgy]]* cantrip. These cantrips require no components, and the range of each is doubled. The spellcasting ability for these spells is INT, WIS, or CHA (choose when you select this talent).
 
 - As a bonus action, you can attempt to use magical trickery to distract one creature within 30 feet of you that can see you. The target must succeed on a WIS save or have disadvantage on the next attack roll it makes before the end of its next turn. The save DC equals 8 + your PB + your INT, WIS, or CHA modifier (choose when you select this talent). You can use this feature a number of times per day equal to your PB. You recover expended uses when you finish a long rest.
 
@@ -467,15 +467,15 @@ When you complete a long rest and have unused uses of this feature, all unused n
 
 Your exposure or association with a particular plane of existence infuses you with its magic. You gain the ability to cast certain spells based on which plane you choose. When you gain this talent, you decide whether INT, WIS, or CHA is your spellcasting ability for casting these spells. Choose one of the following types of planes or realms from which your power stems, in order to gain their benefit:
 
-- **Celestial.** You learn the *[[2nd-Circle Spells#Aid|aid]]* spell (see *Player’s Guide*) and one 1st-circle spell of your choice from the evocation or necromancy school of magic.
+- **Celestial.** You learn the *[[2nd-Circle Spells#Aid|aid]]* spell and one 1st-circle spell of your choice from the evocation or necromancy school of magic.
 
-- **Elemental.** You learn the *[[2nd-Circle Spells#Elemental Blade|elemental blade]]* spell (see *Player’s Guide*) and one 1st-circle spell of your choice from the conjuration or transmutation school of magic.
+- **Elemental.** You learn the *[[2nd-Circle Spells#Elemental Blade|elemental blade]]* spell and one 1st-circle spell of your choice from the conjuration or transmutation school of magic.
 
-- **Faerie.** You learn the *[[2nd-Circle Spells#Misty Step|misty step]]* spell (see *Player’s* *Guide*) and one 1st-circle spell of your choice from the enchantment or illusion school of magic.
+- **Faerie.** You learn the *[[2nd-Circle Spells#Misty Step|misty step]]* spell and one 1st-circle spell of your choice from the enchantment or illusion school of magic.
 
-- **Fiendish.** You learn the *[[2nd-Circle Spells#Scorching Ray|scorching ray]]* spell (see *Player’s* *Guide*) and one 1st-circle spell of your choice from the enchantment or evocation school of magic.
+- **Fiendish.** You learn the *[[2nd-Circle Spells#Scorching Ray|scorching ray]]* spell and one 1st-circle spell of your choice from the enchantment or evocation school of magic.
 
-- **Shadow.** You learn the *[[2nd-Circle Spells#Invisibility|invisibility]]* spell (see *Player’s* *Guide*) and one 1st-circle spell of your choice from the illusion or necromancy school of magic. Once per long rest, you can cast each of the spells associated with your chosen plane without expending a spell slot. You can also cast them with spell slots of the appropriate circle or of higher circles. You can select this talent multiple times, selecting a different plane each time.
+- **Shadow.** You learn the *[[2nd-Circle Spells#Invisibility|invisibility]]* spell and one 1st-circle spell of your choice from the illusion or necromancy school of magic. Once per long rest, you can cast each of the spells associated with your chosen plane without expending a spell slot. You can also cast them with spell slots of the appropriate circle or of higher circles. You can select this talent multiple times, selecting a different plane each time.
 
 ## Primal
 
@@ -505,7 +505,7 @@ Through magic, you learned to influence and manipulate the world around you with
 
 *Prerequisite: Ability to Cast the Resistance Cantrip*
 
-You’ve mastered the *[[Cantrips#Resistance|resistance]]* cantrip (see *Player’s Guide*), granting you the following benefits when you cast it:
+You’ve mastered the *[[Cantrips#Resistance|resistance]]* cantrip, granting you the following benefits when you cast it:
 
 - It requires no material components, and its range increases to 30 feet, instead of touch.
 
@@ -543,7 +543,7 @@ Choose one of the eight schools of magic: abjuration, conjuration, divination, e
 
 Your mastery of magic has made you especially skilled at unravelling it. You gain the following benefits:
 
-- When you must make an ability check using your spellcasting ability as part of casting either the counterspell or dispel magic spell (see *Player’s Guide*), add your PB to determine the results of the roll.
+- When you must make an ability check using your spellcasting ability as part of casting either the counterspell or *[[3rd-Circle Spells#Dispel Magic|dispel magic]]* spell, add your PB to determine the results of the roll.
 
 - When you are affected by a spell that specifically targets you (not a spell that affects an area or creatures within an area), you can roll a d20. If the number you roll is lower than your current character level, the spell has no effect on you. You can spend Luck to modify this roll. Once you successfully use this feature, you can’t use it again until you finish a long rest.
 

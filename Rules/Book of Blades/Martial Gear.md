@@ -28,7 +28,7 @@ Once a creature accumulates 3 failures, it falls unconscious for 1 hour or until
 
 You must successfully grapple a creature to effectively use a garrote. Instead of making a STR (Athletics) check for the grapple, you can make a DEX (Thieves’ Tools) check. You have disadvantage on the check if you are sensed by your target. While attempting to garrote a target, attackers have advantage to hit you and you have disadvantage on DEX saves.
 
-Grappled creatures begin suffocating immediately, having no time to draw breath. See *Player’s Guide* for rules on suffocating.
+Grappled creatures begin suffocating immediately, having no time to draw breath. See [[Life and Death#Suffocating|Suffocating]].
 
 ***Smokeball.*** This pellet or pouch filled with alchemical substances releases sudden, powerful smoke after a strong impact, such as striking the ground. A character proficient with alchemist tools can craft smokeballs with a successful DC 15 INT (Alchemist Tools) check.
 
@@ -210,7 +210,7 @@ This gold bracelet has three small charms, each shaped like a miniature vehicle.
 
 While wearing the bracelet, you can use an action to expend one charge and activate one charm. A full-size, functional version of the vehicle depicted by the charm appears in an unoccupied space of your choice within 10 feet of you. If there is not enough space for the vehicle, it doesn’t appear, and the charge is wasted. The vehicle remains for 8 hours and during that time, the same charm can’t be used again. If you expend the last charge, roll a d20. On a 1, the bracelet blackens, crumbles into ash, and is destroyed.
 
-Eight magic charms exist. The GM decides the types of charms on the bracelet or determines them by rolling a d20 and consulting the **Vehicle Charms** table. See *Player’s Guide* and *Game Master’s Guide* for a vehicle’s statistics. Some of the vehicles listed in the chart are basic vehicles pulled by mounts and similar creatures, and they don’t have statistics. At the GM’s discretion, bracelets featuring charms for larger or more powerful vehicles might exist.
+Eight magic charms exist. The GM decides the types of charms on the bracelet or determines them by rolling a d20 and consulting the **Vehicle Charms** table. See [[Vehicles]] for a vehicle’s statistics. Some of the vehicles listed in the chart are basic vehicles pulled by mounts and similar creatures, and they don’t have statistics. At the GM’s discretion, bracelets featuring charms for larger or more powerful vehicles might exist.
 
 **Vehicle Charms**
 

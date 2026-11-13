@@ -18,7 +18,7 @@ Like vehicles, all warframes have their own set count for when they act in initi
 
 ## Warframe Repairs
 
-Damaged warframes can be field repaired in the same way that normal vehicles are repaired (see **Vehicle Repairs** in **Chapter 5** of *Player’s Guide*). However, the gems that power a warframe vehicle are a special exception. If a warframe vehicle is operable, but has taken damage and has fewer than half its hit points remaining, at least one of its powering gems is cracked. Every 30 HP the warframe vehicle takes beyond half cracks an additional gem. The cost of each replacement gem is 100 gp × the number of crew, in addition to the necessary access to spare parts worth a gold-piece amount equal to 10 percent of the warframe’s base cost.
+Damaged warframes can be field repaired in the same way that normal vehicles are repaired (see [[Vehicles#Vehicle Repairs|Vehicle Repairs]]). However, the gems that power a warframe vehicle are a special exception. If a warframe vehicle is operable, but has taken damage and has fewer than half its hit points remaining, at least one of its powering gems is cracked. Every 30 HP the warframe vehicle takes beyond half cracks an additional gem. The cost of each replacement gem is 100 gp × the number of crew, in addition to the necessary access to spare parts worth a gold-piece amount equal to 10 percent of the warframe’s base cost.
 
 ## Warframe Costs
 
@@ -56,7 +56,7 @@ Warframes come in various sizes, capabilities, and power levels. They use the st
 
 ***Vulnerabilities, Resistances, and Immunities.*** Warframes have resistances, immunities, and vulnerabilities to certain damage types or conditions. These do not automatically convey to the crew. Like most items, warframes are immune to poison and psychic damage, and the following conditions: blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, and unconscious. Instead of writing all those immunities out in each stat block, a warframe that fits this standard has Vehicle Resilience in the Immune line of its stat block.
 
-***Initiative.*** A warframe has a set count for when it acts in initiative and loses ties with non-vehicles or non‑warframes. In case of ties between warframes, the GM determines their initiative order. For more on initiative rules, see the **Initiative** section in **Chapter 6** of *Player’s Guide*.
+***Initiative.*** A warframe has a set count for when it acts in initiative and loses ties with non-vehicles or non‑warframes. In case of ties between warframes, the GM determines their initiative order. For more on initiative rules, see [[Encounter Gameplay#Initiative|Initiative]].
 
 ***Crew.*** The crew represents the number of creatures a warframe requires to operate. If the warframe has fewer than this number, it is inoperable.
 

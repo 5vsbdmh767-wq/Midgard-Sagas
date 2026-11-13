@@ -732,7 +732,7 @@ When found, this oracle deck contains 2d4 + 4 magical cards. The depiction on a 
 
 *Wondrous Item, Varies Price Varies*
 
-As an action, you can throw this small crystalline sphere at a point up to 60 feet away. The sphere explodes on impact and is destroyed, triggering a *[[2nd-Circle Spells#Shatter|shatter]]* spell (see *Player’s* *Guide*). Unlike the normal spell, however, the item creates an interference that ensures the sound doesn’t reach past the effect’s radius. Creatures failing their save are also deafened for 1 minute.
+As an action, you can throw this small crystalline sphere at a point up to 60 feet away. The sphere explodes on impact and is destroyed, triggering a *[[2nd-Circle Spells#Shatter|shatter]]* spell. Unlike the normal spell, however, the item creates an interference that ensures the sound doesn’t reach past the effect’s radius. Creatures failing their save are also deafened for 1 minute.
 
 The circle of the *[[2nd-Circle Spells#Shatter|shatter]]* spell determines the spell’s save DC, as well as the item’s rarity, as shown in the **Shattersphere Rarity** table.
 
@@ -828,7 +828,7 @@ One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute
 
 *Wondrous Item, Uncommon 500 gp*
 
-These shards are always created in pairs and can take any form, such as polished stones, faceted crystals, or small mirrors as pendants, and are inscribed with unique, matching glyphs. While touching a shard, as an action, you can send a short to the creature possessing the other stone, as the *[[3rd-Circle Spells#Sending|sending]]* spell (see *Player’s Guide*). A creature must have an INT of 5 (−3) or higher.
+These shards are always created in pairs and can take any form, such as polished stones, faceted crystals, or small mirrors as pendants, and are inscribed with unique, matching glyphs. While touching a shard, as an action, you can send a short to the creature possessing the other stone, as the *[[3rd-Circle Spells#Sending|sending]]* spell. A creature must have an INT of 5 (−3) or higher.
 
 Once used, the item can’t be used again until the next dawn. If one shard is destroyed, or its magic otherwise permanently deactivated, its twin suffers the same fate.
 
@@ -842,7 +842,7 @@ Made as a doll, wax figure, or carving, a *spirit effigy* allows you to affect a
 
 ***Assist.*** You can use your reaction to take the Help action for the target creature, provided you can see the creature and it is within 30 feet of you.
 
-***Cast Spell.*** You can cast the following spells on the target creature via the effigy, if the target creature is in range: *blindness/deafness, cure wounds, hold, inflict wounds, lesser restoration, protection from poison, resistance,* and *restoration*. (See *Player’s Guide* for all spells.)
+***Cast Spell.*** You can cast the following spells on the target creature via the effigy, if the target creature is in range: *[[2nd-Circle Spells#Blindness/Deafness|blindness/deafness]], [[1st-Circle Spells#Cure Wounds|cure wounds]], [[2nd-Circle Spells#Hold|hold]], [[1st-Circle Spells#Inflict Wounds|inflict wounds]], lesser restoration, [[2nd-Circle Spells#Protection from Poison|protection from poison]], resistance,* and *[[2nd-Circle Spells#Restoration|restoration]]*.
 
 ***Cause Pain.*** As an action, you can damage the doll by stabbing it, holding it to a flame, or dripping acid on it. The target suffers 1d6 damage of the type inflicted upon the doll (piercing, fire, or acid).
 
@@ -956,7 +956,7 @@ This wide belt has short, soft grey fur on both its inner and outer faces, with 
 
 *Wondrous Item, Uncommon 510 gp*
 
-A thin wooden disk is attached to two pieces of string: an image of a bird is painted on one side of the disk and a birdcage is on the other. While holding the end of the strings in each hand, as an action, you can twirl them between your fingers—causing the disk to spin and creating the optical illusion that the bird is in the cage—and cast the *[[1st-Circle Spells#Silent Image|silent image]]* spell (see *Player’s Guide*). As long as you keep spinning the disk, the spell requires no concentration. If you stop spinning it, the spell ends at the start of your next turn.
+A thin wooden disk is attached to two pieces of string: an image of a bird is painted on one side of the disk and a birdcage is on the other. While holding the end of the strings in each hand, as an action, you can twirl them between your fingers—causing the disk to spin and creating the optical illusion that the bird is in the cage—and cast the *[[1st-Circle Spells#Silent Image|silent image]]* spell. As long as you keep spinning the disk, the spell requires no concentration. If you stop spinning it, the spell ends at the start of your next turn.
 
 ## Thurible of Dream Traveling
 
@@ -1010,7 +1010,7 @@ This combination sap bucket and tap is used to extract sap from certain trees. A
 
 Whenever you make an INT check related to agriculture, masonry, or stonework—including on the construction, origin, or purpose of objects and structures—you can add your PB to the roll. If you have proficiency in History, double your PB for the roll.
 
-As an action, you can use this trowel to cast the *[[4th-Circle Spells#Stone Shape|stone shape]]* spell (see *Player’s Guide*). Once used, this property can’t be used again until the next dawn.
+As an action, you can use this trowel to cast the *[[4th-Circle Spells#Stone Shape|stone shape]]* spell. Once used, this property can’t be used again until the next dawn.
 
 ## Tyr’s Crushing Might
 

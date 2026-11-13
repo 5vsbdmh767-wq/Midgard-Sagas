@@ -10,7 +10,7 @@ Wizards have staffs and clerics have holy symbols, but martial characters have v
 
 ## Armor
 
-These armor options augment what can be found in *Player’s Guide*.
+These armor options add to the [[Armor]] list.
 
 **Armor (Book of Blades)**
 

@@ -300,9 +300,9 @@ Your commitment to the sorcerer’s path grants you a powerful new ability. Choo
 
 - **Innate Spell.** You learn one spell of 1st or 2nd circle from the Arcane, Primordial, or Wyrd spell list. You can cast that spell at its lowest circle by expending a number of sorcery points equal to that spell’s circle instead of using a spell slot. When you gain a level in sorcerer, you can replace your innate spell with another spell of 1st or 2nd circle from the available lists.
 
-- **Meta Surge.** When you cast a spell modified by one or more options from your Metamagic feature (see *Player’s* *Guide*), you can choose to either add a bonus to the spell attack roll or increase the spell save DC by an amount equal to half your PB rounded down (minimum of +2).
+- **Meta Surge.** When you cast a spell modified by one or more options from your [[#Metamagic|Metamagic]] feature, you can choose to either add a bonus to the spell attack roll or increase the spell save DC by an amount equal to half your PB rounded down (minimum of +2).
 
-- **Secrets Within.** Immediately gain two Metamagic feature (see *Player’s Guide*) options of your choice. These options don’t count against the total number of options you know. When you gain a level in sorcerer, you can choose to replace these options as you would any other.
+- **Secrets Within.** Immediately gain two [[#Metamagic|Metamagic]] feature options of your choice. These options don’t count against the total number of options you know. When you gain a level in sorcerer, you can choose to replace these options as you would any other.
 
 %% source: Player's Guide 2: Meta Surge, Secrets Within %%
 
@@ -326,7 +326,7 @@ Your commitment to the sorcerer’s path grants you a powerful new ability. You 
 
 - **Boundless Magic.** Whenever you cast a spell with a 1st–4th circle spell slot, roll a d4. If the number rolled is equal to the circle of the spell slot used, the slot isn’t expended (though the spell is still cast as if you had spent it).
 
-- **Source Tap.** When you roll for initiative, you regain up to 4 expended sorcery points (see *Player’s* *Guide*). If you start your turn with no sorcery points remaining, you regain 2 sorcery points.
+- **Source Tap.** When you roll for initiative, you regain up to 4 expended [[#Sorcery Points|sorcery points]]. If you start your turn with no sorcery points remaining, you regain 2 sorcery points.
 
 %% source: Player's Guide 2: Boundless Magic, Source Tap %%
 
@@ -365,7 +365,7 @@ You receive your magic from the primordial beings who existed before the creatio
 
 *3rd-Level Abominable Feature*
 
-You gain origin spells at the sorcerer levels listed in the **Abominable Origin Spells** table. See the Sorcerer Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain origin spells at the sorcerer levels listed in the **Abominable Origin Spells** table. See the [[#Sorcerer Subclass|Sorcerer Subclass]] feature for how these spells work.
 
 *Abominable Origin Spells*
 
@@ -381,7 +381,7 @@ You gain origin spells at the sorcerer levels listed in the **Abominable Origin 
 
 *3rd-Level Abominable Feature*
 
-Your body undergoes subtle transformations as you embrace your otherworldly origin. Vital organs shift or merge without any negative impact to you, but they make it more difficult for others to inflict grievous harm to you. When a creature scores a critical hit against you, there is a 25 percent chance it becomes a normal hit. This increases to 50 percent at 11th level and 75 percent at 15th level. As a reaction when you take damage, you can spend 1 sorcery point (see *Player’s Guide*) to increase the percent chance by 25 percent (and automatically turning the critical hit into a normal hit at 15th level or higher).
+Your body undergoes subtle transformations as you embrace your otherworldly origin. Vital organs shift or merge without any negative impact to you, but they make it more difficult for others to inflict grievous harm to you. When a creature scores a critical hit against you, there is a 25 percent chance it becomes a normal hit. This increases to 50 percent at 11th level and 75 percent at 15th level. As a reaction when you take damage, you can spend 1 [[#Sorcery Points|sorcery point]] to increase the percent chance by 25 percent (and automatically turning the critical hit into a normal hit at 15th level or higher).
 
 In addition, you have advantage on saves against spells and effects that would alter your form against your will.
 
@@ -655,7 +655,7 @@ The power of the storm thunders within you. The magic that courses through you i
 
 *3rd-Level Cyclonic Feature*
 
-You gain origin spells at the sorcerer levels listed in the **Cyclonic Origin Spells** table. See the Sorcerer Subclass class feature in the *Player’s Guide* for how these spells work.
+You gain origin spells at the sorcerer levels listed in the **Cyclonic Origin Spells** table. See the [[#Sorcerer Subclass|Sorcerer Subclass]] feature for how these spells work.
 
 *Cyclonic Origin Spells*
 
@@ -685,7 +685,7 @@ The storm magic within you is tied forever to the elemental planes. You gain the
 
 Bidden by your magic, a sudden burst of wind can hurl you great distances. Once per turn, immediately after you cast a spell, you can choose to fly up to 30 feet as part of that same action. This movement does not provoke opportunity attacks.
 
-You can use this feature a number of times equal to your PB. If you have no uses remaining, you can spend 2 sorcery points (see *Player’s Guide*) to activate this feature. You regain all expended uses when you finish a short or long rest.
+You can use this feature a number of times equal to your PB. If you have no uses remaining, you can spend 2 [[#Sorcery Points|sorcery points]] to activate this feature. You regain all expended uses when you finish a short or long rest.
 
 ### Fulminated Magic
 
@@ -910,17 +910,17 @@ Your divine nature grants you a minor amount of grace. If you fail a save or mis
 
 *3rd-Level Sacred Feature*
 
-You gain the following unique option for your Metamagic feature (see *Player’s Guide*). This option can’t be replaced and doesn’t count against the number of Metamagic options that you know.
+You gain the following unique option for your [[#Metamagic|Metamagic]] feature. This option can’t be replaced and doesn’t count against the number of Metamagic options that you know.
 
 #### Metamagic: Divine Spell
 
-When you cast a spell that deals damage, you can spend 1 sorcery point (see *Player’s Guide*) when rolling damage to replace half the spell’s damage with necrotic damage, if you chose Fiendish origin spells, or with radiant damage, if you chose Celestial origin spells (see also **Sacred Origin Spells**). You can use this Divine Spell option even if you have already used a different Metamagic option during the casting of the spell.
+When you cast a spell that deals damage, you can spend 1 [[#Sorcery Points|sorcery point]] when rolling damage to replace half the spell’s damage with necrotic damage, if you chose Fiendish origin spells, or with radiant damage, if you chose Celestial origin spells (see also **Sacred Origin Spells**). You can use this Divine Spell option even if you have already used a different Metamagic option during the casting of the spell.
 
 ### Sacred Origin Spells
 
 *3rd-Level Sacred Feature*
 
-When you gain this subclass, choose if your magic derives from celestial or fiendish power. You gain origin spells at the sorcerer levels listed in the **Celestial Origin Spells** table or the **Fiendish Origin Spells** table, based on which you chose. See the Sorcerer Subclass class feature in the *Player’s Guide* for how these spells work.
+When you gain this subclass, choose if your magic derives from celestial or fiendish power. You gain origin spells at the sorcerer levels listed in the **Celestial Origin Spells** table or the **Fiendish Origin Spells** table, based on which you chose. See the [[#Sorcerer Subclass|Sorcerer Subclass]] feature for how these spells work.
 
 ### Divine Retribution
 
@@ -935,7 +935,7 @@ As a reaction when a creature you can see deals damage to you, you can release a
 Divine power courses through your body, changing it in subtle ways. You are immune to disease and the poisoned condition, and you are resistant to the charmed and frightened conditions.
 
 > [!note] Domain Origin Spells
-> If you want to play a Sacred sorcerer associated with a particular god or ideal, choose a cleric subclass that fits that god or ideal. Instead of gaining the Sacred Origin Spells feature, you gain that cleric subclass’s Domain Spells feature as your origin spells. This means you gain two extra spells known at 3rd level and no new origin spells known at 11th level, but these replaced spells are otherwise origin spells for you and work as detailed in the Sorcerer Subclass feature (see *Player’s Guide*). Discuss with your GM if or how this choice will affect other features of the Sacred sorcerer subclass that reference the Sacred Origin Spells feature.
+> If you want to play a Sacred sorcerer associated with a particular god or ideal, choose a cleric subclass that fits that god or ideal. Instead of gaining the Sacred Origin Spells feature, you gain that cleric subclass’s Domain Spells feature as your origin spells. This means you gain two extra spells known at 3rd level and no new origin spells known at 11th level, but these replaced spells are otherwise origin spells for you and work as detailed in the [[#Sorcerer Subclass|Sorcerer Subclass]] feature. Discuss with your GM if or how this choice will affect other features of the Sacred sorcerer subclass that reference the Sacred Origin Spells feature.
 >
 
 As a bonus action, you can call on this divine power to manifest a pair of wings from your back, gaining a flying speed equal to your walking speed. They last until you dismiss them (as a bonus action). The wings have a feathered, bird-like appearance if you chose Celestial origin spells or a leathery, bat-like appearance if you chose Fiendish origin spells. The appearance of the wings is otherwise up to you. You can’t manifest your wings while wearing armor.
@@ -1073,7 +1073,7 @@ While you are standing in an area of darkness or magical darkness, you can use a
 
 *3rd-Level Umbral Feature*
 
-You gain origin spells at the sorcerer levels listed in the **Umbral Origin Spells** table. See the **Sorcerer Subclass** class feature in the *Player’s Guide* for how these spells work.
+You gain origin spells at the sorcerer levels listed in the **Umbral Origin Spells** table. See the [[#Sorcerer Subclass|Sorcerer Subclass]] feature for how these spells work.
 
 **Umbral Origin Spells**
 

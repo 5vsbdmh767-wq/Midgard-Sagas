@@ -349,7 +349,7 @@ For the duration, each time the target sleeps, it must repeat the save. On a fai
 
 You target a creature within range. It must succeed on a CHA save or it becomes permanently linked to you. While linked, if you take damage, the damage is instead transferred to the target, and vice versa. In addition, any condition inflicted on you or the target transfers to the linked creature. This doesn’t apply to any self-inflicted damage or conditions. If you or the target dies, the linked creature must succeed on a CON save made with disadvantage or immediately drop to 0 HP.
 
-Once you successfully cast this spell, it can’t be ended short of a *[[9th-Circle Spells#Wish|wish]]* spell (see *Player’s Guide*) or similar magic. However, if you and the target are both dead at the same time, the spell ends and doesn’t resume if either creature is restored to life.
+Once you successfully cast this spell, it can’t be ended short of a *[[9th-Circle Spells#Wish|wish]]* spell or similar magic. However, if you and the target are both dead at the same time, the spell ends and doesn’t resume if either creature is restored to life.
 
 ## Nacreous Shell
 

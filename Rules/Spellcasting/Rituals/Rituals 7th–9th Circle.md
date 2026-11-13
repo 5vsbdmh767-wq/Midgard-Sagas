@@ -63,9 +63,9 @@ As you cast this spell, you place a perfectly cut prism onto the ground made of 
 
 *You curse a creature to starve, no matter how much it eats.*
 
-You cast a curse on a creature within range that you are familiar with. The cursed creature is unsated by any food it eats, nor does it derive any pleasure from eating. Ten minutes after the spell is cast, the target feels a constant, gnawing hunger, and can no longer draw sustenance from food. It begins to starve (see **Starvation and Dehydration** in **Chapter 6** of *Player’s Guide*).
+You cast a curse on a creature within range that you are familiar with. The cursed creature is unsated by any food it eats, nor does it derive any pleasure from eating. Ten minutes after the spell is cast, the target feels a constant, gnawing hunger, and can no longer draw sustenance from food. It begins to starve (see [[Life and Death#Starvation and Dehydration|Starvation and Dehydration]]).
 
-The spell is permanent until either the creature dies or is targeted by a *remove curse spell* (see *Player’s Guide*) or until you take an action to remove the curse.
+The spell is permanent until either the creature dies or is targeted by a *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or until you take an action to remove the curse.
 
 ## Astral Projection
 
@@ -237,7 +237,7 @@ You sign a contract using your own blood as ink. The magic of the ritual shapes 
 | 3 | Hellish Mien. Your face alters into one of the scales, horns, black eyes, and sharpened fangs. You are immune to fire damage. Any creature that starts its turn within 5 feet of you takes 3d6 fire damage. |
 | 4 | Infernal Command. Your head and hands glow red‑hot. You have advantage on WIS (Insight) and CHA (Intimidation) checks, and you can detect lies spoken to you. |
 | 5 | Vertical Eyeslits. Your pupils narrow into slits, becoming deceitful and cunning. You gain an advantage on CHA (Persuasion) checks and INT (Investigation) ability checks, and you can see invisible creatures and objects as though they were visible. |
-| 6 | Voice of Temptation. Your voice becomes a seductive whisper, capable of weaving intricate lies. You gain advantage on CHA (Deception) checks and the ability to cast the suggestion spell (see Player’s Guide, spell save DC equal to your own) once during the duration. |
+| 6 | Voice of Temptation. Your voice becomes a seductive whisper, capable of weaving intricate lies. You gain advantage on CHA (Deception) checks and the ability to cast the *[[2nd-Circle Spells#Suggestion|suggestion]]* spell (spell save DC equal to your own) once during the duration. |
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 8th circle or higher, you gain an additional devilish form for each circle you have access to above 7th.
 
@@ -317,9 +317,9 @@ When the spell ends, regardless of how long you spent inside it, the demiplane d
 
 *You protect a building and those who dwell in it.*
 
-You invoke a blessing upon a building, placing divine protection upon it, those dwelling within, and any invited guests. The spell affects a structure of up to 10,000 square feet per floor, and three floors up and down from ground level, as well as any creatures that claim the building as a dwelling and any invited guests inside when the spell is cast, including any invited in before the duration expires. While the spell lasts, the building is immune to fire and resistant to lightning and thunder damage. All doors, windows, and other portals into and within the building are treated as if affected by an *[[Rituals 1st–3rd Circle#Arcane Lock|arcane lock]]* spell (see *Player’s* *Guide*) by anyone who isn’t a resident or an invited guest.
+You invoke a blessing upon a building, placing divine protection upon it, those dwelling within, and any invited guests. The spell affects a structure of up to 10,000 square feet per floor, and three floors up and down from ground level, as well as any creatures that claim the building as a dwelling and any invited guests inside when the spell is cast, including any invited in before the duration expires. While the spell lasts, the building is immune to fire and resistant to lightning and thunder damage. All doors, windows, and other portals into and within the building are treated as if affected by an *[[Rituals 1st–3rd Circle#Arcane Lock|arcane lock]]* spell by anyone who isn’t a resident or an invited guest.
 
-All affected creatures are under the effects of a *protection* *from evil and good* spell (see *Player’s Guide*) while within the building. If an affected creature is affected by healing magic, they automatically regain the maximum number of hit points possible. Likewise, any spell or effect that provides temporary hit points provides the maximum amount possible.
+All affected creatures are under the effects of a *[[1st-Circle Spells#Protection from Evil and Good|protection from evil and good]]* spell while within the building. If an affected creature is affected by healing magic, they automatically regain the maximum number of hit points possible. Likewise, any spell or effect that provides temporary hit points provides the maximum amount possible.
 
 ## Hostile Environment
 
@@ -569,7 +569,7 @@ If you attempt to cast this spell a second time while flowers from the first cas
 
 You cause a virulent disease to spring from you in a cloud of necrotic energy. Each creature within 1 mile of you must succeed on a CON save or become afflicted with the disease at Stage 1, as shown on the **Plague Stages** table. At the end of each 24-hour period, a creature still afflicted by this spell must repeat the save. On a failure, the creature progresses to the next stage of the disease. On a success, it regresses to the previous stage. A creature at Stage 1 who succeeds on the save ends the disease on itself. A creature has all the symptoms of its current stage in addition to those of the lower stages.
 
-Magic such as a *lesser restoration* spell (see *Player’s Guide*) cast at 5th circle or lower reduces the stage by one. If cast using a spell slot of 6th circle or higher, the disease ends for that target.
+Magic such as a *lesser *[[2nd-Circle Spells#Restoration|restoration]]** spell cast at 5th circle or lower reduces the stage by one. If cast using a spell slot of 6th circle or higher, the disease ends for that target.
 
 ***At Higher Circles.*** As you unlock higher circles, this ritual grows in potency. Once you have access to 7th-circle spell slots, the radius of this spell increases by 1 mile for each circle you have access above 6th.
 
@@ -757,7 +757,7 @@ If only one creature is an unwilling participant, it can make a CON save after t
 
 If both creatures are unwilling, they must both succeed at their saves. Otherwise, the ritual continues. If one succeeds and the other fails, they can both make new saves after 10 minutes. If one creature has already succeeded on its save, it gains advantage on successive saves.
 
-If the ritual succeeds, the effects last until the creatures die or until a *[[9th-Circle Spells#Wish|wish]]* spell (see *Player’s Guide*) or similar magic is used to end the spell.
+If the ritual succeeds, the effects last until the creatures die or until a *[[9th-Circle Spells#Wish|wish]]* spell or similar magic is used to end the spell.
 
 ## Sun Cycle
 
@@ -911,9 +911,9 @@ The warship is a Gargantuan vehicle, 100 feet long and 20 feet wide. The ship ha
 
 Below deck is divided into two floors: the lower deck and the hold. Each level of the ship is connected by wooden stairs. Below deck is furnished and decorated as you like, and it contains sufficient food to serve a nine-course banquet for up to 60 people each day. Furnishings, food, and other objects created by this spell crumble to dust if removed from the ship.
 
-A crew of forty invisible servants obey any command given to them by creatures you designate when you cast the spell. Each servant functions as if created by the *unseen* *servant* ritual spell (see *Player’s Guide*).
+A crew of forty invisible servants obey any command given to them by creatures you designate when you cast the spell. Each servant functions as if created by the *[[Rituals 1st–3rd Circle#Unseen Servant|unseen servant]]* ritual spell.
 
-The ship, and the siege weapons aboard it, are made of wood and metal and are immune to poison and psychic damage. The hull of the ship has AC 15 and 500 hit points. The ballistae have AC 15 and 50 hit points each. The cannons have AC 19 and 75 hit points each. For other vehicular interactions not specified here, see the **galley** in **Chapter 5** of the *Player’s Guide*.
+The ship, and the siege weapons aboard it, are made of wood and metal and are immune to poison and psychic damage. The hull of the ship has AC 15 and 500 hit points. The ballistae have AC 15 and 50 hit points each. The cannons have AC 19 and 75 hit points each. For other vehicular interactions not specified here, see the [[Vehicles#Galley|galley]].
 
 The vessel lasts until it is destroyed. If you cast this spell again while one exists, the first vessel is instantly destroyed.
 

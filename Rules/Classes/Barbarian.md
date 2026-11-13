@@ -158,13 +158,13 @@ This extra damage increases to two additional dice at 13th level and three addit
 
 Your commitment to the barbarian’s path grants you a powerful ability. Choose one of the following heroic boons:
 
-- **Bloody Rage.** While you are raging (see Rage feature in *Player’s Guide*), any bludgeoning, piercing, or slashing damage you deal with a weapon attack ignores resistances and immunities.
+- **Bloody Rage.** While you are raging (see [[#Rage|Rage]]), any bludgeoning, piercing, or slashing damage you deal with a weapon attack ignores resistances and immunities.
 
 - **Instant Rage.** You can rage (no bonus action required) when you roll initiative and use your Fast Movement feature, if you have at least one use of Rage left to expend.
 
 - **Stubborn Rage.** Your rage ends only when its duration expires, you fall unconscious, or you choose to end it.
 
-- **Vengeful Rage.** When a hostile creature damages you while you are raging (see Rage feature in *Player’s Guide*), you have advantage on the first attack you make against that creature on your next turn.
+- **Vengeful Rage.** When a hostile creature damages you while you are raging (see [[#Rage|Rage]]), you have advantage on the first attack you make against that creature on your next turn.
 
 %% source: Player's Guide 2: Bloody Rage, Vengeful Rage %%
 
@@ -206,7 +206,7 @@ Your commitment to the barbarian’s path grants you a powerful new ability. You
 
 - **Primal Champion.** You embody untamed power. Your STR and CON scores each increase by 4. Your maximum for those scores is now 24.
 
-- **Unbreakable Champion.** When you enter a rage (see Rage feature in *Player’s Guide*), you automatically heal a number of hit points equal to half your CON score and gain temporary hit points equal to your full CON score.
+- **Unbreakable Champion.** When you enter a rage (see [[#Rage|Rage]]), you automatically heal a number of hit points equal to half your CON score and gain temporary hit points equal to your full CON score.
 
 %% source: Player's Guide 2: Mighty Champion, Unbreakable Champion %%
 
@@ -308,7 +308,7 @@ The chaos in your blood empowers you. You gain a number of d10 dice equal to you
 
 #### Chaos Banes
 
-When you successfully hit a creature with a melee attack while your Rage feature (see *Player’s Guide*) is active, you can choose to expend one chaos die. When you do so, roll the expended die. The creature then takes additional force damage equal to the number rolled and is afflicted with one of the following Chaos Banes of your choice.
+When you successfully hit a creature with a melee attack while your [[#Rage|Rage]] feature is active, you can choose to expend one chaos die. When you do so, roll the expended die. The creature then takes additional force damage equal to the number rolled and is afflicted with one of the following Chaos Banes of your choice.
 
 ***Enervate.*** The target must succeed on a WIS save or have disadvantage on the next attack roll it makes before the end of its next turn.
 
@@ -438,7 +438,7 @@ The implacable and effortless nature of the windswept hills instills in you with
 
 *3rd-Level Four Winds Feature*
 
-Each time you enter a rage (see Rage feature in *Player’s* *Guide*), the swirling winds of your ancestral home surround you. While raging and conscious, you can’t be knocked prone, and you land on your feet after falling. When you first enter your rage, choose one of the following additional benefits that activates for the duration:
+Each time you enter a rage (see [[#Rage|Rage]]), the swirling winds of your ancestral home surround you. While raging and conscious, you can’t be knocked prone, and you land on your feet after falling. When you first enter your rage, choose one of the following additional benefits that activates for the duration:
 
 - The buffeting winds protect you. You are lightly obscured by the swirling dust. Ranged attacks against you are made at disadvantage, and you gain resistance to lightning and thunder damage.
 
@@ -450,7 +450,7 @@ Each time you enter a rage (see Rage feature in *Player’s* *Guide*), the swirl
 
 *7th-Level Four Winds Feature*
 
-The howling gales protect you and your allies. You reduce any falling damage you take by an amount equal to twice your barbarian level. While raging (see Rage feature in *Player’s Guide*), this reduction occurs after the damage is already halved by your rage.
+The howling gales protect you and your allies. You reduce any falling damage you take by an amount equal to twice your barbarian level. While raging (see [[#Rage|Rage]]), this reduction occurs after the damage is already halved by your rage.
 
 While raging, as a reaction when you or an ally within 30 feet that you can see or hear takes damage, you can reduce that damage by an amount equal to your barbarian level, and you can move the targeted ally up to 10 feet in a direction of your choice (provided the ally is willing).
 
@@ -548,7 +548,7 @@ You can forage for 1d4 servings of blessed honey each day. To forage, you must b
 
 - ***Golden!*** Nonmagical light sources you are carrying don't shed dim light, instead they shed golden, bright light to the limit of their range until the end of your next long rest.
 - ***Hearty!*** You recover one additional level of exhaustion after you finish your next long rest, and the honey provides you with enough nourishment to sustain you for two days.
-- ***Smooth!*** A single bee escorts you until the end of your next long rest. You can use a bonus action to command the bee to sting one creature within 30 feet of you for 1 piercing damage. If you are raging, the bee deals additional piercing damage equal to your bonus rage damage as shown in the Barbarian Progression table (see Player's Guide). The bee dies after dealing this damage.
+- ***Smooth!*** A single bee escorts you until the end of your next long rest. You can use a bonus action to command the bee to sting one creature within 30 feet of you for 1 piercing damage. If you are raging, the bee deals additional piercing damage equal to your bonus rage damage as shown in the Barbarian Progression table. The bee dies after dealing this damage.
 - ***Sweet!*** You exude a sweet, floral aroma until you finish a long rest. While exuding this aroma, you have advantage on WIS (Animal Handling) checks when interacting with Beasts with an INT of 3 (−4) or lower.
 
 A creature can benefit from only one serving of blessed honey at a time. Once you use this feature, you can't use it again until you finish a long rest.
@@ -604,7 +604,7 @@ In addition, when you are submerged in water, you gain darkvision out to a range
 
 *3rd-Level Kraken Feature*
 
-When you activate your Rage feature (see *Player’s Guide*), you call on your primal connection to the kraken. While raging, two spectral tentacles sprout from your body. The tentacles count as melee weapons with which you are proficient. Each tentacle has a reach of 10 feet.
+When you activate your [[#Rage|Rage]] feature, you call on your primal connection to the kraken. While raging, two spectral tentacles sprout from your body. The tentacles count as melee weapons with which you are proficient. Each tentacle has a reach of 10 feet.
 
 As a bonus action (which can be part of the same bonus action used to activate your Rage), you can make up to two melee weapon attacks with the tentacles (one attack per tentacle). On a successful hit, a tentacle deals force damage equal to 1d4 + your STR modifier. If the target is a Large or smaller creature, it is also grappled (escape DC 8 + your PB + your STR modifier). A tentacle can grapple only one target at a time. If a tentacle is grappling a target, it can make attacks against only that target.
 

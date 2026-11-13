@@ -21,7 +21,7 @@ You’ve studied the art of alchemy extensively, and you gained these benefits:
 
 - Double your PB when you make an ability check that uses alchemist tools.
 
-- When you use the downtime crafting activity (see *Player’s Guide*) to make alchemical concoctions, for each workday you spend crafting, you can craft one item (or multiple items) worth a total amount of gold equal to 10 × your PB.
+- When you use the downtime [[Between Adventures#Crafting|crafting]] activity to make alchemical concoctions, for each workday you spend crafting, you can craft one item (or multiple items) worth a total amount of gold equal to 10 × your PB.
 
 - You are considered proficient with ranged attacks made with alchemical concoctions, and you can use either STR or DEX (your choice) for these ranged attack rolls. In addition, you don’t have disadvantage on a ranged attack roll made with an alchemical concoction even if a hostile creature is within 5 feet of you.
 
@@ -233,7 +233,7 @@ You are conditioned to withstand bodily strain. You gain these benefits:
 
 You excel at performing. Choose two of the following skills: Acrobatics, Performance, or Sleight of Hand. When you make a check using your chosen skills, treat any d20 roll of 9 or less as though you rolled a 10.
 
-When you perform for at least 1 minute, you can produce a nonmagical effect that functions the same as the *[[2nd-Circle Spells#Enthrall|enthrall]]* spell (see *Player’s Guide*). You can do this a number of times per day equal to your PB, and you recover expended uses when you complete a long rest.
+When you perform for at least 1 minute, you can produce a nonmagical effect that functions the same as the *[[2nd-Circle Spells#Enthrall|enthrall]]* spell. You can do this a number of times per day equal to your PB, and you recover expended uses when you complete a long rest.
 
 ## Escamotage
 
@@ -411,7 +411,7 @@ You’ve learned to adapt to new situations on the fly. As an action, you can us
 
 You’ve developed techniques that make finding the information you seek easier for you. Choose two of the following skills: Arcana, History, Nature, or Religion. When you make a check using your chosen skills, treat any d20 roll of 9 or less as though you rolled a 10. You can use this feature a number of times per day equal to your PB. You recover expended uses when you finish a long rest.
 
-When you spend downtime researching (see *Player’s* *Guide*), the cost and time it takes is divided by your PB (rounded down). Also, when you make your research resolution roll, make the roll with advantage. If you roll 11 or higher, you learn an additional clue.
+When you spend downtime [[Between Adventures#Researching|researching]], the cost and time it takes is divided by your PB (rounded down). Also, when you make your research resolution roll, make the roll with advantage. If you roll 11 or higher, you learn an additional clue.
 
 ## Living Off the Land
 
@@ -608,7 +608,7 @@ You are a practiced reaver. You gain these benefits:
 
 When you talk, people can’t help but listen. Choose two of the following skills: Deception, Intimidation, or Persuasion. When you make a check using your chosen skills, treat any d20 roll of 9 or less as though you rolled a 10. You can use this feature a number of times per day equal to your PB. You recover expended uses when you finish a long rest.
 
-When you spend downtime carousing (see *Player’s Guide*), the cost and time it takes is divided by your PB (rounded down). Also, when you make your carousing resolution roll, make the roll with advantage. If you roll 11 or higher, you gain an additional favor.
+When you spend downtime [[Between Adventures#Carousing|carousing]], the cost and time it takes is divided by your PB (rounded down). Also, when you make your carousing resolution roll, make the roll with advantage. If you roll 11 or higher, you gain an additional favor.
 
 ## Sleuth
 
@@ -618,7 +618,7 @@ When you spend downtime carousing (see *Player’s Guide*), the cost and time it
 
 You’re a master of deduction. Choose two of the following skills: Insight, Investigation, Perception, or Survival. When you make a check using your chosen skills, treat any d20 roll of 9 or less as though you rolled a 10.
 
-When you talk with a creature that can understand you for at least 1 minute, you can produce a nonmagical effect that functions the same as the *[[2nd-Circle Spells#Zone of Truth|zone of truth]]* spell (see *Player’s Guide*).
+When you talk with a creature that can understand you for at least 1 minute, you can produce a nonmagical effect that functions the same as the *[[2nd-Circle Spells#Zone of Truth|zone of truth]]* spell.
 
 You can use each of these features a number of times per day equal to your PB, and you recover expended uses when you finish a long rest.
 

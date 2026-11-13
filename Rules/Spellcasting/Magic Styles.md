@@ -18,7 +18,7 @@ Each style of magic starts with a description of core theme of the style, as wel
 
 ### Recommended Spell List
 
-This section lists spells from the *Player’s Guide* and new spells presented later in this book that work well for characters interested in adopting this magical style. Note that the spells on this list aren’t restricted to certain schools of magic, which is intentionally done to expand the versatility of each magic style. The spells included on these lists are also not restricted by individual class spell lists. If you are interested in pursuing a particular style, consider asking your GM to allow access to all the spells presented on the recommended spell list, even if they wouldn’t typically be available for your character class.
+This section lists spells that work well for characters interested in adopting this magical style. Note that the spells on this list aren’t restricted to certain schools of magic, which is intentionally done to expand the versatility of each magic style. The spells included on these lists are also not restricted by individual class spell lists. If you are interested in pursuing a particular style, consider asking your GM to allow access to all the spells presented on the recommended spell list, even if they wouldn’t typically be available for your character class.
 
 Spells marked *(ritual)* are rituals. Every spell name links to its full description.
 
@@ -59,7 +59,7 @@ This section presents a sampling of spells in alignment with the clockwork magic
 
 **4th Circle**
 
-- *[[4th-Circle Spells#Bladed Wings (Labyrinth)|Bladed Wings]]* (Transmutation)
+- *[[4th-Circle Spells#Bladed Wings|Bladed Wings]]* (Transmutation)
 - *[[Rituals 4th–6th Circle#Fabricate|Fabricate]]* (ritual) (Transmutation)
 - *[[4th-Circle Spells#Stone Shape|Stone Shape]]* (Transmutation)
 

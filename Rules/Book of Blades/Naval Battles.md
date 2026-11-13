@@ -44,7 +44,7 @@ When a ship is defeated in combat, enemy sailors are usually rescued from the wa
 
 ## Setting Sail
 
-The **Tales of the Valiant** *Player’s Guide* and *Game Master’s Guide* contain rules for vehicle movement and combat. The alternate naval combat rules presented here are intended to make the ship a dynamic and exciting part of any conflict, with a little more complexity. While these rules refer to wind and sails, they can also be applied easily to navigating currents in the aether or using magical engines to surf the astral plane.
+The [[Vehicles]] page has the core rules for vehicle movement and combat. The alternate naval combat rules presented here are intended to make the ship a dynamic and exciting part of any conflict, with a little more complexity. While these rules refer to wind and sails, they can also be applied easily to navigating currents in the aether or using magical engines to surf the astral plane.
 
 ### Movement
 
@@ -80,7 +80,7 @@ The possibility of a crew mutinying against its officers is a real threat at sea
 
 A second method is to check for mutiny each time the crew feels slighted or loses faith in their leaders. When this occurs, the PC acting as captain or boatswain must make a CHA (Intimidation or Persuasion) ability check modified by any mastery or liability (see the Effects column on the **Hired Crew Quality** table). On a success, the crew is quieted, but any further mutiny checks required until the crew has taken a long rest are at an increased DC. On a failure, the crew becomes completely unmanageable and might attack the officers. All ship movement stops, and no shipboard actions are available until the captain or boatswain takes some extraordinary measure to regain the crew’s loyalty (as determined by the GM).
 
-The GM sets the DC of this check based on the severity of the precipitating incident. The **Typical Difficulty Class** table in **Chapter 6** of *Player’s Guide* has the standard DCs for tasks.
+The GM sets the DC of this check based on the severity of the precipitating incident. The [[Rolling the Dice|Typical Difficulty Class]] table has the standard DCs for tasks.
 
 ## Prize Pay
 

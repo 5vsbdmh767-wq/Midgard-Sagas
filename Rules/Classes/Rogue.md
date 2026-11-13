@@ -166,7 +166,7 @@ You have refined your chosen skills until they approach perfection. When you mak
 
 Your commitment to the rogue’s path grants you a powerful new ability. Choose one of the following heroic boons:
 
-- **Double Tap.** If you deal damage using your Sneak Attack feature (see *Player’s Guide*) to a creature as part of an attack made during your turn and the target isn’t reduced to 0 HP, you can immediately make a single additional weapon attack against that creature with a Finesse or ranged weapon you are wielding.
+- **Double Tap.** If you deal damage using your [[#Sneak Attack|Sneak Attack]] feature to a creature as part of an attack made during your turn and the target isn’t reduced to 0 HP, you can immediately make a single additional weapon attack against that creature with a Finesse or ranged weapon you are wielding.
 
 - **Escape Artist.** When you are subjected to an effect that allows you to make any kind of save (including DEX saves) to take only half damage, you instead take no damage if you succeed on the save and only half damage if you fail.
 
@@ -236,7 +236,7 @@ You add magic to your bag of tricks to confound your foes or relieve others of t
 
 *3rd-Level Con Arcanist Feature*
 
-You further enhance your wide range of skills with the ability to cast Arcane spells. See **Spell Rules** in the *Player’s* *Guide* for the general rules of spellcasting and the Arcane spell list.
+You further enhance your wide range of skills with the ability to cast Arcane spells. See [[Spellcasting]] for the general rules of spellcasting and the Arcane spell list.
 
 #### Cantrips
 
@@ -301,7 +301,7 @@ When you gain a new talent, you can select it from the magic or technical talent
 
 *3rd-Level Con Arcanist Feature*
 
-When you cast the *[[Cantrips#Mage Hand|mage hand]]* cantrip, you can make the floating hand invisible, and you can control it using the bonus action granted by your Cunning Action feature (see *Player’s Guide*).
+When you cast the *[[Cantrips#Mage Hand|mage hand]]* cantrip, you can make the floating hand invisible, and you can control it using the bonus action granted by your [[#Cunning Action|Cunning Action]] feature.
 
 When you control the hand, you can choose to have it stow or retrieve an item from a container worn or carried by another creature. When you do so, make a DEX (Sleight of Hand) check contested by the target’s WIS (Perception) check. If you win the contest, the creature doesn’t notice the hand, its activity, or your control of the hand.
 
@@ -311,7 +311,7 @@ In addition, you can use the hand to make DEX (Thieves’ Tools) checks at a dis
 
 *7th-Level Con Arcanist Feature*
 
-You can choose to cast a spell without any somatic or verbal components. If you do so while targeting a creature for which you meet the conditions to use your Sneak Attack feature (see *Player’s Guide*), the target has disadvantage on its save.
+You can choose to cast a spell without any somatic or verbal components. If you do so while targeting a creature for which you meet the conditions to use your [[#Sneak Attack|Sneak Attack]] feature, the target has disadvantage on its save.
 
 You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
@@ -325,7 +325,7 @@ As a bonus action, you can choose a target within 5 feet of the floating hand cr
 
 *15th-Level Con Arcanist Feature*
 
-As an action, you can make yourself invisible and create an illusory double of yourself in your space. This effect works like the *[[5th-Circle Spells#Mislead|mislead]]* spell, except only the invisibility aspect requires concentration. The illusory double remains for 1 hour or until you dismiss it (no action required). You can use the bonus action granted by your Cunning Action feature (see *Player’s Guide*) to move and control your illusory double.
+As an action, you can make yourself invisible and create an illusory double of yourself in your space. This effect works like the *[[5th-Circle Spells#Mislead|mislead]]* spell, except only the invisibility aspect requires concentration. The illusory double remains for 1 hour or until you dismiss it (no action required). You can use the bonus action granted by your [[#Cunning Action|Cunning Action]] feature to move and control your illusory double.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
@@ -403,7 +403,7 @@ Instead of relying on physical weapons, you draw from your inner resolve to mani
 
 You manifest a portion of your soul into psychic blades. Whenever you take the Attack action, you can manifest a blade of psychic energy from your free hand and make an attack with that blade. The blade has the same statistics as a dagger, but it deals psychic damage rather than piercing damage. You can manifest a second blade in your other hand for two-weapon fighting.
 
-If you use a psychic blade to perform a Pinning Shot (see **Weapon Options** in *Player’s Guide*), the blade remains until the creature frees itself or until you use Pinning Shot again.
+If you use a psychic blade to perform a Pinning Shot (see [[Weapons#Weapon Options|Weapon Options]]), the blade remains until the creature frees itself or until you use Pinning Shot again.
 
 ### Psychic Bulwark
 
@@ -431,7 +431,7 @@ Your psychic blades now act as beacons. The range of your Psychic Blade feature 
 
 *15th-Level Nightblade Feature*
 
-Your blades of your Psychic Blade feature hum with barely contained energy. When you use your Sneak Attack feature (see *Player’s Guide*) or score a critical hit with an attack roll with a psychic blade (which can include the psychic blade created by your Enhanced Blades feature), you can cause a burst of psychic energy to spill from the target. The target and each creature within 15 feet of it must make an INT save (DC 8 + your PB + your INT modifier), taking psychic damage equal to your Sneak Attack damage dice on a failed save or half as much damage on a successful one. A creature with an INT of 3 (−4) or lower can’t be affected by this burst.
+Your blades of your Psychic Blade feature hum with barely contained energy. When you use your [[#Sneak Attack|Sneak Attack]] feature or score a critical hit with an attack roll with a psychic blade (which can include the psychic blade created by your Enhanced Blades feature), you can cause a burst of psychic energy to spill from the target. The target and each creature within 15 feet of it must make an INT save (DC 8 + your PB + your INT modifier), taking psychic damage equal to your Sneak Attack damage dice on a failed save or half as much damage on a successful one. A creature with an INT of 3 (−4) or lower can’t be affected by this burst.
 
 If you use Psychic Burst as part of a critical hit, the target’s thoughts are also jumbled for 1 minute. Until this effect ends, each time the target makes an attack roll or ability check or makes a CON save to maintain concentration, it rolls a d6 and subtracts the number rolled from the attack roll, ability check, or CON save. The target can make an INT save at the end of each of its turns, ending this effect on itself on a success.
 
@@ -471,7 +471,7 @@ You’ve mastered a set of tricks that allow you to more easily hide your true i
 
 - You learn the *[[Cantrips#Message|message]]* cantrip and can cast it without material components.
 
-- You gain proficiency with charlatan tools (see the *Player’s Guide*). If you are already proficient, double your PB instead for checks made with charlatan tools. Once you reach 7th level in the rogue class, you also learn the *[[3rd-Circle Spells#Sending|sending]]* spell, which you can cast once per long rest without expending a spell slot or requiring material components.
+- You gain proficiency with [[Tools#Charlatan Tools|charlatan tools]]. If you are already proficient, double your PB instead for checks made with charlatan tools. Once you reach 7th level in the rogue class, you also learn the *[[3rd-Circle Spells#Sending|sending]]* spell, which you can cast once per long rest without expending a spell slot or requiring material components.
 
 ### Deep Cover
 
@@ -669,7 +669,7 @@ You can spend 1 minute crafting a simple, makeshift trap, using the materials at
 
 #### Trap Effects
 
-When you set a trap, you decide its trigger and effects, including if it deals damage or applies a condition. Use the **Trap Triggers** and **Trap Effects** tables to create it. Several options have a “cost” listed in d6s. The maximum number of d6s you can spend to create a single trap is equal to the number of d6s listed in the Sneak Attack column of the **Rogue Progression** table (see *Player’s Guide*). For example, a 5th-level rogue can create a trap that costs up to 3d6, which can be a trap that deals acid damage to a creature that enters its space or a trap that inflicts a condition for 1 minute when a creature enters a space within 5 feet of it.
+When you set a trap, you decide its trigger and effects, including if it deals damage or applies a condition. Use the **Trap Triggers** and **Trap Effects** tables to create it. Several options have a “cost” listed in d6s. The maximum number of d6s you can spend to create a single trap is equal to the number of d6s listed in the Sneak Attack column of the **Rogue Progression** table. For example, a 5th-level rogue can create a trap that costs up to 3d6, which can be a trap that deals acid damage to a creature that enters its space or a trap that inflicts a condition for 1 minute when a creature enters a space within 5 feet of it.
 
 ***Area of Effect.*** A trap’s area of effect is typically only the triggering creature. If you expend a d6 from the d6s available for creating the trap, you can make the trap affect each creature within 5 feet of the trap’s space when it is triggered. This range increases by 5 feet for each additional d6 you spend in this way, to a maximum of 30 feet (6d6). Any d6s spent increasing the trap’s area can’t be spent on triggers or effects.
 
@@ -769,7 +769,7 @@ Though most rogues prefer ambushing their opponents from the shadows, Underfoot 
 
 *3rd-Level Underfoot Feature*
 
-You enhance your subterfuge with the ability to cast Primordial spells. See the Player's Guide for the general rules of spellcasting and the Primordial spell list.
+You enhance your subterfuge with the ability to cast Primordial spells. See [[Spellcasting]] for the general rules of spellcasting and the Primordial spell list.
 
 #### Cantrips
 

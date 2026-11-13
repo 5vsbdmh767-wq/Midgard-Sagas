@@ -218,11 +218,11 @@ You learn two additional spells from any source at 13th level and again at 18th 
 
 Your commitment to the bard’s path grants you a powerful new ability. Choose one of the following heroic boons:
 
-- **Infectious Inspiration.** When a creature adds one of your Bardic Inspiration dice (see Bardic Inspiration feature in *Player’s Guide*) to an ability check, attack roll, or save, and the roll succeeds, the creature can choose an ally it can see within 30 feet of it. That ally gains a Bardic Inspiration die. Inspiration given in this way doesn’t expend a use of your current Bardic Inspiration dice.
+- **Infectious Inspiration.** When a creature adds one of your Bardic Inspiration dice (see [[#Bardic Inspiration|Bardic Inspiration]]) to an ability check, attack roll, or save, and the roll succeeds, the creature can choose an ally it can see within 30 feet of it. That ally gains a Bardic Inspiration die. Inspiration given in this way doesn’t expend a use of your current Bardic Inspiration dice.
 
 - **Persistent Inspiration.** When a creature adds one of your Bardic Inspiration dice to an ability check, attack roll, or save, and the roll still fails, the die isn’t lost and can be used again.
 
-- **Restorative Inspiration.** When a creature with one of your Bardic Inspiration dice (see Bardic Inspiration feature in *Player’s Guide*) casts a spell that restores hit points, it can choose to expend and roll the die to increase the total hit points the spell can heal by an amount equal to the result. The caster chooses how these additional hit points are distributed if the spell heals multiple targets. Alternatively, when a creature with one of your Bardic Inspiration die recovers hit points due to a spell, magic item, or class feature, it can use its reaction to roll and expend the Bardic Inspiration die to recover additional hit points equal to the result.
+- **Restorative Inspiration.** When a creature with one of your Bardic Inspiration dice (see [[#Bardic Inspiration|Bardic Inspiration]]) casts a spell that restores hit points, it can choose to expend and roll the die to increase the total hit points the spell can heal by an amount equal to the result. The caster chooses how these additional hit points are distributed if the spell heals multiple targets. Alternatively, when a creature with one of your Bardic Inspiration die recovers hit points due to a spell, magic item, or class feature, it can use its reaction to roll and expend the Bardic Inspiration die to recover additional hit points equal to the result.
 
 - **Valiant Inspiration.** When a creature with one of your Bardic Inspiration dice successfully deals damage with an attack, the creature can expend and roll the die to deal additional damage equal to the result. The extra damage is of the same type as that of the triggering attack (though the attacker chooses which type if there are more than one). Alternatively, when a creature with one of your Bardic Inspiration dice takes damage, the creature can use its reaction to expend and roll the die to reduce the amount of damage taken by an amount equal to the result + your CHA modifier.
 
@@ -242,9 +242,9 @@ Your commitment to the bard’s path grants you a powerful new ability. You gain
 
 - **Curtain Call.** If you start your turn with no uses of your Bardic Inspiration feature remaining, you can use your bonus action to recover a number of uses equal to your CHA modifier (minimum of 1). This bonus action can be taken as part of the bonus action required to maintain your Bardic Performance feature. Once you use this feature, you can’t do so again until you finish a long rest.
 
-- **Dual Performance.** When you use your Bardic Performance feature (see *Player’s Guide*) to begin a performance, you can choose two Bardic Performances you know and blend them together to simultaneously activate their benefits. You still must spend any actions or meet any specific requirements to activate specific effects described in either performance, but you can maintain and spend Bardic Inspiration to maintain both as you would with a single performance.
+- **Dual Performance.** When you use your [[#Bardic Performance|Bardic Performance]] feature to begin a performance, you can choose two Bardic Performances you know and blend them together to simultaneously activate their benefits. You still must spend any actions or meet any specific requirements to activate specific effects described in either performance, but you can maintain and spend Bardic Inspiration to maintain both as you would with a single performance.
 
-- **Master Performer.** You now have unlimited uses of your Bardic Performance feature (see *Player’s Guide*). In addition, you can automatically begin a performance of your choice when initiative is rolled (no action required). As normal, you must still expend a bonus action each turn (including your first turn) to maintain this performance.
+- **Master Performer.** You now have unlimited uses of your [[#Bardic Performance|Bardic Performance]] feature. In addition, you can automatically begin a performance of your choice when initiative is rolled (no action required). As normal, you must still expend a bonus action each turn (including your first turn) to maintain this performance.
 
 %% source: Player's Guide 2: Dual Performance, Master Performer %%
 
@@ -286,7 +286,7 @@ You gain the following Bardic Performance option.
 
 #### Bardic Performance: Mirror Mirror
 
-You weave illusions to protect your companions. When you use your Bardic Performance feature (see *Player’s* *Guide*), you can create an illusory duplicate of one willing creature you can see. The duplicate moves with the target, mimicking its actions and shifting position, so it’s difficult to track which is real. On subsequent turns, as part of each bonus action spent maintaining your performance, you can create a duplicate of a different willing creature you can see. A creature can’t have more than one duplicate of itself, and you can only maintain a number of duplicates equal to your PB at a time. If you create another duplicate when you are already at your limit, the oldest duplicate vanishes to accommodate the new one. All duplicates disappear once your performance ends.
+You weave illusions to protect your companions. When you use your [[#Bardic Performance|Bardic Performance]] feature, you can create an illusory duplicate of one willing creature you can see. The duplicate moves with the target, mimicking its actions and shifting position, so it’s difficult to track which is real. On subsequent turns, as part of each bonus action spent maintaining your performance, you can create a duplicate of a different willing creature you can see. A creature can’t have more than one duplicate of itself, and you can only maintain a number of duplicates equal to your PB at a time. If you create another duplicate when you are already at your limit, the oldest duplicate vanishes to accommodate the new one. All duplicates disappear once your performance ends.
 
 As a reaction when a creature you can see makes an attack roll against a creature with an illusory duplicate, you can have the double attempt to distract the attacker. When you do so, roll a d20. On a roll of 11 or higher, the attacker targets the duplicate instead of the real creature. A duplicate’s AC is equal to your spellcasting DC. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that specifically targets the creature (and by extension, the duplicate), not spells that affect an area, such as the *[[3rd-Circle Spells#Fireball|fireball]]* spell. A duplicate ignores all other damage and effects.
 
@@ -294,13 +294,13 @@ As a reaction when a creature you can see makes an attack roll against a creatur
 
 *3rd-Level Allure Feature*
 
-When you gain a new talent, you can select it from either the magic or the technical talents list (see **Talents** in *Player’s Guide*).
+When you gain a new talent, you can select it from either the magic or the technical talents list (see [[Talents|Talents]]).
 
 ### Illusory Reality
 
 *3rd-Level Allure Feature*
 
-You learn the *[[Cantrips#Minor Illusion|minor illusion]]* cantrip if you don’t already know it. This cantrip counts as an Arcane spell when you cast it, but it doesn’t count against the number of cantrips you know, as listed in the **Bard Progression** table (see *Player’s Guide*). You can’t replace this spell when you gain levels in the bard class.
+You learn the *[[Cantrips#Minor Illusion|minor illusion]]* cantrip if you don’t already know it. This cantrip counts as an Arcane spell when you cast it, but it doesn’t count against the number of cantrips you know, as listed in the **Bard Progression** table. You can’t replace this spell when you gain levels in the bard class.
 
 In addition, as an action, you can subtly manipulate the mind of a creature you can see within 60 feet of you, making it capable of interacting with your illusions. The target must succeed on a WIS save against your spell save DC, or its belief in your illusions becomes unshakeable. For 1 minute, or until the target takes damage from one of your illusions, the target automatically fails any INT (Investigation) checks to discern the truth of any illusions you create with the *[[1st-Circle Spells#Disguise Self|disguise self]]*, *[[3rd-Circle Spells#Major Image|major image]]*, *[[Cantrips#Minor Illusion|minor illusion]]*, *[[5th-Circle Spells#Mislead|mislead]]*, *[[6th-Circle Spells#Programmed Illusion|programmed illusion]]*, *[[7th-Circle Spells#Project Image|project image]]*, *[[5th-Circle Spells#Seeming|seeming]]*, and *[[1st-Circle Spells#Silent Image|silent image]]* spells, and it can physically interact with such spells, its mind filling in any gaps in logic or expected sensations. For example, if you use the *[[1st-Circle Spells#Disguise Self|disguise self]]* spell to give yourself a hat, and the target pats your head, their hand stops at the hat and perceives the fabric and shape of the hat rather than of your head. If you use your action to cast one of these spells, you can expend a use of Illusory Reality as part of the same action.
 
@@ -330,7 +330,7 @@ You can use this feature a number of times equal to your PB. You regain all expe
 
 The duration is doubled when you cast the *[[1st-Circle Spells#Disguise Self|disguise self]]*, *major* *image*, *[[Cantrips#Minor Illusion|minor illusion]]*, *[[5th-Circle Spells#Mislead|mislead]]*, *[[7th-Circle Spells#Project Image|project image]]*, *[[5th-Circle Spells#Seeming|seeming]]*, and *silent* *image* spells.
 
-In addition, when you make a save to maintain concentration on a spell from the illusion school and have at least one use of your Bardic Inspiration feature (see *Player’s Guide*) available, you can use it to roll a Bardic Inspiration die and add the number rolled to your save. If you succeed on the save, you get to keep the Bardic Inspiration die, but if you fail, the die is expended.
+In addition, when you make a save to maintain concentration on a spell from the illusion school and have at least one use of your [[#Bardic Inspiration|Bardic Inspiration]] feature available, you can use it to roll a Bardic Inspiration die and add the number rolled to your save. If you succeed on the save, you get to keep the Bardic Inspiration die, but if you fail, the die is expended.
 
 ## Lore
 
@@ -410,7 +410,7 @@ You gain the following Bardic Performance option.
 
 Your jests and banter bolster your allies’ defenses against similar assaults on the mind. While your performance lasts, each ally within range that takes psychic damage reduces that damage by an amount equal to your bard level + your CHA mod.
 
-In addition, when an ally within range uses a Bardic Inspiration die (see Bardic Inspiration feature in *Player’s* *Guide*) to bolster an attack roll and the attack hits, the attack deals extra psychic damage equal to the number rolled. When an ally within range uses a Bardic Inspiration die to bolster a save against an effect created by another creature (such as a spell or breath weapon) and the save is successful, the creature that created the effect takes psychic damage equal to the number rolled.
+In addition, when an ally within range uses a Bardic Inspiration die (see [[#Bardic Inspiration|Bardic Inspiration]]) to bolster an attack roll and the attack hits, the attack deals extra psychic damage equal to the number rolled. When an ally within range uses a Bardic Inspiration die to bolster a save against an effect created by another creature (such as a spell or breath weapon) and the save is successful, the creature that created the effect takes psychic damage equal to the number rolled.
 
 ### Razor Wit
 
@@ -418,7 +418,7 @@ In addition, when an ally within range uses a Bardic Inspiration die (see Bardic
 
 In addition, when a creature succeeds on the save against your *[[Cantrips#Vicious Mockery|vicious mockery]]*, it takes half the cantrip’s damage.
 
-These spells count as Arcane spells when you cast them, but they don’t count against the number of cantrips or spells you know, as listed in the **Bard Progression** table (see *Player’s Guide*). You can’t replace these spells when you gain levels in the bard class.
+These spells count as Arcane spells when you cast them, but they don’t count against the number of cantrips or spells you know, as listed in the **Bard Progression** table. You can’t replace these spells when you gain levels in the bard class.
 
 ### Infectious Laughter
 
@@ -594,7 +594,7 @@ Bards aligned with the college of Sound are often drawn to it out of a desire to
 
 *3rd-Level Sound Feature*
 
-You learn the *[[Cantrips#Message|message]]* and *[[Cantrips#Thaumaturgy|thaumaturgy]]* cantrips and the *[[2nd-Circle Spells#Silence|silence]]* spell if you don’t already know them. These spells count as Arcane spells when you cast them, but they don’t count against the number of cantrips or spells you know as listed in the **Bard Progression** table (see *Player’s Guide*). When you learn a new spell from gaining a level in this class, you can learn any spell that creates sound (other than words or verbal components), dampens sound, or enhances a creature’s ability to observe sound. These spells can come from any source spell list and count as Arcane spells when you cast them.
+You learn the *[[Cantrips#Message|message]]* and *[[Cantrips#Thaumaturgy|thaumaturgy]]* cantrips and the *[[2nd-Circle Spells#Silence|silence]]* spell if you don’t already know them. These spells count as Arcane spells when you cast them, but they don’t count against the number of cantrips or spells you know as listed in the **Bard Progression** table. When you learn a new spell from gaining a level in this class, you can learn any spell that creates sound (other than words or verbal components), dampens sound, or enhances a creature’s ability to observe sound. These spells can come from any source spell list and count as Arcane spells when you cast them.
 
 In addition, when you cast the *[[2nd-Circle Spells#Silence|silence]]* spell, you can exclude a number of creatures from its effects equal to your PB, and if one of your spells normally causes sound (such as the *[[1st-Circle Spells#Thunderwave|thunderwave]]* spell), you can choose to either make it silent or up to twice as loud, increasing the range at which it is audible.
 
@@ -618,7 +618,7 @@ You learn how to use sound to perceive things your eyes can’t. You have keense
 
 *7th-Level Sound Feature*
 
-When a friendly creature you inspired rolls a Bardic Inspiration die (see Bardic Inspiration feature in *Player’s* *Guide*), a burst of sound ripples out from it. Each hostile creature within 5 feet of that friendly creature must succeed on a DEX save against your spell save DC or take thunder damage equal to twice the number rolled.
+When a friendly creature you inspired rolls a Bardic Inspiration die (see [[#Bardic Inspiration|Bardic Inspiration]]), a burst of sound ripples out from it. Each hostile creature within 5 feet of that friendly creature must succeed on a DEX save against your spell save DC or take thunder damage equal to twice the number rolled.
 
 In addition, you can roll a Bardic Inspiration die, using one of your uses of Bardic Inspiration, to add the number rolled as thunder damage when you hit with an attack.
 
@@ -632,7 +632,7 @@ Your mastery of sound affords you some protection from it and makes you less rel
 
 *15th-Level Sound Feature*
 
-As a reaction when a creature you can see within 60 feet of you (which can include yourself) makes a save to maintain concentration on a spell or effect, you can roll a Bardic Inspiration die (see Bardic Inspiration feature in *Player’s Guide*), using one of your uses of Bardic Inspiration, to add or subtract the number rolled to that save. If this results in you or an ally successfully maintaining concentration or in an enemy failing to maintain concentration, you get to keep the Bardic Inspiration die. Otherwise, the die is expended.
+As a reaction when a creature you can see within 60 feet of you (which can include yourself) makes a save to maintain concentration on a spell or effect, you can roll a Bardic Inspiration die (see [[#Bardic Inspiration|Bardic Inspiration]]), using one of your uses of Bardic Inspiration, to add or subtract the number rolled to that save. If this results in you or an ally successfully maintaining concentration or in an enemy failing to maintain concentration, you get to keep the Bardic Inspiration die. Otherwise, the die is expended.
 
 ## Victory
 

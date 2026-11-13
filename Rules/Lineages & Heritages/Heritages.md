@@ -425,7 +425,7 @@ Many, including your own people, consider you blessed to be reared among the per
 
 Fallen heritage characters are the last survivors (or the survivors’ descendants) of a place that has been destroyed. This could be a section of the Labyrinth that has collapsed into ruin, a kingdom that was destroyed by a mage war or other cataclysmic event, or a dead world that has succumbed to the Void.
 
-Unlike characters with the diaspora heritage (see *Player’s Guide*), there is little to no hope of restoring the fallen characters’ homeland to its former glory. Instead, fallen characters form close-knit tribes, clans, or similar groups cursed to wander the desolate wastelands where their homes once stood or driven into exile in search of sanctuary and respite. [[Minotaurs]], humans, and orcs are prevalent among fallen heritage characters.
+Unlike characters with the [[#Diaspora Heritage|diaspora heritage]], there is little to no hope of restoring the fallen characters’ homeland to its former glory. Instead, fallen characters form close-knit tribes, clans, or similar groups cursed to wander the desolate wastelands where their homes once stood or driven into exile in search of sanctuary and respite. [[Minotaurs]], humans, and orcs are prevalent among fallen heritage characters.
 
 The ordeals endured by fallen characters mean many have darkness in their hearts and are prone to anger and violence, sometimes even becoming overwhelmed by blood lust. Since fallen characters form strong bonds with other members of their tribe or clan, it is usually their enemies that bear the brunt of this inner rage, but violent altercations between two or more fallen characters do sometimes occur.
 
@@ -449,7 +449,7 @@ No strangers to magic, feysworn people use it as a form of self-expression more 
 
 Feysworn community characters often choose to adventure because of their relationship to the fey. You might have rejected your community, adopting the dangerous itinerant lifestyle to escape your obligations. Alternatively, you might have been instructed to adventure by fey leadership, perhaps as an envoy-at-large for archfey beyond the reach of their home. In the end, wherever you are, the fair folk will come to you, and you are expected to honor your oath when they do.
 
-***Accustomed to Trickery.*** You know the *[[Cantrips#Prestidigitation|prestidigitation]]* cantrip (see *Player’s Guide*). Choose whether you use INT, WIS, or CHA as your spellcasting modifier. You also have advantage on saves against being charmed. If you fail a save against being charmed, you can gain 2 Luck instead of 1.
+***Accustomed to Trickery.*** You know the *[[Cantrips#Prestidigitation|prestidigitation]]* cantrip. Choose whether you use INT, WIS, or CHA as your spellcasting modifier. You also have advantage on saves against being charmed. If you fail a save against being charmed, you can gain 2 Luck instead of 1.
 
 ***Enchanting Call.*** You have learned how to beguile others. You can use your action to target one creature by speaking a word of power. The creature must succeed on a CHA save (DC 10 + your PB) or be charmed by you until the end of your next turn. Alternatively, as part of the same action you can spend 2 Luck to attempt to impose the frightened condition (the Luck is only lost if the target is successfully frightened). Once you use this ability, you can’t use it again until you finish a short or long rest.
 
@@ -635,7 +635,7 @@ Through their work, those of kithren heritage gain a wide knowledge of survival 
 
 ***Helping Hands.*** You have proficiency in either the Medicine or Survival skill, and a melee weapon of your choice.
 
-***Search and Rescue.*** You have access to a network of other kithren in settlements across the land. If you need to locate a Humanoid, you can use this network to determine the direction to its last known location (GM’s discretion). You also learn and can cast the *[[Cantrips#Mending|mending]]* cantrip (see *Player’s* *Guide*) once per long rest, even if you are not a spellcaster.
+***Search and Rescue.*** You have access to a network of other kithren in settlements across the land. If you need to locate a Humanoid, you can use this network to determine the direction to its last known location (GM’s discretion). You also learn and can cast the *[[Cantrips#Mending|mending]]* cantrip once per long rest, even if you are not a spellcaster.
 
 ***Languages.*** You know Common and one additional language of your choice. Typical creatures of this heritage choose Goblin or Gnomish.
 

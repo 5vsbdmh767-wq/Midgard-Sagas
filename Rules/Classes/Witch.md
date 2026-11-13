@@ -58,7 +58,7 @@ Once within the next 10 minutes, as a reaction when the creature makes an abilit
 >
 > - For ability scores, prioritize WIS and then either DEX or CON.
 >
-> - For background and talent, choose Adherent and Mental Fortitude (see *Player’s Guide* for both).
+> - For background and talent, choose [[Backgrounds#Adherent|Adherent]] and [[Magic Talents#Mental Fortitude|Mental Fortitude]].
 >
 > - For spells, choose the *dancing lights, grave touch,* and *[[Cantrips#Thaumaturgy|thaumaturgy]]* cantrips. Then choose your 1st‑circle Wyrd spells: *[[1st-Circle Spells#Faerie Fire|faerie fire]]* and *[[1st-Circle Spells#Guiding Bolt|guiding bolt]]*. Then choose your 1st-circle ritual: *[[Rituals 1st–3rd Circle#Find Familiar|find familiar]]*.
 >
@@ -272,7 +272,7 @@ Choose one of the following improvements (ability scores can’t be raised above
 
 - Increase two different ability scores by 1 each.
 
-- Increase one ability score by 1 and select a talent from the magic talents list (see *Player’s Guide*).
+- Increase one ability score by 1 and select a talent from the [[Magic Talents|magic talents]] list.
 
 ### Greater Hex
 

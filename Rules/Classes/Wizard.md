@@ -206,9 +206,9 @@ When you use your Arcane Recovery feature, you can choose to swap out a number o
 
 Your commitment to the wizard’s path grants you a powerful new ability. Choose one of the following heroic boons:
 
-- **Arcane Arsenal.** You can cast each of the prepared spells from your Rote Spell feature (see *Player’s Guide*) once at the spell’s lowest possible circle without expending a spell slot. Once you cast one of your rote spells in this way, you can’t use this feature again for that particular spell until you finish a long rest.
+- **Arcane Arsenal.** You can cast each of the prepared spells from your [[#Rote Spell|Rote Spell]] feature once at the spell’s lowest possible circle without expending a spell slot. Once you cast one of your rote spells in this way, you can’t use this feature again for that particular spell until you finish a long rest.
 
-- **Mystic Vision.** While your Magic Sense feature (see *Player’s Guide*) is active, you can see invisible creatures and objects, and you can see in nonmagical and magical darkness as if it were bright light.
+- **Mystic Vision.** While your [[#Magic Sense|Magic Sense]] feature is active, you can see invisible creatures and objects, and you can see in nonmagical and magical darkness as if it were bright light.
 
 - **Rite of the Ritualist.** When you learn a new ritual as part of gaining a level of wizard, you can choose it from any source of magic. In addition, you can now copy ritual spells from any source of magic into your spellbook. Any rituals gained in this way count as Arcane spells for you.
 
@@ -309,7 +309,7 @@ When you reach 15th level, you can have up to two spells memorized at one time. 
 
 *15th-Level Arcanist Feature*
 
-As part of a long rest, you can select one non‑ritual spell of 3rd circle or lower that you have scribed within your spellbook and master it. That spell is always prepared for you and doesn’t count against the number of spells you can prepare. You can cast that spell at its lowest circle without expending a spell slot, though you must still supply any spell components. A mastered spell doesn’t have to be a spell from your Rote Spell feature (see *Player’s Guide*), but it can be.
+As part of a long rest, you can select one non‑ritual spell of 3rd circle or lower that you have scribed within your spellbook and master it. That spell is always prepared for you and doesn’t count against the number of spells you can prepare. You can cast that spell at its lowest circle without expending a spell slot, though you must still supply any spell components. A mastered spell doesn’t have to be a spell from your [[#Rote Spell|Rote Spell]] feature, but it can be.
 
 You can cast your mastered spell this way a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
@@ -487,7 +487,7 @@ Your study of death and the Undead has made you adept at using necromantic magic
 
 *3rd-Level Necromancer Feature*
 
-You can spend 1 minute touching a pile of bones or the corpse of a Medium or Small Beast or Humanoid (or Monstrosity with the Animal tag) to create an Undead thrall. The target must have a CR of 1/2 or lower. The target becomes a skeleton if you chose bones or a zombie if you chose a corpse. If the target is a Humanoid, it uses the statistics of a standard **skeleton** or **zombie**. If the target is a Beast or Monstrosity, it uses its normal statistics with the skeleton or zombie template applied (see *Game Master’s* *Guide* for more information on monster templates).
+You can spend 1 minute touching a pile of bones or the corpse of a Medium or Small Beast or Humanoid (or Monstrosity with the Animal tag) to create an Undead thrall. The target must have a CR of 1/2 or lower. The target becomes a skeleton if you chose bones or a zombie if you chose a corpse. If the target is a Humanoid, it uses the statistics of a standard **skeleton** or **zombie**. If the target is a Beast or Monstrosity, it uses its normal statistics with the skeleton or zombie template applied (see *Game Master’s Guide* for more information on monster templates).
 
 This Undead thrall understands one language you know, and you can communicate with it telepathically while it is within 1 mile of you. The thrall is friendly to you and your companions and obeys your commands. In combat, the thrall shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any commands, it takes the Dodge action and uses its move to avoid danger.
 
@@ -550,7 +550,7 @@ Starting at 15th level, as a bonus action after you fail to maintain concentrati
 
 *7th-Level Summoner Feature*
 
-You can have one additional spell from your Rote Spell feature (see *Player’s Guide*) per spell circle for which you already have a rote spell. These extra rote spells must be spells from the conjuration school that create or summon one or more creatures.
+You can have one additional spell from your [[#Rote Spell|Rote Spell]] feature per spell circle for which you already have a rote spell. These extra rote spells must be spells from the conjuration school that create or summon one or more creatures.
 
 In addition, your conjured creatures become more powerful. Any creature you create or summon with a spell adds your PB to its damage rolls and to its AC, and when first created or summoned, it gains temporary hit points equal to your wizard level. Any such creature can use your spell attack modifier in place of its normal attack bonus, and if the creature has a feature that requires a save, it can use your spell save DC or its own save DC. Attacks from such creatures count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 

@@ -2,11 +2,13 @@
 aliases: [Beast Forms, Familiars, Steeds]
 publish: true
 ---
-Quick-reference tables from *[[Player's Guide 2]]* for beast forms, familiars, and steeds.
+Quick-reference tables for beast forms, familiars, and steeds.
+
+%% source: Player's Guide 2 %%
 
 ## Reference Tables: Beast Forms
 
-The tables on the following page list all the creatures eligible for use with the druid’s Beast Form effect of their Wild Shape class feature. The source column of each table indicates where the full statistics for the creature can be found, either in *Monster Vault* (MV) or *Monster Vault 2* (MV2). The **Beast Forms** table lists the options available for use with the standard version of the class feature, and the **Potent Forms** table lists additional beast form options available only to druids with the Potent Forms effect of Wild Shape feature (available to druids with the Shifter subclass described in *Player’s Guide)*.
+The tables on the following page list all the creatures eligible for use with the druid’s Beast Form effect of their Wild Shape class feature. The source column of each table indicates where the full statistics for the creature can be found, either in *Monster Vault* (MV) or *Monster Vault 2* (MV2). The **Beast Forms** table lists the options available for use with the standard version of the class feature, and the **Potent Forms** table lists additional beast form options available only to druids with the Potent Forms effect of Wild Shape feature (available to druids with the [[Druid#Shifter|Shifter]] subclass).
 
 *Beast Forms*
 
@@ -142,7 +144,7 @@ The tables on the following page list all the creatures eligible for use with th
 
 ## Reference Tables: Familiars
 
-The following table list all the creatures eligible for use as familiars. The source column of each table indicates where the full statistics for the creature can be found, either in *Monster Vault* (MV) or *Monster Vault 2* (MV2). The **Standard Familiars** table lists an expanded set of standard familiar options for use with the *[[Rituals 1st–3rd Circle#Create Familiar|create familiar]]* or *[[Rituals 1st–3rd Circle#Find Familiar|find familiar]]* spells (see *Player’s Guide*) and similar instances, and the **Pact of the Chain Familiars** table lists an expanded selection of advanced familiar options, such as for use with the warlock’s Pact of the Chain class feature. Before selecting one of these familiars, make sure to review the monster entry. Some of them have specific requirements, such as only serving spellcasters that craft items or requiring permission from the GM before choosing them.
+The following table list all the creatures eligible for use as familiars. The source column of each table indicates where the full statistics for the creature can be found, either in *Monster Vault* (MV) or *Monster Vault 2* (MV2). The **Standard Familiars** table lists an expanded set of standard familiar options for use with the *[[Rituals 1st–3rd Circle#Create Familiar|create familiar]]* or *[[Rituals 1st–3rd Circle#Find Familiar|find familiar]]* spells and similar instances, and the **Pact of the Chain Familiars** table lists an expanded selection of advanced familiar options, such as for use with the warlock’s Pact of the Chain class feature. Before selecting one of these familiars, make sure to review the monster entry. Some of them have specific requirements, such as only serving spellcasters that craft items or requiring permission from the GM before choosing them.
 
 *Standard Familiars*
 
@@ -196,7 +198,7 @@ The following table list all the creatures eligible for use as familiars. The so
 
 ## Reference Tables: Steeds
 
-The following table lists common creatures eligible to be steeds, such as when using the *[[Rituals 1st–3rd Circle#Find Steed|find steed]]* spell (see *Player’s Guide*). The source column indicates where the full statistics for the creature can be found, either in *Monster* *Vault* (MV) or *Monster Vault 2* (MV2). For more unique mount options, see the **Mounts & Combat Animals** section in **Chapter 4**.
+The following table lists common creatures eligible to be steeds, such as when using the *[[Rituals 1st–3rd Circle#Find Steed|find steed]]* spell. The source column indicates where the full statistics for the creature can be found, either in *Monster Vault* (MV) or *Monster Vault 2* (MV2). For more unique mount options, see the **Mounts & Combat Animals** section in **Chapter 4**.
 
 | Steed | CR | Size | Source |
 |---|---|---|---|
