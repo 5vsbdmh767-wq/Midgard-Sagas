@@ -22,4 +22,4 @@ Not every tosculi follows the queen or shares the thoughts of the hive mind. Som
 
 Some outcasts find their way to the Haven of the Outcasts, a hidden refugee community in the Utunga Mountains of the Abandoned Lands, where several hundred tosculi live together in a single tall chimney. They make goods to trade with the ramag and the people of Munayo, and some have become alchemists. The Haven has no rulers; its people share food and goods and settle disputes without violence. Small groups travel out on trading expeditions, but they keep the Haven's location secret.
 
-See also: [[Lineages#Tosculi|Tosculi lineage rules]]
+See also: [[Tosculi Lineage|Tosculi lineage rules]]

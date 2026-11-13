@@ -26,3 +26,5 @@ Your alseid character has the following hereditary traits.
 **Light Hooves.** You have advantage on DEX (Stealth) checks. In addition, your steps leave no tracks, unless you choose for them to do so.
 
 **Quadruped.** The mundane details of the structures of Humanoids can present considerable obstacles for you. You have to squeeze (see Squeezing into a Smaller Space in Player’s Guide) when moving through trapdoors, manholes, and similar structures even when a Medium creature wouldn’t have to squeeze. In addition, ladders, stairs, and similar structures are difficult terrain for you.
+
+See also: [[Alseid Lineage|Alseid lineage rules]]

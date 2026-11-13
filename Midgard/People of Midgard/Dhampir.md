@@ -21,3 +21,5 @@ The dwarves of the Ironcrags, and especially Grisal, have no tolerance for the u
 
 **Trollkin**
 A dhampir of trollkin origin, [[Vzakhil]] are only encountered in regions where trollkin are numerous such as the kingdom of [[Trollheim]]. Resembling a normal trollkin with ashen, almost translucent skin, a vzakhil makes up for its lack of beauty with preternatural brawn. They lack the supernatural charm of a typical dhampir and have an increased appetite for blood and violence, known to go into a blood frenzy similar to full-blooded fledgling vampires. 
+
+See also: [[Dhampir Lineage|Dhampir lineage rules]]

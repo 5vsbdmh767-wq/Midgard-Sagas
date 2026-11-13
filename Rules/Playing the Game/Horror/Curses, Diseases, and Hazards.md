@@ -255,7 +255,7 @@ This curse is typically placed on tombs, temples, and other locations sacred to 
 
 - More intelligent Undead are also compelled but take up to 24 hours to plan their attack, though not to the exclusion of other plans already in progress.
 
-- PCs with lineages linked to the Undead, such as [[Lineages#Darakhul|darakhul]] and [[Lineages#Dhampir|dhampir]], can sense the effect but are able to resist acting upon it.
+- PCs with lineages linked to the Undead, such as [[Darakhul Lineage|darakhul]] and [[Dhampir Lineage|dhampir]], can sense the effect but are able to resist acting upon it.
 
 The target cannot benefit from any type of invisibility against the Undead. Any creature with truesight can see the brand on the target’s skin, burning with malevolence.
 

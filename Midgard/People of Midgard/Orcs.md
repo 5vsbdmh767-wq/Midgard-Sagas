@@ -24,6 +24,6 @@ Now and then an orc turns up on the surface and stays: a captive who escaped a r
 
 Orcs who leave the White Goddess are few, but they are not unheard of, and some of them turn to the very gods she hates. An orc who has given up the dark for the road is usually the most determined person in any room, and has to be.
 
-See also: [[Lineages#Orc|Orc lineage rules]]
+See also: [[Orc Lineage|Orc lineage rules]]
 
 *Draft: subject to change.*

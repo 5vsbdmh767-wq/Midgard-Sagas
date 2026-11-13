@@ -28,4 +28,4 @@ The dark elves of the underworld have long been among the enemies of the ghouls 
 
 Along the coasts of the North, sea elves are counted among the aquatic threats, with selkies, that trouble coastal settlements. The ancient sea dragon [[Nereidrax]] is said to have embedded herself in the courts of the sea elves, the sahuagin, and the merfolk.
 
-See also: [[Lineages#Elf|Elf lineage rules]], [[Lineages#Elf Lineage Variant: Drow|Drow]], [[Lineages#Elf Lineage Variant: Sea Elf|Sea Elf]], and [[Lineages#Elf Lineage Variant: Alfar and Ice Elves|Alfar and Ice Elves]]
+See also: [[Elf Lineage|Elf lineage rules]], [[Elf Lineage#Drow|Drow]], [[Elf Lineage#Sea Elf|Sea Elf]], and [[Elf Lineage#Alfar and Ice Elves|Alfar and Ice Elves]]

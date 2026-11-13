@@ -18,4 +18,4 @@ Life is tricky when you are three feet tall in a world of twelve-foot snowdrifts
 
 When the sable elves came into the [[The Shadow Realm|Shadow Realm]], they brought courtfolk halflings with them as servants.
 
-See also: [[Lineages#Smallfolk|Smallfolk lineage rules]]
+See also: [[Smallfolk Lineage|Smallfolk lineage rules]]

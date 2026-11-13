@@ -18,4 +18,4 @@ Goblins turn up all over the [[The Crossroads|Crossroads]]. Forest goblins raid 
 
 When the shadow fey came into the [[The Shadow Realm|Shadow Realm]], they brought servitor peoples with them, and shadow goblins were among them. Shadow goblins remain one of the realm's peoples, and hobgoblins often arrive there as mercenaries or as leaders among them. The gods of the Shadow Realm lean on the shadow goblins and the shadow fey more than the human pantheons do. Goblins are among the peoples who avoid stepping into shadow by way of the [[Yggdrasil|World Tree]].
 
-See also: [[Lineages#Goblin|Goblin lineage rules]] and [[Lineages#Goblin (Lineages & Heritages)|Goblin (Lineages & Heritages)]]
+See also: [[Goblin Lineage|Goblin lineage rules]] and [[Goblin Lineage#Midgard Goblin|Goblin (Lineages & Heritages)]]

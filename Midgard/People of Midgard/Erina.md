@@ -27,3 +27,5 @@ Your erina character has the following hereditary traits.
 **Heightened Senses.** You have advantage on Perception checks that rely on sight or hearing.
 
 **Spines.** Needle-sharp spines grow in small clusters atop your head and along your back. While you are grappling a creature or while a creature is grappling you, it takes piercing damage equal to your PB at the start of your turn.
+
+See also: [[Erina Lineage|Erina lineage rules]]

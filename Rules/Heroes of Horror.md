@@ -116,9 +116,9 @@ A tragedy occurred, and you were the only one to make it out alive. To determine
 
 | Lineage | Notes |
 |---|---|
-| [[Lineages#Darakhul\|Darakhul]] | Undead who keep their minds, built on the lineage you had in life |
-| [[Lineages#Gravewrought\|Gravewrought]] | A soul bound into a body stitched from the dead |
-| [[Lineages#Hexen\|Hexen]] | Children born of or shaped by hags |
+| [[Darakhul Lineage\|Darakhul]] | Undead who keep their minds, built on the lineage you had in life |
+| [[Gravewrought Lineage\|Gravewrought]] | A soul bound into a body stitched from the dead |
+| [[Hexen Lineage\|Hexen]] | Children born of or shaped by hags |
 
 ## Heritages
 

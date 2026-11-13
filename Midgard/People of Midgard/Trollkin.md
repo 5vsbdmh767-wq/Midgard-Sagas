@@ -20,4 +20,4 @@ For a time the civilized nations looked on the trollkin kindly, since they seeme
 
 Between forty and fifty septs hold the trollkin lands of the Southern Fringe, and there are trollkin territories elsewhere in the south too, including the Trollkin Kingdom of Nmabi and the lands of the Gorgonkin. Trollkin are not very religious, but those who pray do so to the Battlelord, the Stalker, the [[White Goddess]], or Xevioso.
 
-See also: [[Lineages#Trollkin|Trollkin lineage rules]] and [[Lineages#Trollkin (Northlands)|Trollkin (Northlands)]]
+See also: [[Trollkin Lineage|Trollkin lineage rules]] and [[Trollkin Lineage#Northlands Trollkin|Trollkin (Northlands)]]

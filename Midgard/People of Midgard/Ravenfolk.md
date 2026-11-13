@@ -8,3 +8,5 @@ Travelers spot their black feathers and long beaks on the road from place to pla
 to hatch plots. They are widely viewed as spies, informers, thieves, and troublemakers in Midgard, but when the ravenfolk swear an oath they abide by it. They avoid the West and the [[Seven Cities]] and are most honored in Nuria Natal, where they serve temples of Horus as sworn guardians, assassins, and defenders.
 
 While their numbers are relatively small, the ravenfolk are counted a great race because of their role as messengers for the gods. They hear the words of Wotan most clearly, but also claim to speak for Aten, [[Lada]], Khors, [[Thor]], [[Loki]], [[Ninkash]], and [[Sif]]. Occasionally, they bring dark tidings from Chernobog, blood-smeared missives from [[The Hunter|the Hunter]], or demands from [[Mammon]] or [[Vardesain]], but these are rare, and the poor ravenfolk chosen to deliver divine messages and prophecies from dark gods are shunned even among their own people.
+
+See also: [[Ravenfolk Lineage|Ravenfolk lineage rules]]

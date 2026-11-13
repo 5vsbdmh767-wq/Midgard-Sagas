@@ -26,11 +26,11 @@ In ToV, a lineage is biology: what you are born as. It sets age, size, speed, an
 
 Born traits stay with the lineage: darkvision, resistances, speed, natural weapons, innate magic, and the like. Learned traits, such as languages, most skill proficiencies, and features that come from a trade or an upbringing, move to a heritage (see below) or are dropped if an existing heritage already covers them.
 
-When ToV already has a lineage for the people in question, the 5e subrace becomes a lineage variant that replaces specific traits of the existing lineage, the same way the Northlands Worldbook and Labyrinth Worldbook present their variants (for example, the [[Lineages#Dwarf Lineage Variant: Midnight Dwarf|Midnight Dwarf]]). A new standalone lineage is written only when ToV has no version of that people at all.
+When ToV already has a lineage for the people in question, the 5e subrace becomes a lineage variant that replaces specific traits of the existing lineage, the same way the Northlands Worldbook and Labyrinth Worldbook present their variants (for example, the [[Dwarf Lineage#Midnight Dwarf|Midnight Dwarf]]). A new standalone lineage is written only when ToV has no version of that people at all.
 
 ## Heritages
 
-5e has no heritages, so a heritage is only created from a 5e book when the book describes a distinct culture or upbringing with something mechanical to carry, usually the learned traits pulled out of its races. For example, the [[The Shadow Realm|Shadow Realm]] has two kinds of changelings: humans changed by shadow over generations, which is biology and becomes an option of the [[Lineages#Human Lineage Variant: Umbral Human|umbral human]] variant, and human children stolen and raised by the fey courts, which is upbringing and becomes the [[Heritages#Changeling Heritage|Changeling Heritage]].
+5e has no heritages, so a heritage is only created from a 5e book when the book describes a distinct culture or upbringing with something mechanical to carry, usually the learned traits pulled out of its races. For example, the [[The Shadow Realm|Shadow Realm]] has two kinds of changelings: humans changed by shadow over generations, which is biology and becomes an option of the [[Human Lineage#Umbral Human|umbral human]] variant, and human children stolen and raised by the fey courts, which is upbringing and becomes the [[Heritages#Changeling Heritage|Changeling Heritage]].
 
 Otherwise, a converted lineage simply lists the existing [[Heritages|heritages]] that suit it. Any lineage can still take any heritage.
 

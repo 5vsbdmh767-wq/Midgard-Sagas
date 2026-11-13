@@ -18,3 +18,5 @@ Your bearfolk character has the following hereditary traits.
 **Wild Heart.** You and allied creatures within 5 feet of you have advantage on saves against being frightened while you are conscious and not incapacitated.
 
 **Thick Coat.** You are resistant to cold damage and immune to the effects of extreme cold.
+
+See also: [[Bearfolk Lineage|Bearfolk lineage rules]]

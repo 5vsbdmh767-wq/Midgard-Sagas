@@ -14,7 +14,7 @@ Finally, this chapter includes spells and magic items wielded or crafted by the 
 If you are a player, talk with your game master before using any of the material presented in this chapter to ensure it fits into the game world and the campaign you are playing.
 
 ## Where to Find It
-- **Lineages:** [[Lineages#Alseid|alseid]], [[Lineages#Bearfolk|bearfolk]], [[Lineages#Erina|erina]], and [[Lineages#Piney|piney]]
+- **Lineages:** [[Alseid Lineage|alseid]], [[Bearfolk Lineage|bearfolk]], [[Erina Lineage|erina]], and [[Piney Lineage|piney]]
 - **Heritages:** [[Heritages#Delver Heritage|delver]], [[Heritages#Forest Bastion Heritage|forest bastion]], [[Heritages#Hiveheim Heritage|hiveheim]], [[Heritages#Moonlit Heritage|moonlit]], and [[Heritages#Old Ways Heritage|Old Ways]], plus the [[Erina]] and [[Piney]] languages
 - **Names:** [[Random Names#Margrevian Names|Margrevian names]]
 - **Background:** [[Backgrounds#Forest Dweller|Forest Dweller]]

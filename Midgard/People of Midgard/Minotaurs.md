@@ -32,4 +32,4 @@ Now the tide has turned. With Kyprion under threat, minotaurs are returning to C
 
 The largest minotaur populations in the [[Southlands]] are in [[Nuria Natal]] and in Sudvall in the far south, where many minotaurs are knights who balance chivalry with meditative spiritualism. Southland minotaurs often serve on sandships and airships as sailors, guards, or good-luck charms. Their patron there is [[Sabateus]]. All minotaurs are wary of the ravening disease that has plagued their people in the past.
 
-See also: [[Lineages#Minotaur|Minotaur lineage rules]]
+See also: [[Minotaur Lineage|Minotaur lineage rules]]

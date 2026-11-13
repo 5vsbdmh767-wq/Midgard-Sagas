@@ -11,13 +11,13 @@ These options are built for heroes of the [[Northlands]]: reavers, skalds, seers
 
 | Lineage | Notes |
 |---|---|
-| [[Lineages#Bearfolk (Northlands)\|Bearfolk]] | The Northlands version, with Andari and Garhamr adaptations |
-| [[Lineages#Giantkin\|Giantkin]] | Cloud, fire, frost, hill, stone, and storm ancestries |
-| [[Lineages#Trollkin (Northlands)\|Trollkin]] | The Northlands version, with fey, ogre, and troll ancestries |
-| [[Lineages#Werekin\|Werekin]] | Descendants of shapechangers |
-| [[Lineages#Dwarf Lineage Variant: Baugsmidr Dwarf\|Baugsmidr dwarf]] | Variant dwarf, the "ring dwarves" |
-| [[Lineages#Dwarf Lineage Variant: Fjord Dwarf\|Fjord dwarf]] | Variant dwarf of the coasts and longships |
-| [[Lineages#Elf Lineage Variant: Alfar and Ice Elves\|Alfar and ice elves]] | Variant elves who stayed in the North |
+| [[Bearfolk Lineage#Northlands Bearfolk\|Bearfolk]] | The Northlands version, with Andari and Garhamr adaptations |
+| [[Giantkin Lineage\|Giantkin]] | Cloud, fire, frost, hill, stone, and storm ancestries |
+| [[Trollkin Lineage#Northlands Trollkin\|Trollkin]] | The Northlands version, with fey, ogre, and troll ancestries |
+| [[Werekin Lineage\|Werekin]] | Descendants of shapechangers |
+| [[Dwarf Lineage#Baugsmidr Dwarf\|Baugsmidr dwarf]] | Variant dwarf, the "ring dwarves" |
+| [[Dwarf Lineage#Fjord Dwarf\|Fjord dwarf]] | Variant dwarf of the coasts and longships |
+| [[Elf Lineage#Alfar and Ice Elves\|Alfar and ice elves]] | Variant elves who stayed in the North |
 
 ## Subclasses
 

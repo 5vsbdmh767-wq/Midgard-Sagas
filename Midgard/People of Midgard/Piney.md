@@ -34,3 +34,5 @@ Your piney character has the following hereditary traits.
 **Living Wood.** In moments of peril, you can rapidly grow tough bark, vines, or similar growth to shield you from harm. When an attacker you can see would hit you with a melee attack, you can use your reaction to increase your AC by an amount equal to your PB against the triggering attack. You can use this trait a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
 **Photosynthetic.** If you spend at least 1 hour in an area of sunlight or natural bright light, your daily food requirements are met (see Starvation and Dehydration in the Player’s Guide). In addition, if you spend the entirety a short rest in such an area, you can regain a number of expended hit dice up to your PB. Once you recover hit dice in this way, you can’t do so again until you finish a long rest.
+
+See also: [[Piney Lineage|Piney lineage rules]]

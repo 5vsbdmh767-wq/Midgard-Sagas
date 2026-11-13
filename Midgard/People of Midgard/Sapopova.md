@@ -14,6 +14,6 @@ The Broken Reeds are the best-known home of the grippli, but not the only one. S
 
 Sapopova who come home from their travels are expected to tell everything, and a village's eldest storytellers can recite tales that are generations old. Merchants who need to know what happened on a stretch of river fifty years ago sometimes find it worth their while to ask.
 
-See also: [[Lineages#Sapopova|Sapopova lineage rules]]
+See also: [[Sapopova Lineage|Sapopova lineage rules]]
 
 *Draft: subject to change.*

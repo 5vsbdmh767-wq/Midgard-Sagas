@@ -16,6 +16,6 @@ When the elves left in the Great Retreat, the rachisans were left behind with th
 
 Many rachisans keep small shrines to [[Yarila & Porevit|Yarila]], the goddess of spring, and a rachisan family planting its seeds will often wait for the first warm rain of the year to do it.
 
-See also: [[Lineages#Rachisan|Rachisan lineage rules]]
+See also: [[Rachisan Lineage|Rachisan lineage rules]]
 
 *Draft: subject to change.*

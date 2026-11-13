@@ -14,4 +14,4 @@ In Dabu, the Land of the Gnolls, a dozen or so loosely organized packs dominate 
 
 Clans of tundra gnolls range the glaciers and windswept ice of the far [[Northlands]] as hunters and scavengers. Their culture is matriarchal, violent, and largely unfriendly to outsiders, and some clans bend the knee to [[Boreas (North Wind)|Boreas]]. On the edge of [[The Margreve]], the Forest King, a roadside inn looking out on the [[Eastern Margreve]], has a gnoll owner. A few gnolls are even found in the [[The Shadow Realm|Shadow Realm]], usually as servants of the gods of death such as [[Anu-Akma]].
 
-See also: [[Lineages#Gnoll|Gnoll lineage rules]]
+See also: [[Gnoll Lineage|Gnoll lineage rules]]

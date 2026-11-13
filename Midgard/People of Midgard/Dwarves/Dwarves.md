@@ -31,4 +31,4 @@ Fjord dwarves long ago gave up the halls and mines of their ancestors to sail th
 
 Duergar are among the primary worshippers of [[Addrikah]], along with derro and deranged dwarves and humans. A copper statue of a seated dwarf that duplicates itself into a full crew of oarsmen is counted a duergar marvel in the North.
 
-See also: [[Lineages#Dwarf|Dwarf lineage rules]], [[Lineages#Dwarf Lineage Variant: Duergar|Duergar]], [[Lineages#Dwarf Lineage Variant: Baugsmidr Dwarf|Baugsmidr Dwarf]], and [[Lineages#Dwarf Lineage Variant: Fjord Dwarf|Fjord Dwarf]]
+See also: [[Dwarf Lineage|Dwarf lineage rules]], [[Dwarf Lineage#Duergar|Duergar]], [[Dwarf Lineage#Baugsmidr Dwarf|Baugsmidr Dwarf]], and [[Dwarf Lineage#Fjord Dwarf|Fjord Dwarf]]

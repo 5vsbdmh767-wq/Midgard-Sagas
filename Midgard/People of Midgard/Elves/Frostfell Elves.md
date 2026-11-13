@@ -10,4 +10,4 @@ Ice elves are counted among the typical worshippers of [[Boreas (North Wind)|Bor
 
 Along with the hidden alfar and the occasional elven visitor from the south, the ice elves are one of the three kinds of true elves found in the North. See [[Elves#Elves of the North|Elves of the North]].
 
-See also: [[Lineages#Elf Lineage Variant: Alfar and Ice Elves|Ice Elf lineage rules]]
+See also: [[Elf Lineage#Alfar and Ice Elves|Ice Elf lineage rules]]

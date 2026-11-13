@@ -11,7 +11,7 @@ Gullveig is a vanished goddess of wealth and magic, known above all for her skil
 
 As punishment, the Aesir pierced her three times with spears and burned her body to ash. The first two times she came back with a sly smile and a chunk of pure silver in each hand. The third time the Aesir waited, but her ashes blew away on the North Wind and she was never seen again, though [[Sif]] and Freyja both swear they heard her laughter on that breeze.
 
-Legend says she once lived among an isolated community of dwarves and taught them to bind magic runes into precious metals, the gift still carried by the [[Lineages#Dwarf Lineage Variant: Baugsmidr Dwarf|baugsmidr dwarves]].
+Legend says she once lived among an isolated community of dwarves and taught them to bind magic runes into precious metals, the gift still carried by the [[Dwarf Lineage#Baugsmidr Dwarf|baugsmidr dwarves]].
 
 ## Worshipers
 

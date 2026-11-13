@@ -14,4 +14,4 @@ Beastkin are few in the [[Northlands]]. Most live in [[Björnrike]], in [[Skaldh
 
 Avian beastkin, mostly ravenfolk, are among the most numerous people of [[Yggdrasil]] after the ratatosk, living in ramshackle rookeries of nests, shops, and shrines strung together with bridges and ladders. The [[Ratatosk|ratatosk]], for their part, insist they are not beastkin at all.
 
-See also: [[Lineages#Beastkin|Beastkin lineage rules]]
+See also: [[Beastkin Lineage|Beastkin lineage rules]]

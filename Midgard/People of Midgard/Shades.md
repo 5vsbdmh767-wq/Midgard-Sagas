@@ -16,4 +16,4 @@ A new Stygian shade is hard to tell from a ghost, but most settlements in the Sh
 
 The city of [[Soriglass]], a haven for the undead, has so many shades that it is called the City of Shades, and its shades are wild with curiosity about how the [[Twilight Empire|Road of Bones]] to the [[Evermaw]] was built. A small community of shades has also camped by the Styx, hoping to find and guide the unfortunate souls who wander out of its waters and to help them learn who they once were. The bearfolk druids of the Grove of the Three Rivers, who call themselves shade whisperers, tend pools fed by the Styx and have sent about twenty rescued souls on their way, some to pass on and some as Stygian shades seeking the truth of their lives and deaths.
 
-See also: [[Lineages#Shade|Shade lineage rules]]
+See also: [[Shade Lineage|Shade lineage rules]]

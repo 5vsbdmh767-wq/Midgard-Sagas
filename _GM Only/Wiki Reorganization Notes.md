@@ -135,3 +135,23 @@ Class option pages folded into class pages (Stage 2 follow-up):
 Removed: the "Luck" page under variant rules. It was a word-for-word copy of the Luck rule in Rolling the Dice. The one link to it now goes there.
 
 Still to reconcile (Bryant's call, later): three ship combat systems sit side by side in Ships & Sea, and three weather systems in Travel & Weather and Combat (Terrain Features).
+
+### Stage 4: one page per lineage (done)
+
+The single Lineages page (2,100 lines, nine book sections) is now an index plus 40 lineage pages in `Rules/Characters/Lineages/`. Each page is named "X Lineage" (for example "Dwarf Lineage") so it does not collide with the people pages ("Dwarves").
+
+- Each lineage page has the base lineage first, then any regional versions, then variants in alphabetical order, then extra Natural Adaptation options.
+- Each page links to its people page ("For who they are in Midgard, see…") and lists its common heritages. Eight people pages that had no link to the rules now have a "See also" line.
+- The Lineages page keeps "Elements of a Lineage", the rule on choosing a variant, and a table of all 40 lineages with their variants.
+- 79 links across the wiki were repointed to the new pages.
+
+Named versions (same lineage, clearly different rules, named for the place):
+- Northlands Bearfolk, Northlands Trollkin, Midgard Dhampir, Midgard Goblin.
+
+Merged as near-identical (one entry; the other book's description kept in a note named for the place):
+- Bearfolk (forest and Midgard versions have the same traits).
+- Dragonborn and Gearforged (the Labyrinth versions have the same traits, reworded).
+
+Flags for Bryant:
+- Syderean has "spellborn" twice: once in "More Natural Adaptations" and once as "Natural Adaptation: Spellborn (Labyrinth)". Both kept.
+- Five people pages (Alseid, Bearfolk, Erina, Gearforged, Piney) carry their own copy of the lineage traits. Left alone; the rules pages are now the place for traits.

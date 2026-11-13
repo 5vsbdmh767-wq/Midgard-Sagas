@@ -14,4 +14,4 @@ Not every derro is an enemy. In the kobold warren of Lillefor, derro come up to 
 
 Among the gods, derro are some of the primary worshippers of [[Addrikah]], alongside duergar and deranged dwarves and humans.
 
-See also: [[Lineages#Derro|Derro lineage rules]]
+See also: [[Derro Lineage|Derro lineage rules]]

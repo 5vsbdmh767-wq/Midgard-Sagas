@@ -16,4 +16,4 @@ Giantkin live mostly in communities on the fringes of giant-held lands like the 
 
 Frost giantkin are perhaps the most common in the North, descended from the nomadic glacial giants, and that connection earns them a good deal of suspicion; yet they tend to be hardworking and diligent, and often artistic. Fire giantkin are thought hot-tempered but are mostly stoic and practical. Cloud giantkin carry something of their cosmopolitan, learned ancestors, who live on flying islands. Hill giantkin have a reputation for quick tempers and big appetites, though they vary widely. Stone giantkin are reserved and slow to anger, and sometimes decorate their faces and scalps with woad. Storm giantkin are moody, and in moments of stress small sparks of their ancestors' lightning can escape them.
 
-See also: [[Lineages#Giantkin|Giantkin lineage rules]]
+See also: [[Giantkin Lineage|Giantkin lineage rules]]

@@ -14,7 +14,7 @@ All [[Bearfolk|bearfolk]] share an iron resolve, and none more than those who ma
 
 Generations of bearfolk have now been born in shadow, and the longer they stay, the more each generation shows an innate power to shape the darkness around them. The shadowborn are cubs born in the Shadow Realm with a leaning toward the dark. They have gray coats from infancy, sometimes with strange arcane black markings, and they not only resist darkness more easily than other bearfolk but are often drawn to it.
 
-See also: [[Lineages#Bearfolk Natural Adaptation: Shadowborn|shadowborn bearfolk rules]].
+See also: [[Bearfolk Lineage#Natural Adaptation: Shadowborn|shadowborn bearfolk rules]].
 
 ### Darakhul
 
@@ -32,19 +32,19 @@ Outside the courts, the shadow fey have built magnificent lantern-lit cities and
 
 Shadow fey names are much like elven ones, but darker and more guarded, favoring gloom and seclusion over sunshine and tinkling brooks.
 
-See also: [[Lineages#Shadow Fey|shadow fey lineage rules]].
+See also: [[Shadow Fey Lineage|shadow fey lineage rules]].
 
 #### Lunar Elves
 
 Lunar elves are a rare offshoot of the shadow fey, and a lunar birth is usually taken as an auspicious omen. They are always born under the light of the full moons and seem soaked in it: they look like other shadow fey except that their skin glows in the dark and their eyes are luminous silver. They can learn to hide the glow, but strong emotion tends to reveal them, and their horns are usually long, spiraled, and pearly. Their origin is even more mysterious than that of the shadow fey, and many feel a pull toward the absent [[Court of the Moonlit King|Moonlit King]]. They are not cast out of the courts, but many prefer work that keeps them out from under the watchful eyes of the nobles: serving as emissaries to the Moonlit Glades, living at the [[Court of One Million Stars|Starry Court]], or hunting the beasts of the realm, all of which beat the suspicious gaze of the [[Sarastra|Queen of Night and Magic]]. Lunar elves who want to stay in high society take ordinary shadow fey names; those who embrace their difference name themselves after the stars, so rarely seen through the shadow sky, as a sign of independence.
 
-See also: [[Lineages#Shadow Fey Lineage Variant: Lunar Elf|lunar elf lineage rules]].
+See also: [[Shadow Fey Lineage#Lunar Elf|lunar elf lineage rules]].
 
 #### Sable Elves
 
 When the elves began to decline, some stood their ground and others made a pact with the shadows. The sable elves simply ran. That made them enemies quickly, and the elves who took the shadow pact scorned them, so now the sable elves are scattered across the realms in lasting disgrace, belonging nowhere. They have one stronghold of their own, the [[Court of Golden Oaks]]. The few who remain hold the last traces of the powerful elven magic that helped shape the early world, and they guard those secrets in isolation. With so few left and only one community, the sable elf line is dying out. They are dark-eyed, usually red- or raven-haired, and silver-skinned, tall and willowy, and most carry an air of deep world-weariness. They keep the ancient elven birth name and common name, but not the third, lineage name, in token of their disgrace.
 
-See also: [[Lineages#Elf Lineage Variant: Sable Elf|sable elf lineage rules]].
+See also: [[Elf Lineage#Sable Elf|sable elf lineage rules]].
 
 ### Shadow Goblins
 
@@ -52,7 +52,7 @@ Shadow goblins grew into their place in the realm as servitors and allies of the
 
 Shadow goblin given names lean toward darkness or whimsy, or ideally both, and many consider it a personal failing to share a name with anyone else, so they work hard to give their children names no one else has. Family names are practical and descriptive: Bellringer, Candlesmith, Moonshine, Netmender, Potlicker, Skullsniffer, Wargbender, Weaselwise.
 
-See also [[Goblins]], and [[Lineages#Goblin Lineage Variant: Shadow Goblin|shadow goblin lineage rules]].
+See also [[Goblins]], and [[Goblin Lineage#Shadow Goblin|shadow goblin lineage rules]].
 
 ### Umbral Humans
 
@@ -64,7 +64,7 @@ The gifted are a warning about dealing with the fey. They are umbral humans who 
 
 Where umbral humans gather, newcomers often keep the names of the mortal lands they came from, if they remember them, while long-settled families use a blend of customs from every land that has fed the realm.
 
-See also: [[Lineages#Human Lineage Variant: Umbral Human|umbral human lineage rules]] and the [[Heritages#Umbral Heritage|Umbral Heritage]].
+See also: [[Human Lineage#Umbral Human|umbral human lineage rules]] and the [[Heritages#Umbral Heritage|Umbral Heritage]].
 
 ## The Lantern Bearers
 
@@ -78,7 +78,7 @@ The Shadow Realm draws in the strange, the dispossessed, the curious, and the lo
 
 Quicksteps were among the servitors the shadow fey brought with them, and like the shadow fey they are naturally resistant to the realm's corruption. They love finery and are entirely at home amid the riches of court. As their name says, they are fast, which suits them perfectly to two favorite shadow fey pastimes: sabotage and dueling. They rarely live outside the courts but have thriving communities in many of them, above all the [[Court of Midnight Teeth]] and the [[Court of Winter's Love]]. They are short-lived for fey, living about fifty years, and they share the fey's wanderlust, which makes them able adventurers welcome in any company crossing the realm. They like flashy, memorable names that sound good announced before a duel: Bolt, Crimson, Dandy, Double Time, Hotspur, Starburst, Zephyr.
 
-See also: [[Lineages#Quickstep|quickstep lineage rules]].
+See also: [[Quickstep Lineage|quickstep lineage rules]].
 
 ### Ratatosk
 
@@ -88,28 +88,28 @@ In recent decades the [[Ratatosk|ratatosk]] have grown bored with simply guardin
 
 The shadow fey brought [[Erina|erina]] from the Bright Lands as servitors, and the hedgehog folk adapted quickly, thriving in the dark forests and underground warrens. Their love of exploration and their unrivaled burrowing have taken them to many strange places, including the mortal realms. Most have settled around the plateau of the Queen's Wood and the Silver Hills, but bands of erina explorers, naturalists, and guides keep underground camps across the realm. The shadow fey are not pleased with the erina's wanderlust, which makes them less useful servants, nor with their open habit of helping travelers in and out of the Shadow Realm through their underground shadow roads, but for now it's easier to ignore them. The spiritfarers have a gift for speaking with the spirit world. Outside their own lands, erina like names full of long, open vowels, which are rare in their own language and pleasant to their ears, and they stretch the vowels out when they introduce themselves: May-nay, Wayee, Leemay, Ur-win.
 
-See also: [[Lineages#Erina Lineage Variant: Spiritfarer Erina|spiritfarer erina lineage rules]].
+See also: [[Erina Lineage#Spiritfarer Erina|spiritfarer erina lineage rules]].
 
 ### Stygian Shades
 
 The Shadow Realm's own [[Shades|shades]] rise from the [[The Ever River|River Styx]] with almost no memory of who they were. See [[Shades]] for more, including the [[Soriglass|City of Shades]], Soriglass.
 
-See also: [[Lineages#Shade Lineage Variant: Stygian Shade|Stygian shade lineage rules]].
+See also: [[Shade Lineage#Stygian Shade|Stygian shade lineage rules]].
 
 ### Sublime Ravenfolk
 
 A growing number of [[Ravenfolk|ravenfolk]] have joined a mystery cult in the Shadow Realm. Some say the cult is new; others say it is ancient and only now reviving. Its members call themselves Seekers of the Sublime, and they are said to be drawn by a mysterious psychic song. There are still few of them, but more arrive along the shadow roads from the mortal lands all the time, waiting for the unknown singer to reveal what it wants. They are very secretive about their purpose, but so far they have not turned on the other peoples of shadow.
 
-See also: [[Lineages#Ravenfolk Lineage Variant: Sublime Ravenfolk|sublime ravenfolk lineage rules]].
+See also: [[Ravenfolk Lineage#Sublime Ravenfolk|sublime ravenfolk lineage rules]].
 
 ### Unbound Satarre
 
 The satarre are famous planar travelers. As the kingdoms of shadow grow, so does the web of gateways feeding their shadow roads, and none know it better than the unbound satarre, a small faction zealously devoted to unraveling the barriers between the worlds. Even other satarre find them curious, for they have an instinctive sense for places of transition, and an unbound satarre feels compelled to find such gateways and widen them by any means.
 
-See also: [[Lineages#Unbound Satarre|unbound satarre lineage rules]].
+See also: [[Unbound Satarre Lineage|unbound satarre lineage rules]].
 
 ### Wyrd Gnomes
 
 Wyrd gnomes are accomplished arcanists who came to the Shadow Realm with the shadow fey and hold a favored place among their servitors. They look like whatever kind of gnome they are born to, except that their eyes never match: the right is always blue and the left always green. They are born with an innate prescience that grows stronger near other wyrd gnomes. Some gnome communities see this as a blessing; others find it disturbing. Over generations, wyrd gnomes have gathered into small communities of their own, though wyrd gnomes don't always give birth to wyrd gnomes, so their families include other kinds of gnome too. Their shared foresight makes those communities fascinating to visit: a traveler might walk into an inn to find the meal they meant to order already waiting, and conversations often begin with the answer before the question. Anyone who moves into a wyrd gnome community takes the clan name of the household that adopts them.
 
-See also [[Gnomes]], and [[Lineages#Smallfolk Lineage Variant: Wyrd Gnome|wyrd gnome lineage rules]].
+See also [[Gnomes]], and [[Smallfolk Lineage#Wyrd Gnome|wyrd gnome lineage rules]].

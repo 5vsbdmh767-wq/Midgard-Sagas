@@ -16,4 +16,4 @@ The rat cult of Chittr'k'k, least of the demon cults of the cities, is widesprea
 
 In the [[Southlands]], ratfolk are among the typical worshippers of Arbeyach, Prince of Swarms.
 
-See also: [[Lineages#Ratfolk|Ratfolk lineage rules]]
+See also: [[Ratfolk Lineage|Ratfolk lineage rules]]

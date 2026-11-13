@@ -16,4 +16,4 @@ Distance and terrain keep Veles-Sa isolated. It gets few visitors, and fewer sti
 
 The Velesborn's cousins, the Murkscale lizardfolk, live mostly in the marshes and swamps of the Spice Coast and the Fendeel Jungle. Far to the north, scattered lizardfolk tribes share the Broken Reeds, the marshes north of [[Trombei]], with tribes of grippli, and lizardfolk are counted among the many peoples who have lived in [[Zobeck]].
 
-See also: [[Lineages#Lizardfolk|Lizardfolk lineage rules]]
+See also: [[Lizardfolk Lineage|Lizardfolk lineage rules]]

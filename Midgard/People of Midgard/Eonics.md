@@ -16,6 +16,6 @@ In Midgard proper, eonics are rare enough that most people who meet one take it 
 
 Eonics rarely agree on exactly when their civilization fell or how far ahead it lies, and none of them will say whether Midgard's own future leads there.
 
-See also: [[Lineages#Eonic|Eonic lineage rules]]
+See also: [[Eonic Lineage|Eonic lineage rules]]
 
 *Draft: subject to change.*

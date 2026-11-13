@@ -12,4 +12,4 @@ Werekin are common in [[Vargrike]], the harsh Kingdom of the Wolf, where the law
 
 Werekin turn up elsewhere in the [[Northlands]] too. In [[Skaldholm]], the City of Bards, the skaldic school called Rjodr's Grove draws many werekin and beastkin students.
 
-See also: [[Lineages#Werekin|Werekin lineage rules]]
+See also: [[Werekin Lineage|Werekin lineage rules]]

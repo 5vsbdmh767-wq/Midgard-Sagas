@@ -14,4 +14,4 @@ In [[The Margreve]], dryads are among the forest's guardians, clashing with the 
 
 Dryads are also commonly seen in the Tomierran Forest, among the guardians the elves left to watch over their secrets, and they turn up as far afield as the baobab groves of the [[Southlands]].
 
-See also: [[Lineages#Dryad|Dryad lineage rules]]
+See also: [[Dryad Lineage|Dryad lineage rules]]

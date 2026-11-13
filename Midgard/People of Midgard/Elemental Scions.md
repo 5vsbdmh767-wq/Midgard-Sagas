@@ -18,4 +18,4 @@ The gods of the jinnborn include Yemaja, Eshu, Patron of the Winds, [[Baal-Hotep
 
 In the City of Brass, on the Plane of Elemental Fire, the jinnborn are the workers, team bosses, clerks, guard captains, and stewards who keep the city running like clockwork. They are mortal and primordial at once, and in the city's hierarchy they rank above the mortals who serve them.
 
-See also: [[Lineages#Elemental Scion|Elemental Scion lineage rules]]
+See also: [[Elemental Scion Lineage|Elemental Scion lineage rules]]

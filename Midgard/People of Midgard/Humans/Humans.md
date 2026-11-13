@@ -27,4 +27,4 @@ devils, shadow fey, and other horrors to prey on humans in preference to other r
 - [[Kariv]]
 - [[Qamari]]
 
-See also: [[Lineages#Human|Human lineage rules]]
+See also: [[Human Lineage|Human lineage rules]]

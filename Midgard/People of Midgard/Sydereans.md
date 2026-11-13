@@ -34,6 +34,6 @@ The aberrant sydereans have no old name in Midgard, and most people who see one 
 
 Spellborn sydereans carry the raw power of arcane magic in their bodies. Most are born near the great conjunctions of the [[Ley Lines & Shadow Roads|ley lines]], or to families who have spent generations working magic, and the [[Magocracy of Allain]] has more of them than anywhere else. The mages of Bemmea test every spellborn child they can find, and a spellborn of Allain rarely gets to choose whether to study magic. Those who slip away often end up in [[Zobeck]], where the [[Arcane Collegium]] asks fewer questions.
 
-See also: [[Lineages#Syderean|Syderean lineage rules]], [[Lineages#Syderean Lineage Expansion|Syderean Lineage Expansion]], and [[Lineages#Syderean Lineage Expanded: Spellborn|Spellborn]]
+See also: [[Syderean Lineage|Syderean lineage rules]], [[Syderean Lineage#More Natural Adaptations|Syderean Lineage Expansion]], and [[Syderean Lineage#Natural Adaptation: Spellborn (Labyrinth)|Spellborn]]
 
 *Draft: subject to change.*

@@ -31,4 +31,4 @@ Dragonborn speak Draconic, the language of the Dragon Empire, as well as Common.
 
 In the [[Southlands]], dragonborn are among the typical worshippers of [[Baal-Hotep]]. In the [[Northlands]] they are barely known.
 
-See also: [[Lineages#Dragonborn|Dragonborn lineage rules]] and [[Lineages#Dragonborn (Labyrinth)|Dragonborn (Labyrinth)]]
+See also: [[Dragonborn Lineage|Dragonborn lineage rules]] and [[Dragonborn Lineage|Dragonborn (Labyrinth)]]

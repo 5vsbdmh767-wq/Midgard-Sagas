@@ -32,3 +32,5 @@ The black strangles has reached the centaurs. It starts as a blackening of hair 
 
 ### Centaurs and Others
 Kariv smiths shoe centaurs for free, for luck, and centaurs scout for and defend Kariv caravans; centaur bandits never rob the Kariv, since robbing the cursed is bad luck. Most centaurs enjoy skewering the infernal gnomes of [[Niemheim]], though some clans have made a truce and serve as guards in the Wormwood. The Dargit and Yengde send out the most mercenaries, sometimes gone for years, and they are welcomed home with celebration. The centaurs were once close to the windrunner elves, but the elves have recently retreated east and abandoned their sacred sites, and not even the centaurs know why.
+
+See also: [[Centaur Lineage|Centaur lineage rules]]

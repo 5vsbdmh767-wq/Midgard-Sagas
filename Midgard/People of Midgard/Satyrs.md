@@ -20,4 +20,4 @@ Bands of selang have settled at the feet of several of the Dread Walkers in the 
 
 Not all selang are lost to darkness. In the [[The Shadow Realm|Shadow Realm]], Prince Valendan, a noble selang wizard, rules the [[Court of One Million Stars|Starry Court]] at the heart of the Court of One Million Stars with aloof wisdom, and he is far less bound to chaos and evil than most of his kind.
 
-See also: [[Lineages#Satyr|Satyr lineage rules]]
+See also: [[Satyr Lineage|Satyr lineage rules]]
