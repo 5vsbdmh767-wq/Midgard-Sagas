@@ -2,7 +2,7 @@
 aliases: [Weapon of Legacy, Mighty Deeds]
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 There’s a reason famous warriors wield legendary swords, axes, and bows with awesome magical properties. These items often have their own legacies before they come into a warrior’s hands and histories soaked in blood. Wielding such a weapon undoubtedly adds to a wielder’s personal legend, but the relationship between warrior and weapon is a two-way street. In the hands of a champion, a weapon can grow in power with each battle won, mighty foe defeated, or land conquered.
 
@@ -162,4 +162,4 @@ While holding the axe, as a bonus action, you can focus on one creature you can 
 ***17th Level.*** You now gain a +3 bonus to attack and damage rolls with this weapon, instead of +2. In addition, when you score a critical hit against a creature with *Soul Reaver,* you can designate a number of creatures within 30 feet of the original target (including the target) equal to your PB. Each designated creature takes a number of d8s of necrotic damage equal to your PB.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

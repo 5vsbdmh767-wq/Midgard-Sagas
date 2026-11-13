@@ -3,7 +3,7 @@ publish: true
 ---
 ## Absorb Spell
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *9th-Circle Arcane (Abjuration)*
 
@@ -25,7 +25,7 @@ If you cast this spell and have no expended spell slots to fill, the energy rema
 
 ## Beast of Ragnarok
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *9th-Circle Arcane, Divine, Primordial and Wyrd (Conjuration)*
 
@@ -77,7 +77,7 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 
 ## Greater Maze
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *9th-Circle Arcane and Wyrd (Conjuration)*
 
@@ -99,7 +99,7 @@ The target can use its action to attempt to escape. When it does so, it makes a 
 
 ## Infernal Dominion
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *9th-Circle Divine (Conjuration)*
 
@@ -247,7 +247,7 @@ During this spell’s duration, you can use your action to assume a different fo
 
 ## Star Well
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *9th-Circle Wyrd (Transmutation)*
 
@@ -335,7 +335,7 @@ This spell has no effect on a creature with the Shapechanger tag or a creature w
 
 ## Unfathomable Emptiness
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *9th-Circle Arcane (Divination)*
 
@@ -401,7 +401,7 @@ The stress of casting this spell to produce any effect other than duplicating an
 
 ## Wraithblade
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *9th-Circle Arcane and Wyrd (Necromancy)*
 
@@ -423,7 +423,7 @@ As a reaction, when you hit with the wraithblade, you can gain hit points equal 
 
 ## Wyrd Sight
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *9th-Circle Divine and Wyrd (Divination)*
 
@@ -440,10 +440,4 @@ As a reaction, when you hit with the wraithblade, you can gain hit points equal 
 You manipulate the threads of luck and fate to work in your favor. No more than once per turn, you can roll 1d12 and add or subtract it from an ability check, attack roll, or saving throw made by a creature you can see.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

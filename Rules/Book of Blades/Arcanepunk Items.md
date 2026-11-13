@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 The items detailed below carry forward the core idea of arcanepunk: the fusion of magic and technology. Harnessing the power of arcane gemstones, PCs can overload these items to create explosive results.
 
@@ -88,4 +88,4 @@ The amulet regains 1d6 + 1 expended charges daily at dawn.
 **Repairing.** The gem must be replaced with a similarly colored gem and repaired at night in a graveyard or an area of the recently deceased. The spirits of the dead might try to stop the repair.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

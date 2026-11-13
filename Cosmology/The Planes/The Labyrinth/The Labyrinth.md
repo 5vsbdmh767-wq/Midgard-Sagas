@@ -39,7 +39,6 @@ them for granted, but most visitors to the maze find them surprising or non-obvi
 | --- | --- |
 | Void’s Hunger Cannot be Satisfied | While the void always seeks to devour and destroy worlds, its hunger never ends. There is no world so rich and no bargain so fine that the Void will cease to corrupt and eat worlds. |
 
-
 ### What It Looks Like
 Most of the Labyrinth is tunnel, cavern, and underground river, along with hedge mazes, endless halls and stairways, starlit paths over glittering darkness, and foggy riverbanks that loop back on themselves. Much of it is dank and worn. The exceptions are the places people have made livable:
 

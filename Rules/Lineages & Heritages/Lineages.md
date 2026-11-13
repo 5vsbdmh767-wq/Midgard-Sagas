@@ -250,7 +250,7 @@ Your smallfolk character has the following hereditary traits.
 
 ## More Lineages (Player's Guide 2)
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Lineage represents the blood ties and heritable traits of a creature and is not contingent on where you were born. In addition to the lineages in the *Player’s Guide*, the following lineage options detailed in this chapter are available to PCs during character creation: dhampir, dragonborn, elemental scion, gearforged, goblin, rachisan, sapopova, shade, and tosculi.
 
@@ -261,7 +261,7 @@ This section lists the lineage options available to PCs.
 
 ### Dhampir
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Dhampirs are the improbable children of vampires and humans. People who interact with dhampirs often have strong subconscious feelings about them. They either find them compelling and seek to be near them, or they are repulsed and find the earliest opportunity to leave their presence. It’s rare for a living person to meet a dhampir and feel nothing about their new acquaintance.
 
@@ -287,7 +287,7 @@ Your dhampir character has the following hereditary traits.
 
 ### Dragonborn
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Descended from mighty dragons, the dragonborn are a lineage of imposing draconic humanoids. Although they lack the wings of their ancestors, dragonborn bodies are covered in scales, their reptilian heads bear crests and fanged jaws, and their hands and feet are adorned with talon-like claws. While their breath weapons can’t match the terrible devastation dealt by older dragons, the dragonborn are nevertheless capable of unleashing deadly blasts of energy on their enemies.
 
@@ -327,7 +327,7 @@ Your dragonborn character has the following traits.
 
 ### Elemental Scion
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Elemental scions are extraordinary beings infused by the primordial powers of elemental air, fire, water, or wind. The majority of these element-touched individuals owe their nature to couplings between genies and mortals, so they are sometimes referred to as jinnborn. However, their origins vary as much as the elemental forces that breathe power into their bodies.
 
@@ -367,7 +367,7 @@ Your elemental scion character has the following hereditary traits.
 
 ### Gearforged
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 The gearforged are an artificial lineage of living minds inside mechanical bodies of metal and wood. Though they come from a vast array of backgrounds, gearforged are created one at a time in arcane workshops and foundries.
 
@@ -413,7 +413,7 @@ Your gearforged character has the following traits.
 
 ### Goblin
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Fecund and adaptable, vast populations of goblins are found everywhere creatures can survive. Their inborn opportunistic optimism means goblins stubbornly prosper in even the worst conditions and excel at finding the best in any situation.
 
@@ -441,7 +441,7 @@ Your goblin character has the following hereditary traits.
 
 ### Rachisan
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 [[Rachisans]] (RAKE-ih-sans) are diminutive humanoids with plant features, specifically ground-grown plants, such as allium, brassica, and solanum varieties. These curious folk are often mistakenly assumed to be relatives of treants or plant-like fey, such as dryads, but rachisans are a distinct species as diverse as the vegetables they resemble.
 
@@ -475,7 +475,7 @@ Your rachisan character has the following hereditary traits.
 
 ### Sapopova
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 [[Sapopova]] are an amphibious people with pronounced frog or toad features. While some sapopova believe that they are divinely descended from the animals they resemble, many believe that they are instead the progenitors of frogs and toads. Regardless of their origin, these small humanoids commonly build their homes near ponds, rivers, and other bodies of water where they can maneuver around predators who can’t hunt on both land and water.
 
@@ -507,7 +507,7 @@ Your sapopova character has the following hereditary traits.
 
 ### Shade
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 While death comes for all, it arrives differently for different creatures. Most pass instantly and tender their souls to the afterlife. Others pass more slowly as they clutch onto their passions, purpose, and memories. A few are caught between the world of the living and the spirit realms though, and these are known as shades.
 
@@ -543,7 +543,7 @@ Your shade character has the following hereditary traits.
 
 ### Tosculi
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 [[Tosculi]] are insectoid people with wasp-like features. The majority of tosculi are born into tight-knit hive communities under the control of a singular hivequeen. From birth, these waspfolk are linked telepathically through the hive’s shared song, a buzzing that is often referred to as the Divine Murmur, the Persistent Susurration, or the Golden Song.
 
@@ -583,7 +583,7 @@ This section contains expanded options available for use with the base lineages 
 
 ### Beastkin Lineage Expansion
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Fossorial and quillback are additional options you can choose when selecting a Natural Adaption (see *Player’s* *Guide*) for your beastkin PC during character creation.
 
@@ -595,7 +595,7 @@ Fossorial and quillback are additional options you can choose when selecting a N
 
 ### Syderean Lineage Expansion
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Aberrant and spellborn are additional options you can choose when selecting a Natural Adaption (see *Player’s* *Guide*) for your syderean character during character creation.
 
@@ -619,7 +619,7 @@ At character creation, choose whether you want to use a standard version of a li
 
 ### Dwarf Lineage Variant: Duergar
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Duergar are a variant of the dwarf lineage—descendants of dwarves changed by lifetimes spent in the deepest pits of the underworld.
 
@@ -647,7 +647,7 @@ Your duergar character has the following hereditary traits.
 
 ### Elf Lineage Variant: Drow
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Drow are a variant of the elf lineage—descendants of elves who magically altered themselves to settle in the sunless world underground.
 
@@ -679,7 +679,7 @@ Your drow character has the following hereditary traits.
 
 ### Elf Lineage Variant: Sea Elf
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Sea elves are a variant elf lineage—an ancient bloodline that appeared at the same time that land-bound elves first walked the world.
 
@@ -707,13 +707,13 @@ Your sea elf character has the following hereditary traits.
 
 ## More Lineages (Tales of the Old Margreve)
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 The following lineages come from the [[The Margreve|Margreve Forest]]: alseid, bearfolk, erina, and piney. Your GM decides whether they are available in the campaign.
 
 ### Alseid
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 [[Alseid]] are graceful woodland cousins to centaurs, blending humanoid torsos with the lower bodies of nimble deer. Because they rarely venture far from their wooded glades, some call them "grove nymphs," although they're more closely related to humanoids than fey.
 
@@ -745,7 +745,7 @@ Your alseid character has the following hereditary traits.
 
 ### Bearfolk
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 The bearfolk are broad-shouldered, bipedal humanoids that strongly resemble upright bears. Though they lack a bear's sharp claws, their hands are as dexterous as any human craftsman. They are covered in black or brown shaggy fur that often have light frosting on the chest, shoulders, and upper back. The color of their fur sometimes gives clues as to a particular bearfolk's ancestry and what tribe they hail from. As they get older, the fur around their muzzle begins to silver, giving them a distinguished look.
 
@@ -771,7 +771,7 @@ Your bearfolk character has the following hereditary traits.
 
 ### Erina
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 The erina are a small-statured lineage of creatures resembling bipedal hedgehogs. They tend to live in large, underground communities and are typically very curious people. [[Erina]] young are always probing the limits of their community's territory, and many erina have a keen eye for things that are out of place or novel.
 
@@ -805,7 +805,7 @@ Your erina character has the following hereditary traits.
 
 ### Piney
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Many villages scattered through the Margreve Forest are home to an elusive lineage of Humanoids known as the pineys. They follow a code known by most as "the [[The Old Ways|Old Ways]]," but for them, these rules of the forest are as natural as the leaves growing on the boughs above.
 
@@ -845,13 +845,13 @@ Your piney character has the following hereditary traits.
 
 ## More Lineages (Labyrinth Worldbook)
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 The following lineages come from the Labyrinth Worldbook: derro, dragonborn, gearforged, minotaur, and satyr, plus the midnight dwarf, star elf, and spellborn variants. Your GM decides whether they are available in the campaign.
 
 ### Derro
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 [[Derro]] (pronounced DARE-oh) are distant cousins to the smallfolk and dwarves, commonly found living in cavernous and lightless realms deep beneath the earth. Early in their history, the derro people became irrevocably changed by an encounter with horrific entities that dwell between the stars, and to this day, many born into derro society carry the same mental scars once inflicted on their ancestors. All derro possess an innate sensitivity to the Void and other eldritch horrors likely to cause Dread (see *Game Master’s Guide*). Those raised in insular derro communities tend towards more fragile states of mind, often displaying unpredictable or fanciful behavior, and are generally prone to delusions.
 
@@ -878,7 +878,7 @@ Your derro character has the following traits.
 
 ### Dragonborn (Labyrinth)
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Descended from mighty dragons, the dragonborn are a lineage of imposing and strong draconic humanoids. Although they lack the wings of their ancestors, dragonborn bodies are covered in scales, their reptilian heads bear crests and fanged jaws, and their hands and feet are adorned with talon-like claws. While their breath weapons can’t match the terrible devastation dealt by older dragons, dragonborn are nevertheless capable of unleashing deadly blasts of energy on their enemies.
 
@@ -924,7 +924,7 @@ Your dragonborn character has the following traits.
 
 ### Gearforged (Labyrinth)
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 The gearforged are an artificial lineage of living minds inside mechanical bodies of metal and wood.
 
@@ -978,7 +978,7 @@ While a weapon is integrated, you can’t willingly be disarmed of it by any mea
 
 ### Minotaur
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 As the first people to discover the Labyrinth and learn how to navigate its pathways centuries ago, minotaurs are found throughout the [[Worlds of the Labyrinth|Ten Thousand Worlds]], particularly on the worlds of the Old Ring and on Midgard, where there are numerous connections to the Great Maze.
 
@@ -1004,7 +1004,7 @@ Your minotaur character has the following traits.
 
 ### Satyr
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 From the waist up, satyrs look like most humanoids, albeit with ram-like horns protruding from their foreheads. From the waist down, satyrs look like overgrown goats, with dark cloven hooves and thick fur that matches the hair on their heads. As such, many cultures call satyrs “goatmen” or use other terms that emphasize their apparent bestial and masculine attributes.
 
@@ -1032,7 +1032,7 @@ Your satyr character has the following traits.
 
 ### Dwarf Lineage Variant: Midnight Dwarf
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Midnight dwarves are a variant dwarf lineage, descendants of a clan of dwarves who were exposed to the corruption of the Void.
 
@@ -1058,7 +1058,7 @@ Your midnight dwarf character has the following hereditary traits.
 
 ### Elf Lineage Variant: Star Elf
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Star elves are a variant elf lineage. The star elves claim to be the first elves, the blessed descendants of the children of [[Solana]] and [[Sabateus]]. Their pride in their divine ancestors means they can seem aloof or even arrogant to others.
 
@@ -1084,7 +1084,7 @@ Your star elf character has the following hereditary traits.
 
 ### Syderean Lineage Expanded: Spellborn
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Spellborn is an option you can choose when you select the Natural Adaptation for your syderean character during character creation, in addition to the Celestial and Fiendish options in the *Player’s Guide.*
 
@@ -1096,7 +1096,7 @@ Spellborn is an option you can choose when you select the Natural Adaptation for
 
 ## More Lineages (Lineages & Heritages)
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 These lineages come from Kobold Press's *[[Lineages & Heritages]]* supplements for Tales of the Valiant: dhampir, dryad, eonic, gnoll, goblin, and lizardfolk from the first, and bearfolk, centaur, ratfolk, ravenfolk, shadow fey, and trollkin from the third, which draws on peoples of Midgard. [[Dhampir]], goblin, and bearfolk also appear earlier on this page from other books; the versions here are the supplements' own.
 
@@ -1119,7 +1119,7 @@ These lineages come from Kobold Press's *[[Lineages & Heritages]]* supplements f
 
 ### Bearfolk (Lineages & Heritages)
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Resolute and noble, the bearfolk are broad-shouldered, bipedal humanoids that strongly resemble upright bears. Though they lack a bear’s sharp claws, their hands are as dexterous as any human craftsman. Despite their brutish appearance, bearfolk tend to be deeply spiritual and artistic. They are covered in black or brown shaggy fur that often have light frosting on the chest, shoulders, and upper back. The color of their fur sometimes gives clues as to a particular bearfolk’s heritage and what tribe they hail from. As they get older, the fur around their muzzle begins to silver, giving them a distinguished look.
 
@@ -1145,7 +1145,7 @@ Your bearfolk character has the following hereditary traits.
 
 ### Centaur
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 [[Centaurs]] rumble across the vast [[Rothenian Plain]] of eastern Midgard. Blending humanoid and equine features, some scholars opine that centaurs are the original inspiration for cavalry. These four-legged folk voice no opposition in the matter, provided these scholars remain silent regarding centaurs’ suitability as draft animals.
 
@@ -1177,7 +1177,7 @@ Your centaur character has the following hereditary traits.
 
 ### Dhampir (Lineages & Heritages)
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Dhampirs are the improbable children of vampires and human mothers. The world itself seems to reject the half-living, and strange occurrences abound around them, especially if they are in a relaxed atmosphere. Small items fall from tables, light furniture seems to move of its own accord, shutters and doors open or close without a hand upon them. In settlements where inhabitants are suspicious of unexplainable phenomena, dhampirs are thought to attract ghosts and are either avoided or attacked outright if the people are particularly superstitious.
 
@@ -1205,7 +1205,7 @@ Your dhampir character has the following hereditary traits.
 
 ### Dryad
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 The lands of the fey, whether they are called the [[Silendora|Summer Lands]], Wall Beyond, the Plane of the Fey, or simply Faerie, are lush with thick, dark forests. Growing in these forests are innumerable heart trees, each of which serves as a dryad’s home and soul. To the casual eye, a heart tree looks like any other tree of its species, but a practiced observer can tell the difference between it and a mundane tree at a glance. Heart trees are slightly smaller than average, and they never show signs of pest infestation or disease. So long as a heart tree stands, its dryad can’t permanently be stopped by death’s cold embrace.
 
@@ -1237,7 +1237,7 @@ Your dryad character has the following hereditary traits.
 
 ### Eonic
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 [[Eonics]] hail from a dying civilization in the far future. To save their people, a small number took to the timestream to get help from ages before and after their own. The first generation used crystal belts to travel through time, but a flaw in the belts’ construction prevented them from returning to their own time and place. They have become a displaced, desperate people, but they have since grown beyond the need for the crystal belts, gaining an innate affinity with time through generations of exposure to the time stream.
 
@@ -1263,7 +1263,7 @@ Your eonic character has the following hereditary traits.
 
 ### Gnoll
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 [[Gnolls]] look like hyenas given humanoid bearing. Their powerfully built bodies are covered with short brown or dull yellow fur spotted in darker brown. The claws on their hands and feet, while often painted or decorated with whorls, are brittle and ill-suited as weapons. Gnolls find most clothing restrictive and uncomfortable and favor short kilts or skirts with hardened leather mail or a leather apron to protect the torso. They like to adorn their leather with metal links and spikes.
 
@@ -1289,7 +1289,7 @@ Your gnoll character has the following hereditary traits.
 
 ### Goblin (Lineages & Heritages)
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Fecund and adaptable, vast populations of goblins are found everywhere creatures can survive. Despite their numbers, goblins aren’t known for building great cities. Their settlements tend to be small and purpose-built to incorporate the natural environment. A region is likely to have several settlements with dozens of active alliances and rivalries between them.
 
@@ -1317,7 +1317,7 @@ Your goblin character has the following hereditary traits.
 
 ### Lizardfolk
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Long before mammals exerted their dominance over the world, reptiles thrived— and evolved. Lizardfolk were among the first reptilian humanoids, and the traits they developed to survive the primordial eras are largely unchanged today.
 
@@ -1345,7 +1345,7 @@ Your lizardfolk character has the following hereditary traits.
 
 ### Ratfolk
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Small, rodent-like humanoids with twitching snouts, whiskers, and long pink tails, ratfolk often work to avoid attention. Due to their appearance and likeness to rats, ratfolk tend to congregate on the fringes of human society, building their nests in slum tenements, abandoned warehouses, and sewers.
 
@@ -1371,7 +1371,7 @@ Your ratfolk character has the following hereditary traits.
 
 ### Ravenfolk
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Living in rookeries within every major city across Midgard are the ravenfolk, humanoid creatures with the feathers and features of wingless ravens. Often the subject of suspicion, ravenfolk bear the reputation of solitary wanderers and treacherous thieves, despite their attempts to mimic the cultural identity of wherever they live in an attempt to fit in with the locals.
 
@@ -1397,7 +1397,7 @@ Your ravenfolk character has the following hereditary traits.
 
 ### Shadow Fey
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Shadow fey stalk the Shadow Realm and encroach on the mortal world where the barriers between the planes are thin. While they resemble elves physically, shadow fey have horns that range from subtle nubs to large protrusions. They are physically beautiful, but their mentalities combine temperaments common to both elves and goblins, shifting between benign and cruel with little notice.
 
@@ -1423,7 +1423,7 @@ Your shadow fey character has the following hereditary traits.
 
 ### Trollkin
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 In ancient times, ogres, trolls, and fey would sometimes take humans as mates. The children of these unlikely unions are known as trollkin, lanky and brutish humanoids who bear the otherworldly (and sometimes monstrous) traits of their inhuman ancestors.
 
@@ -1457,13 +1457,13 @@ Your trollkin character has certain hereditary traits dictated by their lineage.
 
 ## More Lineages (Northlands Worldbook)
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 These lineages come from the Northlands Worldbook: bearfolk, giantkin, trollkin, and werekin, plus the baugsmidr dwarf, fjord dwarf, alfar, and ice elf variants. Bearfolk and trollkin also appear earlier on this page from other books; the versions here are the Northlands Worldbook's own. Your GM decides whether they are available in the campaign.
 
 ### Bearfolk (Northlands)
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Hailing from the cold forests and mountains of the Northlands, bearfolk are massive people of iron resolve and deep nobility who resemble bears that walk upright rather than on all fours. They put their trust in family and tribe to stand against the world and the challenges of their homeland. Many outsiders assume they are some form of beastkin, but bearfolk claim the fey lord [[Björnrike|Mesikämmen]] elevated them from their bear cousins.
 
@@ -1503,7 +1503,7 @@ Your bearfolk character has the following hereditary traits.
 
 ### Giantkin
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 The skalds don't admit to knowing stories of the first giantkin, but few giantkin care about or dwell on their origin. Descended from giants and smaller lineages in equal measure, they know they must walk their own path in lands where some look upon their ancestry with disfavor. Actions alone will forge their legacy.
 
@@ -1559,7 +1559,7 @@ Your giantkin character has the following hereditary traits.
 
 ### Trollkin (Northlands)
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 In ancient times, ogres, trolls, and fey would sometimes take humans as mates. The humanoid children of these unlikely unions are known as trollkin. Such folk are typically lanky and smaller in size than their larger ancestors, and they have inherited some of the otherworldly traits of their forebears. They have carved out numerous settlements in the cold North, and while they are sometimes found in communities of their own kind, they also live alongside other species in various Northland locations.
 
@@ -1595,7 +1595,7 @@ Your trollkin character has the following hereditary traits.
 
 ### Werekin
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 [[Werekin]] are the descendants of shapechangers, and they can assume the forms of both animals and humanoids. A werekin might have a bloodline bearing the blessing of an animal lord or possess a remnant of lycanthropy passed down through their blood. In the cold of the Northlands, perhaps due to the influence of [[Fenris]], most werekin tend to be lupine, but a werekin's animal ancestry can derive from other existing lycanthrope lineages, such as bears, boars, rats, and even arctic foxes.
 
@@ -1631,7 +1631,7 @@ When you transform, you gain one of the following options (choose the option eac
 
 ### Northlands Lineage Variants
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 What follows are a few variants derived from more familiar fantasy species. You can choose either the more common species or its variant when you create your character.
 
@@ -1639,7 +1639,7 @@ Dwarves are one of the most prolific humanoid species of the Northlands, perhaps
 
 ### Dwarf Lineage Variant: Baugsmidr Dwarf
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 A lesser known dwarven lineage is the Baudsmidr dwarf. These dwarves are sometimes called "ring dwarves" by outsiders for their knack with crafting magical rings. Long ago, [[Gullveig]], an obscure deity of magic and gold, lived for a time among an isolated community of dwarves, teaching them the divine art of binding magical runes into precious metals. Though this brought the dwarves great renown and power, it also led to jealousy and greed from others.
 
@@ -1669,7 +1669,7 @@ Your baugsmidr dwarf has the following hereditary traits.
 
 ### Dwarf Lineage Variant: Fjord Dwarf
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Fjord dwarves are a distinct lineage of dwarves who long ago abandoned the halls and mines traditionally inhabited by their species, instead choosing to sail the fjords and dwell in rough coastal settlements throughout the Northlands. Indeed, many fjord dwarves find the ancient halls of their forebears to be a bit claustrophobic. They much prefer open sea air and the deck planks of a ship beneath their feet. Fjord dwarves, like other Northland dwarves, are often menacing raiders and fierce warriors, yet they can also be deeply honorable and generous to their friends and allies.
 
@@ -1693,7 +1693,7 @@ Your fjord dwarf has the following hereditary traits.
 
 ### Elf Lineage Variant: Alfar and Ice Elves
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Millennia ago, elves were created in the Vanir War between the gods. Most were driven out of their original Northland territories by the dwarves, forced to move south and join their kin before the Great Retreat. The elven communities remaining in the Northlands are generally isolationist, choosing to inhabit the farthest reaches of the Bleak Expanse or to hide themselves away from view with powerful magic. Ages of seclusion have subtly influenced the native elven populations of the North, granting them certain kinds of magic.
 
@@ -1738,13 +1738,13 @@ INT, WIS, or CHA is your spellcasting ability for the spells you cast with this 
 
 ## More Lineages (Book of Ebon Tides)
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 These lineages and variants come from the peoples of the [[The Shadow Realm|Shadow Realm]] in the *Book of Ebon Tides*, a 5th Edition book, converted for this table following [[Converting 5e Material]]. The quickstep and the unbound satarre are new lineages; the rest are variants of lineages above. For the peoples themselves, see [[Peoples of Shadow]]. The darakhul and the ratatosk of the Shadow Realm are not yet converted.
 
 ### Quickstep
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 Quicksteps came to the Shadow Realm with the shadow fey as their servitors, and like the shadow fey they are naturally resilient to its corruption. They love finery and feel at home amid the riches of court, and their gift for speed suits two favorite shadow fey pastimes, sabotage and dueling. They are rarely found outside the fey courts but thrive in many of them, above all the [[Court of Midnight Teeth]] and the [[Court of Winter's Love]]. Like most fey, though, they have a streak of wanderlust, and they make skilled, efficient adventurers.
 
@@ -1770,7 +1770,7 @@ Suggested heritages: Umbral, Feysworn, Cosmopolitan.
 
 ### Unbound Satarre
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 Satarre are renowned planar travelers, and the unbound satarre are a small faction of them zealously devoted to unraveling the barriers between worlds. They are a curiosity even among their own kind, with an instinct for places of transition, and an unbound satarre is driven to find such gateways and widen them by mundane or magical means. As the kingdoms of shadow grow, so does the web of gateways feeding their shadow roads, and none know it better than the unbound.
 
@@ -1796,7 +1796,7 @@ Suggested heritages: Umbral, Void-Touched, Diaspora.
 
 ### Bearfolk Natural Adaptation: Shadowborn
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 The longer the bearfolk stay in the Shadow Realm, the more of each new generation shows an innate power to shape the darkness around them. The shadowborn are cubs born in shadow, gray-coated from birth and sometimes marked with strange arcane black patterns. They resist the darkness more easily than other bearfolk, and are often drawn to it.
 
@@ -1808,7 +1808,7 @@ Suggested heritages: Moonlit, Umbral.
 
 ### Elf Lineage Variant: Sable Elf
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 When the power of the elves first began to wane, some stood their ground and others made a pact with the shadows. The sable elves simply ran, and both sides scorned them for it. Now they are scattered in disgrace, belonging nowhere, with one redoubt of their own, the [[Court of Golden Oaks]]. The few who remain hold the last vestiges of the powerful elven magic that helped shape the early world, and they guard its secrets in isolation; with so few left and only one community, their lineage is dying out. They are dark-eyed and silver-skinned, often red- or raven-haired, with the tall, willowy frames of other elves and an irrepressible air of world-weariness. They keep the ancient elven birth name and a second, common name, but not the third, lineage name some elves take, as a mark of their disgrace.
 
@@ -1832,7 +1832,7 @@ Suggested heritages: Umbral, Diaspora, Grove.
 
 ### Erina Lineage Variant: Spiritfarer Erina
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 The shadow fey brought the erina to the Shadow Realm as servitors, and the hedgehog folk quickly adapted to its dark forests and underground warrens. Their love of exploring and their unrivaled burrowing have tunneled them into many strange places, including the mortal world. Most have settled around the plateau of the Queen's Wood and the Silver Hills, but bands of explorers, naturalists, and wilderness guides keep underground camps across the realm. The shadow fey are not pleased by their wanderlust, nor by their open habit of helping travelers in and out of the realm through their underground shadow roads, but for now find it easier to ignore. Spiritfarer erina, changed by generations in shadow, have an innate knack for speaking with the spirit world.
 
@@ -1860,7 +1860,7 @@ Suggested heritages: Umbral, Delver, Nomadic.
 
 ### Goblin Lineage Variant: Shadow Goblin
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 Shadow goblins grew up in the Shadow Realm as servitors and allies of the shadow fey, and in time founded their own city, [[Fandeval]], and cut their own path. They are closer to the fey than to their monstrous cousins in the mortal world, share the shadow fey's natural resistance to shadow's corruption, and have a surprising, usually secret, knack for shadow weaving and lunar magic. They are often blue- or purple-skinned with bright orange or yellow eyes, and they have a gift for blending into shadow. Good rogues and better assassins, they have a dark reputation but love low humor, drink, roughhousing, wrestling, and contests of skill (which they often lose). Each shadow goblin's given name should be entirely their own, and family names are practical: Bellringer, Candlesmith, Goldbiter, Moonshine, Netmender, Potlicker, Weaselwise.
 
@@ -1886,7 +1886,7 @@ Suggested heritages: Umbral, Cosmopolitan, Joymonger.
 
 ### Human Lineage Variant: Umbral Human
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 The Shadow Realm twists those who live in it. Umbral humans are not simply humans corrupted by shadow but humans slowly changed by it over generations, until they are inured to it. Some descend from humans stolen to serve the shadow fey, others from humans who strayed onto a shadow road and never found their way home. Others still are the survivors of shadow fey experiments with shadow's effects on mortals, done to punish, to make better servants, or just for fun. Umbral humans take the names of the communities they grow up in, often a blend of mortal and shadow customs (Abradal, Analinda, Breck, Cloria, Dalid, Haggar, Helgamet, Korim, Linnet, Masoosh, Nuriam, Obrax, Soffy, Woldemar).
 
@@ -1919,7 +1919,7 @@ Suggested heritages: Umbral, Changeling, Cosmopolitan.
 
 ### Ravenfolk Lineage Variant: Sublime Ravenfolk
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 A growing number of ravenfolk have joined a mystery cult in the Shadow Realm, the Seekers of the Sublime, drawn by a mysterious psychic song. Some say the cult is new, others that it is ancient and only now reviving. Their numbers are still few, but more arrive along the shadow roads from the mortal world all the time, waiting for the unknown singer to reveal their purpose. The network keeps its mission secret, but it has not yet turned against the other peoples of shadow. Sublime ravenfolk lean toward stability and connection more than their mortal-world cousins, trusting their path to the song. Like other ravenfolk, they use evocative borrowed names among other peoples, such as Starshadow, Moonglow, or Rainshimmer.
 
@@ -1943,7 +1943,7 @@ Suggested heritages: Umbral, Joymonger, Messenger.
 
 ### Shade Lineage Variant: Stygian Shade
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 The [[The Ever River|River Styx]] winds through the Shadow Realm full of mindless shades that live only to devour the memories of anyone they can drown. A few of the shades bound there keep their minds but struggle every day to remember who they were. Unlike the shades of the mortal world, Stygian shades come out of the water with almost no memory of their former lives, and the drive to find what was lost propels them. Few know their own names; those who rediscover them use them with pride, and the rest try on name after name looking for one that feels familiar. See [[Shades]].
 
@@ -1978,7 +1978,7 @@ Suggested heritages: Stygian, Umbral.
 
 ### Shadow Fey Lineage Variant: Lunar Elf
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 Lunar elves are a rare offshoot of the [[Shadow Fey|shadow fey]], always born under the light of the full moons, and their births are usually taken as an auspicious omen. Their origin is even more mysterious than that of the shadow fey, and many have lately been drawn toward the absent [[Court of the Moonlit King|Moonlit King]]. They look like other shadow fey except that their skin glows in the dark and their eyes are luminous silver, and their horns tend to be long, spiraled, and pearlescent. They can learn to hide their glow, but strong emotion tends to reveal it. They aren't cast out of the courts, but many prefer work that keeps them out from under the nobles' eyes: emissaries to the [[Moonlit Glades]], residents of the [[Court of One Million Stars|Starry Court]], or hunters of the realm's beasts. Those who stay in high society take ordinary shadow fey names; those who embrace their difference name themselves after the stars (Aldebaar, Belline, Caropa, Celene, Lestra, Mintella, Solaris, Virgesh).
 
@@ -2004,7 +2004,7 @@ Suggested heritages: Umbral, Moonlit, Feysworn.
 
 ### Smallfolk Lineage Variant: Wyrd Gnome
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 Wyrd gnomes are accomplished arcanists who came to the Shadow Realm with the shadow fey and hold a favored place among their servitors. They look like the gnomes they are born among, except that they always have two different-colored eyes: the right always blue, the left always green. They are born with an innate prescience that grows stronger near other wyrd gnomes. Some gnome communities think it a blessing, others find it disturbing, and over generations wyrd gnomes have gathered in small communities of their own, though wyrd gnomes don't always give birth to more wyrd gnomes. Visitors to such places may find the food they meant to order already on the table, or get answers before they ask their questions. [[Gnomes]] who join a wyrd community take the clan name of the household that adopts them (Alkuper, Begynn, Gingercrick, Goldenlock, Istovash, Kunnian, Murena, Muliget, Sadrienn, Turvalis).
 
@@ -2030,13 +2030,13 @@ Suggested heritages: Umbral, Feysworn, Cottage.
 
 ## More Lineages (Night Hunters)
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 These lineages come from *Night Hunters* and suit horror campaigns: darakhul, gravewrought, and hexen. Your GM decides whether they are available in the campaign.
 
 ### Darakhul
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Darakhul are a rare form of undead creature that can arise from Humanoid corpses infected with the ghoul hunger disease (see *Game Master’s Guide*). Unlike ordinary ghouls, darakhul retain their minds and memories, and they can control their feral instincts. While they function mentally much as they did in life—and even physically resemble their previous form—they rapidly take on traits that mark them as living dead. Any hair, fur, or feathers rot, becoming patchy or falling out entirely. Their teeth elongate into fangs, and their flesh fades, becoming gaunt and gray, stretching taut over bone and accentuating a more skeletal appearance.
 
@@ -2066,7 +2066,7 @@ Game effects that raise a creature from the dead work on you as normal, but they
 
 ### Gravewrought
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Gravewroughts are an artificial lineage of mortal souls bound into bodies crafted from the flesh of various once-living creatures. Mystery surrounds the mystical circumstances needed to create such beings though, and most attempts produce soulless golems or mindless undead. The few spellcasters capable of creating gravewroughts rarely produce more than one in their lifetime, as their minds tend to break under the strain of failure to replicate their previous results.
 
@@ -2094,7 +2094,7 @@ If a body part remains detached for 24 consecutive hours, it is permanently dest
 
 ### Hexen
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Hexens are mortal beings born of hags. Some are conceived from the direct union of a hag and a Humanoid, while others are the result of ritual magic, transforming offspring of other lineages. The reasons a hag might create a hexen are varied. They might just want to raise a child, caring for them and preparing them to one day embark on the transformation required to become a full-fledged hag. Or a coven of hags might combine their power to create a hexen servant. A hag might instead transform a child into a hexen to incite chaos within a community or to enact some personal vengeance. Regardless of their origins, hexens aren’t bound to the wills of their creators and are free to decide whether they embrace or reject the hags that shaped them.
 
@@ -2128,18 +2128,4 @@ Your hexen PC has the following traits.
 - ***Sea Hag.*** You have advantage on saves against the frightened condition. You also have a swim speed equal to your walking speed and can breathe air and water.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Lineages & Heritages is from Lineages & Heritages Supplements 1 and 3 by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Book of Ebon Tides is adapted from the 5th Edition Book of Ebon Tides by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

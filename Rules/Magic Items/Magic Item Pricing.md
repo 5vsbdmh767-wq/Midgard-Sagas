@@ -2,7 +2,7 @@
 aliases: [Magic Item Pricing Expanded]
 publish: true
 ---
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 The *Player’s Guide* provides basic guidance for the pricing of magic items, and this section expands on those basics with more detailed steps. **Step-by-Step Permanent Magic Item Pricing** The following guidance is specifically used for pricing permanent magic items. For consumable or enchanted magic items, simply use the basic guidelines in the *Player’s Guide*.
 
@@ -192,6 +192,4 @@ If the magic item allows you to cast one or more spells, identify the highest-ci
 | Platinum | +1 to attack and damage rolls plus an extra 1d6 of the weapon’s damage type |
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

@@ -248,7 +248,7 @@ Designed to transport armored combatants across battlefields, this heavy wooden 
 
 ## More Vehicles (Player's Guide 2)
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Helpful information about vehicle use is summarized here. The full vehicle rules, including detailed information about operating and repairing many forms of transport, are covered in the *Player’s Guide*. Additional vehicles and expanded vehicle-to-vehicle combat are covered in the *Game Master’s Guide*.
 
@@ -386,8 +386,7 @@ This wide, flat-bottomed water vehicle is designed to carry crates and barrels o
 
 ## More Vehicles (Labyrinth Worldbook)
 
-*Optional, from Labyrinth Worldbook.*
-
+%% source: Labyrinth Worldbook %%
 
 Centuries of exploration have pushed the peoples of the [[The Labyrinth|Labyrinth]] to develop efficient ways to travel its infinite pathways. While tunnels, roads, and passageways between worlds can be traveled on foot or astride mounts, travel by vehicle is an attractive alternative to those with the resources to do so.
 
@@ -445,13 +444,11 @@ Helpful information about vehicle use is summarized here. The full vehicle rules
 
 Any vehicle can likely be found somewhere in the Labyrinth. The **Common Vehicles by Culture** table includes suggestions of the kind of vehicles frequently used by the groups and factions in a typical Labyrinth campaign (see **Chapter 1**). If a vehicle isn’t included in this chapter, the table also includes references to where the vehicle description and statistics can be found.
 
-
-
 ## Vehicle Descriptions (Labyrinth Worldbook)
 
 ### Astral Galleon
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Astral galleons are the magical counterpart to the merchant galleys of the high seas. These ships are enchanted to glide on the pseudo-liquid currents of energy of the Astral Sea, and equipped to ferry large amounts of cargo and crew. These vessels are armed with an array of mystical machinery to stave off the pirates and monsters that lurk in the transitory planes.
 
@@ -487,7 +484,7 @@ Astral galleons are the magical counterpart to the merchant galleys of the high 
 
 ### Clockwork Cart
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Clockwork carts are impressive contraptions of metal and wood powered by mystical clockwork engines. They are used by citizens and visitors to travel in urban areas, providing a stylish and comfortable experience. The modular design of these carts makes them easy to mass-produce, ship, and assemble.
 
@@ -519,7 +516,7 @@ Clockwork carts are impressive contraptions of metal and wood powered by mystica
 
 ### Dead Chariot
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Dead chariots are grisly necrotic creations forged from the corpses of dymaxions (see **Chapter 8**). The ritual to create a dead chariot is a secret held in the vilest tomes of the void cults, and requires the sacrifice of a pair of dymaxions, recombining their organs into a new vehicle that amplifies the transportation capabilities these celestial chariots freely offer when alive.
 
@@ -560,7 +557,7 @@ Dead chariots are grisly necrotic creations forged from the corpses of dymaxions
 
 ### Infernal Barque
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Hell Caravans routinely travel along the [[The Ever River|River Styx]] and are easily identified by the massive black-iron ships that form them. These infernal barques are equipped with hellfire-powered weaponry and large enough to carry dozens of fiends from world to world, along with their plundered resources and treasures.
 
@@ -598,7 +595,7 @@ Hell Caravans routinely travel along the [[The Ever River|River Styx]] and are e
 
 ### Sky Ship
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Sky ships are sleek vehicles ideal for ferrying passengers and small amounts of cargo quickly. These vehicles sacrifice cargo space and weaponry for speed, making them ideal for day trips rather than extended voyages.
 
@@ -632,7 +629,7 @@ Sky ships are sleek vehicles ideal for ferrying passengers and small amounts of 
 
 ### Styx Gondola
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Styx gondolas are the pride of those who earn a living ferrying passengers and cargo along the River Styx. Unlike a typical gondola, styx gondolas bear the mystical blessing of the enigmatic river god [[Charun]]—and such a blessing isn’t freely won or given. A single styx gondola is typically passed through generations of a family of [[Minor Wayfaring Groups|Boatwrights]] (see **Minor Wayfaring Groups** in **Chapter 3**), and it’s considered the highest of honors to be chosen as a gondola’s owner.
 
@@ -668,7 +665,7 @@ Styx gondolas are the pride of those who earn a living ferrying passengers and c
 
 ## More Vehicles (Northlands Worldbook)
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 ### Land Vehicles
 
@@ -691,7 +688,7 @@ Land vehicles can travel on solid surfaces and across physical terrain. Much lik
 
 ### Dog Sled
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Dog sleds are long, narrow frames set on metal ski-like runners and pulled by teams of trained dogs. Ideal for crossing frozen terrain, dog sleds are commonly used in arctic regions for travel, trade, and transport.
 
@@ -701,7 +698,7 @@ Dog sleds typically have teams of dogs numbering between 6 and 10. For ease of p
 
 ### Ogre War Sled
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 This brutal, oversized war sled is constructed from heavy timber, mammoth bones, and forged metal. The front features a shield-like prow crafted from a mammoth skull that provides half cover for the driver. Typically, war sleds are pulled by two worgs, though some are harnessed to a mammoth or other cold weather creatures.
 
@@ -743,7 +740,7 @@ The longships presented in this section differ from the one found in the core ru
 
 ### Drakkar
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 The largest of longships, a drakkar is also called a “dragon ship” for its stylized dragon figureheads. Drakkar are the flagships of their fleet, and they are commissioned by jarls, chieftains, and other prominent, wealthy leaders.
 
@@ -780,7 +777,7 @@ The larger cargo hold of a drakkar also makes it ideal for long journeys. It is 
 
 ### Karvi
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 The smallest of the flat-keel longships, the karvi can traverse shallow waters to transport goods, fish, and even raiders. While a karvi can be used in battle, it is often used as a general-purpose river and coastal ship. Its size and shallow keel make it less ocean-worthy than other longboats. While a knarr is used for carrying livestock, it is common to find a karvi ferrying people to their destination.
 
@@ -811,7 +808,7 @@ The smallest of the flat-keel longships, the karvi can traverse shallow waters t
 
 ### Knarr
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Suited for open water rather than shallow rivers, knarr are longships used to ferry goods and livestock across the ocean. Its deep hull allows for more cargo storage, compared with other longships of similar size, and allows the ship to be operated by smaller crews. When used in exploration or war, knarr are used to carry supplies for the crews and warriors on other ships in the fleet, rather than as battleships.
 
@@ -844,7 +841,7 @@ Suited for open water rather than shallow rivers, knarr are longships used to fe
 
 ### Skeid
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Smaller than a drakkar, a skeid, or “slider,” is still large enough to carry dozens of crew members, passengers, supplies and treasure. This warship is also amongst the fastest of the longboats, matched only by the smaller snekkja.
 
@@ -879,7 +876,7 @@ Smaller than a drakkar, a skeid, or “slider,” is still large enough to carry
 
 ### Snekkja
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 The most common of raiding longships, the snekkja, also known as the snake ship, is also the smallest of the warships. Simple and quick to build, navigate, and maintain, snekkja carry raiders into battle with efficiency, slipping away after being loaded with plundered goods and treasure.
 
@@ -911,10 +908,4 @@ The most common of raiding longships, the snekkja, also known as the snake ship,
 > ***Shield Wall.*** The rowers raise their shields in defense. This grants creatures in the ship a +5 bonus to their AC and DEX saves, but the ship’s current speed is halved until the end of the next round.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

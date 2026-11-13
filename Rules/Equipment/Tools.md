@@ -297,7 +297,7 @@ Trapper tools are used to set hunting traps, harvest hides or fur, and craft or 
 
 ## More Tool Uses (Trade Secrets)
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 Nearly every profession that involves physical work has specialized tools designed to make the work easier or even tools that are essential to doing that work. Because the **Tales of the Valiant** roleplaying game is largely about fantastic adventures, it doesn’t include as much detail for mundane work as it does with combat and magic. If you are playing an adventure themed around commerce, you may find some of the listed tools or their example uses don’t meet the needs of the story or the action.
 
@@ -764,6 +764,4 @@ When a character sets an animal trap, they should name the target type of animal
 ***Spring Trap.*** This trap requires a supple wood branch and a thin tripwire, with a small metal hook to serve as a trigger. The branch is bent back with strong tension, and the tripwire is wound to keep the branch under tension, but any additional pressure on the tripwire will releases the branch to strike and kill the prey.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

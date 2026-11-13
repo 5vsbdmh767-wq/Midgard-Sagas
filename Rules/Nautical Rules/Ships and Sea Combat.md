@@ -2,7 +2,7 @@
 aliases: [Northlands Naval Combat, Naval Combat (Northlands), Sea Weather, Ship-Mounted Siege Weapons]
 publish: true
 ---
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 These naval combat rules from the *Northlands Worldbook* are meant to make the ship a dynamic, exciting part of any fight. They cover much the same ground as the other [[Nautical Rules]] pages, written for the [[Vehicles#Longships|longships]] of the [[Northlands]]; use whichever set your table prefers.
 
@@ -167,4 +167,4 @@ The ship's crew, and potentially the characters, can take these actions in ship-
 | 6 | Deck | A brutal shot hits the main deck, reducing 2d6 crew members to 0 HP. |
 
 ---
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Sources: [[Credits]].</small>

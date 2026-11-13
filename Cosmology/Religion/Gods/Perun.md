@@ -35,7 +35,6 @@ Perun is the voice of thunder and war, perhaps one of the least subtle masks in 
 ==**Other Faiths**==
 Perun is the husband of [[Marena]] the Red Goddess in the North and the Crossroads, and the son of [[Wotan]] in the North. Otherwise he has few ties to other faiths, for his priests say soldiers are his children and victory his only love. His greatest enemies are [[Lada]], whose priests scorn the honorable wounds of battle and preach peace, [[Hecate]], a deceptive goddess of schemes and dishonor, and [[The Hunter]], whose bloodshed is wasteful and ignoble.
 
-
 ==**In the North**==
 In the [[Northlands]] he is [[Thor]], the Thunderer, God of Lightning, War, and Strength, Slayer of Monsters and Protector of Mortals, and Patron of the North, [[Dwarves]], and Reavers. His favored weapon there is the warhammer. See [[Gods of the North]].
 

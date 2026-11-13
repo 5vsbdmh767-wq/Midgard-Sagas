@@ -11,7 +11,7 @@ You have advantage on saves against spells while you wear this cloak.
 
 ## Mantle of the Void Lord
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Legendary 100,000 gp (Requires Attunement by a [[Cleric]], [[Sorcerer]], [[Warlock]], or [[Wizard]])*
 
@@ -59,7 +59,7 @@ Once you finish creating the golem, the book is consumed in flames. The golem be
 
 ## Margreve Fur
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Uncommon (Requires Attunement) 2,000 gp*
 
@@ -81,7 +81,7 @@ If you paint a form of energy such as fire or lightning, the energy appears but 
 
 ## Mask of the Red Death
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Wondrous Item, Very Rare 72,500 gp (Requires Attunement)*
 
@@ -93,7 +93,7 @@ This red-lacquered wooden mask resembles a skeletal face, embellished with black
 
 ## Masking Clay
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Uncommon 150 gp*
 
@@ -111,7 +111,7 @@ This medallion has 3 charges. While wearing it, you can use an action and expend
 
 ## Megaphone of Commanding Presence
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Rare 2,500 gp*
 
@@ -121,7 +121,7 @@ In addition, if you have the bardic performance class ability, the range of that
 
 ## Merchant’s Champion
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Common 200 gp*
 
@@ -129,7 +129,7 @@ Found in shops in sketchy parts of town, this palm-sized figurine is in the shap
 
 ## Merfolk Belt
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 2,000 gp*
 
@@ -139,7 +139,7 @@ While wearing this belt, as a bonus action, you can transform the lower half of 
 
 ## Minotaur Helm
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 4,000 gp*
 
@@ -149,7 +149,7 @@ This leather helm is reinforced with bronze and mounted with two large horns, li
 
 ## Mirror of Appearance Stealing
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Very Rare 4,010 gp*
 
@@ -161,7 +161,7 @@ The mirror can only contain one captured semblance at a time. If you capture a n
 
 ## Monkey Charm
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 550 gp*
 
@@ -171,7 +171,7 @@ This charm has 3 charges and regains 1d3 expended charges daily at dawn. When yo
 
 ## Moon Through the Trees
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Rare (Requires Attunement) 16,000 gp*
 
@@ -181,7 +181,7 @@ While you are within 20 feet of a living tree, you can use a bonus action to bec
 
 ## Mug of Friendship
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Common 90 gp*
 
@@ -226,7 +226,7 @@ Six types of magic beads exist. The GM decides the type of each bead on the neck
 
 ## Necklace of Teeth
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Wondrous Item, Rare 14,500 gp*
 
@@ -236,7 +236,7 @@ In addition, as an action, you can detach a tooth and throw it at an unoccupied 
 
 ## Nine-Escape Knot
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Rare 2,200 gp*
 
@@ -246,7 +246,7 @@ This one-foot-long rope of woven fox tails channels the power of the trickster [
 
 ## North Star Ring
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Common 25 gp*
 
@@ -254,7 +254,7 @@ While wearing this ring, you always know which direction is north and you have a
 
 ## Northlander’s Boots
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Common 40 gp (Requires attunement)*
 
@@ -262,7 +262,7 @@ The wearer of these furred boots can use a bonus action to transform them into s
 
 ## Ogre's Pot
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Rare (Requires Attunement) 6,000 gp*
 
@@ -272,7 +272,7 @@ As a bonus action, you can speak the pot's command word and force it to roll dir
 
 ## Ottaveggr Talharpa
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Common 60 gp*
 
@@ -280,7 +280,7 @@ This [[Northlands]] lyre is strung with cords made of braided jotun hair. As an 
 
 ## Pauper’s Grove
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Rare 4,000 gp*
 
@@ -302,7 +302,7 @@ While this pearl is on your person, you can use an action to speak its command w
 
 ## Periapt of Fixation
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Rare 8,000 gp*
 
@@ -316,7 +316,7 @@ If you can maintain two spells simultaneously (such as by the theurge’s Superi
 
 ## Periapt of Proof Against Petrification
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 2,000 gp*
 
@@ -342,7 +342,7 @@ While you wear this pendant, you stabilize whenever you are dying at the start o
 
 ## Pillow of Somnolence
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 1,100 gp*
 
@@ -356,7 +356,7 @@ The pillow has 1d3 charges. As part of a long rest, you can expend 1 charge to c
 
 ## Portable Caravan
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Legendary 125,000 gp*
 
@@ -378,7 +378,7 @@ Placing a *[[#Portable Hole|portable hole]]* inside an extradimensional space cr
 
 ## Portable Vault
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Very Rare 40,000 gp*
 
@@ -392,7 +392,7 @@ A second command word reverts the tent’s iron to canvas, so it can be folded u
 
 ## Portal Key
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Very Rare 10,000 gp*
 
@@ -406,7 +406,7 @@ These enchanted items can be as small as thumbnail or as large as a forearm, and
 
 ## Quick-Up Boots
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 1,000 gp*
 
@@ -414,7 +414,7 @@ While wearing these magic boots, you can stand up from prone without spending an
 
 ## Quilted Bridge
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Common 50 gp*
 
@@ -422,7 +422,7 @@ A practiced hand sewed together a collection of cloth remnants from magical garb
 
 ## Reaver’s Lodestone
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Uncommon 550 gp*
 
@@ -434,7 +434,7 @@ When using the command “gold,” the stone orients and pulls you toward valuab
 
 ## Resolute Boots
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Rare 4,000 gp*
 
@@ -452,7 +452,7 @@ As an action, one dose of the ointment can be swallowed or applied to the skin. 
 
 ## Reunion Charm
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 1,000 gp*
 
@@ -462,7 +462,7 @@ As an action, you can affix this charm to an object weighing up to 10 pounds wit
 
 ## Rift Orb
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Rare 8,000 gp*
 
@@ -576,7 +576,7 @@ The rope has AC 20 and 20 HP. It regains 1 HP every 5 minutes as long as it has 
 
 ## Rover’s Boots
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Uncommon*
 
@@ -586,7 +586,7 @@ In addition, you can use a bonus action to take the Dash action. Once you use th
 
 ## Safe-and-Sound Alarm
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Common 100 gp*
 
@@ -594,7 +594,7 @@ This thin silver wire can line a doorway or window frame and can be hidden or le
 
 ## Safety Goblet
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 2,200 gp*
 
@@ -606,7 +606,7 @@ The goblet has 3 charges and regains 1d3 expended charges daily at dawn. As a bo
 
 ## Sail of Favorable Winds
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Uncommon 1,000 gp*
 
@@ -614,7 +614,7 @@ These gorgeous sails are embroidered with swirls and contours to make them appea
 
 ## Sail of Smooth Travels
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 4,000 gp*
 
@@ -622,7 +622,7 @@ You can affix this bright-blue sail to any vehicle to improve it. A vehicle fitt
 
 ## Salt of Thawing
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Common 25 gp*
 
@@ -630,7 +630,7 @@ You can use an action to spread this salt on 5-foot square area within 10 feet o
 
 ## Scarlet Key
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Legendary*
 
@@ -640,7 +640,7 @@ This crimson-colored key has 3 charges and regains 1d3 expended charges daily at
 
 ## Scorn Pouch
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Rare (Requires Attunement) 4,000 gp*
 
@@ -648,7 +648,7 @@ As the heart of a lover scorned turns black and potent, so too does this pouch w
 
 ## Scrimshaw Comb
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Uncommon (Requires Attunement) 3,000 gp*
 
@@ -656,7 +656,7 @@ Aside from being carved from bone, this comb is a beautiful example of functiona
 
 ## Searing Safe
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Uncommon 500 gp*
 
@@ -666,7 +666,7 @@ Objects inside the safe are not harmed by the heat. Note that even if the comman
 
 ## Seidr Rune Necklace
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Rare 2,000 gp (Requires attunement)*
 
@@ -678,7 +678,7 @@ You may not use this action again until the next dawn.
 
 ## Serpent Fin Oars
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Uncommon 500 gp*
 
@@ -690,7 +690,7 @@ As long as at least one of the oars is unbroken, and that oar remains on the shi
 
 ## Shadow Oracle Deck
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Wondrous Item, Artifact Priceless (Requires Attunement)*
 
@@ -728,7 +728,7 @@ When found, this oracle deck contains 2d4 + 4 magical cards. The depiction on a 
 
 ## Shattersphere
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Varies Price Varies*
 
@@ -738,7 +738,7 @@ The circle of the *[[2nd-Circle Spells#Shatter|shatter]]* spell determines the s
 
 ## Shield of the World Serpent
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Very Rare 30,000 gp (Requires attunement)*
 
@@ -746,7 +746,7 @@ This shield is shaped from a scale of Jormungandr. While wielding the shield, yo
 
 ## Shovel of Treasure Finding
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 2,000 gp*
 
@@ -756,7 +756,7 @@ Once the location is pinpointed, the shovel can be treated as adamantine for 1 m
 
 ## Skintaker Cloak
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Varies Price Varies (Requires Attunement by a Barbarian)*
 
@@ -786,7 +786,7 @@ Unless otherwise noted, the effects of *skintaker cloaks* stack with the effects
 
 ## Slip-Bane Bracelet
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous item, Common 25 gp*
 
@@ -802,7 +802,7 @@ While you wear these light shoes, you can move up, down, and across vertical sur
 
 ## Snowbirds
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Uncommon 500 gp*
 
@@ -810,7 +810,7 @@ These three crystal figures of terns can interlock into a circle as if nestling 
 
 ## Soul Jug
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Very Rare 45,000 gp*
 
@@ -824,7 +824,7 @@ One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute
 
 ## Speaking Shards
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 500 gp*
 
@@ -834,7 +834,7 @@ Once used, the item can’t be used again until the next dawn. If one shard is d
 
 ## Spirit Effigy
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Uncommon varies*
 
@@ -884,7 +884,7 @@ The cost for a spirit effigy depends on the creature type controlled. See the **
 
 ## Spirit Stick
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Wondrous Item, Rare 2,000 gp*
 
@@ -894,7 +894,7 @@ In addition, while holding the item, you can detect the presence of any ethereal
 
 ## Spyhole Rings
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 2,000 gp*
 
@@ -916,7 +916,7 @@ While carrying this polished agate, you gain a +1 bonus to ability checks and sa
 
 ## Stormbinder’s Cloak
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Legendary 100,000 gp (Requires attunement)*
 
@@ -924,7 +924,7 @@ You are resistant to cold, lightning, and thunder damage while wearing this cloa
 
 ## Stormhorn
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Rare 4,430 gp*
 
@@ -932,7 +932,7 @@ This wooden horn is carved from lightning-struck yew. It has 6 charges and regai
 
 ## Stunning Shrike
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 200 gp*
 
@@ -944,7 +944,7 @@ This is a small, hollow figurine of a shrike, made of gold or silver. As an acti
 
 ## Sustaining Belt
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Common 25 gp*
 
@@ -952,7 +952,7 @@ This wide belt has short, soft grey fur on both its inner and outer faces, with 
 
 ## Thaumatrope of Illusion
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 510 gp*
 
@@ -960,7 +960,7 @@ A thin wooden disk is attached to two pieces of string: an image of a bird is pa
 
 ## Thurible of Dream Traveling
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Very Rare 80,000 gp*
 
@@ -976,7 +976,7 @@ The rituals to prepare and light the thurible take 10 minutes and can be done as
 
 ## Tireless Rower
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Very Rare 30,000 gp*
 
@@ -984,7 +984,7 @@ Appearing to be merely a copper statue of a seated dwarf, this duergar marvel is
 
 ## Traveling Tool Chest
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Rare 8,000 gp (Requires Attunement)*
 
@@ -994,7 +994,7 @@ When not in use, the *traveling tool chest* follows you at a distance you tell i
 
 ## Treebleed Bucket
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Uncommon 250 gp*
 
@@ -1002,7 +1002,7 @@ This combination sap bucket and tap is used to extract sap from certain trees. A
 
 ## Trowel of Shaping
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 4,040 gp*
 
@@ -1014,7 +1014,7 @@ As an action, you can use this trowel to cast the *[[4th-Circle Spells#Stone Sha
 
 ## Tyr’s Crushing Might
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Rare 4,000 gp*
 
@@ -1026,7 +1026,7 @@ This iron bowsprit is forged in the shape of the one-handed god [[Tyr]] in the m
 
 ## Valendra’s Voluminous Sheath
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 4,000 gp*
 
@@ -1034,7 +1034,7 @@ This magic sheath contains an extradimensional space that can store any number o
 
 ## Veil of Charms and Frights
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 4,400 gp*
 
@@ -1056,7 +1056,7 @@ When you wear this magic veil, it becomes invisible, leaving your appearance unc
 
 ## Vertiginous Helm
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 2,200 gp*
 
@@ -1066,7 +1066,7 @@ An affected creature can repeat its WIS save at the end of each of its turns, en
 
 ## Vial of Cloudstuff
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 1,000 gp*
 
@@ -1074,7 +1074,7 @@ This transparent vial contains two miniature, white, fluffy clouds. As a reactio
 
 ## Void Aegis
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Rare 350 gp*
 
@@ -1084,7 +1084,7 @@ As an action, you can draw on the absorbed power within the *void aegis* to heal
 
 ## Void Detector
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Uncommon 50 gp*
 
@@ -1094,7 +1094,7 @@ You can use an action to turn the valve, activating the item’s magic for 1 min
 
 ## Void Saint Bone
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Rare 22,500 gp (Requires Attunement by a Wizard or Cleric)*
 
@@ -1104,7 +1104,7 @@ In addition, you can use an action to cast the *conjure* *minor voidborn* spell 
 
 ## Voidskin Cloak
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Rare 8,000 gp (Requires Attunement)*
 
@@ -1112,7 +1112,7 @@ This pitch-black cloak absorbs light and whispers as it moves. If feels like thi
 
 ## Wanderer’s Skein
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Very Rare (Requires Attunement) 16,500 gp*
 
@@ -1124,7 +1124,7 @@ This skein of shimmering, golden yarn is rolled impossibly tight. When unraveled
 
 ## Ward Against Wild Appetites
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Uncommon (Requires Attunement by a Druid or [[Ranger]]) 1,500 gp*
 
@@ -1146,7 +1146,7 @@ The boots regain 2 hours of flying capability for every 12 hours they aren’t i
 
 ## Winged Helm of Wisdom
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Very Rare 50,000 gp (Requires attunement)*
 
@@ -1162,7 +1162,7 @@ While wearing this cloak, you can use an action to speak its command word. This 
 
 ## Worg Salve
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Uncommon 400 gp*
 
@@ -1174,23 +1174,11 @@ If you use all three applications at one time, you can cast polymorph on yoursel
 
 ## Worry Toy
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Common 50 gp*
 
 As an action, you can throw this magic stuffed toy at a point within 30 feet, where it proceeds to squeak and flop about for 1 minute. All Beasts and creatures with the Animal tag within 60 feet must succeed on a DC 11 WIS save or chase after and attack the item. A trained animal has advantage on this save. An affected creature will remain distracted by the magic toy for the duration, after which the item is destroyed.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
-
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

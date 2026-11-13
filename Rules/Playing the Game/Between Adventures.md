@@ -29,7 +29,7 @@ Each downtime activity includes instructions for resolving that activity. For ex
 
 These downtime activities cover a range of options including fun nights out, making things, or earning money. If you don't find an activity that fits with how you want to spend your downtime, discuss with your GM to devise an alternative.
 
-*Optional, from Trade Secrets:* two more downtime activities, [[Shopping & Markets#Shopping|Shopping]] and [[Running a Business#Running a Business|Running a Business]], and fourteen trade activities on [[Batch Crafting]].
+[[Shopping & Markets#Shopping|Shopping]] and [[Running a Business#Running a Business|Running a Business]] are downtime activities with pages of their own, and [[Batch Crafting]] has fourteen more for specific trades.
 
 ### Carousing
 
@@ -185,4 +185,4 @@ You can spend downtime earning income by engaging in a profession or by taking o
 | 21+ | You earn 20 gp for the week + bonus gp equal to your PB × 5 |
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

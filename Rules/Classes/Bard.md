@@ -348,7 +348,7 @@ Once per turn, when you make a weapon or spell attack roll and have at least one
 
 ## Bard Boons
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the bard class.
 
@@ -382,12 +382,12 @@ Your commitment to the bard’s path grants you a powerful new ability. You gain
 
 ## More Bard Subclasses
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 At 3rd level, bards gain the Bard Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Allure, Mockery, or Sound.
 
 ## Allure
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Bards who align with the college of Allure understand the power of the mind and how the smallest nudge can bend that power in their favor. These bards are masters of subtle manipulation, crafting illusions and nudging viewers’ minds in just the right ways to give full credibility and belief to those illusions. They use this unique power to fascinate, distract, and even tempt those around them.
 
@@ -456,7 +456,7 @@ In addition, when you make a save to maintain concentration on a spell from the 
 
 ## Mockery
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Bards aligned with the college of Mockery have devoted their lives to perfecting their mordant repartee—both to entertain audiences and to use as a devastating weapon against their enemies. Since mockery is their game, bards of this college tend to make extensive use of this in combat, and their enemies stand little chance against it. When it comes to a battle of wits, these bards always slay.
 
@@ -511,7 +511,7 @@ Once used, you can’t use this feature again until you finish a long rest.
 
 ## Sound
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Bards aligned with the college of Sound are often drawn to it out of a desire to master their musical talents. Those with perfect pitch or who are virtuosos with the lute are common among the college’s members. But it is those who move beyond the simple creation of sound, who learn to truly manipulate it—not just with music but with magic— that truly capture what it means to be a master of sound.
 
@@ -570,13 +570,13 @@ As a reaction when a creature you can see within 60 feet of you (which can inclu
 
 ## Old Margreve Bard Subclasses
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 At 3rd level, a bard gains the Bard Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Wildlife.
 
 ## Wildlife
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Bards who align with the college of Wildlife thrive in nature and have a natural connection with animals. These colleges are often on the outskirts of settlements with one foot in the woods and one in the streets. Whether delighting passersby with their dancing squirrel companions or leading legions of rats away from settlements, these bards excel at enchanting animals with their performances, driving the creatures to protect allies or attack enemies.
 
@@ -639,16 +639,15 @@ The number of times a familiar can use this feature between rests remains the sa
 
 ## Labyrinth Bard Subclasses
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 At 3rd level, a bard gains the Bard Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Secrecy.
 
 ## Secrecy
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Unlike the majority of their peers, bards that align with the college of Secrecy embrace the subtle and unseen arts. There are—of course—no public institutions dedicated to such training, but bards who display a gift for deception and subterfuge are often apprenticed by court spymasters, thieves’ guilds, and military agencies.
-
 
 **Secrecy Progression**
 
@@ -704,13 +703,13 @@ Once per turn, when you would be hit with an attack roll and you have at least o
 
 ## Northlands Bard Subclasses
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 At 3rd level, a bard gains the Bard Subclass feature. The following subclass from the [[Northlands]] is also available when making that choice: Skald.
 
 ## Skald
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Northlands bards have passed down skaldic traditions through the ages at their bardic colleges. They use these traditions to entertain in the feasthalls during the long, dark winters; to lift up great leaders and to tear down despots; and to direct the tempers of their Northern kin in productive directions.
 
@@ -786,12 +785,4 @@ During the same one-hour period, you gain the following benefit.
 Once you use your Battle Sagas feature, you can’t use it again until you complete a short or long rest.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

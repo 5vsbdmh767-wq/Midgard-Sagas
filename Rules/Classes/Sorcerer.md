@@ -523,7 +523,7 @@ Once used, you can't use this feature again until you finish a long rest, unless
 
 ## Metamagic Options
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 This section lists additional metamagic options available for sorcerers to learn. See the sorcerer’s Metamagic class feature in the *Player’s Guide* for the full description of how they work.
 
@@ -547,7 +547,7 @@ You can use the Relentless Spell option even if you have already used a differen
 
 ## Sorcerer Boons
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the sorcerer class.
 
@@ -581,12 +581,12 @@ Your commitment to the sorcerer’s path grants you a powerful new ability. You 
 
 ## More Sorcerer Subclasses
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 At 3rd level, sorcerers gain the Sorcerer Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Abominable, Cyclonic, or Sacred.
 
 ## Abominable
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 You receive your magic from the primordial beings who existed before the creation of reality and that remain uncaring about its existence or their horrific influence upon it. Whether through your lineage or some unspeakable ritual, you become a conduit for these beings’ incursions. You feel assured, however, that you will withstand the changes they evoke.
 
@@ -657,7 +657,7 @@ As an action, you can manipulate your flesh to your liking. For 1 minute or unti
 
 ## Cyclonic
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 The power of the storm thunders within you. The magic that courses through you is as inescapable as a blizzard, as undeniable as a hurricane. Highly prized as sailors and mercenaries, these powerful sorcerers, completely untethered to the earth that bore them, can unleash natural disasters as easily as an exhaled breath, empowering their spells with enough thunder and lightning to shake the earth and split the skies.
 
@@ -740,7 +740,7 @@ As a bonus action, you can shroud yourself in the elemental power of raging stor
 
 ## Sacred
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Celestial Origin Spells*
 
@@ -814,13 +814,13 @@ As an action, you can become a conduit of divine power. This lasts for 1 hour or
 
 ## Old Margreve Sorcerer Subclasses
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 At 3rd level, a sorcerer gains the Sorcerer Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Flora.
 
 ## Flora
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 The natural world is in your blood. Whether dryad or similar plant-like fey blood mixed with your ancestors or your ancestors were touched by the magic of a powerful natural entity like the Old Margreve, you are inextricably tied to the natural world. Your power manifests as plant-related magic, but how that manifests is up to you. Your magic can reflect a connection with spores and fungi, flowers and vibrant fruits, or sturdy deep-woods trees.
 
@@ -898,13 +898,13 @@ Once used, you can't use this feature again until you finish a long rest, unless
 
 ## Labyrinth Sorcerer Subclasses
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 At 3rd level, a sorcerer gains the Sorcerer Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Umbral.
 
 ## Umbral
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Your magic comes from a shard of shadow imprinted upon your soul. Your magic may have been born from accident or design, but however it came, a force beyond the understanding of mortals has spoken to you. It now demands you embrace what lies beyond comprehension.
 
@@ -941,8 +941,6 @@ You gain origin spells at the sorcerer levels listed in the **Umbral Origin Spel
 | 7th | *[[3rd-Circle Spells#Blink\|blink]]*, *[[3rd-Circle Spells#Fear\|fear]]* |
 | 9th | *[[4th-Circle Spells#Black Tentacles\|black tentacles]]*, *[[2nd-Circle Spells#Invisibility\|invisibility]]* |
 | 11th | *[[5th-Circle Spells#Mislead\|mislead]]*, *[[5th-Circle Spells#Seeming\|seeming]]* |
-
-
 
 ### Umbral Sight
 
@@ -982,13 +980,13 @@ The sphere lasts for 1 minute, until you are incapacitated, or until it comes in
 
 ## Northlands Sorcerer Subclasses
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 At 3rd level, a sorcerer gains the Sorcerer Subclass feature. The following subclass from the [[Northlands]] is also available when making that choice: Spirit Caller.
 
 ## Spirit Caller
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You were born with a strong, otherworldly connection to the spirits of your ancestors and to the honored dead. You can call on these spirits to aid you and your allies and to hinder your enemies.
 
@@ -1077,13 +1075,13 @@ Your spirit aura now extends 15 feet instead of 10 feet. In addition, an enemy t
 
 ## Night Hunters Sorcerer Subclasses
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 At 3rd level, a sorcerer gains the Sorcerer Subclass feature. The following subclass from *Night Hunters* is also available when making that choice: Ancestral.
 
 ## Ancestral
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Your magical abilities are born from an ancient curse that afflicted your ancestors. Whether such a punishment was deserved, your bloodline bears the consequence of a fateful choice made generations before you were born.
 
@@ -1161,14 +1159,4 @@ As an action, you unmask the torment within your soul, striking terror in those 
 Once used, you can’t use this feature again until you either finish a long rest or expend 11 sorcery points to do so.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

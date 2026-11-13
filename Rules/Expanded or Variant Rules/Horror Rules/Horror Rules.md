@@ -2,7 +2,7 @@
 aliases: [Night Hunters Rules, Horror Campaign Rules]
 publish: true
 ---
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 These optional rules from *Night Hunters* support horror campaigns. None of them are needed to play, and your GM decides which ones the table uses.
 
@@ -16,4 +16,4 @@ These optional rules from *Night Hunters* support horror campaigns. None of them
 For character options from the same book, see [[Heroes of Horror]].
 
 ---
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Sources: [[Credits]].</small>

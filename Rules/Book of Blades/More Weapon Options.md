@@ -2,7 +2,7 @@
 aliases: [Weapon Options (Book of Blades), Rogue Tricks]
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Any dumb ogre can deal damage with a club. Superior combatants wield their tools inventively, shifting the tides of battle with a flick of the wrist or a swing of the sword arm. For players, weapon options are fantastic ways to differentiate existing weapons and give a wielder some different ways to think about using their regular tools.
 
@@ -218,4 +218,4 @@ A pitfall affects 5 square feet of space. Compare a creature’s Perception scor
 The base damage of a pitfall is 1d4 + your INT modifier bludgeoning damage. Certain materials can change the damage type, as appropriate. In addition, you add your Sneak Attack damage to the final result.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

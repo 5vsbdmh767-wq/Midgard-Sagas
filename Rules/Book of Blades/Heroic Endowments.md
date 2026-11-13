@@ -2,7 +2,7 @@
 aliases: [Heroic Endowment]
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Legends tell of the few who stood against many, of warriors blessed with strength beyond all others. Perhaps, in a time of strife and war, your PCs rise to become these legends, facing a thousand foes in combat. If so, consider the following optional rule: heroic endowments. A heroic endowment is a power granted to characters by gods, powerful beings, fate, or their own martial prowess. A character of 3rd level or higher can claim an endowment, so long as they meet its prerequisites. Heroic endowments are selected only when a character enters a battlefield to wage a righteous or terrible war. These endowments are extremely powerful, last only as long as the battle, and vanish the moment combat ends. They are best used to quickly power up a PC who is about to face an opponent of significantly greater number or unusually high CR.
 
@@ -138,4 +138,4 @@ This endowment offers you the following benefits when attacking a creature marke
 - When you hit your marked enemy while it has fewer than half its total hit points, it must succeed on a CON save against your spell save DC or die. Creatures with Legendary Actions automatically succeed on this save.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

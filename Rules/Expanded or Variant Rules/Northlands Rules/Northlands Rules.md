@@ -2,7 +2,7 @@
 aliases: [Northlands Campaign Rules, Running Northlands Campaigns]
 publish: true
 ---
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 These optional rules from the *Northlands Worldbook* deepen the themes of a campaign in the [[Northlands]]. None of them are needed to play, and your GM decides which ones the table uses.
 
@@ -18,4 +18,4 @@ These optional rules from the *Northlands Worldbook* deepen the themes of a camp
 For character options from the same book, see [[Heroes of the Northlands]].
 
 ---
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Sources: [[Credits]].</small>

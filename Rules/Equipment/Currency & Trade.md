@@ -25,7 +25,7 @@ In remote communities or communities that reject standardized currency, you can 
 
 For rules on buying and selling magic items, see the **Magic Items** section in this chapter.
 
-*Optional, from Trade Secrets:* a full price list of trade goods and rules for local market prices are on [[Trade Goods & Money]].
+A full price list of trade goods and rules for local market prices are on [[Trade Goods & Money]].
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

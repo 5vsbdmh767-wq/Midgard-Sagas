@@ -2,7 +2,7 @@
 aliases: [Curses, Diseases, and Hazards (Night Hunters), Horror Curses, Horror Diseases, Horror Hazards]
 publish: true
 ---
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Curses, diseases, and hazards are excellent tools to increase encounter difficulty and variety and to introduce plot twists. All of these share a format to make them easy to run, and the similarities and differences of each are explained. The sample curses, diseases, and hazards in this section include preset DCs, damage, and mechanical elements ready to use without modification. However, you can adjust any of these encounter elements to be appropriate for PCs of various levels and skill sets. For more information on using curses, diseases, and hazards, and for more samples of them, see the *Game Master’s Guide*.
 
@@ -875,4 +875,4 @@ When a celestial falls, their former grace can detach and attain a sort of life 
 **Resolution:** A target must leave the area. Though similar to fog in many ways, it is not affected by strong winds or other magical effects that might normally influence or manipulate fog. The hazard can move but does so seemingly of its own accord, not in response to outside factors.
 
 ---
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Sources: [[Credits]].</small>

@@ -182,4 +182,4 @@ A tragedy occurred, and you were the only one to make it out alive. To determine
 | [[Fabled Magic Items\|Fabled Items]] | [[Fabled Magic Items#Monster Hunter’s Crossbow\|Monster Hunter’s Crossbow]], [[Fabled Magic Items#Shroud of Shadows\|Shroud of Shadows]], [[Fabled Magic Items#Witch Light\|Witch Light]] |
 
 ---
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Sources: [[Credits]].</small>

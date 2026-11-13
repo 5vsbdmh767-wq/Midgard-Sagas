@@ -2,7 +2,7 @@
 aliases: [Rogue Gear, Mount Gear, Magic Items for Mounts]
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 In a fight, your gear can be what saves you in a bad moment.
 
@@ -226,4 +226,4 @@ Eight magic charms exist. The GM decides the types of charms on the bracelet or 
 | 19–20 | Wagon |
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

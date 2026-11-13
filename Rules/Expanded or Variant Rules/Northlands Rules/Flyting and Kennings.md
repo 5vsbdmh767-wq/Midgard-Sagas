@@ -2,7 +2,7 @@
 aliases: [Flyting, flyting, Flyting Rules, Kennings, kenning, kennings]
 publish: true
 ---
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 ## Flyting
 
@@ -60,4 +60,4 @@ A kenning is a poetic play on words that replaces a concept, usually a single wo
 ***How to Create Kennings.*** The usual way is to combine a noun and a verb, or two nouns, in either order, into a two-word phrase used in place of a more obvious or literal word. Sometimes three or more words are needed to make the meaning work. Two more examples appear in the sample prophecies on the [[Prophecies and Omens]] page: "wound-brand" for a sword and "dew of slaughter" for blood.
 
 ---
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Sources: [[Credits]].</small>

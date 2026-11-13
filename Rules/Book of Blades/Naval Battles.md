@@ -2,7 +2,7 @@
 aliases: [Naval Combat]
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 The methods and motivations of naval battles are well‑established in real-world history and can be easily adapted to create exciting maritime stories for your characters and campaigns.
 
@@ -265,4 +265,4 @@ PCs can fill a role in the ship’s crew or help as emergencies arise. PCs can c
 *Crew Position: Helm* Only effective against ships with oars, the helm brings their vessel within 5 feet of the enemy vessel, sheering off all the oars on one side of the enemy vessel. This brings its speed to 0 feet for 3 rounds until new oars can be deployed. To succeed, the helm must make a successful DEX (Water Vehicles) check with a DC equal to the other ship’s AC.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

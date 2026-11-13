@@ -2,7 +2,7 @@
 aliases: [Martial Actions (Book of Blades), Augment Effects]
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Add these new martial actions and augments to your arsenal of options.
 
@@ -144,4 +144,4 @@ You imbue an item to grant abundant health. While wearing this item, you have ad
 ***At Higher Levels.*** Once you reach 9th level in the mechanist class, you also gain resistance to poison damage. Once you reach 15th level in the mechanist class, you also gain immunity to disease.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

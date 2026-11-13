@@ -2,7 +2,7 @@
 aliases: [Northern Weather, Extreme Cold, Hypothermia, Frostbite, Snow Blindness, Death-Fields, daudavangr]
 publish: true
 ---
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 The [[Northlands]] are cold, and most of the North suffers extreme cold in winter (see [[Northlands#Boreal Dark and Midnight Sun|Boreal Dark and Midnight Sun]]). These optional rules cover the environmental dangers of the North. For general weather, see [[Weather]].
 
@@ -45,4 +45,4 @@ Creatures with exhaustion in a daudavangr suffer blinding headaches, disorientat
 ***Travel Pace in the North.*** Snow, ice, and mountains make Northern travel harder. In snow or arctic conditions, creatures can keep a fast pace only with suitable equipment, such as snowshoes or skis.
 
 ---
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Sources: [[Credits]].</small>

@@ -2,7 +2,7 @@
 aliases: [Magic Style, Clockwork Magic, Dream Magic, Illumination Magic, Portal Magic, Void Magic, Ward Magic]
 publish: true
 ---
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Magic styles are collections of spells that encompass various aspects of magic united by a strong thematic theme. Each style includes descriptive and mechanical information that allows a caster to create a specialized relationship with their spellcasting. Adopting a magic style allows a character to explore their special brand of magic, giving their spells unique flourishes, similar to the distinctive ways artists approach their work. Weaving different styles of magic into a campaign transforms spellcasting from a basic mechanic into a living and breathing part of a magical world.
 
@@ -410,4 +410,4 @@ This section presents a sampling of spells in alignment with the ward magic styl
 - *[[9th-Circle Spells#Prismatic Wall|Prismatic Wall]]* (Abjuration)
 
 ---
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
+<small>Sources: [[Credits]].</small>

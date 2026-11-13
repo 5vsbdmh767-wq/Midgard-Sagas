@@ -3,7 +3,7 @@ publish: true
 ---
 ## Avian Staff
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Staff, Rare 120,000 gp*
 
@@ -27,7 +27,7 @@ The staff has 7 charges and regains 1d6 + 1 expended charges daily at dawn. Whil
 
 ## Conductor’s Wand
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wand, Rare 4,400 gp*
 
@@ -41,7 +41,7 @@ If you expend the last charge, roll a d20. On a 1, the wand crumbles into ashes 
 
 ## Crimson Scepter
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Rod, Legendary 200,000 gp (Requires Attunement by a [[Bard]], [[Cleric]], or [[Wizard]])*
 
@@ -57,7 +57,7 @@ The scepter has 12 charges and regains 1d10 + 2 expended charges daily at dawn. 
 
 ## Draconic Staff
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Staff, Very Rare 82,090 gp*
 
@@ -81,7 +81,7 @@ If the spell protects against an energy type or deals damage, use the staff’s 
 
 ## Jester Scepter
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Staff, Rare 11,030 gp*
 
@@ -125,7 +125,7 @@ This rod has a flanged head and the following properties.
 
 ## Rod of Frostbite
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wand, Rare 4,400 gp (Requires attunement by a spellcaster)*
 
@@ -137,7 +137,7 @@ This rod is made of blackened, desiccated skin shrunk tightly around a humanoid 
 
 ## Rod of Repulsion
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Rod, Rare 8,000 gp*
 
@@ -167,7 +167,7 @@ When the time runs out or you use an action to end it, all visitors reappear in 
 
 ## Rod of Solutions
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Rod, Rare 60,000 gp*
 
@@ -187,7 +187,7 @@ In addition, the rod has four embedded gemstones that change color when rotated:
 
 ## Rowan Staff
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Staff, Rare (Requires Attunement by a Cleric, [[Druid]], [[Sorcerer]], [[Warlock]], or Wizard) 16,000 gp*
 
@@ -257,7 +257,7 @@ The staff has 20 charges and regains 2d8 + 4 expended charges daily at dawn. If 
 
 ## Staff of Radiance
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Staff, Very Rare 75,000 gp (Requires Attunement by a Divine spellcaster)*
 
@@ -271,7 +271,7 @@ This staff has 9 charges and regains 1d6 + 3 expended charges daily at dawn. If 
 
 ## Staff of Ruin
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Staff, Very Rare (Requires Attunement by a Cleric) 45,000 gp*
 
@@ -349,7 +349,7 @@ If the snake is reduced to 0 HP, it dies and reverts to its staff form. The staf
 
 ## Staff of the Righteous
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Staff, Rare (Requires Attunement by a Spellcaster) 12,040 gp*
 
@@ -361,7 +361,7 @@ This staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If
 
 ## Staff of the Simian
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Staff, Rare 13,000 gp*
 
@@ -381,7 +381,7 @@ The staff has 7 charges and regains 1d6 expended charges daily at dawn. If you e
 
 ## Staff of the Void
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Staff, Very Rare 75,000 gp (Requires Attunement by a Cleric, Sorcerer, Warlock, or Wizard)*
 
@@ -425,7 +425,7 @@ This staff can be wielded as a magic quarterstaff that grants a +2 bonus to atta
 
 ## Staff of Unraveling
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Staff, Rare 7,500 gp* *(Requires Attunement by a Bard, Cleric, Druid,* *Sorcerer, Warlock, or Wizard)* This staff has 7 charges and regains 1d6 + 1 expended charges daily at dawn. If you expend the staff’s last charge, roll a d20. On a 1, the staff crumbles to ash and is destroyed. The staff has the following additional properties:
 
@@ -461,7 +461,7 @@ This wand has 7 charges and regains 1d6 + 1 expended charges daily at dawn. If y
 
 ## Wand of Creeping Vines
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wand, Rare (Requires Attunement by a Spellcaster) 8,800 gp*
 
@@ -537,7 +537,7 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand�
 
 ## Wand of Spell Stealing
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Wand, Very Rare 39,500 gp (Requires Attunement by a Spellcaster)*
 
@@ -613,14 +613,4 @@ If an effect covers an area, you must center the spell on and include the target
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

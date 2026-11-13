@@ -2,7 +2,7 @@
 aliases: [Shadow Token, Earning Shadow Tokens, Spending Shadow Tokens]
 publish: true
 ---
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Horror adventures differ in many ways from those of fantasy, especially from the high fantasy that so many RPGs are based in. The often-defining emotions of fear and helplessness in horror gaming can easily clash in more heroic adventures, potentially causing confusion at the table with players accustomed to saving the day.
 
@@ -38,4 +38,4 @@ A PC can spend shadow tokens in a number of ways:
 As archetypes of horror, the dread villains of *Night Hunters* each have their own shadow token mechanics specific to their narrative and associated tropes. These provide additional ways for players to earn and spend tokens. Your GM will tell you about them when they come into play.
 
 ---
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Sources: [[Credits]].</small>

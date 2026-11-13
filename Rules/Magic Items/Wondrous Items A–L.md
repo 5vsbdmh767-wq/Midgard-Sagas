@@ -3,7 +3,7 @@ publish: true
 ---
 ## Action Stirge
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 200 gp*
 
@@ -11,7 +11,7 @@ This is a small, hollow figurine of a stirge, made of copper and filled with liq
 
 ## Adaptive Boots
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 3,300 gp*
 
@@ -21,7 +21,7 @@ The boots have 3 charges and regain 1d3 charges daily at dawn. As a bonus action
 
 ## Alkazinian’s Flask of Wonders
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Very Rare 17,500 gp*
 
@@ -29,7 +29,7 @@ This unassuming leather flask is as powerful as it is convenient and random. As 
 
 ## Alluring Perfume
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Wondrous Item, Very Rare 300 gp (Requires Attunement)*
 
@@ -39,7 +39,7 @@ When found, this crystal vial of perfume contains 1d6 + 2 uses. As an action, yo
 
 ## Amulet of Amity
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 2,020 gp*
 
@@ -67,7 +67,7 @@ While carrying this amulet, you are hidden from divination magic. You can’t be
 
 ## Amulet of the Far Traveler
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Common (Requires Attunement) 50 gp*
 
@@ -75,7 +75,7 @@ This deep-blue sapphire is carved with a single eye surrounded by tentacles or w
 
 ## Amulet of Woodland Creatures
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 1,500 gp*
 
@@ -89,7 +89,7 @@ Once this feature is used, you can’t use it again until you finish a long rest
 
 ## Antlered Headband of Chernobog
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Legendary 120,000 gp (Requires attunement by a bard, paladin, sorcerer, or warlock)*
 
@@ -107,7 +107,7 @@ If you move at least 15 ft. in a straight line before dealing damage to a creatu
 
 ## Apparatus of the Avian
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Very Rare 50,000 gp*
 
@@ -145,7 +145,7 @@ The *[[#Apparatus of the Crab|apparatus of the crab]]* is a Large object with AC
 
 ## Arm Ring of Self-Sacrifice
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Rare 8,000 gp (Requires attunement)*
 
@@ -182,7 +182,7 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 
 ## Bag of Bramble Beasts
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Uncommon 4,000 gp*
 
@@ -248,7 +248,7 @@ You must have proficiency with instruments (woodwinds) to use these bagpipes. Yo
 
 ## Bagpipes of Mesmerism
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Very Rare 63,550 gp*
 
@@ -260,7 +260,7 @@ You must have proficiency with instruments (woodwinds) to use these bagpipes. Th
 
 ## Beachhead Banner
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Very Rare 50,000 gp (Requires Attunement by a Vanguard)*
 
@@ -328,7 +328,7 @@ Six varieties of this belt exist, corresponding with and having rarity according
 
 ## Belt of Natural Weaponry
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Rare 20,000 gp (Requires Attunement)*
 
@@ -348,7 +348,7 @@ While wearing this thick fur and leather belt, you gain the following benefits:
 
 ## Belt of the Berserker
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Rare 6,000 gp (Requires attunement by a barbarian with the Reckless Attack class feature)*
 
@@ -358,7 +358,7 @@ While wearing this wolf-hide belt, you can choose to use the following feature e
 
 ## Blue Willow Cloak
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Uncommon 4,000 gp*
 
@@ -366,7 +366,7 @@ This light cloak of fey silk is waterproof. While wearing this cloak in the rain
 
 ## Book of Baleful Bargains
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Very Rare 25,000 gp (Requires Attunement by a Warlock)*
 
@@ -388,7 +388,7 @@ Summoning a creature from the book requires expending a spell slot of a circle c
 
 ## Book of Curses
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Wondrous Item, Very Rare 60,000 gp (Requires Attunement)*
 
@@ -450,7 +450,7 @@ These furred boots are snug and feel quite warm. While you wear them, you gain t
 
 ## Bracelet of the Fire Tender
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Uncommon 500 gp*
 
@@ -482,7 +482,7 @@ While wearing these bracers, you gain a +2 bonus to AC if you are wearing no arm
 
 ## Bracers of Throwing
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 2,000 gp*
 
@@ -496,7 +496,7 @@ When you make a ranged attack with a weapon with the Thrown property, the weapon
 
 ## Breath of the Void
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Rare 5,000 gp (Requires Attunement)*
 
@@ -508,7 +508,7 @@ After using the amulet, you can’t use it again until the next midnight.
 
 ## Brick of Walling
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 8,050 gp*
 
@@ -534,7 +534,7 @@ You can send the broom to travel alone to a destination within 1 mile of you if 
 
 ## Bubbler’s Sweat
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Very Rare 1,500 gp*
 
@@ -548,7 +548,7 @@ Whether transported or not, you must succeed on a DC 18 CON save upon waking or 
 
 ## Bygul’s Paw Boots
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Uncommon 2,500 gp*
 
@@ -556,7 +556,7 @@ These fluffy boots have wide soles and sharp spikes along the front that act as 
 
 ## Caliginous Cowl
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Very Rare 30,020 gp*
 
@@ -591,7 +591,7 @@ A carpet can carry up to twice the weight shown on the table, but it flies at ha
 
 ## Caterwauling Box
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Common 55 gp*
 
@@ -599,7 +599,7 @@ This item appears a seemingly ordinary small wooden box with a brass latch. It h
 
 ## Catskin Cloak
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 8,000 gp*
 
@@ -623,7 +623,7 @@ These cloaks are made from the pelts of various large cats. While wearing one, y
 
 ## Chalk of Warding
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 330 gp*
 
@@ -631,7 +631,7 @@ This magical chalk is indistinguishable from standard chalk and is typically fou
 
 ## Charm of Restoration
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Common 100 gp*
 
@@ -649,7 +649,7 @@ The chime can be used ten times. After the tenth time, it cracks and becomes use
 
 ## Circlet of Holly
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Uncommon (Requires Attunement) 500 gp*
 
@@ -661,7 +661,7 @@ While wearing this circlet, you gain the following benefits:
 
 ## Circlet of Syzygy
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Very Rare 15,000 gp (Requires Attunement by a Theurge)*
 
@@ -707,7 +707,7 @@ While you wear this cloak with its hood up, WIS (Perception) checks made to see 
 
 ## Cloak of Irrelevance
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 33,000 gp*
 
@@ -717,7 +717,7 @@ This magic cloak has 3 charges and regains 1d3 expended charges daily at dawn. W
 
 ## Cloak of Meditation
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Very Rare 30,000 gp (Requires Attunement by a Sorcerer)*
 
@@ -743,7 +743,7 @@ While wearing the cloak in an area of dim light or darkness, you can use your ac
 
 ## Cloak of the Far Traveler
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Legendary 120,000 gp (Requires Attunement)*
 
@@ -755,7 +755,7 @@ This cloak resembles a field of scattered stars and comets, sometimes shining wi
 
 ## Cloak of Wide-Ranging
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Common 75 gp*
 
@@ -763,7 +763,7 @@ While wearing this wolf-skin cloak, you have advantage on CON saves to avoid lev
 
 ## Cloud Hookah
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 8,050 gp*
 
@@ -773,7 +773,7 @@ These hookahs come in a variety of shapes, some highly decorative, and must be f
 
 ## Cockatrice Egg
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Very Rare 5,000 gp*
 
@@ -781,7 +781,7 @@ This magic item is a specially treated, unfertilized cockatrice egg. As an actio
 
 ## Coin of Wandering Luck
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 1,000 gp*
 
@@ -797,7 +797,7 @@ This gold coin bears a representation of comedy on one face and tragedy on the o
 
 ## Communication Apparatus
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Very Rare 50,000 gp*
 
@@ -807,7 +807,7 @@ To “recharge” its transmission limit, the orb and its companion amulet must 
 
 ## Countercharm Charm
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 1,100 gp*
 
@@ -815,7 +815,7 @@ This charm has 3 charges and regains 1d3 expended charges daily at dawn. As a re
 
 ## Cowl of the Wild
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Uncommon 500 gp (Requires Attunement by a Druid)*
 
@@ -885,7 +885,7 @@ The *cube* regains 1d20 expended charges daily at dawn.
 
 ## Cymbals of Tumult
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 22,000 gp*
 
@@ -903,7 +903,7 @@ The *lockpicks* regain 1d3 charges daily at dusk. If you expend the last charge,
 
 ## Dark Carousel
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Wondrous Item, Legendary 100,000 gp*
 
@@ -957,7 +957,7 @@ The carousel contains 4d4 + 2 creatures, and only one of any given type listed c
 
 ## Dashing Boots
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 2,000 gp*
 
@@ -979,7 +979,7 @@ In addition, you can make a CHA (Deception or Persuasion) check with advantage i
 
 ## Diadem of Focus
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Rare 4,000 gp (Requires Attunement by a Sorcerer)*
 
@@ -993,7 +993,7 @@ You and any creature you designate when you use the shackles can use an action t
 
 ## Dreamer’s Delight
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Rarity Varies Price Varies*
 
@@ -1017,7 +1017,7 @@ Once consumed, a candy takes effect immediately and lasts until dispelled or a d
 
 ## Drum of Interruption
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Uncommon 2,500 gp (Requires Attunement)*
 
@@ -1065,7 +1065,7 @@ The first time the bottle is opened, the GM rolls to determine what happens.
 
 ## Einherjar’s Drinking Horn
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Uncommon 3,400 gp*
 
@@ -1088,7 +1088,7 @@ This gem contains a mote of elemental energy. When you use an action to break th
 
 ## Empyrean Halo
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Very Rare (Requires Attunement) 60,000 gp*
 
@@ -1155,7 +1155,7 @@ As a bonus action on your turn, you can direct the whip to fly up to 20 feet and
 
 ### Northlands Feather Tokens
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 The following are additional feather token options:
 
@@ -1214,7 +1214,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Figurine of Wondrous Power
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rarity by Figurine Price Varies*
 
@@ -1240,7 +1240,7 @@ The creature exists for a duration specific to each figurine and reverts to its 
 
 ## Figurine of Wondrous Power, Malachite Selang
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Rare 8,000 gp*
 
@@ -1248,7 +1248,7 @@ This malachite statuette is of a selang prancing and playing a pan flute. It can
 
 ## Firebird Feather
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Uncommon 500 gp*
 
@@ -1280,7 +1280,7 @@ Your STR score is 19 while you wear these gauntlets. They have no effect on you 
 
 ## Gem of Image Storing
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 4,000 gp*
 
@@ -1304,7 +1304,7 @@ The gem regains 1d3 expended charges daily at dawn.
 
 ## Ghost Thread
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Rare 4,000 gp*
 
@@ -1312,7 +1312,7 @@ Most of this miles-long strand of enchanted silk, created by phase spiders, resi
 
 ## Glacierpress Boots
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Very Rare 27,000 gp*
 
@@ -1320,7 +1320,7 @@ The furry uppers of these boots have ice and gravel matted into them that never 
 
 ## Glasses of Explication
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Uncommon 1,000 gp*
 
@@ -1350,7 +1350,7 @@ While wearing these gloves, climbing and swimming don’t cost you extra movemen
 
 ## Goggles of Snowsight
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Uncommon 4,200 gp*
 
@@ -1358,7 +1358,7 @@ While wearing these multifaceted blue crystal goggles, you do not have disadvant
 
 ## Goggles of Tracking
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Uncommon 2,800 gp*
 
@@ -1366,7 +1366,7 @@ These goggles have multiple lenses that can be swiveled. The goggles have 3 char
 
 ## Grimoire of the Eldest
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Very Rare (Requires Attunement) 55,000 gp*
 
@@ -1376,7 +1376,7 @@ This volume details the foundations of a cult of the void and is bound in leathe
 
 ## Hagseye Circlet
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Very Rare 40,000 gp (Requires Attunement by a Witch)*
 
@@ -1408,7 +1408,7 @@ While wearing this hat, you can use an action to cast the *[[1st-Circle Spells#D
 
 ## Hat of Reproach
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Very Rare 10,000 gp (Requires Attunement by a Wizard)*
 
@@ -1416,7 +1416,7 @@ This tall, pointy hat bears arcane symbols representing the various schools of m
 
 ## Haunted Doll
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Wondrous Item, Legendary 200,000 gp (Requires Attunement)*
 
@@ -1434,7 +1434,7 @@ The possessing spirit is filled with grief and wants to protect the PC attuned t
 
 ## Hawk-Eyed Oculus
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Rare 5,000 gp*
 
@@ -1442,7 +1442,7 @@ When this small hawk statuette is set down and its command word spoken, you can 
 
 ## Hawking Sign
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Uncommon 200 gp*
 
@@ -1450,7 +1450,7 @@ This shop sign activates whenever someone passes within 20 feet, immediately and
 
 ## Headband of Awareness
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Rare 5,000 gp (Requires Attunement)*
 
@@ -1506,7 +1506,7 @@ This helm has 3 charges. While wearing it, you can use an action and expend 1 ch
 
 ## Helmet of Nullification
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Very Rare (Requires Attunement) 80,000 gp*
 
@@ -1514,7 +1514,7 @@ This helmet, covered in rust and verdigris, features glowing inlays in Void Spee
 
 ## Hel’s Coin
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Common 10 gp*
 
@@ -1524,7 +1524,7 @@ If you carry more than one *Hel’s coin*, you gain the following curse instead;
 
 ## Hjartarydi’s Belt
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Uncommon 4,400 gp*
 
@@ -1532,7 +1532,7 @@ Touching this blood-red leather belt fills you with a sense of comfort. While yo
 
 ## Hollow Eye
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Rare 4,040 gp (Requires attunement)*
 
@@ -1540,7 +1540,7 @@ This small wooden talisman is shaped like a large eyeball with an empty void in 
 
 ## Honey Lamp
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Common 200 gp*
 
@@ -1548,7 +1548,7 @@ This orb, made from glowing honey encased in beeswax, sheds bright light in a 20
 
 ## Horn of Battle’s Call
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Rare 8,000 gp*
 
@@ -1562,7 +1562,7 @@ Each use of the horn’s magic has a 20 percent chance of causing the horn to ex
 
 ## Horn of the Hrimthursar
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Rare 14,000 gp*
 
@@ -1570,7 +1570,7 @@ This ivory horn, also known as the Horn of Frozen Breath, is typically carved fr
 
 ## Horn of the Wild Hunt
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Legendary 45,000 gp*
 
@@ -1584,7 +1584,7 @@ When you blow this horn, you can expend 1 charge to cast *[[3rd-Circle Spells#Co
 
 ## Incendiary Coal
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Rare 12,000 gp*
 
@@ -1596,7 +1596,7 @@ At the end of each of your subsequent turns, the sphere’s radius increases by 
 
 ## Insta-Pit
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 8,000 gp*
 
@@ -1654,7 +1654,7 @@ A stone has AC 24 and 10 HP, and it is resistant to all damage. It is considered
 
 ## Ioun Stone: Reciprocation
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Wondrous Item, Rare 16,000 gp (Requires Attunement by a Wizard)*
 
@@ -1693,7 +1693,7 @@ An *[[Rituals 1st–3rd Circle#Identify|identify]]* spell reveals that a creatur
 
 ## Iron Traitor’s Arm Ring
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Very Rare 28,000 gp*
 
@@ -1707,7 +1707,7 @@ Once the arm ring is used, it can’t be used again until the next dawn.
 
 ## Ivy Crown of Prophecy
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Rare 5,500 gp*
 
@@ -1715,7 +1715,7 @@ While wearing this ivy, filigreed crown, you can cast the divination ritual from
 
 ## Kerchief of Weeping
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Wondrous Item, Rare 2,000 gp (Requires Attunement)*
 
@@ -1725,7 +1725,7 @@ This black-lace handkerchief smells slightly of frankincense and myrrh. If you m
 
 ## Key of Keys
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 520 gp*
 
@@ -1733,7 +1733,7 @@ This magic key has 6 charges and regains 1d6 expended charges daily at dawn. Whi
 
 ## Key of Secure Lodging
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Uncommon 630 gp*
 
@@ -1741,7 +1741,7 @@ This magic key has 9 charges. As an action, you can expend 3 charges to cast *[[
 
 ## Key of the Starfield
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Wondrous Item, Rare 60,000 gp*
 
@@ -1757,7 +1757,7 @@ The key regains 2 hours of flying capability for every 8 hours it isn’t in use
 
 ## Living Stake
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Wondrous Item, Rare 4,000 gp*
 
@@ -1769,7 +1769,7 @@ Fashioned from mandrake root, this stake longs to taste the heart's blood of vam
 
 ## Lyre of Rumbling
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Rare 8,800 gp*
 
@@ -1811,16 +1811,4 @@ An Arcane circle spell on a *[[#Spell Scroll|spell scroll]]* can be copied just 
 | 9th | Legendary | 19 | +11 | 10,500 gp |
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
-
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

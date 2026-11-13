@@ -6,7 +6,6 @@ tags: [alchemy, recipes, all-ranks]
 publish: true
 ---
 
-
 > Items marked with `*` are new items from the Magic Item Compendium (Ch. 7).
 > Tags: **(Banned)** = forbidden | **(Restricted)** = Masters only
 

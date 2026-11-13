@@ -2,7 +2,7 @@
 aliases: [Epic Levels]
 publish: true
 ---
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Typical*ly*, PCs can’t advance beyond 20th level. However, if your party reaches 20th level and wants to continue game play, you can use the following optional rules to advance beyond this cap. With this system, you can gain up to 10 additional epic levels. These epic levels don’t progress individual character classes, but they still provide significant increases to power.
 
@@ -82,6 +82,4 @@ The following epic-level boons are available to any PC with at least one epic le
 - **Epic Talent.** Choose one type of talent list: Magic, Martial, or Technical. Whenever you gain a new talent, you can choose a talent from either the chosen list or the talent lists you can access via your class features. Immediately, gain a talent of your choice from the chosen list when you gain this Epic-Level Boon. You can select this boon multiple times, choosing a different talent list each time.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

@@ -55,7 +55,7 @@ Spells and other magical effects, except those created by an artifact or a deity
 
 ## Aura of Quietus
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Divine (Abjuration)*
 
@@ -73,7 +73,7 @@ An aura of death blossoms from you in a 5-foot radius. The aura moves with you a
 
 ## Awaken Ship Guardian
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *8th-Circle Divine and Primordial (Conjuration)*
 
@@ -97,7 +97,7 @@ You summon a protective spirit to live within the hull of a large or larger ship
 
 ## Blossom of Death
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Wyrd (Necromancy)*
 
@@ -117,7 +117,7 @@ A Humanoid killed by this spell rises at the start of your next turn as a **spec
 
 ## Body of Ruin
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *8th-Circle Arcane and Wyrd (Evocation)*
 
@@ -137,7 +137,7 @@ Choose a Humanoid you can see within range. The target must succeed on a CON sav
 
 ## Cacophonous Howl
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Arcane and Wyrd (Evocation)*
 
@@ -159,7 +159,7 @@ While you are concentrating on this spell, you can’t cast any other spell with
 
 ## Crawling Darkness
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Arcane and Wyrd (Conjuration)*
 
@@ -203,7 +203,7 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 
 ## Earth Clash
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Primordial (Evocation)*
 
@@ -271,7 +271,7 @@ The spell can also be ended by the *[[5th-Circle Spells#Greater Restoration|grea
 
 ## Geyser Surge
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Primordial (Evocation)*
 
@@ -305,7 +305,7 @@ Until the spell ends, when you make a CHA ability check or save, you can replace
 
 ## Glimpse of the Void
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *8th-Circle Arcane (Enchantment)*
 
@@ -385,7 +385,7 @@ The cloud moves 10 feet directly away from you in a direction that you choose at
 
 ## Incite Strife
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Arcane (Enchantment)*
 
@@ -409,7 +409,7 @@ Once the chain of effects ends, all creatures under the influence of this spell 
 
 ## Jotun Form
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *8th-Circle Arcane and Divine (Transmutation)*
 
@@ -465,7 +465,7 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 
 ## Overgrowth
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Primordial (Transmutation)*
 
@@ -485,7 +485,7 @@ This growth overtakes structures and objects, dealing 8d6 bludgeoning damage to 
 
 ## Pierce the Veil
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Arcane and Wyrd (Divination)*
 
@@ -503,7 +503,7 @@ You grant selected targets the momentary ability to see beyond the mortal realms
 
 ## Power Word Petrify
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Arcane, Divine, and Wyrd (Transmutation)*
 
@@ -576,10 +576,4 @@ Creatures caught in the wave can attempt to exit by swimming through the water. 
 At the start of each of your turns after the wave appears, the wave and all creatures and objects caught within it move 50 feet away from you (in the same direction each round). Any Huge or smaller creatures that start their turn caught in the wave, who enter the wave for the first time, or are occupying spaces the wave moves through must succeed on a STR save or take 5d10 bludgeoning damage. A target can only take damage in this way once per round. At the end of each turn that this movement occurs, the wall’s height is reduced by 50 feet, and the bludgeoning damage dealt by the wave is reduced by 1d10. If the wave’s height is ever reduced to 0 feet, the spell ends.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

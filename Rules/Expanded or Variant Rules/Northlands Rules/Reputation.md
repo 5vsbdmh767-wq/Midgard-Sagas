@@ -2,7 +2,7 @@
 aliases: [Reputation Score, Reputation Thresholds, Reputation Challenge, Deeds, Holmganga Rules]
 publish: true
 ---
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 A person's reputation means everything in the [[Northlands]]. As canny [[Wotan]] said, "*Cattle die, kin die, even the self dies, but glory never dies for the one able to achieve it.*" To be a hero in the North, and so earn a place in the afterlife, is to do deeds with an eye to how they shape your name. Renown isn't fixed, though. A hero might win great honor for killing a mighty dragon, then watch it rot away after acting dishonorably.
 
@@ -108,4 +108,4 @@ Honorable folk of every profession are expected to duel when necessary. If a due
 ***Reward.*** Winning a holmganga upholds your side of the dispute that caused it, and it can count as a deed, as your GM decides.
 
 ---
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Sources: [[Credits]].</small>

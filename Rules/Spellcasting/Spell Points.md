@@ -2,7 +2,7 @@
 aliases: [Variant Spellcasting: Spell Points, Spell Point]
 publish: true
 ---
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 If your GM opts to allow its use, PCs with the Spellcasting class feature can adopt this variant method of casting to forgo the use of spell slots and instead use a pool of points to cast their spells. This variant system is more complex than standard spellcasting but allows for greater flexibility.
 
@@ -77,6 +77,4 @@ With this ruleset, every spell in the game is assigned a point cost based on the
 | 9th | 13 |
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

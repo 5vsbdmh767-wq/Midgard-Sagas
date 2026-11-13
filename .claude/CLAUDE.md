@@ -14,6 +14,7 @@ This repo is Bryant's Obsidian vault for the player wiki *Midgard Sagas* (Obsidi
 - Never on the wiki (no player knows): Qeldar = the Weft, the Weft as primary antagonist, Derende = the Tender, the Night Cauldron and Dariska, Czarizeby, the name Hallisar, Kled, Zondera, Binia, the Sanguine Path, Cylentha's plans, the Moonlit King's escape, the Stross Library portals, the Weft holding the hollow Summer Court, Allia's patron, Vizorakh and the Voidreach secret.
 - GM-only material goes in `_GM Only/` with `publish: false`. `%% comments %%` are not private.
 - Player pages carry `publish: true` in frontmatter.
+- The Publish site is password-protected (private table reference).
 
 ## Writing style
 
@@ -24,6 +25,16 @@ This repo is Bryant's Obsidian vault for the player wiki *Midgard Sagas* (Obsidi
 - Link names wiki-wide. Inside tables, escape the pipe: `[[Page\|Text]]`.
 - Party: three PCs, Lesshy, Rozen and Sidious. Allia and Msshka are off-screen guests; M3L0-D is in Zobeck.
 - System: Tales of the Valiant (Black Flag), Foundry VTT v14 on The Forge.
+
+## Organization (Bryant's ruling, 13 Nov 2026)
+
+- The wiki is one rules and lore database, organized by what a reader is trying to do. Nothing is organized by book: no book-named folders, hub pages, "More X (Book)" sections, or "Optional, from X" labels.
+- Anything optional is allowed at the table, so nothing is marked "ask your GM".
+- Where each thing came from is kept as an invisible note, `%% source: Book Name %%`, on the line under its heading. Add one to anything new. Never show a book name in a heading or label.
+- Books are credited only on the `Credits` page. Pages with Black Flag Reference Document text end with the small CC BY footer; other rules pages end with `<small>Sources: [[Credits]].</small>`.
+- New material goes where its topic lives: items into the one alphabetical list or table for that kind of thing, rules into Characters, Equipment, Magic, or Playing the Game.
+- Two versions of the same thing: if they clearly differ, keep both under one heading as named variants (named for the place or people, not the book). If they are nearly the same, flag it for Bryant.
+- Variant systems: Injuries (tied to Called Shots) and DOOM are in play. Spell Points are optional for players. Epic Advancement is an alternate rule not in play. Ship combat and weather each have more than one system and still need reconciling.
 
 ## Security
 

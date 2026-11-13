@@ -2,7 +2,7 @@
 aliases: [Warframe]
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Warframes are magically infused sets of armor that a creature can strap itself into or arcanepunk, gem-powered vehicles that allow a creature to wield a higher level of arcane firepower while enjoying the protection of the warframe’s bulk. Warframes are considered vehicles, but some of them are further classified as “suits.”
 
@@ -249,4 +249,4 @@ Bandits and warlords use this warframe vehicle for sieges and raids. The vehicle
 >
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

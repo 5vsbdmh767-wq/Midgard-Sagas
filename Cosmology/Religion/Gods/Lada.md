@@ -40,8 +40,6 @@ Lada is said to be [[Aten]]'s daughter, though their priesthoods rarely get alon
 ==**What Lada Demands**==
 Cure all the sick who ask. Defend lovers from every danger and trial. Show mercy to those who ask for it. Her clergy must make a pilgrimage to the healing school of Laksor once every twelve years. All her faithful must defend and protect mothers and children, and none may turn away from poverty and want without a kind word and an offer of help, whether wisdom, food, clothing, a song, or shelter for the night.
 
-
-
 ==**In the North**==
 In the [[Northlands]], Lada is worshiped as Baldur, the Bringer of Light, the Fair, Frigg's Favored Son, the Harbinger of Ragnarok, the Light of the Aesir, God of Joy and Beauty, and the Bleeding God, whose favored weapon is the longsword. See [[Gods of the North]].
 

@@ -411,7 +411,7 @@ When a spirit is destroyed in this way, you must complete a long rest before you
 
 ## Ranger Boons
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the ranger class.
 
@@ -445,12 +445,12 @@ Your commitment to the ranger’s path grants you a powerful new ability. You ga
 
 ## More Ranger Subclasses
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 At 3rd level, rangers gain the Ranger Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Arrow Binder, Shadow, or Trailblazer.
 
 ## Arrow Binder
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Arrow binders are rangers who have melded their mastery of the wilds with their mastery of the bow. They channel primordial magic into their ammunition, unleashing spell and shot as one to defend the natural world from those that would despoil it. While most Arrow Binder rangers prefer bows, some swear by crossbows or will use slings in a pinch.
 
@@ -530,7 +530,7 @@ When a creature you can see hits you with a ranged attack, you can make one rang
 
 ## Shadow
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 The Shadow’s calling is a rare one, often drawing in rangers who have lost much to the world’s monsters. Such rangers draw on the gloom of night and the dark of sunless caves to evade, isolate, and destroy their foes. Theirs is a perilous hunt, journeying into the lightless lairs of untold horrors to end threats at their source.
 
@@ -599,7 +599,7 @@ As an action, you subsume yourself into an embodiment of a moonless, pitiless ni
 
 ## Trailblazer
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Trailblazers lead expeditions into the unknown and guard travelers through the most dangerous wilds. They are unparalleled experts of the natural world, navigating extreme climes with ease and protecting their charges from the myriad dangers of those environs. In combat, they leap into the fray, marking targets for their allies to bring down.
 
@@ -672,13 +672,13 @@ As a bonus action, you can choose a creature marked by your Mystic Mark (see *Pl
 
 ## Old Margreve Ranger Subclasses
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 At 3rd level, a ranger gains the Ranger Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Griffon Scout, Grove Warden, or Spear of the Weald.
 
 ## Griffon Scout
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 [[Elves]] of the forested woodlands and mountain foothills often uphold the tradition of taming and riding griffons, living on the same windswept crags where griffons nest, thus giving themselves the ability to command vast tracts of woodland territory. Trained by elf veterans and beast tamers, rangers of the Griffon Scout subclass learn to move swiftly and stealthily both on foot and while mounted, gathering information on their enemies and mounting devastating hit-and-run raids with precision and coordination.
 
@@ -743,7 +743,7 @@ When you move at least 20 feet during your turn, whether you are mounted or not,
 
 ## Grove Warden
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Fiercely protective of their territory, alseid herds form close bonds with their home forests. In return for their diligent protection, the forests offered their blessings to dedicated alseid rangers. These rangers learned to pass this connection to the land down to other rangers, who have expanded this knowledge to connect with any land with natural growth. Grove Wardens can tap into the subtle magic within the land itself, calling on it to help the ranger protect the wilds and themselves. Grove Wardens are dedicated to using martial might to keep the land safe from otherworldly dangers and those who would despoil it.
 
@@ -810,7 +810,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 ## Spear of the Weald
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Rangers of ancient forests often develop a connection with the Fey who guard such sacred areas. Gifted with a brief foray into areas overlapping the Plane of the Fey or even a trip into the fey lands themselves, these rangers return touched by fey magic, able to call on it to create magical spears or to bring the forest to their aid. They can make a dizzying variety of attacks, using ancient fey magic to flash across the battlefield in the blink of an eye.
 
@@ -893,13 +893,13 @@ When you teleport, you can shroud yourself in strands of the magic. Until the st
 
 ## Labyrinth Ranger Subclasses
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 At 3rd level, a ranger gains the Ranger Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Waysmith.
 
 ## Waysmith
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 While most rangers are drawn to the terrain of the natural world, rangers of the Waysmith calling are hypersensitive to the magical currents that flow between realities. While their capabilities seem counterintuitive on the surface, these individuals cultivate the skills required to navigate interplanar travel just as another ranger might learn to thrive in an inhospitable forest or unforgiving desert.
 
@@ -951,7 +951,6 @@ Additionally, whenever a ranger class feature would allow you to learn a new spe
 | 13th | *[[4th-Circle Spells#Dimension Door\|dimension door]]* |
 | 17th | *[[5th-Circle Spells#Dispel Evil and Good\|dispel evil and good]]* |
 
-
 ### Reality Skip
 
 *7th-Level Waysmith Feature*
@@ -968,7 +967,6 @@ Once per turn when you successfully hit a creature marked by your Mystic Mark wi
 
 If your target is a Celestial, Elemental, Fiend, Fey, or creature with the Outsider tag, you can instead attempt to banish it with this feature. Upon successfully hitting an appropriate target, the creature must succeed on a CHA save or disappear as it is banished to its home plane for 1 minute. A banished creature can repeat the save at the end of each of its turns, reappearing in the closest unoccupied space to the space it disappeared from when it succeeds. Only one creature can be banished at a time with this feature.
 
-
 Once a creature successfully saves against this feature (whether a CON or CHA save) that creature is immune to this ability for 24 hours.
 
 ### Planar Transit
@@ -981,13 +979,13 @@ Once you use this feature, you can’t do so again until you finish a long rest.
 
 ## Book of Blades Ranger Subclasses
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 When you choose your ranger subclass, the following subclasses from *[[Book of Blades]]* are also available: Peerless Scout and Windsworn.
 
 ## Peerless Scout
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 To protect the edges of society from encroaching monsters, rangers learn to navigate various terrains and acquire nature magic to make them better hunters. The Peerless Scout forgoes those spells to strengthen their relationship to the terrain they fight in. They become consummate guides who can sense subtle changes in terrain or an enemy’s demeanor and use that information to protect their allies. They control the battlefield with a supernatural ability to quickly set traps and predict the movement of their foes.
 
@@ -1062,7 +1060,7 @@ When you expend your situational awareness with Impromptu Ambush along with Mast
 
 ## Windsworn
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 A Windsworn is as beautiful to behold as they are dangerous. They artfully whirl through melee, flowing across the battlefield, dodging blows, and rapidly slicing foes to bloody pieces. While rangers are often associated with the longbow, the Windsworn ranger embodies the spirit of two-weapon fighting. Facing a Windsworn with a weapon in each hand is a dance with death.
 
@@ -1124,12 +1122,4 @@ When you engage in two-weapon fighting, you gain a +2 bonus to damage rolls with
 As a bonus action, you can perform a dance of whirling death that lasts until the end of your turn. When you take an Attack action while engaging in two-weapon fighting, you may make a melee attack for every 5 feet that you move, up to a maximum number of attacks equal to your PB. No more than half your attacks can use the same weapon. Your movement does not provoke opportunity attacks while using dance of death. Once you use this feature, you must finish a long rest before you can use it again.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

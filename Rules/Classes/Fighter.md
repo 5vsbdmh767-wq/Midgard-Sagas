@@ -390,7 +390,7 @@ When you roll initiative and have no uses of your Stunts feature remaining, you 
 
 ## Fighter Boons
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the fighter class.
 
@@ -424,7 +424,7 @@ Your commitment to the fighter’s path grants you a powerful new ability. You g
 
 ## Martial Actions Expanded
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 This section lists additional martial actions available for fighters. See the Martial Action class feature in the *Player’s* *Guide* for the full description of how these effects work.
 
@@ -466,12 +466,12 @@ This section lists additional martial actions available for fighters. See the Ma
 
 ## More Fighter Subclasses
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 At 3rd level, fighters gain the Fighter Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Scrapper, Stunt Archer, or Twinblade.
 
 ## Scrapper
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Fighters typically engage with their opponents with manufactured weapons. However, some of them enjoy the physicality of using their bodies as weapons and become adept at throwing fists and locking down foes.
 
@@ -532,7 +532,7 @@ When you hit a creature with two unarmed strikes in the same turn (and it has le
 
 ## Stunt Archer
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Some fighters eschew melee weapons completely, choosing the greater range afforded by bows and crossbows. They become so comfortable with these weapons that they can perform incredible shots—seeming to defy the odds.
 
@@ -655,7 +655,7 @@ In addition, when you roll initiative and have no uses of your Stunt Shots featu
 
 ## Twinblade
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Fighters that choose the Twinblade discipline are master dual-wielders, forgoing cumbersome armaments to become a whirling death that moves through battles with lightning speed. From afar, the complex forms and circular movements employed by these warriors resemble a graceful dance. But foes confronted with a Twinblade’s spinning strikes rarely live to question the deadliness of their art.
 
@@ -714,16 +714,15 @@ In addition, as a reaction when a hostile creature you can see enters a space wi
 
 ## Labyrinth Fighter Subclasses
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 At 3rd level, a fighter gains the Fighter Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Trooper.
 
 ## Trooper
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Troopers are soldiers who undergo rigorous training to survive and thrive in any environment, no matter how alien or hostile the terrain may be. Whether storming the shores of an elemental plane, covertly seeking a target in a magical wood cast into perpetual night, or escorting a vessel adrift on the rainbow winds of the Astral Sea, these tireless individuals never waver.
-
 
 **Trooper Progression**
 
@@ -783,13 +782,13 @@ Once you use this feature, you can’t do so again until you finish a long rest.
 
 ## Book of Blades Fighter Subclasses
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 When you choose your fighter subclass, the following subclasses from *[[Book of Blades]]* are also available: Iron Bastion and Skirmisher.
 
 ## Iron Bastion
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Encased in a tower of iron and steel, the Iron Bastion stands between its allies and all harm. These fighters excel at using armor and shield to protect themselves and other party members. They learn special exploits that take advantage of their armor and shield in ways others could never master.
 
@@ -848,7 +847,7 @@ While wearing heavy armor and carrying a shield, as an action, you can cast *wal
 
 ## Skirmisher
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Skirmishers use ranged attacks, melee attacks, and mobility to evade incoming strikes and reach enemies anywhere on the battlefield. They typically use crossbows with a Light weapon on hand for flexibility, taking aim at one foe while dodging another’s attacks, then slipping away to a more advantageous position.
 
@@ -907,13 +906,13 @@ When you hit an opponent with a crossbow bolt, your ammunition strikes a sensiti
 
 ## Northlands Fighter Subclasses
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 At 3rd level, a fighter gains the Fighter Subclass feature. The following subclass from the [[Northlands]] is also available when making that choice: Viking.
 
 ## Viking
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Vikings are battle-hardened warriors and sailors who ply the seas of the Northlands for glory and plunder. As followers of the Reaver’s Way, they have their own sense of honor, yet they can be merciless in times of raiding and war. Vikings are known for their prowess with the spear and axe, and for their belief that they can earn a special place in the halls of the dead through their deeds of valor in battle.
 
@@ -970,13 +969,13 @@ You can use this feature a number of times equal to your PB, and you regain all 
 
 ## Night Hunters Fighter Subclasses
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 At 3rd level, a fighter gains the Fighter Subclass feature. The following subclass from *Night Hunters* is also available when making that choice: Nemesis.
 
 ## Nemesis
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Fighters that commit to the Nemesis discipline dedicate themselves to the pursuit and slaughter of the vilest predators that stalk the night. They stand against shadow by infusing themselves with a fraction of the same darkness they are bound to fight.
 
@@ -1034,14 +1033,4 @@ If you start your turn and can see at least one hostile creature within 60 feet 
 In addition, you can immediately choose to expend (and then roll) one of your available hit dice to recover hit points equal to the number rolled + your CON modifier. Alternatively, you can forgo regaining hit points and instead use the hit die to end a condition of your choice that is currently affecting you.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

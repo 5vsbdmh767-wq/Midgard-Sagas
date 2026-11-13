@@ -156,7 +156,7 @@ Many weapons have special properties that affect their use, as shown in the Prop
 
 ## More Weapons (Player's Guide 2)
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 The listed additional types of weapons are available to PCs. The **Weapons** table lists the cost, damage dice and type, weight, weapon options, and special properties for each. The table is also split by the proficiencies (simple or martial) required to wield the various weapons most effectively.
 
@@ -261,7 +261,7 @@ Many weapons have special properties that affect their use, and this is listed i
 
 ## More Weapons (Northlands Worldbook)
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 These weapons are found in the [[Northlands]]. The **Weapons** table lists the cost, damage dice and type, weight, weapon options, and special properties for each. The table is also split by the proficiencies (simple or martial) required to wield the various weapons most effectively.
 
@@ -303,7 +303,7 @@ Make an attack roll with this weapon against a target wearing manufactured armor
 
 ## More Weapons (Trade Secrets)
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 The listed additional weapons are available to PCs. The Weapons table lists the cost, damage dice and type, weight, weapon options, and special properties for each. The table is also split by the proficiencies (simple or martial) required to wield the various weapons most effectively.
 
@@ -413,10 +413,4 @@ Many weapons have special properties, as shown in the Properties column of the W
 ***Secure.*** You have Advantage on Ability Checks and Saving Throws made to avoid being disarmed.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

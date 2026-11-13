@@ -2,7 +2,7 @@
 aliases: [Structures, Shop Components, Renting a Shop]
 publish: true
 ---
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 Before a business can operate, it needs someplace to conduct its business. This page covers financing a business, building it from components, choosing a location, and buying or renting a shop, workshop, factory, or farm. For the daily rules of making money, see [[Running a Business]].
 
@@ -456,4 +456,4 @@ Some examples of rental conditions include:
 - ***Eviction Notice:*** Even when the PCs can convince the owner to give them more time to address an issue, such things add up, and the owner may eventually decide to throw the PC out, along with all of their goods and personal belongings. In general, the tenant has one day to clear out, but succeeding at a DC 15 CHA (Persuasion) check can extend that notice to three days. However, short of a particularly convincing argument (or a judicious application of enchantment magic), the eviction is unavoidable.
 
 ---
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Sources: [[Credits]].</small>

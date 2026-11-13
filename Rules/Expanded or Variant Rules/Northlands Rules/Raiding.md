@@ -2,7 +2,7 @@
 aliases: [Raid, Raids, Raiding Rules, Spoils]
 publish: true
 ---
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Raiding has been part of Northern life since the Reaving. Raids served many purposes: winning glory, training young warriors, punishing enemies, or, most often, getting badly needed resources. A raid meant securing a ship, gathering a crew, sailing (often far) to a target, attacking it, and coming home with treasure. Played out fully, a raid could be a campaign in itself, and GMs are free to run it that way. These optional rules instead let parts of the voyage, or the whole raid, happen "off-stage" in abstract, which keeps raids fast and thrilling.
 
@@ -211,4 +211,4 @@ What item the characters get should be discussed between players and GM. Rarity 
 > These rules can be used as a downtime activity. That works best when all the characters go on the raid together, especially since most raids take at least two weeks. GMs can shorten that by giving the expedition some of the ship upgrades or special resources that cut sailing time, which can help if some characters go raiding while others stay behind, so everyone stays on the same timeline.
 
 ---
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Sources: [[Credits]].</small>

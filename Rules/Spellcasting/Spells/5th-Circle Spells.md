@@ -89,7 +89,7 @@ When you cast the spell and as a bonus action on your subsequent turns, you can 
 
 ## Aura of Order
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Divine (Abjuration)*
 
@@ -107,7 +107,7 @@ Sacred energy radiates out from you in a 30-foot radius, suppressing the power o
 
 ## Bearstormer
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *5th-Circle Arcane and Primordial (Illusion)*
 
@@ -129,7 +129,7 @@ When the cube appears, each enemy in the area must make an INT save. On a failed
 
 ## Bound Fortunes
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *5th-Circle Divine (Necromancy)*
 
@@ -147,7 +147,7 @@ You touch another willing creature and bind your fates together until the spell 
 
 ## Bragi’s Theatrical Fall
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *5th-Circle Arcane, Divine, and Wyrd (Illusion)*
 
@@ -169,7 +169,7 @@ If you attack a creature, cast a spell that lets a creature regain Hit Points, o
 
 ## Branch and Root of Yggdrasil
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *5th-Circle Primordial (Conjuration)*
 
@@ -189,7 +189,7 @@ Using this magic requires a sacrifice from the caster. After casting this spell,
 
 ## Cloudfall
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Primordial (Evocation)*
 
@@ -275,7 +275,7 @@ The Elemental is friendly to you and your companions for the duration. In combat
 
 ## Conjure Fey Hound
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *5th-Circle Primordial and Wyrd (Conjuration)*
 
@@ -303,7 +303,7 @@ The summoned creatures are friendly to you and your companions. The summoned cre
 
 ## Conjure Minor Voidborn
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *5th-Circle Arcane and Wyrd (Conjuration)*
 
@@ -363,7 +363,7 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 ## Create Construct
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Arcane (Transmutation)*
 
@@ -385,7 +385,7 @@ The Construct is an ally to you and your companions for the duration. In combat,
 
 ## Demonic Wings
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Divine (Transmutation)*
 
@@ -403,7 +403,7 @@ A willing creature you touch sprouts leathery, barbed wings. It gains a flying s
 
 ## Detonate Metal
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *5th-Circle Arcane and Wyrd (Evocation)*
 
@@ -471,7 +471,7 @@ Each time the target takes damage, it makes a new WIS save against the spell, en
 
 ## Earthen Mantle
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Primordial (Conjuration)*
 
@@ -489,7 +489,7 @@ Your surround your body with a layer of earth and stone. You have an unarmored A
 
 ## Empty Rain
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *5th-Circle Arcane and Primordial (Conjuration)*
 
@@ -509,7 +509,7 @@ A frigid, magic-disrupting rain falls in a 40-foot-tall cylinder with a 10-foot-
 
 ## Feathered Flock
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Divine and Primordial (Transmutation)*
 
@@ -529,7 +529,7 @@ Up to five creatures you choose within range grow wings, giving each target a fl
 
 ## Fenris’s Howl
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *5th-Circle Primordial (Necromancy)*
 
@@ -565,7 +565,7 @@ A vertical column of divine fire roars down from the heavens in a location you s
 
 ## Flash Freeze
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *5th-Circle Arcane and Primordial (Evocation)*
 
@@ -629,7 +629,7 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 
 ## Greater Warding Bond
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Divine (Abjuration)*
 
@@ -649,7 +649,7 @@ The spell ends if all targets drop to 0 HP. The spell ends for a single target i
 
 ## Harrying Hounds
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *5th-Circle Arcane and Primordial (Enchantment)*
 
@@ -711,7 +711,7 @@ The information you learn is accurate but might be couched in figurative languag
 
 ## Lifeblind
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Divine and Wyrd (Necromancy)*
 
@@ -729,7 +729,7 @@ A target creature within range must succeed on a CHA save or have creatures othe
 
 ## Loan
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Arcane and Wyrd (Conjuration)*
 
@@ -747,7 +747,7 @@ You tag an item that weighs up to 1,000 pounds and set a return time up to 1 wee
 
 ## Maim
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *5th-Circle Divine and Wyrd (Necromancy)*
 
@@ -855,7 +855,7 @@ When the opening disappears, any creatures or objects still in the passage creat
 
 ## Primal Infusion
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *5th-Circle Primordial (Transmutation)*
 
@@ -879,7 +879,7 @@ You channel the fury of nature, drawing on its power. Until the spell ends, you 
 
 ## Psychic Barrage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Arcane and Wyrd (Enchantment)*
 
@@ -899,7 +899,7 @@ You create four lances of psychic energy and fire them at up to four creatures w
 
 ## Regenerative Hull
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *5th-Circle Arcane, Divine, and Primordial (Abjuration)*
 
@@ -939,7 +939,7 @@ A creature can use its action to inspect a target and make an INT (Investigation
 
 ## Snapping Snare
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *5th-Circle Primordial (Conjuration)*
 
@@ -973,7 +973,7 @@ If the target is thrown at another creature, that creature must succeed on a DEX
 
 ## Spirit Double
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Wyrd (Conjuration)*
 
@@ -995,7 +995,7 @@ In addition, if a creature within 10 feet of your spirit double makes an attack 
 
 ## Starbright
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Arcane and Wyrd (Evocation)*
 
@@ -1019,7 +1019,7 @@ The spell ends early if the last mote is expended.
 
 ## Sucking Mud Pit
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Primordial (Transmutation)*
 
@@ -1143,7 +1143,7 @@ If you maintain your concentration on this spell for its whole duration, the wal
 
 ## Whiteout
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *5th-Circle Arcane and Primordial (Conjuration)*
 
@@ -1167,7 +1167,7 @@ When the spell ends, all snow created by it disappears instantly and the exhaust
 
 ## Yarila and Porevit's Mantle
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *5th-Circle Primordial (Transmutation)*
 
@@ -1188,12 +1188,4 @@ For the duration, while you are in bright light that is sunlight, you ignore the
 In addition, you have advantage on DEX (Stealth) checks while in terrain with vegetation, such as a forest, grassland, or even fungal cavern.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

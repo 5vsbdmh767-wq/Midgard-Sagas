@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 High, thick walls of well-hewn stone and timber protect castles and towns. Thus, siege warfare arose to turn those walls into a coffin.
 
@@ -94,4 +94,4 @@ To fire a xorn engine, one action must be used to load it, and a second action m
 ***Glidestone.*** *Ranged Weapon Attack:* +6 to hit, range 300/600 ft., one target. *Hit:* 33 (6d10) bludgeoning damage.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

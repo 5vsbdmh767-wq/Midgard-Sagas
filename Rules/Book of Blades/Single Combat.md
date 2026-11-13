@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Adventurous sorts occasionally find themselves in circumstances that pit a single combatant against another single combatant, especially in matters of honor. These fights often manifest as duels, jousts, wrestling matches, and trials by combat.
 
@@ -183,4 +183,4 @@ The example point scheme reflects how a larger society might value a combatantâ€
 | Defeat a known opponent with multiple wins | +3 |
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

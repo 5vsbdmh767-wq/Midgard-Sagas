@@ -25,7 +25,7 @@ You are resistant to one type of damage while you wear this armor. The GM choose
 
 ## Armor of Thorns
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Armor (Light), Very Rare 45,000 gp (Requires Attunement)*
 
@@ -67,7 +67,7 @@ While wearing this armor, you gain a +1 bonus to AC, and you can understand and 
 
 ## Doubletake Armor
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Armor, Rare 5,000 gp (Requires Attunement)*
 
@@ -111,7 +111,7 @@ While wearing this armor, you gain a +2 bonus to AC. In addition, if an effect m
 
 ## Goblin Shield
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Armor (Shield), Rare (Requires Attunement) 4,000 gp*
 
@@ -119,7 +119,7 @@ This shield resembles a snarling goblin's head. It has 3 charges and regains 1d3
 
 ## Helm of Readiness
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Armor, Uncommon 2,000 gp (Requires Attunement)*
 
@@ -127,7 +127,7 @@ When wearing this metal helmet, you have advantage on initiative rolls. If you d
 
 ## Iced Steel Armor
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Armor (Any medium or heavy armor made primarily of metal), Uncommon 1,000 gp + armor base cost*
 
@@ -135,7 +135,7 @@ This suit of armor is made of iced steel, which legends hold originates in the f
 
 ## Laekning Shield
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Round shield, Uncommon 1,000 + shield base cost*
 
@@ -143,7 +143,7 @@ While holding this shield, you have a +1 bonus to AC, in addition to the Shieldâ
 
 ## Prismatic Steel Armor
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Armor (medium or heavy, metal), Uncommon 2,000 gp (Requires attunement)*
 
@@ -165,7 +165,7 @@ This armor has sharp porcupine quills sewn throughout the body. While you are gr
 
 ## Reciprocating Armor
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Armor (Any Medium or Heavy), Rare 5,000 gp + base armor cost*
 
@@ -173,7 +173,7 @@ While wearing this armor, as a reaction to being hit by a melee attack, the atta
 
 ## Reliquary Armor
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Armor, Rare 20,000 gp (Requires Attunement)*
 
@@ -183,7 +183,7 @@ If the GM deems that the relic is sacred to your religion, you can double your P
 
 ## Rostungr Armor
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Armor (light or hide), Very Rare 30,000 gp*
 
@@ -191,7 +191,7 @@ You have a +1 bonus to AC while wearing this armor. You can take a bonus action 
 
 ## Sealskin Armor
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Armor (Any light), Uncommon 2,000 gp (Requires attunement)*
 
@@ -199,7 +199,7 @@ You have a swimming speed equal to your normal speed when wearing this armor. Al
 
 ## Shield of Annihilation
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Armor (Shield), Very Rare 30,000 gp*
 
@@ -217,7 +217,7 @@ The surface of this shield vibrates unpredictably when struck. When a weapon att
 
 ## Shield of Dislocation
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Armor (Shield), Rare (Requires Attunement) 30,000 gp*
 
@@ -233,7 +233,7 @@ While holding this shield, you have resistance to damage from ranged weapon atta
 
 ## Shield of Righteousness
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Armor (Shield), Very Rare 10,000 gp + base armor cost (Requires Attunement)*
 
@@ -261,7 +261,7 @@ Every surface of this armor is slippery and hard to hold on to. While you wear t
 
 ## Songsteel Armor
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Armor (Any metal), Uncommon 1,000 gp*
 
@@ -269,7 +269,7 @@ Metal armor made of songsteel rings like a bell or chime when it clangs against 
 
 ## Songsteel Shield
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Armor (shield), Uncommon 1,000 gp*
 
@@ -283,7 +283,7 @@ While wielding this shield, you have advantage on saves against spells and other
 
 ## Starry Half Plate
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Armor (Half Plate), Legendary (Requires Attunement) 100,000 gp*
 
@@ -293,7 +293,7 @@ When a creature hits you with a weapon attack while you are wearing this armor, 
 
 ## Sunfire Armor
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Armor (Any), Uncommon 1,500 gp + armor base cost*
 
@@ -301,7 +301,7 @@ You prove resistant to necrotic damage while wearing this armor. You also gain a
 
 ## Sunfire Plate
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Armor (Half Plate or Plate), Rare 2,500 gp + base armor cost (Requires Attunement)*
 
@@ -311,7 +311,7 @@ In addition, you can use a bonus action to cause the armor to emit sunlight in a
 
 ## Swarm Suit
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Armor (Leather or Padded), Rare 8,800 gp (Requires Attunement)*
 
@@ -329,7 +329,7 @@ The armor has 3 charges and regains 1d3 expended charges daily at dawn. While we
 
 ## Tireless Armor
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Armor (Any), Rare (Requires attunement) 2,000 gp*
 
@@ -339,7 +339,7 @@ As long as the armor has at least 1 charge remaining, you cannot take penalties 
 
 ## Valhallan Armor
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Armor (Any medium or heavy), Rare 4,000 gp (Requires attunement)*
 
@@ -347,7 +347,7 @@ While wearing this armor, you arenâ€™t unconscious when you drop to 0 HP. You st
 
 ## Verdant Armor
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Armor (Hide, Leather, or Padded), Rare (Requires Attunement) 5,000 gp + base armor cost*
 
@@ -357,7 +357,7 @@ Each day at dawn, the armor grows three pieces of magical fruit, which you can p
 
 ## Warding Shield
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Shield, Uncommon 8,000 gp (Requires Attunement)*
 
@@ -366,14 +366,4 @@ This shield is blazoned with half a stylized heart on one side, and half a styli
 The effect ends if you drop to 0 HP or if you and the target become separated by more than 60 feet. You can use this effect for 1 hour once until the following dawn.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

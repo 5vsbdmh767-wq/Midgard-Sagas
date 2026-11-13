@@ -425,7 +425,7 @@ You can now cast Primordial spells while in beast form, and your form doesn't hi
 
 ## Druid Boons
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the druid class.
 
@@ -459,12 +459,12 @@ Your commitment to the druid’s path grants you a powerful new ability. You gai
 
 ## More Druid Subclasses
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 At 3rd level, druids gain the Druid Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Elementalist, Fey, or Stoneheart.
 
 ## Elementalist
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Druids of the Elementalist ring believe that the best way to be a protector of nature is to control the elements that sustain and threaten it. Forest fires are not a danger if fire bows to your whim. Droughts are of no concern if you can summon storms at will. Barren land is irrelevant if you can reinvigorate it through your connection to the Elemental Plane of Earth.
 
@@ -540,7 +540,7 @@ In addition, the Elemental Conduit effect of your Wild Shape feature now lasts f
 
 ## Fey
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Though the fey are mercurial by nature and often tricksters, they are powerful allies to those that understand how to navigate their whims. Many druids already have strong connections to the faerie realms, but those who follow the ring of the Fey truly embrace these realms and can call on their power.
 
@@ -633,7 +633,7 @@ In addition, the power of the Seelie Spirit effect of your Wild Shape feature gr
 
 ## Stoneheart
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Druids of the Stoneheart ring believe that nature is a vital resource and that there will always be those who seek to claim it for themselves. Thus, it will always require the valiant to defend it. These druids tap into the primal energies of the land, becoming closer to nature by armoring themselves with the earth itself.
 
@@ -723,13 +723,13 @@ You are resistant to acid damage and bludgeoning damage. While the Earthen Armor
 
 ## Old Margreve Druid Subclasses
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 At 3rd level, a druid gains the Druid Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Bees, Owls, Roses, or Verdant.
 
 ## Bees
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Druids of Bees are friends to all stinging insects but focus their attention on honeybees and other pollinating insects. When not adventuring, they tend hives, either created by the insects or by themselves. They tap into the horror inherent in stinging insects to protect their allies or the fields hosting their bee friends.
 
@@ -811,7 +811,7 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 ## Owls
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Druids of Owls maintain a tradition of spying and gathering knowledge and, occasionally, of permanently silencing those who would misuse knowledge. Owls druids draw on the power of their namesakes, moving about the world unnoticed as they see and hear what others try desperately to hide.
 
@@ -881,7 +881,7 @@ You embody the patient, watchful, all-seeing nature of owls. You gain the follow
 
 ## Roses
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Druids of Roses use the power of nature to influence the minds and hearts of those around them, alleviating sorrow, spreading terror, and ensnaring hearts in equal measure. They create sweet and bitter perfumes that transmit their power to any who inhale the scent.
 
@@ -965,7 +965,7 @@ In addition, when a creature hits you with an attack while within 5 feet of you,
 
 ## Verdant
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Verdant druids embrace the wild, ancient growth of deep forests and tropical jungles. They devote themselves to protecting plant life and spreading it. They know the importance of plants in the grand scheme of life and revere plants for their role in giving life and reabsorbing life back into the earth. They find joy in the sound of wind through the trees, in digging roots into rich soil, and in the warmth of dappled sunlight through a forest canopy.
 
@@ -1041,13 +1041,13 @@ You have learned to become truly one with your plant form. You can now cast Prim
 
 ## Labyrinth Druid Subclasses
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 At 3rd level, a druid gains the Druid Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Dreamer.
 
 ## Dreamer
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Druids aligned with the [[Servants of the Dreaming God|Dreamers]] and the [[Old Ring]] tap into the collective unconscious that binds all living things—perceiving invisible psychic and spiritual connections as easily as others perceive via sight. Dreamers concern themselves with unlearning the limitations of the physical world, focusing instead on understanding the cosmic energies that flow through all of nature’s creations.
 
@@ -1079,8 +1079,6 @@ If these additional spells include a ritual spell, that spell is added to your a
 | 5th | *[[Rituals 1st–3rd Circle#Dreamward\|dreamward]]*, *[[Rituals 1st–3rd Circle#Dream Step\|dream step]]* |
 | 7th | *[[Rituals 4th–6th Circle#Divination\|divination]]*, *[[4th-Circle Spells#Phantasmal Killer\|phantasmal killer]]* |
 | 9th | *[[Rituals 4th–6th Circle#Dream\|dream]]*, *[[5th-Circle Spells#Seeming\|seeming]]* |
-
-
 
 ### Dreamer’s Intuition
 
@@ -1130,13 +1128,13 @@ Immediately after you take an instance of damage, you can use your reaction to a
 
 ## Northlands Druid Subclasses
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 At 3rd level, a druid gains the Druid Subclass feature. The following subclass from the [[Northlands]] is also available when making that choice: Fenris.
 
 ## Fenris
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 The bitter Northlands hold many dark groups and secrets. One of the most dangerous is the Ring of [[Fenris]], a circle of druids who venerate the Great Wolf. Inspired by the strength and tenacity of Fenris, these druids feel a kinship to the wolf through their ties to the natural world.
 
@@ -1203,12 +1201,4 @@ Whenever a creature attacks an ally within 30 feet of you, you can use your reac
 Once per day, when you use your Wild Shape feature for the Mantle of the Wolf effect, you can also summon a fenrikyn (its statistics are in chapter 8 of the *Northlands Worldbook*). You can telepathically order it to follow your commands (no action required). The fenrikyn is loyal to you and your allies. It lasts for as long as your Mantle of the Wolf lasts, until you dismiss it (no action required), it’s destroyed, you travel to another plane, you’re killed, you become unconscious, or it’s more than 120 feet from you.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

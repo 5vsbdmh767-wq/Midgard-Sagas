@@ -2,7 +2,7 @@
 aliases: [Battle Tactic]
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Battle tactics are special combat tactics honed by veteran warriors. Activated with a practiced command or inspiring speech, they bolster allies and undermine foes. A character of any class can gain access to battle tactics by taking the Battle Tactician talent (see **Martial Talents** in **Chapter 1**). You can use only one battle tactic until you finish a short rest.
 
@@ -123,4 +123,4 @@ To create new battle tactics, use similar processes to creating new spells, but 
 - Per-attack damage buffs are dangerous because the fighter class can run away with them. It’s more fun to bump up a design that’s too weak than to scale back something that’s too strong.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

@@ -2,7 +2,7 @@
 aliases: [Prophecies, Prophecy, Omens, Prophetic Blessing, Prophetic Warning, Greater Prophecy]
 publish: true
 ---
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 This page covers two kinds of prophecy, greater prophecies and prophetic blessings or warnings, along with advice on building them, a way to reward players for using them, tables of omens, and some sample prophecies.
 
@@ -338,4 +338,4 @@ The tables below give three kinds of omen: hopeful, foreboding, and mysterious. 
 | 12 | The nearby water ripples as if disturbed, but nothing appears to have caused it. |
 
 ---
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Sources: [[Credits]].</small>

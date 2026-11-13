@@ -2,7 +2,7 @@
 aliases: [Starting a Business, Choose a Trade]
 publish: true
 ---
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 In roleplaying games and in storytelling, creating a business is much like building a character. Each business is brought to life by both broad strokes and minute details that make it unique and interesting. This chapter outlines and walks through the creative process of defining a business and bringing it to life in gameplay. For the rules on earning money from a business, see [[Running a Business]].
 
@@ -730,4 +730,4 @@ Magic offers powerful tools to both businesses and the thieves that would rob th
 ***Symbol.*** *[[Rituals 7th–9th Circle#Symbol|Symbol]]* is a spell for creating magical traps. It has most of the same advantages as *[[Rituals 1st–3rd Circle#Glyph of Warding|glyph of warding]]*. While not quite as versatile, it offers some powerful effects, including the potential of instant death for an intruder. It’s also somewhat more difficult to detect and remove. On the other hand, it’s very expensive to cast and in the 7th circle, a rarified sort of magic that isn’t easy to contract for.
 
 ---
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Sources: [[Credits]].</small>

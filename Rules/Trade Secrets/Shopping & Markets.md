@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 When the PCs are on a tight schedule, track how much time they spend pursuing this particular downtime. Depending on the local markets and the PC’s goals, they might be able to pick up what they want at the best prices, find unexpected treasures at under standard value, or just check items off of their list. Eventually, shops do close for the day.
 
@@ -138,4 +138,4 @@ Fairs are not just mercantile events, however. Many types of entertainers follow
 More tied to religious holidays than trade fairs, festivals nonetheless include many of the same delights: traveling merchants, entertainers, and criminals. Often held in empty fields next to a temple or shrine associated with the occasion, most festivals are smaller than trade fairs and advertised by word of mouth, from the religious leaders to the congregation to their friends.
 
 ---
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Sources: [[Credits]].</small>

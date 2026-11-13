@@ -2,7 +2,7 @@
 aliases: [Prima Materia, Disenchanting Magic Items, Extracting Prima Materia]
 publish: true
 ---
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 When magic items are created, the crafter infuses a portion of its own power into the item. With this optional rule, crafters can reverse this process, extracting that power from an item and refining it into an iridescent magical dust. This dust is known among magical crafters as *prima materia* (sometimes shortened to just “materia”). It’s a magical essence that exists, to some degree, in all things. When traded, prima materia is packaged in 1 ounce vials, at a cost of 50 gp per ounce.
 
@@ -164,4 +164,4 @@ Extracting magical essence from creatures precludes multiple characters working 
 > - Sorcerers
 
 ---
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Sources: [[Credits]].</small>

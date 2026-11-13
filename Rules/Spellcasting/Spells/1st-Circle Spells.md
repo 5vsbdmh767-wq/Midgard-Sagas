@@ -3,7 +3,7 @@ publish: true
 ---
 ## Agonizing Mark
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *1st-Circle Arcane and Wyrd (Evocation)*
 
@@ -59,7 +59,7 @@ When a cursed target makes an attack roll or a save before the spell ends, the t
 
 ## Bleed
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *1st-Circle Divine (Necromancy)*
 
@@ -79,7 +79,7 @@ Any creature can take an action to stanch the bleeding wound by succeeding on a 
 
 ## Blend
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *1st-Circle Primordial (Illusion)*
 
@@ -117,7 +117,7 @@ You bless up to three creatures of your choice within range. When a target makes
 
 ## Bloodhound
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Primordial (Transmutation)*
 
@@ -135,7 +135,7 @@ You touch a willing Beast or creature with the Animal tag that has an INT score 
 
 ## Bloodhound (Old Margreve)
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *1st-Circle Primordial (Transmutation)*
 
@@ -155,7 +155,7 @@ You touch a willing creature to grant it an enhanced sense of smell. For the dur
 
 ## Bountiful Stamina
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Divine and Primordial (Abjuration)*
 
@@ -213,7 +213,7 @@ You attempt to charm a creature that you can see within range. To be affected by
 
 ## Choking Fumes
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Primordial (Evocation)*
 
@@ -231,7 +231,7 @@ You assault a creature you can see in range with a cloud of acrid, choking fumes
 
 ## Cobra Fangs
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *1st-Circle Primordial (Transmutation)*
 
@@ -255,7 +255,7 @@ When the target hits a creature with its bite attack, that creature must make a 
 
 ## Coiled Strike
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Primordial (Transmutation)*
 
@@ -275,7 +275,7 @@ You touch a willing creature. For the duration, if the creature uses its reactio
 
 ## Coldheart
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *1st-Circle Primordial (Necromancy)*
 
@@ -365,7 +365,7 @@ This spell doesn’t decode secret messages in a text or a glyph, such as an arc
 
 ## Corpse Limn
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Divine and Wyrd (Evocation)*
 
@@ -389,7 +389,7 @@ An attack roll against an illuminated creature has advantage if the attacker can
 
 ## Corrosive Spray
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Arcane and Primordial (Evocation)*
 
@@ -431,7 +431,7 @@ When you cast this spell, choose which of the following effects to create.
 
 ## Cretify
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Arcane, Primordial, and Wyrd (Transmutation)*
 
@@ -453,7 +453,7 @@ Alternatively, you can cast this spell on a creature with the Plant type. The cr
 
 ## Cure Beast
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *1st-Circle Primordial (Necromancy)*
 
@@ -493,7 +493,7 @@ This spell has no effect on Constructs or Undead.
 
 ## Deathblindness
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Divine and Wyrd (Necromancy)*
 
@@ -511,7 +511,7 @@ A creature within range must succeed on a CHA save or all corpses and Undead bec
 
 ## Delay Passing
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *1st-Circle Arcane (Necromancy)*
 
@@ -589,7 +589,7 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 ## Distance Dilation
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Arcane and Wyrd (Illusion)*
 
@@ -631,7 +631,7 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 ## Drummer’s Cadence
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *1st-Circle Arcane (Enchantment)*
 
@@ -649,7 +649,7 @@ For the duration, you radiate an aura in a 60-foot radius. Whenever an allied sh
 
 ## Eclipse Sight
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *1st-Circle Arcane and Wyrd (Necromancy)*
 
@@ -667,7 +667,7 @@ You snarl a curse in Void Speech at the creature that dealt damage to you, shrou
 
 ## Elemental Burst
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Primordial (Evocation)*
 
@@ -719,7 +719,7 @@ This spell allows you to move at an incredible pace. When you first cast this sp
 
 ## Extendable Limbs
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Wyrd (Transmutation)*
 
@@ -739,7 +739,7 @@ For the duration, as a bonus action, you can lengthen and shorten your arms or l
 
 ## Extinguish
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *1st-Circle Arcane and Primordial (Transmutation)*
 
@@ -811,7 +811,7 @@ Choose up to five falling creatures within range. A falling creature’s rate of
 
 ## Feed the Forest
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *1st-Circle Arcane, Divine, Primordial, and Wyrd (Evocation)*
 
@@ -831,7 +831,7 @@ When cast in the Margreve Forest, this spell feeds a constant trickle of magical
 
 ## Feed the Worms
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *1st-Circle Arcane, Divine, and Primordial (Necromancy)*
 
@@ -867,7 +867,7 @@ Once ingested, you can spit out the stored fire as an action. If you try to hit 
 
 ## Fling
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Arcane (Transmutation)*
 
@@ -929,7 +929,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 ## Follow Through
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Arcane and Divine (Enchantment)*
 
@@ -947,7 +947,7 @@ When you cast this spell as a reaction, the target of this spell can make an ext
 
 ## Forest Native
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *1st-Circle Primordial (Transmutation)*
 
@@ -965,7 +965,7 @@ While in a forest, you touch a willing creature and infuse it with the forest's 
 
 ## Freyja’s Allure
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *1st-Circle Arcane, Divine, and Wyrd (Enchantment)*
 
@@ -987,7 +987,7 @@ At the end of each of its turns, an affected creature can repeat its save. The t
 
 ## Freyja’s Grace
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *1st-Circle Arcane, Divine, and Wyrd (Abjuration)*
 
@@ -1059,7 +1059,7 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 ## Guiding Counsel
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Divine (Enchantment)*
 
@@ -1095,7 +1095,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 ## Hellfire Brand
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Wyrd (Evocation)*
 
@@ -1169,7 +1169,7 @@ At the end of each of its turns and each time it takes damage, the target can ma
 
 ## Hunter's Endurance
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *1st-Circle Primordial (Enchantment)*
 
@@ -1191,7 +1191,7 @@ You can have only a single casting of hunter's endurance active on yourself at o
 
 ## Ice Shape
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *1st-Circle Arcane, Divine, and Primordial (Conjuration)*
 
@@ -1209,7 +1209,7 @@ You touch a section of ice no more than 5 feet in any dimension and form it into
 
 ## Icewalker
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *1st-Circle Primordial (Transmutation)*
 
@@ -1231,7 +1231,7 @@ For the duration, you radiate an aura in a 30-foot Emanation. While in the aura,
 
 ## Illuminate Spoor
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *1st-Circle Primordial (Divination)*
 
@@ -1253,7 +1253,7 @@ If the creature leaving the tracks changes its tracks, such as by adding or remo
 
 ## Inbar’s Giant-Friend
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *1st-Circle Arcane, Wyrd (Illusion)*
 
@@ -1271,7 +1271,7 @@ Your eyes flash with golden light. The Giant must make a WIS save. On a failed s
 
 ## Infernal Shield
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Divine (Conjuration)*
 
@@ -1307,7 +1307,7 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 
 ## Lesser Conjure Animals
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Primordial and Wyrd (Conjuration)*
 
@@ -1333,7 +1333,7 @@ The summoned creatures are friendly to you and your companions. The summoned cre
 
 ## Loki’s Escape
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *1st-Circle Wyrd (Illusion)*
 
@@ -1439,7 +1439,7 @@ The protection grants several benefits. Creatures of those types have disadvanta
 
 ## Radiant Smite
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Divine and Wyrd (Evocation)*
 
@@ -1459,7 +1459,7 @@ You cast this spell on a weapon you’re wielding. The first time you hit a crea
 
 ## Ruminate
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *1st-Circle Arcane and Wyrd (Enchantment)*
 
@@ -1495,7 +1495,7 @@ If the warded creature makes an attack or casts a spell that affects an enemy cr
 
 ## Sapping Smite
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Divine and Wyrd (Evocation)*
 
@@ -1515,7 +1515,7 @@ You cast this spell on a weapon you’re wielding. The first time you hit a crea
 
 ## Scentless
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *1st-Circle Primordial (Transmutation)*
 
@@ -1533,7 +1533,7 @@ You touch a willing creature or item that isn't being worn or carried. For the d
 
 ## Seed Bolt
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *1st-Circle Primordial (Transmutation)*
 
@@ -1587,7 +1587,7 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 ## Shield-Maiden’s Favor
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *1st-Circle Arcane, Divine, and Primordial (Abjuration)*
 
@@ -1649,7 +1649,7 @@ Undead and creatures immune to being charmed aren’t affected by this spell.
 
 ## Slither
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Primordial and Wyrd (Transmutation)*
 
@@ -1683,7 +1683,7 @@ You gain the ability to understand and verbally communicate with Beasts and crea
 
 ## Speechmaster’s Rune
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *1st-Circle Arcane (Evocation)*
 
@@ -1701,7 +1701,7 @@ You place a magical effect into the stone used as the spell’s material compone
 
 ## Step Like Me
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *1st-Circle Arcane and Primordial (Transmutation)*
 
@@ -1719,7 +1719,7 @@ Choose a creature within one size category of yourself that you can see within r
 
 ## Stumble
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Arcane and Wyrd (Enchantment)*
 
@@ -1737,7 +1737,7 @@ As a creature you can see begins to move, you cloud its mind momentarily. The cr
 
 ## Subtext
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Wyrd (Illusion)*
 
@@ -1755,7 +1755,7 @@ When you cast this spell, choose any creatures you can see. When you speak, you 
 
 ## Talons of the Eagle
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *1st-Circle Primordial (Transmutation)*
 
@@ -1777,7 +1777,7 @@ As an action, you can briefly transform your hands into a set of talons, then mo
 
 ## Tenacity
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Primordial (Enchantment)*
 
@@ -1815,7 +1815,7 @@ In addition, unsecured objects that are completely within the area of effect are
 
 ## Tree Speak
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *1st-Circle Primordial (Divination)*
 
@@ -1835,7 +1835,7 @@ If you cast this spell on a tree that contains a creature that can merge with tr
 
 ## Trickster’s Bluff
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *1st-Circle Arcane, Divine, and Wyrd (Conjuration)*
 
@@ -1853,7 +1853,7 @@ You are graced with a measure of Loki’s silver tongue. You have advantage on C
 
 ## Truth of the Void
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *1st-Circle Arcane, Divine, and Wyrd (Illusion)*
 
@@ -1871,7 +1871,7 @@ You send a vision of the Void into the mind of one creature you can see within r
 
 ## Void Glimpse
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Wyrd (Divination)*
 
@@ -1889,7 +1889,7 @@ You peer briefly into the expanse of the void, receiving a fragment of forbidden
 
 ## Volley
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Divine and Primordial (Conjuration)*
 
@@ -1909,7 +1909,7 @@ When a creature you touch makes a ranged attack, a second missile appears which 
 
 ## Withering Gaze
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Arcane, Divine, and Wyrd (Transmutation)*
 
@@ -1926,12 +1926,4 @@ When a creature you touch makes a ranged attack, a second missile appears which 
 You empower your gaze with the anger of a mighty entity. A creature within range that you can see and that can see you must make a CHA save. On a failure, the creature takes 1d10 psychic damage and is frightened of you until the end of its next turn. If the creature is already frightened, it must use its movement on its turn to move as far from you as it can. On a success, the creature takes half as much damage and isn’t frightened.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

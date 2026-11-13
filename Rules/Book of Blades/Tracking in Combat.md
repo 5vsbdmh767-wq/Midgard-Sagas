@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Rangers are skilled at recognizing patterns in terrain, whether picking out the best path up a mountainside or noticing the passage of others through tracks left behind. Some rangers hone this skill to almost supernatural levels such that they can quickly assimilate subtle aspects in terrain with actions they have seen enemies take to gain an advantage in combat.
 
@@ -36,4 +36,4 @@ If you succeed on a WIS (Survival) check to track in combat, you grant one benef
 - ***What Will Be.*** You gain a +1 bonus to WIS (Insight) and WIS (Perception) checks made against the tracked target for a number of rounds equal to your PB.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

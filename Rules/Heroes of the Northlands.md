@@ -60,7 +60,7 @@ These options are built for heroes of the [[Northlands]]: reavers, skalds, seers
 
 ## Spells and Rituals
 
-The 78 Northlands spells and rituals are mixed into the [[Spells]] and [[Rituals]] pages. The [[Spell Lists]] page marks them *(optional, Northlands)*, under each source of magic.
+The 78 Northlands spells and rituals are mixed into the [[Spells]] and [[Rituals]] pages. The [[Spell Lists]] page marks them, under each source of magic.
 
 ## Equipment
 
@@ -90,4 +90,4 @@ The 78 Northlands spells and rituals are mixed into the [[Spells]] and [[Rituals
 The same book's optional campaign rules, for reputation, flyting, prophecy, raiding, weather, and sea combat, are collected on [[Northlands Rules]].
 
 ---
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Sources: [[Credits]].</small>

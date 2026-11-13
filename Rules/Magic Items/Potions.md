@@ -3,7 +3,7 @@ publish: true
 ---
 ## Berserker’s Mead
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Potion, Rare 650 gp*
 
@@ -11,7 +11,7 @@ For 1 minute after you consume this potion, you are immune to the first 40 point
 
 ## Defender Honey
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Potion, Uncommon 800 gp*
 
@@ -19,7 +19,7 @@ The honey is light brown and has a smooth sweetness. For 10 minutes after you co
 
 ## Draught of Clear Thought
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Potion, Rare 50 gp*
 
@@ -29,7 +29,7 @@ The liquid is cloudy, smelling strongly of garlic, rose, and hawthorn.
 
 ## Draught of False Death
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Potion, Rare 50 gp*
 
@@ -39,7 +39,7 @@ The liquid smells strongly of mud and earth.
 
 ## Draught of Imperception
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Potion, Very Rare 50 gp*
 
@@ -49,7 +49,7 @@ The liquid is viscous and contains granules of grave dirt.
 
 ## Draught of Mind Shielding
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Potion, Very Rare 150 gp*
 
@@ -59,7 +59,7 @@ The liquid is a deep purple and contains flecks of ash.
 
 ## Elixir of Fury
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Potion, Uncommon 500 gp*
 
@@ -75,7 +75,7 @@ When the potion effect ends, you suffer one level of exhaustion. If you use your
 
 ## Far Traveler’s Potion
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Potion, Rare 350 gp*
 
@@ -83,7 +83,7 @@ For 1 hour after you drink this potion, you are resistant to cold damage and nec
 
 ## Honey of Robust Health
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Potion [Honey], Common 50 gp*
 
@@ -91,7 +91,7 @@ When you consume this honey as part of a short rest, you can reroll any result o
 
 ## Honey of the Hearth Fire
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Potion [Honey], Uncommon 200 gp*
 
@@ -99,7 +99,7 @@ When you consume this honey, you end the blinded, deafened, frightened, and pois
 
 ## Honey of the Hive Warden
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Potion [Honey], Very Rare 1,500 gp*
 
@@ -107,7 +107,7 @@ When you consume this honey, you have resistance to poison for 1 hour. Once duri
 
 ## Honey of the Norn-Blessed
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Potion [Honey], Rare 650 gp*
 
@@ -115,7 +115,7 @@ When you consume this honey, you have advantage on DEX saves for 1 hour. Once du
 
 ## Honey of the Sacred Bear
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Potion [Honey], Rare 650 gp*
 
@@ -123,7 +123,7 @@ When you consume this honey, you have advantage on STR checks for 1 hour. Once d
 
 ## Honey of the Skald’s Tongue
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Potion [Honey], Rare 350 gp*
 
@@ -157,7 +157,7 @@ Alternatively, the oil can be poured on the ground as an action, where it covers
 
 ## Potion of Courage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Potion, Rare 100 gp*
 
@@ -199,7 +199,7 @@ This potion’s transparent liquid has floating in it a sliver of fingernail fro
 
 ## Potion of Hardiness
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Potion, Uncommon 650 gp*
 
@@ -230,7 +230,7 @@ This red, glimmering potion allows you to regain hit points when you drink it. T
 
 ## Potion of Knowledge
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Potion, Uncommon 100 gp*
 
@@ -238,7 +238,7 @@ When you drink this potion, you have advantage on all INT checks for 1 hour. Thi
 
 ## Potion of Locomotion
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Potion, Rare 650 gp*
 
@@ -250,7 +250,7 @@ When you drink this potion, you gain a climbing, flying, and swimming speed equa
 
 ## Potion of Near-Death Portent
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Potion, Very Rare 650 gp*
 
@@ -258,7 +258,7 @@ This potion’s cloudy grey fluid has a golden thread suspended in it. Drinking 
 
 ## Potion of Puissance
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Potion, Rare 200 gp*
 
@@ -266,7 +266,7 @@ When you drink this potion, if you are a spellcaster, you can add your spellcast
 
 ## Potion of Readiness
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Potion, Rare 100 gp*
 
@@ -274,7 +274,7 @@ When you drink this potion, you have advantage on initiative rolls and cannot be
 
 ## Potion of Replication
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Potion, Rare 200 gp*
 
@@ -304,7 +304,7 @@ A minute after you drink this potion, you violently vomit its contents into the 
 
 ## Quicksilver Draught
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Potion, Rare 150 gp*
 
@@ -314,7 +314,7 @@ The liquid is silver and shimmers eerily in the moonlight.
 
 ## Sunfire Pitch
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Potion, Very Rare 1,500 gp*
 
@@ -334,7 +334,7 @@ Each of the following applications of *sunfire pitch* consumes one flask; the ef
 
 ## Trollkin Unguent
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Potion, Rare 50 gp*
 
@@ -346,21 +346,11 @@ This oil is transparent with a rainbow sheen.
 
 ## Warrior Honey
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Potion [Honey], Common 50 gp*
 
 When you consume this honey, you have advantage on the first initiative check you make during the next hour. You also have advantage on the first melee attack roll you make. The honey has small bubbles throughout and tingles in your stomach.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
-
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

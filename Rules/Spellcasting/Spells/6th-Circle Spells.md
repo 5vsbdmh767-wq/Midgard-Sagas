@@ -59,7 +59,7 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 
 ## Cleave Chasm
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Primordial (Evocation)*
 
@@ -81,7 +81,7 @@ The GM may rule that additional effects occur, depending on the terrain in which
 
 ## Conjure Giant
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Primordial (Transmutation)*
 
@@ -103,7 +103,7 @@ The Giant is friendly to you and your companions for the duration. In combat, th
 
 ## Cyclone Cloak
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Primordial and Wyrd (Evocation)*
 
@@ -121,7 +121,7 @@ Strong currents of air spiral and twist about you. You are immune to any gas-bas
 
 ## Delay Spell
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Arcane and Wyrd (Transmutation)*
 
@@ -165,7 +165,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 ## Ensnared Threads
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *6th-Circle Arcane, Divine, and Primordial (Divination)*
 
@@ -251,7 +251,7 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 ## Ghost Wells
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *6th-Circle Wyrd (Conjuration)*
 
@@ -275,7 +275,7 @@ A creature restrained by the hands can use its action to make a STR or DEX check
 
 ## Ghostly Form
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Arcane and Wyrd (Transmutation)*
 
@@ -353,7 +353,7 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 ## Hungry Jaws of Fenris
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *6th-Circle Primordial (Transmutation)*
 
@@ -397,7 +397,7 @@ A dancing creature must use all its movement to dance without leaving its space 
 
 ## King of Nothing
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *6th-Circle Arcane (Enchantment)*
 
@@ -419,7 +419,7 @@ If the target dies while under the effects of this spell, it fades away to nothi
 
 ## Life Drain
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *6th-Circle Arcane and Divine (Necromancy)*
 
@@ -483,7 +483,7 @@ At the end of every 10 minutes you spend concentrating on the spell, you can cho
 
 ## Pluck Soul
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Arcane and Wyrd (Necromancy)*
 
@@ -505,7 +505,7 @@ If you dismiss the spell, the soul flees from the container and attempts to retu
 
 ## Prismatic Longbow
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Arcane and Divine (Evocation)*
 
@@ -563,7 +563,7 @@ Physical interaction with the image reveals it to be an illusion because things 
 
 ## Pronouncement of Doom
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Divine and Wyrd (Evocation)*
 
@@ -583,7 +583,7 @@ A *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell (see *Player’s Guide
 
 ## Righteous Fervor
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Divine (Enchantment)*
 
@@ -657,7 +657,7 @@ You touch a willing creature to grant it the ability to see things as they actua
 
 ## Void Bubble
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Wyrd (Conjuration)*
 
@@ -677,7 +677,7 @@ A creature that enters or starts its turn in the area must make a WIS save. On a
 
 ## Void Rift
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *6th-Circle Arcane and Wyrd (Evocation)*
 
@@ -741,7 +741,7 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 ## Water Sentinel
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Arcane (Conjuration)*
 
@@ -807,7 +807,7 @@ You must designate a sanctuary by casting this spell within a location, such as 
 
 ## Wreath of Flames
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Primordial (Evocation)*
 
@@ -825,7 +825,7 @@ When you cast this spell, crackling flames surround you. You are immune to fire 
 
 ## Yggdrasil Form
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *6th-Circle Primordial (Transmutation)*
 
@@ -848,12 +848,4 @@ You retain the benefit of any features from your class, lineage, or other source
 You are limited by the nature of your new form. Your gear melds into your new form, and you can’t activate, use, wield, or otherwise benefit from any of your equipment.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

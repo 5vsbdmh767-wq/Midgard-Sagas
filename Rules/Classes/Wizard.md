@@ -338,7 +338,7 @@ Once per turn, when you cast an Arcane cantrip that deals damage, you can instea
 
 ## Wizard Boons
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the wizard class.
 
@@ -372,12 +372,12 @@ Your commitment to the wizard’s path grants you a powerful new ability. You ga
 
 ## More Wizard Subclasses
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 At 3rd level, wizards gain the Wizard Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Arcanist, Necromancer, or Summoner.
 
 ## Arcanist
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Among wizards, who might mollify their curiosity with any manner of research, the Arcanist is often considered the most preoccupied with the empirical and esoteric research of spellcraft. These wizards value the collection of knowledge, the efficient scribing of spells, and the fundamental properties of magic—which they obsess over so as to bend or break it to their own ends.
 
@@ -430,7 +430,7 @@ You can cast your mastered spell this way a number of times equal to your PB, an
 
 ## Necromancer
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Some wizards are naturally drawn to necromancy, and others are turned to it by trauma—learning the incredible power of using the dead to do their bidding as they attempt to hang onto what remains of their deceased brethren. But whatever drew them to these dark arts, these wizards all share one core belief: death is merely a new beginning.
 
@@ -483,7 +483,7 @@ When you cast the *[[Rituals 1st–3rd Circle#Animate Dead|animate dead]]* ritua
 
 ## Summoner
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Every good adventurer knows that surrounding yourself with quality companions is a must. Summoners know that quantity is just as important. Why put yourself in jeopardy when you can summon a pack of wolves to fight for you?
 
@@ -544,13 +544,13 @@ Once you use this feature, you can’t use it again until you finish a short or 
 
 ## Old Margreve Wizard Subclasses
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 At 3rd level, a wizard gains the Wizard Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Courser Mage.
 
 ## Courser Mage
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Wizards who follow the Courser Mage tradition are interested in ancient tomes, but they are just as interested in archery and the art of blending magic and archery to stalk and take down quarry. Their magical study focuses on subtle spells centered around finding or hiding from enemies, and their martial study focuses on combining magic and archery. They eventually learn to imbue their arrows with spell energy to deliver more deadly shots. Many monarchs employ Courser Mages in a dual role as magical counsel and personal assassin.
 
@@ -601,16 +601,15 @@ On your turn, you can attack twice, instead of once, when you take the Attack ac
 
 ## Labyrinth Wizard Subclasses
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 At 3rd level, a wizard gains the Wizard Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Void Caster.
 
 ## Void Caster
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Void Casters are wizards dedicated—or compelled—to unlock the dark mysteries of Void Speech. Through forbidden research, these individuals learn magical incantations to enhance their workings with the vast potential of the Void. While such potential provides an endless energy reservoir, every Void Caster risks corruption from repeated use. To harness such power is to constantly weigh valuable knowledge against the risk of becoming an unwitting conduit to eldritch horrors seeking entry into the world.
-
 
 **Void Caster Progression**
 
@@ -662,7 +661,6 @@ You must be able to speak in order to use this feature.
 
 You can sacrifice your life force to the ever-hungering Void in exchange for greater power. When a creature you can see takes damage from a spell you cast, you can choose to roll a number of your unspent hit dice up to an amount equal to or less than your PB. The creature then takes additional necrotic damage equal to the total rolled.
 
-
 Once a hit die is used in this way, it is unavailable to spend for recovery as part of a short rest or similar features that require the expenditure of dice. Any sacrificed hit dice are recovered as normal after you finish a long rest.
 
 ### Manifest Void
@@ -674,10 +672,4 @@ As an action, you can conjure and cloak yourself in the otherworldly aura of voi
 Once you activate your aura, you can’t do so again until you finish a long rest.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

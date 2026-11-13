@@ -2,7 +2,7 @@
 aliases: [Mystic Gifts, Prestige Awards]
 publish: true
 ---
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Experience and treasure are fine rewards for valiant heroes, but there is a plethora of additional ways to reward PCs for a job well done. While it is important for a GM to incorporate a hearty mix of reward types in their game planning, it is equally important that all players advocate for the reward types they are most interested in receiving over the course of their adventures. For additional guidance on incorporating rewards in your games, see the *Game Master’s Guide.*
 
@@ -134,6 +134,4 @@ Occasionally kings, queens, and emperors are chosen by the people or, even more 
 ***Religious Titles.*** Churches and religious institutions vary widely as do the nomenclature they use to award and anoint their fellows. Many religious hierarchies appointed their low priests with reverend, cantor, or brother/sister before ascending the ranks.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

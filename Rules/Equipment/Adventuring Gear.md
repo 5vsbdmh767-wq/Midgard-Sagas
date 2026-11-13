@@ -185,7 +185,7 @@ The unconscious effect ends if the creature takes damage or if another creature 
 
 ## More Adventuring Gear (Player's Guide 2)
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Useful equipment other than armor, weapons, and tools are collectively called adventuring gear. The **Adventuring Gear** table expands on the selection of items commonly available for purchase, also providing the price and weight of each. Additional information on the items and any special rules associated with their use are provided in the **Special Gear** section.
 
@@ -233,7 +233,7 @@ This section describes items that have special rules or require further explanat
 
 ## Trinkets (Player's Guide 2)
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Trinkets are unique items that lack concrete value or mechanical properties but that add a hint of mystery or creative storytelling potential to a campaign. During character creation, a PC can roll on the **Trinkets** table (see next page) to randomly determine a trinket they start the game with (in addition to other starting equipment). GMs can also use this table to randomly determine trinkets that PCs find during the course of their adventures, particularly mixed in with other items found in pockets, treasure caches, or similarly intriguing sources.
 
@@ -344,7 +344,7 @@ Trinkets are unique items that lack concrete value or mechanical properties but 
 
 ## More Adventuring Gear (Northlands Worldbook)
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 **Adventuring Gear (Northlands Worldbook)**
 
@@ -374,7 +374,7 @@ Trinkets are unique items that lack concrete value or mechanical properties but 
 
 ## More Adventuring Gear (Trade Secrets)
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 For those merchants who cater to the adventuring profession, keeping certain staple items in stock is a major concern. Of course, they also regularly introduce new items into their inventory, in hopes of cornering the market on every new development that comes along. This section lists new items available to the PCs and outlines the rules for using them.
 
@@ -664,10 +664,4 @@ Merchants don’t stock pre-assembled packs of equipment, but they are happy to 
 ***Squire’s Pack (10 gp).*** Backpack, whetstone, two-person tent, bedroll, mess kit, tinderbox, 10 torches, 10 days of rations, 10 days of feed, and waterskin. The pack also has 50 feet of rope strapped to the side.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

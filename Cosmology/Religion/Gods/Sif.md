@@ -21,7 +21,6 @@ A brace of arrows. Her priests keep no books.
 ==**Shrines and Priests**==
 Her greatest shrine is the wooden church of Jarlshallen, on a mountaintop in [[Vidim]], where her shield maidens gather every spring and fall for blessings before the raiding season and the coming of the giants. Her priestesses include prophets and oracles. Saint Adelind, a shield maiden of hers who died defending [[Krakovar|Krakova]] against the undead of [[Blood Kingdom|Morgau]], answers the prayers of women who swear vengeance on the darakhul and the vampires. Her sign is the snowdrop.
 
-
 ==**In the North**==
 In the [[Northlands]] she is also called Golden-Haired and the Patron of [[Huldramose]], and her favored weapons there are the bow and longsword. See [[Gods of the North]].
 

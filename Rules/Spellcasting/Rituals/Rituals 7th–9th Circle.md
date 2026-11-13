@@ -25,7 +25,7 @@ This spell attracts or repels creatures of your choice. You target something wit
 
 ## Arcane Nullification
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Arcane Ritual (Transmutation)*
 
@@ -49,7 +49,7 @@ As you cast this spell, you place a perfectly cut prism onto the ground made of 
 
 ## Ashes on the Tongue
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Arcane and Wyrd Ritual (Necromancy)*
 
@@ -95,7 +95,7 @@ If you are returned to your body prematurely, your companions remain in their as
 
 ## Beatify/Defile
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *8th-Circle Divine and Wyrd Ritual (Evocation)*
 
@@ -121,7 +121,7 @@ In addition, while within the area, the limit to the number of Undead a spellcas
 
 ## Breadcrumb Trail
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Primordial Ritual (Conjuration)*
 
@@ -212,7 +212,7 @@ When you change the weather conditions, find a current condition on the followin
 
 ## Diabolical Form
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Divine Ritual (Transmutation)*
 
@@ -263,7 +263,7 @@ Once you target a creature with this spell, the same creature can’t gain the b
 
 ## Forest Sanctuary
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *9th-Circle Primordial Ritual (Abjuration)*
 
@@ -283,7 +283,7 @@ You can create a permanently protected area by casting this spell at the same lo
 
 ## Greater Personal Time Fold
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Wyrd Ritual (Transmutation)*
 
@@ -303,7 +303,7 @@ When the spell ends, regardless of how long you spent inside it, the demiplane d
 
 ## Greater Ward Dwelling
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Divine Ritual (Abjuration)*
 
@@ -323,7 +323,7 @@ All affected creatures are under the effects of a *protection* *from evil and go
 
 ## Hostile Environment
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *9th-Circle Primordial Ritual (Transmutation)*
 
@@ -347,7 +347,7 @@ When you cast this spell, you can designate a creature, types of creatures, or a
 
 ## Imbue Spell Ability
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Arcane and Divine Ritual (Transmutation)*
 
@@ -369,7 +369,7 @@ You can cast this ritual multiple times, targeting a new creature each time.
 
 ## Impersonate Creature
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Arcane and Wyrd Ritual (Transmutation)*
 
@@ -483,7 +483,7 @@ Creatures with truesight can see through the illusion to the terrain’s true fo
 
 ## Music of the Spheres
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Divine and Wyrd Ritual (Evocation)*
 
@@ -509,7 +509,7 @@ You call down the music of the very cosmos, which echoes out from you in a 60-fo
 
 ## Nine Lives
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Primordial Ritual (Necromancy)*
 
@@ -553,7 +553,7 @@ If you attempt to cast this spell a second time while flowers from the first cas
 
 ## Plague
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Primordial and Wyrd Ritual (Necromancy)*
 
@@ -581,7 +581,7 @@ Magic such as a *lesser restoration* spell (see *Player’s Guide*) cast at 5th 
 
 ## Porcine Indulgence
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *7th-Circle Arcane and Wyrd Ritual (Transmutation)*
 
@@ -645,7 +645,7 @@ Casting this spell to restore life to a creature that has been dead for one year
 
 ## Shadowed Expanse
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Wyrd Ritual (Transmutation)*
 
@@ -669,7 +669,7 @@ You tap into the energies of a realm locked in night and mists, drawing its esse
 
 ## Ship Ward
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Divine and Primordial Ritual (Abjuration)*
 
@@ -689,7 +689,7 @@ In addition, the vehicle’s speed is increased by 50 percent (rounded down). Fo
 
 ## Sigil in Yellow
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *8th-Circle Arcane and Wyrd Ritual (Enchantment)*
 
@@ -737,7 +737,7 @@ If you cast this spell again, any currently active duplicates you created with t
 
 ## Soul Entanglement
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *8th-Circle Arcane, Divine, and Wyrd Ritual (Necromancy)*
 
@@ -761,7 +761,7 @@ If the ritual succeeds, the effects last until the creatures die or until a *[[9
 
 ## Sun Cycle
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *9th-Circle Divine and Primordial Ritual (Transmutation)*
 
@@ -825,7 +825,7 @@ When you inscribe the glyph, choose one of the following options for its effect.
 
 ## Time Binding
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *9th-Circle Arcane Ritual (Enchantment)*
 
@@ -869,7 +869,7 @@ The spell can even provide a new body if the original no longer exists, in which
 
 ## Vision Voyage
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *7th-Circle Divine and Wyrd Ritual (Conjuration)*
 
@@ -891,7 +891,7 @@ Once you attempt to cast this ritual, you can’t do so again until 10 days have
 
 ## War Vessel
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Level Arcane Ritual (Conjuration)*
 
@@ -918,12 +918,4 @@ The ship, and the siege weapons aboard it, are made of wood and metal and are im
 The vessel lasts until it is destroyed. If you cast this spell again while one exists, the first vessel is instantly destroyed.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

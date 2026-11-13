@@ -28,6 +28,5 @@ publish: true
 - New magic items, added to [[Magic Weapons]], [[Magic Armor]], [[Potions]], [[Wondrous Items A–L]], and [[Wondrous Items M–Z]], each marked as from Trade Secrets
 - [[Fabled Magic Items#More Fabled Items (Trade Secrets)|New fabled items]]: one for each class
 
-
 ---
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Sources: [[Credits]].</small>

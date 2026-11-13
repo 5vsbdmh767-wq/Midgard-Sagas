@@ -352,7 +352,7 @@ While raging, you have advantage on opportunity attacks. When you hit a creature
 
 ## Barbarian Boons
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the barbarian class.
 
@@ -386,12 +386,12 @@ Your commitment to the barbarian’s path grants you a powerful new ability. You
 
 ## More Barbarian Subclasses
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 At 3rd level, barbarians gain the Barbarian Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Chaos, Four Winds, or Kraken.
 
 ## Chaos
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Havoc. Mayhem. Chaos. You’ve learned to embrace them as you once learned to embrace your rage. To some, havoc is the weapon that breaks, but to you, it’s the weapon that breaks your enemies. To some, mayhem is the wound that bleeds them dry, but to you, it’s fuel for the fire within. To some, chaos is a tribulation to overcome, but to you, it’s the only way to live.
 
@@ -469,7 +469,7 @@ If you start your turn and have no Chaos Dice remaining (see Chaos Conduit featu
 
 ## Four Winds
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Some barbarians come from the windswept plains or frostbitten tundra, where the kiss of a breeze and howl of a tempest might hold a wisp of magic. Barbarians that travel the path of Four Winds have learned, through ancient custom or shamanic connection to nature, how to harness the wind themselves in their rage. These barbarians are renowned for their swift movement, skill with thrown weapons, and ability to hurl themselves into the fray, protected at all times by the swirling winds of their ancestral home.
 
@@ -528,7 +528,7 @@ The winds that aid you have grown violent, made more ferocious by your wrath. Wh
 
 ## Kraken
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Barbarians who travel the path of the Kraken manifest some aspect of the fearsome leviathans, causing them to partially transform when they rage and take on the aspect of the sea-dwelling titans.
 
@@ -591,13 +591,13 @@ In addition, each time you use your bonus action to make a tentacle attack, you 
 
 ## Old Margreve Barbarian Subclasses
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 At 3rd level, a barbarian gains the Barbarian Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Hive Tender or Shadow Chewer.
 
 ## Hive Tender
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 The bearfolk of Midgard, particularly those who worship [[Bengta]] the Bear Maiden, are renowned for their use of bee hives as sources of sustenance and defense. Among the most powerful of these bearfolk warriors are the Hive Tenders of the Bear Maiden. Their deep connection with the primal magic of the Bear Maiden allows them to summon and control swarms of magical bee spirits who aid them in defending the tribes. These warriors occasionally pass their teachings to non-bearfolk in their communities, provided those who seek training are dedicated to the Bear Maiden, bees, and honey.
 
@@ -649,7 +649,7 @@ Your bee spirits become a deadly swarm when you activate your Rage feature. The 
 
 ## Shadow Chewer
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Moonlit people who live in their enclaves of light in the [[The Shadow Realm|Shadow Realm]] or in areas where the Shadow Realm encroaches on the Material Plane keep the darkness at bay thanks to the green magic of Freyr and Freya. When the shadows gather too close to the borders of their land, the people call upon the wild warriors known as the Shadow Chewers. Sometimes called "Angels of Freyr," these fearsome heroes bring tooth, sword, and radiance to bear against the darkness.
 
@@ -696,17 +696,15 @@ While raging, you can use a bonus action to send searing light toward each creat
 
 ## Labyrinth Barbarian Subclasses
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 At 3rd level, a barbarian gains the Barbarian Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Forsaken.
 
 ## Forsaken
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Barbarians who travel the path of the Forsaken can hear the whispered regrets of those unjustly or violently slain before their time. These warriors possess remarkable souls that shine as beacons to lost spirits. Those who embrace this path learn to listen to the forgotten and are rewarded with their undying protection.
-
-
 
 **Forsaken Progression**
 
@@ -756,13 +754,13 @@ The vengeful dead bound to you refuse to let you be lost. If you die and your bo
 
 ## Book of Blades Barbarian Subclasses
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 When you choose your barbarian subclass, the following subclasses from *[[Book of Blades]]* are also available: Frostborn Raider and Undying Warrior.
 
 ## Frostborn Raider
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Deep in the frozen wastes, some barbarians find their flesh infused with elemental cold. Others embrace ancestral spirits of icy winter. Empowered by the deepest chill, they can call forth unrelenting cold. They sheathe their bodies in an armor of ice and summon blizzards to hinder their foes.
 
@@ -815,7 +813,7 @@ Melee and ranged attacks made with your Bitter Animus ice gauntlets now deal an 
 
 ## Undying Warrior
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 An Undying Warrior possesses a soul that has crossed into death, then pulled back into the world of the living by extraordinary magical means. Returning from true death is a turbulent process that shatters a soul then reforges it entirely. Creatures who have such souls are often psychically scarred by the experience, but they gain a measure of mastery over death. Those who walk this path can’t be pulled into death until their destiny—the reason their soul returned—is fulfilled.
 
@@ -864,13 +862,13 @@ Death no longer desires you. If you die and your body is destroyed, your soul re
 
 ## Northlands Barbarian Subclasses
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 At 3rd level, a barbarian gains the Barbarian Subclass feature. The following subclass from the [[Northlands]] is also available when making that choice: Titan.
 
 ## Titan
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 There is no denying the might of [[Jotunheim]]. Even the smallest of the giants exemplifies the sheer physical power passed down from Aurgelmir, the First Giant. Barbarians who follow the Path of the Titan channel the spirits of the jotun through their rage. These otherworldly furies swell the barbarian’s physical form to one that matches the power and might of their rage, causing them to tower over their foes.
 
@@ -908,14 +906,4 @@ When you score a critical hit against a target, you can forgo one of your additi
 Whenever you activate your Rage feature, if you are smaller than Huge, you can choose to become Huge. Your equipment grows to match your new size. If there is not enough room for you to become Huge, you become Large. If there is not enough room for you to become Large, you do not grow. While you are Huge, your carrying capacity triples, your reach increases by 5 feet, you have advantage on STR checks and saves, and your attacks with weapons or unarmed strikes deal two additional dice of damage (a greatsword attack deals 4d6 damage, a greataxe deals 3d12, and so on).
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

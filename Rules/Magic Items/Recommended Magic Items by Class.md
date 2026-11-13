@@ -2,7 +2,7 @@
 aliases: [Recommended Magic Items, Magic Items by Class]
 publish: true
 ---
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 Treasure feels more useful and personal when it's obviously and immediately tailored to one character. This section contains suggestions for how to customize the magic items a PC can acquire based on class. Use these examples to help personalize magic items for your PCs.
 
@@ -175,4 +175,4 @@ As in every tier, each class should be on the lookout for items that boost abili
 | **Wizard** | *[[Wondrous Items M–Z#Robe of the Archmagi\|robe of the archmagi]]* | Player’s Guide | 100,000 gp | The benefits of this legendary item are self-explanatory. |
 
 ---
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Sources: [[Credits]].</small>

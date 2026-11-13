@@ -169,19 +169,19 @@ The full list of conditions is available in **Appendix A: Conditions**. Pay spec
 
 Curses are supernatural afflictions that magically hamper or alter their victims. Objects, creatures, and even areas can be the target of a curse. Most curses can be ended through use of a *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell, *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell, or similar magic. Some curses, like those that come with cursed magic items (see **Magic Items** in **Chapter 5**), are only temporarily suppressed by spells like *[[3rd-Circle Spells#Remove Curse|remove curse]]*. The most powerful curses can be broken only by performing specific actions or triggering narrative effects specific to the curse.
 
-For sample horror curses, see [[Curses, Diseases, and Hazards#Curses|Curses, Diseases, and Hazards]] (optional, from *Night Hunters*).
+For sample horror curses, see [[Curses, Diseases, and Hazards#Curses|Curses, Diseases, and Hazards]].
 
 ### Diseases
 
 Diseases are physical afflictions that can be contracted from some monsters, hazards, or exposure to necromantic magic. A disease typically ravages its victim over multiple days, causing more damage the longer it is left untreated. While common diseases might be cured with a WIS (Medicine) check, spells like *lesser restoration* and similar magic are often required to cure more potent diseases.
 
-For sample horror diseases, see [[Curses, Diseases, and Hazards#Diseases|Curses, Diseases, and Hazards]] (optional, from *Night Hunters*).
+For sample horror diseases, see [[Curses, Diseases, and Hazards#Diseases|Curses, Diseases, and Hazards]].
 
 ### Dread
 
 When PCs witness terrors beyond mortal comprehension, they might be inflicted with dread. Dread goes beyond standard fear. It is severe psychological harm that can scar a creature for minutes or indefinitely until magical intervention is used.
 
-For dread tables and the optional dread exposure rule, see [[Dread Expanded]] (optional, from *Night Hunters*).
+For dread tables and the optional dread exposure rule, see [[Dread Expanded]].
 
 ### Poisons
 
@@ -216,4 +216,4 @@ When a creature runs out of breath or is choking, it can survive for a number of
 For example, a creature with a CON modifier of +2 can hold its breath for 3 minutes. If it starts suffocating, it has 2 rounds to reach air before it drops to 0 HP.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

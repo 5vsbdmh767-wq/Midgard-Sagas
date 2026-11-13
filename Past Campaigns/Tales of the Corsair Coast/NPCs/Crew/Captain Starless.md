@@ -3,7 +3,6 @@ tags: [npc]
 publish: true
 ---
 
-
 ## Basic Information
 - **Name:** [[Captain Starless]]
 - **Race:** Heru ([[Ravenfolk]])

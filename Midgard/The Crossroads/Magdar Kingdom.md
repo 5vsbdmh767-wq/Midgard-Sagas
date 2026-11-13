@@ -12,7 +12,6 @@ Thanks to this constant conflict, one of the greatest weapons of the [[Magdar]] 
 
 Zobeck, the Magdar Kingdom, and [[Perunalia]] recently renewed their century-old alliance of mutual aid. Duchess Baretta, daughter of the Widow Queen, signed on behalf of the Magdar.
 
-
 | Population | Trade Goods |
 | --- | --- |
 | About 2,703,000 (2,200,000 humans, 250,000 dwarves, 210,000 kobolds, 40,000 centaurs, 3,000 gnomes) | Wine, brandy, peppers, wheels and barrels, hazelnuts and walnuts, barges, oak and alder wood, fine ceramic, wool, salt pork, copper, peat |

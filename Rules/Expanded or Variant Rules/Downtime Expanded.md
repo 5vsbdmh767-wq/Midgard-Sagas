@@ -2,7 +2,7 @@
 aliases: [Creature Training, Criminal Enterprise]
 publish: true
 ---
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 This section introduces additional downtime activity options for PCs. See the *Player’s Guide for the general* *downtime rules.*
 
@@ -99,6 +99,4 @@ Infamy represents a PC’s successful crime streak, respect, and influence withi
 ***Legendary Caper (Costs 5 Infamy).*** You can spend 5 Infamy to pull off a legendary caper, provided you haven’t performed a legendary caper in the last year. A legendary caper is the crown jewel of operations, and you receive a significant payout from it: choose either to receive 10,000 gp or a single uncommon or rarer magic item (GM’s discretion).
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

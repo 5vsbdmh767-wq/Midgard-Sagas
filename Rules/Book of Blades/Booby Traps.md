@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 As hunters who spend much of their time in wilderness areas, rangers are experts in setting traps. Temporary and quick to set up, traps are useful not just for catching dinner, but for offering a measure of battlefield control normally reserved for spellcasters such as druids and wizards. While dungeon-style traps usually require extensive construction, time, and expense, booby traps can be laid quickly for almost no cost.
 
@@ -76,4 +76,4 @@ This trap is made by stretching a strong rope across two points up to 20 feet ap
 ***Improvement:*** You can extend the rope by 10 feet for every additional 2 gp you spend in materials. You can also embed barbs in the rope that deal 1d3 + your PB piercing damage for an additional 1 gp. If the target succeeds on its save, it takes no damage.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

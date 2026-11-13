@@ -2,7 +2,7 @@
 publish: true
 ---
 - [[Backgrounds]]
-- [[Character Threads]] (optional, Northlands Worldbook)
+- [[Character Threads]]
 - [[Talents]]
 	- [[Magic Talents]]
 	- [[Martial Talents]]

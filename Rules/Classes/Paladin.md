@@ -412,7 +412,7 @@ Using your action, you can channel the full might of order, balance, and righteo
 
 ## Paladin Boons
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the paladin class.
 
@@ -446,12 +446,12 @@ Your commitment to the paladin’s path grants you a powerful new ability. You g
 
 ## More Paladin Subclasses
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 At 3rd level, paladins gain the Paladin Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Anathema, Safekeeping, or Unbound.
 
 ## Anathema
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Paladins wishing to end immediate threats posed by evil creatures and who don’t mind the stains of close dealings with such creatures swear an oath of Anathema. These paladins use the tools of the enemy—typically guile and threats—against the enemy, preferring those over blades. However, they have no problem resorting to direct combat when necessary. Many argue these paladins are no better than the evils they purport to fight, but few can argue against the results of their efforts.
 
@@ -550,7 +550,7 @@ As an action, you can draw on the full weight of your divine power to destroy ev
 
 ## Safekeeping
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Swearing an oath of Safekeeping binds a paladin to a person, place, or object, which they steadfastly guard. These paladins might change the subjects of their protection, but they never demand any recompense for their safeguarding duty. Though they can use any means at their disposal, they personally act as the last line of defense against harm to their charges.
 
@@ -629,7 +629,7 @@ Once this feature has activated, it can’t be activated again until you finish 
 
 ## Unbound
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Paladins who have witnessed duplicity in their leaders or that feel taken advantage of often swear an oath of the Unbound. They saw their leaders’ corruption and blasé positions on sending pawns to death and devastation in pursuit of causes the leaders don’t truly believe in. These paladins extend this bitter view to deities and planar powers that exert their wills on hapless followers, and while many draw from their own personal wells of resolve for their abilities, some unknowingly attract powerful entities that use the paladins as tools to dismantle oppositional organizations.
 
@@ -718,13 +718,13 @@ As an action, you draw on your full willpower to break any mundane or magical co
 
 ## Labyrinth Paladin Subclasses
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 At 3rd level, a paladin gains the Paladin Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Old World.
 
 ## Old World
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Swearing an oath of the Old World binds a paladin to the principles of freedom, nature, light, and justice—not morality or law, but beauty and balance. Kindred to druids and rangers, these paladins understand the eternal cycle of beauty inherent to the multiverse and seek to protect it and those who live there from harm. They concern themselves with courage, decisiveness, and understanding and muse on the world as it was long ages ago or far into the future, along the endless march of time. They often adorn themselves with things found in nature—bones, bark, gemstones, vines, and flowers—to symbolize their connection to the most ancient understandings of life.
 
@@ -810,13 +810,13 @@ You can assume the terrifying form of the primordial elements made flesh. Your s
 
 ## Book of Blades Paladin Subclasses
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 When you choose your paladin subclass, the following subclasses from *[[Book of Blades]]* are also available: Ashen Base and Anamnesis.
 
 ## Ashen Base
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 The Ashen Base is a simple oath, as old as nations and hatred. These paladins dedicate themselves to a self‑destructive loathing for someone or something. Its adherents are evil, either knowingly or by degree, as their oath turns their lives to its central truth: everything burns.
 
@@ -907,7 +907,7 @@ For 1 minute, you gain the following benefits:
 
 ## Anamnesis
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 The Anamnesis paladin is an oath of heralds and martyrs. Legends have been passed down through the ages, the simple memories of which spur warriors on to feats of heroism. Its adherents are a varied lot, from living embodiments of storybook ideals to cultured warriorscholars learned in the traditions of a dozen languages to insular knights so steeped in centuries of in-jokes and literary references that they are near-incomprehensible to strangers. All are champions of ancient lines, not merely for their memory but for the virtues and cultural impact they have on the living.
 
@@ -988,13 +988,13 @@ As an action, you take on the unmistakable appearance of a paladin of legend who
 
 ## Northlands Paladin Subclasses
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 At 3rd level, a paladin gains the Paladin Subclass feature. The following subclass from the [[Northlands]] is also available when making that choice: Valhalla.
 
 ## Valhalla
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Paladins who take the Oath of Valhalla ensure they preserve the spirits of those who have died honorably in battle, even their foes. Of course, these paladins also strive to prove themselves deserving of entry into Valhalla through their own deeds and words. The thunderous revelry of the heroic dead echoing from the gods’ mead hall in Asgard fills these paladins, imbuing them with the might of deceased champions without defiling the dead.
 
@@ -1080,12 +1080,4 @@ As a bonus action, you receive the blessings granted to Valkyries by [[Wotan]]. 
 Once you use this feature, you can’t use it again until you finish a long rest. You can also restore your use of it by expending a 5th-circle spell slot (no action required).
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

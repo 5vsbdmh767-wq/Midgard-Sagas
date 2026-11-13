@@ -2,7 +2,7 @@
 aliases: [Session Zero, Emotional Bleed, Table Rules, Horror Safety Tools]
 publish: true
 ---
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Running a horror campaign is similar in many ways to running any other campaign, but the thematic focus requires both the players and the GM to be familiar with the expectations of the horror genre and the situations that might arise at the table. Everyone benefits by learning about the different horror subgenres and their associated elements and by having a candid discussion about which topics and subgenres are acceptable to explore and which are off-limits. In particular, it’s a good idea to make sure that everyone understands both what kind of game will be played and also how to handle any issues with the content matter. Session zero is a perfect time to have these discussions, and that can help a GM feel all the more confident and prepared once the campaign kicks into gear.
 
@@ -29,4 +29,4 @@ Many tables have a handful of unofficial rules for play, such as taking a break 
 For the player side of horror play, see [[Heroes of Horror#Player Best Practices|Player Best Practices]].
 
 ---
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Sources: [[Credits]].</small>

@@ -148,21 +148,13 @@ Each class has access to a specialization of some kind— further study or train
 - [[Ranger]]
 - [[Rogue]]
 - [[Sorcerer]]
-- [[Theurge]] (optional, [[Player's Guide 2]])
-- [[Vanguard]] (optional, Player's Guide 2)
+- [[Theurge]]
+- [[Vanguard]]
 - [[Warlock]]
-- [[Witch]] (optional, Player's Guide 2)
+- [[Witch]]
 - [[Wizard]]
 
 The Barbarian, Bard, Cleric, Druid, Ranger, Rogue, Sorcerer, Warlock, and Wizard pages also carry optional subclasses from *Tales of the Old Margreve*. See [[Heroes of the Margreve]]. Every class except the three Player's Guide 2 classes also has optional subclasses from the *Labyrinth Worldbook*; see [[Heroes of the Labyrinth]]. The Barbarian, Fighter, Mechanist, Monk, Paladin, Ranger, and Rogue pages also carry optional subclasses from *Book of Blades*; see [[Book of Blades]]. The Barbarian, Bard, Cleric, Druid, Fighter, Paladin, Sorcerer, and Warlock pages also carry optional subclasses from the *Northlands Worldbook*; see [[Heroes of the Northlands]]. The Cleric, Fighter, Sorcerer, Warlock, and Witch pages also carry optional subclasses from *Night Hunters*; see [[Heroes of Horror]].
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

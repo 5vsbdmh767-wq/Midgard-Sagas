@@ -118,7 +118,7 @@ Prices on this table are for individual food items and a single night’s lodgin
 
 ## Mounts & Combat Animals (Player's Guide 2)
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Mounts and other animal companions are a common feature when adventuring. Included are the pricing and basic statistics for more unique options available to PCs. For the full rules regarding the use of mounts, see the *Player’s Guide*.
 
@@ -333,7 +333,7 @@ This muscular, human-sized swine is covered with bristly brown and gray hair. A 
 
 ## More Mounts (Northlands Worldbook)
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Travel across the [[Northlands]] can be its own adventure. From howling blizzards to roaring giants, just moving from settlement to settlement pits the adventurer against nature and monsters alike. A mount can help you move more quickly through the wilderness, but it can also carry gear that would otherwise slow you down. The **Mounts** table shows each animal’s carrying capacity. For land vehicles, see [[Vehicles#More Vehicles (Northlands Worldbook)|Vehicles]].
 
@@ -351,8 +351,4 @@ Travel across the [[Northlands]] can be its own adventure. From howling blizzard
 The Northlands Worldbook repeats the rules for pulling vehicles and for barding; they match the ***Drawn Objects*** and ***Barding*** rules above.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

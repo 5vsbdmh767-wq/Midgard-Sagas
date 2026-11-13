@@ -1,8 +1,7 @@
 ---
 publish: true
 ---
-> [!note] Optional Class
-> Optional, from [[Player's Guide 2]]. Ask your GM before playing a vanguard.
+%% source: Player's Guide 2 %%
 
 Vanguards are born to command. They possess a keen sense of strategy and tactics and an uncanny knack for quickly ascertaining the best course of action while blades whirl around them. Vanguards are consummate leaders and highly trained, disciplined warriors. They have tactical minds and add inspiring presences on the battlefield. Warriors are often drawn to follow a vanguard, relying on their grasp of advanced formations and battlefield tactics to help defeat their adversaries.
 
@@ -453,6 +452,4 @@ In addition, when a creature hits with an attack that has advantage from your In
 You are the paragon of resilience on the battlefield. When you start your turn below half your hit point maximum but have at least 1 HP, you regain hit points equal to your PB + your CON modifier (minimum of 2).
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

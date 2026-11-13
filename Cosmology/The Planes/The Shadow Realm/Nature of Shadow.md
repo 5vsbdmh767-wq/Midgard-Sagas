@@ -2,7 +2,7 @@
 aliases: [Shadow Corruption, shadow corruption, Despondent, Shadow Thrall, Shadow-Touched, dark water, Hazards of the Shadow Realm]
 publish: true
 ---
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 To natives, a traveler's questions about how anyone survives in the [[The Shadow Realm|Shadow Realm]] are foolish. The laws of nature may differ from the mortal world's, but the realm is hospitable to anyone who takes the time to learn its ways. This page collects those ways, and the rules that go with them.
 
@@ -282,4 +282,4 @@ For each day of navigation, a character makes a DC 15 INT (Arcana) check. On a s
 | 12 | One passenger has a vision of the afterlife and may have a premonition of danger, learn a secret from a ghost, or gain 2d12 temporary hit points from understanding the river's power. |
 
 ---
-*Material marked as from Book of Ebon Tides is from Book of Ebon Tides by Kobold Press. Rules here are adapted to Tales of the Valiant terms (ability abbreviations, "save," and spell circles); the despondent condition drops the 5e "flaw" line, since Tales of the Valiant doesn't use flaws.*
+<small>Sources: [[Credits]].</small>

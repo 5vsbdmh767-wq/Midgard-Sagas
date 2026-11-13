@@ -312,7 +312,7 @@ You have become adept at laying ambushes and quickly escaping danger. Now, you c
 
 ## Rogue Boons
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the rogue class.
 
@@ -346,12 +346,12 @@ Your commitment to the rogue’s path grants you a powerful new ability. You gai
 
 ## More Rogue Subclasses
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 At 3rd level, rogues gain the Rogue Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Con Arcanist, Nightblade, or Trapsmith.
 
 ## Con Arcanist
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 You add magic to your bag of tricks to confound your foes or relieve others of their possessions. Your spellcasting allows you to perform more dangerous stunts from a distance.
 
@@ -454,7 +454,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 ## Nightblade
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Instead of relying on physical weapons, you draw from your inner resolve to manifest soul-bound knives. As you progress in power, you can use these knives to impose your will on your targets.
 
@@ -509,7 +509,7 @@ You can use this feature a number of times equal to your PB, and you regain all 
 
 ## Trapsmith
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Some rogues focus all their attention on understanding traps. This fixation makes them better at avoiding dangers and keeping their companions safe. Trapsmith rogues also design their own traps or tweak existing traps to turn the tables on those who put their trust in these mechanical or magical apparatuses.
 
@@ -599,13 +599,13 @@ In addition, traps you make and set are hardier, and you can choose one check or
 
 ## Old Margreve Rogue Subclasses
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 At 3rd level, a rogue gains the Rogue Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Underfoot.
 
 ## Underfoot
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Though most rogues prefer ambushing their opponents from the shadows, Underfoot rogues ambush their opponents from below. These rogues use druidic magic and their natural aptitude for burrowing to defend their forest homes. Using a combination of guerilla attacks and druidic magic, they are a force to be reckoned with. Many erina colonies have elite orders of burrow warriors made up of Underfoot rogues.
 
@@ -713,17 +713,15 @@ When you deal damage with Sneak Attack, the target is restrained by vegetation a
 
 ## Labyrinth Rogue Subclasses
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 At 3rd level, a rogue gains the Rogue Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Spy.
 
 ## Spy
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 You are whoever you need to be, without flaws or exceptions. That is the ultimate talent of the Spy rogue. Your capabilities are geared toward fading into the background at a critical moment, or sharing a piece of information heard in the right place at the right time. Anonymity is second nature to you; defining yourself outside of your multiple personas is the real challenge.
-
-
 
 **Spy Progression**
 
@@ -777,13 +775,13 @@ When you successfully deal damage with your Sneak Attack feature against a creat
 
 ## Book of Blades Rogue Subclasses
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 When you choose your rogue subclass, the following subclasses from *[[Book of Blades]]* are also available: Thief-Acrobat and Strategist.
 
 ## Thief-Acrobat
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 The core of the rogue lies in its mobility, and the Thief‑Acrobat takes that mobility to its mortal limits and beyond. Through training that could vary from circus performance to freerunning through city streets, you’ve keenly trained not just your body, but your environmental awareness to find and navigate impossible paths. Running works in more directions that away, though. You can also run circles around enemies in a fight and leave a nasty wake.
 
@@ -832,7 +830,7 @@ Your high-flying acrobatics defy mortal limits. You gain a flying speed equal to
 
 ## Strategist
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 From academy-trained officers to world-weary veterans of the front lines, there are always those who leverage their wits on the battlefield for maximum effect. Trained in the arts of tactical maneuver and a little skullduggery in a pinch, these rogues use their wits to command or guide allies for maximum effect.
 
@@ -880,12 +878,4 @@ Your insights in the battlefield pay dividends. You gain a second reaction that 
 In addition, you can use a reaction to move a willing ally within 15 feet of you that you can see into an unoccupied space adjacent to another willing ally within 15 feet of you, swapping the target of any effects between them.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

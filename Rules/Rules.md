@@ -23,15 +23,15 @@ publish: true
 - [[Magic Items]]
 - [[Playing the Game]]
 - [[Spellcasting]], [[Spell Lists]], [[Spells]], and [[Rituals]]
-- [[Spell Points]] (optional variant) and [[Magic Styles]] (optional, Labyrinth)
+- [[Spell Points]] and [[Magic Styles]]
 - [[Reference Tables]] for beast forms, familiars, and steeds
 - [[Random Names]]
-- [[Heroes of the Margreve]] (optional, from *Tales of the Old Margreve*)
-- [[Heroes of the Labyrinth]] (optional, from the *Labyrinth Worldbook*)
-- [[Heroes of the Northlands]] (optional, from the *Northlands Worldbook*)
-- [[Heroes of Horror]] (optional, from *Night Hunters*): horror backstories and options for monster hunters
-- [[Book of Blades]] (optional): martial subclasses, gear, weapons, and new ways to fight
-- [[Trade Secrets]] (optional): shopping, markets, and running a business
+- [[Heroes of the Margreve]]
+- [[Heroes of the Labyrinth]]
+- [[Heroes of the Northlands]]
+- [[Heroes of Horror]]: horror backstories and options for monster hunters
+- [[Book of Blades]]: martial subclasses, gear, weapons, and new ways to fight
+- [[Trade Secrets]]: shopping, markets, and running a business
 - [[Conditions]]
 
 ## Table Rules
@@ -39,26 +39,8 @@ publish: true
 - [[Expanded or Variant Rules|Variant Rules]], including the optional [[Base Building]], [[Downtime Expanded]], [[Epic Advancement]], and [[Rewards Expanded]]
 - [[Crafting & Alchemy]]
 - [[Nautical Rules]]
-- [[Horror Rules]] (optional, from *Night Hunters*): safety tools, expanded dread, horror curses, diseases, and hazards, and shadow tokens
-- [[Northlands Rules]] (optional, from the *Northlands Worldbook*): reputation, flyting, prophecy, raiding, Northern weather, and sea combat
+- [[Horror Rules]]: safety tools, expanded dread, horror curses, diseases, and hazards, and shadow tokens
+- [[Northlands Rules]]: reputation, flyting, prophecy, raiding, Northern weather, and sea combat
 
 ---
-*Player's Guide rules material is taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
-
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
-
-*Material marked as from Lineages & Heritages is from Lineages & Heritages Supplements 1 and 3 by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Book of Ebon Tides is adapted from the 5th Edition Book of Ebon Tides by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

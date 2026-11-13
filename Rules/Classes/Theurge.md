@@ -1,8 +1,7 @@
 ---
 publish: true
 ---
-> [!note] Optional Class
-> Optional, from [[Player's Guide 2]]. Ask your GM before playing a theurge.
+%% source: Player's Guide 2 %%
 
 Some spend their lives poring over ancient tomes and texts. Others devote themselves to the gods, acting as emissaries of the divine. The theurge seeks to achieve a perfect balance between the arcane and the divine, blending both kinds of magic into a powerful and cohesive whole.
 
@@ -444,6 +443,4 @@ You can temporarily open your awareness to the full scope of the cosmic weave, a
 - When you succeed on a save against a spell that targets only you or when a spell attack misses you, you can choose a creature within 60 feet of you. The spell or spell attack targets the chosen creature instead of you. If the spell requires a save, the chosen creature makes its own save. If it was a spell attack, the attacker makes a new spell attack roll against the target. Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

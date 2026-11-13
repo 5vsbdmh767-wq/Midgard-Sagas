@@ -3,7 +3,7 @@ publish: true
 ---
 ## Abjuring Smite
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Divine and Wyrd (Abjuration)*
 
@@ -23,7 +23,7 @@ You cast this spell on a weapon you’re wielding. The first time you hit a crea
 
 ## Animal Aspect
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Primordial and Wyrd (Transmutation)*
 
@@ -53,7 +53,7 @@ You touch a creature and alter its body, giving it a beast-like ability for the 
 
 ## Aqueous Form
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Arcane and Primordial (Transmutation)*
 
@@ -75,7 +75,7 @@ While in the watery form, the target can’t talk or manipulate objects. Any obj
 
 ## Aspect of the Cobra
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Primordial (Transmutation)*
 
@@ -95,7 +95,7 @@ As a bonus action, you can spit venom at a target within 20 feet as a ranged wea
 
 ## Aura of Bane
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Divine and Wyrd (Abjuration)*
 
@@ -129,7 +129,7 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 
 ## Bergelmir’s Provocation
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Arcane and Wyrd (Enchantment)*
 
@@ -193,7 +193,7 @@ Creatures that aren’t there can’t perceive you or interact with you unless t
 
 ## Blood Offering
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *3rd-Circle Divine and Wyrd (Necromancy)*
 
@@ -211,7 +211,7 @@ You touch the corpse of a creature that isn't Undead or a Construct and consume 
 
 ## Bone-Chilling Smite
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Divine (Necromancy)*
 
@@ -255,7 +255,7 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 
 ## Column of Cogs
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *3rd-Circle Arcane (Conjuration)*
 
@@ -279,7 +279,7 @@ At the end of each of your turns, the column’s height is reduced by 5 feet. Th
 
 ## Compel Avarice
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Arcane and Divine (Enchantment)*
 
@@ -323,7 +323,7 @@ You summon Fey spirits that take the form of Beasts and appear in unoccupied spa
 
 ## Conjure Ferryman
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *3rd-Circle Arcane and Wyrd (Conjuration)*
 
@@ -381,7 +381,7 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 
 ## Cynophobia
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *3rd-Circle Arcane and Primordial (Enchantment)*
 
@@ -439,7 +439,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd ci
 
 ## Electrify Metal
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Arcane and Primordial (Transmutation)*
 
@@ -461,7 +461,7 @@ If a creature is holding or wearing the object and takes damage from it, the cre
 
 ## Elemental Fusion
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Arcane (Transmutation)*
 
@@ -489,7 +489,7 @@ You channel elements directly from the Elemental Planes, fusing them to your bod
 
 ## Energizing Aegis
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Divine and Wyrd (Abjuration)*
 
@@ -511,7 +511,7 @@ The first time the target would take damage of that type, the target makes a sav
 
 ## Erratic Distraction
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Arcane (Enchantment)*
 
@@ -587,7 +587,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 ## Forceful Courser
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *3rd-Circle Divine, Primordial, and Wyrd (Conjuration)*
 
@@ -605,7 +605,7 @@ You call upon nature spirits to come to your aid. The spirits take the form of S
 
 ## Freezing Fog
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Primordial (Transmutation)*
 
@@ -647,7 +647,7 @@ While in the form of a misty cloud, the target can’t talk or manipulate object
 
 ## Giant’s Teeth
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Arcane (Conjuration)*
 
@@ -669,7 +669,7 @@ The target becomes grappled (escape DC equals your spell save DC). At the beginn
 
 ## Golden Bull
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *3rd-Circle Divine and Wyrd (Abjuration)*
 
@@ -723,7 +723,7 @@ The spell ends for an affected creature if it takes any damage or if someone els
 
 ## Incendiary Breath
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *3rd-Circle Arcane and Primordial (Evocation)*
 
@@ -745,7 +745,7 @@ A creature on fire takes 2d6 fire damage at the start of its turn. As an action,
 
 ## Legion of Rabid Squirrels
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *3rd-Circle Primordial (Conjuration)*
 
@@ -785,7 +785,7 @@ The lightning ignites flammable objects in the area that aren’t being worn or 
 
 ## Luckfingers
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Arcane (Enchantment)*
 
@@ -827,7 +827,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 ## Mantle of Death
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Wyrd (Necromancy)*
 
@@ -885,7 +885,7 @@ Minor physical damage to the stone doesn’t harm you, but its partial destructi
 
 ## Minor Maze
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *3rd-Circle Arcane and Wyrd (Conjuration)*
 
@@ -903,7 +903,7 @@ You can force one creature that you can see within range to succeed on an INT sa
 
 ## Monstrous Empathy
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *3rd-Circle Primordial (Enchantment)*
 
@@ -923,7 +923,7 @@ This spell lets you forge a connection with a Monstrosity. Choose a Monstrosity 
 
 ## Murmurs of Doom
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Arcane and Wyrd (Necromancy)*
 
@@ -941,7 +941,7 @@ You begin a whispered dirge that is magically accompanied by the howling of spir
 
 ## Necrotic Pustules
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Arcane and Wyrd (Necromancy)*
 
@@ -997,7 +997,7 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a half-m
 
 ## Pocket Portal
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Arcane and Wyrd (Conjuration)*
 
@@ -1035,7 +1035,7 @@ For the duration, one willing creature you touch has resistance to one damage ty
 
 ## Protection Rune
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Arcane and Divine (Evocation)*
 
@@ -1053,7 +1053,7 @@ You touch a creature, creating a visible rune etched into its skin. The creature
 
 ## Putrescent Faerie Circle
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *3rd-Circle Primordial (Conjuration)*
 
@@ -1091,7 +1091,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 ## Repair Hull
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Arcane and Primordial (Transmutation)*
 
@@ -1145,7 +1145,7 @@ You can send the message across any distance and even to other planes of existen
 
 ## Shared Expertise
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Arcane (Transmutation)*
 
@@ -1165,7 +1165,7 @@ While in the area, allied creatures are treated as having proficiency in the cho
 
 ## Sif’s Grace
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Arcane, Divine, and Wyrd (Conjuration)*
 
@@ -1273,7 +1273,7 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 ## Star’s Radiance
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *3rd-Circle Arcane and Divine (Abjuration)*
 
@@ -1291,7 +1291,7 @@ The light of a dozen stars shines from you in a soft radiance, shedding dim ligh
 
 ## Stinger Spray
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Primordial (Evocation)*
 
@@ -1331,7 +1331,7 @@ A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds.
 
 ## Stir Fury
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *3rd-Circle Primordial (Transmutation)*
 
@@ -1351,7 +1351,7 @@ You touch a willing creature. For the duration, any melee attack the target make
 
 ## Structured Mind
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Primordial (Abjuration)*
 
@@ -1387,7 +1387,7 @@ This spell grants the creature you touch the ability to understand any spoken la
 
 ## Tracer
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *3rd-Circle Arcane, Divine, Primordial, and Wyrd (Divination)*
 
@@ -1407,7 +1407,7 @@ A creature must succeed on an INT (Arcana) check against your spell save DC to n
 
 ## Trollblood Infusion
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Arcane, Primordial, and Wyrd (Transmutation)*
 
@@ -1425,7 +1425,7 @@ A creature you touch is magically infused with the regenerative properties of tr
 
 ## Truth’s Blade
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Divine (Divination)*
 
@@ -1445,7 +1445,7 @@ You punish one who would speak falsely to you. The creature must make a WIS save
 
 ## Valkyrie’s Guidance
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Divine (Divination)*
 
@@ -1481,7 +1481,7 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 
 ## Veil of Waves
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Primordial and Wyrd (Conjuration)*
 
@@ -1499,7 +1499,7 @@ You summon currents of water that flow around you in a protective shell. While p
 
 ## Venomous Smite
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Divine and Wyrd (Evocation)*
 
@@ -1519,7 +1519,7 @@ You cast this spell on a weapon you’re wielding. The first time you hit a crea
 
 ## Virulent Nightmare
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *3rd-Circle Arcane, Primordial, and Wyrd (Enchantment)*
 
@@ -1537,7 +1537,7 @@ You spawn a flood of nightmarish images in the mind of a creature you can see wi
 
 ## Void Strike
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *3rd-Circle Arcane and Wyrd (Evocation)*
 
@@ -1557,7 +1557,7 @@ With a short phrase of Void Speech, you gather writhing darkness around your han
 
 ## Wall of Snow
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Primordial (Evocation)*
 
@@ -1599,7 +1599,7 @@ This spell grants up to ten willing creatures you can see within range the abili
 
 ## Weave Detonation
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *3rd-Circle Arcane and Divine (Divination)*
 
@@ -1640,14 +1640,4 @@ When the wall appears, each creature within its area must make a STR save. A cre
 The strong wind keeps fog, smoke, and other gasses at bay. Small or smaller flying creatures or objects can’t pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can’t pass through it.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

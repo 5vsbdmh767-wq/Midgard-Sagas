@@ -5,7 +5,7 @@ Most magic talents affect a character’s spellcasting abilities, but they also 
 
 ## Acid Disintegration
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Spellcasting Class Feature*
 
@@ -29,7 +29,7 @@ Your focus on magical studies yielded incredible results, granting these benefit
 
 ## Blessing of Angrboda and Bergelmir
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Character 4th Level or Higher; [[Giantkin]] or [[Trollkin]], or with GM permission*
 
@@ -41,7 +41,7 @@ You add a thunderous retort to your attacks and have some prophetic ability. You
 
 ## Blessing of Baldur
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You can surround yourself with a protective aegis and radiant aura. You gain these benefits:
 
@@ -55,7 +55,7 @@ If you choose this talent again, when you finish a long rest, you have resistanc
 
 ## Blessing of Boreas
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You can envelop yourself in cold and wield winter magic. You gain these benefits:
 
@@ -67,7 +67,7 @@ You can envelop yourself in cold and wield winter magic. You gain these benefits
 
 ## Blessing of Freyr and Freyja
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Your understanding of the natural world improves, and you gain access to Primordial magic. You gain these benefits:
 
@@ -79,7 +79,7 @@ Your understanding of the natural world improves, and you gain access to Primord
 
 ## Blessing of Hel
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Your proximity to death grants you these benefits:
 
@@ -91,7 +91,7 @@ Your proximity to death grants you these benefits:
 
 ## Blessing of Jormungandr
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You gain a kinship with serpents, granting you these benefits:
 
@@ -105,7 +105,7 @@ If you choose this talent again, you can channel the fear inspired by serpents a
 
 ## Blessing of Loki
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You have an understanding of trickery in various situations. You gain these benefits:
 
@@ -117,7 +117,7 @@ You have an understanding of trickery in various situations. You gain these bene
 
 ## Blessing of Njord
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Character Level 4th or Higher*
 
@@ -129,7 +129,7 @@ You become accustomed to the sea. You gain these benefits:
 
 ## Blessing of Sif
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You gain hunting prowess, granting you these benefits:
 
@@ -141,7 +141,7 @@ If you choose this talent again, you can channel [[Sif]]’s power for 1 minute 
 
 ## Blessing of Thor
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You become stronger and can invoke the power of storms. You gain these benefits:
 
@@ -153,7 +153,7 @@ If you choose this talent again, you can channel [[Thor]]’s power for 1 minute
 
 ## Blessing of Tyr
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You cloak yourself in justice. You gain these benefits:
 
@@ -165,7 +165,7 @@ You can use this feature at will, but when you use it on a creature, you must fi
 
 ## Blessing of Volund
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You gain the power of the forge, granting you these benefits:
 
@@ -175,7 +175,7 @@ You gain the power of the forge, granting you these benefits:
 
 ## Blessing of Wotan
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You uncover hidden lore. You gain the following benefits.
 
@@ -187,7 +187,7 @@ If you select this talent again, you gain advantage when making checks involving
 
 ## Chaos Caster
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Spellcasting Class Feature*
 
@@ -199,7 +199,7 @@ You can use this feature a number of times equal to your PB. You recover all exp
 
 ## Cold Soul
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Spellcasting Class Feature*
 
@@ -221,7 +221,7 @@ Experience on the battlefield has given you superior focus to cast your spells. 
 
 ## Dread Touched
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Your experiences with the eldritch and supernatural have fundamentally changed you, granting you the following benefits:
 
@@ -243,7 +243,7 @@ You can select this talent multiple times, selecting a different damage type eac
 
 ## Fire Branded
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Spellcasting Class Feature*
 
@@ -275,7 +275,7 @@ Your focus on the magic of life, death, and seeing beyond grants you these benef
 
 ## Focus (Eldritch)
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Prerequisite: Access to 2nd-Circle Spell Slots*
 
@@ -309,7 +309,7 @@ Your focus on battlefield magic, both protective and destructive, grants you the
 
 ## Frost-Touched
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Your connection to the ancient frozen power of the [[Northlands]] grants you these benefits:
 
@@ -319,7 +319,7 @@ Your connection to the ancient frozen power of the [[Northlands]] grants you the
 
 ## Gift of Sight
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Something has bestowed a gift of visions upon you. At the start of your turn, you can attempt to have a vision by rolling a d20 and adding your PB. If the result is 15 or lower, no vision appears. If the result is 16 or higher, you can cast the *[[Rituals 1st–3rd Circle#Clairvoyance|clairvoyance]]* ritual as an action without material components. You can activate this ritual a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
@@ -329,7 +329,7 @@ Alternatively, the GM can propose a vision with this feature. In this instance, 
 
 ## Guidance Adept
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Ability to Cast the Guidance Cantrip*
 
@@ -343,7 +343,7 @@ You’ve mastered the *[[Cantrips#Guidance|guidance]]* cantrip (see *Player’s 
 
 ## Ice Mastery
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: [[Magic Talents#Elemental Savant|Elemental Savant]] Talent for Cold Damage*
 
@@ -359,7 +359,7 @@ You can use this feature a number of times equal to your PB, and you regain all 
 
 ## Light Adept
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Ability to Cast the Light Cantrip*
 
@@ -373,7 +373,7 @@ You’ve mastered the *[[Cantrips#Light|light]]* cantrip (see *Player’s Guide*
 
 ## Lightning Mastery
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: [[Magic Talents#Elemental Savant|Elemental Savant]] Talent for Lightning Damage*
 
@@ -389,7 +389,7 @@ You can use this feature a number of times equal to your PB, and you regain all 
 
 ## Lightning Walker
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Spellcasting Class Feature*
 
@@ -401,7 +401,7 @@ You’ve become attuned to the crash of lightning and have funneled this knowled
 
 ## Mage Hand Adept
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Ability to Cast the Mage Hand Cantrip*
 
@@ -417,7 +417,7 @@ You’ve mastered the *[[Cantrips#Mage Hand|mage hand]]* cantrip (see *Player’
 
 ## Magical Trickster
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: None*
 
@@ -437,7 +437,7 @@ Through rigid mental exercise, you have fortified yourself against mind-altering
 
 ## Moon-Touched
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Character 4th Level or Higher*
 
@@ -449,7 +449,7 @@ Your connection to the moon and its otherworldly radiance grants you these benef
 
 ## Mystic Visions
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Prerequisite: WIS 13 or higher (Character with visionary background can ignore WIS restriction)*
 
@@ -461,7 +461,7 @@ When you complete a long rest and have unused uses of this feature, all unused n
 
 ## Plane Touched
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Character 4th Level or Higher*
 
@@ -479,7 +479,7 @@ Your exposure or association with a particular plane of existence infuses you wi
 
 ## Primal
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You gain the following benefits.
 
@@ -501,7 +501,7 @@ Through magic, you learned to influence and manipulate the world around you with
 
 ## Resistance Adept
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Ability to Cast the Resistance Cantrip*
 
@@ -537,7 +537,7 @@ Choose one of the eight schools of magic: abjuration, conjuration, divination, e
 
 ## Spell Disruptor
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Ability to Cast the Counterspell or Dispel Magic Spells*
 
@@ -559,7 +559,7 @@ When a creature you can see damages you with a spell, you can use your reaction 
 
 ## Spell Recall
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Levels in a Prepared Spellcaster Class ([[Cleric]], [[Druid]],*
 
@@ -571,7 +571,7 @@ When a creature you can see damages you with a spell, you can use your reaction 
 
 ## Teleporting Harrier
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Prerequisite: Ability to Teleport Due to a Feature, Spell, or Trait*
 
@@ -585,7 +585,7 @@ To gain any of these benefits with a weapon attack, you must be proficient with 
 
 ## Thunder Resonator
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Spellcasting Class Feature*
 
@@ -597,7 +597,7 @@ You’ve become synchronized with the booming power of thunder and have incorpor
 
 ## Trickster’s Toolbox
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You bear a touch of a trickster spirit or god. You gain these benefits:
 
@@ -607,7 +607,7 @@ You bear a touch of a trickster spirit or god. You gain these benefits:
 
 ## Valedictorian
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: 2nd Level or Higher [[Bard]], Cleric, Druid, [[Sorcerer]],*
 
@@ -631,7 +631,7 @@ You bear a touch of a trickster spirit or god. You gain these benefits:
 
 ## Voracious Arcana
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Prerequisite: Spellcasting Class Feature*
 
@@ -642,14 +642,4 @@ Your study of the far reaches has unlocked mysteries inherent in the all-consumi
 - If you have no spell slots available of a circle you wish to cast, you can sacrifice your own lifeforce to power your spell. Roll 2d6 per the circle of the spell you wish to cast and lower your current and maximum HP by that amount. You then cast the spell without expending a spell slot. Your maximum HP only returns to normal when you finish a long rest. If your maximum HP is reduced to 0 by casting a spell in this manner, you perish.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

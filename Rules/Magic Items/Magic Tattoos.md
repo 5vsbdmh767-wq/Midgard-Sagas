@@ -2,7 +2,7 @@
 aliases: [Tattoos]
 publish: true
 ---
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Along with the other magic items in this chapter, several magic tattoos are presented, which are a special type of wondrous item. Magic tattoos can only be applied by highly skilled artists who distill special magical inks and create specific implements for use in their craft. It is incredibly rare for an individual to possess the combination of artistry, magical ability, and esoteric knowledge required to successfully create a magic tattoo—tracking down such a master, and them having the time to fit you in, is usually an especially difficult process. The GM has final say on whether or not magic tattoos are available in your game.
 
@@ -157,6 +157,4 @@ As an action, you can alter your appearance to that of another Humanoid for up t
 If you are attempting to impersonate a specific individual, creatures familiar with that individual can discern that you are an imposter by using an action to make an INT (Investigation) or WIS (Insight) check, with advantage, against your CHA (Deception or Performance) check. At the GM’s discretion, those closest to the Humanoid being impersonated—such as a spouse or sibling—automatically succeed on this check.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

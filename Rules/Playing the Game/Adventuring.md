@@ -230,4 +230,4 @@ A creature with tremorsense can detect and pinpoint the source of vibrations whe
 A creature with truesight can see in dim light, darkness, and magical darkness as if it were bright light. It also sees creatures and objects with the invisible condition (see **Appendix A: Conditions**), it automatically detects visual illusions and succeed on saves against them, and it perceives the true form of a creature with the Shapechanger tag or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane within truesight range.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

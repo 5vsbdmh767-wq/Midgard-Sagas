@@ -21,7 +21,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 ## Acidic Secretion
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane, Primordial, and Wyrd (Transmutation)*
 
@@ -79,7 +79,7 @@ You magically alter your form. When you cast the spell, choose one of the follow
 
 ## Arc Burst
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane and Primordial (Evocation)*
 
@@ -99,7 +99,7 @@ A burst of electricity streaks toward a creature of your choice within range. Ma
 
 ## Aspect of the Narwhal
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Arcane and Primordial (Transmutation)*
 
@@ -117,7 +117,7 @@ A willing creature that you touch takes on the aspects of a narwhal. It grows fl
 
 ## Bad Eggs
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Primordial (Transmutation)*
 
@@ -139,7 +139,7 @@ The eggs retain their fragility. If one breaks, it detonates as specified above,
 
 ## Baleful Injunction
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *2nd-Circle Divine (Necromancy)*
 
@@ -173,7 +173,7 @@ You touch a willing creature. Until the spell ends, the creature’s skin has a 
 
 ## Bestial Fury
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *2nd-Circle Primordial (Enchantment)*
 
@@ -195,7 +195,7 @@ This spell has no effect on Undead or Constructs.
 
 ## Black Flame Aura
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *2nd-Circle Wyrd (Evocation)*
 
@@ -215,7 +215,7 @@ You wreath yourself in a nimbus of black flame. For the duration, any creature t
 
 ## Bleating Call
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *2nd-Circle Arcane and Primordial (Enchantment)*
 
@@ -271,7 +271,7 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 ## Bombardment of Stings
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *2nd-Circle Primordial (Evocation)*
 
@@ -291,7 +291,7 @@ Each creature in a 30-foot cone must make a DEX save. On a failure, a creature t
 
 ## Boulder Toss
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Primordial (Transmutation)*
 
@@ -335,7 +335,7 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 
 ## Call to Action
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Arcane and Divine (Enchantment)*
 
@@ -389,7 +389,7 @@ A flame equivalent in brightness to a torch springs from an object that you touc
 
 ## Corrosive Slime
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane (Conjuration)*
 
@@ -409,7 +409,7 @@ You conjure a pool of corrosive slime that covers a 10-foot square within range 
 
 ## Corrupting Sheath
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *2nd-Circle Arcane and Wyrd (Conjuration)*
 
@@ -427,7 +427,7 @@ Your body is slicked with caustic slime. For the duration, a creature that touch
 
 ## Dampen Elements
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *2nd-Circle Arcane and Primordial (Abjuration)*
 
@@ -485,7 +485,7 @@ You touch a willing creature to grant it the ability to see in nonmagical darkne
 
 ## Deadly Weapon
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane and Divine (Transmutation)*
 
@@ -505,7 +505,7 @@ You touch a weapon. For the duration, the weapon’s wielder scores a critical h
 
 ## Destructive Resonance
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *2nd-Circle Arcane and Wyrd (Enchantment)*
 
@@ -549,7 +549,7 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 ## Discrete Pathing
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane and Wyrd (Enchantment)*
 
@@ -567,7 +567,7 @@ You target a creature within range. The target must succeed on a WIS save or be 
 
 ## Disrupt the Wyrd
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Divine and Wyrd (Abjuration)*
 
@@ -585,7 +585,7 @@ The target rerolls its save, either adding your spellcasting modifier to or subt
 
 ## Dream Lance
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *2nd-Circle Arcane and Wyrd (Enchantment)*
 
@@ -611,7 +611,7 @@ On a failed save, you can choose one of the following additional effects:
 
 ## Earthen Tomb
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Primordial (Evocation)*
 
@@ -631,7 +631,7 @@ You trap a creature in a rapidly hardening tomb of earth and stone. The target m
 
 ## Ectoplasmic Snare
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Wyrd (Conjuration)*
 
@@ -651,7 +651,7 @@ A creature on the Ethereal Plane or using an incorporeal movement trait that ent
 
 ## Eldritch Smite
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Divine and Wyrd (Evocation)*
 
@@ -691,7 +691,7 @@ You can use your action to make a melee spell attack with the elemental blade. O
 
 ## Encase in Ice
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Arcane and Primordial (Conjuration)*
 
@@ -781,7 +781,7 @@ You weave a distracting string of words, causing creatures of your choice that y
 
 ## Eyes of the Raven
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Primordial (Transmutation)*
 
@@ -801,7 +801,7 @@ As an action, you can gain truesight with a range of 30 feet. This lasts until t
 
 ## Feather Guard
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *2nd-Circle Divine (Abjuration)*
 
@@ -823,7 +823,7 @@ While floating, you can take actions as normal, but you can move only by pushing
 
 ## Feline’s Fall
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Primordial (Transmutation)*
 
@@ -843,7 +843,7 @@ With a touch, a willing creature gains protection from falling for the duration.
 
 ## Fillip’s Fumble Fingers
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Wyrd (Necromancy)*
 
@@ -861,7 +861,7 @@ You target a creature within range. It must succeed on a CON save or become unab
 
 ## Fire Rune
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Arcane (Evocation)*
 
@@ -901,7 +901,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 ## Flat Form
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane and Wyrd (Transmutation)*
 
@@ -953,7 +953,7 @@ You touch a corpse or other remains. For the duration, the target is protected f
 
 ## Giantbane
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Primordial (Transmutation)*
 
@@ -971,7 +971,7 @@ You have advantage on attack rolls against large or larger creatures, and your a
 
 ## Giantdodge
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Primordial (Abjuration)*
 
@@ -989,7 +989,7 @@ Increase your walking speed by 20 feet. You gain a +2 bonus to your AC against a
 
 ## Glimpse the Wyrd
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Divine and Wyrd (Divination)*
 
@@ -1007,7 +1007,7 @@ You add or subtract 1d6 from the roll.
 
 ## Glitter Dust
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *2nd-Circle Arcane (Evocation)*
 
@@ -1025,7 +1025,7 @@ You spray a shower of golden glitter from your hands. Each creature in a 15-foot
 
 ## Grasping Earth
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Primordial (Transmutation)*
 
@@ -1069,7 +1069,7 @@ As a bonus action on each of your turns before the spell ends, you can change th
 
 ## Healing Malediction
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *2nd-Circle Primordial and Wyrd (Necromancy)*
 
@@ -1129,7 +1129,7 @@ Choose a Medium or smaller creature that you can see within range. The target mu
 
 ## Ice Glide
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Primordial (Transmutation)*
 
@@ -1145,7 +1145,7 @@ A flat sheet of ice forms beneath your feet. As you move, a sheet of ice forms b
 
 ## Imbue Projectile
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane and Divine (Enchantment)*
 
@@ -1163,7 +1163,7 @@ You touch a weapon with the Thrown property or an improvised weapon you intend t
 
 ## Infectious Skal
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Arcane (Enchantment)*
 
@@ -1183,7 +1183,7 @@ You sing a boisterous drinking song that compels others to stop what they are do
 
 ## Instant Snare
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *2nd-Circle Primordial (Abjuration)*
 
@@ -1207,7 +1207,7 @@ This spell alerts you with a ping in your mind when the trap is triggered if you
 
 ## Inter
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Primordial (Transmutation)*
 
@@ -1267,7 +1267,7 @@ When you cast the spell, a loud knock, audible from as far away as 300 feet, ema
 
 ## Lesser Eyebite
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Wyrd (Transmutation)*
 
@@ -1311,7 +1311,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 ## Lightning Sphere
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Primordial (Conjuration)*
 
@@ -1333,7 +1333,7 @@ When the spell ends, either because your concentration is broken or you decide t
 
 ## Lockjaw
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Primordial and Wyrd (Transmutation)*
 
@@ -1353,7 +1353,7 @@ A creature within range must succeed on a CON save or have its jaw lock in place
 
 ## Luminous Smite
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *2nd-Circle Divine and Wyrd (Evocation)*
 
@@ -1373,7 +1373,7 @@ You cast this spell on a weapon you are wielding. The first time you successfull
 
 ## Maddening Whispers
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *2nd-Circle Arcane and Wyrd (Enchantment)*
 
@@ -1409,7 +1409,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 ## Magnetize
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane and Primordial (Transmutation)*
 
@@ -1431,7 +1431,7 @@ If the item is worn or carried by a creature, you must make an ability check wit
 
 ## Mark Prey
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *2nd-Circle Arcane and Primordial (Divination)*
 
@@ -1451,7 +1451,7 @@ You choose a creature you can see within range as your prey. Until the spell end
 
 ## Melody of Sheltered Rest
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Arcane and Primordial (Abjuration)*
 
@@ -1493,7 +1493,7 @@ A creature’s attacks are unaffected by this spell if the creature can’t see,
 
 ## Misdirect
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *2nd-Circle Arcane and Primordial (Enchantment)*
 
@@ -1560,7 +1560,7 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 ## Murder of Crows
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *2nd-Circle Primordial and Wyrd (Conjuration)*
 
@@ -1582,7 +1582,7 @@ As a bonus action on each of your subsequent turns, you can move the flock up to
 
 ## Nip at the Heels
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *2nd-Circle Arcane (Illusion)*
 
@@ -1602,7 +1602,7 @@ You create an illusory pack of wild dogs that bark and nip at one creature you c
 
 ## Orbital Spheres
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane and Divine (Evocation)*
 
@@ -1624,7 +1624,7 @@ When a creature hits you with a weapon attack, you can use your reaction to inte
 
 ## Pain Wrack
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Wyrd (Necromancy)*
 
@@ -1644,7 +1644,7 @@ A creature within range must succeed on a CON save or feel a twinge of pain. For
 
 ## Paranoid Delusions
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane and Wyrd (Enchantment)*
 
@@ -1678,7 +1678,7 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 ## Perceive Vulnerability
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane, Divine, Primordial, and Wyrd (Divination)*
 
@@ -1718,7 +1718,7 @@ For the duration, the target has advantage on saves against being poisoned, and 
 
 ## Protection from the Void
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *2nd-Circle Arcane (Abjuration)*
 
@@ -1736,7 +1736,7 @@ For the duration, one willing creature you touch has resistance to necrotic or p
 
 ## Psychic Block
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane, Divine, and Wyrd (Enchantment)*
 
@@ -1754,7 +1754,7 @@ You instill a psychic block in a creature’s head to make it lose track of you.
 
 ## Quill Growth
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Primordial (Transmutation)*
 
@@ -1792,7 +1792,7 @@ At the end of each of the target’s turns, it can make a CON save against the s
 
 ## Reassuring Visage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane and Wyrd (Illusion)*
 
@@ -1812,7 +1812,7 @@ No two creatures perceive you the same way while under the effects of this spell
 
 ## Reaver’s Rune
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Arcane and Divine (Evocation)*
 
@@ -1830,7 +1830,7 @@ You touch a melee weapon and place a magical effect into it, creating a visible 
 
 ## Redirect Missile
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane (Abjuration)*
 
@@ -1848,7 +1848,7 @@ When you can see that you are the target of a ranged weapon attack, as a reactio
 
 ## Reinforce Hull
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Arcane, Divine, and Primordial (Abjuration)*
 
@@ -1904,7 +1904,7 @@ Anything inside the extradimensional space falls to the ground when the spell en
 
 ## Rust
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *2nd-Circle Arcane and Primordial (Transmutation)*
 
@@ -1926,7 +1926,7 @@ If the item is a metal weapon being wielded, it takes a permanent, cumulative �
 
 ## Sailor’s Shanty
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Arcane (Enchantment)*
 
@@ -1978,7 +1978,7 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 ## Shadow Flame Crown
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Divine (Evocation)*
 
@@ -2002,7 +2002,7 @@ The spell ends early if the last ember is extinguished.
 
 ## Shadow Guardians
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Divine and Wyrd (Conjuration)*
 
@@ -2090,7 +2090,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 ## Spirit Ward
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Wyrd (Abjuration)*
 
@@ -2130,7 +2130,7 @@ As a bonus action on each of your subsequent turns, you can move the weapon up t
 
 ## Spore Surge
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *2nd-Circle Primordial (Conjuration)*
 
@@ -2150,7 +2150,7 @@ You conjure a streaming spray of magical fungi spores. Each creature in a 30-foo
 
 ## Spy My Shadow
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *2nd-Circle Arcane and Wyrd (Transmutation)*
 
@@ -2170,7 +2170,7 @@ You can spy through your shadow's eyes and ears as if they were your own, but ma
 
 ## Star Bolt
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Divine and Primordial (Evocation)*
 
@@ -2214,7 +2214,7 @@ If you or any of your companions damage the target, the spell ends.
 
 ## Thought Rune
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Arcane or Divine (Evocation)*
 
@@ -2232,7 +2232,7 @@ You place a magical effect into the stone used as the spell’s material compone
 
 ## Thunderburst
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Primordial (Evocation)*
 
@@ -2254,7 +2254,7 @@ In addition, unsecured objects in the area that aren’t being worn or carried a
 
 ## Valkyrie’s Vision
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Divine and Primordial (Divination)*
 
@@ -2274,7 +2274,7 @@ As a bonus action on your turn, you can cause a creature within 30 feet of you t
 
 ## Vengeful Smite
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Divine and Wyrd (Evocation)*
 
@@ -2348,7 +2348,7 @@ You touch a willing Beast or creature with the Animal tag, creating a mystic lin
 
 ## Wotan’s Retribution
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Arcane, Divine, and Wyrd (Conjuration)*
 
@@ -2383,14 +2383,4 @@ You create a magical zone that guards against deception in a 15-foot-radius sphe
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

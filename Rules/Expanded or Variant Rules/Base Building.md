@@ -2,7 +2,7 @@
 aliases: [Bases, Facilities, Personnel, Mysteries]
 publish: true
 ---
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 A base is a location owned and operated by the PCs. It can be the party’s primary residence or one of many properties they routinely visit to rest and regroup. It’s the location they most often return to between adventures and a place ideally suited for performing downtime activities, teambuilding, personal growth, and socializing.
 
@@ -1489,6 +1489,4 @@ To determine the type of cache found, the GM can roll on the **Treasure Cache** 
 | 100 | Family Heirloom |  | One fabled magic item. |
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

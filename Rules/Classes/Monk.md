@@ -358,7 +358,7 @@ Each time you use this feature after the first, the technique cost to use it inc
 
 ## Monk Boons
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the monk class.
 
@@ -392,12 +392,12 @@ Your commitment to the monk’s path grants you a powerful new ability. You gain
 
 ## More Monk Subclasses
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 At 3rd level, monks gain the Monk Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Affliction Eater, Elemental Voice, or Seal Guardian.
 
 ## Affliction Eater
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Some monks realize the careful balance between life and death, and they’ve honed their bodies and minds to ensure the balance tips in their favor. However, they also understand that not every creature can withstand the same rigor of training, and they take mercy on their companions by accepting their allies’ wounds. This heightened appreciation for the sanctity of life extends to their enemies as well.
 
@@ -452,7 +452,7 @@ If using this feature reduces your hit point maximum to 0, you die. Otherwise, t
 
 ## Elemental Voice
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Monks that pursue the way of the Elemental Voice seek to reshape the primordial world around them with their will. These monks often share similarities in manner or dress with their preferred elements—such as the fiery temper of flame, the placid calm of water, the unshakable resolve of earth, or the aloof curiosity of wind.
 
@@ -656,7 +656,7 @@ Elemental words are divided into earth, flame, water, or wind (see Element Speak
 
 ## Seal Guardian
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Seal Guardian monks apply the knowledge they gain from transcribing written works to the creation of magical seals, which they can offer to others for protection or to drive out evil influences in people or an area.
 
@@ -749,13 +749,13 @@ You can spend 1 minute, or spend 5 technique points and require only 1 action, t
 
 ## Labyrinth Monk Subclasses
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 At 3rd level, a monk gains the Monk Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Radiant Dawn.
 
 ## Radiant Dawn
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Monks of the Radiant Dawn learn to kindle and amplify light wherever darkness threatens. To these monks, radiance is a state of being that provides literal and spiritual illumination. Embracing the teachings of the Radiant Dawn means transforming oneself into a beacon that stands against agents of fear and despair.
 
@@ -815,13 +815,13 @@ While you are standing in an area of bright light or sunlight, you can use an ac
 
 ## Book of Blades Monk Subclasses
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 When you choose your monk subclass, the following subclasses from *[[Book of Blades]]* are also available: Equine Soul and Righteous Fist.
 
 ## Equine Soul
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Certain monks learn to enter a state of calm, purposeful action when riding a horse. After intense training and meditation with their equine companion, it is as if the pair’s souls merge and achieve a perfect harmony. The two move and fight together, moving around the battlefield and launching deadly barrages of arrows at their enemies.
 
@@ -898,7 +898,7 @@ You enter a state of perfect calm as you launch a rapid volley of arrows. As a b
 
 ## Righteous Fist
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Monks of the Righteous Fist subclass channel their deep spirituality into energy, dealing devastating strikes infused with holy power. Their deep devotion to a particular religion, spirituality, philosophy, or path empowers them with the will and fortitude to cleanse themselves and others of darkness.
 
@@ -972,10 +972,4 @@ You can summon the light of the sun to push back darkness. As an action, you spe
 When you activate this feature, you can designate any number of creatures within the area, and spend 2 technique points per creature. These creatures automatically succeed on their save.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

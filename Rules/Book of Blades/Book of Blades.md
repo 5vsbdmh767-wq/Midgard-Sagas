@@ -43,4 +43,4 @@ publish: true
 - [[Warframes]]
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

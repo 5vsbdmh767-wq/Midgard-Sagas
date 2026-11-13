@@ -51,7 +51,7 @@ You focused on honing your athletic capabilities. You gain these benefits:
 
 ## Axe Fighter
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Strength 13+, Proficiency with Martial Weapons*
 
@@ -65,7 +65,7 @@ You are practiced at wielding an axe. You gain these benefits:
 
 ## Axe Thrower
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Proficiency with Handaxes*
 
@@ -77,7 +77,7 @@ You are practiced at throwing axes. You gain these benefits:
 
 ## Battle Cry
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You can utter a furious roar. You gain these benefits:
 
@@ -87,7 +87,7 @@ You can utter a furious roar. You gain these benefits:
 
 ## Battle Tactician
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 With your specialized martial training, your presence on the field can shape the fortunes of a battle. Your speech or appearance affects the capabilities of allies or enemies. You learn three tactics from the battle tactics list (see **Battle Tactics** in **Chapter 4**) and gain a pool of points called tactical points.
 
@@ -101,7 +101,7 @@ You can select this talent multiple times. Each time you take it again, you can 
 
 ## Blessing of Eir
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You gain a reserve of vitality, granting you a number of Vitality Points equal to your PB and can spend the points on the benefits below. You regain your expended Vitality Points when you finish a long rest.
 
@@ -111,7 +111,7 @@ You gain a reserve of vitality, granting you a number of Vitality Points equal t
 
 ## Blessing of Skadi
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Wintry terrain emboldens you. You gain these benefits:
 
@@ -121,7 +121,7 @@ Wintry terrain emboldens you. You gain these benefits:
 
 ## Blessing of the Snow Queen
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You have the hardened edge of ice. You gain these benefits:
 
@@ -131,7 +131,7 @@ You have the hardened edge of ice. You gain these benefits:
 
 ## Blood of the Berserker
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You inherited a touch of the ferocity of a berserker ancestor. You gain these benefits:
 
@@ -139,7 +139,7 @@ You inherited a touch of the ferocity of a berserker ancestor. You gain these be
 
 ## Bloodied Resilience
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You display natural toughness when bleeding. You gain these benefits:
 
@@ -149,7 +149,7 @@ You display natural toughness when bleeding. You gain these benefits:
 
 ## Bloody Resolve
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Constitution 13+*
 
@@ -159,7 +159,7 @@ Pain bolsters your resolve. You gain these benefits:
 
 ## Boisterous Roar
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Charisma 13+*
 
@@ -169,7 +169,7 @@ Your voice rallies your allies. You gain these benefits:
 
 ## Brave
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: None*
 
@@ -183,7 +183,7 @@ Your courage knows no bounds, and you gain these benefits:
 
 ## Brazen Courage
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You are difficult to scare. You gain these benefits:
 
@@ -193,7 +193,7 @@ You are difficult to scare. You gain these benefits:
 
 ## Cleaver
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: STR 13 or Higher*
 
@@ -213,7 +213,7 @@ You’ve endured extensive training to withstand the rigors of combat. You gain 
 
 ## Combat Flyting
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Charisma 13+*
 
@@ -233,7 +233,7 @@ You’ve learned to aim for vital points on your targets. You gain these benefit
 
 ## Cut Down the Nithingr
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You are adept at wielding and capitalizing on fear. You gain these benefits.
 
@@ -257,7 +257,7 @@ You’ve learned to press every advantage and hammer into enemies. Each time you
 
 ## Giant Slayer
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Proficiency in martial weapons*
 
@@ -269,7 +269,7 @@ You excel at fighting giants and other large creatures. You gain these benefits:
 
 ## Glima
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You learn Glima, the name for a style of unarmed fighting in the North similar to wrestling.
 
@@ -287,7 +287,7 @@ You mastered techniques that allow you to efficiently fight barehanded. You gain
 
 ## Hard to Kill
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: CON 15 or Higher*
 
@@ -307,7 +307,7 @@ You have great skill with two-handed weapons. While wielding a melee weapon with
 
 ## Heroic Rush
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You feel a boost when you triumph in combat. You gain these benefits:
 
@@ -317,7 +317,7 @@ You feel a boost when you triumph in combat. You gain these benefits:
 
 ## Holmganga Master
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Character 4th Level*
 
@@ -329,7 +329,7 @@ Your experience in dueling gives you these benefits:
 
 ## Hurler
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Character 4th Level or Higher*
 
@@ -345,7 +345,7 @@ Your skill with thrown weapons knows few equals, and you gain these benefits:
 
 ## Juggernaut
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: STR 15 or Higher*
 
@@ -359,7 +359,7 @@ You’ve learned martial techniques that improve your ability to make and resist
 
 ## Lacerating Slash
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 You’ve learned to inflict lingering wounds to your targets. You gain these benefits:
 
@@ -369,7 +369,7 @@ You’ve learned to inflict lingering wounds to your targets. You gain these ben
 
 ## Long Haft Strike
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You make the most of your reach weapons. You gain these benefits:
 
@@ -379,7 +379,7 @@ You make the most of your reach weapons. You gain these benefits:
 
 ## Mounted Leap
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: STR or DEX 13+, Proficiency in Animal Handling*
 
@@ -409,7 +409,7 @@ You’ve fortified yourself against physically debilitating effects. You gain th
 
 ## Poisoner
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Through excessive exposure to poison, and practice with its use, you are an expert in this use of poison during combat. You gain these benefits:
 
@@ -419,7 +419,7 @@ Through excessive exposure to poison, and practice with its use, you are an expe
 
 ## Polearm Mastery
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Character 4th Level or Higher*
 
@@ -427,7 +427,7 @@ You’ve mastered the use of polearms, putting their extended reach to maximum a
 
 ## Preternaturalist
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Prerequisite: Proficiency with One or More Martial Weapons*
 
@@ -439,7 +439,7 @@ You can select this talent multiple times, choosing a different set of monster t
 
 ## Raider’s Rush
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Your movement toward an ally propels your strike. You gain these benefits:
 
@@ -447,7 +447,7 @@ Your movement toward an ally propels your strike. You gain these benefits:
 
 ## Rallying Call
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 You have mastered the knack of inspiring your companions to greater heroism. Once per short or long rest, as a bonus action, you can yell a battle cry and give yourself, and all friendly creatures that can hear you within 30 feet, these benefits:
 
@@ -473,7 +473,7 @@ You are skilled at suppressing long-ranged foes in combat. When a creature you c
 
 ## Savage Predator
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 You’ve studied and honed your martial skills to be especially potent against a particular kind of monster. Choose one creature type from the following: Aberrations, Fey, Fiends, Monstrosities, Oozes, or Undead. You gain the following benefits against creatures of that type:
 
@@ -485,7 +485,7 @@ You can select this talent multiple times, choosing a different creature type ea
 
 ## Savagery
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You become heedless in your desire to lay waste to your foe. You gain these benefits:
 
@@ -493,7 +493,7 @@ You become heedless in your desire to lay waste to your foe. You gain these bene
 
 ## Self Defense
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Character 4th Level or Higher*
 
@@ -513,7 +513,7 @@ You can wield a shield as an extension of your own body. While wielding a shield
 
 ## Shield Wall
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Proficient with shields*
 
@@ -525,7 +525,7 @@ You’ve learned new techniques for using a shield. You gain these benefits:
 
 ## Situational Awareness
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: None*
 
@@ -537,7 +537,7 @@ Your knowledge of tactics allows you to know the precise time to strike, and you
 
 ## Skirmisher
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You excel at moving around the battlefield. You gain these benefits:
 
@@ -547,7 +547,7 @@ You excel at moving around the battlefield. You gain these benefits:
 
 ## Spear Expert
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Strength or Dexterity 13+, Proficiency with the Spear*
 
@@ -573,7 +573,7 @@ You have a penchant for overpowering even skilled spellcasters. You gain these b
 
 ## Staggering Strikes
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: STR 15 or Higher*
 
@@ -581,7 +581,7 @@ Your blows are so powerful that they leave enemies temporarily discombobulated. 
 
 ## Stunning Sniper
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Prerequisite: Proficiency with at Least One Ranged Weapon*
 
@@ -595,7 +595,7 @@ You can select this talent multiple times, selecting a different weapon each tim
 
 ## Surtr’s Touch
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You bear the blessing of the fire giant. You gain these benefits:
 
@@ -605,7 +605,7 @@ You bear the blessing of the fire giant. You gain these benefits:
 
 ## Swift Reflexes
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Your reflexes are lightning fast, allowing you to find an opportunity where others cannot and granting you the following benefits:
 
@@ -617,7 +617,7 @@ Your reflexes are lightning fast, allowing you to find an opportunity where othe
 
 ## Tactical Planning
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 *Prerequisite: Proficiency in History, Character of 4th Level or Higher*
 
@@ -631,7 +631,7 @@ You have studied famous historical leaders and their great battles, learning wha
 
 ## Tactical Teamwork
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Character 4th Level or Higher*
 
@@ -639,7 +639,7 @@ Your keen, tactical mind allows you to choose battlefield positions where you ca
 
 ## Tag Team
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: None*
 
@@ -647,7 +647,7 @@ You’ve learned to convert your missed blows into tactical advantages. Designat
 
 ## Two Weapon Defense
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: None*
 
@@ -673,7 +673,7 @@ You have mastered the art of wielding two weapons simultaneously. While wielding
 
 ## Unarmed Maneuvers
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 *Prerequisite: The Martial Arts Class Ability or the Hand to Hand Talent*
 
@@ -691,7 +691,7 @@ Your training as an unarmed combatant grants access to the following special man
 
 ## Underfoot
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You can maneuver around giant-sized creatures. You gain these benefits:
 
@@ -709,7 +709,7 @@ You trained in capitalizing on every opening and stopping enemies in their track
 
 ## Void Strike
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Prerequisite: Character 4th Level or Higher*
 
@@ -721,7 +721,7 @@ Your experience with the forces from beyond allows you to imbue your attacks wit
 
 ## War Dancer
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 *Prerequisite: DEX 13 or Higher*
 
@@ -747,7 +747,7 @@ You seek perfection with a single weapon. Choose a simple or martial weapon (suc
 
 ## Weapon Option Specialist
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 You specialize in performing a specific weapon option. Choose one weapon option and gain these benefits when using it:
 
@@ -757,7 +757,7 @@ You specialize in performing a specific weapon option. Choose one weapon option 
 
 ## Whip Expert
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Proficiency with Whip*
 
@@ -782,16 +782,4 @@ You excel in close-quarters combat. You gain these benefits:
 - As an action, you can attempt to twist a creature you are grappling into a dangerous position. Make a STR (Athletics) check contested by the grappled target’s STR (Athletics) or DEX (Acrobatics) check. If you succeed, the target is restrained until the grapple ends.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

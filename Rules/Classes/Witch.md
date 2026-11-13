@@ -1,8 +1,7 @@
 ---
 publish: true
 ---
-> [!note] Optional Class
-> Optional, from [[Player's Guide 2]]. Ask your GM before playing a witch.
+%% source: Player's Guide 2 %%
 
 Witches are spellcasters who wield knowledge and power drawn from their communion with spirits. They cultivate their bond to these supernatural entities, becoming guardians of the veil between worlds, attendants of deep knowledge, and liaisons to realms of limitless possibilities.
 
@@ -581,13 +580,13 @@ As an action, you can call nearby spirits to manifest and lend you their power f
 
 ## Night Hunters Witch Subclasses
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 At 3rd level, a witch gains the Witch Subclass feature. The following subclass from *Night Hunters* is also available when making that choice: Eternal Ember.
 
 ## Eternal Ember
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Witches aligned with the coven of the Eternal Ember draw strength from flame, honoring its life-giving properties as well as its destructive potential. Such witches view the warmth within all living things as a sacred compact with the universe, a philosophy that drives these individuals to hunt undead and other creatures of shadow in an effort to purify the sanctity of life.
 
@@ -667,8 +666,4 @@ You unveil the fiery might within your soul, burning away your corporeal facade 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

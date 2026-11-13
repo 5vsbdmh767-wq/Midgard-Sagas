@@ -2,7 +2,7 @@
 aliases: [Character Thread, Bloodsworn, Cursemarked, Fatebound, Legend Hunter, Sworn Huskarl]
 publish: true
 ---
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Normally, backgrounds reflect a character’s training before they became adventurers and provide various bonuses, such as skills, proficiencies, and equipment. For many characters, a background remains an element of their past. It occasionally impacts a campaign, but it mostly serves an important function as roleplaying fodder and thematic color. For example, a character might sometimes use their nobility as an adventurer, but this background doesn’t change or grow.
 
@@ -472,4 +472,4 @@ When you achieve this level of milestone, you gain the following benefit.
 ***Grand Reward.*** The completion of this milestone earns you a powerful reward. Work with your GM to determine an appropriate very rare magic item, such as one of the following: *[[Magic Weapons#Weapon, +1, +2, or +3|+3 weapon]]*, *[[Magic Weapons#Dancing Sword|dancing sword]]*, *[[Magic Weapons#Oathbow|oathbow]]*, *[[Rods, Staffs & Wands#Staff of Thunder and Lightning|staff of thunder and lightning]]*, or *[[Wondrous Items A–L#Horn of the Hrimthursar|horn of the Hrimthursalr]]*.
 
 ---
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Sources: [[Credits]].</small>

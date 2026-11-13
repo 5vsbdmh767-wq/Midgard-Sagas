@@ -3,7 +3,7 @@ publish: true
 ---
 ## Jarlpact Rings
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Long ago, a set of rings was crafted to help cement a truce between warring tribes of giants. Four rival giant jarls met to don their rings in a show of peace. However, the truce lasted only until the celebratory feast, when the drunken jarls started a brawl that became a bloody combat. The rings shattered along with the peace, but fragments of the original artifacts shaped themselves into smaller versions of the rings and scattered across the [[Northlands]].
 
@@ -58,7 +58,7 @@ While you wear this ring, difficult terrain doesn’t cost you extra movement. I
 
 ## Ring of Hospitality
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Ring, Common 25 gp*
 
@@ -66,7 +66,7 @@ This ring is fashioned to show two hands shaking in greeting. While wearing this
 
 ## Ring of Ice-Shielding
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Ring, Rare 4,400 gp (Requires attunement)*
 
@@ -112,7 +112,7 @@ You gain a +1 bonus to AC and saves while wearing this ring.
 
 ## Ring of Reduction
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Ring, Rare 4,000 gp*
 
@@ -193,7 +193,7 @@ While wearing this ring, you have advantage on saves against any spell that targ
 
 ## Ring of Surtr
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Ring, Uncommon 1,000 gp*
 
@@ -213,7 +213,7 @@ While wearing this ring, you can cast the *[[5th-Circle Spells#Telekinesis|telek
 
 ## Ring of the Cragtop Jarl
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Ring, Very Rare 33,000 gp (Requires attunement)*
 
@@ -231,7 +231,7 @@ Finally, it has the following property.
 
 ## Ring of the Diving Bird
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Ring, Uncommon 1,000 gp*
 
@@ -239,7 +239,7 @@ While wearing this ring, you have a swimming speed equal to any flying speed you
 
 ## Ring of the Forgefire Jarl
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Ring, Very Rare 33,000 gp (Requires attunement)*
 
@@ -257,7 +257,7 @@ Finally, it has the following property.
 
 ## Ring of the Glacial Jarl
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Ring, Very Rare 33,000 gp (Requires attunement)*
 
@@ -283,7 +283,7 @@ This ring has 3 charges and regains 1d3 expended charges daily at dawn. While we
 
 ## Ring of the Tempest Jarl
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Ring, Legendary 55,000 gp (Requires attunement)*
 
@@ -327,7 +327,7 @@ When you use the ring again before taking a long rest, you must succeed on a DC 
 
 ## Voidwalker
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Ring, Legendary (Requires Attunement) Priceless*
 
@@ -346,10 +346,4 @@ While wearing *Voidwalker*, you gain the benefits of a *ring* *of free action* a
 ***Personality.*** *Voidwalker* is an obsequious thing that takes great pains to cater to the desires of its wearer. It comports itself as an advisor, majordomo, or other high-ranking servant. In truth, its purpose is to return to the Void and to take a mortal “master” with it. Conflict arises if its wearer tries to seal a breach or gateway into the Void or to discard the ring. The ring is clever and knows that most mortals want nothing to do with the Void directly. It also knows that most of the creatures with strength enough to claim it will end up in dire straits sooner or later. It doesn’t overplay its hand trying to push a master to take a plunge into the depths of the Void, but instead makes itself as indispensable as possible. It provides counsel and protection, all the while subtly pushing its master to take greater and greater risks. Once it has maneuvered its wearer into a position of desperation, generally on the brink of death, *Voidwalker* offers a way out. If the master accepts, it opens a gate into the Void, most likely sealing the wearer’s doom.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

@@ -34,8 +34,6 @@ Volund and [[Rava]] have always been friendly rivals, and he is on excellent ter
 ==**What Volund Demands**==
 Craft great works in his name, and bend stone, metal, and fire to your will. [[Humans]] add mastery of riding to his demands. His priests and many of his worshipers marry young, a sacred act that builds a family and forges links with the community. They make pilgrimages to his shrines far and wide, above all his hammer shrine in the Free Cantons and his anvil shrine in the North, bringing raw materials or tools to donate, and they must add something, however small, that they made themselves to every temple they visit.
 
-
-
 ==**In the North**==
 In the [[Northlands]] he is also the Spear-Shaker and Mage-Smith, Patron of Reavers and Smiths, and his favored weapons are the hammer (any kind) and, among dwarves, the battleaxe. See [[Gods of the North]].
 

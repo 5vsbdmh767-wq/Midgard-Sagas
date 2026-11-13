@@ -3,7 +3,7 @@ publish: true
 ---
 ## Ancestral Whispers
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *4th-Circle Primordial and Wyrd Ritual (Divination)*
 
@@ -45,7 +45,7 @@ The awakened Beast or Plant is charmed by you for 30 days or until you or your c
 
 ## Battle Blessing
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Divine Ritual (Enchantment)*
 
@@ -77,7 +77,7 @@ You confer divine blessings on a group of creatures, preparing them for the batt
 
 ## Binding Oath
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Circle Arcane and Divine Ritual (Necromancy)*
 
@@ -121,7 +121,7 @@ If you cast this spell a second time while the first magical flower is still act
 
 ## Chromatic Halo
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Arcane Ritual (Evocation)*
 
@@ -167,7 +167,7 @@ You instantly know up to three facts of your choice about any of the following s
 
 ## Conjure Forest Defender
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *6th-Circle Primordial and Wyrd Ritual (Conjuration)*
 
@@ -305,7 +305,7 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 ## Dread Echoes
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Circle Wyrd Ritual (Abjuration)*
 
@@ -351,7 +351,7 @@ Once you cast this spell, you can’t do so again until you complete a long rest
 
 ## Earthsail
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Arcane and Primordial Ritual (Transmutation)*
 
@@ -411,7 +411,7 @@ For the duration, as long as you are on the same plane of existence as the desti
 
 ## Fog of Sleep
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *4th-Circle Primordial and Wyrd Ritual (Conjuration)*
 
@@ -473,7 +473,7 @@ You can end the spell early by using an action to dismiss it. A *remove curse, g
 
 ## Guardian Shield
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Arcane or Divine Ritual (Transmutation)*
 
@@ -589,7 +589,7 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 ## Hell Wagon
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Divine Ritual (Conjuration)*
 
@@ -615,7 +615,7 @@ The war wagon vanishes if it is reduced to 0 HP. Riders appear in an unoccupied 
 
 ## Hellfire Plating
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Divine Ritual (Conjuration)*
 
@@ -659,7 +659,7 @@ You must complete a long rest before you can cast this spell again.
 
 ## Hidden Path
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Arcane and Wyrd Ritual (Conjuration)*
 
@@ -687,7 +687,7 @@ If you cast this ritual every 24 hours for 100 consecutive days, the path become
 
 ## Hunting Stand
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *4th-Circle Primordial Ritual (Conjuration)*
 
@@ -705,7 +705,7 @@ You make a camouflaged shelter nestled in the branches of a tree or among a coll
 
 ## Infernal Command
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Divine Ritual (Divination)*
 
@@ -751,7 +751,7 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 
 ## Killing Fields
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *5th-Circle Primordial Ritual (Transmutation)*
 
@@ -781,7 +781,7 @@ You can create a permanent killing field by casting this spell in the same locat
 
 ## Looping Trail
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *4th-Circle Arcane and Primordial Ritual (Transmutation)*
 
@@ -829,7 +829,7 @@ When the spell ends, the container is destroyed.
 
 ## Nondetection Henge
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *5th-Circle Primordial and Wyrd Ritual (Abjuration)*
 
@@ -849,7 +849,7 @@ When you create the henge, choose one or more of the following creature types: C
 
 ## Pack Bond
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Primordial Ritual (Transmutation)*
 
@@ -875,7 +875,7 @@ You create a bond among all willing, participating creatures within range. Each 
 
 ## Personal Time Fold
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Circle Wyrd Ritual (Transmutation)*
 
@@ -895,7 +895,7 @@ When the spell ends, the demiplane disappears and you reappear in the same place
 
 ## Phantom Chariot
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Circle Arcane and Wyrd Ritual (Illusion)*
 
@@ -959,7 +959,7 @@ A bound creature must follow your instructions to the best of its ability. You m
 
 ## Portentous Dreams
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Divine and Wyrd Ritual (Divination)*
 
@@ -1070,7 +1070,7 @@ The reincarnated creature recalls its former life and experiences. It retains th
 
 ## Restore Item
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Arcane Ritual (Evocation)*
 
@@ -1090,7 +1090,7 @@ You draw magical energy through yourself as a conduit to recharge a magic item. 
 
 ## Rune Tattoo
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Wyrd Ritual (Transmutation)*
 
@@ -1112,7 +1112,7 @@ When the condition you specify occurs, the spell is cast. If the spell’s range
 
 ## Scarification
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Circle Divine and Primordial Ritual (Transmutation)*
 
@@ -1212,7 +1212,7 @@ Once you cast this spell, you can’t do so again until you complete a long rest
 
 ## Spirit Beast Elixir
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *5th-Circle Primordial Ritual (Conjuration)*
 
@@ -1239,7 +1239,7 @@ You conjure a brimming clay jug of potent elixir—a mystical concoction brewed 
 
 ## Sun Rune
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *6th-Circle Arcane, Divine, and Primordial Ritual (Evocation)*
 
@@ -1285,7 +1285,7 @@ You can create a permanent *[[#Teleportation Circle|teleportation circle]]* by c
 
 ## Ward Dwelling
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *6th-Circle Divine (Abjuration)*
 
@@ -1304,14 +1304,4 @@ You invoke a blessing upon a building, placing divine protection upon it, those 
 All protected creatures are under the effects of a *protection* *from evil and good* spell (see *Player’s Guide*) while within the building. If a protected creature receives benefit of healing magic, roll twice for effects and use the higher roll to determine the number of hit points regained.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

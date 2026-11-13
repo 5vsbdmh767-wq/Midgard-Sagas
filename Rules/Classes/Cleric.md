@@ -468,7 +468,7 @@ Once per turn, when you successfully hit a creature with a weapon or spell attac
 
 ## Cleric Boons
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the cleric class.
 
@@ -502,12 +502,12 @@ Your commitment to the cleric’s path grants you a powerful new ability. You ga
 
 ## More Cleric Subclasses
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 At 3rd level, clerics gain the Cleric Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Death, Nature, or Tempest.
 
 ## Death Domain
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Gods of the Death domain govern death and the afterlife, exemplifying the inevitability and mystery of the beyond. Devotees of this domain bring peace to the bereaved, defend those who are not yet marked to die, and punish those who try to pervert or escape death.
 
@@ -581,7 +581,7 @@ In addition, a creature killed while marked with the Foresee Doom effect of your
 
 ## Nature Domain
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Gods of the Nature domain protect and govern the overgrown wilds and fertile lands. Dogmatic followers of this domain are entrusted with the safety and prosperity of wildlife and plant life, and they possess a constant need for the wilds to be maintained despite civilization’s encroachment. Such dogmas reject tyrants, unnatural monstrosities, and unmanaged consumption of the natural world.
 
@@ -665,7 +665,7 @@ If the creature remains charmed by you for the full duration, it can’t be host
 
 ## Tempest Domain
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Gods of the Tempest domain embody the awesome destructive power of storms, earthquakes, wildfires, and similar natural disasters. Clerics of this domain are often as ferocious as the gods they worship, regarded as fearsome warriors capable of raining divine wrath down on the unjust or unworthy.
 
@@ -743,13 +743,13 @@ You can use this feature a number of times equal to your PB, and you regain expe
 
 ## Old Margreve Cleric Subclasses
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 At 3rd level, a cleric gains the Cleric Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Hunt.
 
 ## Hunt
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Many terrible creatures prey on the villages, towns, and inns that dot the forests of Midgard. When such creatures become particularly aggressive or can't be dissuaded by local druids, the settlements often call on servants of gods of the hunt to solve the problem.
 
@@ -821,13 +821,13 @@ Choose a creature you can see within 120 feet of you. For 24 hours or until the 
 
 ## Labyrinth Cleric Subclasses
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 At 3rd level, a cleric gains the Cleric Subclass feature. The following subclasses from the Labyrinth are also available when making that choice: Crafting Domain, Knowledge Domain, or Trickery Domain.
 
 ## Crafting Domain
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Gods of the Crafting domain embody creativity, invention, and all the various disciplines of making. Devotees of this domain are often working artisans who devote their lives to the creation of beautiful works, serving communities, or discovering new ways to utilize the raw building blocks of existence.
 
@@ -859,8 +859,6 @@ If these additional spells include a ritual spell, that spell is added to your a
 | 5th | *[[3rd-Circle Spells#Column of Cogs\|column of cogs]]*, *[[Rituals 1st–3rd Circle#Tiny Hut\|tiny hut]]* |
 | 7th | *[[Rituals 4th–6th Circle#Fabricate\|fabricate]]*, *[[4th-Circle Spells#Stone Shape\|stone shape]]* |
 | 9th | *[[5th-Circle Spells#Animate Objects\|animate objects]]*, *[[5th-Circle Spells#Create Construct\|create construct]]* |
-
-
 
 ### Channel Divinity
 
@@ -945,10 +943,9 @@ You can use this feature a number of times equal to your PB and you recover expe
 
 ## Knowledge Domain
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Gods of the Knowledge domain observe and guide the fundamental nature of creation, peering into vast potentialities and doting on those who seek understanding beyond the mortal norm. Adherents of this domain are compelled to seek out the unknown, educate the unaware, and preserve all forms of knowledge and enlightenment.
-
 
 **Knowledge Domain Progression**
 
@@ -993,7 +990,6 @@ If these additional spells include a ritual spell, that spell is added to your a
 | 7th | *[[4th-Circle Spells#Arcane Eye\|arcane eye]]*, *[[4th-Circle Spells#Phantasmal Killer\|phantasmal killer]]* |
 | 9th | *[[5th-Circle Spells#Legend Lore\|legend lore]]*, *[[5th-Circle Spells#Telepathic Bond\|telepathic bond]]* |
 
-
 ### Keen Warfare
 
 *7th-Level Knowledge Feature*
@@ -1028,7 +1024,7 @@ You can use your Divine Intervention feature to perfectly recall any information
 
 ## Trickery Domain
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Gods of the Trickery Domain are known to beguile, manipulate, and distract their flock as often as their enemies. Adherents of this domain are encouraged to take what they wish, cause mischief where possible, and gather secrets to share among their congregation—for information is power when used properly.
 
@@ -1078,7 +1074,6 @@ If these additional spells include a ritual spell, that spell is added to your a
 | 7th | *[[4th-Circle Spells#Confusion\|confusion]]*, *[[4th-Circle Spells#Greater Invisibility\|greater invisibility]]* |
 | 9th | *animate object*, *[[5th-Circle Spells#Mislead\|mislead]]* |
 
-
 ### Beguiling Illusions
 
 *7th-Level Trickery Feature*
@@ -1107,13 +1102,13 @@ You can cast *[[2nd-Circle Spells#Invisibility|invisibility]]* without expending
 
 ## Northlands Cleric Subclasses
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 At 3rd level, a cleric gains the Cleric Subclass feature. The following subclass from the [[Northlands]] is also available when making that choice: Nornbound Domain.
 
 ## Nornbound Domain
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 The Nornbound domain pays homage to the [[The Norns|Norns]] and in return is granted the ability to see and manipulate the threads of mortals’ fates. This power, seen as tampering to some, can help or hinder the outcome of actions taken by the cleric’s targets. While the Nornbound offer prayers to the other gods, the Norns are the guiding light to whom they have pledged their service.
 
@@ -1185,13 +1180,13 @@ When you cast a divination spell that affects or involves one or more targets, y
 
 ## Night Hunters Cleric Subclasses
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 At 3rd level, a cleric gains the Cleric Subclass feature. The following subclass from *Night Hunters* is also available when making that choice: Cursebreaker.
 
 ## Cursebreaker
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Cursebreaker clerics are found in the ranks of every holy order, regardless of the gods they worship or the domains those gods are associated with. Rather than embodying the power of a single domain, they dedicate themselves to the dissolution of all insidious energies that threaten their allies.
 
@@ -1275,14 +1270,4 @@ Your ongoing spell effects imbue additional hindrances or protections upon their
 - **Protect.** While an ally has an ongoing magical effect created by one of your spells (such as *[[1st-Circle Spells#Bless|bless]]* or *[[4th-Circle Spells#Death Ward|death ward]]*), they also gain all the benefits granted by the *[[1st-Circle Spells#Protection from Evil and Good|protection from evil and good]]* spell.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

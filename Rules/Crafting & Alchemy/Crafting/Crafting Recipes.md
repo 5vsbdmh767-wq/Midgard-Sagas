@@ -6,7 +6,6 @@ tags: [crafting, recipes, weapons, armor, tools, equipment]
 publish: true
 ---
 
-
 > Items marked with `*` are new items from the Magic Item Compendium (Ch. 7).
 > Unless noted, all items are nonmagical. Magical items (+1/+2/+3) are listed separately.
 

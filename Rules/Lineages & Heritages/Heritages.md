@@ -259,7 +259,7 @@ Heritage represents the upbringing and culture of a character. It’s what your 
 
 ## Languages (Player's Guide 2)
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 Your heritage includes how many languages you know. By default, all PCs know the Common language and one other language, but some heritages and backgrounds allow more. This section includes updated versions of the **Standard Languages** and **Esoteric Languages** tables found in the *Player’s Guide* that note the most typical languages spoken by the new lineages covered in this chapter.
 
 *Standard Languages*
@@ -277,7 +277,7 @@ Your heritage includes how many languages you know. By default, all PCs know the
 
 ### Esoteric Languages
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 This section provides more information about the esoteric language options available to PCs. Before selecting an esoteric language during character creation, make sure to approve your choice with your GM.
 
@@ -303,7 +303,7 @@ This section provides more information about the esoteric language options avail
 
 ## Heritage Options (Player's Guide 2)
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 This section contains descriptions of additional heritage options available during character creation.
 
 If you’re not sure what to choose or want a character that reflects archetypes typical for a high-fantasy setting, choose a recommended heritage listed on the **Common Heritages by Lineage** table. For instance, if you want to play a typical goblin, then you might select the conflicted or salvager heritage.
@@ -329,7 +329,7 @@ If you’re not sure what to choose or want a character that reflects archetypes
 
 ### Conflicted Heritage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Characters from this heritage were raised in a society divided by persistent internal disagreements, revolution, or rebellion. Factions within a conflicted community are in direct, often violent opposition to their neighbors. The role or status an individual holds within the community is defined by which “side” of the conflict they find themselves on—whether that choice is made intentionally or for them. While the conflict forms a large part of political maneuvering and daily discussion in such societies, many within them have no direct stake in the outcome. Their lives center mainly around surviving the vicious cycle of escalation and retaliation.
 
@@ -343,7 +343,7 @@ For those who come of age in such communities, safety is a priority. They learn 
 
 ### Coterminous Heritage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Coterminous heritage characters come from communities built atop nodes of primordial power, where the Material Plane intersects with the [[Elemental Plane of Air]], Earth, Fire, or Water. This proximity shaped the community to adapt to the elemental forces that dominate their existence.
 
@@ -372,7 +372,7 @@ All manner of crime accumulates around these communities, from banditry to sophi
 
 ### Covenant Heritage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Those with a covenant heritage come from communities that view magic as a gift from the universe, greater than any god, border, or rule of law. Covenant communities commit to the practice of spellcasting, to the exclusion of other pursuits.
 
@@ -390,7 +390,7 @@ These communities are ruled by the most skilled or strongest practitioners, usua
 
 ### Feysworn Heritage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Feysworn heritage characters come from communities under the dominion of one of the great fey lords and ladies. They might be descended from the fairfolk or partially fey themselves, committed to tending to the needs of their community.
 
@@ -408,7 +408,7 @@ Feysworn community characters often choose to adventure because of their relatio
 
 ### Hivebound Heritage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Hivebound heritage members were raised in a community of individuals linked in some way to function as a whole, similar to the way bees function within a hive or ants within a colony.
 
@@ -426,7 +426,7 @@ Individuals who leave the hive in pursuit of adventure don’t do so lightly, an
 
 ### Ironwrought Heritage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Characters from this heritage were raised in a community populated by gearforged or similar constructed individuals who possess sentience and free will.
 
@@ -444,7 +444,7 @@ Ironwrought communities believe that there is no metaphysical difference between
 
 ### Islander Heritage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Islander heritage characters were raised on one of many small islands clustered together, far from the resources or safety provided by the mainland. Islander communities on archipelagos scattered across a broad area must work with peoples from neighboring islands or with sea dwellers to survive and thrive.
 
@@ -460,7 +460,7 @@ Given the frequent trade and exchange between the islands, many such islanders a
 
 ### Joymonger Heritage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Joymonger communities are in the business of selling happiness. Generally situated around an attraction or notable destination, they are primarily made up of the workers and performers who keep the attraction running, along with their families and those who live in the immediate vicinity.
 
@@ -476,7 +476,7 @@ Joymonger communities attract a range of personalities and professions, from per
 
 ### Kithren Heritage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Kithren communities dedicate themselves to the service and support of those in need. Sometimes kithren limit themselves to a subset of people in need, such as members of a particular lineage, nation, or faith community, but those most committed to their purpose stretch their inclusion group liberally.
 
@@ -492,7 +492,7 @@ Through their work, those of kithren heritage gain a wide knowledge of survival 
 
 ### Seafarer Heritage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Characters with the seafarer heritage were raised on a flotilla of ships that travel together across wide expanses of open water. Usually composed of a mix of fast-moving scout ships, floating sea farms, fishing trawlers, and large cruisers, some sea caravans have a specific destination, but most are content to live on the water, trading for supplies and ferrying passengers as they make their way from one side of the world to another. They are often the only ships willing to travel through truly treacherous weather, preferring even choppy waves to the shore, and the trade and news they bring makes them well-loved. They are usually left alone, even by pirates.
 
@@ -506,7 +506,7 @@ Along their journey, seafarer ships shift their formations to respond to the con
 
 ### Waterside Heritage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Waterside heritage characters come from communities that live at the edges of bodies of water, such as rivers, lakes, swamps, or the sea. Because of their proximity, these characters split their time between these two worlds, navigating their co-existence with skill.
 
@@ -522,7 +522,7 @@ Living right on the water puts waterside communities close to nature. Some even 
 
 ## More Heritages (Tales of the Old Margreve)
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 This section features four new heritages that represent some of the cultures found within the [[The Margreve|Margreve Forest]]. Heritage represents the upbringing and culture of a character. It's what your family, community, or other formative authority figures taught you.
 
@@ -551,7 +551,7 @@ Any lineage can work with any heritage, but some lineages go more naturally with
 
 ### Delver Heritage
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Delver heritage characters are raised in underground communities that fill networks of burrows and warrens. You grew up in a tight-knit community made up of a collection of large families, typically of erina, kobolds, or rabbit-like beastfolk.
 
@@ -569,7 +569,7 @@ Most delver communities are scroungers and gatherers, growing some root vegetabl
 
 ### Forest Bastion Heritage
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Forest bastion heritage characters are raised in communities on the edges of forests, where civilization meets the wild.
 
@@ -587,7 +587,7 @@ Forest bastion heritage communities are often led by a tripartite council: a may
 
 ### Hiveheim Heritage
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Characters from the hiveheim heritage were raised in bearfolk communities focused on bees and bee hives. You grew up enjoying the bounties of nature which provided you with homely comforts.
 
@@ -601,7 +601,7 @@ Hiveheim communities make use of bee hives as a major part of their defenses, an
 
 ### Moonlit Heritage
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Moonlit heritage characters have a supernatural charge to purify the places and people touched by the influence of the [[The Shadow Realm|Shadow Realm]]. You were raised in an area on the edge of the Shadow Realm or influenced by the Shadow Realm, such as the [[Moonlit Glades]] or the [[Western Margreve]]. Your culture is dedicated to fighting back the Shadow Realm's corruption and allowing purifying moonlight to find purchase there.
 
@@ -615,7 +615,7 @@ While the bearfolk created the first moonlit enclaves against shadow, these encl
 
 ### Old Ways Heritage
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Old Ways heritage characters come from hidden or insular communities far from the more populated regions of the world and where the most ancient trees are as respected as the village's elders. The community follows a very strict set of naming conventions that honors the oldest tree standing within five miles of the community. If that tree dies, the community's name is changed to include the next oldest. In this way, your community's name may be the same for centuries then go through a period of frequent change. These names are treated reverently by your community, and swearing an oath on the tree's name feels as binding to you as any magical contract.
 
@@ -633,7 +633,7 @@ Your people follow an unspoken series of social contracts which outsiders refer 
 
 ## More Heritages (Labyrinth Worldbook)
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 This section contains descriptions of additional heritage options available to characters in [[The Labyrinth|Labyrinth]] campaigns.
 
@@ -643,7 +643,7 @@ Heritage options marked with an asterisk (*) are described in the *Player’s Gu
 
 ### Boatwright Heritage
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Traveling folk who ferry people up and down the [[The Ever River|River Styx]], Boatwright-heritage characters have been transformed in some way by being dipped into the black waters of the Styx by their ankles soon after they were born. Their skin typically hardens and takes on a silver, blue, or orange-tinged hue, reminiscent of fish scales. Elders within boatwright communities may even develop gills, webbed hands, or similar characteristics due to prolonged exposure to the water. [[Minor Wayfaring Groups|Boatwrights]] usually prefer to hide these characteristics beneath long-sleeved and hooded robes— which only adds to their curious reputation.
 
@@ -668,10 +668,9 @@ Most members of the Boatwrights follow the river god [[Charun]] (see **Chapter 6
 | Star Elf | Exalted |
 | Syderean (Spellborn) | Boatwright, Exalted, Stygian |
 
-
 ### Exalted Heritage
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Exalted heritage characters come from communities located in the Celestial Realms. These unique settlements are pockets of mortal life in worlds overflowing with Divine magical energy and populated by Celestial beings like angels.
 
@@ -687,7 +686,7 @@ Many, including your own people, consider you blessed to be reared among the per
 
 ### Fallen Heritage
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Fallen heritage characters are the last survivors (or the survivors’ descendants) of a place that has been destroyed. This could be a section of the Labyrinth that has collapsed into ruin, a kingdom that was destroyed by a mage war or other cataclysmic event, or a dead world that has succumbed to the Void.
 
@@ -705,7 +704,7 @@ The ordeals endured by fallen characters mean many have darkness in their hearts
 
 ### Maze-Born Heritage
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Maze-born characters were born and raised in one of the hidden communities within the tunnels and caverns of the Labyrinth. This settlement could be the [[The Smithy|Great Hub]] of the Smithy, a smaller town such as Pindelsburg or Silber Stad, or part of the Moonlit Kingdom of the minotaurs. Your upbringing has given you an understanding of how the Labyrinth functions, and you are used to traversing its many pathways.
 
@@ -721,7 +720,7 @@ Creatures who live and grow up in the Great Maze are constantly exposed to visit
 
 ### Messenger Heritage
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Born and raised among the leaves and branches of [[Yggdrasil]], messenger heritage characters are primarily beastkin (especially of the avian and agile varieties), but a notable number of humans and other lineages make their homes upon the World Tree. The settlement of your birth could be Grenstad, the City of Five Branchings, or a smaller community such as Acorndray, Hrafnby, or one of the human or elven treehouse hamlets nestled in the network of branches. Your upbringing has given you a knack for climbing and surviving in an arboreal environment, and you are familiar with planar transportation via the World Tree.
 
@@ -737,7 +736,7 @@ Creatures who grow to adulthood upon Yggdrasil often develop a great love of tra
 
 ### Oldwood Heritage
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Oldwood heritage characters grew up on the ancient worlds of the [[Old Ring]] or in the untamed wildernesses of worlds such as Midgard and the Lands of Parsantium. Beneath the mighty boughs of the forest or out on the misty moors, followers of the oldwood are taught the importance of protecting the natural world—its birds and beasts, plants and trees, and rivers and lakes—from those who would cut down the forests and slaughter its wildlife.
 
@@ -753,7 +752,7 @@ Characters of the oldwood heritage feel most at home in the wilds. They know whi
 
 ### Steam-and-Brass Heritage
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Steam-and-brass heritage characters were brought up in the Smithy at the heart of the Labyrinth, on the mechadrons’ home world of Armillary, or in [[Zobeck]] or another bustling city filled with arcane foundries and inventor’s workshops.
 
@@ -769,7 +768,7 @@ Growing up in a busy, noisy settlement like this has instilled in you the core v
 
 ### Stygian Heritage
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 The lives of stygian heritage characters are defined by absence. Their memory is fragmented or completely lost. Their earliest recollection is the gaunt face of Charun, Ferryman of the river Styx, telling them they needed to earn the dark coin clutched in their hand. So they were returned, with no memory of what came before apart from the knowledge that when they perform deeds worthy enough, their coin will restore their past and deliver them to what comes next. Characters of this heritage are often a “culture” of one person.
 
@@ -785,7 +784,7 @@ To one degree or another, stygian characters’ lives revolve around their coin.
 
 ### Void-Touched Heritage
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Void-touched characters grew up on a world that has become shadowed, darkened, or lost to the Void (see **Structure of the Labyrinth** in **Chapter 1**). Characters might belong to a community that is slowly coming under the Void’s influence, or one that has become wholly corrupted or conquered by the Void. Alternatively, a character could be a sole survivor, forming a “culture” of just one individual.
 
@@ -801,13 +800,13 @@ Unfortunately, your ordeal has forged a connection to the Void that means you ar
 
 ## More Heritages (Lineages & Heritages)
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 These heritages come from the *[[Lineages & Heritages]]* supplements. Hiveheim and moonlit also appear above from *Tales of the Old Margreve*; the versions here are the supplement's own.
 
 ### Aerobat Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Characters from this heritage were raised among the captains, crew, and engineers of airship fleets. Though this is a young heritage in the grand scheme of the world with few communities, they are tight-knit and encourage an adventurous spirit as much as intellectual and physical skill.
 
@@ -827,7 +826,7 @@ The first aerobats came from communities of fearlessly curious goblins and small
 
 ### Badlander Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 As rugged as the terrain they inhabit, badlander heritage characters feel they can survive whatever the world throws at them. They tend to be quiet and stoic, enduring hardship with a shrug and self-deprecating bark. Their clothing is sturdy and economical without flourishes that could get caught on an outcropping of rock.
 
@@ -843,7 +842,7 @@ This heritage was originally cultivated by gnolls. As other humanoids moved into
 
 ### Hiveheim Heritage (Lineages & Heritages)
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Characters from the hiveheim heritage were raised in enclosed honeycomb settlements like the bee-kissed city of [[Björnrike|Bjeornheim]]. You grew up enjoying the bounties of nature which provided you with homely comforts. Bjeornheim’s use of bee hives as its major defense makes honey, wax, and other commodities harvested from bees regular luxuries for you. You've often engaged in contests of all kinds to judge your survival prowess—fishing competitions, honeyed confectionary bake-offs, and other bouts of foraging skill are just a few of the tests you grew up participating in regularly. A hiveheim heritage character sees the gifts the natural world can supply and knows how to wrest them from nature with prowess and grace.
 
@@ -855,7 +854,7 @@ Characters from the hiveheim heritage were raised in enclosed honeycomb settleme
 
 ### Junker Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Junker heritage characters have been raised among the wasteland and desert dwelling junker gnolls. These tightly knit, semi-nomadic communities are recognizable by their small caravans of camel-drawn, covered wagons. Packs of hyenas often run among the wagons as they travel, creating an intimidating air. The wagons stop near settlements for prolonged periods, usually a season, but up to a year if business is profitable.
 
@@ -873,7 +872,7 @@ Junker heritage characters tend to be creative, outspoken, and loud. They like t
 
 ### Mangrove Regent Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Characters of the mangrove regent heritage have been raised among a community of mangrove dryads and carry its values and customs.
 
@@ -891,7 +890,7 @@ On the Material Plane, mangrove dryad communities continue their efforts to aid 
 
 ### Moonlit Heritage (Lineages & Heritages)
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Moonlit heritage characters have a supernatural charge to purify the places and people touched by the influence of the Shadow Realm. You were raised in the Moonlit Glades, a bastion of light and hope within the north of the Shadow Realm. Your culture is dedicated to fighting back its corruption and allowing the purifying moonlight of Midgard to find purchase there.
 
@@ -905,7 +904,7 @@ While the bearfolk of Björnrike founded the Moonlit Glades, it has since attrac
 
 ### Mud Runner Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Mud runner heritage characters hail from lizardfolk communities located in bogs and swamps. The mud runner lizardfolk are widely regarded as the descendants of the ancient lizardfolk empires. Their oral tradition stretches back millennia, and their storytellers are welcome in all lizardfolk communities.
 
@@ -923,7 +922,7 @@ Some mud runner communities habitually ambush swamp travelers and present them a
 
 ### Pine Scion Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Pine scion heritage characters carry the best aspects of the dryad communities into the world, at least as they see it. Unlike the snobbish oaks or gossiping teaks, the dour ashes or airy corks, pine scions are easy to understand and get along with.
 
@@ -941,7 +940,7 @@ Pine scions live fully in two worlds. They love to travel the woodlands. They se
 
 ### Rain Creeper Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Hailing from coastal rainforests, rain creeper heritage characters are well suited to lives of adventure. Their skills allow them to move quickly, even amid the exposed tree roots of their homes, and to stay hidden from other predators.
 
@@ -959,7 +958,7 @@ Rain creeper communities tend to be pious. They venerate gods whose areas of int
 
 ### Rothenian Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Members of this heritage hail from the [[Rothenian Plain]], east of the Margreve Forest and Madgar Kingdom. While many of those who call the Plains home are centaurs, others are the [[Khazzaki]] humans, ravenfolk from [[Vidim]], or even tieflings from Demon Mountain.
 
@@ -973,7 +972,7 @@ No matter their heritage, those who call the Plain their home are fiercely indep
 
 ### Shadow Court Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 You grew up in the Shadow Realm among the courts of the shadow fey. Trickery, dalliance, and fey politics ringed your upbringing, and you learned to navigate and wield them. Whether you are a loyal servant to one of the courts, or practice stepping in between their machinations, you know how to exploit the emotions of other, more susceptible creatures. A shadow court heritage character views their upbringing less like a community and more like an obstacle course, which they grew to traverse with grace and cunning. The skills you garnered from this life will serve you as well in the realm of mortals.
 
@@ -985,7 +984,7 @@ You grew up in the Shadow Realm among the courts of the shadow fey. Trickery, da
 
 ### Shadowlands Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 While the worlds of the Material Plane were still young, they fought numerous wars against the Seelie Courts of the Shadow Realm. During these conflicts, untold numbers of mortals were captured and pressed into the service of the wintery immortals. They became strangers in gloomy, tenebrous lands.
 
@@ -1003,7 +1002,7 @@ Characters of the shadowlands heritage have adapted to the Shadow Realm and cont
 
 ### Sponsored Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Sometimes a vampire sire wishes to keep his children close to him, perhaps to groom them as loyal agents, but sometimes out of a warped sense of kinship, protectiveness, or exceptionalism. Other times a less malign, but still goal-oriented, benefactor raises others in a certain mold to meet a high standard.
 
@@ -1023,7 +1022,7 @@ Members of a sponsored heritage are often haughty and decisive. Even those who h
 
 ### Tribe Keeper Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Characters of this heritage have been raised in isolated, close-knit communities. To a tribe keeper, the people in their tribe are the most important people in their lives. The bonds you have with your people are adamantine.
 
@@ -1045,7 +1044,7 @@ When you make a WIS (Insight) check to determine whether a creature is trustwort
 
 ### Vidim Perch Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 You grew up amid the tangled poles and tarps of the Perch within the city of Vidim. Its upper reaches are exclusive to the ravenfolk who built it due to the nature of its construction and the acrobatic skill needed to traverse it. Here, the ravenfolk are raised away from the skeptical and judging eyes of the other Vidimites. [[Wotan|Wotan the Rune Father]] is the object of worship of the ravenfolk within the Perch, who employ his carved icons as magical wards and arcane sentries.
 
@@ -1059,7 +1058,7 @@ You grew up amid the tangled poles and tarps of the Perch within the city of Vid
 
 ### Wastelander Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Wastelander heritage characters have been raised to survive in hostile, magically blasted wastes. They are tough as old boot leather and eschew social nicety in favor of blunt honesty. Characters of this heritage know the value of community and of working together. Despite their general lack of tact, they are effective partners and excellent companions in a tough spot.
 
@@ -1088,7 +1087,7 @@ All wastelander heritage characters are marked by the magic that suffuses the wa
 
 ### Zobecker Heritage
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 You grew up on the [[The Crossroads|Crossroads]] in the Free City of Zobeck. Those raised here value two things above all else: commerce and freedom. Beholden to no kings or aristocracy, Zobeckers work to improve their own lives by their own means. Almost everyone plies some sort of trade to take advantage of the trade routes that cross through here from the rest of Midgard.
 
@@ -1100,13 +1099,13 @@ Growing up in one of its varied districts breeds a shrewd mind for business and 
 
 ## More Heritages (Book of Blades)
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 These heritages provide new options for a martial character’s developmental period.
 
 ### Horse Lord Heritage
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 For those from a horse lord heritage, horses are not just a status symbol, but a symbol of wealth, power, and honor. A horse lord’s value is linked to their horsemanship and boldness in battle. The bravest warriors are rewarded with additional horses, growing the size of their herd and along with their status.
 
@@ -1122,7 +1121,7 @@ Most horse lords live a nomadic existence of seasonal migrations for grazing her
 
 ### Martial Law Heritage
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 The military deemed the civil authority to be unable to function and took over the country’s government. What originally might have been seen as a temporary situation became permanent when the military commander suspended civil rights and subjected the civilian population to military justice.
 
@@ -1138,7 +1137,7 @@ While the rules are strict, and punishment swift and summary, all of the populat
 
 ### Privileged Heritage
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Some individuals don’t just visit court, they’re born to it. The children of nobility, rich merchants, and even the offspring of criminal masterminds are fortunate enough to have all the benefits of wealth and privilege.
 
@@ -1154,13 +1153,13 @@ A pleasant façade over a cold heart is the armor of choice when one moves in th
 
 ## More Heritages (Book of Ebon Tides)
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 These heritages are built for characters raised in the [[The Shadow Realm|Shadow Realm]], following [[Converting 5e Material]]. The *Book of Ebon Tides* is a 5th Edition book with no heritages of its own, so these gather the learned traits of its peoples into heritages any lineage can take.
 
 ### Changeling Heritage
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 *Draft: subject to change.*
 
@@ -1174,7 +1173,7 @@ Changeling heritage characters were taken as infants from the mortal world and r
 
 ### Umbral Heritage
 
-*Optional, from Book of Ebon Tides.*
+%% source: Book of Ebon Tides %%
 
 *Draft: subject to change.*
 
@@ -1188,13 +1187,13 @@ Umbral heritage characters grew up in the Shadow Realm, in its fey courts, gobli
 
 ## More Heritages (Night Hunters)
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 In a horror setting, even a PC’s childhood might have been full of terror, and these heritages from *Night Hunters* attempt to recreate such circumstances. You can choose any heritage, regardless of lineage.
 
 ### Cult Escapee Heritage
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 You grew up in a dark cult or secret society, your life dedicated to the worship of a dark power. You shined the candlesticks for the rituals, dusted the shelves devoted to forbidden lore, helped feed the animals to be sacrificed, and acted as lookout when skullduggery was afoot. You also held your breath when the summonings and divinations came around, and you watched the fallout when some acolyte displeased the cult’s otherworldly object of reverence. Perhaps you were being groomed as a sacrifice yourself.
 
@@ -1208,7 +1207,7 @@ Eventually, you got out. Maybe it was a wild escape or a quiet disappearance in 
 
 ### Lost Soul Heritage
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 You grew up as a stranger in a strange land. You might be an orphan from a far-off place, raised in a community that never quite fully accepted you. Or perhaps an omen, rumors, or other accident of your birth marked you as distinctly other, and you found yourself shunned and ostracized by those who should have been your family and friends. Whatever the circumstances, you never really fit in, and you longed for the companionship and community that was so often denied to you. You spent most of your time alone, finding solace in solitary pursuits, such as reading, exercise, or exploring the local environs.
 
@@ -1222,7 +1221,7 @@ Individuals with the lost soul heritage hail from all sorts of societies and all
 
 ### Remote Community Heritage
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 You lived in a remote community that cherished the old ways and prized self-sufficiency. You might be from a tiny village tucked away within a valley surrounded by rugged mountains, from a cluster of homes at the edge of a gloomy swamp, or even from a farming town beside a roaring river. You might have grown up believing the superstitions held by your family (and perhaps you still do), or you might have questioned things from the moment you were old enough to speak. But for most of your life, you knew only the traditions of your isolated community and were ignorant to the ways of the outside world.
 
@@ -1236,7 +1235,7 @@ Due to their insular nature, such societies value resourcefulness and wisdom. Th
 
 ### Shepherd to the Dead Heritage
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 You grew up in a community dedicated to the tending of the dead, shepherding souls to the other side. You grew up around corpses, and such sights hold no terror for you anymore. Instead of fearing death, you learned the rituals and rites used to lay individuals to rest and permit their spirits to move on. Your community might have held a massive necropolis filled with elaborate skeletal decor, soaring cathedrals above deep crypts or a sprawling ossuary, skies filled with the smoke from funeral pyres, or vast cemeteries dotted with mausoleums. Perhaps everyone in your town had their own responsibilities with regard to the deceased, or your family alone might have held the secrets to laying the dead to rest.
 
@@ -1250,7 +1249,7 @@ While this heritage is most common in worlds wracked by plague, stalked by monst
 
 ### Street Gang Heritage
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 You spent your early life in a gang of child thieves under the none-too-gentle watch of a guild master, possibly of supernatural origin. Perhaps you were sold into servitude. Perhaps you were an orphan picked up from the street by the master. You probably never knew a life other than that of beggar and thief within a settlement of some size, where you could disappear into crowds and back alleys.
 
@@ -1265,18 +1264,4 @@ A PC with such a heritage might live in perpetual fear of facing their former ma
 ***Languages.*** You know Common and two additional languages of your choice. Typically, one of these is either Dwarvish or Elvish.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Lineages & Heritages is from Lineages & Heritages Supplements 1 and 3 by Kobold Press.*
-
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
-
-*Material marked as from Book of Ebon Tides is adapted from the 5th Edition Book of Ebon Tides by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

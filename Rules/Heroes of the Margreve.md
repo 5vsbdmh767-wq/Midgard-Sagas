@@ -29,10 +29,10 @@ If you are a player, talk with your game master before using any of the material
   - [[Sorcerer#Flora|Flora]] sorcerers
   - [[Warlock#Elder Wood|Elder Wood]] and [[Warlock#Hunter in Darkness|Hunter in Darkness]] warlocks, plus new [[Warlock#Eldritch Invocations (Tales of the Old Margreve)|eldritch invocations]]
   - [[Wizard#Courser Mage|Courser Mage]] wizards
-- **Spells and rituals:** mixed into the [[Spells]] and [[Rituals]] pages; the [[Spell Lists]] flag them *(optional, Margreve)*
+- **Spells and rituals:** mixed into the [[Spells]] and [[Rituals]] pages; the [[Spell Lists]] flag them
 - **Magic items:** mixed into the [[Magic Items]] pages
 
 Some options mention creatures (such as bramble creatures) whose stat blocks are in the GM's books rather than on this wiki.
 
 ---
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
+<small>Sources: [[Credits]].</small>

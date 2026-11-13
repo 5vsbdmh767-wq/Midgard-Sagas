@@ -21,7 +21,7 @@ This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th leve
 
 ## Aegir’s Breath
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Arcane, Primordial, and Wyrd Cantrip (Evocation)*
 
@@ -41,7 +41,7 @@ This spell creates an additional cloud when you reach 5th level (2 clouds), 11th
 
 ## Canteen Catch-All
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Arcane and Divine Cantrip (Conjuration)*
 
@@ -63,7 +63,7 @@ The quantity and type of liquid you can carry increases when you reach 5th level
 
 ## Conjure Missile
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Arcane and Divine Cantrip (Conjuration)*
 
@@ -81,7 +81,7 @@ You conjure a single piece of nonmagical ammunition. If it isn’t used for a ra
 
 ## Corrosion
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Arcane and Primordial Cantrip (Transmutation)*
 
@@ -101,7 +101,7 @@ This spell has no effect on complex objects made of multiple moving pieces, and 
 
 ## Crimson Forge
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Arcane and Primordial Cantrip (Necromancy)*
 
@@ -121,7 +121,7 @@ This spell’s effectiveness improves when you reach certain levels. At 5th leve
 
 ## Crushing Curse
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Arcane and Wyrd Cantrip (Enchantment)*
 
@@ -159,7 +159,7 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 ## Dander Ball
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Primordial Cantrip (Conjuration)*
 
@@ -179,7 +179,7 @@ The explosion’s radius increases to 20 feet when you reach 5th level, 30 feet 
 
 ## Demonic Pact
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Divine Cantrip (Abjuration)*
 
@@ -197,7 +197,7 @@ You offer favor in the name of a powerful demon. A creature you can see within r
 
 ## Doorbind
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Arcane, Divine, Primordial, and Wyrd Cantrip (Abjuration)*
 
@@ -239,7 +239,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 ## Electric Jolt
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Arcane and Primordial Cantrip (Evocation)*
 
@@ -259,7 +259,7 @@ This spell’s damage increases by 1d12 when you reach 5th level (2d12), 11th le
 
 ## Fey Song
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Primordial and Wyrd (Enchantment)*
 
@@ -341,7 +341,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 ## Hamstring
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Arcane and Wyrd Cantrip (Evocation)*
 
@@ -361,7 +361,7 @@ The spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (
 
 ## Hoarfrost
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Primordial Cantrip (Evocation)*
 
@@ -381,7 +381,7 @@ The spell’s damage increases when you reach 5th level (2d8), 11th level (3d8),
 
 ## Hobble
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Arcane Cantrip (Evocation)*
 
@@ -399,7 +399,7 @@ You create an ethereal trap in the space of a creature you can see within range.
 
 ## Infernal Fire
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Divine Cantrip (Evocation)*
 
@@ -419,7 +419,7 @@ You release a beam of infernal fire that scorches through the air at a creature 
 
 ## Influence
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Arcane and Wyrd Cantrip (Enchantment)*
 
@@ -439,7 +439,7 @@ Once the spell ends, the target immediately realizes it was under the influence 
 
 ## Invigorate
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Divine and Primordial Cantrip (Abjuration)*
 
@@ -477,7 +477,7 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 ## Luck Bait
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Arcane, Divine, and Wyrd Cantrip (Abjuration)*
 
@@ -515,7 +515,7 @@ The hand can’t attack, activate magic items, or carry more than 10 pounds.
 
 ## Measure
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Arcane and Divine Cantrip (Divination)*
 
@@ -593,7 +593,7 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 ## Moonfang Strike
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Primordial Cantrip (Evocation)*
 
@@ -613,7 +613,7 @@ This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th leve
 
 ## Pernicious Radiance
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Divine and Wyrd Cantrip (Evocation)*
 
@@ -633,7 +633,7 @@ The number of creatures you can illuminate with your pernicious radiance increas
 
 ## Placate
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Primordial Cantrip (Enchantment)*
 
@@ -735,7 +735,7 @@ The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level
 
 ## Replicate Text
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Arcane Cantrip (Divination)*
 
@@ -839,7 +839,7 @@ You touch a living creature that has 0 HP. The creature becomes stable. This spe
 
 ## Swift Stash
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Arcane and Wyrd Cantrip (Conjuration)*
 
@@ -887,7 +887,7 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 ## Tree Heal
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Divine and Primordial Cantrip (Evocation)*
 
@@ -905,7 +905,7 @@ You touch a plant, and it regains 1d4 hit points. Alternatively, you can cure it
 
 ## Upright
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Divine and Primordial Cantrip (Transmutation)*
 
@@ -941,7 +941,7 @@ This spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th leve
 
 ## Word of Misfortune
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Arcane and Wyrd Cantrip (Enchantment)*
 
@@ -960,14 +960,4 @@ You hiss a word of Void Speech toward a creature you can see within range. If th
 This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

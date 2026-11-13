@@ -2,7 +2,7 @@
 aliases: [Character Theme]
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Starting with the story of your character is great way to guide the mechanical choices you make. A theme can help inform the build of your character.
 
@@ -205,4 +205,4 @@ The smiling rogue who dodges between their foes while letting off a steady strea
 ***Suggestions.*** While DEX is definitely your most important ability score, CHA and INT are likely to be secondary. You want to be proficient in Acrobatics and Athletics so you can move around. Make sure you pick up at least one CHAbased skill as well. As you level, any magic item that lets you fly or teleport can help you get out of a jam.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

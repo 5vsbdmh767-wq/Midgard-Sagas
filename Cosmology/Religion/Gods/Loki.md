@@ -21,7 +21,6 @@ Twin serpents, or an open net. His priests keep no books.
 ==**Shrines and Priests**==
 He has almost no temples, though in a sense every fire is his altar. His greatest priest, Magnate Avgustos Sigismor, a noble of [[Krakovar|Krakova]], is widely believed to have been killed by the darakhul princess Hristina, though a few claim he became a darakhul or otherwise cheated death. His priests hide among dwarves, gnomes, and others, and two of his strongest advocates today are dwarven brothers in [[Wolfheim]].
 
-
 ==**In the North**==
 In the [[Northlands]] his favored weapons are the dagger and the net. See [[Gods of the North]].
 

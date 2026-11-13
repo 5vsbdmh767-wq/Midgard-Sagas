@@ -17,7 +17,7 @@ You have a bonus to attack and damage rolls made with this piece of magic ammuni
 
 ## Ammunition of True Death
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Weapon (Any Ammunition), Very Rare 100 gp + base ammunition cost*
 
@@ -25,7 +25,7 @@ Damage dealt by this ammunition counts as magical. When you reduce a creature to
 
 ## Arrow of Accuracy
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Arrow), Uncommon 100 gp + ammunition base cost*
 
@@ -33,7 +33,7 @@ When this arrow is used to make an attack, it grants advantage to your attack ro
 
 ## Arrow of Ice-Trapping
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (Arrow), Rare 350 gp*
 
@@ -41,7 +41,7 @@ This arrow deals an additional 1d6 cold damage on a successful hit. If a creatur
 
 ## Arrow of Indication
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Weapon, Uncommon 300 gp*
 
@@ -53,7 +53,7 @@ A creature struck by this arrow can spend an action to remove it. If it does, or
 
 ## Arrow of Multiplication
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Ammunition), Rare 500 gp + ammunition base cost*
 
@@ -71,7 +71,7 @@ Ammunition of this type exists for other weapons, such as *bolts of slaying* mea
 
 ## Ashbraid
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (battleaxe, greataxe), Very Rare (Requires attunement) 15,000 gp + weapon base cost*
 
@@ -81,7 +81,7 @@ When you hit a creature with this magic weapon, the target has vulnerability to 
 
 ## Axe of Shredding
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Battleaxe), Varies Price Varies (Requires Attunement)*
 
@@ -93,7 +93,7 @@ If you score a critical hit with the axe, your music fills the target’s head, 
 
 ## Balefire Bow
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Weapon (Any Bow or Crossbow), Rare 4,400 gp + base weapon cost*
 
@@ -103,7 +103,7 @@ The weapon regains all expended charges daily at dawn.
 
 ## Bell-Ringing Greatclub
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (greatclub), Uncommon 1,000 gp + 2 sp*
 
@@ -121,7 +121,7 @@ When a hostile creature damages you while the axe is in your possession, you mus
 
 ## Blade of Insults
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (Any simple weapon that deals piercing or slashing damage), Rare 1,500 gp + weapon base cost (Requires attunement by a bard)*
 
@@ -129,7 +129,7 @@ A bard wielding this weapon is empowered to mix swordplay with witty repartee. I
 
 ## Bloodlink Blade
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Any Sword), Rare 8,000 gp (Requires Attunement)*
 
@@ -137,7 +137,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. In a
 
 ## Bow of Arrow Splitting
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Longbow or Shortbow), Very Rare 16,525 gp (Shortbow) or 24,250 gp (Longbow)*
 
@@ -149,7 +149,7 @@ The bow has 3 charges and regains 1d3 expended charges daily at dawn. As an acti
 
 ## Bracers of Seven Winds
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Weapon, Very Rare 75,000 gp (Requires Attunement by a Monk)*
 
@@ -159,7 +159,7 @@ You gain a +3 bonus to attack and damage rolls made with this magic weapon. When
 
 ## Dagger of Darkness
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Weapon (Dagger), Uncommon 1,000 gp*
 
@@ -167,7 +167,7 @@ While holding this dagger, you can use a bonus action to speak the command word,
 
 ## Dagger of Determination
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Weapon, Rare 2,500 gp*
 
@@ -193,7 +193,7 @@ After the hovering sword attacks for the fourth time, it flies up to 30 feet and
 
 ## Dart of Silence
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Dart), Uncommon 200 gp*
 
@@ -213,7 +213,7 @@ The first time you attack with this sword on each of your turns, you can transfe
 
 ## Doombringer’s Blade
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Weapon (Any Axe, Halberd, Sword, or Dagger), Rare 16,000 gp (Requires Attunement)*
 
@@ -243,7 +243,7 @@ You can use a bonus action to speak this magic sword’s command word, causing f
 
 ## Flicker Glaive
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Glaive), Rare 5,000 gp + base weapon cost (Requires Attunement)*
 
@@ -255,7 +255,7 @@ The blade housing can hold up to three glaive blades, and if the blades are reco
 
 ## Flourishing Blade
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Any Sword), Rare 5,000 gp + base weapon cost (Requires Attunement)*
 
@@ -279,7 +279,7 @@ When you use it to hit a creature with the Giant type, the creature takes an ext
 
 ## Giant-Headed Flail
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Flail), Rare 5,000 gp*
 
@@ -289,7 +289,7 @@ The flail appears to be a normal, well-made flail, but when wielded in combat, i
 
 ## Groundbound Ammunition
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Any Ammunition), Rarity Varies Price Varies*
 
@@ -299,7 +299,7 @@ Once the creature is on the ground, you have advantage on attack rolls against i
 
 ## Half-Sword of the Margreve Knights
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Weapon (Longsword), Rare (Requires Attunement) 4,015 gp*
 
@@ -331,7 +331,7 @@ This ammunition is made from hollowed antler or bone and emits a shrill whistle 
 
 ## Icebreaker Axe
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (battleaxe or greataxe), Rare 1,500 gp + weapon base cost*
 
@@ -341,7 +341,7 @@ The weapon has 3 charges. As an action, you can expend 1 charge and strike the w
 
 ## Iced Steel Weapon
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (Any ammunition or melee weapon), Common 10 gp (ammunition) or 25 gp + weapon base cost (melee weapon)*
 
@@ -349,7 +349,7 @@ This weapon or piece of ammunition is made of iced steel, which legends hold ori
 
 ## Impaling Weapon
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Any Piercing Weapon), Rare 1,500 gp + base weapon cost*
 
@@ -365,7 +365,7 @@ The javelin’s property can’t be used again until the next dawn. In the meant
 
 ## Kempdomr Axe
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (battleaxe, bearded axe, breidox, or greataxe), Rare (Requires attunement) 5,000 gp + weapon base cost*
 
@@ -387,7 +387,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. Whil
 
 ## Lycanthrope Slayer
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Weapon (Any Sword), Very Rare 30,000 gp + base weapon cost*
 
@@ -425,7 +425,7 @@ This hammer’s face is covered with armor-shredding teeth. When you make a succ
 
 ## Meteoric Sling
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Sling), Rare 1,500 gp + base weapon cost*
 
@@ -433,7 +433,7 @@ When you use this sling to make a ranged attack, the ammunition bursts into flam
 
 ## Mockingblade
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Dagger or Any Sword with the Finesse Property), Very Rare (Requires Attunement) 15,000 gp + base weapon cost*
 
@@ -443,7 +443,7 @@ In addition, while you hold the weapon, you have resistance to psychic damage.
 
 ## Night Blade
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Dagger or Any Sword with the Finesse Property), Rare (Requires Attunement) 5,020 gp + base weapon cost*
 
@@ -471,7 +471,7 @@ While your sworn enemy lives, you have disadvantage on attack rolls with all oth
 
 ## Poisoner’s Sickle
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Sickle), Uncommon 2,000 gp*
 
@@ -479,7 +479,7 @@ You gain a +1 bonus to attack and damage rolls made with this magical weapon. Wh
 
 ## Prismatic Ammunition
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (Any ammunition), Uncommon 50 gp*
 
@@ -487,7 +487,7 @@ This piece of ammunition is made of prismatic steel infused with the power of th
 
 ## Prismatic Steel Weapon
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (Any melee weapon), Very Rare 60,000 gp (Requires attunement)*
 
@@ -497,7 +497,7 @@ While attuned to the weapon, you can use a bonus action to summon it to your emp
 
 ## Rage Hammer
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (maul or warhammer), Uncommon 1,000 gp (Requires attunement by a barbarian)*
 
@@ -505,7 +505,7 @@ When you enter a Rage, you can make a melee attack with this weapon as part of t
 
 ## Ravenflight Axe
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (handaxe), Uncommon 2,000 gp (Requires Attunement)*
 
@@ -521,7 +521,7 @@ When you attack a creature with this handaxe and one of your allies is within 5 
 
 ## Reliquary Weapon
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Weapon, Rare 5,000 gp + base weapon cost (Requires Attunement)*
 
@@ -531,7 +531,7 @@ If the GM deems that the relic is sacred to your religion, you can double your P
 
 ## Reverberating Hammer
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Warhammer), Rare 8,000 gp*
 
@@ -539,7 +539,7 @@ When you roll a 20 on an attack roll with this weapon, the target is stunned unt
 
 ## Rumbling Hammer
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (maul or warhammer), Common 50 gp (Requires attunement)*
 
@@ -547,7 +547,7 @@ Immediately after you score a critical hit with this hammer, it casts *thundercl
 
 ## Sand Arrow
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Weapon (Arrow), Uncommon 100 gp*
 
@@ -561,7 +561,7 @@ You gain a +2 bonus to attack and damage rolls made with this magic weapon. In a
 
 ## Seafoam Trident
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Trident), Very Rare 16,500 gp (Requires Attunement)*
 
@@ -571,7 +571,7 @@ The trident has 3 charges and regains 1d3 expended charges daily at dawn. As an 
 
 ## Seismic Maul
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Maul), Very Rare 15,000 gp + base weapon cost (Requires Attunement)*
 
@@ -581,7 +581,7 @@ As an action, you can strike the ground with it, causing the ground around you t
 
 ## Shadow Blade
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (longsword, rapier, scimitar, or shortsword), Rare 4,400 gp (Requires attunement)*
 
@@ -593,7 +593,7 @@ This sleek magic weapon projects a shadowy double image of itself when wielded. 
 
 ## Sickle of Thorns
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *Weapon (Sickle), Uncommon (Requires Attunement) 1,501 gp*
 
@@ -603,7 +603,7 @@ This weapon can make very precise cuts, such as to cut fruit or flowers high up 
 
 ## Slayer’s Blade
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Weapon (Any Sword), Rarity Varies, Price Varies*
 
@@ -621,7 +621,7 @@ This blade is especially effective against a certain creature type (GM’s discr
 
 ## Songsteel Weapon
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (Any), Uncommon 1,000 gp*
 
@@ -629,7 +629,7 @@ A metal weapon made of songsteel rings like a bell or chime when it clangs again
 
 ## Spellbinder
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Weapon (Longsword), Artifact Priceless (Requires Attunement)*
 
@@ -647,7 +647,7 @@ This *+3 longsword* has a blade of mirror-polished steel, inlaid with geometric 
 
 ## Stormhook
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (dart, javelin, or spear), Rare 4,000 gp (Requires attunement)*
 
@@ -665,7 +665,7 @@ The sword’s luminous blade emits bright light in a 15‑foot radius and dim li
 
 ## Sunfire Weapon
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Weapon (Any), Uncommon 1,500 gp + weapon base cost*
 
@@ -697,7 +697,7 @@ Once per turn, when you hit a creature with an attack using this magic weapon, y
 
 ## Three-Dragon Staff
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Weapon, Very Rare 15,000 gp*
 
@@ -711,7 +711,7 @@ The weapon uses stats of a flail, including its status as a martial melee weapon
 
 ## Titancall Dagger
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (dagger), Legendary 25,000 gp (Requires attunement)*
 
@@ -735,7 +735,7 @@ When you roll a 20 on your attack roll with this magic weapon, your critical hit
 
 ## Void Scythe
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Scythe), Rare 5,000 gp + base weapon cost (Requires Attunement)*
 
@@ -745,7 +745,7 @@ As a bonus action, you can call on the blade, infusing the blade with mind-twist
 
 ## Voidbane Weapon
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Weapon (Any), Rare 6,000 gp + weapon base cost (Requires Attunement)*
 
@@ -767,7 +767,7 @@ When you attack a creature that has at least one head with this weapon and roll 
 
 ## Warhammer of Giant Felling
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (warhammer), Very Rare 30,000 gp*
 
@@ -779,7 +779,7 @@ If you hit a creature that is your size or smaller, that creature must succeed o
 
 ## Weapon of the Wyrd
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Weapon, Rare 4,000 gp + base weapon cost*
 
@@ -787,7 +787,7 @@ This weapon is infused with Wyrd magic, making it unsettling to the average Huma
 
 ## Weapon of Wealth
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Any), Rare 1,500 gp*
 
@@ -809,23 +809,11 @@ You have a bonus to attack and damage rolls made with this magic weapon. The bon
 
 ## Wrathful Weapon
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 *Weapon (Any Two-Handed or Versatile Weapon), Rare (Requires Attunement by a Cleric or Paladin) 6,000 gp + base weapon cost*
 
 If you have the Channel Divinity class feature, when you wield this *+1 weapon*, you can expend one use of your Channel Divinity to gain a damage bonus equal to half your PB (rounded up) on your next successful melee attack. If you strike a Fiend or an Undead with this weapon while this effect is active, the damage bonus is instead equal to your full PB.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
-
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

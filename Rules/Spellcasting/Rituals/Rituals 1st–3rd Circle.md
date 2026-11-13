@@ -25,7 +25,7 @@ If you perform this ritual a second time before the duration of the first *[[#Al
 
 ## Alter Room
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane and Wyrd Ritual (Illusion)*
 
@@ -65,7 +65,7 @@ If you attempt to cast this spell again while the first casting is still active,
 
 ## Animal Spy
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Primordial Ritual (Divination)*
 
@@ -113,7 +113,7 @@ You can’t have more than 4 creatures created by this spell active at one time.
 
 ## Animated Housecleaning
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Arcane Ritual (Transmutation)*
 
@@ -133,7 +133,7 @@ The items are friendly to all creatures, but you can direct them to attack. In c
 
 ## Appease Local Spirits
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Primordial Ritual (Abjuration)*
 
@@ -173,7 +173,7 @@ While affected by this spell, the object is more difficult to break or force ope
 
 ## Arcane Trap
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane Ritual (Abjuration)*
 
@@ -251,7 +251,7 @@ By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or 
 
 ## Beneficent Effigy
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Divine and Wyrd Ritual (Necromancy)*
 
@@ -279,7 +279,7 @@ For the duration, while you hold the doll, you can perform the following effects
 
 ## Billowing Sails
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *2nd-Circle Arcane and Primordial Ritual (Evocation)*
 
@@ -297,7 +297,7 @@ You touch a ship or other wind-powered vehicle and fill its sails with a strong 
 
 ## Butterfly Spies
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Primordial Ritual (Divination)*
 
@@ -361,7 +361,7 @@ A creature that can see the sensor (such as a creature benefiting from *[[2nd-Ci
 
 ## Cobblecraft
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Primordial Ritual (Transmutation)*
 
@@ -383,7 +383,7 @@ You can’t make creatures or magic items with this ritual. You can’t use it t
 
 ## Cornucopia
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Divine and Primordial Ritual (Conjuration)*
 
@@ -425,7 +425,7 @@ As part of this ritual, you imbue your chosen vessel with a spark of your own li
 
 ## Curse Shuffle
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Wyrd Ritual (Transmutation)*
 
@@ -476,7 +476,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 ## Diffuse Potion
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane Ritual (Transmutation)*
 
@@ -494,7 +494,7 @@ You light a specially prepared candle and place it beneath an open potion as you
 
 ## Discern Portals and Gates
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *1st-Circle Divine and Primordial Ritual (Divination)*
 
@@ -514,7 +514,7 @@ The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch
 
 ## Dream Step
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *3rd-Circle Arcane and Wyrd Ritual (Illusion)*
 
@@ -540,7 +540,7 @@ Once this spell ends, you gain one level of exhaustion.
 
 ## Dreamspan
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *1st-Circle Arcane, Divine, Primordial, and Wyrd Ritual (Evocation)*
 
@@ -560,7 +560,7 @@ You sketch a bridge to span a chasm, bypass difficult terrain, or slope up (or d
 
 ## Dreamward
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *3rd-Circle Arcane and Wyrd Ritual (Abjuration)*
 
@@ -582,7 +582,7 @@ Once you cast this spell, you can’t do so again until you complete a long rest
 
 ## Elemental Attunement
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Arcane Ritual (Transmutation)*
 
@@ -628,7 +628,7 @@ You grant a target elemental magic effects. When you cast the spell, choose one 
 
 ## Enhance Familiar
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane and Wyrd Ritual (Transmutation)*
 
@@ -650,7 +650,7 @@ If your familiar drops to 0 HP and disappears, or you dismiss your familiar, the
 
 ## Eutierrian Walk
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *1st-Circle Primordial Ritual (Enchantment)*
 
@@ -718,7 +718,7 @@ While your steed is within 1 mile of you, you can communicate with it telepathic
 
 ## Font of Mucus
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Wyrd Ritual (Necromancy)*
 
@@ -766,7 +766,7 @@ When you inscribe the glyph, choose explosive runes or a spell glyph.
 
 ## Going in Circles
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *3rd-Circle Arcane Ritual (Illusion)*
 
@@ -788,7 +788,7 @@ If you cast this spell on the same spot every day for one year, the illusion las
 
 ## Grassland Stride
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *3rd-Circle Primordial Ritual (Transmutation)*
 
@@ -808,7 +808,7 @@ If a creature under the effects of this spell engages in combat, stops, or slows
 
 ## Healing Sleep
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Divine and Primordial Ritual (Conjuration)*
 
@@ -866,7 +866,7 @@ A creature with truesight can read the hidden message.
 
 ## Liquid Memory
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane Ritual (Divination)*
 
@@ -906,7 +906,7 @@ You can only have a single casting of *[[#Locate|locate]]* active on yourself at
 
 ## Lucky Charm
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Arcane, Divine, and Wyrd Ritual (Transmutation)*
 
@@ -976,7 +976,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 ## Maleficent Effigy
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Divine and Wyrd Ritual (Necromancy)*
 
@@ -1006,7 +1006,7 @@ For example, you could use an action to attack the effigy’s leg, forcing the t
 
 ## Mud Pack
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *1st-Circle Primordial Ritual (Conjuration)*
 
@@ -1030,7 +1030,7 @@ You can have only one casting of mud pack active at one time. If you cast this s
 
 ## Nourishing Repast
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Divine Ritual (Transmutation)*
 
@@ -1068,7 +1068,7 @@ For the duration, you or a creature you choose can ride the steed. The creature 
 
 ## Portal Jaunt
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane and Wyrd Ritual (Conjuration)*
 
@@ -1128,7 +1128,7 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 
 ## Read Object
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Arcane and Wyrd Ritual (Divination)*
 
@@ -1160,7 +1160,7 @@ Some examples of the information you can learn include the following:
 
 ## Reinforcing Ward
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *3rd-Circle Arcane Ritual (Abjuration)*
 
@@ -1182,7 +1182,7 @@ If a *[[2nd-Circle Spells#Knock|knock]]* spell (see *Player’s Guide*) is cast 
 
 ## Shadow Board
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *2nd-Circle Arcane, Divine, and Wyrd Ritual (Divination)*
 
@@ -1228,7 +1228,7 @@ Once you target a particular corpse with this spell, you can never cast this rit
 
 ## Spirit Lure
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *3rd-Circle Wyrd Ritual (Conjuration)*
 
@@ -1250,7 +1250,7 @@ For the duration, as a bonus action, you can move the lure up to 30 feet to an u
 
 ## Spirit Sensing
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Divine and Wyrd Ritual (Divination)*
 
@@ -1272,7 +1272,7 @@ You attune yourself to the spirit world and natural energies within your immedia
 
 ## Temple Manifestation
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Divine Ritual (Conjuration)*
 
@@ -1352,7 +1352,7 @@ If you cast this spell again while a servant created by the first casting is sti
 
 ## Veteran Spirit
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *2nd-Circle Divine and Wyrd Ritual (Necromancy)*
 
@@ -1378,7 +1378,7 @@ For the duration it is bound to guide you, depending on its expertise. Choose on
 
 ## Warding Charm
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *1st-Circle Divine and Wyrd Ritual (Abjuration)*
 
@@ -1415,14 +1415,4 @@ This spell grants the ability to move across any liquid surface—water, acid, m
 If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

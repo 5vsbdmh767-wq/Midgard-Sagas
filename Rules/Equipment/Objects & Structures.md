@@ -35,4 +35,4 @@ However, when time is a factor—like cutting through the ropes of a bridge befo
 ***Objects, Structures, and Damage Types.*** All objects and structures are immune to poison and psychic damage. Your GM might also decide that some damage types are more or less effective against a particular object or substance. For example, bludgeoning damage works well for smashing things but not for cutting rope or leather. Paper or cloth objects might well be vulnerable to fire.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

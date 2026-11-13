@@ -19,7 +19,7 @@ When the sword appears, you make two melee spell attacks with the blade, each on
 
 ## Blinding Revelation
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Divine and Wyrd (Evocation)*
 
@@ -39,7 +39,7 @@ All illusion spells of 7th circle or lower in the radius are automatically dispe
 
 ## Conjure Voidborn
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *7th-Circle Arcane and Wyrd (Conjuration)*
 
@@ -63,7 +63,7 @@ If your concentration is broken, the spell ends but the creature doesn’t disap
 
 ## Corrosive Cloudburst
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Arcane (Conjuration)*
 
@@ -109,7 +109,7 @@ The fire damages objects in the area and ignites flammable objects that aren’t
 
 ## Depersonalize
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *7th-Circle Arcane and Wyrd (Transmutation)*
 
@@ -153,7 +153,7 @@ You utter a divine word, imbued with the power that shaped the world at the dawn
 
 ## Earth Vortex
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Arcane (Conjuration)*
 
@@ -199,7 +199,7 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 ## Event Horizon
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *7th-Circle Arcane and Wyrd (Evocation)*
 
@@ -311,7 +311,7 @@ You can use an action to end the spell early, which causes the whirlwinds to dis
 
 ## Lurid Nightmares
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *7th-Circle Divine and Wyrd (Enchantment)*
 
@@ -333,7 +333,7 @@ For the duration, each time the target sleeps, it must repeat the save. On a fai
 
 ## Mutual Doom
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Arcane and Wyrd (Necromancy)*
 
@@ -353,7 +353,7 @@ Once you successfully cast this spell, it can’t be ended short of a *[[9th-Cir
 
 ## Nacreous Shell
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Primordial (Conjuration)*
 
@@ -375,7 +375,7 @@ Allies can pass through the shell, allowing them to cast spells on the target, o
 
 ## Petrifying Chains
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *7th-Circle Arcane and Wyrd (Evocation)*
 
@@ -512,7 +512,7 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 ## Summon Leviathan Avatar
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *7th-Circle Arcane or Primordial (Conjuration)*
 
@@ -627,7 +627,7 @@ You transform your body to grant yourself benefits of monstrous forms. When you 
 
 ## Void Embrace
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *7th-Circle Wyrd (Evocation)*
 
@@ -656,12 +656,4 @@ In addition, each creature within the area of effect must make a WIS save. On a 
 | 5–6 | Existential Dread. The creature experiences a profound sense of existential dread, questioning the nature of reality. It is frightened of you for 1 minute. |
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

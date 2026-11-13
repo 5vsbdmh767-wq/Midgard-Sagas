@@ -522,7 +522,7 @@ When you cast one of your imbued spells, you can modify it in one of the followi
 
 ## Augment Effects Expanded
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 This section lists additional augments available for mechanists to learn and use. See the Augment class feature in the *Player’s Guide* for a full description of how these effects work.
 
@@ -540,7 +540,7 @@ This section lists additional augments available for mechanists to learn and use
 
 ## Mechanist Boons
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the mechanist class.
 
@@ -574,12 +574,12 @@ Your commitment to the mechanist’s path grants you a powerful new ability. You
 
 ## More Mechanist Subclasses
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 At 3rd level, mechanists gain the Mechanist Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available when making that choice: Cog Augur, Grenadier, or Toymaker.
 
 ## Cog Augur
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Some mechanists see the universe and its workings as mathematical calculations. They turn their expertise toward crafting baroque devices to help them read these calculations and predict the near future.
 
@@ -660,7 +660,7 @@ You can spend 1 minute communing with the device of your Auguring Device feature
 
 ## Grenadier
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Mechanists who pursue the Grenadier’s craft are disciples of entropy, more interested in how things come apart than how they come together. Grenadiers expertly manipulate thermodynamic forces to blow away their foes and demolish terrain. Their explosive talents serve them well as master demolitionists, artillerists, and devastatingly effective opponents on the field of battle.
 
@@ -765,7 +765,7 @@ Your ability to utilize your Arcane Grenades feature is unrivaled. You gain the 
 
 ## Toymaker
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Toymakers are mechanists who revel in creating miniature replicas of animals and humans for their own entertainment, to help with various tasks, and to inflict a surprising hurt on their foes.
 
@@ -846,16 +846,15 @@ In addition, the toys you create can now be modeled after Beasts (or creatures w
 
 ## Labyrinth Mechanist Subclasses
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 At 3rd level, a mechanist gains the Mechanist Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Tinker.
 
 ## Tinker
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Inventors, builders, and engineers, tinkers are driven by the thrill of creation, a thirst to learn new things, and an innate talent for anything involving clockwork, gears, or mechanical contraptions and devices. With their clockwork companions always close by, tinkers are well suited and well equipped for almost every contingency.
-
 
 **Tinker Progression**
 
@@ -905,7 +904,6 @@ You gain the following unique effect for your Augment feature. This effect can�
 *3rd-Level Tinker Feature*
 
 You learn a ritual that allows you to create a clockwork construct to fight alongside you as a trusted companion. The ritual takes 1 hour to complete and it can be done as part of a short or long rest. You must have access to tinker tools to conduct this ritual. Once the ritual is complete, the clockwork companion appears in an unoccupied space you can see within 5 feet of you.
-
 
 **Appearance.** The companion is composed of gears, belts, pistons and other mechanical parts, housed within an articulated metal exoskeleton, but you choose the other details of appearance and its overall shape. Tinkers typically create their companions to resemble an animal of some kind, though the companion is obviously not a creature of the natural world.
 
@@ -994,7 +992,6 @@ You can now select any of the following clockwork companion modifications in add
 
 ***Flamethrower (Recharge 5–6).*** The companion exhales fire in either a 30-foot line that is 5 feet wide or a 15-foot cone (your choice). Each creature in the affected area must make a DEX save (DC is 8 + your PB + your INT mod), taking 36 (8d8) fire damage on a failure or half as much on a success. The fire ignites any flammable objects in the area that aren’t being worn or carried.
 
-
 ***Healing Serum.*** You install an internal reservoir that allows the companion to generate and administer a limited quantity of healing serum. The companion gains the following action:
 
 ***Healing Serum (3/Day).*** The companion or one creature within 5 feet of the companion magically recovers hit points. To determine the amount healed, roll a number of d8s equal to your PB.
@@ -1021,13 +1018,13 @@ While in an overdrive state, the clockwork companion gains the following:
 
 ## Book of Blades Mechanist Subclasses
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 When you choose your mechanist subclass, the following subclasses from *[[Book of Blades]]* are also available: Clockmaker and Fleshsmith.
 
 ## Clockmaker
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 The clockmaker is a master crafter whose timepiece does more than keep track of the passing hours. With it, the Clockmaker controls time itself. By winding their watch, they can give themselves more time or take time away from their enemies. A clockmaker can even freeze enemies in place with specially prepared traps.
 
@@ -1110,7 +1107,7 @@ You can gain an additional action on your turn. You must finish a short or long 
 
 ## Fleshsmith
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Other mechanists create objects of stone and steel; things that are worn, carried, or constructed. For a few though, flesh is the clay of creation and from which they coax new growths or bind creations with other living things.
 
@@ -1216,10 +1213,4 @@ You have discovered new ways to improve your flesh-forged servitor. Your servito
 - The damage of its slam attack increases to 3d6 + 1 + your PB bludgeoning damage.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

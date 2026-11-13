@@ -67,7 +67,6 @@ The sea is the empire's tenth province, the domain of Seggotan and of the dragon
 | Marea and the Islands | Yiraz Azah | Tyrku |
 | [[Rumela]] | Glauvistus the Scourge | Droisha |
 
-
 ## The Nine Morza
 The Dragon Lords hold most of the empire's wealth and think in years and decades; if they are displeased, the sultan may find himself dead or exiled. Mharot and his companions are survivors of the twelve who signed the original Compact over 300 years ago, plus newcomers. Poets praise every province, and the most beautiful province is always the one a traveler happens to be standing in.
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Monks master the magical energy that flows through living bodies. They can manipulate energy in others and themselves to achieve amazing feats or debilitate their foes. In addition to their normal class and subclass features, they can master technique forms.
 
@@ -50,4 +50,4 @@ You can choose an additional form at 5th, 10th, and 16th level.
 ***Twist Escape.*** You can spend 2 technique points to gain advantage on a DEX (Acrobatics) check made to resist or escape a grapple.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

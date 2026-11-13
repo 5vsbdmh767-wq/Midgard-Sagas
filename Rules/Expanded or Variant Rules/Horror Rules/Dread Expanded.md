@@ -2,7 +2,7 @@
 aliases: [Dread Exposure, Short-Term Dread, Long-Term Dread, Curing Dread]
 publish: true
 ---
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 After witnessing terrors beyond mortal comprehension, a PC might experience dread. This mechanic goes beyond standard fear, instead blasting and scarring the mind—and typically requiring magical or medical intervention to remove. Heroic PCs aren’t generally burdened by these additional mental challenges, despite the relentless horrors they face or the carnage they participate in day after day, but sometimes, the accumulated anguish and stress of adventuring can weigh heavily. In a campaign with strong horror themes, incorporating dread can help emphasize a PC’s dangerous reality. (See [[Life and Death#Dread|Dread]] for the core rule, and the *Game Master’s Guide* for more on dread.)
 
@@ -88,4 +88,4 @@ Dread can be short-term, long-term, or indefinite. Simple horrors typically impo
 | 12 | When I touch someone, I experience horrific visions of the ways they might die. |
 
 ---
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Sources: [[Credits]].</small>

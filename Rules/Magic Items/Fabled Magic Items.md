@@ -79,7 +79,7 @@ These gloves are made of a soft, supple leather. While wearing these gloves, you
 
 ## More Fabled Items (Player's Guide 2)
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 A fabled magic item grows in power alongside the PC who wields it. Rules for fabled items are summarized here and described in further detail in the *Player’s Guide*.
 
@@ -91,7 +91,7 @@ At the GM’s discretion, a fabled magic item’s more powerful properties might
 
 ## Arbiter
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Warhammer), Fabled Priceless (5th-Level and Higher Properties Require Attunement)*
 
@@ -115,7 +115,7 @@ This warhammer, unblemished and with a seemingly eternal shine, appears to be ma
 
 ## Battlebrew Medallion
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Fabled Priceless* *(5th-Level and Higher Properties Require Attunement* *by a [[Cleric]] or [[Paladin]] of a Relevant God)* This magical iron medallion features a bas-relief engraving of the likeness of a god whose domains include brewery, carousing, mirth, and singing. When you wear it, you have advantage on any ability check or save associated with the creation, identification, or consumption of alcohol.
 
@@ -137,7 +137,7 @@ In addition, if you reach out your empty hand, you can conjure a chilled, empty 
 
 ## Bracers of Holy Fury
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Fabled Priceless*
 
@@ -157,7 +157,7 @@ These anointed wrappings are inked with delicate holy scripts. While wearing the
 
 ## Chrono Glass
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Fabled Priceless*
 
@@ -188,7 +188,7 @@ This bronze hourglass contains fine white quartz sand. This magic hourglass, onc
 
 ## Dragonblood Vial
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Fabled Priceless*
 
@@ -212,7 +212,7 @@ While wearing the vial, as indicated in the **Dragon Type** table, you gain a co
 
 ## Dreadnought Plate
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Armor (Plate), Fabled Priceless (5th-Level and Higher Properties Require Attunement)*
 
@@ -230,7 +230,7 @@ This especially thick plate armor is crafted from ancient metal, heavily scarred
 
 ## Elemental Ring Blade
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Longsword), Fabled Priceless (5th-Level and Higher Properties Require Attunement)*
 
@@ -256,7 +256,7 @@ This sword has a long cylindrical hilt with five metal rings fitted over the hil
 
 ## Helm of the Medusa
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Wondrous Item, Fabled Priceless*
 
@@ -276,7 +276,7 @@ This tarnished bronze helm covers the wearer’s eyes and is embossed with snake
 
 ## Mayhem
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Weapon (Greataxe), Fabled Priceless (5th-Level and Higher Properties Require Attunement)*
 
@@ -298,7 +298,7 @@ This greataxe has a dulled, brushed texture and shows many scars, but it occasio
 
 ## Staff of the Toad King
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Staff, Fabled Priceless*
 
@@ -318,7 +318,7 @@ Warts dot the length of this green staff, an emerald frog sitting at its top. Wh
 
 ## Bright Fey Weapons (Labyrinth Worldbook)
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 The bright fey of the Summerlands have always stood sentinel against the creeping malignance of the Void, but recent years have seen the fey fall farther out of touch with the constant turbulence in the space between worlds. Some centuries ago, in an effort to better arm those most directly affected by the spread of the Void, several fey lords and ladies of the Bright Lands created an array of weapons to aid mortalkind in their continuing efforts.
 
@@ -328,7 +328,7 @@ See the start of this page for how fabled items work.
 
 ### Frostfallow Blade
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Weapon (Greatsword), Fabled Priceless*
 
@@ -348,7 +348,7 @@ While you hold this sword, you can’t be disarmed of it by any means unless you
 
 ### Springtide Bow
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Weapon (Longbow), Fabled Priceless*
 
@@ -368,7 +368,7 @@ You don’t need ammunition to fire this bow. When you prepare to make a ranged 
 
 ### Summerborn Spear
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Weapon (Spear), Fabled Priceless*
 
@@ -390,7 +390,7 @@ While you hold the spear, you can use an action to cause it to emit bright light
 
 ## The Grave Blade
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon (Longsword), Fabled Priceless (5th-level and higher properties require attunement)*
 
@@ -416,7 +416,7 @@ The pommel of this sword hums a wordless song that can be heard within a 5-foot 
 
 ## Skinchanger Arm Ring
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Wondrous Item, Fabled Priceless (5th-level and higher properties require attunement)*
 
@@ -442,7 +442,7 @@ As your level increases, you gain the following benefits while wearing this arm 
 
 ## Storrbani
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Weapon, Fabled Priceless (5th-level and higher properties require attunement)*
 
@@ -468,7 +468,7 @@ In addition, the spirit of Thogar Giant-Hewer awakens within the longsword. It b
 
 ## Tordalfr’s Rebuttal
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Javelin, Fabled Priceless (5th-level and higher properties require attunement)*
 
@@ -492,7 +492,7 @@ As your level increases, you gain the following benefits while wielding or holdi
 
 ## Monster Hunter’s Crossbow
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Weapon (Heavy Crossbow), Fabled Priceless (5th-level and higher properties require attunement)*
 
@@ -516,7 +516,7 @@ In addition, when you hit with this weapon, you can choose to force the target t
 
 ## Shroud of Shadows
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Wondrous Item, Fabled Priceless (5th-level and higher properties require attunement)*
 
@@ -536,7 +536,7 @@ In addition, as an action while you are in dim light or darkness, you can become
 
 ## Witch Light
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Wondrous Item, Fabled Priceless (5th-level and higher properties require attunement)*
 
@@ -560,7 +560,7 @@ In addition, as an action, you can summon three **will-o’-wisps** that remain 
 
 ## More Fabled Items (Trade Secrets)
 
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 Fabled items are magic items that grow in power as their owner does. This section details several new fabled magic items, each listing key information, such as its type, any attunement factors, and a description of its properties.
 
@@ -843,14 +843,4 @@ As an action, you can also assume a hybrid form for up to 1 hour per long rest. 
 ***Claw.*** *Melee Weapon Attack:* reach 5 ft., one target. *Hit:* 2d6 + 2 slashing damage.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
-
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

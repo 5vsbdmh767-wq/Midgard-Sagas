@@ -153,7 +153,7 @@ The options in the **Pet Names** table are ideal for companion creatures of all 
 
 ## Margrevian Names
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 The names of the people of the [[The Margreve|Margreve Forest]] are as varied as the people themselves, but some names are particularly popular. Most of these names originated from specific peoples within the Margreve Forest but have since spread to those who have traded with, been raised by, or otherwise interacted with such people. Use the Margrevian Names table when choosing a name for a character from the Margreve Forest or as inspiration for creating a name for such a character.
 
@@ -183,8 +183,4 @@ The names of the people of the [[The Margreve|Margreve Forest]] are as varied as
 | 10 | Vurenaedar (Ren) | Padhra | Zaawnee | Whiii | Yellowfang |
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

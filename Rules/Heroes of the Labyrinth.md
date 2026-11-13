@@ -27,7 +27,7 @@ The Labyrinth is the great maze of roads and portals that links Midgard to the o
   - [[Warlock#Celestial|Celestial]], and [[Warlock#Void Saint|Void Saint]] warlocks
   - [[Wizard#Void Caster|Void Caster]] wizards
   - New warlock [[Warlock#Eldritch Invocations (Labyrinth Worldbook)|eldritch invocations]]
-- **Spells and rituals:** mixed into the [[Spells]] and [[Rituals]] pages; the [[Spell Lists]] flag them *(optional, Labyrinth)*
+- **Spells and rituals:** mixed into the [[Spells]] and [[Rituals]] pages; the [[Spell Lists]] flag them
 - **Magic styles:** [[Magic Styles]], themed spell lists for clockwork, dream, illumination, portal, void, and ward magic
 - **Magic items:** mixed into the [[Magic Items]] pages, plus three [[Fabled Magic Items#Bright Fey Weapons (Labyrinth Worldbook)|bright fey weapons]]
 - **Vehicles:** six new vehicles on the [[Vehicles#Vehicle Descriptions (Labyrinth Worldbook)|Vehicles]] page
@@ -35,4 +35,4 @@ The Labyrinth is the great maze of roads and portals that links Midgard to the o
 Some of these options refer to void taint and dread, which your GM tracks.
 
 ---
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
+<small>Sources: [[Credits]].</small>

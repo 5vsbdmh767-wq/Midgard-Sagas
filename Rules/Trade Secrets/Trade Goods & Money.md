@@ -2,7 +2,7 @@
 aliases: [Trade Goods, Fantasy Finance, Market Prices]
 publish: true
 ---
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 Finance covers economic activity related to money, currency, or accounting. It’s how economic activity is measured and how businesses know whether they are thriving or failing.
 
@@ -730,4 +730,4 @@ While merchants can be stereotyped as greedy cutthroats, their best interests of
 Merchants also often hire adventurers to clear out troublesome monster lairs or to collect treasures they have buyers for. In short, they are often an invested part of a thriving community.
 
 ---
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Sources: [[Credits]].</small>

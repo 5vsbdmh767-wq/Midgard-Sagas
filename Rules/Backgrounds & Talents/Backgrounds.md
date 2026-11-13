@@ -416,7 +416,7 @@ You know the dangers and demands of an adventurer’s lifestyle, but consider ho
 
 ## More Backgrounds (Player's Guide 2)
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Your background helps define your PC’s history before becoming an adventurer. A background commonly represents your previous profession and the skills, proficiencies, and talents you cultivated due to your experience practicing that profession.
 
@@ -426,7 +426,7 @@ If a listed talent has an asterisk (*), look for its full description in the *Pl
 
 ## Alchemist
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 You’ve discovered how to concoct extraordinary wonders, combining natural and alchemical components to create something greater than the sum of its parts.
 
@@ -461,7 +461,7 @@ The services of alchemists are sought far and wide, even by those who do not ful
 
 ## Chronicler
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 You once spent your days documenting the world around you, listening to others’ stories, and preserving the details of eventful moments in their lives for posterity.
 
@@ -496,7 +496,7 @@ A chronicler is an observer, often more comfortable in documenting the actions o
 
 ## Gravedigger
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 After a body dies, it goes somewhere. Often, it went to you. Not for the work of consecrating the spirit or recounting the great deeds of the deceased but for the task of putting it into the ground.
 
@@ -531,7 +531,7 @@ Gravediggers often only encounter the downside of the adventuring life, burying 
 
 ## Healer
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 You used your knowledge of herbal remedies and traditional lore to care for your community. You might have been referred to as a sage or elder, but whatever your title, you used your manifold talents to serve others as a healer, protector, and guide.
 
@@ -566,7 +566,7 @@ A healer is tied to the community they call home, using their skills to help fri
 
 ## Investigator
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 You never met a problem that you didn’t want to solve. Why not make a living at it?
 
@@ -601,7 +601,7 @@ Investigators often work on the sidelines, examining the aftermath of others’ 
 
 ## Rebel
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 You were driven to change the world around you, to fight for your beliefs and values.
 
@@ -636,7 +636,7 @@ Rebels are driven by passion to advocate for their beliefs. As you begin your ow
 
 ## Servant
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 You worked for someone else, earning coin by doing the various tasks they couldn’t or didn’t want to do themselves. You might have helped to maintain a residence, raise a child, or ensure the comfort or safety of whoever employed you. Perhaps you were the trusted companion to one employer for years at a time, worked for a service that sent you on many different jobs, or were part of the living machinery of a large household, business, or government.
 
@@ -671,7 +671,7 @@ Servants work for others, often putting the needs of those they serve ahead of t
 
 ## Smuggler
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 You procured and transported goods on behalf of your clients, ensuring the contraband’s delivery to places where it was frowned upon, forbidden, or illegal.
 
@@ -706,7 +706,7 @@ Smugglers operate in the shadows—generally being known only to their clients�
 
 ## Forest Dweller
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 You are a creature of the forest, spending your days hunting and lounging under a canopy of green. You expected to live all your days in the forest, at one with the green things of the world, until an unforeseen occurrence, traumatic or transformative, drove you from your familiar home and into the larger world. Civilization is strange to you, the open sky unfamiliar, and the bizarre ways of the so-called civilized world run counter to the truths of the forest. Forest dwellers tend toward solitude, introspection, and self-sufficiency. You keep your own council, and you are more likely to watch from a distance than get involved in the affairs of others. You are wary, slow to trust, and cautious of depending on outsiders.
 
@@ -739,7 +739,7 @@ You have lived a simple life deep in the sheltering boughs of the [[The Margreve
 
 ## More Backgrounds (Labyrinth Worldbook)
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 The following backgrounds come from the Labyrinth Worldbook: cult escapee, wanderer, and four faction backgrounds (Concordan guard, grove warden, portal wright, and visionary). This section contains new backgrounds tied to the four major heroic factions. These backgrounds are aimed at characters who grew up in the [[The Labyrinth|Labyrinth]].
 
@@ -761,7 +761,7 @@ Characters with faction backgrounds joined one of the factions before they becam
 
 ## Cult Escapee
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 You were once a member of a cult but have since escaped from its clutches and become free of its influence—at least for now. The cult could be one of the major villainous factions described in **Chapter 3**, a lesser void cult, or a sect dedicated to an arch-devil, demon lord, celestial, or other powerful entity.
 
@@ -815,10 +815,9 @@ Most cultists remain with their sect for life, either because they are fanatical
 | 7 | I could feel the corruption of the Void beginning to take hold of my mind and change my body. I will find how to reverse this through adventuring. |
 | 8 | I can discover more forbidden knowledge on my adventures than I ever learned as a cultist. |
 
-
 ## Wanderer
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Before you began adventuring, you lived on one of the [[Worlds of the Labyrinth|Ten Thousand Worlds]], unaware of the Labyrinth and those who travel the spaces between the worlds. You wandered the hinterlands of your own world, perhaps making a living as a hunter or trapper, or acting as a guide or scout to those who sought to blaze a trail through the wilderness between towns and remote villages. You learned how to survive in the wilds and to enjoy your own company.
 
@@ -859,10 +858,9 @@ Characters with faction backgrounds joined one of the factions before they becam
 | 7 | I’ve grown tired of my own company and look forward to making new friends while adventuring. |
 | 8 | Adventuring in the Labyrinth offers me a chance to satisfy my wanderlust once and for all. |
 
-
 ## Concordan Guard
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 You joined the [[Concord of Stars]] (see **Chapter 3**) before you became an adventurer and played a role in defending the Labyrinth from the forces of the Void.
 
@@ -899,10 +897,9 @@ Most Concordan guards take pride in fighting for a good cause and enjoy the cama
 | 7 | I fell asleep on duty and was told my services were no longer required, so I became an adventurer. I’m determined to show the Concord what I’m capable of. |
 | 8 | I grew tired of taking orders from patronizing paladins and arrogant Concordan captains. It’s time to strike out on my own and enjoy an adventure or two. |
 
-
 ## Grove Warden
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Before embarking on your career as an adventurer, you joined the [[Old Ring]] Elders faction where you served as a grove warden, a sentry assigned to defend the natural world from those who would do it harm.
 
@@ -937,10 +934,9 @@ Grove wardens play a vital role in ensuring that the natural world is safeguarde
 | 7 | Adventuring is the quickest way I can earn enough money and retire while I’m young enough to enjoy it. |
 | 8 | Mossbeard the treant has asked me to undertake a special quest of the utmost importance. He told me not to discuss this task with another living soul. |
 
-
 ## Portal Wright
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 You joined the [[Keepers of the Keys]] (see **Chapter 3**) before you began adventuring and helped the faction maintain the Labyrinth and gather knowledge on its many portals and pathways.
 
@@ -973,10 +969,9 @@ Many Keepers are content to continue their studies or duties from the safety of 
 | 7 | After spending time as a Keeper, I’ve decided too many of them are dangerous idiots, constantly meddling with things best left alone. I’m off to seek adventure on the Old Ring or somewhere else a long way away from the Smithy. |
 | 8 | Everything I’ve learned in the Keepers has prepared me for a life of adventure in the Labyrinth. It’s time to put my skills into practice and serve my faction in the field. |
 
-
 ## Visionary
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Prior to becoming an adventurer, you joined the [[Servants of the Dreaming God]] faction (**Chapter 3**) and became a member of the Embraced, one of the three main Dreamer clans.
 
@@ -1000,13 +995,13 @@ While some visionaries continue to hone their skills by focusing their minds eve
 
 ## More Backgrounds (Lineages & Heritages)
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 These backgrounds come from the *[[Lineages & Heritages]]* supplements. The vampire hunter pairs naturally with the dhampir; the rest draw on organizations and places of Midgard, including two from [[Zobeck]], the Argent Rats and the Winter's Kiss embassy.
 
 ## Vampire Hunter
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 You trained and worked within a troupe of vampire hunters. You learned how to detect the presence of a vampire in a community, how to track it to its lair, and how to destroy it utterly. And you learned that vampire hunters live short, violent lives.
 
@@ -1041,7 +1036,7 @@ Perhaps the adventuring life is an extension of your previous line of work. Or m
 
 ## Argent Rats Mercenary
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 You were recruited by the Argent Rats, a group of former bandits aiming to legitimize themselves as a proper mercenary company. Their ranks are made of kobolds, ratfolk, dust goblins, and even halflings. No gnomes though! Never gnomes.
 
@@ -1076,7 +1071,7 @@ The experience between mercenary work and adventuring has a lot of overlap. An a
 
 ## Caravan Raider
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 You are the scourge of caravans and merchants, taking what you want with swift tactics to overwhelm your targets. Whether you act alone or with a gang of others, you have studied and tracked the trade routes between towns, cities, or kingdoms, plundering its riches. As a caravan raider, you have lived a life of ruthless means, combining careful scouting with crushing might to pillage the wealth you so rightfully deserve from those foolish enough to travel unprepared and unprotected.
 
@@ -1109,7 +1104,7 @@ Caravan raiders take advantage of trundling caravans and attack using swift and 
 
 ## Envoy of Winter
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 A herald of the Winter’s Kiss, the [[Shadow Fey]] Embassy in Zobeck, you have worked to further the influence of His Excellency Glaninin Thelamandrine, Ambassador-in-Extraordinary of the Winter Court within the free city and beyond. Whether you hail from the Winter Court directly or you bought into the opulence of the fey, you see the value in patience and a good deal. Despite an outsider's natural skepticism of your station, you know how to work with people to bring them to see things your way.
 
@@ -1142,7 +1137,7 @@ Envoys of Winter rarely leave Zobeck, but when they do, it is with the specific 
 
 ## Spy
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 You have trained in the ways of subterfuge and deception, selling your skills to those who want details on their enemies. Information is your stock in trade, and you know how to gather and take advantage of it.
 
@@ -1175,7 +1170,7 @@ Spies thrive in the margins of social circles, able to adapt and blend in to rem
 
 ## Venerator
 
-*Optional, from Lineages & Heritages.*
+%% source: Lineages & Heritages %%
 
 Before you became an adventurer, you trained to honor those who came before, whether they be ancestors, guardian spirits, or honored champions. You have spent time recounting the deeds and wisdom of those you venerate.
 
@@ -1212,13 +1207,13 @@ Venerators only leave their communities with good reason. Perhaps some calamity 
 
 ## More Backgrounds (Book of Blades)
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Backgrounds help define your character’s personal history before becoming an adventurer. When your character has a martial bent, their backgrounds sometimes reflect that.
 
 ## Ascetic
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 You gave up wealth in pursuit of spiritual or philosophical truths after the realization that material possessions tie you to this existence and stifle your inner growth. You own little—often only what you need to survive—and quickly give away any coin that comes into your possession.
 
@@ -1255,7 +1250,7 @@ Though some are born into the life of an ascetic, you chose to renounce your for
 
 ## Avatar
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Prophetic signs heralded your birth, or at least that is what you’ve always been told. From the moment you first drew breath, your deity singled you out as their mortal vessel and gave you a martial destiny as their mighty avatar.
 
@@ -1307,7 +1302,7 @@ You might embrace this destiny, finding confidence and power in the knowledge yo
 
 ## Battle Academician
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 What started as an academic career researching the tactics used in famous historic battles took a turn the first time you ventured into the field. Your accumulated knowledge of strategic history has prepared you for small melees and larger campaigns.
 
@@ -1342,7 +1337,7 @@ Most battle academicians take up an adventuring life to witness new tactics from
 
 ## Conscript
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 You were forced into military service. Perhaps it was punishment for a crime, part of your realm’s compulsory service, to pay off a debt, or due to a wartime effort to bolster forces. Whatever the reason, it was not the life you would have chosen.
 
@@ -1377,7 +1372,7 @@ Conscripts can come from a variety of backgrounds and lifestyles, but all have o
 
 ## Grave Keeper
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 You have spent your life tending to the dead and helping the living celebrate memories of the departed. Whether you spent time conducting the funerary rites of one culture or many, you intuitively understand loss and the many ways mortal creatures cope with death.
 
@@ -1412,7 +1407,7 @@ Grave keepers are among the rare people willing to confront the mysteries of dea
 
 ## Judicial Champion
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 You serve the law, acting as judge, jury, and executioner in matters of trial by combat for your village, town, or city. Or perhaps you roam the realm, hearing cases and presiding over trials in more remote areas of the countryside where you act as the voice of the regime, meting out justice as you see fit. You’ve studied history and law as much as you’ve learned to wield your weapon, and you consider yourself the authority in such matters.
 
@@ -1449,7 +1444,7 @@ Judicial Champions may serve a crown, a parliament, or answer directly to the pe
 
 ## Prodigal
 
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 You could have come from any comfortable walk of life, but one truth has resonated in you from the start—you don’t fit in. Maybe you were raised among the halls of wealth and privilege but yearned for the thrills of the streets. Maybe you grew up among modest, hardworking folk, but the idea of one big windfall always kept you dreaming. Regardless of the exact nature of your disconnect, you’ve been a thorn in the side of your conservative peers and elders for some time. When you took to the road, it surprised few (which isn’t to say it hurt no one). Now only you hold the reins of your destiny.
 
@@ -1484,13 +1479,13 @@ Prodigals are taking their first steps toward achieving their dreams but always 
 
 ## More Backgrounds (Northlands Worldbook)
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 These backgrounds come from the Northlands Worldbook and suit characters raised in the [[Northlands]]: dancing bear guide, doomed, former captive, ice nomad, Northlands reaver, preordained hero, seafarer, seer, and shipwright. For an ongoing goal your character can take up during play, see [[Character Threads]].
 
 ## Dancing Bear Guide
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You spent your formative years in the chapterhouses of the [[Lodge of the Dancing Bear]], a loose, widespread organization stretching across the Northlands. Members of the lodge—known as guides—are a rough and tumble lot. As a dancing bear guide, you are at home in the wilds of the North, but you make forays into civilization for the express purpose of exposing city-dwellers to the freedom of the wilds. You’ll show them what they’ve forgotten, and when they see, they’ll understand.
 
@@ -1523,7 +1518,7 @@ Your work as a guide exposed you to plenty of adventure. When you begin your jou
 
 ## Doomed
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You have been told you will never be welcomed in Valhalla, but you believe your fate is otherwise, if you can only prove your worth to the gods. Whether your doom is a dishonor or crime of your own making, or something thrust upon you by the actions of another, you are determined to achieve glory, even if you are not always forthcoming about what drives you to achieve greatness. Whatever you have done, and however you plan to find new renown, you have studied the judgment of the gods and the whims of fate enough to be sure of one thing: if enough of the world knows your valor, you will prove you are worthy to be considered a hero.
 
@@ -1556,7 +1551,7 @@ You can’t just sit around and wait for your doom to lift on its own. When you 
 
 ## Former Captive
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Whether captured after a battle or the victim of a raid, you were made a captive and told that you must work for your captors for a decade as an indentured servant. Until you found another way. You may have proven your strength, accomplished a great feat, or simply gathered enough knowledge of your captors to force them to see the error in their ways, but you soon convinced those who would have held you in indentured servitude for years to instead grant you your freedom.
 
@@ -1589,7 +1584,7 @@ Your opportunities to travel were limited by your captors’ whims. Consider wha
 
 ## Ice Nomad
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 While others may pursue conquest and grand adventure in the Northlands, you focused on the joy of the hunt and the victory of the harvest. You learned how to thrive in and on this icy land—where to find game, how to make food grow and where to store it, and when the winds and currents will shift from gentle to steady to punishing. Along the way, you have crossed what others think of as borders and territories in pursuit of the best that the land could provide, learning first-hand how to survive.
 
@@ -1622,7 +1617,7 @@ Survival is an adventure in and of itself. When you embark on your adventures, c
 
 ## Northlands Reaver
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 The brutal winters of the Northlands breed harsh people; perhaps none more so than the reavers. Your life has been a series of challenges to be overcome, spoils to be taken, and honor to be earned. You have sailed the icy Northern seas in the dead of winter and the black of night, and you have put your enemies to the blade and the flame. Your name is fear on the lips of your foes and glory in the songs of your comrades.
 
@@ -1655,7 +1650,7 @@ You have grown comfortable with your enemies cowering before you. When you begin
 
 ## Preordained Hero
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Your coming was foretold in legend and heralded in song. Whether you descend from the Norn, the Valkyries, or another power, your heroic journey has been set from birth. You are expected to accomplish great deeds, and this expectation is reflected in your training. You naturally display confidence, and your words can be inspiring to those who seem to gravitate to your side.
 
@@ -1688,7 +1683,7 @@ You have little choice in becoming an adventurer—after all, the songs and stor
 
 ## Seafarer
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You spent much of your formative years on the sea instead of land, surviving on the bounty of the shifting waters and staying ahead of the ever-changing currents. Your ability to navigate through the water has brought you to places that others only dream of, and whether you choose to share tales of your travels, your movement through the waves has been swift, far-reaching, and potentially deadly.
 
@@ -1721,7 +1716,7 @@ Your time on the water has granted you a measure of freedom to travel and encoun
 
 ## Seer
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Ever since you were a small child, you’ve seen things others did not. You might have dreamt of the local jarl falling from his horse, or you might have seen a sign of a troll attack in the pattern of a spider’s web. You may have shared this information with others, trading your knowledge for coin and offering blessings to those looking for a way forward, or you may have hidden it, afraid that others would blame you for their own destiny. Either way, you remain aware of the strings of fate, whether or not you care to understand them.
 
@@ -1754,7 +1749,7 @@ Your visions give you glimpses into other times and places but don’t require y
 
 ## Shipwright
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Not everyone can build a ship to sail in the icy waters of the Northlands. You have mastered your craft, shrugging off the cold wind against your fingers to bring your own special touch to ships designed to move swiftly through nearly frozen waters. Nimble as you move in and out of the bellies of the boats you create, you may work exclusively on land or travel on the ships you create, keeping them afloat even as they move through dangerous waters and fend off attacks at sea.
 
@@ -1787,13 +1782,13 @@ Many shipwrights spend their lives building ships, some without ever traveling a
 
 ## More Backgrounds (Night Hunters)
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 These backgrounds come from *Night Hunters* and suit characters in horror campaigns: cryptobiologist, monster hunter, practical occultist, spirit caller, and tomb raider. Some of their talents are new and found on the talent pages, marked as from *Night Hunters*.
 
 ## Cryptobiologist
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 You’ve dedicated yourself to the pursuit and advancement of the more nontraditional life sciences, even at the cost of your reputation. You’ve studied anatomy, biology, and medicine related to a wide assortment of creatures and are no longer content with merely learning about such things. You seek to leave your indelible mark upon the world.
 
@@ -1828,7 +1823,7 @@ Many cryptobiologists lead a quiet life tending to illnesses and minor injuries 
 
 ## Monster Hunter
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Before adventuring, you trained long hours, honing your body and mind to be the ultimate weapon for killing monsters. You spent your days learning combat techniques in the training yard and your nights listening to tales, studying ancient tomes, and scouring crumbling scrolls for the knowledge to destroy your foes.
 
@@ -1863,7 +1858,7 @@ Most monster hunters are familiar with life on the road, answering pleas for hel
 
 ## Practical Occultist
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 You’ve made a living by dabbling in the arcane, the esoteric, and the obscure as part of a secretive order dedicated to such work. Combining elements of spiritualism, religion, and mysticism with magic and science, you’ve pursued and perhaps even developed new avenues of study and practice.
 
@@ -1898,7 +1893,7 @@ Most practical occultists are used to a certain lifestyle within a particular so
 
 ## Spirit Caller
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Before adventuring, you spent your time communing with spirits—or at least you claimed you did. Whether you have a true ability to contact the souls of the dead or were a skilled charlatan preying on the bereaved (or perhaps both), you spent your time in parlors and cemeteries, calling to the dearly departed.
 
@@ -1933,7 +1928,7 @@ While some spirit callers travel the countryside, others never go any farther th
 
 ## Tomb Raider
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 There are no two ways about it: you’ve made your living by stealing from the dead. Delving into ruins, digging up ancient graves, and prying open dusty mausoleums are your bread and butter.
 
@@ -1967,18 +1962,4 @@ Those with your skill set are used to delving into deep and dangerous places. Ne
 | 8 | Something happened on my last delve that shook me to my core. I need some distance to come to grips with it. |
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Lineages & Heritages is from Lineages & Heritages Supplements 1 and 3 by Kobold Press.*
-
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

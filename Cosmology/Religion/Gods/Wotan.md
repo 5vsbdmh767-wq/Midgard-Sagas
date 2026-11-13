@@ -21,7 +21,6 @@ The World Tree, the single eye, runes, ravens, and wolves. His holy writings are
 ==**Shrines and Priests**==
 His greatest shrine is in the dwarven hall of [[Stannasgard]], where the rune chorus never stops. The kings and captains of the dwarven reavers are his priests or devoted followers.
 
-
 ==**In the North**==
 The [[Northlands]] also call him Shaman of the Gods. See [[Gods of the North]].
 

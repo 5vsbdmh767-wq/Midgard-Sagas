@@ -6,7 +6,7 @@ All rules pertaining to water vehicles, ocean based travel, naval or nautical co
 Some of this overlaps with Exploration Rules a bit, but the redundancy is on purpose.
 
 - [[Waterborne Travel]]
-- [[Ships and Sea Combat]] (optional, Northlands Worldbook): longship sailing, sea weather, and naval combat for the North
+- [[Ships and Sea Combat]]: longship sailing, sea weather, and naval combat for the North
 
 ## Combat
 - [[Attacking & Damage]]

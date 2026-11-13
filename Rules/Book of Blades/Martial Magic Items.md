@@ -2,7 +2,7 @@
 aliases: [Magic Items for Martial Wielders]
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 ## Magic Items for Martial Wielders
 
@@ -317,4 +317,4 @@ In addition, as an action, you can expend 2 charges to cast *commune with nature
 **17th Level.** You are immune to the frightened condition. In addition, at dawn you can choose one damage type: acid, cold, fire, lightning, or poison. You are immune to that damage type until the next dawn. While thus immune, parts of your skin are covered in a rough, ragged patchwork of scales.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

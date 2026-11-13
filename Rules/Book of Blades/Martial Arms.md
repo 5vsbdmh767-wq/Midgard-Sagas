@@ -2,7 +2,7 @@
 aliases: [Martial Arts Weapons, Nonmagical Arms]
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Weapons and armor have always played an important part in fantasy stories. They have names, histories, and sometimes personalities of their own. But when we go to recreate those kinds of stories at the table, the rules can make that difficult. Weapons get collapsed into properties and damage types. Even the experience of finding a new weapon can be dull: it’s used, or it’s magical while somehow still being generic, or it has that feeling of belonging to someone else and not you. This is not a terminal case, however.
 
@@ -158,4 +158,4 @@ A creature can attempt to break itself or another creature free from the lasso�
 ***Umbrella.*** You can open or close the umbrella as a bonus action. While open, an umbrella can either provide a flimsy half cover or negate the effects of sunlight sensitivity while you attack with a weapon in your other hand. While closed, you can use an umbrella as a weapon, driving the pointed edge of the umbrella’s tip into your enemy.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

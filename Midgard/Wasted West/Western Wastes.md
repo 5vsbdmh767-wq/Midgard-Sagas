@@ -42,7 +42,7 @@ The Walkers cannot be dismissed and cannot be reasoned with. Called the Waste Wa
 ## Cursed Lines and Arcane Weather
 With no ley lines left, magic here is unreliable. Whole stretches of dunes kill all magic one day and amplify it the next, spells fizzle or surge for no reason, and teleportation and shadow roads are especially risky: without ley lines to guide them, travelers can go nowhere, arrive somewhere unintended, or end up stranded between worlds.
 
-*Optional, from the Midgard Worldbook.* Right after a character casts a spell of 1st level or higher in the Wastes, the player rolls a d10 (a d8 for *dimension door*, *teleport*, and other transportation spells). On a 2 or higher, the spell works normally. On a 1, the spell slot is spent and the GM rolls on the table below.
+%% source: Midgard Worldbook %% Right after a character casts a spell of 1st level or higher in the Wastes, the player rolls a d10 (a d8 for *dimension door*, *teleport*, and other transportation spells). On a 2 or higher, the spell works normally. On a 1, the spell slot is spent and the GM rolls on the table below.
 
 | d100 | Effect |
 |---|---|

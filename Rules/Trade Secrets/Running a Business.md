@@ -2,7 +2,7 @@
 aliases: [Hirelings Expanded, Commerce Resolution]
 publish: true
 ---
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 PCs with a more entrepreneurial nature might wish to start a business of their own, buying and selling whatever goods they feel are likely to make them the most profit. How and where they try this has an impact on not just their startup costs, but also on their ongoing operating costs, and ultimately, their profits. For choosing a location, trade, and inventory, see [[Creating a Business]].
 
@@ -343,4 +343,4 @@ The check determines how much money the PC earned that day, as shown on the **Co
 Note that if you are using the [[Setting Up Shop]] rules, the choices you make there modify this roll, the percentages listed in the resolutions, or both.
 
 ---
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Sources: [[Credits]].</small>

@@ -5,7 +5,7 @@ Technical talents affect a character’s noncombat abilities, granting utility-b
 
 ## Adroit Attunement
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Character 5th Level or Higher*
 
@@ -13,7 +13,7 @@ Your familiarity with or intuitive grasp of magic items allows you to easily swa
 
 ## Alchemy Adept
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: Proficiency with Alchemist Tools*
 
@@ -31,7 +31,7 @@ You’ve studied the art of alchemy extensively, and you gained these benefits:
 
 ## Appraiser’s Knack
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 You know how to identify objects of worth and can spot fakes, granting you the following benefits:
 
@@ -55,7 +55,7 @@ You have exceptional situational awareness. When you select this talent, you gai
 
 ## Blessing of Bragi
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You invoke the love of the Vanir. You gain these benefits:
 
@@ -65,7 +65,7 @@ You invoke the love of the Vanir. You gain these benefits:
 
 ## Blessing of Heimdall
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You become vigilant and emulate Heimdall’s aptitude with Gjallarhorn. You gain these benefits:
 
@@ -87,7 +87,7 @@ Your skill is only outmatched by your infectious lucky streak. You gain these be
 
 ## Brewer
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You know how to brew mead and ale. You gain these benefits:
 
@@ -99,7 +99,7 @@ You know how to brew mead and ale. You gain these benefits:
 
 ## Chosen by Fate
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 [[The Norns]] have chosen you for greater things. As a result, you gain these benefits:
 
@@ -111,7 +111,7 @@ You know how to brew mead and ale. You gain these benefits:
 
 ## Clout
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Strength 13+*
 
@@ -123,7 +123,7 @@ You are respected by Vikings and other warriors. You gain these benefits.
 
 ## Cold Plunge Training
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You’ve spent time diving and swimming in cold water. You gain these benefits:
 
@@ -135,7 +135,7 @@ You’ve spent time diving and swimming in cold water. You gain these benefits:
 
 ## Cold Water Warrior
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Strength or Dexterity 13+*
 
@@ -175,7 +175,7 @@ You trained in the art of espionage. You gain these benefits:
 
 ## Crafter
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You can craft things quickly when you need to. You gain these benefits:
 
@@ -199,7 +199,7 @@ You’ve studied—or at least survived—your share of hazards and learned a th
 
 ## Empathetic
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: None*
 
@@ -213,7 +213,7 @@ You are uncommonly attuned to the emotions of others— allowing you to read peo
 
 ## Endurance Conditioning
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Constitution 13+*
 
@@ -227,7 +227,7 @@ You are conditioned to withstand bodily strain. You gain these benefits:
 
 ## Entertainer
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: CHA 13 or Higher*
 
@@ -237,7 +237,7 @@ When you perform for at least 1 minute, you can produce a nonmagical effect that
 
 ## Escamotage
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: None*
 
@@ -263,7 +263,7 @@ You have traveled the world and been to many fantastical places. You gain these 
 
 ## Fast Crafter
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: [[#Crafter|Crafter]] Talent*
 
@@ -287,7 +287,7 @@ You trained to provide emergency medical assistance. When you select this talent
 
 ## Fisher
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You are practiced at fishing. You gain these benefits:
 
@@ -299,7 +299,7 @@ You are practiced at fishing. You gain these benefits:
 
 ## Fjord Jumper
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *Prerequisite: Strength 13+*
 
@@ -311,7 +311,7 @@ You are an accomplished jumper. You gain these benefits:
 
 ## Forest Denizen
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Your time in forests has made you familiar with the ways and dangers of the forest and its inhabitants. You gain these benefits:
 
@@ -321,7 +321,7 @@ Your time in forests has made you familiar with the ways and dangers of the fore
 
 ## Friend of the Fey
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 Your exposure to fey has taught you how to get by in their circles and the dangers of interacting with them. You gain these benefits:
 
@@ -331,7 +331,7 @@ Your exposure to fey has taught you how to get by in their circles and the dange
 
 ## Friend of the Forest
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 After spending time in forests, you have attuned yourself to the ways of the woods and the creatures in it. You gain these benefits:
 
@@ -341,7 +341,7 @@ After spending time in forests, you have attuned yourself to the ways of the woo
 
 ## Frost Eyed
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Your time in the cold north has made you eagle-eyed. You gain these benefits:
 
@@ -353,7 +353,7 @@ Your time in the cold north has made you eagle-eyed. You gain these benefits:
 
 ## Ghostly Sight
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 *Prerequisite: Character 4th Level or Higher*
 
@@ -373,7 +373,7 @@ You’ve shored up weaknesses in a particular ability. You gain these benefits:
 
 ## Hardy
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: CON 15 or Higher*
 
@@ -387,7 +387,7 @@ You are remarkably resilient, and you gain these benefits:
 
 ## Hunter
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 Your ability to track your prey and hide from it improves. You gain these benefits:
 
@@ -397,7 +397,7 @@ Your ability to track your prey and hide from it improves. You gain these benefi
 
 ## Improviser
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: None*
 
@@ -405,7 +405,7 @@ You’ve learned to adapt to new situations on the fly. As an action, you can us
 
 ## Learned Researcher
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: None*
 
@@ -415,7 +415,7 @@ When you spend downtime researching (see *Player’s* *Guide*), the cost and tim
 
 ## Living Off the Land
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You have little trouble in the wilderness. You gain these benefits:
 
@@ -425,7 +425,7 @@ You have little trouble in the wilderness. You gain these benefits:
 
 ## Locksmith
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Prerequisite: Proficiency with Thieves Tools*
 
@@ -439,7 +439,7 @@ You have an uncanny knack for manipulating both mundane and magical locks.
 
 ## Mountebank’s Charm
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 You’ve practiced your banter and misdirection to rival the finest of stage magicians. Choose two of the following skills: Deception, Performance, or Sleight of Hand. When you make a check using the chosen skills, treat any d20 roll of 9 or less as though you rolled a 10.
 
@@ -449,7 +449,7 @@ You can use each of these features a number of times equal to your PB, and you r
 
 ## Musician
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: None*
 
@@ -463,7 +463,7 @@ You’re a master musician, and you gain these benefits:
 
 ## Norn-Touched
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 The thread of your life has been touched by the Norns. You gain these benefits:
 
@@ -473,7 +473,7 @@ The thread of your life has been touched by the Norns. You gain these benefits:
 
 ## Northern Raider
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You were trained as a raider. You gain these benefits:
 
@@ -483,7 +483,7 @@ You were trained as a raider. You gain these benefits:
 
 ## Northlands Hardiness
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You are adapted to the cold of the [[Northlands]]. You gain these benefits:
 
@@ -513,7 +513,7 @@ With one hour of work, you can concentrate, customize, or otherwise empower a si
 
 ## Perfect Memory
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 You can remember anything you’ve seen, heard, or experienced in perfect detail.
 
@@ -547,7 +547,7 @@ You are uncommonly agile. While not wearing medium or heavy armor, you gain thes
 
 ## Quick Recovery
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: CON 13 or Higher*
 
@@ -559,7 +559,7 @@ Your body is so well conditioned for adventure that you gain the following benef
 
 ## Ravens’ Friend
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You’ve gained the favor of ravens. You gain these benefits:
 
@@ -569,7 +569,7 @@ You’ve gained the favor of ravens. You gain these benefits:
 
 ## Relentless Hunter
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 You are an expert at hunting prey. You are never more at home than when on a hunt, and your quarry rarely escapes you. You gain the following benefits:
 
@@ -592,7 +592,7 @@ You have a keen eye for detail. You gain these benefits:
 
 ## Sea Wolf
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You are a practiced reaver. You gain these benefits:
 
@@ -602,7 +602,7 @@ You are a practiced reaver. You gain these benefits:
 
 ## Silver Tongued
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: CHA 13 or Higher*
 
@@ -612,7 +612,7 @@ When you spend downtime carousing (see *Player’s Guide*), the cost and time it
 
 ## Sleuth
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: INT 13 or Higher, or WIS 13 or Higher*
 
@@ -624,7 +624,7 @@ You can use each of these features a number of times per day equal to your PB, a
 
 ## Slippery
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: None*
 
@@ -636,7 +636,7 @@ You are elusive, able to escape obstacles and foes that would grasp or slow you 
 
 ## Snowrunner
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You are adept at moving through snowy and icy terrain. You gain these benefits:
 
@@ -664,7 +664,7 @@ You honed your skills to work in a particular profession. When you select this t
 
 ## Trailblazer
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: None*
 
@@ -680,7 +680,7 @@ You move with alacrity, no matter the mode of locomotion, and you gain these ben
 
 ## Versatile Driver
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *Prerequisite: Proficiency with any Vehicle, INT 13 or higher*
 
@@ -692,7 +692,7 @@ Your intuitive knack for driving, piloting, or controlling a particular type of 
 
 ## Well-Versed
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You know the sagas of your people and others and can use that knowledge to help you. You gain these benefits:
 
@@ -702,7 +702,7 @@ You know the sagas of your people and others and can use that knowledge to help 
 
 ## Wild Lore
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 You are knowledgeable about the natural world. You gain these benefits:
 
@@ -714,7 +714,7 @@ You are knowledgeable about the natural world. You gain these benefits:
 
 ## Wrangler
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *Prerequisite: None*
 
@@ -727,14 +727,4 @@ You are an experienced animal trainer, and you gain these benefits:
 - You can issue instructions to friendly Beasts (and creatures with the Animal tag) if the creature’s CR is less than half your character level. As a bonus action, you can direct these friendly creatures to move, and in exchange for one of your own attacks, you can instruct the creature to attack.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

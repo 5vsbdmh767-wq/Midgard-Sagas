@@ -40,4 +40,4 @@ Travel into other planes of existence is a legendary journey to a mythic destina
 ***Portals.*** Portals (sometimes called “gates” or “gateways”) are crossing points that allow a creature to travel from one specific location to another specific location on a different plane. Some portals are like doorways, and stepping through (knowingly or unknowingly) activates its travel property. Other portals are distinct locations of their own: circles of standing stones, soaring towers, sailing ships, or even whole towns that exist in multiple planes at once, transporting all creatures within as they flicker from plane to plane.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

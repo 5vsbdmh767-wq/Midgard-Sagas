@@ -585,7 +585,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 ## Eldritch Invocations (Player's Guide 2)
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 This section lists additional eldritch invocations options available for warlocks to learn. See the Eldritch Invocations class feature in the *Player’s Guide* for the full description of how these invocations work.
 
 #### Deep Dweller
@@ -624,7 +624,7 @@ In addition, a hostile creature that starts its turn within the aura’s radius 
 
 ## Warlock Boons
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the warlock class.
 
@@ -658,12 +658,12 @@ Your commitment to the warlock’s path grants you a powerful new ability. You g
 
 ## More Warlock Subclasses
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 At 3rd level, warlocks gain the Warlock Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available when making that choice: Archon, Elemental Regent, or Fey Noble.
 
 ## Archon
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Your patron is an otherworldly being bound to the forces of law and order. Archon patrons relentlessly pursue whichever cosmic plan guides their path, eliminating anything that would threaten the fulfilment of their agenda. Patrons of this type occasionally hail from celestial or fiendish realms associated with good or evil, but they are more commonly strictly neutral beings that forgo messy concepts like morality in favor of strictly regulated efficiency and perfection—particularly living Constructs like mechadrons.
 
@@ -722,7 +722,7 @@ Until the sphere ends, creatures within the sphere, including you, can’t have 
 
 ## Elemental Regent
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Your patron is an elemental entity with dominion over a sizeable territory within its elemental plane. You are one of its elemental representatives on the Material Plane, and it often calls upon you to engage in proxy battles against other elemental monarchs intruding upon the plane.
 
@@ -828,7 +828,7 @@ As a bonus action, you can fully manifest your elemental form for 1 minute. You 
 
 ## Fey Noble
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 Your patron is an immortal fey, one whose existence predates the advent of mortals. The patron’s intentions remain unknown to you, or it might deceive you about them, but typically, its motives revolve around ancient grudges against other powerful and long-lived beings or serve as a steppingstone to greater power or to an upheaval in fey hierarchy.
 
@@ -889,7 +889,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 ## Eldritch Invocations (Tales of the Old Margreve)
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 When you learn an eldritch invocation, you can choose from the following additional options. If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisite. If a prerequisite lists a level requirement, that is the minimum warlock level required (you can take it at higher warlock levels).
 
@@ -963,13 +963,13 @@ You can cast awaken once without expending a spell slot or material components. 
 
 ## Old Margreve Warlock Subclasses
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 At 3rd level, a warlock gains the Warlock Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Elder Wood or Hunter in Darkness.
 
 ## Elder Wood
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 You have made a pact with the ancient intelligence of a primeval forest. Before the rise of human civilization, before the time of the elves, before even the dragons, there were the forests. Empires rise and fall around them, but the forests remain as a testament to nature's endurance.
 
@@ -1047,7 +1047,7 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 ## Hunter in Darkness
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 A manifestation of the primal dynamic present in every animal, the Hunter in Darkness is an entity that sees all creatures as prey—and it enjoys instilling fear in its prey. It prefers intelligent prey over mere beasts, as their fear tastes so much sweeter. Hunters who display impressive prowess for hunting pique its interest. The Hunter in Darkness often bestows its power on such individuals to spread fear farther than the Hunter can by itself.
 
@@ -1122,7 +1122,7 @@ When you reduce a hostile creature to 0 HP, you can use a bonus action to force 
 
 ## Eldritch Invocations (Labyrinth Worldbook)
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 The following invocations are available to warlock characters in the [[The Labyrinth|Labyrinth]] campaign setting.
 
@@ -1170,17 +1170,15 @@ When you successfully hit a target with two or more beams created by your Eldrit
 
 ## Labyrinth Warlock Subclasses
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 At 3rd level, a warlock gains the Warlock Subclass feature. The following subclasses from the Labyrinth are also available when making that choice: Celestial or Void Saint.
 
 ## Celestial
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Your patron is a greater Celestial who commands angels or similar divine servants. Celestial patrons are typically paragons of the cosmic forces of good or law—but rarely both, since it is rare to find a mortal who demonstrates both virtues in equal measure. These patrons are often drawn to troubled souls who possess the capacity to become great, rather than those who already demonstrate noble virtues. Celestial patrons—for better or worse—are often generous with their gifts, but equally generous with their expectations.
-
-
 
 **Celestial Progression**
 
@@ -1246,10 +1244,9 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 ## Void Saint
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 Your patron is one of the mysterious void saints (see [[Servants of Nidhogg]] in **Chapter 2**), an undying entity transformed by the vile energies of the Void. These patrons often choose warlocks in whom they see great channeling potential, hoping to one day turn them into powerful agents of the Void. Those who pursue this path usually have had a significant encounter with a Deep Void entity at some point in their past and are forever marked by the dark fortune that somehow allowed them to survive it. Whether you serve your patron to protect yourself from the hungering dark, simply desire power, or hope to turn the weapons of the Void against itself—you know all too well that those who walk in the light are ill-equipped to fight the terrible things that lurk in farthest reaches of reality.
-
 
 **Voint Saint Progression**
 
@@ -1316,13 +1313,13 @@ Once you use this feature, you must finish a long rest before you can use it aga
 
 ## Northlands Warlock Subclasses
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 At 3rd level, a warlock gains the Warlock Subclass feature. The following subclass from the [[Northlands]] is also available when making that choice: Trickster.
 
 ## Trickster
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 From the halls of the fey to the antics of [[Loki]], there are entities who embody the primal nature of chaos. Your pact draws upon one of these powers, perhaps a creature with an aspect of whimsy or a deity relishing in tricks and ploys. Your patron asks you to sow chaos and delight in mischief. If you squint, you can almost make sense of the method behind their seeming madness.
 
@@ -1389,13 +1386,13 @@ You can use this feature once and must finish a short or long rest before using 
 
 ## Night Hunters Warlock Subclasses
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 At 3rd level, a warlock gains the Warlock Subclass feature. The following subclass from *Night Hunters* is also available when making that choice: Hagsworn.
 
 ## Hagsworn
 
-*Optional, from Night Hunters.*
+%% source: Night Hunters %%
 
 Your patron is a yaga, an ancient and powerful elder hag to whom other hags swear fealty. As some of the most magical and diverse beings in existence, the desires and agendas pursued by hag patrons are often changeable and inscrutable. A warlock sworn to a yaga is used as an emissary to the mortal world—tasked with delivering messages, retrieving items of power, or slaying creatures that threaten their master’s influence—and expected to do so without question. In return, the yaga bestows the secrets of her eldritch craft, much like a master artisan trains an apprentice.
 
@@ -1472,14 +1469,4 @@ As a bonus action, you can produce one of the following effects, which lasts for
 Once you have used one of these effects, you can’t use either until you finish a long rest.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
-
-*Material marked as from Night Hunters is from Night Hunters by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

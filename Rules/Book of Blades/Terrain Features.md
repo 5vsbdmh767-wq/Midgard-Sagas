@@ -2,7 +2,7 @@
 aliases: [Weather Effects (Book of Blades)]
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 Throughout history—both real and imagined—terrain and weather have affected the outcomes of battles, which in turn affect the outcomes of wars. At the fabled Battle of Thermopylae, the Spartans used the narrow mountain passages to limit the number of Persians they were fighting at a time. In 1274, a typhoon struck the Mongol fleet attempting to invade Japan, leading to a third of the ships sinking, the rest damaged, with around 13,000 casualties. In wars as far-ranging as the American Revolution, the Peninsular War, and the Vietnam War, military forces at a significant numerical disadvantage used terrain and weather to turn the tide of battle. Indeed, terrain is so important that Sun Tzu devoted an entire chapter to it in *The Art of War*.
 
@@ -314,4 +314,4 @@ The **Glossary of Effects** section can also act like a grab bag for any weather
 ***Unstable Ground.*** All creatures in the area of effect have disadvantage on saves against being knocked prone or other checks to maintain balance.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

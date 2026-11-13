@@ -2,7 +2,7 @@
 aliases: [Clockwork Arcanepunk Devices]
 publish: true
 ---
-*Optional, from Book of Blades.*
+%% source: Book of Blades %%
 
 The list below provides clockwork extensions for gearforged (see *Labyrinth Worldbook*) or other contruct‑based characters that can replace limbs with weapons or utility gadgets. For certain campaigns, a GM might also allow flesh-and-blood PCs to take these in place of lost body parts.
 
@@ -89,4 +89,4 @@ While the hand is extended, you can still manipulate the hand’s digits. As a b
 Clockwork items can fail spectacularly. The combination of unstable energies and experimental technology (often hastily repaired) creates the perfect formula for explosive results. When such devices fail, consider rolling on the **Clockwork Malfunctions** table for a consequence.
 
 ---
-*Material marked as from Book of Blades is from Book of Blades by Kobold Press.*
+<small>Sources: [[Credits]].</small>

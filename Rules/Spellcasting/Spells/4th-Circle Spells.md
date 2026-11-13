@@ -3,7 +3,7 @@ publish: true
 ---
 ## Acid Rain
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Circle Arcane and Primordial (Evocation)*
 
@@ -25,7 +25,7 @@ As a bonus action, you can move the cloud up to 30 feet.
 
 ## Amorphous Form
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *4th-Circle Arcane and Primordial (Transmutation)*
 
@@ -51,7 +51,7 @@ The creature is limited by the nature of the ooze’s form. It can’t speak, ca
 
 ## Angrboda’s Fury
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Arcane and Divine (Transmutation)*
 
@@ -89,7 +89,7 @@ As an action, you can move the eye up to 30 feet in any direction. There is no l
 
 ## Aura of Mercy
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Circle Divine (Abjuration)*
 
@@ -129,7 +129,7 @@ If the target is native to a different plane of existence than the one you’re 
 
 ## Beseech the Norns
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Divine (Divination)*
 
@@ -175,7 +175,7 @@ A creature restrained by the tentacles can use its action to make a STR or DEX c
 
 ## Bladed Wings
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Circle Arcane (Transmutation)*
 
@@ -197,7 +197,7 @@ As an action, you can launch the metallic feathers in a 60-foot cone of razor-sh
 
 ## Bladed Wings (Labyrinth)
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *4th-Circle Arcane (Transmutation)*
 
@@ -241,7 +241,7 @@ If you target a nonmagical plant that isn’t a creature, such as a tree or shru
 
 ## Burning Pitch
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Circle Arcane and Primordial (Evocation)*
 
@@ -265,7 +265,7 @@ On landing, the tar creates a poisonous cloud. On a hit, the cloud extends 5 fee
 
 ## Burrow Striker
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *4th-Circle Primordial (Transmutation)*
 
@@ -287,7 +287,7 @@ On a hit, you deal your normal damage and the target can’t make opportunity at
 
 ## Castigation Glyph
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *4th-Circle Divine (Abjuration)*
 
@@ -309,7 +309,7 @@ The marked creature can repeat the save at the end of each of its turns, ending 
 
 ## Claws of the Bear
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Divine and Primordial (Transmutation)*
 
@@ -526,7 +526,7 @@ At the start of each of your turns, the hound attempts to bite one creature with
 
 ## Fiery Siege
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Arcane, Divine, and Primordial (Transmutation)*
 
@@ -544,7 +544,7 @@ You touch a siege weapon, imbuing it with pyroclastic power. For the duration, t
 
 ## Fist of the Frost Jarl
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Arcane and Wyrd (Evocation)*
 
@@ -584,7 +584,7 @@ The target can also spend 5 feet of movement to automatically escape from nonmag
 
 ## Freeze Metal
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Circle Arcane and Primordial (Transmutation)*
 
@@ -606,7 +606,7 @@ If a creature is holding or wearing the item and takes damage from it, the creat
 
 ## Ghostly Crew
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Arcane and Divine (Necromancy)*
 
@@ -680,7 +680,7 @@ Any creature hostile to you that moves to a space within 10 feet of the guardian
 
 ## Harry
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *4th-Circle Arcane (Enchantment)*
 
@@ -702,7 +702,7 @@ On a successful save, the target isn't affected, and you can't use this spell ag
 
 ## Hearthfire
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Arcane, Divine, and Primordial (Abjuration)*
 
@@ -720,7 +720,7 @@ You touch one large or smaller object that isn’t being worn or carried by some
 
 ## Heart-Seeking Arrow
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *4th-Circle Divine and Primordial (Transmutation)*
 
@@ -778,7 +778,7 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 ## Nether Weapon
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *4th-Circle Arcane and Wyrd (Transmutation)*
 
@@ -798,7 +798,7 @@ You scrawl a Void rune on a weapon you touch. Until the spell ends, the weapon t
 
 ## Noble Sacrifice
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Divine (Abjuration)*
 
@@ -816,7 +816,7 @@ The creature is restored to 1 HP, and you lose half of your current hit points.
 
 ## Ode to Wrath
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Arcane (Enchantment)*
 
@@ -834,7 +834,7 @@ You begin a poetic chant that is magically accompanied by a trio of pounding dru
 
 ## Otherworldly Orchestra
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Circle Arcane and Divine (Illusion)*
 
@@ -858,7 +858,7 @@ You create stirring orchestral music that emanates from an unoccupied space with
 
 ## Pawn of the Wyrd
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Arcane, Divine, Primordial, and Wyrd (Divination)*
 
@@ -876,7 +876,7 @@ You cast your fate to the winds and accept the guidance of the Norns. The creatu
 
 ## Personal Cannibal
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *4th-Circle Arcane (Transmutation)*
 
@@ -956,7 +956,7 @@ A *[[6th-Circle Spells#Disintegrate|disintegrate]]* spell targeting the globe de
 
 ## Skaldic Scolding
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Arcane (Enchantment)*
 
@@ -976,7 +976,7 @@ The creature that damaged you is bombarded with a barrage of scathing insults an
 
 ## Song of the Shield Wall
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Arcane and Divine (Abjuration)*
 
@@ -996,7 +996,7 @@ You begin a chant that is magically accompanied by the clanging sound of hammers
 
 ## Spectral Wall
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *4th-Circle Arcane and Divine (Necromancy)*
 
@@ -1016,7 +1016,7 @@ When the wall appears, each creature within its area must make a DEX save. On a 
 
 ## Spirit Rend
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Circle Wyrd (Necromancy)*
 
@@ -1068,7 +1068,7 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 
 ## Storm Maiden’s Edge
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Divine and Primordial (Evocation)*
 
@@ -1090,7 +1090,7 @@ A creature hit by the weapon must make a STR save against your spell save DC. On
 
 ## Storm of Wings
 
-*Optional, from Tales of the Old Margreve.*
+%% source: Tales of the Old Margreve %%
 
 *4th-Circle Primordial and Wyrd (Conjuration)*
 
@@ -1116,7 +1116,7 @@ As a bonus action on your turn, you can move the storm up to 30 feet. As an acti
 
 ## Tree Thump
 
-*Optional, from Player's Guide 2.*
+%% source: Player's Guide 2 %%
 
 *4th-Circle Primordial (Evocation)*
 
@@ -1136,7 +1136,7 @@ A Large tree within range bows and sweeps into a target of your choice within 10
 
 ## Valhalla’s Cohort
 
-*Optional, from Northlands Worldbook.*
+%% source: Northlands Worldbook %%
 
 *4th-Circle Arcane and Divine (Conjuration)*
 
@@ -1182,7 +1182,7 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 fire d
 
 ## Wield Soul
 
-*Optional, from Labyrinth Worldbook.*
+%% source: Labyrinth Worldbook %%
 
 *4th-Circle Arcane and Divine (Necromancy)*
 
@@ -1199,12 +1199,4 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 fire d
 You touch a creature that died within the last minute and steal some of its power. The target must succeed on a WIS save or you gain knowledge of the spells, actions, bonus actions, and reactions it knew. Choose one of these features. You can’t choose a Legendary Action, Lair Action, or trait. Until you finish a long rest, you can use the appropriate action to activate that feature once, using the creature’s save DC, attack bonus, or similar statistics necessary to use the feature.
 
 ---
-*This page includes material taken from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
-
-*Material marked optional is from Tales of the Valiant Player's Guide 2 by Kobold Press.*
-
-*Material marked as from Tales of the Old Margreve is from Tales of the Old Margreve by Kobold Press.*
-
-*Material marked as from Labyrinth Worldbook is from the Labyrinth Worldbook by Kobold Press.*
-
-*Material marked as from Northlands Worldbook is from the Northlands Worldbook by Kobold Press.*
+<small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

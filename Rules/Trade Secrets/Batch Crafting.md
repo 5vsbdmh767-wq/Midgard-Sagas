@@ -2,7 +2,7 @@
 aliases: [Batch Crafting Downtime Activities, Trade Skills]
 publish: true
 ---
-*Optional, from Trade Secrets.*
+%% source: Trade Secrets %%
 
 Trade skills downtime activities are more detailed versions of the [[Between Adventures#Crafting|crafting downtime activity]] (see *Player’s Guide*). Use these options for a more story-oriented downtime with higher risks and rewards.
 
@@ -384,4 +384,4 @@ You spend your downtime cutting down trees and cutting timber into lumber. It’
 Prices on this page are base prices. For trade good prices and how local markets change them, see [[Trade Goods & Money]].
 
 ---
-*Material marked as from Trade Secrets is from Trade Secrets by Kobold Press.*
+<small>Sources: [[Credits]].</small>
