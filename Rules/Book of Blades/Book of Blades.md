@@ -19,7 +19,7 @@ publish: true
 - **Heritages:** [[Heritages#Horse Lord Heritage|horse lord]], [[Heritages#Martial Law Heritage|martial law]], [[Heritages#Privileged Heritage|privileged]]
 - **Backgrounds:** [[Backgrounds#Ascetic|Ascetic]], [[Backgrounds#Avatar|Avatar]], [[Backgrounds#Battle Academician|Battle Academician]], [[Backgrounds#Conscript|Conscript]], [[Backgrounds#Grave Keeper|Grave Keeper]], [[Backgrounds#Judicial Champion|Judicial Champion]], [[Backgrounds#Prodigal|Prodigal]]
 - **Martial talents:** [[Martial Talents#Battle Tactician|Battle Tactician]], [[Martial Talents#Poisoner|Poisoner]], [[Martial Talents#Tactical Planning|Tactical Planning]], [[Martial Talents#Unarmed Maneuvers|Unarmed Maneuvers]], [[Martial Talents#War Dancer|War Dancer]], [[Martial Talents#Weapon Option Specialist|Weapon Option Specialist]]
-- [[Fighting Mechanics]]: new martial actions, and augment effects for mechanists
+- [[Fighter#Martial Action|Fighting Mechanics]]: new martial actions, and augment effects for mechanists
 - [[Character Themes]]: ready-made combinations of options for fifteen kinds of warrior
 
 ## Equipment
@@ -30,16 +30,16 @@ publish: true
 - [[Arcanepunk Items]]: gem-powered magic technology
 - Magic items for martial characters are in the [[Magic Items]] lists; the fabled ones are under [[Fabled Magic Items]]
 - [[Weapons of Legacy]]: weapons that grow with their wielder's deeds
-- [[Booby Traps]] and [[Siege Engines]]
+- [[Ranger#Booby Traps|Booby Traps]] and [[Siege Engines]]
 
 ## New Ways to Fight
 - [[Battle Tactics]]
 - [[Naval Battles]]
 - [[Terrain Features]], including weather effects
 - [[Heroic Endowments]]
-- [[Technique Forms]]
+- [[Monk#Technique Forms|Technique Forms]]
 - [[Single Combat]]: dueling, wrestling, jousting, and trial by combat
-- [[Tracking in Combat]]
+- [[Ranger#Tracking in Combat|Tracking in Combat]]
 - [[Warframes]]
 
 ---

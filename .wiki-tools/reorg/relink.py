@@ -32,3 +32,25 @@ def relink(mapping, pages=None):
             t = pat.sub(sub, s)
             if t != s: open(p, 'w', encoding='utf-8').write(t)
     return n
+
+def retire(page, newpage, newanchor=None, aliases=()):
+    """Point every link to a removed page (or its aliases) at newpage#newanchor. Sub-anchors are kept on the new page."""
+    n = 0; names = (page,) + tuple(aliases)
+    pat = re.compile(r'\[\[(' + '|'.join(re.escape(x) for x in names) + r')(#[^\]\[|\\]*)?((?:\\?\|)[^\]\[]*)?\]\]')
+    for dp, dn, fn in os.walk(V):
+        dn[:] = [d for d in dn if d not in SKIP]
+        for f in fn:
+            if not f.endswith('.md'): continue
+            p = os.path.join(dp, f); s = open(p, encoding='utf-8').read()
+            def sub(m):
+                nonlocal n; n += 1
+                anc = m.group(2) or ('#' + newanchor if newanchor else ''); alias = m.group(3)
+                if not alias:
+                    line_start = s.rfind('\n', 0, m.start()) + 1
+                    bar = '\\|' if s[line_start:line_start + 1] == '|' else '|'
+                    alias = bar + m.group(1)
+                tgt = '' if f[:-3] == newpage and anc else newpage
+                return f'[[{tgt}{anc}{alias}]]'
+            new = pat.sub(sub, s)
+            if new != s: open(p, 'w', encoding='utf-8').write(new)
+    return n

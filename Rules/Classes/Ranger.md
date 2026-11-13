@@ -242,6 +242,118 @@ Your commitment to the ranger’s path grants you a powerful new ability. You ga
 
 %% source: Player's Guide 2: Deadeye, Ghost Step %%
 
+## Tracking in Combat
+
+%% source: Book of Blades %%
+
+Rangers are skilled at recognizing patterns in terrain, whether picking out the best path up a mountainside or noticing the passage of others through tracks left behind. Some rangers hone this skill to almost supernatural levels such that they can quickly assimilate subtle aspects in terrain with actions they have seen enemies take to gain an advantage in combat.
+
+As an action, you can make a WIS (Survival) check. The DC for the check is equal to the tracking DC for the ground surface + the tracked creature’s PB − the number of complete rounds you have tracked that creature in combat. A failed check can be retried on subsequent rounds.
+
+**Tracking in Combat Difficulty**
+
+| Ground Surface | DC |
+|---|---|
+| Impressionable surface: leaf covered, mud, fur rug, snow | 10 |
+| Average surface: dirt, grass, woven rugs | 15 |
+| Hard surface: brick, rock, wood floor | 20 |
+
+*For example, Tersk Greenfellow is startled to see a burly orc run down a rocky hillslope to attack his friends. Fearing a rockslide, he spends his first round getting his horse under control and moving away from the slope. He keeps the orc in sight that entire round, tracking it. In round two, Tersk tries to help his friends by making a check for tracking in combat.*
+
+*The DC for Tersk’s WIS (Survival) check is 21: 20 (hard surface of rocky terrain) +2 (the orc’s PB) −1 (the number of complete rounds Tersk has been tracking the orc). Tersk’s player rolls a 10 and adds Tersk’s bonus of +4 for a total of 14. The terrain is too hard and the orc too unpredictable for Tersk to get a useful read.*
+
+If you succeed on a WIS (Survival) check to track in combat, you grant one benefit of your choice from this list below to yourself and all allies within 30 feet who can hear you.
+
+- ***Be Not Where They Are.*** Gain a +1 bonus to AC against the tracked target for a number of rounds equal to your PB.
+
+- ***Rallying Cry of a Thousand Screams.*** Gain temporary hit points equal to your PB until the tracked target is defeated or the combat ends.
+
+- ***Strike Where They Will Be.*** Gain a +1 bonus to hit the tracked target for a number of rounds equal to your PB.
+
+- ***Swift as the Wind, Hard as a Thunderbolt.*** If the tracked target is adjacent and attempts to move away, you can spend your reaction to move up to your speed toward them. This benefit ends if the tracked target is defeated or the combat ends.
+
+- ***Slip the Grasping Hand.*** You gain a +1 bonus on escape checks against the tracked target for a number of rounds equal to your PB.
+
+- ***Walk Unseen.*** You gain a +1 bonus to DEX (Stealth) checks made against the tracked target for a number of rounds equal to your PB.
+
+- ***What Will Be.*** You gain a +1 bonus to WIS (Insight) and WIS (Perception) checks made against the tracked target for a number of rounds equal to your PB.
+
+## Booby Traps
+
+%% source: Book of Blades %%
+
+As hunters who spend much of their time in wilderness areas, rangers are experts in setting traps. Temporary and quick to set up, traps are useful not just for catching dinner, but for offering a measure of battlefield control normally reserved for spellcasters such as druids and wizards. While dungeon-style traps usually require extensive construction, time, and expense, booby traps can be laid quickly for almost no cost.
+
+### Making Booby Traps
+
+While some traps, such as a basic hunting trap, can be purchased, others must be built. Constructing a booby trap takes 10 minutes using appropriate tools and raw materials. Tools are contained in an appropriate tool kit, as specified by the trap. Raw materials can be found in any general supply store. If you spend 1 minute dismantling an existing trap, you can recover materials for reuse.
+
+You can add improvements to the basic version of each trap by spending an additional 10 minutes in its construction and using additional materials. Some booby traps have more than one option for improvement. You may only add one improvement to a trap unless a class feature allows you to add more than one.
+
+### Setting Booby Traps
+
+You can quickly deploy preconstructed booby traps (that you built or bought ahead of time) by succeeding on a WIS (Survival) check. The result of your check becomes both the DC for another creature’s attempt to discover the trap and the DC to disable it. Placing and hiding a preconstructed trap requires an action.
+
+The DC for the DEX save for your traps equals 8 + your PB + your WIS modifier.
+
+### Using Booby Traps In Combat
+
+If a creature sees you deploy a trap, the creature does not need to make a check to locate it. That generally makes the trap less useful, but not useless. Traps can be used to deny ground to an enemy or delay pursuit. An enemy that witnesses a path being trapped must likely spend time disabling the trap or finding a way to bypass it, possibly by a less advantageous route. During combat, a foe can be forced into a trap by using a shove attack or other forms of forced movement.
+
+Rangers are also known for their stealth, so you might be able to set a trap during combat without being observed. A hidden trap requires a successful WIS (Perception) check to spot it.
+
+### Sample Booby Traps
+
+Here are a handful of example booby traps. Your GM might allow you to create others using these as a guideline.
+
+#### Alarm Trap
+
+**Required Tool:** None **Raw Material Cost:** 5 gp **Weight:** 2 lbs.
+
+This trap consists of several small bells or other noise makers attached to a thin wire up to 10 feet long which creates a noise when tripped or an attached item is moved. It deals no damage, and the wire is not strong enough to cause a creature to trip.
+
+***Improvement:*** You can extend the trip wire by 10 feet for every additional 2 gp you spend in materials.
+
+#### Explosive Trap
+
+**Required Tool:** Alchemist Tools **Raw Material Cost:** 25 gp **Weight:** 1 lb.
+
+You craft an alchemical mixture that explodes in a 1-foot diameter, dealing 1d4 + your PB fire damage to the creature that triggers the trap. A creature takes half damage on a successful DEX save.
+
+***Improvement:*** For an additional 15 gp, you expand the explosion radius to 5 feet. You can also improve the trap so that the victim is sprayed with oil or other flammable fluid, causing it to burst into flame if it fails a DEX save, taking 1d4 + your PB fire damage at the start of each of its turns until it succeeds on a DC 10 DEX save to extinguish the flames. You can also improve this trap to change the type of damage to acid or thunder.
+
+#### Poison Cloud Trap
+
+**Required Tool:** Alchemist Tools or Herbalist Tools **Raw Material Cost:** 25 gp **Weight:** 1 lb.
+
+By mixing noxious reagents, you create a trap that sprays a 5-foot-diameter poisonous cloud. The cloud deals 1d6 + your PB poison damage to a creature that triggers the trap. A creature takes no damage on a successful DEX save. A strong wind gives the target advantage on their save.
+
+***Improvement:*** For an additional 10 gp, you add another 5 feet to the cloud’s radius. You can also improve the trap so the cloud persists for an additional round and causes the area to be heavily obscured. Creatures caught in the cloud take damage at the end of each turn they are in the affected area. A strong wind instantly disperses the cloud.
+
+#### Restraining Trap
+
+**Required Tool:** None **Raw Material Cost:** 5 sp **Weight:** 2 lbs.
+
+This trap is made by crafting a snare out of rope or natural materials that triggers when stepped in, restraining the victim in a specific location.
+
+***Improvement:*** You improve the trap so it also knocks the target prone on a failed save and pulls the victim 5 feet off the ground. You can also increase the size of the snare area to a 10-foot square by including a large net. These improvements cost an additional 1 gp.
+
+#### Slow Terrain Trap
+
+**Required Tool:** None **Raw Material Cost:** 2 sp **Weight:** 3 lbs.
+
+This trap causes stones, marbles, or other loose material to fall in a 10-foot radius around the victim, creating difficult terrain. A creature that fails its DEX save also falls prone.
+
+***Improvement:*** You improve the trap to use caltrops for 1 gp, causing a creature that fails its DEX save to take 1 point of piercing damage and reducing the creature’s walking speed by 10 feet until the creature regains at least 1 hit point.
+
+#### Trip Rope Trap
+
+**Required Tool:** None **Raw Material Cost:** 5 sp **Weight:** 4 lbs.
+
+This trap is made by stretching a strong rope across two points up to 20 feet apart. Creatures that fail their DEX save fall prone.
+
+***Improvement:*** You can extend the rope by 10 feet for every additional 2 gp you spend in materials. You can also embed barbs in the rope that deal 1d3 + your PB piercing damage for an additional 1 gp. If the target succeeds on its save, it takes no damage.
+
 ## Ranger Subclasses
 
 As a ranger fosters their skills, they gain new abilities that reflect their deepening relationship with the natural world. Your choice of subclass represents the way your connection to the Primordial manifests.

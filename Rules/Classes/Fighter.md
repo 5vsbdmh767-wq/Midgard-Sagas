@@ -65,6 +65,28 @@ Choose one of the following martial actions that you know.
 
 *Requires Wielding a Ranged or Thrown Weapon* As a bonus action, you take the time to increase the effectiveness of your next ranged weapon attack. Select one target you can see. If you make a ranged weapon attack against that target before the end of your turn, double your PB for the first attack roll.
 
+#### Arbalest Skirmish
+
+%% source: Book of Blades %%
+
+You can wield a one-handed ranged weapon with the Loading property in one hand and a melee weapon with the Light property in your other hand. You can still load the ranged weapon while doing so. In addition, if you gain an extra attack while using a ranged weapon with the Loading property in one hand, you can take the extra attack with a Light weapon in your other hand.
+
+If you wield a heavy crossbow, you can use the shoulder stock to make a melee attack that deals 1d6 bludgeoning damage.
+
+Finally, you can use crossbow bolts as a melee weapon that deals 1d4 piercing damage. Using ammunition in this manner destroys it.
+
+#### Destabilizing Blow
+
+%% source: Player's Guide 2 %%
+
+*Requires Wielding a Shield or Unarmed Strike* As a bonus action, you knock the wind out of a creature with a kick, elbow, or blow with your shield. Choose one creature you can see within 5 feet of you. The target must succeed on a STR save against your weapon option save DC or have disadvantage on the next ability check or save it makes before the start of your next turn.
+
+#### Focus
+
+%% source: Player's Guide 2 %%
+
+*Requires Wielding a Melee Weapon or Unarmed Strike* As a bonus action, you take the time to increase the effectiveness of your next melee weapon attack. Select one target you can see and then double your PB for the first attack roll using a melee weapon against that target before the end of your turn.
+
 #### Guard
 
 *Requires Wielding a Shield* As a bonus action, you raise your shield to intercept incoming attacks. Select one enemy creature within 5 feet of you. That creature has disadvantage on the first attack roll it makes against you or an ally within 5 feet of you before the start of your next turn.
@@ -79,15 +101,61 @@ Choose one of the following martial actions that you know.
 > - For background and talent, choose Soldier and either Combat Casting (if you plan to take Spell Blade subclass) or Combat Conditioning.
 >
 
+#### Lunge
+
+%% source: Player's Guide 2 %%
+
+*Requires Wielding a One-Handed Melee Weapon or a Two-* *Handed Melee Weapon Without the Heavy Property* As a bonus action, you briefly extend your reach but leave yourself exposed in the process. Until the start of your next turn, the reach of any melee weapons you wield extends by 5 feet, and your AC is decreased by 1.
+
 #### Quick Strike
 
 *Requires Wielding Two Light Weapons* After you take the Attack action on your turn and attack with a Light melee weapon that you’re holding in one hand, you can use a bonus action to make two attacks with a different Light melee weapon that you’re holding in the other hand—instead of the one attack typically granted by two-weapon fighting. Don’t add your ability modifier to the damage of these additional attacks unless the modifier is negative.
+
+#### Reposition
+
+%% source: Player's Guide 2 %%
+
+*Requires Not Wielding a Heavy Melee Weapon* As a bonus action, you carefully reposition yourself to gain better ground on your enemy. You move up to 10 feet without provoking opportunity attacks.
+
+#### Riposte
+
+%% source: Player's Guide 2 %%
+
+*Requires Wielding a One-Handed Melee Weapon* As a bonus action, you fall into a parrying stance. Until the start of your next turn, your AC increases by 1, and the first time before the start of your next turn that a creature misses you with an attack while within 5 feet of you, the attacker takes damage of your weapon’s type equal to your PB.
+
+#### Springheel
+
+%% source: Book of Blades %%
+
+You learn advanced maneuvers to avoid attacks while wearing light armor. When fighting in light or no armor, add your martial class (fighter, paladin, or ranger) PB to your AC.
+
+#### Steady
+
+%% source: Player's Guide 2 %%
+
+*Requires Wielding a Ranged or Thrown Weapon* As a bonus action, you steady your aim. Select one target you can see within your weapon’s normal range. If you hit that target with a ranged weapon attack from that weapon before the end of your turn, the first such attack deals extra damage equal to your PB (of the same damage type as the weapon).
+
+#### Unmoving Shield
+
+%% source: Player's Guide 2 %%
+
+*Requires Wielding a Shield* As a bonus action, you take on a defensive stance, bracing yourself with your shield. Until the start of your next turn, you have advantage on checks and saves against effects that would push or pull you, and you have advantage on checks and saves both to avoid and escape being grappled or restrained.
 
 #### Wind Up
 
 *Requires Wielding a Heavy or a Versatile Melee Weapon*
 
 *with Both Hands* As a bonus action, you ready a powerful attack against a nearby target. Select one target you can see within 10 feet of you. If you hit that target with a melee weapon attack before the end of your turn, the first such attack deals extra damage equal to your PB (of the same damage type as the weapon).
+
+> [!note] Martial Actions for Paladins and Rangers
+> Paladins and rangers also have access to the Martial Action class feature, but their options are typically more limited than the fighter’s. At the GM’s discretion, the following new options would be good fits for paladin and ranger PCs:
+>
+> - **Paladin.** Destabilizing blow, focus, reposition, unmoving shield.
+>
+> - **Ranger.** Focus, lunge, riposte, steady.
+>
+
+Arbalest Skirmish and Springheel are available to any class that has the Martial Action feature.
 
 ### Action Surge
 
@@ -185,7 +253,6 @@ As you develop mastery, you gain new abilities that support your preferred comba
 | Subclass | Suits |
 |---|---|
 | [[#Iron Bastion\|Iron Bastion]] | Any character |
-| [[#Martial Actions Expanded\|Martial Actions Expanded]] | Any character |
 | [[#Nemesis\|Nemesis]] | Horror campaigns |
 | [[#Scrapper\|Scrapper]] | Any character |
 | [[#Skirmisher\|Skirmisher]] | Any character |
@@ -254,48 +321,6 @@ Your skill with a shield exceeds what most would have thought achievable. When y
 Your resilience in heavy armor and wielding a shield is legendary. Whenever you perform a shield exploit, you gain temporary hit points equal to your PB. These hit points last until expended or you finish a short or long rest.
 
 While wearing heavy armor and carrying a shield, as an action, you can cast *wall of force* with no material components. Once you cast this spell, you can’t use it again until you finish a long rest.
-
-## Martial Actions Expanded
-
-%% source: Player's Guide 2 %%
-
-This section lists additional martial actions available for fighters. See the [[#Martial Action|Martial Action]] class feature for the full description of how these effects work.
-
-### Destabilizing Blow
-
-*Requires Wielding a Shield or Unarmed Strike* As a bonus action, you knock the wind out of a creature with a kick, elbow, or blow with your shield. Choose one creature you can see within 5 feet of you. The target must succeed on a STR save against your weapon option save DC or have disadvantage on the next ability check or save it makes before the start of your next turn.
-
-### Focus
-
-*Requires Wielding a Melee Weapon or Unarmed Strike* As a bonus action, you take the time to increase the effectiveness of your next melee weapon attack. Select one target you can see and then double your PB for the first attack roll using a melee weapon against that target before the end of your turn.
-
-### Lunge
-
-*Requires Wielding a One-Handed Melee Weapon or a Two-* *Handed Melee Weapon Without the Heavy Property* As a bonus action, you briefly extend your reach but leave yourself exposed in the process. Until the start of your next turn, the reach of any melee weapons you wield extends by 5 feet, and your AC is decreased by 1.
-
-### Reposition
-
-*Requires Not Wielding a Heavy Melee Weapon* As a bonus action, you carefully reposition yourself to gain better ground on your enemy. You move up to 10 feet without provoking opportunity attacks.
-
-### Riposte
-
-*Requires Wielding a One-Handed Melee Weapon* As a bonus action, you fall into a parrying stance. Until the start of your next turn, your AC increases by 1, and the first time before the start of your next turn that a creature misses you with an attack while within 5 feet of you, the attacker takes damage of your weapon’s type equal to your PB.
-
-### Steady
-
-*Requires Wielding a Ranged or Thrown Weapon* As a bonus action, you steady your aim. Select one target you can see within your weapon’s normal range. If you hit that target with a ranged weapon attack from that weapon before the end of your turn, the first such attack deals extra damage equal to your PB (of the same damage type as the weapon).
-
-> [!note] Martial Actions for Paladins and Rangers
-> This section introduces new martial actions for the fighter. Paladins and rangers also have access to the Martial Action class feature, but their options are typically more limited than the fighter’s. At the GM’s discretion, the following new options would be good fits for paladin and ranger PCs:
->
-> - **Paladin.** Destabilizing blow, focus, reposition, unmoving shield.
->
-> - **Ranger.** Focus, lunge, riposte, steady.
->
-
-### Unmoving Shield
-
-*Requires Wielding a Shield* As a bonus action, you take on a defensive stance, bracing yourself with your shield. Until the start of your next turn, you have advantage on checks and saves against effects that would push or pull you, and you have advantage on checks and saves both to avoid and escape being grappled or restrained.
 
 ## Nemesis
 

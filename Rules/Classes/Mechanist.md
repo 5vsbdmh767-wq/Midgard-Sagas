@@ -71,7 +71,7 @@ While touching the shard, you can use an action to transform it into any type of
 
 **Mechanist Progression**
 
-| Level | PB | [[Fighting Mechanics\|Augment Effects]] Known | Augmented Items | Features |
+| Level | PB | [[#Augment Effects\|Augment Effects]] Known | Augmented Items | Features |
 |---|---|---|---|---|
 | 1st | +2 | — | — | Eyes of the Maker, Shard of Creation |
 | 2nd | +2 | 2 | 3 | Augment, Efficient Action |
@@ -102,7 +102,7 @@ A transformed shard remains in its new form until you die, use an action to retu
 
 You gain the ability to channel magical energy into items. To use this ability, you must spend 1 hour focusing on the item that you wish to augment while remaining in physical contact with it (which can be done as part of a short or long rest).
 
-You gain two augment effects of your choice. Augment effect options are detailed at the end of the class description. At certain mechanist levels, you gain additional augment effects of your choice, as shown in the [[Fighting Mechanics|Augment Effects]] Known column of the **Mechanist Progression** table.
+You gain two augment effects of your choice. Augment effect options are detailed at the end of the class description. At certain mechanist levels, you gain additional augment effects of your choice, as shown in the [[Fighter#Martial Action|Augment Effects]] Known column of the **Mechanist Progression** table.
 
 When you use this ability, choose an effect from those you know. Regardless of the effect, an augmented item is considered a magic item while the effect remains active. You can apply these effects to existing magic items, and any bonuses or features granted by an augment effect stack with any properties a magic item already possesses.
 
@@ -242,6 +242,16 @@ Some effects require you to make an attack roll or require your target to make a
 
 (PB) + your Intelligence (INT) modifier
 
+### Absorbing
+
+%% source: Book of Blades %%
+
+*Item Requirement: Shield or Living Body (Fleshsmiths Only)*
+
+You imbue an item with the ability to absorb a Small or smaller object that is at least one size smaller than it. While absorbed, the object cannot be damaged. The absorbed object disappears and can be called from or returned to the imbued item as an action. If the imbued item is destroyed, any absorbed item appears within 5 feet of the destroyed item. When a Fleshsmith imbues a living body, there might be no sign of the item, a prominent lump, or even a kangaroo-like pouch.
+
+***At Higher Levels.*** Once you reach 9th level in the mechanist class, the imbued item can absorb a Medium or smaller object. Once you reach 15th level in the mechanist class, the imbued item can absorb a Large or smaller object.
+
 ### Adhesive
 
 *Item Requirement: Large or Smaller Equipment or Object that*
@@ -254,6 +264,26 @@ A creature can spend an action to attempt to remove the affixed item with a STR 
 
 If the item isn’t forcefully detached, it remains attached for 24 hours or until you use an action to detach it. If the item is detached by any means, its adhesive properties can’t be activated again until you finish a long rest.
 
+### Auspicious
+
+%% source: Book of Blades %%
+
+*Item Requirement: Four Leaf Clover, Rabbit’s Foot, Stone, or Similar Object*
+
+You imbue an item with the ability to store and share luck. If you have 5 or fewer Luck while holding the item, you can transfer any number of Luck that you possess into the item. The item can hold a number of Luck up to your INT modifier. As a bonus action, you expend 3 Luck from the item to gain 1 Luck or transfer 1 Luck to another creature that you are touching.
+
+***At Higher Levels.*** Once you reach 9th level in the mechanist class, you need only expend 2 Luck from the item to gain or transfer 1 Luck.
+
+### Barring
+
+%% source: Book of Blades %%
+
+*Item Requirement: Shield, Weapon, or Living Body (Fleshsmiths Only)*
+
+You imbue an item with defensive foresight. While holding it in one hand, you can use your reaction to increase your AC by 2 until the end of your next turn. When a Fleshsmith imbues a living body with this augment, its arms gain boney ridges, wooden growths, or dense fur.
+
+***At Higher Levels.*** Once you reach 9th level in the mechanist class, the AC bonus increases to +3 instead of +2.
+
 ### Collapsible
 
 *Item Requirement: Large or Smaller Item that Isn’t Being Worn,*
@@ -261,6 +291,14 @@ If the item isn’t forcefully detached, it remains attached for 24 hours or unt
 *Held, or Fixed in Place* You imbue an item with the ability to become smaller. While you touch the item, you can use an action to reduce its size. When you do so, the target is halved in all dimensions, its weight is reduced to 1/8 of normal, and it decreases its size category by one, such as from Medium to Small. The target’s size can’t be reduced further by multiple uses of this feature. As an action, you can touch the target and cause it to return to its original size.
 
 ***At Higher Levels.*** Once you reach 9th level in the mechanist class, you can affect Huge or smaller items that meet the other requirements.
+
+### Controlled
+
+%% source: Player's Guide 2 %%
+
+*Item Requirement: Item that Requires a Roll to Determine*
+
+*an Effect* You imbue an item with the ability to generate more favorable random effects. While rolling dice to determine the effect produced by the augmented item, you can roll the dice twice and choose which result you want to use. If you roll the same result on both rolls, you can ignore the result and choose which effect occurs from any of the listed possibilities. This augment affects die rolls like the d8 used to determine the creature resulting from a *[[Wondrous Items A–L#Bag of Tricks|bag of tricks]]* or the d100 used to determine the effect of a *[[Rods, Staffs & Wands#Wand of Wonder|wand of wonder]]*. This augment doesn’t affect ability checks, attack rolls, or saves made with the item.
 
 ### Detecting
 
@@ -278,11 +316,45 @@ If the item isn’t forcefully detached, it remains attached for 24 hours or unt
 
 ***At Higher Levels.*** Once you reach 9th level in the mechanist class, the range of all vision effects increases to 60 feet.
 
+### Duplicative
+
+%% source: Book of Blades %%
+
+*Item Requirement: Any Medium or Smaller Object*
+
+You make a duplicate of an item you touch. The duplicate is nonmagical, regardless of the original item. The total value (in gold pieces) of the duplicated item can’t be more than 10 × your mechanist level. The duplicate lasts until you finish a long rest.
+
+### Eldritch
+
+%% source: Book of Blades %%
+
+*Item Requirement: Orb, Rod, Staff, Wand, or Other Arcane Foci*
+
+You imbue an arcane focus with eldritch magic. The focus gains a +1 bonus to spell attack and damage rolls. If it was already magical, this bonus stacks with any existing bonuses.
+
+***At Higher Levels.*** Once you reach 9th level in the mechanist class, the attack and damage bonus increases to +2 instead of +1. At 15th level, it becomes +3 instead of +2.
+
 ### Empowered
 
 *Item Requirement: Weapon* You imbue a weapon with offensive power. The weapon gains a +1 bonus to attack and damage rolls. If it wasn’t already magical, it is now. If it was already magical, this bonus stacks with any existing bonuses.
 
 ***At Higher Levels.*** Once you reach 9th level in the mechanist class, the attack and damage bonus increases to +2. At 15th level, it becomes +3.
+
+### Focused
+
+%% source: Player's Guide 2 %%
+
+*Item Requirement: Spell Focus* You imbue a spellcasting focus with superior casting potential. Spells cast with the spell focus have a +1 bonus to spell attack rolls, and DCs made to resist effects of spells cast using the focus are increased by 1.
+
+***At Higher Levels.*** Once you reach 9th level in the mechanist class, the bonus to spell attack rolls increases to +2. At 15th level, it becomes +3.
+
+### Galvanizing
+
+%% source: Book of Blades %%
+
+*Item Requirement: Blanket, Healer’s Kit, Holy Symbol Staff, or Object Associated with Healing*
+
+You imbue an item with the ability to transfer some of your life force to another creature. As an action, while holding the item in one hand and touching another living creature, you can roll any number of your hit dice. The creature regains hit points equal to half the result, rounded down. The effect recharges after you finish a long rest.
 
 ### Illusive
 
@@ -316,6 +388,16 @@ You can cause the item to stop emitting light at any time (no action required).
 
 ***At Higher Levels.*** Once you reach 9th level in the mechanist class, the radius increases to bright light in a 30‑foot radius and dim light for an additional 30 feet. You can choose for the bright light to be sunlight (see **Vision and Obscured Areas** in **Chapter 6**).
 
+### Poisoning
+
+%% source: Book of Blades %%
+
+*Item Requirement: Weapon or Living Body (Fleshsmiths Only)*
+
+You imbue an item with the capacity to inject a deadly venom. When the wielder successfully attacks with a weapon, it deals an additional 1d6 poison damage. When a Fleshsmith imbues a living body, the target gains glands that spread poison on their weapons or natural attacks.
+
+***At Higher Levels.*** Once you reach 9th level in the mechanist class, the damage increases to 2d6 poison.
+
 ### Propulsive
 
 *Item Requirement: Armor (not Shields) or Small or Smaller*
@@ -342,6 +424,26 @@ While suspended, you can move only by pushing or pulling against a fixed item or
 
 You can use this augment effect a number of times equal to your PB and regain all expended uses when you finish a long rest.
 
+### Qualified
+
+%% source: Book of Blades %%
+
+*Item Requirement: Medium or Smaller Equipment That Can Be Worn or Carried.*
+
+You imbue an item with the capacity to grant proficiency with a skill or tool to a creature that carries it.
+
+***At Higher Levels.*** Once you reach 15th level in the mechanist class, the item grants proficiency and expertise, doubling the wielder’s PB.
+
+### Reaching
+
+%% source: Book of Blades %%
+
+*Item Requirement: Weapon or a Living Body (Fleshsmiths Only)*
+
+You imbue an item to increase your reach by 5 feet when wielding it. When a Fleshsmith imbues a living body, they add tentacles, vines, or similar appendages that increase reach and that can wield weapons. These additional limbs do not allow the target to wield additional weapons.
+
+***At Higher Levels.*** Once you reach 15th level in the mechanist class, the bonus to reach increases to 10 feet.
+
 ### Reactive
 
 *Item Requirement: Large or Smaller Item that Isn’t Being Worn,*
@@ -362,11 +464,13 @@ When triggered, you instantly become mentally aware that the item has been trigg
 
 *Item Requirement: Item with Hit Points* You fortify an item. The target’s hit points and hit point maximum increase by an amount equal to 5 × your mechanist level. If the item is destroyed while this effect is active, the effect ends.
 
-### Returning
+### Remote Viewing
 
-*Target: Equipment or Object that Can Fit in the Hand and Isn’t* *Being Worn or Held* You imbue an item with the ability to return to your hand. While the augmented item is within 60 feet, you can cause it to instantly teleport into your hand (no action required). You must have at least one hand free for this ability to function.
+%% source: Book of Blades %%
 
-***At Higher Levels.*** Once you reach 9th level in the mechanist class, you can affect an item up to 120 feet away from you. At 15th level, you can affect an item anywhere on the same plane as you.
+*Item Requirement: Goggles, Glasses, Spyglass, or Similar Equipment; or Object with a Transparent Surface*
+
+You imbue an item with magical capabilities to see over great distances. While you touch the item, you can use an action to create an invisible sensor within 1 mile of you that lasts for up to 10 minutes. You can see and hear through the sensor, and it otherwise behaves as the *clairvoyance* spell. While the augmented item is activated, you can use an action to deactivate it. The effect recharges once you finish a long rest.
 
 ### Repellant
 
@@ -374,13 +478,73 @@ When triggered, you instantly become mentally aware that the item has been trigg
 
 ***At Higher Levels.*** Once you reach 9th level in the mechanist class, a target that fails its save is pushed 30 feet away from you.
 
+### Returning
+
+*Target: Equipment or Object that Can Fit in the Hand and Isn’t* *Being Worn or Held* You imbue an item with the ability to return to your hand. While the augmented item is within 60 feet, you can cause it to instantly teleport into your hand (no action required). You must have at least one hand free for this ability to function.
+
+***At Higher Levels.*** Once you reach 9th level in the mechanist class, you can affect an item up to 120 feet away from you. At 15th level, you can affect an item anywhere on the same plane as you.
+
+### Self-Repairing
+
+%% source: Book of Blades %%
+
+*Item Requirement: Any Large or Smaller Item*
+
+You imbue an item with the energy to repair itself. As long as the object has 1 HP, it self-repairs 1 HP at the beginning of each round until all its damage is repaired.
+
+### Sheltering
+
+%% source: Book of Blades %%
+
+*Item Requirement: Door, Structure, or Vehicle*
+
+You imbue an item with the ability to create a place of safety. When you activate this item, it creates a doorway to an extraplanar space. You and anyone you allow can pass through the doorway, up to a maximum of 5 + your INT modifier Large or smaller creatures. The space appears as a comfortable, furnished inn with enough food, water, and fodder to sustain the creatures in it for one day. As an action, you can evict any creature in the extraplanar space. Evicted creatures appear within 5 feet of the doorway and cannot re-enter the space. The effect recharges after you finish a long rest.
+
+### Sustaining
+
+%% source: Book of Blades %%
+
+*Item Requirement: Armor or Jewelry*
+
+You imbue an item with the ability to protect the wearer from dangerous environments. While wearing the item, the user can breathe normally in any environment, does not need to eat, and has advantage on saves to avoid exhaustion.
+
+***At Higher Levels.*** Once you reach 15th level in the mechanist class, the item grants immunity to exhaustion.
+
+### Transcribed
+
+%% source: Book of Blades %%
+
+*Item Requirement: Book, Glasses, Googles, Scroll, Scroll Tube,
+ or Tablet*
+
+You imbue an item with the ability to store written information. As an action, you can store the written contents of a single nonmagical book, letter, or scroll. The item will not store magical writings, pictures, or drawings. Written magical traps are automatically triggered if the item targets writing containing a magical symbol, ward, or dangerous rune.
+
+While carrying an item that contains written information, you can recall the contents of the work flawlessly (though you don’t gain the ability to comprehend languages you don’t already know). As an action, you can replace the stored information in an imbued item with another written work that you touch the item to.
+
+### Understanding
+
+%% source: Book of Blades %%
+
+*Item Requirement: Circlet, Googles, Hat, Helm, Spectacles, or Living Body (Fleshsmiths Only)*
+
+You imbue an item with the ability to understand any spoken or written language. When a Fleshsmith imbues a living body, the creature gains an additional set of eyes or sensory appendage.
+
+### Vigorous
+
+%% source: Book of Blades %%
+
+*Item Requirement: Armor, Cloak, Necklace, or Ring*
+
+You imbue an item to grant abundant health. While wearing this item, you have advantage on saves to resist disease and poison.
+
+***At Higher Levels.*** Once you reach 9th level in the mechanist class, you also gain resistance to poison damage. Once you reach 15th level in the mechanist class, you also gain immunity to disease.
+
 ## Mechanist Subclasses
 
 As you perfect your craft, you gain new abilities that reflect the specific ways you’ve learned to restructure the forces of the universe. Your choice of subclass speaks to the kinds of mystic creations you excel at making.
 
 | Subclass | Suits |
 |---|---|
-| [[#Augment Effects Expanded\|Augment Effects Expanded]] | Any character |
 | [[#Clockmaker\|Clockmaker]] | Any character |
 | [[#Cog Augur\|Cog Augur]] | Any character |
 | [[#Fleshsmith\|Fleshsmith]] | Any character |
@@ -389,24 +553,6 @@ As you perfect your craft, you gain new abilities that reflect the specific ways
 | [[#Spellwright\|Spellwright]] | Any character |
 | [[#Tinker\|Tinker]] | The [[The Labyrinth\|Labyrinth]] |
 | [[#Toymaker\|Toymaker]] | Any character |
-
-## Augment Effects Expanded
-
-%% source: Player's Guide 2 %%
-
-This section lists additional augments available for mechanists to learn and use. See the [[#Augment|Augment]] class feature for a full description of how these effects work.
-
-#### Controlled
-
-*Item Requirement: Item that Requires a Roll to Determine*
-
-*an Effect* You imbue an item with the ability to generate more favorable random effects. While rolling dice to determine the effect produced by the augmented item, you can roll the dice twice and choose which result you want to use. If you roll the same result on both rolls, you can ignore the result and choose which effect occurs from any of the listed possibilities. This augment affects die rolls like the d8 used to determine the creature resulting from a *[[Wondrous Items A–L#Bag of Tricks|bag of tricks]]* or the d100 used to determine the effect of a *[[Rods, Staffs & Wands#Wand of Wonder|wand of wonder]]*. This augment doesn’t affect ability checks, attack rolls, or saves made with the item.
-
-#### Focused
-
-*Item Requirement: Spell Focus* You imbue a spellcasting focus with superior casting potential. Spells cast with the spell focus have a +1 bonus to spell attack rolls, and DCs made to resist effects of spells cast using the focus are increased by 1.
-
-***At Higher Levels.*** Once you reach 9th level in the mechanist class, the bonus to spell attack rolls increases to +2. At 15th level, it becomes +3.
 
 ## Clockmaker
 
