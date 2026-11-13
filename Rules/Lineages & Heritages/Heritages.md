@@ -20,13 +20,13 @@ Some languages are actually language families with many dialects. For example, t
 
 | Language | Typical Speakers | Script |
 |---|---|---|
-| Common | [[Humans]] | Common |
+| Common | Beastkin, [[Dhampir]], [[Humans]], [[Sapopova]], [[Shades]] | Common |
 | Dwarvish | [[Dwarves]] | Dwarvish |
-| Elvish | [[Elves]] | Elvish |
-| Giant | Ogres, giants | Dwarvish |
+| Elvish | [[Elves]], Sea Elves | Elvish |
+| Giant | Giants, Ogres | Dwarvish |
 | Gnomish | [[Gnomes]] | Common |
 | [[Goblins\|Goblin]] | Goblinoids | Dwarvish |
-| [[Halflings\|Halfling]] | [[Halflings]] | Common |
+| Halfling | [[Halflings]] | Common |
 | Orcish | [[Orcs]] | Dwarvish |
 
 **Esoteric Languages**
@@ -34,19 +34,169 @@ Some languages are actually language families with many dialects. For example, t
 | Language | Typical Speakers | Script |
 |---|---|---|
 | Abyssal | Demons | Infernal |
-| Celestial | Celestials | Celestial |
-| Draconic | Dragons, kobolds | Draconic |
-| Infernal | Devils | Infernal |
-| Machine Speech | Mechadrons | Unreadable by non- Constructs |
-| Primordial | Elementals | Dwarvish |
-| Sylvan | Fey | Elvish |
-| Undercommon | Underworld traders | Elvish |
+| Celestial | Celestial [[Sydereans]], Celestials | Celestial |
+| Deep Speech | Aboleths, Chuuls, Cloakers, Sea Elves | Deep Speech |
+| Draconic | [[Dragonborn]], Dragons, [[Kobolds]] | Draconic |
+| Infernal | Devils, Infernal Sydereans | Infernal |
+| Machine Speech | [[Gearforged]], Mechadrons | Unreadable by non-Constructs |
+| Primordial | [[Elemental Scions]], Elementals | Dwarvish |
+| Sylvan | Fey, [[Rachisans\|Rachisan]] | Elvish |
+| Umbral | Darakhul, [[Shadow Fey]] (and Creatures of the [[The Shadow Realm\|Shadow Realm]]) | Elvish |
+| Undercommon | Drow, Duergar (and Underworld Traders) | Elvish |
+| Void Speech | [[Derro]], Satarre, Void Dragons (and Servitors of the Void) | Void Speech |
+
+The [[The Margreve|Margreve]] has two languages of its own: [[Erina]] and [[Piney]]. These languages were originated by erinas and pineys, respectively, and they are spoken primarily in communities of those peoples or that associate with those peoples.
+
+***Deep Speech.*** This is an ancient language of sunken realms and fathomless depths below the world’s surface. It is spoken almost exclusively by Aberrations such as aboleths, cloakers, and similar creatures that thrive in the lightless environments of the deep ocean floor and of miles-deep subterranean caverns. While surface dwellers rarely hear Deep Speech, written instances of the language are found inscribed on the surfaces of ruined buildings and ships, the remains of dead kingdoms swallowed up by time.
+
+***Erina.*** This language consists of a series of whirring sounds punctuated by clicks.
+
+***Piney.*** This language mixes many Elvish words with a vocal approximation of the sounds heard in the forest.
+
+***Umbral.*** This lilting language is a corrupted dialect of Sylvan, full of double meanings and mocking wordplay. While Umbral was originally created by the shadow fey to mirror the flowery speech of their brightland cousins, it has become the primary language of all manner of creatures that dwell in planes of shadow and darkness.
+
+%% sources: Player's Guide 2: the typical speakers lists, Deep Speech and Umbral; Tales of the Old Margreve: Erina and Piney %%
 
 ## Heritage Options
 
 This section contains descriptions of the heritage options available to characters. If you’re not sure what to choose or want a character that reflects common fantasy archetypes, choose a recommended heritage listed on the **Common Heritages by Lineage** table. For instance, if you want to play a typical dwarf, select a heritage option listed in the dwarf section.
 
 However, you can choose any heritage, regardless of lineage. For example, if your character has one human parent and one elven parent, you could choose the human lineage to represent your dominant hereditary traits, but a common elven heritage to represent being raised in a predominantly elven society.
+
+**Common Heritages by Lineage**
+
+| Lineage | Recommended Heritages |
+|---|---|
+| [[Alseid]] | [[#Forest Bastion Heritage\|Forest Bastion]], [[#Old Ways Heritage\|Old Ways]], [[#Wildlands Heritage\|Wildlands]] |
+| [[Bearfolk]] | [[#Cottage Heritage\|Cottage]], [[#Hiveheim Heritage\|Hiveheim]], [[#Moonlit Heritage\|Moonlit]] |
+| [[Beastkin]] | [[#Slayer Heritage\|Slayer]], [[#Wildlands Heritage\|Wildlands]] |
+| [[Centaurs\|Centaur]] | [[#Rothenian Heritage\|Rothenian]], [[#Wildlands Heritage\|Wildlands]] |
+| Derro | [[#Fallen Heritage\|Fallen]], [[#Void-Touched Heritage\|Void-Touched]] |
+| Dhampir | [[#Conflicted Heritage\|Conflicted]], [[#Cosmopolitan Heritage\|Cosmopolitan]], [[#Sponsored Heritage\|Sponsored]], [[#Supplicant Heritage\|Supplicant]] |
+| Dragonborn | [[#Coterminous Heritage\|Coterminous]], [[#Fallen Heritage\|Fallen]], [[#Maze-Born Heritage\|Maze-Born]], [[#Slayer Heritage\|Slayer]] |
+| Drow (Elf Variant) | [[#Conflicted Heritage\|Conflicted]], [[#Covenant Heritage\|Covenant]] |
+| [[Dryads\|Dryad]] | [[#Grove Heritage\|Grove]], [[#Mangrove Regent Heritage\|Mangrove Regent]], [[#Pine Scion Heritage\|Pine Scion]] |
+| Duergar (Dwarf Variant) | [[#Conflicted Heritage\|Conflicted]], [[#Diaspora Heritage\|Diaspora]] |
+| Dwarf | [[#Fireforge Heritage\|Fireforge]], [[#Stone Heritage\|Stone]] |
+| Elemental Scion | [[#Coterminous Heritage\|Coterminous]], [[#Seafarer Heritage\|Seafarer]] |
+| Elf | [[#Cloud Heritage\|Cloud]], [[#Grove Heritage\|Grove]] |
+| [[Eonics\|Eonic]] | [[#Diaspora Heritage\|Diaspora]], [[#Nomadic Heritage\|Nomadic]], [[#Salvager Heritage\|Salvager]] |
+| Erina | [[#Delver Heritage\|Delver]], [[#Forest Bastion Heritage\|Forest Bastion]], [[#Salvager Heritage\|Salvager]] |
+| Gearforged | [[#Cosmopolitan Heritage\|Cosmopolitan]], [[#Ironwrought Heritage\|Ironwrought]], [[#Steam-and-Brass Heritage\|Steam-and-Brass]], [[#Stygian Heritage\|Stygian]] |
+| [[Gnolls\|Gnoll]] | [[#Badlander Heritage\|Badlander]], [[#Junker Heritage\|Junker]], [[#Salvager Heritage\|Salvager]] |
+| Goblin | [[#Aerobat Heritage\|Aerobat]], [[#Conflicted Heritage\|Conflicted]], [[#Salvager Heritage\|Salvager]], [[#Shadowlands Heritage\|Shadowlands]], [[#Wastelander Heritage\|Wastelander]] |
+| Human | [[#Cosmopolitan Heritage\|Cosmopolitan]], [[#Nomadic Heritage\|Nomadic]] |
+| Kobold | [[#Salvager Heritage\|Salvager]], [[#Supplicant Heritage\|Supplicant]] |
+| [[Lizardfolk]] | [[#Mud Runner Heritage\|Mud Runner]], [[#Rain Creeper Heritage\|Rain Creeper]], [[#Slayer Heritage\|Slayer]] |
+| Midnight Dwarf | [[#Fallen Heritage\|Fallen]], [[#Void-Touched Heritage\|Void-Touched]] |
+| [[Minotaurs\|Minotaur]] | [[#Fallen Heritage\|Fallen]], [[#Maze-Born Heritage\|Maze-Born]], [[#Oldwood Heritage\|Oldwood]] |
+| Orc | [[#Diaspora Heritage\|Diaspora]], [[#Slayer Heritage\|Slayer]] |
+| Piney | [[#Forest Bastion Heritage\|Forest Bastion]], [[#Grove Heritage\|Grove]], [[#Old Ways Heritage\|Old Ways]] |
+| [[Rachisans\|Rachisan]] | [[#Cottage Heritage\|Cottage]], [[#Feysworn Heritage\|Feysworn]] |
+| [[Ratfolk]] | [[#Cosmopolitan Heritage\|Cosmopolitan]], [[#Zobecker Heritage\|Zobecker]] |
+| [[Ravenfolk]] | [[#Cosmopolitan Heritage\|Cosmopolitan]], [[#Vidim Perch Heritage\|Vidim Perch]] |
+| Sapopova | [[#Islander Heritage\|Islander]], [[#Waterside Heritage\|Waterside]] |
+| [[Satyrs\|Satyr]] | [[#Oldwood Heritage\|Oldwood]], [[#Wildlands Heritage\|Wildlands]] |
+| Sea Elf (Elf) | [[#Seafarer Heritage\|Seafarer]], [[#Waterside Heritage\|Waterside]] |
+| Shade | [[#Diaspora Heritage\|Diaspora]], [[#Vexed Heritage\|Vexed]] |
+| [[Shadow Fey]] | [[#Shadow Court Heritage\|Shadow Court]], [[#Supplicant Heritage\|Supplicant]] |
+| Smallfolk | [[#Cottage Heritage\|Cottage]], [[#Salvager Heritage\|Salvager]] |
+| Star Elf | [[#Exalted Heritage\|Exalted]] |
+| [[Sydereans\|Syderean]] | [[#Anointed Heritage\|Anointed]], [[#Vexed Heritage\|Vexed]] |
+| Syderean (Spellborn) | [[#Boatwright Heritage\|Boatwright]], [[#Exalted Heritage\|Exalted]], [[#Stygian Heritage\|Stygian]] |
+| [[Tosculi]] | [[#Hivebound Heritage\|Hivebound]], [[#Wildlands Heritage\|Wildlands]] |
+| [[Trollkin]] | [[#Tribe Keeper Heritage\|Tribe Keeper]] |
+
+%% sources: every book that offers lineages; see each heritage and lineage for its own source %%
+
+The table below lists every heritage in alphabetical order.
+
+| Heritage | Suits | Often chosen by |
+|---|---|---|
+| [[#Aerobat Heritage\|Aerobat]] | Midgard | Goblin |
+| [[#Anointed Heritage\|Anointed]] | Any character | Syderean |
+| [[#Badlander Heritage\|Badlander]] | Midgard | Gnoll |
+| [[#Boatwright Heritage\|Boatwright]] | The [[The Labyrinth\|Labyrinth]] | Syderean (Spellborn) |
+| [[#Changeling Heritage\|Changeling]] | The [[The Shadow Realm\|Shadow Realm]] | — |
+| [[#Cloud Heritage\|Cloud]] | Any character | Elf |
+| [[#Conflicted Heritage\|Conflicted]] | Any character | Dhampir, Drow (Elf Variant), Duergar (Dwarf Variant), Goblin |
+| [[#Cosmopolitan Heritage\|Cosmopolitan]] | Any character | Dhampir, Gearforged, Human, Ratfolk, Ravenfolk |
+| [[#Coterminous Heritage\|Coterminous]] | Any character | Dragonborn, Elemental Scion |
+| [[#Cottage Heritage\|Cottage]] | Any character | Bearfolk, Rachisan, Smallfolk |
+| [[#Covenant Heritage\|Covenant]] | Any character | Drow (Elf Variant) |
+| [[#Cult Escapee Heritage\|Cult Escapee]] | Horror campaigns | — |
+| [[#Delver Heritage\|Delver]] | The [[The Margreve\|Margreve]] forest | Erina |
+| [[#Diaspora Heritage\|Diaspora]] | Any character | Duergar (Dwarf Variant), Eonic, Orc, Shade |
+| [[#Exalted Heritage\|Exalted]] | The [[The Labyrinth\|Labyrinth]] | Star Elf, Syderean (Spellborn) |
+| [[#Fallen Heritage\|Fallen]] | The [[The Labyrinth\|Labyrinth]] | Derro, Dragonborn, Midnight Dwarf, Minotaur |
+| [[#Feysworn Heritage\|Feysworn]] | Any character | Rachisan |
+| [[#Fireforge Heritage\|Fireforge]] | Any character | Dwarf |
+| [[#Forest Bastion Heritage\|Forest Bastion]] | The [[The Margreve\|Margreve]] forest | Alseid, Erina, Piney |
+| [[#Grove Heritage\|Grove]] | Any character | Dryad, Elf, Piney |
+| [[#Hivebound Heritage\|Hivebound]] | Any character | Tosculi |
+| [[#Hiveheim Heritage\|Hiveheim]] | The [[The Margreve\|Margreve]] forest | Bearfolk |
+| [[#Horse Lord Heritage\|Horse Lord]] | Martial characters | — |
+| [[#Ironwrought Heritage\|Ironwrought]] | Any character | Gearforged |
+| [[#Islander Heritage\|Islander]] | Any character | Sapopova |
+| [[#Joymonger Heritage\|Joymonger]] | Any character | — |
+| [[#Junker Heritage\|Junker]] | Midgard | Gnoll |
+| [[#Kithren Heritage\|Kithren]] | Any character | — |
+| [[#Lost Soul Heritage\|Lost Soul]] | Horror campaigns | — |
+| [[#Mangrove Regent Heritage\|Mangrove Regent]] | Midgard | Dryad |
+| [[#Martial Law Heritage\|Martial Law]] | Martial characters | — |
+| [[#Maze-Born Heritage\|Maze-Born]] | The [[The Labyrinth\|Labyrinth]] | Dragonborn, Minotaur |
+| [[#Messenger Heritage\|Messenger]] | The [[The Labyrinth\|Labyrinth]] | — |
+| [[#Moonlit Heritage\|Moonlit]] | The [[The Margreve\|Margreve]] forest | Bearfolk |
+| [[#Mud Runner Heritage\|Mud Runner]] | Midgard | Lizardfolk |
+| [[#Nomadic Heritage\|Nomadic]] | Any character | Eonic, Human |
+| [[#Old Ways Heritage\|Old Ways]] | The [[The Margreve\|Margreve]] forest | Alseid, Piney |
+| [[#Oldwood Heritage\|Oldwood]] | The [[The Labyrinth\|Labyrinth]] | Minotaur, Satyr |
+| [[#Pine Scion Heritage\|Pine Scion]] | Midgard | Dryad |
+| [[#Privileged Heritage\|Privileged]] | Martial characters | — |
+| [[#Rain Creeper Heritage\|Rain Creeper]] | Midgard | Lizardfolk |
+| [[#Remote Community Heritage\|Remote Community]] | Horror campaigns | — |
+| [[#Rothenian Heritage\|Rothenian]] | Midgard | Centaur |
+| [[#Salvager Heritage\|Salvager]] | Any character | Eonic, Erina, Gnoll, Goblin, Kobold, Smallfolk |
+| [[#Seafarer Heritage\|Seafarer]] | Any character | Elemental Scion, Sea Elf (Elf) |
+| [[#Shadow Court Heritage\|Shadow Court]] | Midgard | Shadow Fey |
+| [[#Shadowlands Heritage\|Shadowlands]] | Midgard | Goblin |
+| [[#Shepherd to the Dead Heritage\|Shepherd to the Dead]] | Horror campaigns | — |
+| [[#Slayer Heritage\|Slayer]] | Any character | Beastkin, Dragonborn, Lizardfolk, Orc |
+| [[#Sponsored Heritage\|Sponsored]] | Midgard | Dhampir |
+| [[#Steam-and-Brass Heritage\|Steam-and-Brass]] | The [[The Labyrinth\|Labyrinth]] | Gearforged |
+| [[#Stone Heritage\|Stone]] | Any character | Dwarf |
+| [[#Street Gang Heritage\|Street Gang]] | Horror campaigns | — |
+| [[#Stygian Heritage\|Stygian]] | The [[The Labyrinth\|Labyrinth]] | Gearforged, Syderean (Spellborn) |
+| [[#Supplicant Heritage\|Supplicant]] | Any character | Dhampir, Kobold, Shadow Fey |
+| [[#Tribe Keeper Heritage\|Tribe Keeper]] | Midgard | Trollkin |
+| [[#Umbral Heritage\|Umbral]] | The [[The Shadow Realm\|Shadow Realm]] | — |
+| [[#Vexed Heritage\|Vexed]] | Any character | Shade, Syderean |
+| [[#Vidim Perch Heritage\|Vidim Perch]] | Midgard | Ravenfolk |
+| [[#Void-Touched Heritage\|Void-Touched]] | The [[The Labyrinth\|Labyrinth]] | Derro, Midnight Dwarf |
+| [[#Wastelander Heritage\|Wastelander]] | Midgard | Goblin |
+| [[#Waterside Heritage\|Waterside]] | Any character | Sapopova, Sea Elf (Elf) |
+| [[#Wildlands Heritage\|Wildlands]] | Any character | Alseid, Beastkin, Centaur, Satyr, Tosculi |
+| [[#Zobecker Heritage\|Zobecker]] | Midgard | Ratfolk |
+
+### Aerobat Heritage
+
+%% source: Lineages & Heritages %%
+
+Characters from this heritage were raised among the captains, crew, and engineers of airship fleets. Though this is a young heritage in the grand scheme of the world with few communities, they are tight-knit and encourage an adventurous spirit as much as intellectual and physical skill.
+
+Aerobat communities rely on good relationships with air elementals, intelligent avians, and bird-folk. These alliances help the communities develop the necessary survival skills for living far above the ground.
+
+Some aerobats claim they feel a constant breeze on their skin or that clouds follow them while they go about their business. Some even claim that they have a protective elemental at their beck and call, going so far as to name this alleged companion and engage them in one-sided conversations.
+
+The first aerobats came from communities of fearlessly curious goblins and smallfolk, but all lineages are numbered among the aerobats. Avian beastkin are heavily represented in the heritage.
+
+***Descender.*** You can cast the *feather fall* spell without requiring material components. Once you cast it, you must finish a long rest before you can cast it again. Your spellcasting ability for this spell is INT, WIS, or CHA (choose which during character creation).
+
+***Natural Pilot.***  You have proficiency with either navigator’s tools or vehicles (air).
+
+***Wind Walker.*** You have proficiency in either the Acrobatics or Athletics skill.
+
+***Languages.*** You know Common and one additional language of your choice. Typical aerobat heritage characters choose Goblin or Gnomish.
 
 ### Anointed Heritage
 
@@ -64,18 +214,49 @@ Anointed communities are few and often scattered, but those within them are loya
 
 ***Languages.*** You know Common and two additional languages of your choice. Typical anointed heritage characters choose an esoteric language aligned with their guiding power: Abyssal, Celestial, or Infernal.
 
-**Common Heritages by Lineage**
+### Badlander Heritage
 
-| Lineage | Recommended Heritages |
-|---|---|
-| [[Beastkin]] | Slayer, Wildlands |
-| Dwarf | Fireforge, Stone |
-| Elf | Cloud, Grove |
-| Human | Cosmopolitan, Nomadic |
-| Kobold | Supplicant, Salvager |
-| Orc | Diaspora, Slayer |
-| [[Sydereans\|Syderean]] | Anointed, Vexed |
-| Smallfolk | Cottage, Salvager |
+%% source: Lineages & Heritages %%
+
+As rugged as the terrain they inhabit, badlander heritage characters feel they can survive whatever the world throws at them. They tend to be quiet and stoic, enduring hardship with a shrug and self-deprecating bark. Their clothing is sturdy and economical without flourishes that could get caught on an outcropping of rock.
+
+This heritage was originally cultivated by gnolls. As other humanoids moved into these regions, either in a concerted effort to settle the arid landscape, or just to get away from civilization, they looked to the gnolls for survival secrets. Now there are as many badlander heritage characters of other lineages as there are gnolls, a fact which makes some of the original badlanders howl. Depending on the temperament of a given badlander conclave, they are as likely to let newcomers to the badlands figure out how to survive on their own as they are to assist them.
+
+***Extreme Endurance.*** You are inured to the rigors of hard living. You have advantage on CON saves against exhaustion. When you finish a short or long rest, you can reduce your exhaustion level by one.
+
+***Iron Guts.*** You can subsist on spoiled food and drink. You have advantage on saves against being poisoned.
+
+***Scrub Survivors.*** You have proficiency with herbalist tools. If you have herbalist tools, you can make WIS (Herbalist Tools) checks in place of WIS (Medicine) checks. When you and your allies expend hit dice to regain hit points during a short rest, you can make a DC 12 WIS (Herbalist Tools) check during that rest. On a success, you and a number of creatures up to your PB that expended hit dice regain 1 additional hit point per hit die expended.
+
+***Languages.*** You know Common and one other language. Typical badlander heritage characters choose [[Gnolls|Gnoll]].
+
+### Boatwright Heritage
+
+%% source: Labyrinth Worldbook %%
+
+Traveling folk who ferry people up and down the [[The Ever River|River Styx]], Boatwright-heritage characters have been transformed in some way by being dipped into the black waters of the Styx by their ankles soon after they were born. Their skin typically hardens and takes on a silver, blue, or orange-tinged hue, reminiscent of fish scales. Elders within boatwright communities may even develop gills, webbed hands, or similar characteristics due to prolonged exposure to the water. [[Minor Wayfaring Groups|Boatwrights]] usually prefer to hide these characteristics beneath long-sleeved and hooded robes— which only adds to their curious reputation.
+
+Most members of the Boatwrights follow the river god [[Charun]] (see **Chapter 6**) in the hopes that the original ferryman will bless their vessels and ensure no harm comes to them as they travel the waterways of the Styx. Others pay tribute to the arch-devils of the Hells, whose caravans they sometimes guide up and down the river. Although only a few belong to one of the heroic factions, Boatwright characters are often on good terms with the [[Servants of the Dreaming God|Dreamers]], who regularly need boat transport.
+
+***River Folk.*** You have a swimming speed equal to your walking speed, and you can hold your breath for up to 10 minutes.
+
+***Styx Born.*** You have proficiency with water vehicles. A lifetime aboard boats also gives you advantage on DEX checks and saves made to avoid being knocked prone.
+
+***Languages.*** You know Common and one additional language of your choice. Typical Boatwright characters choose Infernal.
+
+### Changeling Heritage
+
+%% source: Book of Ebon Tides (a 5th Edition book with no heritages; built for this wiki from the learned traits of its peoples, following Converting 5e Material) %%
+
+*Draft: subject to change.*
+
+Changeling heritage characters were taken as infants from the mortal world and raised in the [[Fey Courts of Shadow|fey courts]] of the Shadow Realm. The courts call it an honorable custom of fostering the children of other peoples; the parents of the stolen children see it rather differently. Changelings are taught Elvish and other refined tongues and raised until their manners match those of their shadow fey, gnome, or sable elf foster parents, and they learn early that a good story is the best protection at court.
+
+***Cover Story.*** You have proficiency in your choice of the Deception or Persuasion skill.
+
+***Court Upbringing.*** You were raised on the etiquette, games, and dangerous courtesies of the fey courts. You have advantage on checks made to recall or follow the customs and etiquette of a fey court, or to judge a fey creature's standing at court.
+
+***Languages.*** You know Common and one additional language of your choice. Typical changeling heritage characters choose Elvish or Umbral.
 
 ### Cloud Heritage
 
@@ -91,242 +272,6 @@ Though many elves still dwell within these towering cities, striving for a great
 
 ***Languages.*** You know Common and two additional languages of your choice. Typical cloud heritage characters choose Elvish and Draconic.
 
-### Cosmopolitan Heritage
-
-Cosmopolitan characters are citizens of the world whose values, interests, and ideas are influenced by exposure to many different peoples and cultures. Creatures of this heritage hail from major cities populated by people from many different parts of the world. Alternatively, it could mean you spent your formative years moving from place to place, immersing yourself in the customs and traditions of each community you lived with.
-
-***Street Smarts.*** While in a city or other urban environment, you have advantage on ability checks made to avoid getting lost and checks made to find a particular kind of business or other destination open to the public. In addition, while you are in such environments, you can’t be surprised unless you are asleep or otherwise incapacitated.
-
-***Worldly Wisdom.*** You have proficiency with the History skill. When you make a check related to understanding the purpose or significance of a building, rite, or object from a culture you aren’t familiar with, you can add your PB to the roll. If you have proficiency in a relevant skill or tool, double your PB for the roll.
-
-***Languages.*** You know Common and three additional languages of your choice. Typical cosmopolitan heritage characters choose Dwarvish and Elvish.
-
-### Cottage Heritage
-
-Characters from this heritage were raised with the skills and practicality of an organized, integrated, agricultural community.
-
-You hail from a self-sufficient community of people whose lives revolve around tending the land. People of this heritage are hardworking, possessing skills to grow food, care for livestock, and create necessary goods.
-
-Whether these people hail from a sleepy village of dozens or a thriving countryside full of vineyards, family and community are critical to the cottage way of life. Even characters who choose to leave this life behind often carry strong ties to the hearth and home as they adventure into the wider world.
-
-***Comforts of Home.*** As part of a long rest, you can cook a meal, tell stories, or perform some other activity that comforts your allies. Choose a number of creatures who participated in the long rest equal to your PB (this can include you). Those creatures gain temporary HP equal to twice your PB. These temporary HP last until expended or until you complete your next long rest.
-
-***Homesteader.*** You have proficiency in either the Animal Handling or Nature skill.
-
-***Languages.*** You know Common and one additional language of your choice. Typical cottage heritage characters choose Halfling or Gnomish.
-
-### Diaspora Heritage
-
-Diaspora heritage characters were raised in a displaced community dedicated to the legacy of a lost ancestral empire. Your people may have been forced from their home by a cataclysm, dangerous creatures or deities, or financial or political ruin. Regardless, they work to reestablish their once-great empire, secure a new homeland, or uncover the mystery surrounding the collapse.
-
-Though fractured, diaspora communities take pains to forge alliances, amass resources, and train future generations to preserve their traditions. Many diaspora communities brand themselves as guilds, mercenary companies, or religions to safeguard from enemies and swell their ranks with others who seek a noble cause.
-
-Adventuring is an admirable trade within diaspora communities, allowing members to travel and nurture alliances that could help restore their legacy. Many others work as soldiers of fortune, bodyguards, or military advisors, as opportunity allows.
-
-***Preserved Traditions.*** You gain proficiency with the History skill. You also gain proficiency with one type of martial weapon of your choice (see **Weapons** in **Chapter 5**).
-
-***Timeless Resolve.*** When you or an allied creature within 5 feet of you makes a save against becoming frightened, you and the ally have advantage on the save.
-
-***Languages.*** You know Common and one additional language of your choice. Many diaspora communities learn the languages most common to soldiers, mercenaries, and traders near the area in which they reside, most often Orcish or Dwarven.
-
-### Fireforge Heritage
-
-Fireforge heritage characters were raised with the values and traditions of crafting communities dependent on the resources found in fiery—and often inhospitable—locales.
-
-Dwarven legends are united in the belief that the best metalcrafting is done in the fires of the earth. Long ago, groups of dwarves following this tradition settled near areas of volcanic activity, turning such places into their forges. These dwarves were the first fireforge clans. These communities still toil in the heat of magma, creating weapons, armor, and goods noteworthy even among the finest crafts made across the world. They trade these goods for necessities not found in their harsh environment.
-
-Because fireforge communities are built around sources of extreme heat, they often encounter and make relationships with Elemental creatures drawn to these same environments. Fireforge communities and elementals commonly form alliances when threatened by giants, dragons, and other volcano or mountain-dwelling creatures who compete for territory.
-
-***Forgecraft.*** You gain proficiency with Smithing tools (see **Tools** in **Chapter 5**). Double your PB for any ability check you make that uses them. In addition, you know the *[[Cantrips#Mending|mending]]* cantrip.
-
-***Heat Resilience.*** Lifelong exposure has made you resilient to the effects of severe heat. You are resistant to fire damage.
-
-***Languages.*** You know Common and one additional language of your choice. Typical fireforge heritage characters choose Dwarvish.
-
-### Grove Heritage
-
-Grove heritage characters grow in the values and traditions of forest communities dedicated to living in harmony with nature.
-
-When elves first walked the world, many chose to settle in the bounteous forests. These were the first grove elves, who established communities that intertwined with the natural world rather than seeking dominion. These communities preserve the forests they call home, communing with nature in sacred groves and taking up arms against those who dare to claim ownership of the land.
-
-As competing interests threaten natural spaces, all manner of creatures have come to share the values of grove communities. Those whose hearts are open to the truths taught by the forests are welcome to settle among them.
-
-***Canopy Walker.*** You have a climbing speed equal to your walking speed.
-
-***Nature’s Camouflage.*** You have advantage on DEX (Stealth) checks made while you are lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. While in such conditions, you can always attempt to take the Hide action, even if circumstances would not normally allow you to do so.
-
-***Languages.*** You know Common and one additional language of your choice. Typical grove heritage characters choose Elvish.
-
-### Nomadic Heritage
-
-Nomadic heritage characters hail from a tight-knit community that regularly moves to and from different areas. Your people might migrate with plants and game in seasons, follow established trade routes, or roam for a more unique reason. People of nomadic heritage are suited to the rigors of travel and often understand environmental cycles and the hazards or benefits that come with them.
-
-***Resilient.*** You have advantage on checks or saves made to resist debilitating weather effects, such as those caused by extreme heat or cold. In addition, when you complete a short rest, you can reduce your exhaustion level by one. Once used, you can't reduce your exhaustion level in this way again until you complete a long rest.
-
-***Traveler.*** You have proficiency in the Survival skill.
-
-***Languages.*** You know Common and one additional language of your choice. Depending on the regions your people frequent or the kinds of communities your people trade with, typical nomadic heritage characters choose Dwarvish or Elvish.
-
-### Salvager Heritage
-
-Characters who choose this heritage were raised with the skills and tenacity of making do with what’s at hand.
-
-Your people have, for whatever reason, carved out a society away from the comforts of traditional cities or settlements. From an early age, members of this heritage learn to build shelter, weaponry, and tools from whatever materials they find.
-
-Salvager communities might cluster in inhospitable or difficult-to-access locations. Or perhaps they patrol enormous expanses, moving from opportunity to opportunity without drawing attention. Among these patient opportunists, knowledge and resourcefulness are deeply respected skills, prized above all else.
-
-***Repurpose.*** You can create Tiny nonmagical items using materials from your surroundings. An item takes 1 minute to create and can be anything of 25 gp value or less from the [[Adventuring Gear]] table (see **Adventuring Gear** in **Chapter 5**). When done, it must sit or float on a surface within 5 feet of you. The item is obviously kitbashed, and resale value is minimal. After one use, the item becomes nonfunctional.
-
-***Tinkerer.*** You have proficiency with tinker’s tools or one other kind of tool of your choice (see **Tools** in **Chapter 5**). When you make a check to create, identify, or disarm a magical or nonmagical object, trap, or device, where you have a relevant proficiency, double your PB for the roll.
-
-***Languages.*** You know Common and one additional language of your choice. Typical scavenger heritage characters choose Draconic or Gnomish.
-
-### Slayer Heritage
-
-Members of a slayer heritage were raised in a society of like-minded people dedicated to hunting monsters.
-
-Slayer communities dedicate their lives to hunting powerful predators that might topple natural ecosystems, such as dragons or trolls. Sometimes slayer packs accept coin to kill specific monsters or types of monsters. More often, they support themselves with treasure seized from monster lairs or profits from selling harvested monster parts. They might hunt Huge and Gargantuan monsters as a pack or scatter to hunt individually and reconvene at intervals.
-
-Given their lifestyle, slayer communities value strength and tracking skill highly. From infancy, members of slayer communities are taught to hunt, track, and survive in wilderness environments. Slayers who can no longer hunt due to age, illness, or injury are honorably retired from the pack to live with non-slayer relatives, and some still serve as fundraisers and information gatherers. Rumors also tell of hidden enclaves populated by retired slayers.
-
-***Natural Predator.*** You have proficiency in the Intimidation skill. You have advantage on Intimidation checks to influence Beasts and creatures with the Animal tag.
-
-***Tracker.*** When you make a check to locate, spot, or track a creature, you can add your PB to the roll. If you have proficiency in the skill or tool being used, double your PB for the roll.
-
-***Languages.*** You know Common and one additional language of your choice. Typical slayer heritage characters choose Primordial or Sylvan.
-
-### Stone Heritage
-
-Stone heritage characters were raised in a subterranean community of miners and stoneworkers.
-
-Above all else, the residents of the ancient cities of the stone dwarf clans value tradition and champion the deeds of ancestors who allowed their people to find safety within the earth. From childhood, people of the stone are instructed in the arts of smithing, metalworking, and masonry. Many devote their lives to mining and working precious metals beneath the surface of the world.
-
-Though members of the stone heritage take great pride in their societies, life in their cities is far from easy. The splendid caverns and mines occupied by stone communities come under frequent attack by other subterranean denizens. As children are raised to swing a mining pick, they are also taught to swing arms against the enemies that seek generations of dwarven treasures for themselves.
-
-***Ancestral Arts.*** You gain proficiency with Construction tools (see **Tools** in **Chapter 5**). Double your PB for any ability check you make that uses them. You also gain proficiency with one type of martial weapon of your choice (see **Weapons** in **Chapter 5**).
-
-***Eye for Quality.*** When you make an ability check related to the origin or purpose of an object or structure made of metal or stone, you can add your PB to the roll. If you have proficiency in a relevant skill or tool, double your PB for the roll.
-
-***Languages.*** You know Common and one additional language of your choice. Typical stone heritage characters choose Dwarvish.
-
-### Supplicant Heritage
-
-Characters of this heritage were raised in a community bound to serve a monstrous overlord.
-
-Monstrous creatures of fearsome might and intelligence have always sought dominion. But dominion implies someone to dominate—minions and subjects made loyal through adoration or fear.
-
-Your people served, or still serve, such an overlord. They built their lives around whatever whims and commands fell to them. Many creatures make suitable monstrous overlords, but the most common are dragons who use servants to maintain and defend their lairs. As such, most supplicant communities live in natural shelters such as caves, thickets, and precarious rock faces near their overlord’s redoubt. There, they cultivate traps and deadly hazards for protection.
-
-It’s easy to imagine why a member of this heritage might leave. In addition to running away, an overlord might command subjects to take an expedition to gather information or treasure. Perhaps an overlord has been recently dispatched, forcing your people to explore a strange, new freedom . . . or to seek a new overlord.
-
-***Scurry.*** As a bonus action, you can move up to 10 feet without provoking opportunity attacks. This movement doesn't trigger traps or hazards that you are aware of, even if they are armed.
-
-***Supplicant.*** You have proficiency in either the Insight or Persuasion skill. When a creature within 30 feet of you spends Doom, you have advantage on ability checks and saves until the beginning of your next turn.
-
-***Languages.*** You know Common and one additional language of your choice, typically the language favored by your current or previous overlord (such as Draconic, Giant, or Undercommon).
-
-### Vexed Heritage
-
-The lives of vexed heritage characters are defined by their defiance of a supernatural connection to extraplanar creatures or cosmic forces. Characters of this heritage are often a “culture” of one person.
-
-You have spent your life trying to break free of the forces that have a grip on you. You might have been claimed by a powerful outsider at birth, haunted by whispers in your dreams, or found yourself the inheritor of an ancient blood debt. Regardless, something or someone has a plan for you, and your life has been characterized by running from its influence.
-
-Most vexed characters suffer in self-imposed solitude, burdened with shame and fear of their foretold fate. Many such vexed spend their lives fleeing from their supposed destiny. Others seek answers that can free them from forces that hunt them. Though active communities of vexed are rare, some occultists and scholars take keen interest in the circumstances surrounding such people’s lives.
-
-***Prodigal Disciple.*** When you make a save to resist becoming charmed or possessed, you can treat any d20 die roll of 9 or lower as though you rolled a 10.
-
-***Quarry’s Cunning.*** You have proficiency in either the Deception or Insight skill.
-
-***Languages.*** You know Common and one additional language of your choice. To better avoid an unwanted destiny, typical vexed heritage characters choose an esoteric language most closely aligned with their pursing power or force: Abyssal, Celestial, or Infernal.
-
-### Wildlands Heritage
-
-Wildlands heritage characters were raised in communities deeply entwined with Primordial magic.
-
-Some wild places well up with magic. Such an abundance of power might come from a mystic connection to the primal fey realms or an echo of a Primordial spell cast long ago. This power transforms beasts who dwell there, granting gifts of speech and reason. They develop nature-based societies unlike those found in humanoid civilizations.
-
-Members of these communities live in unspoiled territory, where beasts and humanoids live as equals. A wildlands community is typically composed of intelligent beasts and humanoids with animalistic traits, such as beastkin, working together.
-
-Preservation of common interests is one of the few reasons members of this heritage ever leave. When encroaching powers put a wildlands community at risk, the task of gathering information or forging diplomatic relations falls upon the more humanoid-like members of the group.
-
-***Beast Affinity.*** Using gestures and sounds, you can communicate simple ideas with Beasts and creatures with the Animal tag, and you have advantage on checks made to interact with such creatures.
-
-***Shepherd’s Gift.*** You have proficiency in the Animal Handling skill. Any Beast or creature with the Animal tag whose CR is equal to or less than your PB that targets you with an attack must first make a WIS check contested by your WIS (Animal Handling). If you succeed, the creature must choose a new target or lose the attack.
-
-***Languages.*** You know Common and one additional language of your choice. Typical wildlands heritage characters choose Sylvan.
-
-Heritage represents the upbringing and culture of a character. It’s what your family, community, or other formative authority figures taught you.
-
-## Languages (Player's Guide 2)
-
-%% source: Player's Guide 2 %%
-Your heritage includes how many languages you know. By default, all PCs know the Common language and one other language, but some heritages and backgrounds allow more. This section includes updated versions of the **Standard Languages** and **Esoteric Languages** tables found in the *Player’s Guide* that note the most typical languages spoken by the new lineages covered in this chapter.
-
-*Standard Languages*
-
-| Language | Typical Speakers | Script |
-|---|---|---|
-| Common | Beastkin, [[Dhampir]], Humans, [[Sapopova]], [[Shades]] | Common |
-| Dwarvish | Dwarves | Dwarvish |
-| Elvish | Elves, Sea Elves | Elvish |
-| Giant | Giants, Ogres | Dwarvish |
-| Gnomish | Gnomes | Common |
-| [[Goblins\|Goblin]] | Goblinoids | Dwarvish |
-| Halfling | Halflings | Common |
-| Orcish | Orcs | Dwarvish |
-
-### Esoteric Languages
-
-%% source: Player's Guide 2 %%
-
-This section provides more information about the esoteric language options available to PCs. Before selecting an esoteric language during character creation, make sure to approve your choice with your GM.
-
-***Deep Speech.*** This is an ancient language of sunken realms and fathomless depths below the world’s surface. It is spoken almost exclusively by Aberrations such as aboleths, cloakers, and similar creatures that thrive in the lightless environments of the deep ocean floor and of miles-deep subterranean caverns. While surface dwellers rarely hear Deep Speech, written instances of the language are found inscribed on the surfaces of ruined buildings and ships, the remains of dead kingdoms swallowed up by time.
-
-*Esoteric Languages*
-
-| Language | Typical Speakers | Script |
-|---|---|---|
-| Abyssal | Demons | Infernal |
-| Celestial | Celestial [[Sydereans]], Celestials | Celestial |
-| Deep Speech | Aboleths, Chuuls, Cloakers, Sea Elves | Deep Speech |
-| Draconic | [[Dragonborn]], Dragons, [[Kobolds]] | Draconic |
-| Infernal | Devils, Infernal Sydereans | Infernal |
-| Machine Speech | [[Gearforged]], Mechadrons | Unreadable by non-Constructs |
-| Primordial | [[Elemental Scions]], Elementals | Dwarvish |
-| Sylvan | Fey, [[Rachisans\|Rachisan]] | Elvish |
-| Umbral | Darakhul, [[Shadow Fey]] (and Creatures of the [[The Shadow Realm\|Shadow Realm]]) | Elvish |
-| Undercommon | Drow, Duergar (and Underworld Traders) | Elvish |
-| Void Speech | [[Derro]], Satarre, Void Dragons (and Servitors of the Void) | Void Speech |
-
-***Umbral.*** This lilting language is a corrupted dialect of Sylvan, full of double meanings and mocking wordplay. While Umbral was originally created by the shadow fey to mirror the flowery speech of their brightland cousins, it has become the primary language of all manner of creatures that dwell in planes of shadow and darkness.
-
-## Heritage Options (Player's Guide 2)
-
-%% source: Player's Guide 2 %%
-This section contains descriptions of additional heritage options available during character creation.
-
-If you’re not sure what to choose or want a character that reflects archetypes typical for a high-fantasy setting, choose a recommended heritage listed on the **Common Heritages by Lineage** table. For instance, if you want to play a typical goblin, then you might select the conflicted or salvager heritage.
-
-*Common Heritages by Lineage*
-
-| Lineage | Recommended Heritages |
-|---|---|
-| Dhampir | Conflicted, Supplicant* |
-| Dragonborn | Coterminous, Slayer* |
-| Drow (Elf Variant) | Conflicted, Covenant |
-| Duergar (Dwarf Variant) | Conflicted, Diaspora* |
-| Elemental Scion | Coterminous, Seafarer |
-| Gearforged | Cosmopolitan*, Ironwrought |
-| Goblin | Conflicted, Salvager* |
-| [[Rachisans\|Rachisan]] | Cottage*, Feysworn |
-| Sapopova | Islander, Waterside |
-| Sea Elf (Elf) | Seafarer, Waterside |
-| Shade | Diaspora*, Vexed* |
-| [[Tosculi]] | Hivebound, Wildlands* |
-| (*) These heritage options are described in the |  |
-| Player’s Guide. All others are described in this chapter. |  |
-
 ### Conflicted Heritage
 
 %% source: Player's Guide 2 %%
@@ -340,6 +285,16 @@ For those who come of age in such communities, safety is a priority. They learn 
 ***Talk Your Way Out.*** You gain proficiency in either the Deception or Persuasion skill.
 
 ***Languages.*** You know Common and one additional language of your choice. Typical conflicted heritage characters choose the language used in the place where the conflict is occurring.
+
+### Cosmopolitan Heritage
+
+Cosmopolitan characters are citizens of the world whose values, interests, and ideas are influenced by exposure to many different peoples and cultures. Creatures of this heritage hail from major cities populated by people from many different parts of the world. Alternatively, it could mean you spent your formative years moving from place to place, immersing yourself in the customs and traditions of each community you lived with.
+
+***Street Smarts.*** While in a city or other urban environment, you have advantage on ability checks made to avoid getting lost and checks made to find a particular kind of business or other destination open to the public. In addition, while you are in such environments, you can’t be surprised unless you are asleep or otherwise incapacitated.
+
+***Worldly Wisdom.*** You have proficiency with the History skill. When you make a check related to understanding the purpose or significance of a building, rite, or object from a culture you aren’t familiar with, you can add your PB to the roll. If you have proficiency in a relevant skill or tool, double your PB for the roll.
+
+***Languages.*** You know Common and three additional languages of your choice. Typical cosmopolitan heritage characters choose Dwarvish and Elvish.
 
 ### Coterminous Heritage
 
@@ -370,6 +325,20 @@ All manner of crime accumulates around these communities, from banditry to sophi
 
 ***Languages.*** You know Common and one additional language of your choice. Typical convergent heritage characters choose Primordial.
 
+### Cottage Heritage
+
+Characters from this heritage were raised with the skills and practicality of an organized, integrated, agricultural community.
+
+You hail from a self-sufficient community of people whose lives revolve around tending the land. People of this heritage are hardworking, possessing skills to grow food, care for livestock, and create necessary goods.
+
+Whether these people hail from a sleepy village of dozens or a thriving countryside full of vineyards, family and community are critical to the cottage way of life. Even characters who choose to leave this life behind often carry strong ties to the hearth and home as they adventure into the wider world.
+
+***Comforts of Home.*** As part of a long rest, you can cook a meal, tell stories, or perform some other activity that comforts your allies. Choose a number of creatures who participated in the long rest equal to your PB (this can include you). Those creatures gain temporary HP equal to twice your PB. These temporary HP last until expended or until you complete your next long rest.
+
+***Homesteader.*** You have proficiency in either the Animal Handling or Nature skill.
+
+***Languages.*** You know Common and one additional language of your choice. Typical cottage heritage characters choose Halfling or Gnomish.
+
 ### Covenant Heritage
 
 %% source: Player's Guide 2 %%
@@ -387,6 +356,86 @@ These communities are ruled by the most skilled or strongest practitioners, usua
 ***Spell Inoculation.*** You have advantage on all saves against spell effects when you are a target of a spell (not a spell that affects all creatures in an area).
 
 ***Languages.*** You know Common and two additional languages of your choice. Typical creatures of this heritage choose esoteric languages used in obscure magical tomes, such as Draconic, Infernal, or Sylvan.
+
+### Cult Escapee Heritage
+
+%% source: Night Hunters %%
+
+You grew up in a dark cult or secret society, your life dedicated to the worship of a dark power. You shined the candlesticks for the rituals, dusted the shelves devoted to forbidden lore, helped feed the animals to be sacrificed, and acted as lookout when skullduggery was afoot. You also held your breath when the summonings and divinations came around, and you watched the fallout when some acolyte displeased the cult’s otherworldly object of reverence. Perhaps you were being groomed as a sacrifice yourself.
+
+Eventually, you got out. Maybe it was a wild escape or a quiet disappearance in the night, or maybe you were the only one left after the cult was visited by a group of adventurers. Now, here on the outside, you can chart a new course. Will you seek to be different, building on the skills you learned in thrall to dark powers, or will you assume your rightful place as the true scion of the cult?
+
+***Specialized Teachings.*** You are proficient in your choice of one of the following skills: Arcana, History, or Religion.
+
+***Wise in the Ways.*** You know the *[[Cantrips#Thaumaturgy|thaumaturgy]]* cantrip, and you add your PB to WIS (Insight) checks when dealing with Fiends.
+
+***Languages.*** You know Common and one additional language of your choice. Typically, this is either Abyssal or Infernal.
+
+### Delver Heritage
+
+%% source: Tales of the Old Margreve %%
+
+Delver heritage characters are raised in underground communities that fill networks of burrows and warrens. You grew up in a tight-knit community made up of a collection of large families, typically of erina, kobolds, or rabbit-like beastfolk.
+
+Delver warrens contain a dizzying number of tunnels and chambers with multiple camouflaged entrances and exits. These tunnels hold the multitude of large families, food storage chambers, and community gathering spaces, and if a warren is ever attacked, these tunnels allow the vulnerable members of the community to quickly flee while the warriors attack, burrowing in from every angle. Living in cozy tunnels leaves most delvers mildly uncomfortable in wide, open spaces, such as grassy plains or on the open ocean.
+
+Most delver communities are scroungers and gatherers, growing some root vegetables but primarily subsisting on the bounty of the land above their warrens. When not gathering fruits and nuts, tending crops, or honing your skills as a defender of the community, you spent your days surrounded by family, listening to stories from elders and helping to teach and raise those younger than you. Even characters who choose to leave this life behind understand the value of being connected to others.
+
+***Burrower.*** You have a burrowing speed equal to your walking speed, but you can't burrow through ice or rock.
+
+***Feed a Horde.*** Growing up in a large family, you know how to make a little food go a long way. You are proficient with provisioner tools. If you have enough food to feed at least one Medium or smaller Humanoid, you can use provisioner tools to cook that into a meal large enough to feed twice as many Humanoids as it could normally feed.
+
+***Wrangler.*** Being part of a large family has taught you how to wrangle groups of people, whether chasing younglings or negotiating compromises among differing personalities. You have proficiency in either the Acrobatics or Persuasion skill.
+
+***Languages.*** You know Common and one additional language of your choice. Typical delver heritage characters choose Draconic or Erina.
+
+### Diaspora Heritage
+
+Diaspora heritage characters were raised in a displaced community dedicated to the legacy of a lost ancestral empire. Your people may have been forced from their home by a cataclysm, dangerous creatures or deities, or financial or political ruin. Regardless, they work to reestablish their once-great empire, secure a new homeland, or uncover the mystery surrounding the collapse.
+
+Though fractured, diaspora communities take pains to forge alliances, amass resources, and train future generations to preserve their traditions. Many diaspora communities brand themselves as guilds, mercenary companies, or religions to safeguard from enemies and swell their ranks with others who seek a noble cause.
+
+Adventuring is an admirable trade within diaspora communities, allowing members to travel and nurture alliances that could help restore their legacy. Many others work as soldiers of fortune, bodyguards, or military advisors, as opportunity allows.
+
+***Preserved Traditions.*** You gain proficiency with the History skill. You also gain proficiency with one type of martial weapon of your choice (see **Weapons** in **Chapter 5**).
+
+***Timeless Resolve.*** When you or an allied creature within 5 feet of you makes a save against becoming frightened, you and the ally have advantage on the save.
+
+***Languages.*** You know Common and one additional language of your choice. Many diaspora communities learn the languages most common to soldiers, mercenaries, and traders near the area in which they reside, most often Orcish or Dwarven.
+
+### Exalted Heritage
+
+%% source: Labyrinth Worldbook %%
+
+Exalted heritage characters come from communities located in the Celestial Realms. These unique settlements are pockets of mortal life in worlds overflowing with Divine magical energy and populated by Celestial beings like angels.
+
+It is always rare and wondrous circumstances that bring mortals into the realms of divinity, and even more fantastical circumstances that lead to the establishment of entire communities in such places. You were raised by such people, the chosen few permitted to thrive in worlds of sculpted perfection under the protection of immortal beings who have the very ear of the gods.
+
+Many, including your own people, consider you blessed to be reared among the perfection of heavenly halls, radiant landscapes, and eternally fair climates. However, living in such a world also placed you under the watchful eye of beings strictly bound to the forces of good and law—with little patience for those who bend or break rules. For this reason, people of exalted communities often encourage their younger members to travel upon reaching adulthood. Exposure to new people and places is often shocking to those raised exclusively in the Celestial Realms and often necessary for young adults to understand just how privileged their people are.
+
+***Celestial Blessing.*** Fiends have disadvantage on attack rolls against you. You also have advantage on checks made to determine if a creature is lying.
+
+***Divine Wisdom.*** You have proficiency with the Religion skill. Whenever you make a check to interact with a Celestial creature or recall information about Celestial creatures or the Celestial Realms, you can add your PB to the roll. If you have proficiency in a relevant skill or tool, double your PB for the roll.
+
+***Languages.*** You know Common and two additional languages of your choice. Typical exalted heritage characters choose Celestial and Elvish.
+
+### Fallen Heritage
+
+%% source: Labyrinth Worldbook %%
+
+Fallen heritage characters are the last survivors (or the survivors’ descendants) of a place that has been destroyed. This could be a section of the Labyrinth that has collapsed into ruin, a kingdom that was destroyed by a mage war or other cataclysmic event, or a dead world that has succumbed to the Void.
+
+Unlike characters with the diaspora heritage (see *Player’s Guide*), there is little to no hope of restoring the fallen characters’ homeland to its former glory. Instead, fallen characters form close-knit tribes, clans, or similar groups cursed to wander the desolate wastelands where their homes once stood or driven into exile in search of sanctuary and respite. [[Minotaurs]], humans, and orcs are prevalent among fallen heritage characters.
+
+The ordeals endured by fallen characters mean many have darkness in their hearts and are prone to anger and violence, sometimes even becoming overwhelmed by blood lust. Since fallen characters form strong bonds with other members of their tribe or clan, it is usually their enemies that bear the brunt of this inner rage, but violent altercations between two or more fallen characters do sometimes occur.
+
+***Blood Lust.*** When you reduce a creature to 0 HP with a melee attack, you use your reaction to make a melee attack against another hostile creature within 5 feet. If the only creatures within 5 feet of you are allies, you must succeed on a DC 10 WIS save or you target an adjacent ally instead.
+
+***Fighting Fit.*** You have advantage on death saves.
+
+***Wasteland Survivor.*** You have proficiency in the Survival skill. When you make a check to forage for food or water or to find shelter, double your PB for the roll.
+
+***Languages.*** You know Common and one additional language of your choice. Typical fallen characters choose Orcish or Qoradan.
 
 ### Feysworn Heritage
 
@@ -406,6 +455,52 @@ Feysworn community characters often choose to adventure because of their relatio
 
 ***Languages.*** You know Common and one additional language of your choice. Typical feysworn heritage characters choose Sylvan.
 
+### Fireforge Heritage
+
+Fireforge heritage characters were raised with the values and traditions of crafting communities dependent on the resources found in fiery—and often inhospitable—locales.
+
+Dwarven legends are united in the belief that the best metalcrafting is done in the fires of the earth. Long ago, groups of dwarves following this tradition settled near areas of volcanic activity, turning such places into their forges. These dwarves were the first fireforge clans. These communities still toil in the heat of magma, creating weapons, armor, and goods noteworthy even among the finest crafts made across the world. They trade these goods for necessities not found in their harsh environment.
+
+Because fireforge communities are built around sources of extreme heat, they often encounter and make relationships with Elemental creatures drawn to these same environments. Fireforge communities and elementals commonly form alliances when threatened by giants, dragons, and other volcano or mountain-dwelling creatures who compete for territory.
+
+***Forgecraft.*** You gain proficiency with Smithing tools (see **Tools** in **Chapter 5**). Double your PB for any ability check you make that uses them. In addition, you know the *[[Cantrips#Mending|mending]]* cantrip.
+
+***Heat Resilience.*** Lifelong exposure has made you resilient to the effects of severe heat. You are resistant to fire damage.
+
+***Languages.*** You know Common and one additional language of your choice. Typical fireforge heritage characters choose Dwarvish.
+
+### Forest Bastion Heritage
+
+%% source: Tales of the Old Margreve %%
+
+Forest bastion heritage characters are raised in communities on the edges of forests, where civilization meets the wild.
+
+While you were raised far from the urbanized world, your people are keenly aware of your unique position between it and the untamed wilderness. Your people live in relative harmony with the forest, hunting and harvesting sustainably. You grew up enjoying festivals and practicing traditions centered around planting new trees in spring, hunting only animals of certain ages, and giving percentages of any crops to the forest in fall to ensure wintering animals thrive into the next year.
+
+Forest bastion heritage communities are often led by a tripartite council: a mayor recognized by whatever far-away government lays vague claim over the community, the current leader of the community's hunters, and a druid that provides spiritual counsel to the community and a connection to the forest. This tripartite upbringing is reflected in all people of this heritage, who understand a balance between civilization and nature is key to the long-term survival of all. At a young age, you were trained to respect the forest, take from it only what you need, and to return any excess to the forest. You were also taught some of the careful dance needed to interact with more urbanized people.
+
+***Druid's Training.*** You have proficiency in either the Animal Handling or Nature skill.
+
+***Hunter's Training.*** You have trained with your community's hunters to catch and harvest prey for your people. You have proficiency with trapper's tools.
+
+***Mayor's Training.*** You know that you don't understand all the ways of the urbanized world and know how to recover from some social fumbles. When you fail a CHA check while interacting with a creature from an urban home, such as a fey noble, a city shopkeeper, or even a cloud giant king, you can reroll the check and must take the new result. Once you use this trait, you must finish a short or long rest before you can use it again.
+
+***Languages.*** You know Common and one additional language of your choice. Typical forest bastion heritage characters choose Elvish, Erina, or Sylvan.
+
+### Grove Heritage
+
+Grove heritage characters grow in the values and traditions of forest communities dedicated to living in harmony with nature.
+
+When elves first walked the world, many chose to settle in the bounteous forests. These were the first grove elves, who established communities that intertwined with the natural world rather than seeking dominion. These communities preserve the forests they call home, communing with nature in sacred groves and taking up arms against those who dare to claim ownership of the land.
+
+As competing interests threaten natural spaces, all manner of creatures have come to share the values of grove communities. Those whose hearts are open to the truths taught by the forests are welcome to settle among them.
+
+***Canopy Walker.*** You have a climbing speed equal to your walking speed.
+
+***Nature’s Camouflage.*** You have advantage on DEX (Stealth) checks made while you are lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. While in such conditions, you can always attempt to take the Hide action, even if circumstances would not normally allow you to do so.
+
+***Languages.*** You know Common and one additional language of your choice. Typical grove heritage characters choose Elvish.
+
 ### Hivebound Heritage
 
 %% source: Player's Guide 2 %%
@@ -423,6 +518,42 @@ Individuals who leave the hive in pursuit of adventure don’t do so lightly, an
 ***Unity.*** When you use the Help action to grant another creature advantage on an ability check, that creature gains an additional bonus to the check equal to your PB. If a creature uses the Help action to give you advantage on a check, you gain an additional bonus equal to the creature’s PB.
 
 ***Languages.*** You know Common and one additional language of your choice. Typical hivebound heritage characters choose Primordial or Sylvan.
+
+### Hiveheim Heritage
+
+%% source: Tales of the Old Margreve %%
+
+Characters from the hiveheim heritage were raised in bearfolk communities focused on bees and bee hives. You grew up enjoying the bounties of nature which provided you with homely comforts.
+
+Hiveheim communities make use of bee hives as a major part of their defenses, and honey, wax, and other commodities harvested from bees are regular luxuries for their people. These communities often engage in fishing competitions, honeyed confectionary bake-offs, and contests displaying foraging skills, and you grew up participating in these feats of skill. You see the gifts the natural world can supply, and you know how to wrest them from nature with prowess and grace.
+
+> [!note] In Björnrike
+> Characters from the hiveheim heritage were raised in enclosed honeycomb settlements like the bee-kissed city of [[Björnrike|Bjeornheim]]. You grew up enjoying the bounties of nature which provided you with homely comforts. Bjeornheim’s use of bee hives as its major defense makes honey, wax, and other commodities harvested from bees regular luxuries for you. You've often engaged in contests of all kinds to judge your survival prowess—fishing competitions, honeyed confectionary bake-offs, and other bouts of foraging skill are just a few of the tests you grew up participating in regularly. A hiveheim heritage character sees the gifts the natural world can supply and knows how to wrest them from nature with prowess and grace.
+>
+
+%% source of the note above: Lineages & Heritages (its traits are identical) %%
+
+***Hive Minded.*** You have an affinity with hive-creating insects and understand where and how they move and live, which allows you to better orient yourself and find food in areas where such creatures dwell. While in an environment where hive-dwelling creatures live, you have advantage on DEX (Stealth) checks to hide in the environment and on WIS (Survival) checks to find food, water, and shelter in the environment.
+
+***Ursine Tact.*** You have proficiency in either the Nature or Survival skill and in either herbalist or provisioner tools.
+
+***Languages.*** You know Common and one additional language of your choice. Typical hiveheim heritage characters choose Sylvan.
+
+### Horse Lord Heritage
+
+%% source: Book of Blades %%
+
+For those from a horse lord heritage, horses are not just a status symbol, but a symbol of wealth, power, and honor. A horse lord’s value is linked to their horsemanship and boldness in battle. The bravest warriors are rewarded with additional horses, growing the size of their herd and along with their status.
+
+Most horse lords live a nomadic existence of seasonal migrations for grazing herds, coming back to the capital once a year to rejoin the rest of their clan. While raised on a culture of self-sufficiency prizing the freedom of the open plains, clansmen also have a deep sense of community, passing on their clan’s history through storytelling and songs. Reverence for the heroes of the past and achieving a place in the afterlife through deeds spurs horse lords to take chances and make sacrifices.
+
+***Expert Trainer.*** You are skilled at training horses, allowing you to enhance your mount. Choose one horse that you work with for one hour as part of a long rest. Add your PB to your horse’s hit point maximum and DEX saves. These bonuses last until you long rest or train another horse.
+
+***Clansman.*** You gain proficiency with Animal Handling and either Perform or Survival, reflecting your heritage in the capital or as a wandering herdsman. You have advantage on WIS (Animal Handling) checks made to calm horses.
+
+***Master of Horse.*** You gain proficiency with trapper tools and land vehicles.
+
+***Languages.*** You know Common and one additional language of your choice. Typical creatures of this heritage choose languages that border their grazing lands or trade with their clan. Halfling and Gnomish are most common.
 
 ### Ironwrought Heritage
 
@@ -474,6 +605,24 @@ Joymonger communities attract a range of personalities and professions, from per
 
 ***Languages.*** You know Common and one additional language of your choice. Typical creatures of this heritage choose Halfling or Gnomish.
 
+### Junker Heritage
+
+%% source: Lineages & Heritages %%
+
+Junker heritage characters have been raised among the wasteland and desert dwelling junker gnolls. These tightly knit, semi-nomadic communities are recognizable by their small caravans of camel-drawn, covered wagons. Packs of hyenas often run among the wagons as they travel, creating an intimidating air. The wagons stop near settlements for prolonged periods, usually a season, but up to a year if business is profitable.
+
+The first junker communities were insular and secretive. The gnoll leaders didn’t trust other humanoids to respect them and their property. For their part, non-gnoll communities feared the hyena-folk’s loudness and large bearing. Generations of peaceful contact between the junkers and other communities, and the adoption of many non-gnoll members into the junker community, has softened relations.
+
+Junker heritage characters tend to be creative, outspoken, and loud. They like to celebrate their discoveries by carousing, and they can often be convinced to perform minor repairs around a homestead or settlement in exchange for food, drink, and dance.
+
+***Improvised Toolkit.*** You can use a pair of daggers in place of thieves’ tools, tinker’s tools, or woodcarver’s tools.
+
+***Project Manager.*** You know how to work efficiently. When you craft an item during downtime, you decrease the number of workweeks it takes to complete the project by 1d4 weeks. If the crafting time is reduced to less than 1 week, it still takes at least 1 day to complete the project.
+
+***Scroungecrafter.*** You know how to create something sturdy out of makeshift parts. If you spend 1 hour scrounging goods before you start crafting a nonmagical item during downtime, you decrease the cost of creating it by 25 percent.
+
+***Languages.*** You know Common and one other language. Typical junker heritage characters choose Gnoll, Gnome, or Goblin.
+
 ### Kithren Heritage
 
 %% source: Player's Guide 2 %%
@@ -490,217 +639,53 @@ Through their work, those of kithren heritage gain a wide knowledge of survival 
 
 ***Languages.*** You know Common and one additional language of your choice. Typical creatures of this heritage choose Goblin or Gnomish.
 
-### Seafarer Heritage
+### Lost Soul Heritage
 
-%% source: Player's Guide 2 %%
+%% source: Night Hunters %%
 
-Characters with the seafarer heritage were raised on a flotilla of ships that travel together across wide expanses of open water. Usually composed of a mix of fast-moving scout ships, floating sea farms, fishing trawlers, and large cruisers, some sea caravans have a specific destination, but most are content to live on the water, trading for supplies and ferrying passengers as they make their way from one side of the world to another. They are often the only ships willing to travel through truly treacherous weather, preferring even choppy waves to the shore, and the trade and news they bring makes them well-loved. They are usually left alone, even by pirates.
+You grew up as a stranger in a strange land. You might be an orphan from a far-off place, raised in a community that never quite fully accepted you. Or perhaps an omen, rumors, or other accident of your birth marked you as distinctly other, and you found yourself shunned and ostracized by those who should have been your family and friends. Whatever the circumstances, you never really fit in, and you longed for the companionship and community that was so often denied to you. You spent most of your time alone, finding solace in solitary pursuits, such as reading, exercise, or exploring the local environs.
 
-Along their journey, seafarer ships shift their formations to respond to the conditions around them: from bringing more maneuverable or more heavily armed ships to the front when facing a threat to lashing slower, more secure ships together to serve as shelter in times of bad weather. Decision-making in a sea caravan tends to come about collectively, though there is usually a captain among the oldest to whom the rest defer, and those who have more experience or skill with an issue will often take the lead. However, everyone is expected to protect those closest to them, to jump in to help at a moment’s notice, and they know at least a passing amount about how every role on the ship functions.
+Individuals with the lost soul heritage hail from all sorts of societies and all walks of life. The strongest commonalities among them, however, are their deep resilience and an ability to combat loneliness through personal growth.
 
-***Jack of all Trades.*** Once per long rest, you can add your PB to a tool or ability check even if you are not proficient in that tool or ability.
+***Quiet Fortitude.*** You have advantage on saves against being charmed, and you are immune to the *[[2nd-Circle Spells#Detect Thoughts|detect thoughts]]* spell and similar effects that allow creatures to read your surface thoughts.
 
-***Sea Legs.*** You gain proficiency with vehicles (water) and have advantage on DEX checks while aboard any floating vessel.
+***Self-Improvement.*** Either you are proficient in your choice of two skills, or you are proficient in your choice of one skill and one martial weapon.
 
-***Languages.*** You know Common and one additional language of your choice. Depending on who the sea caravan generally trades with and which parts of the sea they travel, typical creatures of this heritage choose Dwarvish or Elvish.
+***Languages.*** You know Common and one additional language of your choice. Typically, this is either Draconic or Elvish.
 
-### Waterside Heritage
+### Mangrove Regent Heritage
 
-%% source: Player's Guide 2 %%
+%% source: Lineages & Heritages %%
 
-Waterside heritage characters come from communities that live at the edges of bodies of water, such as rivers, lakes, swamps, or the sea. Because of their proximity, these characters split their time between these two worlds, navigating their co-existence with skill.
+Characters of the mangrove regent heritage have been raised among a community of mangrove dryads and carry its values and customs.
 
-Boating is an everyday part of life for these peoples, though their boats are generally small watercraft, built for only one or two. They’re used for transport and fishing, and waterside communities commonly subsist on the bounty harvested from the nearby water, including fish, kelp, and salt. More advanced communities sometimes engage in aquaculture, growing fish, pearls, plants, or more magical raw materials.
+When gales and hurricanes rage across the oceans of the fey realms, the neighborhoods of mangrove dryads provide the first line of protection to their communities. The mangroves themselves break the wind, preventing it from roaring through the lands beyond at its full force. The magically inclined among them then use their arcane skills to further blunt and redirect winds, while the more physical members of the community build stormbreaks of felled trees. Between storm seasons, the mangrove dryads prepare for the next one, all the while boasting and betting on how effective their individual works will be at reducing the storm’s sting.
 
-Living right on the water puts waterside communities close to nature. Some even work in harmony with local wildlife, using them to help fish or hunt or following their lead toward sustenance. These communities are seldom large and typically run by elders who oversee day-to-day affairs. The people are hardworking and often have off-season pursuits when the weather turns too cold or stormy for regular operations. A few take the opportunity to go adventuring or to trade with other far-away communities, selling their own excess goods or bartering for vegetables, cured meats, and other needful things.
+On the Material Plane, mangrove dryad communities continue their efforts to aid others. They gladly provide guides to people seeking to move through their beloved coastal swamps. During the daylight hours, while they work, the mangrove regents are serious about moving their charges safely through the region, and they are quick to divert course around quicksand, nesting alligators, and reeking fens. At rest though, their camps are full of laughter and music as they play games and songs to entertain themselves and each other.
 
-***Knowledgeable.*** You have proficiency in your choice of either the History or Nature skill. When you make a check using your chosen skill to discern something about a waterside area, double your PB.
+***Marsh Player.*** You have proficiency with one musical instrument and one gaming set of your choice.
 
-***Water Legs.*** You gain proficiency with vehicles (water). You have advantage on STR (Athletics) and DEX (Acrobatics) checks to keep your balance while you’re by the water. In addition, you don’t treat water up to your waist as difficult terrain.
+***Swamp Strider.*** As an action, you can enable yourself to move across water, mud, and quicksand as though it was solid ground for 1 hour. Once used, you must finish a long rest before you can use this feature again again.
 
-***Languages.*** You know Common and one additional language of your choice. Typical waterside heritage characters choose Sylvan or a language of those they trade with, like Dwarvish or Elvish.
+***Venom Tolerance.*** You have advantage on saves against being poisoned, and you are resistant to poison damage.
 
-## More Heritages (Tales of the Old Margreve)
+***Languages.*** You know Common and one additional language of your choice. Typical mangrove regent heritage characters choose Sylvan.
 
-%% source: Tales of the Old Margreve %%
+### Martial Law Heritage
 
-This section features four new heritages that represent some of the cultures found within the [[The Margreve|Margreve Forest]]. Heritage represents the upbringing and culture of a character. It's what your family, community, or other formative authority figures taught you.
+%% source: Book of Blades %%
 
-Any lineage can work with any heritage, regardless of whether the character is of a lineage associated with the forest, but some lineages go more naturally with certain heritages. The Common Heritages by Lineage table shows which ones match up if you want to play a more "typical" character from the Margreve Forest.
+The military deemed the civil authority to be unable to function and took over the country’s government. What originally might have been seen as a temporary situation became permanent when the military commander suspended civil rights and subjected the civilian population to military justice.
 
-### Languages
+While the rules are strict, and punishment swift and summary, all of the population’s minimum necessities are met, with additional benefits for the families of those who join the military. Society is generally safe, and those from martial law heritages feel they are part of a cohesive, tight-knit society that prioritizes self-sacrifice and service to others. As part of growing up, all members of society complete basic military training and often complete a brief compulsory military service.
 
-The heritages in this section introduce two new languages: [[Erina]] and [[Piney]]. These languages were originated by erinas and pineys, respectively, and they are spoken primarily in communities of those peoples or that associate with those peoples.
+***Basic Training.*** You gain proficiency with Athletics and Intimidation.
 
-***Erina.*** This language consists of a series of whirring sounds punctuated by clicks.
+***Militia Drill.*** You gain proficiency with light armor, spears, light crossbows, and shortswords.
 
-***Piney.*** This language mixes many Elvish words with a vocal approximation of the sounds heard in the forest.
+***Small Unit Tactics.*** While you are within 5 feet of an ally, you can take the Help action to aid that ally as a bonus action. You can do so a number of times equal to your PB and regain all expended uses after you finish a long rest.
 
-### Common Heritages by Lineage
-
-Any lineage can work with any heritage, but some lineages go more naturally with certain heritages. The Common Heritages by Lineage table shows which ones match up if you want to play a more "typical" character. The heritages listed in this table but not found in this book can be found in the Player's Guide.
-
-*Common Heritages by Lineage*
-
-| Lineage | Recommended Heritages |
-|---|---|
-| [[Alseid]] | Forest Bastion, Old Ways, Wildlands |
-| [[Bearfolk]] | Cottage, Hiveheim, Moonlit |
-| Erina | Delver, Forest Bastion, Salvager |
-| Piney | Forest Bastion, Grove, Old Ways |
-
-### Delver Heritage
-
-%% source: Tales of the Old Margreve %%
-
-Delver heritage characters are raised in underground communities that fill networks of burrows and warrens. You grew up in a tight-knit community made up of a collection of large families, typically of erina, kobolds, or rabbit-like beastfolk.
-
-Delver warrens contain a dizzying number of tunnels and chambers with multiple camouflaged entrances and exits. These tunnels hold the multitude of large families, food storage chambers, and community gathering spaces, and if a warren is ever attacked, these tunnels allow the vulnerable members of the community to quickly flee while the warriors attack, burrowing in from every angle. Living in cozy tunnels leaves most delvers mildly uncomfortable in wide, open spaces, such as grassy plains or on the open ocean.
-
-Most delver communities are scroungers and gatherers, growing some root vegetables but primarily subsisting on the bounty of the land above their warrens. When not gathering fruits and nuts, tending crops, or honing your skills as a defender of the community, you spent your days surrounded by family, listening to stories from elders and helping to teach and raise those younger than you. Even characters who choose to leave this life behind understand the value of being connected to others.
-
-***Burrower.*** You have a burrowing speed equal to your walking speed, but you can't burrow through ice or rock.
-
-***Feed a Horde.*** Growing up in a large family, you know how to make a little food go a long way. You are proficient with provisioner tools. If you have enough food to feed at least one Medium or smaller Humanoid, you can use provisioner tools to cook that into a meal large enough to feed twice as many Humanoids as it could normally feed.
-
-***Wrangler.*** Being part of a large family has taught you how to wrangle groups of people, whether chasing younglings or negotiating compromises among differing personalities. You have proficiency in either the Acrobatics or Persuasion skill.
-
-***Languages.*** You know Common and one additional language of your choice. Typical delver heritage characters choose Draconic or Erina.
-
-### Forest Bastion Heritage
-
-%% source: Tales of the Old Margreve %%
-
-Forest bastion heritage characters are raised in communities on the edges of forests, where civilization meets the wild.
-
-While you were raised far from the urbanized world, your people are keenly aware of your unique position between it and the untamed wilderness. Your people live in relative harmony with the forest, hunting and harvesting sustainably. You grew up enjoying festivals and practicing traditions centered around planting new trees in spring, hunting only animals of certain ages, and giving percentages of any crops to the forest in fall to ensure wintering animals thrive into the next year.
-
-Forest bastion heritage communities are often led by a tripartite council: a mayor recognized by whatever far-away government lays vague claim over the community, the current leader of the community's hunters, and a druid that provides spiritual counsel to the community and a connection to the forest. This tripartite upbringing is reflected in all people of this heritage, who understand a balance between civilization and nature is key to the long-term survival of all. At a young age, you were trained to respect the forest, take from it only what you need, and to return any excess to the forest. You were also taught some of the careful dance needed to interact with more urbanized people.
-
-***Druid's Training.*** You have proficiency in either the Animal Handling or Nature skill.
-
-***Hunter's Training.*** You have trained with your community's hunters to catch and harvest prey for your people. You have proficiency with trapper's tools.
-
-***Mayor's Training.*** You know that you don't understand all the ways of the urbanized world and know how to recover from some social fumbles. When you fail a CHA check while interacting with a creature from an urban home, such as a fey noble, a city shopkeeper, or even a cloud giant king, you can reroll the check and must take the new result. Once you use this trait, you must finish a short or long rest before you can use it again.
-
-***Languages.*** You know Common and one additional language of your choice. Typical forest bastion heritage characters choose Elvish, Erina, or Sylvan.
-
-### Hiveheim Heritage
-
-%% source: Tales of the Old Margreve %%
-
-Characters from the hiveheim heritage were raised in bearfolk communities focused on bees and bee hives. You grew up enjoying the bounties of nature which provided you with homely comforts.
-
-Hiveheim communities make use of bee hives as a major part of their defenses, and honey, wax, and other commodities harvested from bees are regular luxuries for their people. These communities often engage in fishing competitions, honeyed confectionary bake-offs, and contests displaying foraging skills, and you grew up participating in these feats of skill. You see the gifts the natural world can supply, and you know how to wrest them from nature with prowess and grace.
-
-***Hive Minded.*** You have an affinity with hive-creating insects and understand where and how they move and live, which allows you to better orient yourself and find food in areas where such creatures dwell. While in an environment where hive-dwelling creatures live, you have advantage on DEX (Stealth) checks to hide in the environment and on WIS (Survival) checks to find food, water, and shelter in the environment.
-
-***Ursine Tact.*** You have proficiency in either the Nature or Survival skill and in either herbalist or provisioner tools.
-
-***Languages.*** You know Common and one additional language of your choice. Typical hiveheim heritage characters choose Sylvan.
-
-### Moonlit Heritage
-
-%% source: Tales of the Old Margreve %%
-
-Moonlit heritage characters have a supernatural charge to purify the places and people touched by the influence of the [[The Shadow Realm|Shadow Realm]]. You were raised in an area on the edge of the Shadow Realm or influenced by the Shadow Realm, such as the [[Moonlit Glades]] or the [[Western Margreve]]. Your culture is dedicated to fighting back the Shadow Realm's corruption and allowing purifying moonlight to find purchase there.
-
-While the bearfolk created the first moonlit enclaves against shadow, these enclaves have since attracted a variety of warriors and druids who seek to sanctify and purify. Being able to grow up in such a place is a minor miracle, and those raised here believe in the power of faith to restore and protect. A moonlit heritage character knows the magical marks of corruption and believes that no person or place is so tainted that it can't be reclaimed by the light.
-
-***Harness Moonlight.*** You know minor magic to enhance light, making it painful for many creatures of shadow. You can use a bonus action to enhance a source of light you are wearing or carrying. The bright light emitted by that source counts as sunlight for a number of rounds equal to your PB, provided you continue wearing or carrying the source of light. You can use this trait a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
-
-***Shadow Survivor.*** Lifelong exposure to the dangers that lurk in the shadows on the edges of your moonlit home has inured you to some of those horrors. You have advantage on checks and saves against being frightened.
-
-***Languages.*** You know Common and one additional language of your choice. Typical moonlit heritage characters choose Umbral.
-
-### Old Ways Heritage
-
-%% source: Tales of the Old Margreve %%
-
-Old Ways heritage characters come from hidden or insular communities far from the more populated regions of the world and where the most ancient trees are as respected as the village's elders. The community follows a very strict set of naming conventions that honors the oldest tree standing within five miles of the community. If that tree dies, the community's name is changed to include the next oldest. In this way, your community's name may be the same for centuries then go through a period of frequent change. These names are treated reverently by your community, and swearing an oath on the tree's name feels as binding to you as any magical contract.
-
-You were born in a place of undeveloped natural majesty, where the inhabitants live harmoniously with nature. Your people are part of an ancient ecosystem that has endured for millennia without an axe felling a tree for hundreds of miles. As such, many of your community view outsiders with superstition and mistrust, and their interaction with the other folk of Midgard is extremely limited.
-
-Your people don't worship the gods or their masks. Prayer is strictly forbidden and is seen as an expression of the outsiders' moral inferiority. Those who are caught worshipping gods are swiftly banished from their villages. While your people revere a forest or other natural biome, they do so not from a desire to approach the divine, but from an absolute and practical surety that their continued existence depends on the enigmatic will of Midgard's oldest lands. You may not innately understand concepts such as spirituality and faith.
-
-Your people follow an unspoken series of social contracts which outsiders refer to as the "old ways." These rules are learned by the young through cautionary tales told by village elders, and through accidental infractions which are quickly corrected. The "old ways" are generally centered around respecting the forest's power, honoring the memories which lie in the forest's loamy floor, and making the required sacrifices to ensure the village remains in good standing with the creatures and spirits beyond the village's borders.
-
-***Ancient Roots.*** You have a deep and pragmatic connection with the natural world. You are proficient in the Nature and Survival skills.
-
-***Primeval Bond.*** You have a learned connection with the natural world and can sense the mood of wild creatures you study. You know the druidcraft cantrip, and you have advantage on WIS (Animal Handling) and WIS (Insight) checks to discern the disposition of Beasts, Plants, and vegetation, such as if an animal is hungry or scared or if a tree is comfortable or sick.
-
-***Languages.*** You know Common and one additional language of your choice. Typical Old Ways heritage characters choose Piney or Sylvan.
-
-## More Heritages (Labyrinth Worldbook)
-
-%% source: Labyrinth Worldbook %%
-
-This section contains descriptions of additional heritage options available to characters in [[The Labyrinth|Labyrinth]] campaigns.
-
-If you’re not sure what to choose or want a character that reflects archetypes typical to the Labyrinth setting, choose a recommended heritage listed on the **Common Heritages by Lineage** table. For instance, if you want to play a typical minotaur, select a heritage option listed in the minotaur section.
-
-Heritage options marked with an asterisk (*) are described in the *Player’s Guide*, and all other heritage options are described in this chapter.
-
-### Boatwright Heritage
-
-%% source: Labyrinth Worldbook %%
-
-Traveling folk who ferry people up and down the [[The Ever River|River Styx]], Boatwright-heritage characters have been transformed in some way by being dipped into the black waters of the Styx by their ankles soon after they were born. Their skin typically hardens and takes on a silver, blue, or orange-tinged hue, reminiscent of fish scales. Elders within boatwright communities may even develop gills, webbed hands, or similar characteristics due to prolonged exposure to the water. [[Minor Wayfaring Groups|Boatwrights]] usually prefer to hide these characteristics beneath long-sleeved and hooded robes— which only adds to their curious reputation.
-
-Most members of the Boatwrights follow the river god [[Charun]] (see **Chapter 6**) in the hopes that the original ferryman will bless their vessels and ensure no harm comes to them as they travel the waterways of the Styx. Others pay tribute to the arch-devils of the Hells, whose caravans they sometimes guide up and down the river. Although only a few belong to one of the heroic factions, Boatwright characters are often on good terms with the [[Servants of the Dreaming God|Dreamers]], who regularly need boat transport.
-
-***River Folk.*** You have a swimming speed equal to your walking speed, and you can hold your breath for up to 10 minutes.
-
-***Styx Born.*** You have proficiency with water vehicles. A lifetime aboard boats also gives you advantage on DEX checks and saves made to avoid being knocked prone.
-
-***Languages.*** You know Common and one additional language of your choice. Typical Boatwright characters choose Infernal.
-
-**Common Heritages by Lineage**
-
-| Lineage | Recommended Heritages |
-|---|---|
-| Derro | Fallen, Void-Touched |
-| Dragonborn | Fallen, Maze-Born |
-| Gearforged | Steam-and-Brass, Stygian |
-| Midnight Dwarf | Fallen, Void-Touched |
-| [[Minotaurs\|Minotaur]] | Fallen, Maze-Born, Oldwood |
-| [[Satyrs\|Satyr]] | Oldwood, Wildlands* |
-| Star Elf | Exalted |
-| Syderean (Spellborn) | Boatwright, Exalted, Stygian |
-
-### Exalted Heritage
-
-%% source: Labyrinth Worldbook %%
-
-Exalted heritage characters come from communities located in the Celestial Realms. These unique settlements are pockets of mortal life in worlds overflowing with Divine magical energy and populated by Celestial beings like angels.
-
-It is always rare and wondrous circumstances that bring mortals into the realms of divinity, and even more fantastical circumstances that lead to the establishment of entire communities in such places. You were raised by such people, the chosen few permitted to thrive in worlds of sculpted perfection under the protection of immortal beings who have the very ear of the gods.
-
-Many, including your own people, consider you blessed to be reared among the perfection of heavenly halls, radiant landscapes, and eternally fair climates. However, living in such a world also placed you under the watchful eye of beings strictly bound to the forces of good and law—with little patience for those who bend or break rules. For this reason, people of exalted communities often encourage their younger members to travel upon reaching adulthood. Exposure to new people and places is often shocking to those raised exclusively in the Celestial Realms and often necessary for young adults to understand just how privileged their people are.
-
-***Celestial Blessing.*** Fiends have disadvantage on attack rolls against you. You also have advantage on checks made to determine if a creature is lying.
-
-***Divine Wisdom.*** You have proficiency with the Religion skill. Whenever you make a check to interact with a Celestial creature or recall information about Celestial creatures or the Celestial Realms, you can add your PB to the roll. If you have proficiency in a relevant skill or tool, double your PB for the roll.
-
-***Languages.*** You know Common and two additional languages of your choice. Typical exalted heritage characters choose Celestial and Elvish.
-
-### Fallen Heritage
-
-%% source: Labyrinth Worldbook %%
-
-Fallen heritage characters are the last survivors (or the survivors’ descendants) of a place that has been destroyed. This could be a section of the Labyrinth that has collapsed into ruin, a kingdom that was destroyed by a mage war or other cataclysmic event, or a dead world that has succumbed to the Void.
-
-Unlike characters with the diaspora heritage (see *Player’s Guide*), there is little to no hope of restoring the fallen characters’ homeland to its former glory. Instead, fallen characters form close-knit tribes, clans, or similar groups cursed to wander the desolate wastelands where their homes once stood or driven into exile in search of sanctuary and respite. [[Minotaurs]], humans, and orcs are prevalent among fallen heritage characters.
-
-The ordeals endured by fallen characters mean many have darkness in their hearts and are prone to anger and violence, sometimes even becoming overwhelmed by blood lust. Since fallen characters form strong bonds with other members of their tribe or clan, it is usually their enemies that bear the brunt of this inner rage, but violent altercations between two or more fallen characters do sometimes occur.
-
-***Blood Lust.*** When you reduce a creature to 0 HP with a melee attack, you use your reaction to make a melee attack against another hostile creature within 5 feet. If the only creatures within 5 feet of you are allies, you must succeed on a DC 10 WIS save or you target an adjacent ally instead.
-
-***Fighting Fit.*** You have advantage on death saves.
-
-***Wasteland Survivor.*** You have proficiency in the Survival skill. When you make a check to forage for food or water or to find shelter, double your PB for the roll.
-
-***Languages.*** You know Common and one additional language of your choice. Typical fallen characters choose Orcish or Qoradan.
+***Languages.*** You know Common and one additional language of your choice. Typical creatures of this heritage choose Dwarvish or Infernal.
 
 ### Maze-Born Heritage
 
@@ -734,167 +719,21 @@ Creatures who grow to adulthood upon Yggdrasil often develop a great love of tra
 
 ***Languages.* Growing up on a mystical crossroads, you’ve picked up a smattering of other tongues. You know Common and three additional languages of your choice— one of which can be Elder Speech (Druidic). Typical messenger heritage characters choose Celestial, Elder Speech (Druidic), and Sylvan.
 
-### Oldwood Heritage
+### Moonlit Heritage
 
-%% source: Labyrinth Worldbook %%
+%% source: Tales of the Old Margreve %%
 
-Oldwood heritage characters grew up on the ancient worlds of the [[Old Ring]] or in the untamed wildernesses of worlds such as Midgard and the Lands of Parsantium. Beneath the mighty boughs of the forest or out on the misty moors, followers of the oldwood are taught the importance of protecting the natural world—its birds and beasts, plants and trees, and rivers and lakes—from those who would cut down the forests and slaughter its wildlife.
+Moonlit heritage characters have a supernatural charge to purify the places and people touched by the influence of the [[The Shadow Realm|Shadow Realm]]. You were raised in an area on the edge of the Shadow Realm or influenced by the Shadow Realm, such as the [[Moonlit Glades]] or the [[Western Margreve]]. Your culture is dedicated to fighting back the Shadow Realm's corruption and allowing purifying moonlight to find purchase there.
 
-Oldwood communities are usually small. The inhabitants live in harmony with the natural world, hunting, gathering, and growing only the food they need. Their leaders are usually members of the Old Ring faction; many are druids, paying homage to [[Cartokk]] the Dreaming God, to local nature deities, or to nature itself. Grove wardens (see **Backgrounds** in this chapter) and rangers help keep these peaceful places and the surrounding wilderness safe from those who would wilfully cause harm or upset the balance of nature.
+While the bearfolk created the first moonlit enclaves against shadow, these enclaves have since attracted a variety of warriors and druids who seek to sanctify and purify. Being able to grow up in such a place is a minor miracle, and those raised here believe in the power of faith to restore and protect. A moonlit heritage character knows the magical marks of corruption and believes that no person or place is so tainted that it can't be reclaimed by the light.
 
-Characters of the oldwood heritage feel most at home in the wilds. They know which plants are safe to eat and which have healing properties and have learned how to travel swiftly and safely on Yggdrasil’s oak roads.
+> [!note] In the Moonlit Glades
+> Moonlit heritage characters have a supernatural charge to purify the places and people touched by the influence of the Shadow Realm. You were raised in the Moonlit Glades, a bastion of light and hope within the north of the Shadow Realm. Your culture is dedicated to fighting back its corruption and allowing the purifying moonlight of Midgard to find purchase there.
+>
+> While the bearfolk of Björnrike founded the Moonlit Glades, it has since attracted a variety of warriors and druids who seek to sanctify and purify. Being able to grow up in such a place is a minor miracle, and those raised here believe in the power of faith to restore and protect. A moonlit heritage character knows the magical marks of corruption and believes that no person or place is so tainted that it cannot be reclaimed by the light.
+>
 
-***Nature’s Bounty.*** You have proficiency in the Nature skill and with herbalist tools.
-
-***Oak Road Walker.*** You have advantage on ability checks to traverse the treacherous branches of Yggdrasil, and your speed isn’t halved when you move through magical or nonmagical difficult terrain while on Yggdrasil or in forests. Your knowledge of the World Tree allows you to find a handy portal that will reduce the length of any journey on the oak roads by 1d6 days.
-
-***Languages.*** You know Common and one additional language of your choice. Typical oldwood characters choose Elvish. If your GM allows it, you may choose Elder Speech (Druidic) as your additional language.
-
-### Steam-and-Brass Heritage
-
-%% source: Labyrinth Worldbook %%
-
-Steam-and-brass heritage characters were brought up in the Smithy at the heart of the Labyrinth, on the mechadrons’ home world of Armillary, or in [[Zobeck]] or another bustling city filled with arcane foundries and inventor’s workshops.
-
-In such a community, clockwork mages, mechanists, and geargrinders are revered for the marvelous, intricate devices they create, and clockwork watchmen, steam golems, and other constructs are a common sight on the city streets. Gearforged typically make up a significant part of the population in these cities and towns, but dwarves, gnomes, kobolds, and humans are also drawn to these communities.
-
-Growing up in a busy, noisy settlement like this has instilled in you the core values of working hard, taking pride in a job well done, and using your ingenuity to solve thorny problems. You have become adept at fixing mechanical devices and feel comfortable when surrounded by machines and Constructs.
-
-***Born to Tinker.*** You gain proficiency with tinker tools. Double your PB for any ability check you make that uses them. In addition, you know the *[[Cantrips#Mending|mending]]* cantrip.
-
-***Resourceful.*** If you have at least one set of tools, you can cobble together one set of makeshift tools of a different type with 1 minute of work. For example, if you have provisioner tools, you can use them to create a temporary set of thieves’ tools. The makeshift tools last for 10 minutes then collapse into their component parts, returning your tools to their normal forms. While the makeshift tools exist, you can’t use the set of tools you used to create the makeshift tools. At the GM’s discretion, you might not be able to replicate some tools, such as an alchemist’s alembic still or a charlatan’s cosmetics. A creature other than you that uses the makeshift tools has disadvantage on the check.
-
-***Languages.*** You know Common and one additional language of your choice. Typical steam-and-brass heritage characters choose Dwarvish. You can also understand spoken Machine Speech, the whistling, clicking language of gearforged and mechadrons.
-
-### Stygian Heritage
-
-%% source: Labyrinth Worldbook %%
-
-The lives of stygian heritage characters are defined by absence. Their memory is fragmented or completely lost. Their earliest recollection is the gaunt face of Charun, Ferryman of the river Styx, telling them they needed to earn the dark coin clutched in their hand. So they were returned, with no memory of what came before apart from the knowledge that when they perform deeds worthy enough, their coin will restore their past and deliver them to what comes next. Characters of this heritage are often a “culture” of one person.
-
-Perhaps you had a community, a family, and a full range of life experiences. You remember none of it. It might have only been a matter of days, weeks, or months since you awoke in the mortal world. You know how to do things, speak languages, even perform specialized tasks, but don’t remember how you learned such skills. Those who say they wish they couldn’t remember haven’t walked in your boots.
-
-To one degree or another, stygian characters’ lives revolve around their coin. Always returning to them magically, the dark coins hold their past and the hope for their futures. Most stygian characters actively search for answers, performing tasks and quests to become worthy of the coin. Others hope to avoid their destiny, deliberately seeking to establish new lives in defiance of Charun and the coin they view as a curse.
-
-***Styx Coin.* You have a magical coin that always reappears on your person if you give it away or it leaves your possession for more than 1 minute. While the coin is in your possession, when you would spend 3 Luck to reroll a d20 check, you only have to spend 2 Luck.
-
-***Undauntable.* The memory of Charun shields you somewhat from fear. When you make a save to resist becoming frightened, you can treat any d20 die roll of 9 or lower as though you rolled a 10.
-
-***Languages.* You speak Common and one other language, but you don’t know how you learned it.
-
-### Void-Touched Heritage
-
-%% source: Labyrinth Worldbook %%
-
-Void-touched characters grew up on a world that has become shadowed, darkened, or lost to the Void (see **Structure of the Labyrinth** in **Chapter 1**). Characters might belong to a community that is slowly coming under the Void’s influence, or one that has become wholly corrupted or conquered by the Void. Alternatively, a character could be a sole survivor, forming a “culture” of just one individual.
-
-Your home may have been attacked by the undead warriors of the [[Brothers of the Last Cathedral|Last Cathedral]], infiltrated by a doom-mongering apocalypse cult, or exposed to strange energies from beyond time and space when a chaos sorcerer opened a void rift. Whatever happened, you were changed forever by this traumatic experience, and you have been trying to shake off the embrace of the Void ever since.
-
-Unfortunately, your ordeal has forged a connection to the Void that means you are unlikely to ever be completely rid of its influence, although this connection has also granted you several useful abilities that help you stay alive.
-
-***Forbidden Knowledge.*** You have proficiency in the Arcana or Religion skill. When you make a check to recall information about void creatures or cults, double your PB for the roll.
-
-***Mental Toughness.*** When you make a save to resist a dread effect, you can treat any d20 die roll of 9 or lower as though you rolled a 10. If you succumb to dread, the duration of the effect is halved.
-
-***Languages.*** You know Common and one additional language of your choice. Typical void-touched characters choose Dwarvish. You can also understand spoken or written Void Speech and aren’t harmed by hearing or reading it.
-
-## More Heritages (Lineages & Heritages)
-
-%% source: Lineages & Heritages %%
-
-These heritages come from the *[[Lineages & Heritages]]* supplements. Hiveheim and moonlit also appear above from *Tales of the Old Margreve*; the versions here are the supplement's own.
-
-### Aerobat Heritage
-
-%% source: Lineages & Heritages %%
-
-Characters from this heritage were raised among the captains, crew, and engineers of airship fleets. Though this is a young heritage in the grand scheme of the world with few communities, they are tight-knit and encourage an adventurous spirit as much as intellectual and physical skill.
-
-Aerobat communities rely on good relationships with air elementals, intelligent avians, and bird-folk. These alliances help the communities develop the necessary survival skills for living far above the ground.
-
-Some aerobats claim they feel a constant breeze on their skin or that clouds follow them while they go about their business. Some even claim that they have a protective elemental at their beck and call, going so far as to name this alleged companion and engage them in one-sided conversations.
-
-The first aerobats came from communities of fearlessly curious goblins and smallfolk, but all lineages are numbered among the aerobats. Avian beastkin are heavily represented in the heritage.
-
-***Descender.*** You can cast the *feather fall* spell without requiring material components. Once you cast it, you must finish a long rest before you can cast it again. Your spellcasting ability for this spell is INT, WIS, or CHA (choose which during character creation).
-
-***Natural Pilot.***  You have proficiency with either navigator’s tools or vehicles (air).
-
-***Wind Walker.*** You have proficiency in either the Acrobatics or Athletics skill.
-
-***Languages.*** You know Common and one additional language of your choice. Typical aerobat heritage characters choose Goblin or Gnomish.
-
-### Badlander Heritage
-
-%% source: Lineages & Heritages %%
-
-As rugged as the terrain they inhabit, badlander heritage characters feel they can survive whatever the world throws at them. They tend to be quiet and stoic, enduring hardship with a shrug and self-deprecating bark. Their clothing is sturdy and economical without flourishes that could get caught on an outcropping of rock.
-
-This heritage was originally cultivated by gnolls. As other humanoids moved into these regions, either in a concerted effort to settle the arid landscape, or just to get away from civilization, they looked to the gnolls for survival secrets. Now there are as many badlander heritage characters of other lineages as there are gnolls, a fact which makes some of the original badlanders howl. Depending on the temperament of a given badlander conclave, they are as likely to let newcomers to the badlands figure out how to survive on their own as they are to assist them.
-
-***Extreme Endurance.*** You are inured to the rigors of hard living. You have advantage on CON saves against exhaustion. When you finish a short or long rest, you can reduce your exhaustion level by one.
-
-***Iron Guts.*** You can subsist on spoiled food and drink. You have advantage on saves against being poisoned.
-
-***Scrub Survivors.*** You have proficiency with herbalist tools. If you have herbalist tools, you can make WIS (Herbalist Tools) checks in place of WIS (Medicine) checks. When you and your allies expend hit dice to regain hit points during a short rest, you can make a DC 12 WIS (Herbalist Tools) check during that rest. On a success, you and a number of creatures up to your PB that expended hit dice regain 1 additional hit point per hit die expended.
-
-***Languages.*** You know Common and one other language. Typical badlander heritage characters choose [[Gnolls|Gnoll]].
-
-### Hiveheim Heritage (Lineages & Heritages)
-
-%% source: Lineages & Heritages %%
-
-Characters from the hiveheim heritage were raised in enclosed honeycomb settlements like the bee-kissed city of [[Björnrike|Bjeornheim]]. You grew up enjoying the bounties of nature which provided you with homely comforts. Bjeornheim’s use of bee hives as its major defense makes honey, wax, and other commodities harvested from bees regular luxuries for you. You've often engaged in contests of all kinds to judge your survival prowess—fishing competitions, honeyed confectionary bake-offs, and other bouts of foraging skill are just a few of the tests you grew up participating in regularly. A hiveheim heritage character sees the gifts the natural world can supply and knows how to wrest them from nature with prowess and grace.
-
-***Hive Minded.*** You have an affinity with hive-creating insects and understand where and how they move and live, which allows you to better orient yourself and find food in areas where such creatures dwell. While in an environment where hive-dwelling creatures live, you have advantage on DEX (Stealth) checks to hide in the environment and on WIS (Survival) checks to find food, water, and shelter in the environment.
-
-***Ursine Tact.*** You have proficiency in either the Nature or Survival skill and in either herbalist or provisioner tools.
-
-***Languages.*** You know Common and one additional language of your choice. Typical hiveheim heritage characters choose Sylvan.
-
-### Junker Heritage
-
-%% source: Lineages & Heritages %%
-
-Junker heritage characters have been raised among the wasteland and desert dwelling junker gnolls. These tightly knit, semi-nomadic communities are recognizable by their small caravans of camel-drawn, covered wagons. Packs of hyenas often run among the wagons as they travel, creating an intimidating air. The wagons stop near settlements for prolonged periods, usually a season, but up to a year if business is profitable.
-
-The first junker communities were insular and secretive. The gnoll leaders didn’t trust other humanoids to respect them and their property. For their part, non-gnoll communities feared the hyena-folk’s loudness and large bearing. Generations of peaceful contact between the junkers and other communities, and the adoption of many non-gnoll members into the junker community, has softened relations.
-
-Junker heritage characters tend to be creative, outspoken, and loud. They like to celebrate their discoveries by carousing, and they can often be convinced to perform minor repairs around a homestead or settlement in exchange for food, drink, and dance.
-
-***Improvised Toolkit.*** You can use a pair of daggers in place of thieves’ tools, tinker’s tools, or woodcarver’s tools.
-
-***Project Manager.*** You know how to work efficiently. When you craft an item during downtime, you decrease the number of workweeks it takes to complete the project by 1d4 weeks. If the crafting time is reduced to less than 1 week, it still takes at least 1 day to complete the project.
-
-***Scroungecrafter.*** You know how to create something sturdy out of makeshift parts. If you spend 1 hour scrounging goods before you start crafting a nonmagical item during downtime, you decrease the cost of creating it by 25 percent.
-
-***Languages.*** You know Common and one other language. Typical junker heritage characters choose Gnoll, Gnome, or Goblin.
-
-### Mangrove Regent Heritage
-
-%% source: Lineages & Heritages %%
-
-Characters of the mangrove regent heritage have been raised among a community of mangrove dryads and carry its values and customs.
-
-When gales and hurricanes rage across the oceans of the fey realms, the neighborhoods of mangrove dryads provide the first line of protection to their communities. The mangroves themselves break the wind, preventing it from roaring through the lands beyond at its full force. The magically inclined among them then use their arcane skills to further blunt and redirect winds, while the more physical members of the community build stormbreaks of felled trees. Between storm seasons, the mangrove dryads prepare for the next one, all the while boasting and betting on how effective their individual works will be at reducing the storm’s sting.
-
-On the Material Plane, mangrove dryad communities continue their efforts to aid others. They gladly provide guides to people seeking to move through their beloved coastal swamps. During the daylight hours, while they work, the mangrove regents are serious about moving their charges safely through the region, and they are quick to divert course around quicksand, nesting alligators, and reeking fens. At rest though, their camps are full of laughter and music as they play games and songs to entertain themselves and each other.
-
-***Marsh Player.*** You have proficiency with one musical instrument and one gaming set of your choice.
-
-***Swamp Strider.*** As an action, you can enable yourself to move across water, mud, and quicksand as though it was solid ground for 1 hour. Once used, you must finish a long rest before you can use this feature again again.
-
-***Venom Tolerance.*** You have advantage on saves against being poisoned, and you are resistant to poison damage.
-
-***Languages.*** You know Common and one additional language of your choice. Typical mangrove regent heritage characters choose Sylvan.
-
-### Moonlit Heritage (Lineages & Heritages)
-
-%% source: Lineages & Heritages %%
-
-Moonlit heritage characters have a supernatural charge to purify the places and people touched by the influence of the Shadow Realm. You were raised in the Moonlit Glades, a bastion of light and hope within the north of the Shadow Realm. Your culture is dedicated to fighting back its corruption and allowing the purifying moonlight of Midgard to find purchase there.
-
-While the bearfolk of Björnrike founded the Moonlit Glades, it has since attracted a variety of warriors and druids who seek to sanctify and purify. Being able to grow up in such a place is a minor miracle, and those raised here believe in the power of faith to restore and protect. A moonlit heritage character knows the magical marks of corruption and believes that no person or place is so tainted that it cannot be reclaimed by the light.
+%% source of the note above: Lineages & Heritages (its traits are identical) %%
 
 ***Harness Moonlight.*** You know minor magic to enhance light, making it painful for many creatures of shadow. You can use a bonus action to enhance a source of light you are wearing or carrying. The bright light emitted by that source counts as sunlight for a number of rounds equal to your PB, provided you continue wearing or carrying the source of light. You can use this trait a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
@@ -920,6 +759,50 @@ Some mud runner communities habitually ambush swamp travelers and present them a
 
 ***Languages.*** You know Common and one other language. Typical mud runner heritage characters choose Draconic.
 
+### Nomadic Heritage
+
+Nomadic heritage characters hail from a tight-knit community that regularly moves to and from different areas. Your people might migrate with plants and game in seasons, follow established trade routes, or roam for a more unique reason. People of nomadic heritage are suited to the rigors of travel and often understand environmental cycles and the hazards or benefits that come with them.
+
+***Resilient.*** You have advantage on checks or saves made to resist debilitating weather effects, such as those caused by extreme heat or cold. In addition, when you complete a short rest, you can reduce your exhaustion level by one. Once used, you can't reduce your exhaustion level in this way again until you complete a long rest.
+
+***Traveler.*** You have proficiency in the Survival skill.
+
+***Languages.*** You know Common and one additional language of your choice. Depending on the regions your people frequent or the kinds of communities your people trade with, typical nomadic heritage characters choose Dwarvish or Elvish.
+
+### Old Ways Heritage
+
+%% source: Tales of the Old Margreve %%
+
+Old Ways heritage characters come from hidden or insular communities far from the more populated regions of the world and where the most ancient trees are as respected as the village's elders. The community follows a very strict set of naming conventions that honors the oldest tree standing within five miles of the community. If that tree dies, the community's name is changed to include the next oldest. In this way, your community's name may be the same for centuries then go through a period of frequent change. These names are treated reverently by your community, and swearing an oath on the tree's name feels as binding to you as any magical contract.
+
+You were born in a place of undeveloped natural majesty, where the inhabitants live harmoniously with nature. Your people are part of an ancient ecosystem that has endured for millennia without an axe felling a tree for hundreds of miles. As such, many of your community view outsiders with superstition and mistrust, and their interaction with the other folk of Midgard is extremely limited.
+
+Your people don't worship the gods or their masks. Prayer is strictly forbidden and is seen as an expression of the outsiders' moral inferiority. Those who are caught worshipping gods are swiftly banished from their villages. While your people revere a forest or other natural biome, they do so not from a desire to approach the divine, but from an absolute and practical surety that their continued existence depends on the enigmatic will of Midgard's oldest lands. You may not innately understand concepts such as spirituality and faith.
+
+Your people follow an unspoken series of social contracts which outsiders refer to as the "old ways." These rules are learned by the young through cautionary tales told by village elders, and through accidental infractions which are quickly corrected. The "old ways" are generally centered around respecting the forest's power, honoring the memories which lie in the forest's loamy floor, and making the required sacrifices to ensure the village remains in good standing with the creatures and spirits beyond the village's borders.
+
+***Ancient Roots.*** You have a deep and pragmatic connection with the natural world. You are proficient in the Nature and Survival skills.
+
+***Primeval Bond.*** You have a learned connection with the natural world and can sense the mood of wild creatures you study. You know the druidcraft cantrip, and you have advantage on WIS (Animal Handling) and WIS (Insight) checks to discern the disposition of Beasts, Plants, and vegetation, such as if an animal is hungry or scared or if a tree is comfortable or sick.
+
+***Languages.*** You know Common and one additional language of your choice. Typical Old Ways heritage characters choose Piney or Sylvan.
+
+### Oldwood Heritage
+
+%% source: Labyrinth Worldbook %%
+
+Oldwood heritage characters grew up on the ancient worlds of the [[Old Ring]] or in the untamed wildernesses of worlds such as Midgard and the Lands of Parsantium. Beneath the mighty boughs of the forest or out on the misty moors, followers of the oldwood are taught the importance of protecting the natural world—its birds and beasts, plants and trees, and rivers and lakes—from those who would cut down the forests and slaughter its wildlife.
+
+Oldwood communities are usually small. The inhabitants live in harmony with the natural world, hunting, gathering, and growing only the food they need. Their leaders are usually members of the Old Ring faction; many are druids, paying homage to [[Cartokk]] the Dreaming God, to local nature deities, or to nature itself. Grove wardens (see **Backgrounds** in this chapter) and rangers help keep these peaceful places and the surrounding wilderness safe from those who would wilfully cause harm or upset the balance of nature.
+
+Characters of the oldwood heritage feel most at home in the wilds. They know which plants are safe to eat and which have healing properties and have learned how to travel swiftly and safely on Yggdrasil’s oak roads.
+
+***Nature’s Bounty.*** You have proficiency in the Nature skill and with herbalist tools.
+
+***Oak Road Walker.*** You have advantage on ability checks to traverse the treacherous branches of Yggdrasil, and your speed isn’t halved when you move through magical or nonmagical difficult terrain while on Yggdrasil or in forests. Your knowledge of the World Tree allows you to find a handy portal that will reduce the length of any journey on the oak roads by 1d6 days.
+
+***Languages.*** You know Common and one additional language of your choice. Typical oldwood characters choose Elvish. If your GM allows it, you may choose Elder Speech (Druidic) as your additional language.
+
 ### Pine Scion Heritage
 
 %% source: Lineages & Heritages %%
@@ -937,6 +820,22 @@ Pine scions live fully in two worlds. They love to travel the woodlands. They se
 ***Woodcraft.*** You have proficiency in either the Nature or Survival skill.
 
 ***Languages.*** You know Common and one other language of your choice. Typical pine scion heritage characters choose Sylvan.
+
+### Privileged Heritage
+
+%% source: Book of Blades %%
+
+Some individuals don’t just visit court, they’re born to it. The children of nobility, rich merchants, and even the offspring of criminal masterminds are fortunate enough to have all the benefits of wealth and privilege.
+
+The best food, education, and plenty of free time lets them pursue their passions and leaves plenty of time for socializing. Mingling with the “right sort” of people provides a network of favors and protection that others don’t have. It has its own dangers too. Blackmail and backstabbing are common place.
+
+A pleasant façade over a cold heart is the armor of choice when one moves in the highest circles. Those born to privilege learn to wear it well.
+
+***Passion Project.*** You gain proficiency with a skill of your choice and one musical instrument or gaming set.
+
+***Social Maneuvering.*** You have advantage on contested Deception, Insight, and Persuasion skill checks made in social situations. Instead of the situation remaining the same, you win ties.
+
+***Languages.*** You know Common and one additional language of your choice. Typical creatures of this heritage choose Draconic or Sylvan.
 
 ### Rain Creeper Heritage
 
@@ -956,6 +855,20 @@ Rain creeper communities tend to be pious. They venerate gods whose areas of int
 
 ***Languages.*** You know Common and one other language. Typical rain creeper heritage characters choose Draconic.
 
+### Remote Community Heritage
+
+%% source: Night Hunters %%
+
+You lived in a remote community that cherished the old ways and prized self-sufficiency. You might be from a tiny village tucked away within a valley surrounded by rugged mountains, from a cluster of homes at the edge of a gloomy swamp, or even from a farming town beside a roaring river. You might have grown up believing the superstitions held by your family (and perhaps you still do), or you might have questioned things from the moment you were old enough to speak. But for most of your life, you knew only the traditions of your isolated community and were ignorant to the ways of the outside world.
+
+Due to their insular nature, such societies value resourcefulness and wisdom. They prioritize the common good over the individual and shun anyone who bucks the status quo. Those raised within these communities possess at least one craft or skill, as well as knowledge of nature or other rustic pursuits.
+
+***Common Good.*** You are proficient with your choice of one tool and in one of the following skills: Animal Handling, Medicine, Nature, or Survival.
+
+***Local Color.*** When you make a CHA check while interacting with commoners and working-class folks, you can add your PB to the roll. If you are proficient in the skill being used, double your PB.
+
+***Languages.*** You know Common and one additional language of your choice. Typically, this is either Dwarvish or Elvish.
+
 ### Rothenian Heritage
 
 %% source: Lineages & Heritages %%
@@ -969,6 +882,34 @@ No matter their heritage, those who call the Plain their home are fiercely indep
 ***Plains Weapon Training.*** You have proficiency with longbow, longsword, shortbow, and shortsword.
 
 ***Languages.*** You know Common and one additional language of your choice. Typical Rothenian heritage characters choose [[Centaurs|Centaur]].
+
+### Salvager Heritage
+
+Characters who choose this heritage were raised with the skills and tenacity of making do with what’s at hand.
+
+Your people have, for whatever reason, carved out a society away from the comforts of traditional cities or settlements. From an early age, members of this heritage learn to build shelter, weaponry, and tools from whatever materials they find.
+
+Salvager communities might cluster in inhospitable or difficult-to-access locations. Or perhaps they patrol enormous expanses, moving from opportunity to opportunity without drawing attention. Among these patient opportunists, knowledge and resourcefulness are deeply respected skills, prized above all else.
+
+***Repurpose.*** You can create Tiny nonmagical items using materials from your surroundings. An item takes 1 minute to create and can be anything of 25 gp value or less from the [[Adventuring Gear]] table (see **Adventuring Gear** in **Chapter 5**). When done, it must sit or float on a surface within 5 feet of you. The item is obviously kitbashed, and resale value is minimal. After one use, the item becomes nonfunctional.
+
+***Tinkerer.*** You have proficiency with tinker’s tools or one other kind of tool of your choice (see **Tools** in **Chapter 5**). When you make a check to create, identify, or disarm a magical or nonmagical object, trap, or device, where you have a relevant proficiency, double your PB for the roll.
+
+***Languages.*** You know Common and one additional language of your choice. Typical scavenger heritage characters choose Draconic or Gnomish.
+
+### Seafarer Heritage
+
+%% source: Player's Guide 2 %%
+
+Characters with the seafarer heritage were raised on a flotilla of ships that travel together across wide expanses of open water. Usually composed of a mix of fast-moving scout ships, floating sea farms, fishing trawlers, and large cruisers, some sea caravans have a specific destination, but most are content to live on the water, trading for supplies and ferrying passengers as they make their way from one side of the world to another. They are often the only ships willing to travel through truly treacherous weather, preferring even choppy waves to the shore, and the trade and news they bring makes them well-loved. They are usually left alone, even by pirates.
+
+Along their journey, seafarer ships shift their formations to respond to the conditions around them: from bringing more maneuverable or more heavily armed ships to the front when facing a threat to lashing slower, more secure ships together to serve as shelter in times of bad weather. Decision-making in a sea caravan tends to come about collectively, though there is usually a captain among the oldest to whom the rest defer, and those who have more experience or skill with an issue will often take the lead. However, everyone is expected to protect those closest to them, to jump in to help at a moment’s notice, and they know at least a passing amount about how every role on the ship functions.
+
+***Jack of all Trades.*** Once per long rest, you can add your PB to a tool or ability check even if you are not proficient in that tool or ability.
+
+***Sea Legs.*** You gain proficiency with vehicles (water) and have advantage on DEX checks while aboard any floating vessel.
+
+***Languages.*** You know Common and one additional language of your choice. Depending on who the sea caravan generally trades with and which parts of the sea they travel, typical creatures of this heritage choose Dwarvish or Elvish.
 
 ### Shadow Court Heritage
 
@@ -1000,6 +941,34 @@ Characters of the shadowlands heritage have adapted to the Shadow Realm and cont
 
 ***Languages.*** You know Common and one other language of your choice. Typical shadowlands heritage characters choose Sylvan or Umbral.
 
+### Shepherd to the Dead Heritage
+
+%% source: Night Hunters %%
+
+You grew up in a community dedicated to the tending of the dead, shepherding souls to the other side. You grew up around corpses, and such sights hold no terror for you anymore. Instead of fearing death, you learned the rituals and rites used to lay individuals to rest and permit their spirits to move on. Your community might have held a massive necropolis filled with elaborate skeletal decor, soaring cathedrals above deep crypts or a sprawling ossuary, skies filled with the smoke from funeral pyres, or vast cemeteries dotted with mausoleums. Perhaps everyone in your town had their own responsibilities with regard to the deceased, or your family alone might have held the secrets to laying the dead to rest.
+
+While this heritage is most common in worlds wracked by plague, stalked by monsters, or beset by constant war, many societies have those whose primary role is caretaker to the dead.
+
+***Death’s Companion.*** You are proficient in the Medicine skill, and you have advantage on death saves.
+
+***Fear Nothing.*** You have advantage on saves against being frightened.
+
+***Languages.*** You know Common and one additional language of your choice. Typically, this is the language used in the death rites, usually Celestial.
+
+### Slayer Heritage
+
+Members of a slayer heritage were raised in a society of like-minded people dedicated to hunting monsters.
+
+Slayer communities dedicate their lives to hunting powerful predators that might topple natural ecosystems, such as dragons or trolls. Sometimes slayer packs accept coin to kill specific monsters or types of monsters. More often, they support themselves with treasure seized from monster lairs or profits from selling harvested monster parts. They might hunt Huge and Gargantuan monsters as a pack or scatter to hunt individually and reconvene at intervals.
+
+Given their lifestyle, slayer communities value strength and tracking skill highly. From infancy, members of slayer communities are taught to hunt, track, and survive in wilderness environments. Slayers who can no longer hunt due to age, illness, or injury are honorably retired from the pack to live with non-slayer relatives, and some still serve as fundraisers and information gatherers. Rumors also tell of hidden enclaves populated by retired slayers.
+
+***Natural Predator.*** You have proficiency in the Intimidation skill. You have advantage on Intimidation checks to influence Beasts and creatures with the Animal tag.
+
+***Tracker.*** When you make a check to locate, spot, or track a creature, you can add your PB to the roll. If you have proficiency in the skill or tool being used, double your PB for the roll.
+
+***Languages.*** You know Common and one additional language of your choice. Typical slayer heritage characters choose Primordial or Sylvan.
+
 ### Sponsored Heritage
 
 %% source: Lineages & Heritages %%
@@ -1019,6 +988,84 @@ Members of a sponsored heritage are often haughty and decisive. Even those who h
 ***Studied Charm.*** You have proficiency in the Persuasion skill. In addition, if you spend at least 1 minute conversing or interacting with a Humanoid you or your allies haven’t attacked within the last 24 hours, you have advantage on your next CHA check against that Humanoid. Regardless of the result, you can’t use Studied Charm on that Humanoid again until 24 hours have passed.
 
 ***Languages.*** You know Common and one other language. Typical sponsored heritage characters choose a language their patron speaks.
+
+### Steam-and-Brass Heritage
+
+%% source: Labyrinth Worldbook %%
+
+Steam-and-brass heritage characters were brought up in the Smithy at the heart of the Labyrinth, on the mechadrons’ home world of Armillary, or in [[Zobeck]] or another bustling city filled with arcane foundries and inventor’s workshops.
+
+In such a community, clockwork mages, mechanists, and geargrinders are revered for the marvelous, intricate devices they create, and clockwork watchmen, steam golems, and other constructs are a common sight on the city streets. Gearforged typically make up a significant part of the population in these cities and towns, but dwarves, gnomes, kobolds, and humans are also drawn to these communities.
+
+Growing up in a busy, noisy settlement like this has instilled in you the core values of working hard, taking pride in a job well done, and using your ingenuity to solve thorny problems. You have become adept at fixing mechanical devices and feel comfortable when surrounded by machines and Constructs.
+
+***Born to Tinker.*** You gain proficiency with tinker tools. Double your PB for any ability check you make that uses them. In addition, you know the *[[Cantrips#Mending|mending]]* cantrip.
+
+***Resourceful.*** If you have at least one set of tools, you can cobble together one set of makeshift tools of a different type with 1 minute of work. For example, if you have provisioner tools, you can use them to create a temporary set of thieves’ tools. The makeshift tools last for 10 minutes then collapse into their component parts, returning your tools to their normal forms. While the makeshift tools exist, you can’t use the set of tools you used to create the makeshift tools. At the GM’s discretion, you might not be able to replicate some tools, such as an alchemist’s alembic still or a charlatan’s cosmetics. A creature other than you that uses the makeshift tools has disadvantage on the check.
+
+***Languages.*** You know Common and one additional language of your choice. Typical steam-and-brass heritage characters choose Dwarvish. You can also understand spoken Machine Speech, the whistling, clicking language of gearforged and mechadrons.
+
+### Stone Heritage
+
+Stone heritage characters were raised in a subterranean community of miners and stoneworkers.
+
+Above all else, the residents of the ancient cities of the stone dwarf clans value tradition and champion the deeds of ancestors who allowed their people to find safety within the earth. From childhood, people of the stone are instructed in the arts of smithing, metalworking, and masonry. Many devote their lives to mining and working precious metals beneath the surface of the world.
+
+Though members of the stone heritage take great pride in their societies, life in their cities is far from easy. The splendid caverns and mines occupied by stone communities come under frequent attack by other subterranean denizens. As children are raised to swing a mining pick, they are also taught to swing arms against the enemies that seek generations of dwarven treasures for themselves.
+
+***Ancestral Arts.*** You gain proficiency with Construction tools (see **Tools** in **Chapter 5**). Double your PB for any ability check you make that uses them. You also gain proficiency with one type of martial weapon of your choice (see **Weapons** in **Chapter 5**).
+
+***Eye for Quality.*** When you make an ability check related to the origin or purpose of an object or structure made of metal or stone, you can add your PB to the roll. If you have proficiency in a relevant skill or tool, double your PB for the roll.
+
+***Languages.*** You know Common and one additional language of your choice. Typical stone heritage characters choose Dwarvish.
+
+### Street Gang Heritage
+
+%% source: Night Hunters %%
+
+You spent your early life in a gang of child thieves under the none-too-gentle watch of a guild master, possibly of supernatural origin. Perhaps you were sold into servitude. Perhaps you were an orphan picked up from the street by the master. You probably never knew a life other than that of beggar and thief within a settlement of some size, where you could disappear into crowds and back alleys.
+
+Now, you’re free of that life. Maybe you managed to bring others with you, or maybe you were the only one who got away. Whether you were rescued or escaped on your own, your time in such captivity has left a mark (perhaps literally), and it provided you with a unique set of skills and intimate knowledge of your captor and their kind.
+
+A PC with such a heritage might live in perpetual fear of facing their former master or others like them, or they might relish the chance to face them again, exacting revenge for those they lost or left behind or simply for themselves.
+
+***Hypervigilance.*** You are proficient in the Insight skill, and you have advantage when making an INT check related to your former master or similar creature.
+
+***Skilled Servitor.*** You are proficient with thieves’ tools and with your choice of one musical instrument or tool.
+
+***Languages.*** You know Common and two additional languages of your choice. Typically, one of these is either Dwarvish or Elvish.
+
+### Stygian Heritage
+
+%% source: Labyrinth Worldbook %%
+
+The lives of stygian heritage characters are defined by absence. Their memory is fragmented or completely lost. Their earliest recollection is the gaunt face of Charun, Ferryman of the river Styx, telling them they needed to earn the dark coin clutched in their hand. So they were returned, with no memory of what came before apart from the knowledge that when they perform deeds worthy enough, their coin will restore their past and deliver them to what comes next. Characters of this heritage are often a “culture” of one person.
+
+Perhaps you had a community, a family, and a full range of life experiences. You remember none of it. It might have only been a matter of days, weeks, or months since you awoke in the mortal world. You know how to do things, speak languages, even perform specialized tasks, but don’t remember how you learned such skills. Those who say they wish they couldn’t remember haven’t walked in your boots.
+
+To one degree or another, stygian characters’ lives revolve around their coin. Always returning to them magically, the dark coins hold their past and the hope for their futures. Most stygian characters actively search for answers, performing tasks and quests to become worthy of the coin. Others hope to avoid their destiny, deliberately seeking to establish new lives in defiance of Charun and the coin they view as a curse.
+
+***Styx Coin.* You have a magical coin that always reappears on your person if you give it away or it leaves your possession for more than 1 minute. While the coin is in your possession, when you would spend 3 Luck to reroll a d20 check, you only have to spend 2 Luck.
+
+***Undauntable.* The memory of Charun shields you somewhat from fear. When you make a save to resist becoming frightened, you can treat any d20 die roll of 9 or lower as though you rolled a 10.
+
+***Languages.* You speak Common and one other language, but you don’t know how you learned it.
+
+### Supplicant Heritage
+
+Characters of this heritage were raised in a community bound to serve a monstrous overlord.
+
+Monstrous creatures of fearsome might and intelligence have always sought dominion. But dominion implies someone to dominate—minions and subjects made loyal through adoration or fear.
+
+Your people served, or still serve, such an overlord. They built their lives around whatever whims and commands fell to them. Many creatures make suitable monstrous overlords, but the most common are dragons who use servants to maintain and defend their lairs. As such, most supplicant communities live in natural shelters such as caves, thickets, and precarious rock faces near their overlord’s redoubt. There, they cultivate traps and deadly hazards for protection.
+
+It’s easy to imagine why a member of this heritage might leave. In addition to running away, an overlord might command subjects to take an expedition to gather information or treasure. Perhaps an overlord has been recently dispatched, forcing your people to explore a strange, new freedom . . . or to seek a new overlord.
+
+***Scurry.*** As a bonus action, you can move up to 10 feet without provoking opportunity attacks. This movement doesn't trigger traps or hazards that you are aware of, even if they are armed.
+
+***Supplicant.*** You have proficiency in either the Insight or Persuasion skill. When a creature within 30 feet of you spends Doom, you have advantage on ability checks and saves until the beginning of your next turn.
+
+***Languages.*** You know Common and one additional language of your choice, typically the language favored by your current or previous overlord (such as Draconic, Giant, or Undercommon).
 
 ### Tribe Keeper Heritage
 
@@ -1042,6 +1089,34 @@ When you make a WIS (Insight) check to determine whether a creature is trustwort
 
 ***Languages.*** You know Common and one additional language of your choice. Typical tribe keeper heritage characters choose a language native to their tribe.
 
+### Umbral Heritage
+
+%% source: Book of Ebon Tides (a 5th Edition book with no heritages; built for this wiki from the learned traits of its peoples, following Converting 5e Material) %%
+
+*Draft: subject to change.*
+
+Umbral heritage characters grew up in the Shadow Realm, in its fey courts, goblin towns, bearfolk halls, or road-warden outposts, where the land drifts with the [[The Ebon Tides|ebon tides]] and the [[Shadow Roads|shadow roads]] are the threads that hold the world together. You know the signs of shifting land, the courtesies owed to the roads, and how to get by among peoples who all have reason to distrust outsiders.
+
+***Traveler in Darkness.*** You have advantage on INT (Arcana) and WIS (Survival) checks made to learn about a shadow road and how it works, to read the signs of the ebon tides, or to find your way along a shadow road.
+
+***Shadow-Raised.*** You have proficiency in one of the following skills of your choice: Acrobatics, Arcana, Deception, Insight, Performance, Sleight of Hand, or Stealth.
+
+***Languages.*** You know Common and one additional language of your choice. Typical umbral heritage characters choose Umbral.
+
+### Vexed Heritage
+
+The lives of vexed heritage characters are defined by their defiance of a supernatural connection to extraplanar creatures or cosmic forces. Characters of this heritage are often a “culture” of one person.
+
+You have spent your life trying to break free of the forces that have a grip on you. You might have been claimed by a powerful outsider at birth, haunted by whispers in your dreams, or found yourself the inheritor of an ancient blood debt. Regardless, something or someone has a plan for you, and your life has been characterized by running from its influence.
+
+Most vexed characters suffer in self-imposed solitude, burdened with shame and fear of their foretold fate. Many such vexed spend their lives fleeing from their supposed destiny. Others seek answers that can free them from forces that hunt them. Though active communities of vexed are rare, some occultists and scholars take keen interest in the circumstances surrounding such people’s lives.
+
+***Prodigal Disciple.*** When you make a save to resist becoming charmed or possessed, you can treat any d20 die roll of 9 or lower as though you rolled a 10.
+
+***Quarry’s Cunning.*** You have proficiency in either the Deception or Insight skill.
+
+***Languages.*** You know Common and one additional language of your choice. To better avoid an unwanted destiny, typical vexed heritage characters choose an esoteric language most closely aligned with their pursing power or force: Abyssal, Celestial, or Infernal.
+
 ### Vidim Perch Heritage
 
 %% source: Lineages & Heritages %%
@@ -1055,6 +1130,22 @@ You grew up amid the tangled poles and tarps of the Perch within the city of Vid
 ***Warding Charm.*** You can create a tiny magical trinket known as a *warding charm*. Over the course of a long rest, you can expend 5 gp worth of materials to craft one. You can only have one *warding charm* at a time. If you make a second one while you still have one, the first loses its magical effects. While carrying a *warding charm*, add your PB to your passive Perception. If you’re already proficient in Perception, double your PB instead.
 
 ***Languages.*** You know Common and one additional language of your choice. Typical Vidim Perch heritage characters choose Huginn’s Speech.
+
+### Void-Touched Heritage
+
+%% source: Labyrinth Worldbook %%
+
+Void-touched characters grew up on a world that has become shadowed, darkened, or lost to the Void (see **Structure of the Labyrinth** in **Chapter 1**). Characters might belong to a community that is slowly coming under the Void’s influence, or one that has become wholly corrupted or conquered by the Void. Alternatively, a character could be a sole survivor, forming a “culture” of just one individual.
+
+Your home may have been attacked by the undead warriors of the [[Brothers of the Last Cathedral|Last Cathedral]], infiltrated by a doom-mongering apocalypse cult, or exposed to strange energies from beyond time and space when a chaos sorcerer opened a void rift. Whatever happened, you were changed forever by this traumatic experience, and you have been trying to shake off the embrace of the Void ever since.
+
+Unfortunately, your ordeal has forged a connection to the Void that means you are unlikely to ever be completely rid of its influence, although this connection has also granted you several useful abilities that help you stay alive.
+
+***Forbidden Knowledge.*** You have proficiency in the Arcana or Religion skill. When you make a check to recall information about void creatures or cults, double your PB for the roll.
+
+***Mental Toughness.*** When you make a save to resist a dread effect, you can treat any d20 die roll of 9 or lower as though you rolled a 10. If you succumb to dread, the duration of the effect is halved.
+
+***Languages.*** You know Common and one additional language of your choice. Typical void-touched characters choose Dwarvish. You can also understand spoken or written Void Speech and aren’t harmed by hearing or reading it.
 
 ### Wastelander Heritage
 
@@ -1085,6 +1176,40 @@ All wastelander heritage characters are marked by the magic that suffuses the wa
 | 5 | ***Radiation Eater.*** You have advantage on saves against being poisoned, and you are resistant to poison damage. |
 | 6 | ***Thickened Skin.*** You are resistant to acid, cold, fire, or lightning damage (choose which during character creation). |
 
+### Waterside Heritage
+
+%% source: Player's Guide 2 %%
+
+Waterside heritage characters come from communities that live at the edges of bodies of water, such as rivers, lakes, swamps, or the sea. Because of their proximity, these characters split their time between these two worlds, navigating their co-existence with skill.
+
+Boating is an everyday part of life for these peoples, though their boats are generally small watercraft, built for only one or two. They’re used for transport and fishing, and waterside communities commonly subsist on the bounty harvested from the nearby water, including fish, kelp, and salt. More advanced communities sometimes engage in aquaculture, growing fish, pearls, plants, or more magical raw materials.
+
+Living right on the water puts waterside communities close to nature. Some even work in harmony with local wildlife, using them to help fish or hunt or following their lead toward sustenance. These communities are seldom large and typically run by elders who oversee day-to-day affairs. The people are hardworking and often have off-season pursuits when the weather turns too cold or stormy for regular operations. A few take the opportunity to go adventuring or to trade with other far-away communities, selling their own excess goods or bartering for vegetables, cured meats, and other needful things.
+
+***Knowledgeable.*** You have proficiency in your choice of either the History or Nature skill. When you make a check using your chosen skill to discern something about a waterside area, double your PB.
+
+***Water Legs.*** You gain proficiency with vehicles (water). You have advantage on STR (Athletics) and DEX (Acrobatics) checks to keep your balance while you’re by the water. In addition, you don’t treat water up to your waist as difficult terrain.
+
+***Languages.*** You know Common and one additional language of your choice. Typical waterside heritage characters choose Sylvan or a language of those they trade with, like Dwarvish or Elvish.
+
+### Wildlands Heritage
+
+Wildlands heritage characters were raised in communities deeply entwined with Primordial magic.
+
+Some wild places well up with magic. Such an abundance of power might come from a mystic connection to the primal fey realms or an echo of a Primordial spell cast long ago. This power transforms beasts who dwell there, granting gifts of speech and reason. They develop nature-based societies unlike those found in humanoid civilizations.
+
+Members of these communities live in unspoiled territory, where beasts and humanoids live as equals. A wildlands community is typically composed of intelligent beasts and humanoids with animalistic traits, such as beastkin, working together.
+
+Preservation of common interests is one of the few reasons members of this heritage ever leave. When encroaching powers put a wildlands community at risk, the task of gathering information or forging diplomatic relations falls upon the more humanoid-like members of the group.
+
+***Beast Affinity.*** Using gestures and sounds, you can communicate simple ideas with Beasts and creatures with the Animal tag, and you have advantage on checks made to interact with such creatures.
+
+***Shepherd’s Gift.*** You have proficiency in the Animal Handling skill. Any Beast or creature with the Animal tag whose CR is equal to or less than your PB that targets you with an attack must first make a WIS check contested by your WIS (Animal Handling). If you succeed, the creature must choose a new target or lose the attack.
+
+***Languages.*** You know Common and one additional language of your choice. Typical wildlands heritage characters choose Sylvan.
+
+Heritage represents the upbringing and culture of a character. It’s what your family, community, or other formative authority figures taught you.
+
 ### Zobecker Heritage
 
 %% source: Lineages & Heritages %%
@@ -1096,172 +1221,6 @@ Growing up in one of its varied districts breeds a shrewd mind for business and 
 ***Commercial Mind.*** When you are haggling, bartering, or shopping, you have advantage on checks made to get a better deal or to tell if someone is attempting to rip you off.
 
 ***Defiant.*** When you fail an INT, WIS, or CHA save, you can reroll. You must take the next result. Once you use this feature, you cannot do so again until you finish a short or long rest.
-
-## More Heritages (Book of Blades)
-
-%% source: Book of Blades %%
-
-These heritages provide new options for a martial character’s developmental period.
-
-### Horse Lord Heritage
-
-%% source: Book of Blades %%
-
-For those from a horse lord heritage, horses are not just a status symbol, but a symbol of wealth, power, and honor. A horse lord’s value is linked to their horsemanship and boldness in battle. The bravest warriors are rewarded with additional horses, growing the size of their herd and along with their status.
-
-Most horse lords live a nomadic existence of seasonal migrations for grazing herds, coming back to the capital once a year to rejoin the rest of their clan. While raised on a culture of self-sufficiency prizing the freedom of the open plains, clansmen also have a deep sense of community, passing on their clan’s history through storytelling and songs. Reverence for the heroes of the past and achieving a place in the afterlife through deeds spurs horse lords to take chances and make sacrifices.
-
-***Expert Trainer.*** You are skilled at training horses, allowing you to enhance your mount. Choose one horse that you work with for one hour as part of a long rest. Add your PB to your horse’s hit point maximum and DEX saves. These bonuses last until you long rest or train another horse.
-
-***Clansman.*** You gain proficiency with Animal Handling and either Perform or Survival, reflecting your heritage in the capital or as a wandering herdsman. You have advantage on WIS (Animal Handling) checks made to calm horses.
-
-***Master of Horse.*** You gain proficiency with trapper tools and land vehicles.
-
-***Languages.*** You know Common and one additional language of your choice. Typical creatures of this heritage choose languages that border their grazing lands or trade with their clan. Halfling and Gnomish are most common.
-
-### Martial Law Heritage
-
-%% source: Book of Blades %%
-
-The military deemed the civil authority to be unable to function and took over the country’s government. What originally might have been seen as a temporary situation became permanent when the military commander suspended civil rights and subjected the civilian population to military justice.
-
-While the rules are strict, and punishment swift and summary, all of the population’s minimum necessities are met, with additional benefits for the families of those who join the military. Society is generally safe, and those from martial law heritages feel they are part of a cohesive, tight-knit society that prioritizes self-sacrifice and service to others. As part of growing up, all members of society complete basic military training and often complete a brief compulsory military service.
-
-***Basic Training.*** You gain proficiency with Athletics and Intimidation.
-
-***Militia Drill.*** You gain proficiency with light armor, spears, light crossbows, and shortswords.
-
-***Small Unit Tactics.*** While you are within 5 feet of an ally, you can take the Help action to aid that ally as a bonus action. You can do so a number of times equal to your PB and regain all expended uses after you finish a long rest.
-
-***Languages.*** You know Common and one additional language of your choice. Typical creatures of this heritage choose Dwarvish or Infernal.
-
-### Privileged Heritage
-
-%% source: Book of Blades %%
-
-Some individuals don’t just visit court, they’re born to it. The children of nobility, rich merchants, and even the offspring of criminal masterminds are fortunate enough to have all the benefits of wealth and privilege.
-
-The best food, education, and plenty of free time lets them pursue their passions and leaves plenty of time for socializing. Mingling with the “right sort” of people provides a network of favors and protection that others don’t have. It has its own dangers too. Blackmail and backstabbing are common place.
-
-A pleasant façade over a cold heart is the armor of choice when one moves in the highest circles. Those born to privilege learn to wear it well.
-
-***Passion Project.*** You gain proficiency with a skill of your choice and one musical instrument or gaming set.
-
-***Social Maneuvering.*** You have advantage on contested Deception, Insight, and Persuasion skill checks made in social situations. Instead of the situation remaining the same, you win ties.
-
-***Languages.*** You know Common and one additional language of your choice. Typical creatures of this heritage choose Draconic or Sylvan.
-
-## More Heritages (Book of Ebon Tides)
-
-%% source: Book of Ebon Tides %%
-
-These heritages are built for characters raised in the [[The Shadow Realm|Shadow Realm]], following [[Converting 5e Material]]. The *Book of Ebon Tides* is a 5th Edition book with no heritages of its own, so these gather the learned traits of its peoples into heritages any lineage can take.
-
-### Changeling Heritage
-
-%% source: Book of Ebon Tides %%
-
-*Draft: subject to change.*
-
-Changeling heritage characters were taken as infants from the mortal world and raised in the [[Fey Courts of Shadow|fey courts]] of the Shadow Realm. The courts call it an honorable custom of fostering the children of other peoples; the parents of the stolen children see it rather differently. Changelings are taught Elvish and other refined tongues and raised until their manners match those of their shadow fey, gnome, or sable elf foster parents, and they learn early that a good story is the best protection at court.
-
-***Cover Story.*** You have proficiency in your choice of the Deception or Persuasion skill.
-
-***Court Upbringing.*** You were raised on the etiquette, games, and dangerous courtesies of the fey courts. You have advantage on checks made to recall or follow the customs and etiquette of a fey court, or to judge a fey creature's standing at court.
-
-***Languages.*** You know Common and one additional language of your choice. Typical changeling heritage characters choose Elvish or Umbral.
-
-### Umbral Heritage
-
-%% source: Book of Ebon Tides %%
-
-*Draft: subject to change.*
-
-Umbral heritage characters grew up in the Shadow Realm, in its fey courts, goblin towns, bearfolk halls, or road-warden outposts, where the land drifts with the [[The Ebon Tides|ebon tides]] and the [[Shadow Roads|shadow roads]] are the threads that hold the world together. You know the signs of shifting land, the courtesies owed to the roads, and how to get by among peoples who all have reason to distrust outsiders.
-
-***Traveler in Darkness.*** You have advantage on INT (Arcana) and WIS (Survival) checks made to learn about a shadow road and how it works, to read the signs of the ebon tides, or to find your way along a shadow road.
-
-***Shadow-Raised.*** You have proficiency in one of the following skills of your choice: Acrobatics, Arcana, Deception, Insight, Performance, Sleight of Hand, or Stealth.
-
-***Languages.*** You know Common and one additional language of your choice. Typical umbral heritage characters choose Umbral.
-
-## More Heritages (Night Hunters)
-
-%% source: Night Hunters %%
-
-In a horror setting, even a PC’s childhood might have been full of terror, and these heritages from *Night Hunters* attempt to recreate such circumstances. You can choose any heritage, regardless of lineage.
-
-### Cult Escapee Heritage
-
-%% source: Night Hunters %%
-
-You grew up in a dark cult or secret society, your life dedicated to the worship of a dark power. You shined the candlesticks for the rituals, dusted the shelves devoted to forbidden lore, helped feed the animals to be sacrificed, and acted as lookout when skullduggery was afoot. You also held your breath when the summonings and divinations came around, and you watched the fallout when some acolyte displeased the cult’s otherworldly object of reverence. Perhaps you were being groomed as a sacrifice yourself.
-
-Eventually, you got out. Maybe it was a wild escape or a quiet disappearance in the night, or maybe you were the only one left after the cult was visited by a group of adventurers. Now, here on the outside, you can chart a new course. Will you seek to be different, building on the skills you learned in thrall to dark powers, or will you assume your rightful place as the true scion of the cult?
-
-***Specialized Teachings.*** You are proficient in your choice of one of the following skills: Arcana, History, or Religion.
-
-***Wise in the Ways.*** You know the *[[Cantrips#Thaumaturgy|thaumaturgy]]* cantrip, and you add your PB to WIS (Insight) checks when dealing with Fiends.
-
-***Languages.*** You know Common and one additional language of your choice. Typically, this is either Abyssal or Infernal.
-
-### Lost Soul Heritage
-
-%% source: Night Hunters %%
-
-You grew up as a stranger in a strange land. You might be an orphan from a far-off place, raised in a community that never quite fully accepted you. Or perhaps an omen, rumors, or other accident of your birth marked you as distinctly other, and you found yourself shunned and ostracized by those who should have been your family and friends. Whatever the circumstances, you never really fit in, and you longed for the companionship and community that was so often denied to you. You spent most of your time alone, finding solace in solitary pursuits, such as reading, exercise, or exploring the local environs.
-
-Individuals with the lost soul heritage hail from all sorts of societies and all walks of life. The strongest commonalities among them, however, are their deep resilience and an ability to combat loneliness through personal growth.
-
-***Quiet Fortitude.*** You have advantage on saves against being charmed, and you are immune to the *[[2nd-Circle Spells#Detect Thoughts|detect thoughts]]* spell and similar effects that allow creatures to read your surface thoughts.
-
-***Self-Improvement.*** Either you are proficient in your choice of two skills, or you are proficient in your choice of one skill and one martial weapon.
-
-***Languages.*** You know Common and one additional language of your choice. Typically, this is either Draconic or Elvish.
-
-### Remote Community Heritage
-
-%% source: Night Hunters %%
-
-You lived in a remote community that cherished the old ways and prized self-sufficiency. You might be from a tiny village tucked away within a valley surrounded by rugged mountains, from a cluster of homes at the edge of a gloomy swamp, or even from a farming town beside a roaring river. You might have grown up believing the superstitions held by your family (and perhaps you still do), or you might have questioned things from the moment you were old enough to speak. But for most of your life, you knew only the traditions of your isolated community and were ignorant to the ways of the outside world.
-
-Due to their insular nature, such societies value resourcefulness and wisdom. They prioritize the common good over the individual and shun anyone who bucks the status quo. Those raised within these communities possess at least one craft or skill, as well as knowledge of nature or other rustic pursuits.
-
-***Common Good.*** You are proficient with your choice of one tool and in one of the following skills: Animal Handling, Medicine, Nature, or Survival.
-
-***Local Color.*** When you make a CHA check while interacting with commoners and working-class folks, you can add your PB to the roll. If you are proficient in the skill being used, double your PB.
-
-***Languages.*** You know Common and one additional language of your choice. Typically, this is either Dwarvish or Elvish.
-
-### Shepherd to the Dead Heritage
-
-%% source: Night Hunters %%
-
-You grew up in a community dedicated to the tending of the dead, shepherding souls to the other side. You grew up around corpses, and such sights hold no terror for you anymore. Instead of fearing death, you learned the rituals and rites used to lay individuals to rest and permit their spirits to move on. Your community might have held a massive necropolis filled with elaborate skeletal decor, soaring cathedrals above deep crypts or a sprawling ossuary, skies filled with the smoke from funeral pyres, or vast cemeteries dotted with mausoleums. Perhaps everyone in your town had their own responsibilities with regard to the deceased, or your family alone might have held the secrets to laying the dead to rest.
-
-While this heritage is most common in worlds wracked by plague, stalked by monsters, or beset by constant war, many societies have those whose primary role is caretaker to the dead.
-
-***Death’s Companion.*** You are proficient in the Medicine skill, and you have advantage on death saves.
-
-***Fear Nothing.*** You have advantage on saves against being frightened.
-
-***Languages.*** You know Common and one additional language of your choice. Typically, this is the language used in the death rites, usually Celestial.
-
-### Street Gang Heritage
-
-%% source: Night Hunters %%
-
-You spent your early life in a gang of child thieves under the none-too-gentle watch of a guild master, possibly of supernatural origin. Perhaps you were sold into servitude. Perhaps you were an orphan picked up from the street by the master. You probably never knew a life other than that of beggar and thief within a settlement of some size, where you could disappear into crowds and back alleys.
-
-Now, you’re free of that life. Maybe you managed to bring others with you, or maybe you were the only one who got away. Whether you were rescued or escaped on your own, your time in such captivity has left a mark (perhaps literally), and it provided you with a unique set of skills and intimate knowledge of your captor and their kind.
-
-A PC with such a heritage might live in perpetual fear of facing their former master or others like them, or they might relish the chance to face them again, exacting revenge for those they lost or left behind or simply for themselves.
-
-***Hypervigilance.*** You are proficient in the Insight skill, and you have advantage when making an INT check related to your former master or similar creature.
-
-***Skilled Servitor.*** You are proficient with thieves’ tools and with your choice of one musical instrument or tool.
-
-***Languages.*** You know Common and two additional languages of your choice. Typically, one of these is either Dwarvish or Elvish.
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

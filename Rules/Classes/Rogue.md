@@ -166,9 +166,15 @@ You have refined your chosen skills until they approach perfection. When you mak
 
 Your commitment to the rogue’s path grants you a powerful new ability. Choose one of the following heroic boons:
 
+- **Double Tap.** If you deal damage using your Sneak Attack feature (see *Player’s Guide*) to a creature as part of an attack made during your turn and the target isn’t reduced to 0 HP, you can immediately make a single additional weapon attack against that creature with a Finesse or ranged weapon you are wielding.
+
 - **Escape Artist.** When you are subjected to an effect that allows you to make any kind of save (including DEX saves) to take only half damage, you instead take no damage if you succeed on the save and only half damage if you fail.
 
 - **Jack of All Trades.** When you gain a new talent, you can choose it from any talent list. Immediately gain one talent of your choice (that you meet the prerequisites for) when you gain this feature.
+
+- **Vanishing Act.** You can now use the Hide action to attempt to hide from creatures that can clearly sense you, as long as you aren’t within 5 feet of a hostile creature. When you attempt to hide in this way, make a DEX (Stealth) check against the creature’s Perception score as normal. If multiple creatures can sense you when you attempt to hide, roll against the creature with the highest Perception score. If your attempt is successful, you become invisible for 1 minute, along with any equipment you are wearing or carrying. This invisibility ends early (and you are no longer hidden) if you make an attack, cast a spell, or stop hiding.
+
+%% source: Player's Guide 2: Double Tap, Vanishing Act %%
 
 ### Precise Critical
 
@@ -194,160 +200,31 @@ You are so evasive that attackers rarely gain the upper hand against you. While 
 
 *20th-Level Rogue Feature*
 
-Your commitment to the rogue’s path grants you a powerful new ability. You gain the following epic boon:
-
-- **Stroke of Luck.** You have got it when it counts. If your attack misses a target within normal range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20. Once you use this feature, you can’t use it again until you finish a short or long rest.
-
-## Rogue Subclasses
-
-Not all rogues are criminals, but the long history of rogues working on the wrong side of the law carries forward in discussion of your roguish specialties. Your subclass represents the brand of skullduggery you bring to the table, typically (but not necessarily) in the context of a criminal operation.
-
-## Enforcer
-
-Enforcers excel at practical violence. Whether plying their trade as bounty hunters, assassins, or mercenaries, rogues of this specialty strive to make their bloody craft efficient and effective.
-
-**Enforcer Progression**
-
-| Rogue Level | Features |
-|---|---|
-| 3rd | Ambush, Cold-Blooded, Expanded Talent List |
-| 7th | Brawler |
-| 11th | Ready to Rumble |
-| 15th | Kill Shot |
-
-### Ambush
-
-*3rd-Level Enforcer Feature*
-
-During the first round of combat, you have advantage on the first attack roll you make against any creature involved in the combat. In addition, when you make a successful attack roll against a creature with the surprised condition, that attack is automatically considered a critical hit.
-
-### Cold-Blooded
-
-*3rd-Level Enforcer Feature*
-
-Once per turn when you reduce a creature to 0 HP with a weapon attack, you can use the same weapon to immediately make an additional weapon attack against a different creature you can see within your weapon’s normal range. You can’t add Sneak Attack damage to this additional attack, even if circumstances would normally allow you to do so.
-
-### Expanded Talent List
-
-*3rd-Level Enforcer Feature*
-
-When you gain a new talent, you can select that talent from either the martial or the technical talents list (see **Talents** in **Chapter 4**).
-
-### Brawler
-
-*7th-Level Enforcer Feature*
-
-You can now use your Sneak Attack feature against a target within 5 feet of you even if no other creatures (besides the target) are within 5 feet of you. You don’t need to have advantage on the attack roll, but you can’t have disadvantage on it. All other required conditions for Sneak Attack still apply.
-
-In addition, you can now use your Sneak Attack feature with unarmed strikes (in addition to ranged weapons and weapons with the Finesse property).
-
-### Ready to Rumble
-
-*11th-Level Enforcer Feature*
-
-You have advantage on DEX checks made to determine your place in initiative order. As long as you aren’t incapacitated, you can’t be surprised (see **Appendix A: Conditions**).
-
-### Kill Shot
-
-*15th-Level Enforcer Feature*
-
-When you roll Sneak Attack damage, you can reroll any number of the dice, but you must take the new result.
-
-In addition, you can apply your Sneak Attack feature to any eligible weapon attack you make as part of an attack of opportunity if you haven’t already used your Sneak Attack during the round.
-
-## Thief
-
-You have a reputation for quick thinking and quicker fingers. Leave throat-cutting and con-running to lesser scoundrels. You live to liberate treasures held under lock and key. The thrill of bypassing a sealed door, complex trap, or other “impassable” obstacle is the true prize—followed by the payday that comes from whatever you took.
-
-**Thief Progression**
-
-| Rogue Level | Features |
-|---|---|
-| 3rd | Fast Hands, Second-Story Work |
-| 7th | Appraising Eye |
-| 11th | Trap Specialist |
-| 15th | Thief’s Reflexes |
-
-### Fast Hands
-
-*3rd-Level Thief Feature*
-
-Experience has honed your skills, allowing you to accomplish precision work in a flash. In addition to its standard uses, you can now use the bonus action granted by your Cunning Action feature to do any of the following:
-
-- Make a DEX (Sleight of Hand) check.
-
-- Take the Use an Object action.
-
-- Use thieves’ tools to attempt to disarm a trap or open a lock.
-
-### Second-Story Work
-
-*3rd-Level Thief Feature*
-
-You’ve never met a wall you couldn’t conquer, and climbing them is second nature. You gain a climbing speed equal to your walking speed. If you already have a climbing speed when you gain this feature, it increases by 10 feet.
-
-In addition, when you make a long jump, you cover a number of feet equal to your walking speed if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap half your walking speed. Either way, each foot you clear on the jump costs a foot of movement. In the event a STR (Athletics) check is required to clear or extend a jump, you can choose to make a DEX (Acrobatics) check instead.
-
-### Appraising Eye
-
-*7th-Level Thief Feature*
-
-You’ve developed an eye for quality. As an action, you can inspect any object within 10 feet of you that you can see to learn whether it is nonmagical or magical. If the object is nonmagical, you immediately learn its approximate value in gold pieces. You also learn whether the object is fake or could conceal other objects inside it (though you don’t learn whether it is currently concealing objects or what those objects are).
-
-If the object is magical, you can spend 1 minute examining it to learn its type, rarity, whether it is cursed, and if it requires attunement (and any specific attunement requirements it has). After you have examined a magic item in this way, you learn how to use it and can ignore any class or feature requirements that would normally prevent you from using it (though you still must abide by any level restrictions). If a magic item requires the use of a spellcasting ability, use your DEX to determine your spell save DC or spell attack bonus.
-
-### Trap Specialist
-
-*11th-Level Thief Feature*
-
-When you or a creature within 5 feet of you triggers a trap, you can use your reaction to roll an ability check to attempt to disarm the trap. If you are successful, the trap is disarmed and not triggered. If you are unsuccessful, the trap is triggered as normal.
-
-In addition, you can now disarm any magical traps that would typically require the use of the *[[3rd-Circle Spells#Dispel Magic|dispel magic]]* spell. When you do so, make an ability check using only your DEX modifier, without adding any other modifiers to the roll. If the result meets or exceeds the trap’s DC (your GM has this number), it is disarmed as if you had successfully cast the *[[3rd-Circle Spells#Dispel Magic|dispel magic]]* spell.
-
-### Thief’s Reflexes
-
-*15th-Level Thief Feature*
-
-You have become adept at laying ambushes and quickly escaping danger. Now, you can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature if you are surprised (see **Appendix A: Conditions**).
-
-## Rogue Boons
-
-%% source: Player's Guide 2 %%
-
-When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the rogue class.
-
-### Heroic Boons
-
-When you reach 10th level in the rogue class, you have the following additional options to choose from when selecting the boon for your Heroic Boon feature.
-
-#### Heroic Boon
-
-*10th-Level Rogue Feature*
-
-Your commitment to the rogue’s path grants you a powerful ability. Choose one of the following heroic boons:
-
-- **Double Tap.** If you deal damage using your Sneak Attack feature (see *Player’s Guide*) to a creature as part of an attack made during your turn and the target isn’t reduced to 0 HP, you can immediately make a single additional weapon attack against that creature with a Finesse or ranged weapon you are wielding.
-
-- **Vanishing Act.** You can now use the Hide action to attempt to hide from creatures that can clearly sense you, as long as you aren’t within 5 feet of a hostile creature. When you attempt to hide in this way, make a DEX (Stealth) check against the creature’s Perception score as normal. If multiple creatures can sense you when you attempt to hide, roll against the creature with the highest Perception score. If your attempt is successful, you become invisible for 1 minute, along with any equipment you are wearing or carrying. This invisibility ends early (and you are no longer hidden) if you make an attack, cast a spell, or stop hiding.
-
-### Epic Boons
-
-When you reach 20th level in the rogue class, you have the following additional options to choose from when selecting the boon for your Epic Boon feature.
-
-#### Epic Boon
-
-*20th-Level Rogue Feature*
-
 Your commitment to the rogue’s path grants you a powerful new ability. You gain one of the following epic boons:
 
 - **Mask of Oblivion.** As an action, you can become invisible for 1 minute. This invisibility ends early only if you become unconscious or you choose to end it. While invisible in this way, you can’t be detected by any nonmagical or magical means short of truesight. Once you use this feature, you can’t do so again until you finish a short or long rest.
 
 - **Shroud of Shadow.** While you are in an area of dim light or darkness, you are considered to have half-cover (+2 bonus to AC and DEX saves) and are resistant to all damage that isn’t radiant.
 
-## More Rogue Subclasses
+- **Stroke of Luck.** You have got it when it counts. If your attack misses a target within normal range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20. Once you use this feature, you can’t use it again until you finish a short or long rest.
 
-%% source: Player's Guide 2 %%
-At 3rd level, rogues gain the Rogue Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Con Arcanist, Nightblade, or Trapsmith.
+%% source: Player's Guide 2: Mask of Oblivion, Shroud of Shadow %%
+
+## Rogue Subclasses
+
+Not all rogues are criminals, but the long history of rogues working on the wrong side of the law carries forward in discussion of your roguish specialties. Your subclass represents the brand of skullduggery you bring to the table, typically (but not necessarily) in the context of a criminal operation.
+
+| Subclass | Suits |
+|---|---|
+| [[#Con Arcanist\|Con Arcanist]] | Any character |
+| [[#Enforcer\|Enforcer]] | Any character |
+| [[#Nightblade\|Nightblade]] | Any character |
+| [[#Spy\|Spy]] | The [[The Labyrinth\|Labyrinth]] |
+| [[#Strategist\|Strategist]] | Any character |
+| [[#Thief\|Thief]] | Any character |
+| [[#Thief-Acrobat\|Thief-Acrobat]] | Any character |
+| [[#Trapsmith\|Trapsmith]] | Any character |
+| [[#Underfoot\|Underfoot]] | The [[The Margreve\|Margreve]] forest |
 
 ## Con Arcanist
 
@@ -452,6 +329,59 @@ As an action, you can make yourself invisible and create an illusory double of y
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
+## Enforcer
+
+Enforcers excel at practical violence. Whether plying their trade as bounty hunters, assassins, or mercenaries, rogues of this specialty strive to make their bloody craft efficient and effective.
+
+**Enforcer Progression**
+
+| Rogue Level | Features |
+|---|---|
+| 3rd | Ambush, Cold-Blooded, Expanded Talent List |
+| 7th | Brawler |
+| 11th | Ready to Rumble |
+| 15th | Kill Shot |
+
+### Ambush
+
+*3rd-Level Enforcer Feature*
+
+During the first round of combat, you have advantage on the first attack roll you make against any creature involved in the combat. In addition, when you make a successful attack roll against a creature with the surprised condition, that attack is automatically considered a critical hit.
+
+### Cold-Blooded
+
+*3rd-Level Enforcer Feature*
+
+Once per turn when you reduce a creature to 0 HP with a weapon attack, you can use the same weapon to immediately make an additional weapon attack against a different creature you can see within your weapon’s normal range. You can’t add Sneak Attack damage to this additional attack, even if circumstances would normally allow you to do so.
+
+### Expanded Talent List
+
+*3rd-Level Enforcer Feature*
+
+When you gain a new talent, you can select that talent from either the martial or the technical talents list (see **Talents** in **Chapter 4**).
+
+### Brawler
+
+*7th-Level Enforcer Feature*
+
+You can now use your Sneak Attack feature against a target within 5 feet of you even if no other creatures (besides the target) are within 5 feet of you. You don’t need to have advantage on the attack roll, but you can’t have disadvantage on it. All other required conditions for Sneak Attack still apply.
+
+In addition, you can now use your Sneak Attack feature with unarmed strikes (in addition to ranged weapons and weapons with the Finesse property).
+
+### Ready to Rumble
+
+*11th-Level Enforcer Feature*
+
+You have advantage on DEX checks made to determine your place in initiative order. As long as you aren’t incapacitated, you can’t be surprised (see **Appendix A: Conditions**).
+
+### Kill Shot
+
+*15th-Level Enforcer Feature*
+
+When you roll Sneak Attack damage, you can reroll any number of the dice, but you must take the new result.
+
+In addition, you can apply your Sneak Attack feature to any eligible weapon attack you make as part of an attack of opportunity if you haven’t already used your Sneak Attack during the round.
+
 ## Nightblade
 
 %% source: Player's Guide 2 %%
@@ -506,6 +436,215 @@ Your blades of your Psychic Blade feature hum with barely contained energy. When
 If you use Psychic Burst as part of a critical hit, the target’s thoughts are also jumbled for 1 minute. Until this effect ends, each time the target makes an attack roll or ability check or makes a CON save to maintain concentration, it rolls a d6 and subtracts the number rolled from the attack roll, ability check, or CON save. The target can make an INT save at the end of each of its turns, ending this effect on itself on a success.
 
 You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+
+## Spy
+
+%% source: Labyrinth Worldbook %%
+
+You are whoever you need to be, without flaws or exceptions. That is the ultimate talent of the Spy rogue. Your capabilities are geared toward fading into the background at a critical moment, or sharing a piece of information heard in the right place at the right time. Anonymity is second nature to you; defining yourself outside of your multiple personas is the real challenge.
+
+**Spy Progression**
+
+| Rogue Level | Features |
+|---|---|
+| 3rd | Feint, Infiltrator |
+| 7th | Deep Cover |
+| 11th | Upper Hand |
+| 15th | Cloaked Dagger |
+
+> [!note] Spy Rogues in the Labyrinth
+> Every Labyrinth faction has seeded at least one or two spies among the void cults. Though the multitudes of the enemy are manifold, there is always a chance that spies may uncover secrets or plans that would corrupt key worlds of the Labyrinth—that is, if the spies aren’t bought by the void cults they were sent to investigate.
+
+### Feint
+
+*3rd-Level Spy Feature*
+
+You can attempt to use trickery to lower your enemy’s guard. When you use the Attack action against a creature within 30 feet of you that can see and hear you—but before you make your attack roll—you can force the target to make a WIS save (the DC is equal to 8 + your PB + your CHA modifier). On a success, proceed with your attack roll as normal. On a failure, you have advantage on the first attack roll you make against the target.
+
+Advantage granted by this feature triggers the use of Sneak Attack, as long as all other required conditions for Sneak Attack are also met.
+
+### Infiltrator
+
+*3rd-Level Spy Feature*
+
+You’ve mastered a set of tricks that allow you to more easily hide your true identity and pass along discreet communications:
+
+- You learn the *[[Cantrips#Message|message]]* cantrip and can cast it without material components.
+
+- You gain proficiency with charlatan tools (see the *Player’s Guide*). If you are already proficient, double your PB instead for checks made with charlatan tools. Once you reach 7th level in the rogue class, you also learn the *[[3rd-Circle Spells#Sending|sending]]* spell, which you can cast once per long rest without expending a spell slot or requiring material components.
+
+### Deep Cover
+
+*7th-Level Spy Feature*
+
+You have learned to steel your mind against magical influence or discovery. Your thoughts can’t be read by any magical means (unless you choose to allow such an effect).
+
+Additionally, as a bonus action, you can heighten your mystical defenses for 1 hour. During this time, you gain all the benefits of the *[[3rd-Circle Spells#Nondetection|nondetection]]* spell. Once you use this feature, you can’t do so again until you finish a long rest.
+
+### Upper Hand
+
+*11th-Level Spy Feature*
+
+After initiative is rolled (but before the first round begins), you can choose to switch your initiative or the initiative of a willing allied creature you can see with the initiative of one other creature of your choice that you can see. You can’t use this feature if you are surprised.
+
+### Cloaked Dagger
+
+*15th-Level Spy Feature*
+
+When you successfully deal damage with your Sneak Attack feature against a creature that hasn’t taken damage during the current round, the target is automatically stunned until the end of its next turn (in addition to taking damage as normal). The stunned target can attempt a CON save each time it suffers an instance of damage while stunned (DC equals 8 + your PB + your DEX modifier), ending the effect early on a success.
+
+## Strategist
+
+%% source: Book of Blades %%
+
+From academy-trained officers to world-weary veterans of the front lines, there are always those who leverage their wits on the battlefield for maximum effect. Trained in the arts of tactical maneuver and a little skullduggery in a pinch, these rogues use their wits to command or guide allies for maximum effect.
+
+**Strategist Progression**
+
+| Rogue Level | Features |
+|---|---|
+| 3rd | Keen Discernment, Tactical Guidance |
+| 7th | Know the Field |
+| 11th | Ambusher’s Awareness |
+| 15th | Commander’s Eye |
+
+### Keen Discernment
+
+*3rd-Level Strategist Feature*
+
+You can add your INT modifier to initiative rolls in addition to your DEX modifier. You can also add your INT modifier to DEX or WIS saves. As a bonus action, you can grant either benefit to an ally that can see or hear you if you haven’t benefited from it since the end of your last turn. If you do, you can’t benefit from this bonus until the start of your next turn.
+
+### Tactical Guidance
+
+*3rd-Level Strategist Feature*
+
+If you didn’t benefit from your Sneak Attack on your last turn, you can use your reaction when an ally that can see or hear you attacks a creature to apply your Sneak Attack damage to that attack instead. You must state your intent before the result of the attack roll is declared. If the ally misses, no damage is dealt.
+
+### Know the Field
+
+*7th-Level Strategist Feature*
+
+You can guide allies to take routes they normally wouldn’t consider. As a bonus action, you can grant an ally the ability to use its reaction to Dash or Hide. Alternately, you can use your reaction to allow an ally to immediately Disengage from any number of creatures.
+
+You can give such commands a number of times equal to your PB, regaining all expended uses after you finish a short or long rest.
+
+### Ambusher’s Awareness
+
+*11th-Level Strategist Feature*
+
+Your discernment improves further. You and allies that can see or hear you can’t be surprised so long as you aren’t incapacitated. In addition, you and allies that can see or hear you add your INT modifier to damage on attacks against surprised enemies.
+
+### Commander’s Eye
+
+*15th-Level Strategist Feature*
+
+Your insights in the battlefield pay dividends. You gain a second reaction that you can use before the start of your next turn.
+
+In addition, you can use a reaction to move a willing ally within 15 feet of you that you can see into an unoccupied space adjacent to another willing ally within 15 feet of you, swapping the target of any effects between them.
+
+## Thief
+
+You have a reputation for quick thinking and quicker fingers. Leave throat-cutting and con-running to lesser scoundrels. You live to liberate treasures held under lock and key. The thrill of bypassing a sealed door, complex trap, or other “impassable” obstacle is the true prize—followed by the payday that comes from whatever you took.
+
+**Thief Progression**
+
+| Rogue Level | Features |
+|---|---|
+| 3rd | Fast Hands, Second-Story Work |
+| 7th | Appraising Eye |
+| 11th | Trap Specialist |
+| 15th | Thief’s Reflexes |
+
+### Fast Hands
+
+*3rd-Level Thief Feature*
+
+Experience has honed your skills, allowing you to accomplish precision work in a flash. In addition to its standard uses, you can now use the bonus action granted by your Cunning Action feature to do any of the following:
+
+- Make a DEX (Sleight of Hand) check.
+
+- Take the Use an Object action.
+
+- Use thieves’ tools to attempt to disarm a trap or open a lock.
+
+### Second-Story Work
+
+*3rd-Level Thief Feature*
+
+You’ve never met a wall you couldn’t conquer, and climbing them is second nature. You gain a climbing speed equal to your walking speed. If you already have a climbing speed when you gain this feature, it increases by 10 feet.
+
+In addition, when you make a long jump, you cover a number of feet equal to your walking speed if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap half your walking speed. Either way, each foot you clear on the jump costs a foot of movement. In the event a STR (Athletics) check is required to clear or extend a jump, you can choose to make a DEX (Acrobatics) check instead.
+
+### Appraising Eye
+
+*7th-Level Thief Feature*
+
+You’ve developed an eye for quality. As an action, you can inspect any object within 10 feet of you that you can see to learn whether it is nonmagical or magical. If the object is nonmagical, you immediately learn its approximate value in gold pieces. You also learn whether the object is fake or could conceal other objects inside it (though you don’t learn whether it is currently concealing objects or what those objects are).
+
+If the object is magical, you can spend 1 minute examining it to learn its type, rarity, whether it is cursed, and if it requires attunement (and any specific attunement requirements it has). After you have examined a magic item in this way, you learn how to use it and can ignore any class or feature requirements that would normally prevent you from using it (though you still must abide by any level restrictions). If a magic item requires the use of a spellcasting ability, use your DEX to determine your spell save DC or spell attack bonus.
+
+### Trap Specialist
+
+*11th-Level Thief Feature*
+
+When you or a creature within 5 feet of you triggers a trap, you can use your reaction to roll an ability check to attempt to disarm the trap. If you are successful, the trap is disarmed and not triggered. If you are unsuccessful, the trap is triggered as normal.
+
+In addition, you can now disarm any magical traps that would typically require the use of the *[[3rd-Circle Spells#Dispel Magic|dispel magic]]* spell. When you do so, make an ability check using only your DEX modifier, without adding any other modifiers to the roll. If the result meets or exceeds the trap’s DC (your GM has this number), it is disarmed as if you had successfully cast the *[[3rd-Circle Spells#Dispel Magic|dispel magic]]* spell.
+
+### Thief’s Reflexes
+
+*15th-Level Thief Feature*
+
+You have become adept at laying ambushes and quickly escaping danger. Now, you can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature if you are surprised (see **Appendix A: Conditions**).
+
+## Thief-Acrobat
+
+%% source: Book of Blades %%
+
+The core of the rogue lies in its mobility, and the Thief‑Acrobat takes that mobility to its mortal limits and beyond. Through training that could vary from circus performance to freerunning through city streets, you’ve keenly trained not just your body, but your environmental awareness to find and navigate impossible paths. Running works in more directions that away, though. You can also run circles around enemies in a fight and leave a nasty wake.
+
+**Thief-Acrobat Progression**
+
+| Rogue Level | Features |
+|---|---|
+| 3rd | Ever-Ready, Nimble Strider |
+| 7th | Momentum Mastery |
+| 11th | Touching the Wind |
+| 15th | Airdancer |
+
+### Ever-Ready
+
+*3rd-Level Thief-Acrobat Feature*
+
+You gain proficiency with improvised weapons. Your damage die with an improvised weapon is always at least a d6, and you can use your DEX modifier for attack and damage rolls.
+
+Your attacks with improvised weapons qualify for your Sneak Attack. In fact, the first time you attack a creature with an improvised weapon in combat, you do not need to meet any other conditions to deal Sneak Attack damage. Creatures who witness this attack are immune to this effect for the next 24 hours.
+
+### Nimble Strider
+
+*3rd-Level Thief-Acrobat Feature*
+
+Your walking speed increases by 10 feet, and you gain a climbing speed equal to your walking speed. You can also use your DEX in place of STR for Athletics ability checks and for determining jumping distances.
+
+### Momentum Mastery
+
+*7th-Level Thief-Acrobat Feature*
+
+When you move at least 20 feet toward a target, you don’t need advantage on the attack roll to use your Sneak Attack against it and you deal an additional d6 of damage on a hit.
+
+In addition, when you use your Uncanny Dodge feature, you can also push or pull a Large or smaller size attacker up to 10 feet. If you do, you can also move up to 10 feet in the same direction.
+
+### Touching the Wind
+
+*11th-Level Thief-Acrobat Feature*
+
+If you use Uncanny Dodge in response to a melee attack or fail a save that qualifies for your Evasion feature, you can choose to take no damage or secondary effects. Once you do so, you cannot use this feature again until you complete a long rest.
+
+### Airdancer
+
+*15th-Level Thief-Acrobat Feature*
+
+Your high-flying acrobatics defy mortal limits. You gain a flying speed equal to your walking speed, which begins at the start of your turn and ends at the end of your turn. You can land on any surface that can hold at least 5 pounds of weight, so long as you move again before the end of your next turn. If you don’t move from a space that couldn’t normally hold you, the foothold gives way and you fall immediately.
 
 ## Trapsmith
 
@@ -596,12 +735,6 @@ In addition, the list of conditions your traps can inflict expands to include in
 When you fail to disarm a trap that automatically triggers when a disarm attempt fails, the trap doesn’t trigger, and you can try to disarm the trap again. If you fail a second time, the trap triggers.
 
 In addition, traps you make and set are hardier, and you can choose one check or save DC associated with the trap, such as the DC to find the trap or the DC to avoid its effects, to be more challenging than normal. Traps you make now have an AC of 10 + twice your PB and hit points equal to 5 × your rogue level, and the check or save DC you chose increases by an amount equal to your DEX modifier.
-
-## Old Margreve Rogue Subclasses
-
-%% source: Tales of the Old Margreve %%
-
-At 3rd level, a rogue gains the Rogue Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Underfoot.
 
 ## Underfoot
 
@@ -710,172 +843,6 @@ When you burrow at least 10 feet toward a creature, your next attack roll agains
 *15th-Level Underfoot Feature*
 
 When you deal damage with Sneak Attack, the target is restrained by vegetation and soil until the end of its next turn. When roll Sneak Attack damage against a creature that is grappled, restrained, or that has its speed reduced in some way, you can roll one extra die of damage.
-
-## Labyrinth Rogue Subclasses
-
-%% source: Labyrinth Worldbook %%
-
-At 3rd level, a rogue gains the Rogue Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Spy.
-
-## Spy
-
-%% source: Labyrinth Worldbook %%
-
-You are whoever you need to be, without flaws or exceptions. That is the ultimate talent of the Spy rogue. Your capabilities are geared toward fading into the background at a critical moment, or sharing a piece of information heard in the right place at the right time. Anonymity is second nature to you; defining yourself outside of your multiple personas is the real challenge.
-
-**Spy Progression**
-
-| Rogue Level | Features |
-|---|---|
-| 3rd | Feint, Infiltrator |
-| 7th | Deep Cover |
-| 11th | Upper Hand |
-| 15th | Cloaked Dagger |
-
-> [!note] Spy Rogues in the Labyrinth
-> Every Labyrinth faction has seeded at least one or two spies among the void cults. Though the multitudes of the enemy are manifold, there is always a chance that spies may uncover secrets or plans that would corrupt key worlds of the Labyrinth—that is, if the spies aren’t bought by the void cults they were sent to investigate.
-
-### Feint
-
-*3rd-Level Spy Feature*
-
-You can attempt to use trickery to lower your enemy’s guard. When you use the Attack action against a creature within 30 feet of you that can see and hear you—but before you make your attack roll—you can force the target to make a WIS save (the DC is equal to 8 + your PB + your CHA modifier). On a success, proceed with your attack roll as normal. On a failure, you have advantage on the first attack roll you make against the target.
-
-Advantage granted by this feature triggers the use of Sneak Attack, as long as all other required conditions for Sneak Attack are also met.
-
-### Infiltrator
-
-*3rd-Level Spy Feature*
-
-You’ve mastered a set of tricks that allow you to more easily hide your true identity and pass along discreet communications:
-
-- You learn the *[[Cantrips#Message|message]]* cantrip and can cast it without material components.
-
-- You gain proficiency with charlatan tools (see the *Player’s Guide*). If you are already proficient, double your PB instead for checks made with charlatan tools. Once you reach 7th level in the rogue class, you also learn the *[[3rd-Circle Spells#Sending|sending]]* spell, which you can cast once per long rest without expending a spell slot or requiring material components.
-
-### Deep Cover
-
-*7th-Level Spy Feature*
-
-You have learned to steel your mind against magical influence or discovery. Your thoughts can’t be read by any magical means (unless you choose to allow such an effect).
-
-Additionally, as a bonus action, you can heighten your mystical defenses for 1 hour. During this time, you gain all the benefits of the *[[3rd-Circle Spells#Nondetection|nondetection]]* spell. Once you use this feature, you can’t do so again until you finish a long rest.
-
-### Upper Hand
-
-*11th-Level Spy Feature*
-
-After initiative is rolled (but before the first round begins), you can choose to switch your initiative or the initiative of a willing allied creature you can see with the initiative of one other creature of your choice that you can see. You can’t use this feature if you are surprised.
-
-### Cloaked Dagger
-
-*15th-Level Spy Feature*
-
-When you successfully deal damage with your Sneak Attack feature against a creature that hasn’t taken damage during the current round, the target is automatically stunned until the end of its next turn (in addition to taking damage as normal). The stunned target can attempt a CON save each time it suffers an instance of damage while stunned (DC equals 8 + your PB + your DEX modifier), ending the effect early on a success.
-
-## Book of Blades Rogue Subclasses
-
-%% source: Book of Blades %%
-
-When you choose your rogue subclass, the following subclasses from *[[Book of Blades]]* are also available: Thief-Acrobat and Strategist.
-
-## Thief-Acrobat
-
-%% source: Book of Blades %%
-
-The core of the rogue lies in its mobility, and the Thief‑Acrobat takes that mobility to its mortal limits and beyond. Through training that could vary from circus performance to freerunning through city streets, you’ve keenly trained not just your body, but your environmental awareness to find and navigate impossible paths. Running works in more directions that away, though. You can also run circles around enemies in a fight and leave a nasty wake.
-
-**Thief-Acrobat Progression**
-
-| Rogue Level | Features |
-|---|---|
-| 3rd | Ever-Ready, Nimble Strider |
-| 7th | Momentum Mastery |
-| 11th | Touching the Wind |
-| 15th | Airdancer |
-
-### Ever-Ready
-
-*3rd-Level Thief-Acrobat Feature*
-
-You gain proficiency with improvised weapons. Your damage die with an improvised weapon is always at least a d6, and you can use your DEX modifier for attack and damage rolls.
-
-Your attacks with improvised weapons qualify for your Sneak Attack. In fact, the first time you attack a creature with an improvised weapon in combat, you do not need to meet any other conditions to deal Sneak Attack damage. Creatures who witness this attack are immune to this effect for the next 24 hours.
-
-### Nimble Strider
-
-*3rd-Level Thief-Acrobat Feature*
-
-Your walking speed increases by 10 feet, and you gain a climbing speed equal to your walking speed. You can also use your DEX in place of STR for Athletics ability checks and for determining jumping distances.
-
-### Momentum Mastery
-
-*7th-Level Thief-Acrobat Feature*
-
-When you move at least 20 feet toward a target, you don’t need advantage on the attack roll to use your Sneak Attack against it and you deal an additional d6 of damage on a hit.
-
-In addition, when you use your Uncanny Dodge feature, you can also push or pull a Large or smaller size attacker up to 10 feet. If you do, you can also move up to 10 feet in the same direction.
-
-### Touching the Wind
-
-*11th-Level Thief-Acrobat Feature*
-
-If you use Uncanny Dodge in response to a melee attack or fail a save that qualifies for your Evasion feature, you can choose to take no damage or secondary effects. Once you do so, you cannot use this feature again until you complete a long rest.
-
-### Airdancer
-
-*15th-Level Thief-Acrobat Feature*
-
-Your high-flying acrobatics defy mortal limits. You gain a flying speed equal to your walking speed, which begins at the start of your turn and ends at the end of your turn. You can land on any surface that can hold at least 5 pounds of weight, so long as you move again before the end of your next turn. If you don’t move from a space that couldn’t normally hold you, the foothold gives way and you fall immediately.
-
-## Strategist
-
-%% source: Book of Blades %%
-
-From academy-trained officers to world-weary veterans of the front lines, there are always those who leverage their wits on the battlefield for maximum effect. Trained in the arts of tactical maneuver and a little skullduggery in a pinch, these rogues use their wits to command or guide allies for maximum effect.
-
-**Strategist Progression**
-
-| Rogue Level | Features |
-|---|---|
-| 3rd | Keen Discernment, Tactical Guidance |
-| 7th | Know the Field |
-| 11th | Ambusher’s Awareness |
-| 15th | Commander’s Eye |
-
-### Keen Discernment
-
-*3rd-Level Strategist Feature*
-
-You can add your INT modifier to initiative rolls in addition to your DEX modifier. You can also add your INT modifier to DEX or WIS saves. As a bonus action, you can grant either benefit to an ally that can see or hear you if you haven’t benefited from it since the end of your last turn. If you do, you can’t benefit from this bonus until the start of your next turn.
-
-### Tactical Guidance
-
-*3rd-Level Strategist Feature*
-
-If you didn’t benefit from your Sneak Attack on your last turn, you can use your reaction when an ally that can see or hear you attacks a creature to apply your Sneak Attack damage to that attack instead. You must state your intent before the result of the attack roll is declared. If the ally misses, no damage is dealt.
-
-### Know the Field
-
-*7th-Level Strategist Feature*
-
-You can guide allies to take routes they normally wouldn’t consider. As a bonus action, you can grant an ally the ability to use its reaction to Dash or Hide. Alternately, you can use your reaction to allow an ally to immediately Disengage from any number of creatures.
-
-You can give such commands a number of times equal to your PB, regaining all expended uses after you finish a short or long rest.
-
-### Ambusher’s Awareness
-
-*11th-Level Strategist Feature*
-
-Your discernment improves further. You and allies that can see or hear you can’t be surprised so long as you aren’t incapacitated. In addition, you and allies that can see or hear you add your INT modifier to damage on attacks against surprised enemies.
-
-### Commander’s Eye
-
-*15th-Level Strategist Feature*
-
-Your insights in the battlefield pay dividends. You gain a second reaction that you can use before the start of your next turn.
-
-In addition, you can use a reaction to move a willing ally within 15 feet of you that you can see into an unoccupied space adjacent to another willing ally within 15 feet of you, swapping the target of any effects between them.
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

@@ -18,15 +18,15 @@ publish: true
 - [[Batch Crafting]]: fourteen downtime activities for brewing, farming, mining, smithing, and other trades
 
 ## Gear
-- [[Adventuring Gear#More Adventuring Gear (Trade Secrets)|New adventuring gear]]: provisions, alchemical items, herbal concoctions, mechanical devices, and equipment packs
-- [[Tools#More Tool Uses (Trade Secrets)|New tool uses]]: big projects, and new goods and tasks for every tool set
-- [[Weapons#More Weapons (Trade Secrets)|New weapons]] and [[Armor#More Armor (Trade Secrets)|new armor]]
+- [[Adventuring Gear|New adventuring gear]]: provisions, alchemical items, herbal concoctions, mechanical devices, and equipment packs
+- [[Tools|New tool uses]]: big projects, and new goods and tasks for every tool set
+- [[Weapons|New weapons]] and [[Armor|new armor]]
 
 ## Magic Items
 - [[Disenchanting]]: an optional rule for breaking magic items and creatures down into prima materia
 - [[Recommended Magic Items by Class]]: suggested magic items for every class at each tier
 - New magic items, added to [[Magic Weapons]], [[Magic Armor]], [[Potions]], [[Wondrous Items A–L]], and [[Wondrous Items M–Z]], each marked as from Trade Secrets
-- [[Fabled Magic Items#More Fabled Items (Trade Secrets)|New fabled items]]: one for each class
+- [[Fabled Magic Items|New fabled items]]: one for each class
 
 ---
 <small>Sources: [[Credits]].</small>

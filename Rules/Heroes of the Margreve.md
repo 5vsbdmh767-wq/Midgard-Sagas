@@ -27,7 +27,7 @@ If you are a player, talk with your game master before using any of the material
   - [[Ranger#Griffon Scout|Griffon Scout]], [[Ranger#Grove Warden|Grove Warden]], and [[Ranger#Spear of the Weald|Spear of the Weald]] rangers
   - [[Rogue#Underfoot|Underfoot]] rogues
   - [[Sorcerer#Flora|Flora]] sorcerers
-  - [[Warlock#Elder Wood|Elder Wood]] and [[Warlock#Hunter in Darkness|Hunter in Darkness]] warlocks, plus new [[Warlock#Eldritch Invocations (Tales of the Old Margreve)|eldritch invocations]]
+  - [[Warlock#Elder Wood|Elder Wood]] and [[Warlock#Hunter in Darkness|Hunter in Darkness]] warlocks, plus new [[Warlock#Eldritch Invocations|eldritch invocations]]
   - [[Wizard#Courser Mage|Courser Mage]] wizards
 - **Spells and rituals:** mixed into the [[Spells]] and [[Rituals]] pages; the [[Spell Lists]] flag them
 - **Magic items:** mixed into the [[Magic Items]] pages

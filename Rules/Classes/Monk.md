@@ -198,6 +198,12 @@ Your commitment to the monk’s path grants you a powerful new ability. Choose o
 
 - **Purity of Mind.** The clearness of your mind gives you advantage on Wisdom saves. As a bonus action, you can end one effect on yourself that is causing you to be charmed or frightened.
 
+- **Superior Deflection.** Your continued martial arts training allows you to deflect all manner of attacks. As a reaction when you are hit by a melee or ranged attack, you can reduce the damage you take from the attack by 1d10 + your DEX modifier + your monk level. If you reduce the damage to 0, you can redirect the force of the attack as long as you have at least one hand free. If you redirect the attack in this way, you can force one creature you can see within 60 feet of you to succeed on a DEX save against your technique save DC or take force damage equal to your martial arts die + your DEX modifier.
+
+- **Vitality of Spirit.** As a reaction when you spend technique points (see *Player’s Guide*) on your turn, you can redirect some of that energy to heal your injuries. When you do so, roll your martial arts die a number of times equal to the amount of technique points spent (up to a maximum number of rolls equal to your PB) and recover hit points equal to the total amount rolled. You can use this feature a number of times equal to your PB and regain expended uses when you finish a long rest.
+
+%% source: Player's Guide 2: Superior Deflection, Vitality of Spirit %%
+
 ### Astral Teachings
 
 *13th-Level Monk Feature*
@@ -232,168 +238,30 @@ You can use your action to spend 4 technique points to become invisible for 1 mi
 
 *20th-Level Monk Feature*
 
-Your commitment to the monk’s path grants you a powerful new ability. You gain the following epic boon:
+Your commitment to the monk’s path grants you a powerful new ability. You gain one of the following epic boons:
 
 - **Boundless Technique.** When you roll for initiative, you regain up to 4 expended technique points. If you start your turn with no technique points remaining, you regain 2 technique points.
-
-## Monk Subclasses
-
-Your mastery of mind and body has opened new insights into the nature of existence. Perhaps you began your studies into each of these disciplines long ago, but now, you might pursue them to the fullest. Two are presented here, the way of the Open Hand and the way of the Flickering Dark.
-
-## Flickering Dark
-
-Those few monks who coax and feed the shadows from beyond the veil may bond with the all-consuming darkness. They can conjure life-devouring expanses of shadow, peer beyond the material world, and funnel that endless hunger into a strike that bridges the gap between here and beyond.
-
-**Flickering Dark Progression**
-
-| Monk Level | Features |
-|---|---|
-| 3rd | Dark Flame, Obsidian Eyes |
-| 7th | Grace of Umbra |
-| 11th | Feeding Dark |
-| 15th | Strike of Searing Shadow |
-
-### Dark Flame
-
-*3rd-Level Flickering Dark Feature*
-
-As a bonus action, you can spend 2 technique points to shroud yourself in a 10-foot radius of coiling, flickering magical darkness. The darkness moves with you, remaining centered on you, and lasts for 1 minute. It can't be dispelled by a spell of 5th circle or lower.
-
-When you first summon the dark flames, choose one of the following properties:
-
-- **Clawing Shadows.** Creatures that enter the darkness for the first time on a turn or end their turn within it take necrotic damage equal to your martial arts damage die. You regain hit points equal to the necrotic damage dealt. Constructs and Undead are unaffected.
-
-- **Grasp of Nothingness.** Your unarmed strikes deal additional necrotic damage equal to your PB.
-
-- **Spreading Darkness.** While the darkness is active, you can use an action to spend 1 technique point to cast the *[[2nd-Circle Spells#Darkness|darkness]]* spell without expending a spell slot or material component. This spell ends if you cast it again or dismiss it (no action required). At 11th level, you can choose two options instead of one each time you use this feature.
-
-### Obsidian Eyes
-
-*3rd-Level Flickering Dark Feature*
-
-With 1 minute of quiet meditation (which can be done as part of a rest), you fill the eyes of a willing creature, including yourself, with inky black shadow. Until that creature finishes a long rest, it can see in dim light, darkness, and magical darkness as if it were bright light, to a distance of 60 feet.
-
-At 7th level, the target can see invisible creatures. At 11th level, the target can't be blinded.
-
-### Grace of Umbra
-
-*7th-Level Flickering Dark Feature*
-
-A wisp of true darkness shrouds your movement. When you use your Step of the Wind technique, you become as insubstantial as darkness until the end of your next turn. While you aren’t in sunlight, you and everything you’re carrying and wearing becomes intangible, and you can move through small holes, cracks, and narrow openings.
-
-In addition, you can spend 1 additional technique point as part of the same bonus action to teleport up to your speed to an unoccupied space that you can see within an area of dim light, darkness, or magical darkness.
-
-At 15th, level, you have resistance to all damage, except radiant, while this feature is active.
-
-### Feeding Dark
-
-*11th-Level Flickering Dark Feature*
-
-Your hold over shadow siphons energy from those around you. Creatures that start their turn within an area of magical darkness created by you must succeed on a CON save or deal only half damage with weapon attacks that use STR or DEX until the end of its turn.
-
-Whenever a creature succeeds or fails its save against this feature, you can use your reaction to teleport up to 1 mile to a space adjacent to the target. Once you use this feature, you can’t use it again until you finish a long rest, unless you spend 3 technique points to do so.
-
-### Strike of Searing Shadow
-
-*15th-Level Flickering Dark Feature*
-
-When you hit a target with a melee attack, you can use your reaction to spend 5 technique points. When you do, your strike carries a touch of infinite nothingness. The target must make a CON save, taking 3d10 fire damage and 3d10 necrotic damage on a failed save or half as much damage on a successful one. Each creature of your choice within 30 feet of the target must succeed on a STR save against your technique save DC or take 2d10 force damage and be pulled up to 20 feet directly toward the target.
-
-When you reduce a creature to 0 HP with this feature, it is reduced to ash, and its shadow remains permanently affixed to the surface upon which it died. You gain a number of temporary hit points equal to half the creature’s hit point maximum.
-
-## Open Hand
-
-Monks of the Open Hand hone their bodies to physical perfection. They learn techniques to push and trip their opponents, practice advanced meditation to protect them from harm, and develop secret techniques to transform their bodies into the ultimate weapon.
-
-**Open Hand Progression**
-
-| Monk Level | Features |
-|---|---|
-| 3rd | Focus Intent, Open Hand Technique |
-| 7th | Wholeness of Body |
-| 11th | Tranquil Soul |
-| 15th | Quivering Palm |
-
-### Focus Intent
-
-*3rd-Level Open Hand Feature*
-
-When you or a creature within 5 feet of you makes an ability check or attack roll, you can use your reaction to roll your martial arts die. The target gains a bonus or a penalty (your choice) to its roll equal to the number you rolled.
-
-You can use this feature a number of times equal to your WIS modifier. You regain all expended uses when you finish a long rest.
-
-### Open Hand Technique
-
-*3rd-Level Open Hand Feature*
-
-You can manipulate your enemy’s energy with your own. When you hit a creature with one of the attacks granted by your Flurry of Blows technique, you can impose one of the following effects on that target:
-
-- It can’t take reactions until the end of your next turn.
-
-- It must succeed on a DEX save or be knocked prone.
-
-- It must succeed on a STR save or be pushed up to 15 feet away from you.
-
-### Wholeness of Body
-
-*7th-Level Open Hand Feature*
-
-When you roll initiative and have at least 1 hit point, you regain a number of hit points equal to your CON modifier + your monk level.
-
-### Tranquil Soul
-
-*11th-Level Open Hand Feature*
-
-You have learned the way of war, so you may better walk the world in peace. As an action, you can spend 3 technique points to cast the *[[1st-Circle Spells#Sanctuary|sanctuary]]* spell on yourself. The spell lasts until the end of your next short or long rest (or it can end early as normal).
-
-### Quivering Palm
-
-*15th-Level Open Hand Feature*
-
-As an action, you can make a single unarmed strike against a creature. On a hit, you can spend 4 technique points to fill that creature with potentially lethal vibrations that last for a number of days equal to your monk level.
-
-For the duration, so long as you and the target are on the same plane, you can use an action to end the vibrations, ripping the creature apart. When you do, the target must make a CON save. On a failure, the target takes force damage equal to 5 × your monk level and is paralyzed until the end of your next turn. On a success, the target is stunned for 1 minute, and at the end of each of their turns, and each time they take damage, the target can repeat the save, ending the effect on a success. A target that fails the save by 5 or more instantly dies.
-
-Each time you use this feature after the first, the technique cost to use it increases by 2. When you finish a long rest, the cost resets. This feature can affect only one target at a time.
-
-## Monk Boons
-
-%% source: Player's Guide 2 %%
-
-When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the monk class.
-
-### Heroic Boons
-
-When you reach 10th level in the monk class, you have the following additional options to choose from when selecting the boon for your Heroic Boon feature.
-
-#### Heroic Boon
-
-*10th-Level Monk Feature*
-
-Your commitment to the monk’s path grants you a powerful ability. Choose one of the following heroic boons:
-
-- **Superior Deflection.** Your continued martial arts training allows you to deflect all manner of attacks. As a reaction when you are hit by a melee or ranged attack, you can reduce the damage you take from the attack by 1d10 + your DEX modifier + your monk level. If you reduce the damage to 0, you can redirect the force of the attack as long as you have at least one hand free. If you redirect the attack in this way, you can force one creature you can see within 60 feet of you to succeed on a DEX save against your technique save DC or take force damage equal to your martial arts die + your DEX modifier.
-
-- **Vitality of Spirit.** As a reaction when you spend technique points (see *Player’s Guide*) on your turn, you can redirect some of that energy to heal your injuries. When you do so, roll your martial arts die a number of times equal to the amount of technique points spent (up to a maximum number of rolls equal to your PB) and recover hit points equal to the total amount rolled. You can use this feature a number of times equal to your PB and regain expended uses when you finish a long rest.
-
-### Epic Boons
-
-When you reach 20th level in the monk class, you have the following additional options to choose from when selecting the boon for your Epic Boon feature.
-
-#### Epic Boon
-
-*20th-Level Monk Feature*
-
-Your commitment to the monk’s path grants you a powerful new ability. You gain one of the following epic boons:
 
 - **Harmonious Being.** You have honed your mind and body to work in perfect unison. Your DEX and WIS scores each increase by 4. Your maximum for those scores is now 24.
 
 - **Meditation Technique.** As an action, if you don’t move and don’t take any other action on your turn, you can regain technique points (see *Player’s Guide*) up to your maximum. Once you recover technique points in this way, you can’t do so again until you finish a long rest.
 
-## More Monk Subclasses
+%% source: Player's Guide 2: Harmonious Being, Meditation Technique %%
 
-%% source: Player's Guide 2 %%
-At 3rd level, monks gain the Monk Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Affliction Eater, Elemental Voice, or Seal Guardian.
+## Monk Subclasses
+
+Your mastery of mind and body has opened new insights into the nature of existence. Perhaps you began your studies into each of these disciplines long ago, but now, you might pursue them to the fullest. Two are presented here, the way of the Open Hand and the way of the Flickering Dark.
+
+| Subclass | Suits |
+|---|---|
+| [[#Affliction Eater\|Affliction Eater]] | Any character |
+| [[#Elemental Voice\|Elemental Voice]] | Any character |
+| [[#Equine Soul\|Equine Soul]] | Any character |
+| [[#Flickering Dark\|Flickering Dark]] | Any character |
+| [[#Open Hand\|Open Hand]] | Any character |
+| [[#Radiant Dawn\|Radiant Dawn]] | The [[The Labyrinth\|Labyrinth]] |
+| [[#Righteous Fist\|Righteous Fist]] | Any character |
+| [[#Seal Guardian\|Seal Guardian]] | Any character |
 
 ## Affliction Eater
 
@@ -654,6 +522,334 @@ Elemental words are divided into earth, flame, water, or wind (see Element Speak
 
 *Fire, 4 Technique Points* You can create a scorching beam of fire that explodes when it hits its target. As an action, you can spend 4 technique points and choose a creature within 120 feet of you. That creature must make a DEX save. On a failure, the creature takes fire damage equal to 7d8 + half your monk level (rounded down) and is knocked prone. On a success, the creature takes half the damage and isn’t knocked prone. You can spend additional technique points to increase the damage by 2d8 for each point spent.
 
+## Equine Soul
+
+%% source: Book of Blades %%
+
+Certain monks learn to enter a state of calm, purposeful action when riding a horse. After intense training and meditation with their equine companion, it is as if the pair’s souls merge and achieve a perfect harmony. The two move and fight together, moving around the battlefield and launching deadly barrages of arrows at their enemies.
+
+**Equine Soul Progression**
+
+| Monk Level | Features |
+|---|---|
+| 3rd | Horse Archer, Twin Soul |
+| 7th | Swift Speed |
+| 11th | Bonded Defense |
+| 15th | Storm of Arrows |
+
+### Horse Archer
+
+*3rd-Level Equine Soul Feature*
+
+Carried by your horse, you can be anywhere on the battlefield to rapidly launch a volley of arrows. You gain proficiency with shortbows and they are considered monk weapons for you.
+
+### Twin Soul
+
+*3rd-Level Equine Soul Feature*
+
+You have found and bonded with a horse using a meditation ritual that takes 1 hour to complete and can be done as part of a short or long rest. Once the ritual is complete, you and your bonded horse share thoughts telepathically as long as you are within 1 mile of each other. As long as you can see your bonded horse and it is not wearing barding, you can spend technique points to have your bonded horse use the Patient Defense and Step of the Wind techniques.
+
+In combat, your bonded horse shares your initiative count, but it takes its turn immediately after yours. It obeys your telepathic commands (no action required by you). If you don’t issue any commands, it takes the Dodge action and uses its move to avoid danger.
+
+Your bonded horse has a d10 for hit dice. It has a number of hit dice equal to your monk level. It can expend these hit dice to recover hit points during a short rest just as a PC would. It recovers all hit points during a long rest. If your horse is slain, you must perform the 1-hour ritual again to bond to a new horse.
+> [!note] Bonded Horse
+> *Large Beast*
+> **Armor Class** 11 + your PB (natural armor)
+> **Hit Points** 5 × your monk level (the bonded horse has a number of d10 hit dice equal to your monk level)
+> **Speed** 60 ft.
+> **Perception** 11	**Stealth** 11
+> **Senses** —
+> **Languages** Can communicate telepathically with you up to 1 mile
+> 
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | +4 | +1 | +1 | −4 | +1 | −2 |
+> 
+> ***Trampling Charge.*** If the horse moves at least 20 feet straight toward a creature and then hits it with a Hooves attack on the same turn, that target must succeed on a DC 12 + your PB STR save or be knocked prone. If the target is prone, the horse can make another Hooves attack against it as a bonus action.
+> 
+> **Actions**
+> 
+> ***Hooves.*** *Melee Weapon Attack:* +4 + your PB to hit, reach 5 ft., one target. *Hit:* 8 + your PB (1d8 + 4 + your PB) bludgeoning damage.
+> **Reactions**
+> ***Trained Shift.*** If the horse’s rider is subjected to an effect that would knock it prone or dismount it, the horse can shift its body to assist the rider. The rider has advantage on the check or save to avoid the effect.
+
+### Cr —
+
+### Swift Steed
+
+*7th-Level Equine Soul Feature*
+
+You and your mount work together with significant swiftness. You receive these benefits:
+
+- You can mount and dismount from your bonded horse using 5 feet of movement instead of half your movement.
+
+- As long as your bonded horse is not wearing barding, its speed increases by the same amount as your Unarmored Movement class feature.
+
+- When you spend a technique point to use Flurry of Blows, your bonded horse can make an attack with its Hooves as a reaction.
+
+### Bonded Defense
+
+*11th-Level Equine Soul Feature*
+
+You and your bonded horse are effective at fighting together. While you are mounted on your bonded horse, it shares your Evasion class feature, and you do not have disadvantage on ranged attack rolls made against enemies within 5 feet.
+
+### Storm of Arrows
+
+*15th-Level Equine Soul Feature*
+
+You enter a state of perfect calm as you launch a rapid volley of arrows. As a bonus action, you can fire one arrow for every technique point you spend on this feature. Arrows fired using this feature have the Ricochet Shot weapon option.
+
+## Flickering Dark
+
+Those few monks who coax and feed the shadows from beyond the veil may bond with the all-consuming darkness. They can conjure life-devouring expanses of shadow, peer beyond the material world, and funnel that endless hunger into a strike that bridges the gap between here and beyond.
+
+**Flickering Dark Progression**
+
+| Monk Level | Features |
+|---|---|
+| 3rd | Dark Flame, Obsidian Eyes |
+| 7th | Grace of Umbra |
+| 11th | Feeding Dark |
+| 15th | Strike of Searing Shadow |
+
+### Dark Flame
+
+*3rd-Level Flickering Dark Feature*
+
+As a bonus action, you can spend 2 technique points to shroud yourself in a 10-foot radius of coiling, flickering magical darkness. The darkness moves with you, remaining centered on you, and lasts for 1 minute. It can't be dispelled by a spell of 5th circle or lower.
+
+When you first summon the dark flames, choose one of the following properties:
+
+- **Clawing Shadows.** Creatures that enter the darkness for the first time on a turn or end their turn within it take necrotic damage equal to your martial arts damage die. You regain hit points equal to the necrotic damage dealt. Constructs and Undead are unaffected.
+
+- **Grasp of Nothingness.** Your unarmed strikes deal additional necrotic damage equal to your PB.
+
+- **Spreading Darkness.** While the darkness is active, you can use an action to spend 1 technique point to cast the *[[2nd-Circle Spells#Darkness|darkness]]* spell without expending a spell slot or material component. This spell ends if you cast it again or dismiss it (no action required). At 11th level, you can choose two options instead of one each time you use this feature.
+
+### Obsidian Eyes
+
+*3rd-Level Flickering Dark Feature*
+
+With 1 minute of quiet meditation (which can be done as part of a rest), you fill the eyes of a willing creature, including yourself, with inky black shadow. Until that creature finishes a long rest, it can see in dim light, darkness, and magical darkness as if it were bright light, to a distance of 60 feet.
+
+At 7th level, the target can see invisible creatures. At 11th level, the target can't be blinded.
+
+### Grace of Umbra
+
+*7th-Level Flickering Dark Feature*
+
+A wisp of true darkness shrouds your movement. When you use your Step of the Wind technique, you become as insubstantial as darkness until the end of your next turn. While you aren’t in sunlight, you and everything you’re carrying and wearing becomes intangible, and you can move through small holes, cracks, and narrow openings.
+
+In addition, you can spend 1 additional technique point as part of the same bonus action to teleport up to your speed to an unoccupied space that you can see within an area of dim light, darkness, or magical darkness.
+
+At 15th, level, you have resistance to all damage, except radiant, while this feature is active.
+
+### Feeding Dark
+
+*11th-Level Flickering Dark Feature*
+
+Your hold over shadow siphons energy from those around you. Creatures that start their turn within an area of magical darkness created by you must succeed on a CON save or deal only half damage with weapon attacks that use STR or DEX until the end of its turn.
+
+Whenever a creature succeeds or fails its save against this feature, you can use your reaction to teleport up to 1 mile to a space adjacent to the target. Once you use this feature, you can’t use it again until you finish a long rest, unless you spend 3 technique points to do so.
+
+### Strike of Searing Shadow
+
+*15th-Level Flickering Dark Feature*
+
+When you hit a target with a melee attack, you can use your reaction to spend 5 technique points. When you do, your strike carries a touch of infinite nothingness. The target must make a CON save, taking 3d10 fire damage and 3d10 necrotic damage on a failed save or half as much damage on a successful one. Each creature of your choice within 30 feet of the target must succeed on a STR save against your technique save DC or take 2d10 force damage and be pulled up to 20 feet directly toward the target.
+
+When you reduce a creature to 0 HP with this feature, it is reduced to ash, and its shadow remains permanently affixed to the surface upon which it died. You gain a number of temporary hit points equal to half the creature’s hit point maximum.
+
+## Open Hand
+
+Monks of the Open Hand hone their bodies to physical perfection. They learn techniques to push and trip their opponents, practice advanced meditation to protect them from harm, and develop secret techniques to transform their bodies into the ultimate weapon.
+
+**Open Hand Progression**
+
+| Monk Level | Features |
+|---|---|
+| 3rd | Focus Intent, Open Hand Technique |
+| 7th | Wholeness of Body |
+| 11th | Tranquil Soul |
+| 15th | Quivering Palm |
+
+### Focus Intent
+
+*3rd-Level Open Hand Feature*
+
+When you or a creature within 5 feet of you makes an ability check or attack roll, you can use your reaction to roll your martial arts die. The target gains a bonus or a penalty (your choice) to its roll equal to the number you rolled.
+
+You can use this feature a number of times equal to your WIS modifier. You regain all expended uses when you finish a long rest.
+
+### Open Hand Technique
+
+*3rd-Level Open Hand Feature*
+
+You can manipulate your enemy’s energy with your own. When you hit a creature with one of the attacks granted by your Flurry of Blows technique, you can impose one of the following effects on that target:
+
+- It can’t take reactions until the end of your next turn.
+
+- It must succeed on a DEX save or be knocked prone.
+
+- It must succeed on a STR save or be pushed up to 15 feet away from you.
+
+### Wholeness of Body
+
+*7th-Level Open Hand Feature*
+
+When you roll initiative and have at least 1 hit point, you regain a number of hit points equal to your CON modifier + your monk level.
+
+### Tranquil Soul
+
+*11th-Level Open Hand Feature*
+
+You have learned the way of war, so you may better walk the world in peace. As an action, you can spend 3 technique points to cast the *[[1st-Circle Spells#Sanctuary|sanctuary]]* spell on yourself. The spell lasts until the end of your next short or long rest (or it can end early as normal).
+
+### Quivering Palm
+
+*15th-Level Open Hand Feature*
+
+As an action, you can make a single unarmed strike against a creature. On a hit, you can spend 4 technique points to fill that creature with potentially lethal vibrations that last for a number of days equal to your monk level.
+
+For the duration, so long as you and the target are on the same plane, you can use an action to end the vibrations, ripping the creature apart. When you do, the target must make a CON save. On a failure, the target takes force damage equal to 5 × your monk level and is paralyzed until the end of your next turn. On a success, the target is stunned for 1 minute, and at the end of each of their turns, and each time they take damage, the target can repeat the save, ending the effect on a success. A target that fails the save by 5 or more instantly dies.
+
+Each time you use this feature after the first, the technique cost to use it increases by 2. When you finish a long rest, the cost resets. This feature can affect only one target at a time.
+
+## Radiant Dawn
+
+%% source: Labyrinth Worldbook %%
+
+Monks of the Radiant Dawn learn to kindle and amplify light wherever darkness threatens. To these monks, radiance is a state of being that provides literal and spiritual illumination. Embracing the teachings of the Radiant Dawn means transforming oneself into a beacon that stands against agents of fear and despair.
+
+**Radiant Dawn Progression**
+
+| Monk Level | Features |
+|---|---|
+| 3rd | Golden Fist, Shining Nimbus |
+| 7th | Blazing Strike |
+| 11th | Dawn Bringer |
+| 15th | Searing Corona |
+
+> [!note] Radiant Dawn Monks in the Labyrinth
+> Several monasteries dedicated to the way of the Radiant Dawn are located in the celestial realms, but the largest is situated in Sunhome (see Chapter 2). The values of the Radiant Dawn align with the most influential factions present in Sunhome, so monks trained in this path are typically hand-picked to join the ranks of the [[Concord of Stars]] or the Golden Regent Jassin Miaberos’s personal guard on graduation. [[Sydereans]] who study this path are expected to join the endless service of the Lightbringers on completion of their studies—sometimes regardless of the student’s personal wishes.
+
+### Golden Fist
+
+*3rd-Level Radiant Dawn Feature*
+
+Whenever you would make an Unarmed Strike as part of the Attack action or Flurry of Blows, you can expend 1 technique point to turn the strike into a ranged spell attack that fires a bolt of searing light with a range of 30 feet. You can turn any number of your allotted attacks into a ranged spell attack with this feature—provided you spend 1 technique point for each.
+
+Your attack bonus to hit with a bolt is equal to your PB + your DEX modifier. On a successful hit, the bolt deals radiant damage equal to your martial arts damage die + your DEX modifier.
+
+This feature improves as you reach certain levels of the monk class. At 7th level, the range of your bolt increases to 60 feet, and you roll your martial arts die twice when calculating damage. At 11th level, the range increases to 90 feet and you roll your martial arts die three times. At 15th level, the range is 120 feet, and you roll your die four times.
+
+### Shining Nimbus
+
+*3rd-Level Radiant Dawn Feature*
+
+You emit an aura of light. As a bonus action, you can spend 2 technique points to cloak yourself in a 10-foot radius of shining bright light. The light moves with you, remaining centered on you, and lasts for 1 minute. It can’t be dispelled by a spell of 5th circle or lower.
+
+When you first summon the nimbus, choose one of the following properties:
+
+- **Sacred Fire.** Hostile creatures that enter the light for the first time on a turn or end their turn within it take radiant damage equal to your martial arts damage die + your WIS modifier.
+
+- **Holy Hand.** Your unarmed strikes deal additional radiant damage equal to your PB.
+
+- **True Radiance.** While the nimbus is active, you can use an action to spend 3 technique points to transform your aura’s light into sunlight for the duration. This sunlight can’t be dimmed, suppressed, or dispelled by any magical means. If this sunlight overlaps with an area of magical darkness created by a spell of 5th circle or lower, the spell that created the darkness is dispelled. At 11th level, you can choose two options instead of one each time you use this feature.
+
+### Blazing Strike
+
+*7th-Level Radiant Dawn Feature*
+
+Once per turn when you deal radiant damage to a creature, you can spend 1 technique point to attempt to blind your foe. When you do so, the creature must succeed on a CON save (DC is your technique save DC) or be blinded until the end of its next turn.
+
+### Dawn Bringer
+
+*11th-Level Radiant Dawn Feature*
+
+As an action, you can spend 5 technique points to cast the *[[3rd-Circle Spells#Daylight|daylight]]* spell. The spell lasts until the end of your next short or long rest (or it can end early as normal).
+
+### Searing Corona
+
+*15th-Level Radiant Dawn Feature*
+
+While you are standing in an area of bright light or sunlight, you can use an action to expend 5 technique points to create an explosive corona of sunlight. All creatures of your choice within 20 feet of you must make a CON save. On a failure, a creature takes 3d10 fire damage and 3d10 radiant damage
+
+## Righteous Fist
+
+%% source: Book of Blades %%
+
+Monks of the Righteous Fist subclass channel their deep spirituality into energy, dealing devastating strikes infused with holy power. Their deep devotion to a particular religion, spirituality, philosophy, or path empowers them with the will and fortitude to cleanse themselves and others of darkness.
+
+**Righteous Fist Progression**
+
+| Monk Level | Features |
+|---|---|
+| 3rd | Blazing Strike, Manifest Light |
+| 7th | Soul Flare |
+| 11th | Cleansing Soul |
+| 15th | Soul Burst |
+
+### Blazing Strike
+
+*3rd-Level Righteous Fist Feature*
+
+You can infuse your strikes with searing light. When you hit with a monk weapon or unarmed strike, you can deal radiant damage instead of the weapon’s normal damage type. If the target is Undead, your strikes deal an additional die of damage equal to your martial arts die.
+
+You can increase the damage of your Blazing Strike by spending technique points. For each 1 point you spend, roll an extra martial arts die of radiant damage. The maximum number of technique points you can spend on this feature equals half your monk level.
+
+### Manifest Light
+
+*3rd-Level Righteous Fist Feature*
+
+As a bonus action, you can spend 1 technique point to manifest your inner light through some part of your body. When you do, you shed dim light in a 30-foot radius that is visible only to you for 1 minute. Magical darkness obscures this light. When you first manifest the light, choose one of the following properties.
+
+- ***Burnished Fist.*** Your hands shed bright light in a 10foot radius and dim light in 60-foot radius beyond that.
+
+- ***Harsh Light of Reality.*** Your eyes flare with light. You know the creature type of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within the dim light radius of Manifest Light that is visible only to you.
+
+- ***Wings Alight.*** Light bursts from your shoulder blades in a winglike pattern. You gain a flying speed of 60 feet until the end of your turn.
+
+### Soul Flare
+
+*7th-Level Righteous Fist Feature*
+
+You can expand your inner light to touch those around you. As an action, you spend 2 technique points to magically create a 15-foot-diameter sphere of radiant energy centered on yourself. When you do so, choose one effect:
+
+- ***Cleansing Flare.*** Each creature of your choice within the area must make a CON save. On a failure, a creature takes 3d6 radiant damage, or half as much damage on a success. You can increase the size of your Cleansing Flare by 10 feet for every 2 technique points you spend above 2.
+
+- ***Soothing Flare.*** Each creature of your choice within the area regains 1d6 hit points. For every 2 technique points you spend above 2, you can increase the healing done by your Soothing Flare by 1d6.
+
+### Cleansing Soul
+
+*11th-Level Righteous Fist Feature*
+
+You can extend your soul to cleanse yourself and those around you. At the end of a short rest, you can end a condition or affliction on yourself. You can extend this cleansing to include creatures within 30 feet of you by spending 2 technique points for each additional creature you wish to cleanse. The effects you can cleanse are:
+
+- Blinded
+
+- Charmed
+
+- Deafened
+
+- Paralyzed
+
+- Poisoned
+
+- A curse
+
+- An effect that reduces an ability score
+
+- An effect that reduces hit point maximum Spend the technique points at the beginning of the short rest. At the end of the short rest, you end one effect on a creature. With multiple uses of this feature, you can cleanse different creatures of different conditions or afflictions.
+
+### Soul Burst
+
+*15th-Level Righteous Fist Feature*
+
+You can summon the light of the sun to push back darkness. As an action, you spend 5 technique points to cause a flash of sunlight to burst from your body. Each creature within a 60-foot radius must make a CON save. On a failure, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a success, it takes half as much damage and isn’t blinded by this effect. Undead and Oozes have disadvantage on this save. A creature blinded by this effect makes another CON save at the end of each of its turns. On a successful save, it is no longer blinded.
+
+When you activate this feature, you can designate any number of creatures within the area, and spend 2 technique points per creature. These creatures automatically succeed on their save.
+
 ## Seal Guardian
 
 %% source: Player's Guide 2 %%
@@ -746,230 +942,6 @@ You can spend 1 minute, or spend 5 technique points and require only 1 action, t
 - **Might.** Each affected creature gains a bonus to its attack rolls equal to half your PB (rounded down).
 
 - **Tongues.** Each affected creature can communicate with any other creature in the area, even if they don’t share a common language. A creature other than you can take an action to attempt to remove the seal. It must make a WIS save against your technique save DC. On a failure, the creature takes radiant damage equal to twice your WIS modifier + twice your monk level and is stunned for 1 minute. On a success, it takes half the damage and is stunned until the end of its next turn. A stunned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Once you use this feature, you can’t use it again until you finish a long rest.
-
-## Labyrinth Monk Subclasses
-
-%% source: Labyrinth Worldbook %%
-
-At 3rd level, a monk gains the Monk Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Radiant Dawn.
-
-## Radiant Dawn
-
-%% source: Labyrinth Worldbook %%
-
-Monks of the Radiant Dawn learn to kindle and amplify light wherever darkness threatens. To these monks, radiance is a state of being that provides literal and spiritual illumination. Embracing the teachings of the Radiant Dawn means transforming oneself into a beacon that stands against agents of fear and despair.
-
-**Radiant Dawn Progression**
-
-| Monk Level | Features |
-|---|---|
-| 3rd | Golden Fist, Shining Nimbus |
-| 7th | Blazing Strike |
-| 11th | Dawn Bringer |
-| 15th | Searing Corona |
-
-> [!note] Radiant Dawn Monks in the Labyrinth
-> Several monasteries dedicated to the way of the Radiant Dawn are located in the celestial realms, but the largest is situated in Sunhome (see Chapter 2). The values of the Radiant Dawn align with the most influential factions present in Sunhome, so monks trained in this path are typically hand-picked to join the ranks of the [[Concord of Stars]] or the Golden Regent Jassin Miaberos’s personal guard on graduation. [[Sydereans]] who study this path are expected to join the endless service of the Lightbringers on completion of their studies—sometimes regardless of the student’s personal wishes.
-
-### Golden Fist
-
-*3rd-Level Radiant Dawn Feature*
-
-Whenever you would make an Unarmed Strike as part of the Attack action or Flurry of Blows, you can expend 1 technique point to turn the strike into a ranged spell attack that fires a bolt of searing light with a range of 30 feet. You can turn any number of your allotted attacks into a ranged spell attack with this feature—provided you spend 1 technique point for each.
-
-Your attack bonus to hit with a bolt is equal to your PB + your DEX modifier. On a successful hit, the bolt deals radiant damage equal to your martial arts damage die + your DEX modifier.
-
-This feature improves as you reach certain levels of the monk class. At 7th level, the range of your bolt increases to 60 feet, and you roll your martial arts die twice when calculating damage. At 11th level, the range increases to 90 feet and you roll your martial arts die three times. At 15th level, the range is 120 feet, and you roll your die four times.
-
-### Shining Nimbus
-
-*3rd-Level Radiant Dawn Feature*
-
-You emit an aura of light. As a bonus action, you can spend 2 technique points to cloak yourself in a 10-foot radius of shining bright light. The light moves with you, remaining centered on you, and lasts for 1 minute. It can’t be dispelled by a spell of 5th circle or lower.
-
-When you first summon the nimbus, choose one of the following properties:
-
-- **Sacred Fire.** Hostile creatures that enter the light for the first time on a turn or end their turn within it take radiant damage equal to your martial arts damage die + your WIS modifier.
-
-- **Holy Hand.** Your unarmed strikes deal additional radiant damage equal to your PB.
-
-- **True Radiance.** While the nimbus is active, you can use an action to spend 3 technique points to transform your aura’s light into sunlight for the duration. This sunlight can’t be dimmed, suppressed, or dispelled by any magical means. If this sunlight overlaps with an area of magical darkness created by a spell of 5th circle or lower, the spell that created the darkness is dispelled. At 11th level, you can choose two options instead of one each time you use this feature.
-
-### Blazing Strike
-
-*7th-Level Radiant Dawn Feature*
-
-Once per turn when you deal radiant damage to a creature, you can spend 1 technique point to attempt to blind your foe. When you do so, the creature must succeed on a CON save (DC is your technique save DC) or be blinded until the end of its next turn.
-
-### Dawn Bringer
-
-*11th-Level Radiant Dawn Feature*
-
-As an action, you can spend 5 technique points to cast the *[[3rd-Circle Spells#Daylight|daylight]]* spell. The spell lasts until the end of your next short or long rest (or it can end early as normal).
-
-### Searing Corona
-
-*15th-Level Radiant Dawn Feature*
-
-While you are standing in an area of bright light or sunlight, you can use an action to expend 5 technique points to create an explosive corona of sunlight. All creatures of your choice within 20 feet of you must make a CON save. On a failure, a creature takes 3d10 fire damage and 3d10 radiant damage
-
-## Book of Blades Monk Subclasses
-
-%% source: Book of Blades %%
-
-When you choose your monk subclass, the following subclasses from *[[Book of Blades]]* are also available: Equine Soul and Righteous Fist.
-
-## Equine Soul
-
-%% source: Book of Blades %%
-
-Certain monks learn to enter a state of calm, purposeful action when riding a horse. After intense training and meditation with their equine companion, it is as if the pair’s souls merge and achieve a perfect harmony. The two move and fight together, moving around the battlefield and launching deadly barrages of arrows at their enemies.
-
-**Equine Soul Progression**
-
-| Monk Level | Features |
-|---|---|
-| 3rd | Horse Archer, Twin Soul |
-| 7th | Swift Speed |
-| 11th | Bonded Defense |
-| 15th | Storm of Arrows |
-
-### Horse Archer
-
-*3rd-Level Equine Soul Feature*
-
-Carried by your horse, you can be anywhere on the battlefield to rapidly launch a volley of arrows. You gain proficiency with shortbows and they are considered monk weapons for you.
-
-### Twin Soul
-
-*3rd-Level Equine Soul Feature*
-
-You have found and bonded with a horse using a meditation ritual that takes 1 hour to complete and can be done as part of a short or long rest. Once the ritual is complete, you and your bonded horse share thoughts telepathically as long as you are within 1 mile of each other. As long as you can see your bonded horse and it is not wearing barding, you can spend technique points to have your bonded horse use the Patient Defense and Step of the Wind techniques.
-
-In combat, your bonded horse shares your initiative count, but it takes its turn immediately after yours. It obeys your telepathic commands (no action required by you). If you don’t issue any commands, it takes the Dodge action and uses its move to avoid danger.
-
-Your bonded horse has a d10 for hit dice. It has a number of hit dice equal to your monk level. It can expend these hit dice to recover hit points during a short rest just as a PC would. It recovers all hit points during a long rest. If your horse is slain, you must perform the 1-hour ritual again to bond to a new horse.
-> [!note] Bonded Horse
-> *Large Beast*
-> **Armor Class** 11 + your PB (natural armor)
-> **Hit Points** 5 × your monk level (the bonded horse has a number of d10 hit dice equal to your monk level)
-> **Speed** 60 ft.
-> **Perception** 11	**Stealth** 11
-> **Senses** —
-> **Languages** Can communicate telepathically with you up to 1 mile
-> 
-> | STR | DEX | CON | INT | WIS | CHA |
-> |---|---|---|---|---|---|
-> | +4 | +1 | +1 | −4 | +1 | −2 |
-> 
-> ***Trampling Charge.*** If the horse moves at least 20 feet straight toward a creature and then hits it with a Hooves attack on the same turn, that target must succeed on a DC 12 + your PB STR save or be knocked prone. If the target is prone, the horse can make another Hooves attack against it as a bonus action.
-> 
-> **Actions**
-> 
-> ***Hooves.*** *Melee Weapon Attack:* +4 + your PB to hit, reach 5 ft., one target. *Hit:* 8 + your PB (1d8 + 4 + your PB) bludgeoning damage.
-> **Reactions**
-> ***Trained Shift.*** If the horse’s rider is subjected to an effect that would knock it prone or dismount it, the horse can shift its body to assist the rider. The rider has advantage on the check or save to avoid the effect.
-
-### Cr —
-
-### Swift Steed
-
-*7th-Level Equine Soul Feature*
-
-You and your mount work together with significant swiftness. You receive these benefits:
-
-- You can mount and dismount from your bonded horse using 5 feet of movement instead of half your movement.
-
-- As long as your bonded horse is not wearing barding, its speed increases by the same amount as your Unarmored Movement class feature.
-
-- When you spend a technique point to use Flurry of Blows, your bonded horse can make an attack with its Hooves as a reaction.
-
-### Bonded Defense
-
-*11th-Level Equine Soul Feature*
-
-You and your bonded horse are effective at fighting together. While you are mounted on your bonded horse, it shares your Evasion class feature, and you do not have disadvantage on ranged attack rolls made against enemies within 5 feet.
-
-### Storm of Arrows
-
-*15th-Level Equine Soul Feature*
-
-You enter a state of perfect calm as you launch a rapid volley of arrows. As a bonus action, you can fire one arrow for every technique point you spend on this feature. Arrows fired using this feature have the Ricochet Shot weapon option.
-
-## Righteous Fist
-
-%% source: Book of Blades %%
-
-Monks of the Righteous Fist subclass channel their deep spirituality into energy, dealing devastating strikes infused with holy power. Their deep devotion to a particular religion, spirituality, philosophy, or path empowers them with the will and fortitude to cleanse themselves and others of darkness.
-
-**Righteous Fist Progression**
-
-| Monk Level | Features |
-|---|---|
-| 3rd | Blazing Strike, Manifest Light |
-| 7th | Soul Flare |
-| 11th | Cleansing Soul |
-| 15th | Soul Burst |
-
-### Blazing Strike
-
-*3rd-Level Righteous Fist Feature*
-
-You can infuse your strikes with searing light. When you hit with a monk weapon or unarmed strike, you can deal radiant damage instead of the weapon’s normal damage type. If the target is Undead, your strikes deal an additional die of damage equal to your martial arts die.
-
-You can increase the damage of your Blazing Strike by spending technique points. For each 1 point you spend, roll an extra martial arts die of radiant damage. The maximum number of technique points you can spend on this feature equals half your monk level.
-
-### Manifest Light
-
-*3rd-Level Righteous Fist Feature*
-
-As a bonus action, you can spend 1 technique point to manifest your inner light through some part of your body. When you do, you shed dim light in a 30-foot radius that is visible only to you for 1 minute. Magical darkness obscures this light. When you first manifest the light, choose one of the following properties.
-
-- ***Burnished Fist.*** Your hands shed bright light in a 10foot radius and dim light in 60-foot radius beyond that.
-
-- ***Harsh Light of Reality.*** Your eyes flare with light. You know the creature type of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within the dim light radius of Manifest Light that is visible only to you.
-
-- ***Wings Alight.*** Light bursts from your shoulder blades in a winglike pattern. You gain a flying speed of 60 feet until the end of your turn.
-
-### Soul Flare
-
-*7th-Level Righteous Fist Feature*
-
-You can expand your inner light to touch those around you. As an action, you spend 2 technique points to magically create a 15-foot-diameter sphere of radiant energy centered on yourself. When you do so, choose one effect:
-
-- ***Cleansing Flare.*** Each creature of your choice within the area must make a CON save. On a failure, a creature takes 3d6 radiant damage, or half as much damage on a success. You can increase the size of your Cleansing Flare by 10 feet for every 2 technique points you spend above 2.
-
-- ***Soothing Flare.*** Each creature of your choice within the area regains 1d6 hit points. For every 2 technique points you spend above 2, you can increase the healing done by your Soothing Flare by 1d6.
-
-### Cleansing Soul
-
-*11th-Level Righteous Fist Feature*
-
-You can extend your soul to cleanse yourself and those around you. At the end of a short rest, you can end a condition or affliction on yourself. You can extend this cleansing to include creatures within 30 feet of you by spending 2 technique points for each additional creature you wish to cleanse. The effects you can cleanse are:
-
-- Blinded
-
-- Charmed
-
-- Deafened
-
-- Paralyzed
-
-- Poisoned
-
-- A curse
-
-- An effect that reduces an ability score
-
-- An effect that reduces hit point maximum Spend the technique points at the beginning of the short rest. At the end of the short rest, you end one effect on a creature. With multiple uses of this feature, you can cleanse different creatures of different conditions or afflictions.
-
-### Soul Burst
-
-*15th-Level Righteous Fist Feature*
-
-You can summon the light of the sun to push back darkness. As an action, you spend 5 technique points to cause a flash of sunlight to burst from your body. Each creature within a 60-foot radius must make a CON save. On a failure, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a success, it takes half as much damage and isn’t blinded by this effect. Undead and Oozes have disadvantage on this save. A creature blinded by this effect makes another CON save at the end of each of its turns. On a successful save, it is no longer blinded.
-
-When you activate this feature, you can designate any number of creatures within the area, and spend 2 technique points per creature. These creatures automatically succeed on their save.
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

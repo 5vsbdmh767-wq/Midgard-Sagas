@@ -252,6 +252,12 @@ Your commitment to the theurge’s path grants you a powerful new ability. You g
 
 The simultaneous mastery of two distinct magical sources requires lifelong commitment, rigorous study, and the development of wholly unique spellcasting practices. The system each theurge uses to draw and command such forces is broadly labeled as a magical devotion. Your choice of subclass reflects your method of devotion, the system by which you combine reason and faith to master the Arcane and Divine.
 
+| Subclass | Suits |
+|---|---|
+| [[#Conduit\|Conduit]] | Any character |
+| [[#Illuminary\|Illuminary]] | Any character |
+| [[#Source Spinner\|Source Spinner]] | Any character |
+
 ## Conduit
 
 Theurges that embody the Conduit devotion view all magic—regardless of source—as a natural extension of the life force that resides within all creatures. Conduits perceive the Arcane and Divine within themselves as readily as they feel their blood pumping through their veins, and they believe the deepest reserves of magical power lie within the soul. They translate these beliefs into practical applications, allowing them to exchange vitality for spellcasting potential and disrupt the magical energies within other creatures.

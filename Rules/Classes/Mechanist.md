@@ -172,7 +172,13 @@ Your commitment to the mechanist’s path grants you a powerful new ability. Cho
 
 - **Curse of Unmaking.** As an action, you can make a melee spell attack using your augment attack modifier (see **Augment Effects**) against a creature or item within reach. On a successful hit, the target becomes cursed so that it is vulnerable to all damage. If the target is a creature, it can attempt a CON save against your augment save DC (see **Augment Effects**) each time it takes a new instance of damage, ending the curse on a success. Once you use this feature, you must finish a long rest before you can use it again.
 
+- **Inspired Combatant.** You can now use the Inspire effect of your Shard of Creation feature (see *Player’s* *Guide*) to enhance your attacks. When you make an attack roll while touching the shard (regardless of its current form), you can spend 1 charge to roll a d8 and then add the number rolled to your check result. If you hit with the attack, the attack deals extra damage (of the type dealt by the triggering attack) equal to the number rolled. When you reach 18th level in the mechanist class, this die increases to a d10.
+
+- **Manifold Invention.** You learn two additional effects of your choice from your Augment feature. These effects don’t count against your total effects known, as shown in the Augments Effects Known column of the **Mechanist Progression** table (see *Player’s Guide*).
+
 - **Mend the Broken.** As an action, you touch a creature or item and cause it to magically regain a number of hit points equal to 5 × your mechanist level. This effect also repairs any catastrophic damage suffered by the target, such as lost limbs, missing parts, or other harm that would ordinarily be irreparable. If the item doesn’t have a hit point total, your touch restores it to working order as best it can with the pieces available. This feature can’t restore expended charges on magic items or restore magical properties to nonmagical items that were once magical. Once you use this feature, you must finish a long rest before you can use it again.
+
+%% source: Player's Guide 2: Inspired Combatant, Manifold Invention %%
 
 ### Engineer’s Insight
 
@@ -214,9 +220,15 @@ You can now transform the shard into any item— including structures and vehicl
 
 *20th-Level Mechanist Feature*
 
-Your commitment to the mechanist’s path grants you a powerful new ability. You gain the following epic boon:
+Your commitment to the mechanist’s path grants you a powerful new ability. You gain one of the following epic boons:
 
 - **Creative Engine.** You gain a +1 bonus to your saves for each effect from your Augment feature currently active on items within 60 feet of you. If you fail a save while any of those items are within 60 feet of you, you can automatically end one of those effects (your choice) to succeed on the save instead.
+
+- **Energy Transfer.** As a reaction when you would suffer an instance of damage, you can end one of the active effects from your Augment feature (see *Player’s* *Guide*) on an item within 60 feet of you (you choose which if multiple) to instead take no damage from the triggering instance.
+
+- **Fully Loaded.** For each effect from your Augment feature (see *Player’s Guide*) currently active on items within 60 feet, you gain a +1 bonus to any attack rolls and damage rolls you make. If you fail to hit with an attack roll while any of those items are within 60 feet of you, you can automatically end one of those effects (your choice) to automatically succeed on the attack roll instead.
+
+%% source: Player's Guide 2: Energy Transfer, Fully Loaded %%
 
 ## Augment Effects
 
@@ -365,6 +377,412 @@ When triggered, you instantly become mentally aware that the item has been trigg
 ## Mechanist Subclasses
 
 As you perfect your craft, you gain new abilities that reflect the specific ways you’ve learned to restructure the forces of the universe. Your choice of subclass speaks to the kinds of mystic creations you excel at making.
+
+| Subclass | Suits |
+|---|---|
+| [[#Augment Effects Expanded\|Augment Effects Expanded]] | Any character |
+| [[#Clockmaker\|Clockmaker]] | Any character |
+| [[#Cog Augur\|Cog Augur]] | Any character |
+| [[#Fleshsmith\|Fleshsmith]] | Any character |
+| [[#Grenadier\|Grenadier]] | Any character |
+| [[#Metallurgist\|Metallurgist]] | Any character |
+| [[#Spellwright\|Spellwright]] | Any character |
+| [[#Tinker\|Tinker]] | The [[The Labyrinth\|Labyrinth]] |
+| [[#Toymaker\|Toymaker]] | Any character |
+
+## Augment Effects Expanded
+
+%% source: Player's Guide 2 %%
+
+This section lists additional augments available for mechanists to learn and use. See the Augment class feature in the *Player’s Guide* for a full description of how these effects work.
+
+#### Controlled
+
+*Item Requirement: Item that Requires a Roll to Determine*
+
+*an Effect* You imbue an item with the ability to generate more favorable random effects. While rolling dice to determine the effect produced by the augmented item, you can roll the dice twice and choose which result you want to use. If you roll the same result on both rolls, you can ignore the result and choose which effect occurs from any of the listed possibilities. This augment affects die rolls like the d8 used to determine the creature resulting from a *[[Wondrous Items A–L#Bag of Tricks|bag of tricks]]* or the d100 used to determine the effect of a *[[Rods, Staffs & Wands#Wand of Wonder|wand of wonder]]*. This augment doesn’t affect ability checks, attack rolls, or saves made with the item.
+
+#### Focused
+
+*Item Requirement: Spell Focus* You imbue a spellcasting focus with superior casting potential. Spells cast with the spell focus have a +1 bonus to spell attack rolls, and DCs made to resist effects of spells cast using the focus are increased by 1.
+
+***At Higher Levels.*** Once you reach 9th level in the mechanist class, the bonus to spell attack rolls increases to +2. At 15th level, it becomes +3.
+
+## Clockmaker
+
+%% source: Book of Blades %%
+
+The clockmaker is a master crafter whose timepiece does more than keep track of the passing hours. With it, the Clockmaker controls time itself. By winding their watch, they can give themselves more time or take time away from their enemies. A clockmaker can even freeze enemies in place with specially prepared traps.
+
+**Clockmaker Progression**
+
+| Mechanist Level | Features |
+|---|---|
+| 3rd | Augment: Countdown, Timepiece |
+| 7th | Advanced Timepiece |
+| 11th | Stasis Trap |
+| 15th | Master Timepiece |
+
+### Augment: Count Down
+
+*3rd-Level Clockmaker Feature*
+
+You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table.
+
+> Count Down
+
+*Item Requirement: Medium or Smaller Magic Item that Is*
+
+*Worn or Carried*
+
+You imbue a magic item with a countdown of any length of time. At the end of the countdown, one of the magic item’s effects (your choice) triggers. When you set the countdown, you choose the duration. The effect targets the creature carrying or wearing the item. If the effect targets an area, the area of effect is centered on the creature. You can touch the item and use an action to change or cancel the item’s countdown.
+
+### Timepiece
+
+*3rd-Level Clockmaker Feature*
+
+You create a small clockwork device as a focus for your clockwork abilities. This device always keeps perfect time on the Material Plane. While holding your timepiece in one hand, you gain the following:
+
+- ***Spellcasting.*** The timepiece can be used as an arcane focus for the spells that you learn from this subclass. You learn the spells *pendulum* and *hold* and can cast them using your timepiece without expending spell slots. Once you cast a spell with your timepiece, you must finish a long rest before you can cast a spell with it again. INT is your spellcasting ability. Your INT modifier determines the save DC or the attack modifier for your timepiece spells:
+
+- **Spell save DC** = 8 + your PB + your INT modifier
+- **Spell attack modifier** = your PB + your INT modifier 
+- ***Double Time.*** On your turn, you can double your speed until the start of your next turn. When you use this feature, you gain temporary hit points equal to 1d6 + your INT modifier. You must finish a short or long rest before you can use this feature again.
+
+### Advanced Timepiece
+
+*7th-Level Clockmaker Feature*
+
+You add more intricate clockworks to your timepiece, improving and expanding its capabilities. You gain the following benefits:
+
+- ***Forewarned.*** While holding your timepiece in one hand, add your INT modifier to initiative rolls.
+
+- ***Spellcasting.*** Add *haste* and *slow* to the list of spells that you can cast with your timepiece without expending spell slots. You can now use your timepiece to cast any spell gained from this subclass two times until you finish a long rest.
+
+- ***Extra Time.*** You expand your mastery over time. You can gain an additional bonus action on your turn. You must finish a short or long rest before you can use this feature again.
+
+### Stasis Trap
+
+*11th-Level Clockmaker Feature*
+
+You freeze a moment of time inside a clockwork cog the size of a button. Creating a stasis trap takes 10 minutes and can be done as part of a short or long rest. You can have a maximum number of stasis traps active at once equal to your PB.
+
+You can place the stasis trap where a creature might step on it or throw it as a ranged attack with a range of 30 feet. Seeing a hidden stasis trap requires a successful WIS (Perception) check with a DC equal to your spell save DC.
+
+When a creature steps on, touches, or is hit by a stasis trap, it must succeed on a CON save equal to your spell save DC or be paralyzed for 1 minute. At the end of each of the target’s turns, it can repeat the save, ending the effect on itself on a success. If the creature fails its CON save at the end of its turn, it suffers a secondary effect chosen by you when the stasis trap was created:
+
+- The target takes 1d6 + your INT modifier force damage.
+
+- You learn one thing of your choice about the creature: type, resistances, immunities, vulnerabilities, or special attacks.
+
+- Time within a 20-foot radius slows. Creatures in the area halve their speed, take a −2 penalty to AC and DEX saves, and can’t use reactions.
+
+### Master Timepiece
+
+*15th-Level Clockmaker Feature*
+
+You achieve mastery over your timepiece and expand its abilities even further. You gain the following benefits:
+
+- ***Accelerated Attacks.*** Your attacks move faster and hit harder. Your melee and ranged weapon attacks deal an extra 2d6 force damage.
+
+- ***Spellcasting.*** Add *foresight* and *time stop* to your list of spells that you can cast using your timepiece.
+
+- ***Extra Time.*** You fully master time between seconds.
+
+You can gain an additional action on your turn. You must finish a short or long rest before you can use this feature again.
+
+## Cog Augur
+
+%% source: Player's Guide 2 %%
+
+Some mechanists see the universe and its workings as mathematical calculations. They turn their expertise toward crafting baroque devices to help them read these calculations and predict the near future.
+
+*Cog Augur Progression*
+
+| Mechanist Level | Features |
+|---|---|
+| 3rd | Augment: Clairvoyant, Auguring Device |
+| 7th | Intricate Predictions |
+| 11th | Improved Divining |
+| 15th | Clarity of Vision |
+
+### Augment
+
+*3rd-Level Cog Augur Feature*
+
+You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table (see *Player’s Guide*).
+
+#### Augment: Clairvoyant
+
+*Item Requirement: Equipment or Object that Can Fit in One Hand* You imbue an item with the ability to make quick, tactical calculations and predictions in the heat of combat. As a bonus action, you can provide instructions to a friendly creature within 30 feet of you that can hear or see you. Until the start of your next turn, the target has advantage on one attack roll or save of its choice, or it can use a reaction when a creature attacks it to cause the attacker to have disadvantage on the attack roll. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+
+***At Higher Levels.*** Once you reach 11th level in the mechanist class, you can target a number of creatures equal to your PB with one bonus action.
+
+### Auguring Device
+
+*3rd-Level Cog Augur Feature*
+
+You learn to transmute a small device into an augury tool that aids you in calculating and predicting the future. If you spend 1 hour of uninterrupted focus in contact with an object small enough for you to hold in one hand (which can be done as part of a short or long rest), you can transmute that object into an auguring device. The chosen object must be a single object (though that object can have internal moving parts, like a watch or lock) and can’t be a set of tools. The transformation lasts until you choose to end it or until you use this feature to transmute a different object.
+
+Any ongoing effects from your Augment feature (see *Player’s Guide*) on the object automatically end when the device reverts to its normal state. If anyone other than you attempts to use the auguring device, it instantly reverts to its normal state.
+
+Once transformed, the auguring device resembles a handheld, often clockwork, gadget or device, like a watch or astrolabe, but you choose its color, style, and other cosmetic details. Creatures who handle or inspect the device can tell it isn’t a true magic item. Otherwise, it follows the rules of a typical magic item.
+
+Your auguring device functions as a magic item with the following properties:
+
+- If it is on the same plane as you, as a bonus action, you can summon the auguring device. When you do so, choose whether the device appears in your open hand or in an unoccupied space within 5 feet of you.
+
+- While holding the device, you can spend 1 minute communing with the device to determine the probability of success for a specific action you plan to take within the next 30 minutes. This effect works like the *[[Rituals 1st–3rd Circle#Augury|augury]]* spell, except the device serves as the material component and isn’t consumed by the spell. You can use this aspect of the device a number of times equal to your PB, but this doesn’t prevent you from risking a random reading, as detailed in the spell. You regain all expended uses when you finish a long rest.
+
+- While holding the device, as a bonus action, you can consult with it to learn one of the following details about a creature within 30 feet of you that you can see: one of its resistances, one of its immunities, one of its vulnerabilities, or the damage type of one of its actions.
+
+- While holding the device, you have advantage on WIS (Survival) checks to predict the weather within the next 24 hours and to find your way in the wilderness.
+
+### Intricate Predictions
+
+*7th-Level Cog Augur Feature*
+
+You learn to upgrade your Auguring Device feature, which gains the following additional properties:
+
+- When you consult the device to learn a detail about a creature, you can now learn two pieces of information from that list.
+
+- When you use the weather prediction aspect of the device, you now have advantage on WIS (Survival) checks to predict the weather within the next 7 days.
+
+- While holding the device, you can spend 10 minutes communing with the device to learn details about current or future events or to learn the direction to a specific creature or object. These effects work like the *[[Rituals 4th–6th Circle#Divination|divination]]* or *[[Rituals 1st–3rd Circle#Locate|locate]]* spells, except the device serves as the material component and isn’t consumed by the spell. When you reach 11th-level in the mechanist class, you can use the **At Higher Circles** aspect of the *[[Rituals 1st–3rd Circle#Locate|locate]]* spell when using this aspect of the auguring device. You can use this aspect of the device a number of times equal to your PB, but this doesn’t prevent you from risking no answer, as detailed in the *[[Rituals 4th–6th Circle#Divination|divination]]* spell. You regain all expended uses when you finish a long rest.
+
+- While holding the device, you can’t be surprised, for it clicks and whirs warnings of danger.
+
+### Improved Divining
+
+*11th-Level Cog Augur Feature*
+
+You learn to adjust your Auguring Device feature’s calculations to reduce its chances of failure. When you use the *[[Rituals 1st–3rd Circle#Augury|augury]]* or *[[Rituals 4th–6th Circle#Divination|divination]]* aspects of the device, the chance of receiving a random answer or no answer, respectively, is a cumulative 10 percent instead of 25 percent. If the device is imbued with the Clairvoyant augment, you can choose for one of the targets to have advantage on all its attack rolls instead of only one.
+
+In addition, you can now spend 1 minute communing with your auguring device to find the shortest, most direct physical route to a location you are familiar with on the same plane of existence. This effect works like the *[[Rituals 4th–6th Circle#Find the Path|find the path]]* spell, except the device serves as the material component. Once you use this aspect of this feature, you can’t use it again until you finish a long rest.
+
+### Clarity of Vision
+
+*15th-Level Cog Augur Feature*
+
+You can spend 1 minute communing with the device of your Auguring Device feature, alongside one friendly creature within 5 feet of you, and imbue that creature with minor foresight. For 1 hour, the target gains one of the following benefits of its choice:
+
+- Any creature has disadvantage on the first attack roll it makes against the target each turn.
+
+- The target has advantage on all ability checks.
+
+- The target has advantage on all saves. You can use this feature on yourself instead. Once a creature has gained a benefit from this feature, it can’t benefit again until it finishes a long rest.
+
+## Fleshsmith
+
+%% source: Book of Blades %%
+
+Other mechanists create objects of stone and steel; things that are worn, carried, or constructed. For a few though, flesh is the clay of creation and from which they coax new growths or bind creations with other living things.
+
+Depending on their background, a Fleshsmith might grow magical vines from their skin, bind the dermis of an eldritch horror to their body, or use twisted eldritch science to graft parts of the dead. They are most known for their flesh-forged servitor, an organic construct that can be imbued with augmentations.
+
+**Fleshsmith Progression**
+
+| Mechanist Level | Features |
+|---|---|
+| 3rd | Augment: Shape Flesh, Flesh-Forged Servitor |
+| 7th | Augment |
+| 11th | Absorb Servitor |
+| 15th | Flawless Servitor |
+
+### Augment: Shape Flesh
+
+*3rd-Level Fleshsmith Feature*
+
+You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table.
+
+> Shape Flesh
+
+*Item Requirement: Your Body or the Body of Your Flesh-Forged Servitor*
+
+You twist and shape the flesh of your body or that of your flesh-forged servitor. You improve the target body by binding organic material to it. Choose one of these benefits:
+
+- By enhancing muscles, you add your INT modifier to the target’s melee weapon attack damage. The damage type is the same as that normally done by the weapon.
+
+- By adding organs to increase durability, you add twice your INT modifier to the target’s hit points and hit point maximum.
+
+- By attaching thick hide or chitin, add your INT modifier to the target’s AC as long as it is wearing no armor.
+
+### Flesh-Forged Servitor
+
+*3rd-Level Fleshsmith Feature*
+
+You sculpt a Small minion out of organic material. Your new servitor takes an appearance chosen by you, but always bears traces of the source material. It might be plant-, animal-, or abomination-based. Construction of your servitor requires a minimum of 100 pounds of material, 1 hour of uninterrupted time, and alchemist tools.
+
+In combat, your flesh-forged servitor shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any commands, it takes the Dodge action and uses its move to avoid danger.
+
+Your fservitor has a d6 for hit dice. It has a number of hit dice equal to your mechanist level. It can expend these hit dice to recover hit points during a short rest just as a PC would. It recovers all hit points during a long rest.
+> [!note] Flesh-Forged Servitor
+> *Small Construct*
+> **Armor Class** 10 + your PB (natural armor)
+> **Hit Points** 5 × your mechanist level (the flesh-forged servitor has a number of d6 hit dice equal to your mechanist level)
+> **Speed** 30 ft.
+> **Perception** 11	**Stealth** 10
+> **Senses** —
+> **Languages** All languages known by its creator
+> 
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | +1 | +0 | +0 | +0 | +1 | +1 |
+> 
+> ***Receptive Clay.*** In addition to augments that list Living Body (Fleshsmiths Only) as an item requirement, the following augments can also be imbued onto the servitor’s body: detecting, empowered, phosphorescent, propulsion, protean, reinforced, and repellant.
+> 
+> **Actions**
+> 
+> ***Slam.*** *Melee Weapon Attack:* +1 + your PB to hit, reach 5 ft., one target. *Hit:* 4 + your PB (1d6 + 1 + your PB) bludgeoning damage.
+
+### Cr —
+
+### Augment: Graft
+
+*7th-Level Fleshsmith Feature*
+
+You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table.
+
+> Graft
+
+*Item Requirement: Your Body, the Body of Your Flesh-Forged Servitor, or Other Willing Body*
+
+You graft a body part to your own body or that of a willing host. This graft lasts until the target completes a long rest, at which point it molts off. Choose one of these benefits:
+
+- ***Acidic Blood.*** You transfuse the target’s blood with acid. This does no harm to the target, but when the target takes damage from a melee attack, the attacker takes 1d4 + your INT modifier acid damage.
+
+- ***Dermal Plates.*** The target gains a +4 bonus to AC as long as they are not wearing armor.
+
+- ***Digestion Augmentation.*** The target does not need to eat or drink as long as it has access to an unusual sustenance of your devising, such as sunshine, rusted metal, or small rocks.
+
+- ***Eye in the Back of Your Head.*** The target cannot be surprised.
+
+- ***Spine Projector.*** You graft a spine-covered bud onto the target. The bud contains a number of spines equal to your INT modifier. As a bonus action, the target can fire a spine as a ranged weapon attack with a range of 100 feet. Each spine deals 1d6 + the target’s DEX modifier piercing damage. The spines regenerate when the target finishes a short rest.
+
+- ***Third Arm.*** You graft a third limb onto the target. This limb is strong enough to wield a weapon with the Light property. When wielding three Light weapons and the target takes a bonus action to attack with two-weapon fighting, it can choose to make attacks with its third hand, leaving a hand free to wield a shield, a spell focus, or any other one-handed object.
+
+### Absorb Servitor
+
+*11th-Level Fleshsmith Feature*
+
+As an action while adjacent to your flesh-forged servitor, you can absorb it into your body, destroying it. You immediately regain hit points equal to its current hit points. You are cleansed of blindness, deafness, diseases, and poisons. If your flesh-forged servitor was imbued with an augmentation, you can choose to have that augment be instantly imbued into you.
+
+### Flawless Servitor
+
+*15th-Level Fleshsmith Feature*
+
+You have discovered new ways to improve your flesh-forged servitor. Your servitor gains the following benefits:
+
+- Your flesh-forged servitor can be affected by two augments at the same time.
+
+- The servitor gains the Multiattack feature and can make three attacks with its slam when it uses Multiattack.
+
+- The damage of its slam attack increases to 3d6 + 1 + your PB bludgeoning damage.
+
+## Grenadier
+
+%% source: Player's Guide 2 %%
+
+Mechanists who pursue the Grenadier’s craft are disciples of entropy, more interested in how things come apart than how they come together. Grenadiers expertly manipulate thermodynamic forces to blow away their foes and demolish terrain. Their explosive talents serve them well as master demolitionists, artillerists, and devastatingly effective opponents on the field of battle.
+
+*Grenadier Progression*
+
+| Mechanist Level | Features |
+|---|---|
+| 3rd | Arcane Grenades (1d8, 1/turn), Augment: Explosive |
+| 7th | Arcane Grenades (2d8, 2/turn), Controlled Blasts |
+| 11th | Advanced Modifications, Arcane Grenades (3d8) |
+| 15th | Arcane Grenades (4d8, 3/turn), Superior Firepower |
+
+### Arcane Grenades
+
+*3rd-Level Grenadier Feature*
+
+You have learned to construct potent magical devices called arcane grenades. As an action (counts as the Use an Object action), you can arm and throw an arcane grenade. Alternatively, when you take the Attack action, you can replace one of your attacks with the arming and throwing of a grenade. You must have at least one hand free to do so, and you can only use an arcane grenade once per turn. Given their unique nature, arcane grenades can’t be augmented.
+
+For the purposes of determining attack bonus and damage, an arcane grenade counts as a magic ranged weapon with a range of 20/60 feet and with which you are proficient. When making an attack roll with an arcane grenade, you can choose to use either your DEX or INT modifier to determine your attack bonus. On a hit, a grenade deals force damage equal to 1d8 + your INT modifier. Whether you hit or miss, a thrown grenade is destroyed on impact.
+
+The damage dealt by your arcane grenades increases as you gain levels in the mechanist class, dealing 2d8 at 7th level, 3d8 at 11th level, and 4d8 15th level.
+
+#### Grenade Modifications
+
+As part of the same action used to arm and throw a grenade (see Arcane Grenades feature), you can alter the properties of the grenade to create a special effect, applying one of the following modifications of your choice to it. Unless specified otherwise, a modified grenade still deals its standard damage in addition to any listed effects. A single grenade can’t have more than one modification, and you can use only one modified grenade per turn. If a modification requires a target to make a save, the DC for that save is the same as your augment save DC.
+
+You can modify grenades a number of times equal to your PB, and you regain all expended uses when you finish a short or long rest.
+
+***Dispersal Grenade.*** When you hit a creature with a dispersal grenade, the target takes only half your typical arcane grenade damage, and each creature within 10 feet of the target must succeed on a DEX save or take the same amount of damage.
+
+***Flash Grenade.*** You don’t make an attack roll when you throw a flash grenade, and it doesn’t deal damage. Instead, you throw the grenade at a point you can see within 30 feet of you. Each creature within 10 feet of that point must succeed on a CON save or be blinded for 1 minute. A creature blinded by a flash grenade can repeat the save at the end of each of its turns, ending the effect on itself on a success.
+
+***Kinetic Grenade.*** When you hit a Large or smaller creature with a kinetic grenade, the target takes the grenade’s standard damage and must succeed on a STR save or be pushed in a single direction of your choice up to a number of feet equal to 10 × your PB.
+
+***Smoke Grenade.*** You can choose to throw a smoke grenade at a target or at a point you can see within 30 feet of you. If thrown at a point, it doesn’t deal damage. After it hits a target or when it impacts the point you chose, the smoke grenade produces a 30-foot-radius sphere of thick smoke centered on the chosen point or the target’s current space. The smoke spreads around corners. A creature inside the smoke can’t see farther than 10 feet, and creatures outside the smoke can’t see creatures inside it. The sphere lasts for up to 1 minute or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+
+### Augment
+
+*3rd-Level Grenadier Feature*
+
+You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table (see *Player’s Guide*).
+
+#### Augment: Explosive
+
+*Item Requirement: A Stationary Medium or Smaller Item that*
+
+*Isn’t Being Worn or Held* You imbue an item with the ability to release explosive magical energy when triggered. You decide what triggers the explosion when you first use this effect. The nature of the trigger is determined by you, but the most common triggers include touching the item, approaching within a certain distance of the item, or performing a specific interaction with an item—like specifying a chest will explode if opened. You can further refine the trigger, so the explosion occurs only under certain circumstances or according to a physical characteristic (such as height or weight) or creature type or category (such as specifying Aberrations or hags). You can also set conditions for creatures that don’t trigger the explosion, such as those who say a certain password.
+
+When triggered, the item erupts with explosive power, releasing magical energy in a 10-foot-radius sphere centered on the item. The energy spreads around corners. Each creature in the area must make a DEX save against your augment save DC. On a failed save, a creature takes a number of d6s equal to your PB + 1 (minimum of 3d6) of force damage. On a success, it takes half the damage. A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the explosion’s area.
+
+This explosion can trigger a number of times equal to your PB. The augmented item regains all expended triggers when you finish a long rest.
+
+***At Higher Levels.*** Once you reach 9th level in the mechanist class, you can choose to increase the item’s explosive area to a 20-foot-radius sphere.
+
+### Controlled Blasts
+
+*7th-Level Grenadier Feature*
+
+Your experience affords you greater control and precision with your Arcane Grenades feature. You gain the following benefits:
+
+- When you make a ranged weapon attack (including with your grenades), you don’t have disadvantage on the attack roll from being within 5 feet of a hostile creature, though you can still have disadvantage from other sources.
+
+- Whenever you deal damage or an effect, like a condition, with a nonmagical or magic item (including items you have augmented and your grenades), you can choose to make a number of friendly creatures equal to your PB immune to the damage or effect.
+
+- You are immune to all damage, conditions, and other negative effects caused by items you activate, including effects from your augments and arcane grenades.
+
+- You can now arm and throw up to two arcane grenades on your turn (though you are still restricted to only one modified grenade per turn).
+
+### Advanced Modifications
+
+*11th-Level Grenadier Feature*
+
+Your experiments with your Arcane Grenades feature lead you to more powerful modifications. Your existing modifications change in the following ways:
+
+- **Dispersal Grenade.** This grenade’s burst becomes more versatile. When you hit a creature with a dispersal grenade, the target takes the full damage instead of half the damage. In addition, you can choose for the burst to be concentrated or expanded. If you choose concentrated, each creature within 10 feet of the target must make a DEX save, taking the same damage the target took on a failed save or half as much damage on a successful one. If you choose expanded, each creature within 20 feet of the target must succeed on a DEX save or take half the damage the target took.
+
+- **Flash Grenade.** The flash grenade’s light can now sear those in the area. A creature that fails the save takes a number of d6s equal to your PB of radiant damage in addition to being blinded. A creature that succeeds on the save isn’t blinded, but it takes half the radiant damage.
+
+- **Kinetic Grenade.** The pushing power of this grenade is enhanced and can now push Huge or smaller creatures. If the target fails the save, it takes an extra 1d6 force damage for every 10 feet it is pushed. If the target succeeds on the save, it is pushed only half the distance and doesn’t take the extra force damage.
+
+- **Smoke Grenade.** The smoke produced by this grenade becomes noxious. A creature that starts its turn in the smoke must succeed on a CON save or take poison damage equal to twice your PB and be poisoned until it starts its turn outside of the smoke.
+
+In addition, you learn to create the following new modifications, which are available to you whenever you could modify a grenade.
+
+***Elemental Grenade.*** An elemental grenade is filled with the energy of one element of your choice: acid, cold, fire, lightning, or thunder. You don’t make an attack roll when you throw an elemental grenade, and it doesn’t deal standard damage. Instead, you throw the grenade at a point you can see within 30 feet of you. Each creature within 15 feet of that point must make a DEX save. On a failure, a creature takes a number of d6s equal to your PB of damage of the type you chose and then becomes vulnerable to that damage type until the end of its next turn. On a success, a creature takes half the damage and isn’t vulnerable. If the creature is normally resistant to that damage type, it instead loses that resistance. A creature immune to that damage type remains immune to it.
+
+***Phrenic Grenade.*** You infuse the grenade with psychic energy that shrieks into the minds of those nearby. When you hit a creature with a phrenic grenade, the target takes psychic damage instead of force damage, and the target and each creature within 10 feet of the target must succeed on a WIS save or be frightened of you for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.
+
+### Superior Firepower
+
+*15th-Level Grenadier Feature*
+
+Your ability to utilize your Arcane Grenades feature is unrivaled. You gain the following benefits:
+
+- Once per turn, when you miss an attack roll with your arcane grenade, you can choose to succeed instead. You can use this feature a number of times equal to your INT modifier, and you regain all expended uses when you finish a long rest.
+
+- The range of your arcane grenades increases to 40/80 feet. When throwing elemental, flash, or smoke grenades, you can now throw them at a point you can see within 40 feet of you.
+
+- When you score a critical hit with an attack with your unmodified arcane grenade and the attack reduces a creature to 0 HP, it is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a *[[Rituals 7th–9th Circle#True Resurrection|true resurrection]]* or *[[9th-Circle Spells#Wish|wish]]* spell. If the creature is destroyed, any magic items it was wearing or holding drop onto the ground in a space previously occupied by the creature.
+
+- You can now arm and throw up to three arcane grenades on your turn (though you are still restricted to one modified grenade per turn).
 
 ## Metallurgist
 
@@ -519,336 +937,6 @@ When you cast one of your imbued spells, you can modify it in one of the followi
 - When you cast a spell that targets only you, you can choose to double the spell’s duration.
 
 - When you successfully hit a target with a spell attack or when a target fails to make its save against your spell, you can use your reaction to cause your spell to deal maximum damage (no roll required).
-
-## Augment Effects Expanded
-
-%% source: Player's Guide 2 %%
-
-This section lists additional augments available for mechanists to learn and use. See the Augment class feature in the *Player’s Guide* for a full description of how these effects work.
-
-#### Controlled
-
-*Item Requirement: Item that Requires a Roll to Determine*
-
-*an Effect* You imbue an item with the ability to generate more favorable random effects. While rolling dice to determine the effect produced by the augmented item, you can roll the dice twice and choose which result you want to use. If you roll the same result on both rolls, you can ignore the result and choose which effect occurs from any of the listed possibilities. This augment affects die rolls like the d8 used to determine the creature resulting from a *[[Wondrous Items A–L#Bag of Tricks|bag of tricks]]* or the d100 used to determine the effect of a *[[Rods, Staffs & Wands#Wand of Wonder|wand of wonder]]*. This augment doesn’t affect ability checks, attack rolls, or saves made with the item.
-
-#### Focused
-
-*Item Requirement: Spell Focus* You imbue a spellcasting focus with superior casting potential. Spells cast with the spell focus have a +1 bonus to spell attack rolls, and DCs made to resist effects of spells cast using the focus are increased by 1.
-
-***At Higher Levels.*** Once you reach 9th level in the mechanist class, the bonus to spell attack rolls increases to +2. At 15th level, it becomes +3.
-
-## Mechanist Boons
-
-%% source: Player's Guide 2 %%
-
-When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the mechanist class.
-
-### Heroic Boons
-
-When you reach 10th level in the mechanist class, you have the following additional options to choose from when selecting the boon for your Heroic Boon feature.
-
-#### Heroic Boon
-
-*10th-Level Mechanist Feature*
-
-Your commitment to the mechanist’s path grants you a powerful ability. Choose one of the following heroic boons:
-
-- **Inspired Combatant.** You can now use the Inspire effect of your Shard of Creation feature (see *Player’s* *Guide*) to enhance your attacks. When you make an attack roll while touching the shard (regardless of its current form), you can spend 1 charge to roll a d8 and then add the number rolled to your check result. If you hit with the attack, the attack deals extra damage (of the type dealt by the triggering attack) equal to the number rolled. When you reach 18th level in the mechanist class, this die increases to a d10.
-
-- **Manifold Invention.** You learn two additional effects of your choice from your Augment feature. These effects don’t count against your total effects known, as shown in the Augments Effects Known column of the **Mechanist Progression** table (see *Player’s Guide*).
-
-### Epic Boons
-
-When you reach 20th level in the mechanist class, you have the following additional options to choose from when selecting the boon for your Epic Boon feature.
-
-#### Epic Boon
-
-*20th-Level Mechanist Feature*
-
-Your commitment to the mechanist’s path grants you a powerful new ability. You gain one of the following epic boons:
-
-- **Energy Transfer.** As a reaction when you would suffer an instance of damage, you can end one of the active effects from your Augment feature (see *Player’s* *Guide*) on an item within 60 feet of you (you choose which if multiple) to instead take no damage from the triggering instance.
-
-- **Fully Loaded.** For each effect from your Augment feature (see *Player’s Guide*) currently active on items within 60 feet, you gain a +1 bonus to any attack rolls and damage rolls you make. If you fail to hit with an attack roll while any of those items are within 60 feet of you, you can automatically end one of those effects (your choice) to automatically succeed on the attack roll instead.
-
-## More Mechanist Subclasses
-
-%% source: Player's Guide 2 %%
-At 3rd level, mechanists gain the Mechanist Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available when making that choice: Cog Augur, Grenadier, or Toymaker.
-
-## Cog Augur
-
-%% source: Player's Guide 2 %%
-
-Some mechanists see the universe and its workings as mathematical calculations. They turn their expertise toward crafting baroque devices to help them read these calculations and predict the near future.
-
-*Cog Augur Progression*
-
-| Mechanist Level | Features |
-|---|---|
-| 3rd | Augment: Clairvoyant, Auguring Device |
-| 7th | Intricate Predictions |
-| 11th | Improved Divining |
-| 15th | Clarity of Vision |
-
-### Augment
-
-*3rd-Level Cog Augur Feature*
-
-You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table (see *Player’s Guide*).
-
-#### Augment: Clairvoyant
-
-*Item Requirement: Equipment or Object that Can Fit in One Hand* You imbue an item with the ability to make quick, tactical calculations and predictions in the heat of combat. As a bonus action, you can provide instructions to a friendly creature within 30 feet of you that can hear or see you. Until the start of your next turn, the target has advantage on one attack roll or save of its choice, or it can use a reaction when a creature attacks it to cause the attacker to have disadvantage on the attack roll. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
-
-***At Higher Levels.*** Once you reach 11th level in the mechanist class, you can target a number of creatures equal to your PB with one bonus action.
-
-### Auguring Device
-
-*3rd-Level Cog Augur Feature*
-
-You learn to transmute a small device into an augury tool that aids you in calculating and predicting the future. If you spend 1 hour of uninterrupted focus in contact with an object small enough for you to hold in one hand (which can be done as part of a short or long rest), you can transmute that object into an auguring device. The chosen object must be a single object (though that object can have internal moving parts, like a watch or lock) and can’t be a set of tools. The transformation lasts until you choose to end it or until you use this feature to transmute a different object.
-
-Any ongoing effects from your Augment feature (see *Player’s Guide*) on the object automatically end when the device reverts to its normal state. If anyone other than you attempts to use the auguring device, it instantly reverts to its normal state.
-
-Once transformed, the auguring device resembles a handheld, often clockwork, gadget or device, like a watch or astrolabe, but you choose its color, style, and other cosmetic details. Creatures who handle or inspect the device can tell it isn’t a true magic item. Otherwise, it follows the rules of a typical magic item.
-
-Your auguring device functions as a magic item with the following properties:
-
-- If it is on the same plane as you, as a bonus action, you can summon the auguring device. When you do so, choose whether the device appears in your open hand or in an unoccupied space within 5 feet of you.
-
-- While holding the device, you can spend 1 minute communing with the device to determine the probability of success for a specific action you plan to take within the next 30 minutes. This effect works like the *[[Rituals 1st–3rd Circle#Augury|augury]]* spell, except the device serves as the material component and isn’t consumed by the spell. You can use this aspect of the device a number of times equal to your PB, but this doesn’t prevent you from risking a random reading, as detailed in the spell. You regain all expended uses when you finish a long rest.
-
-- While holding the device, as a bonus action, you can consult with it to learn one of the following details about a creature within 30 feet of you that you can see: one of its resistances, one of its immunities, one of its vulnerabilities, or the damage type of one of its actions.
-
-- While holding the device, you have advantage on WIS (Survival) checks to predict the weather within the next 24 hours and to find your way in the wilderness.
-
-### Intricate Predictions
-
-*7th-Level Cog Augur Feature*
-
-You learn to upgrade your Auguring Device feature, which gains the following additional properties:
-
-- When you consult the device to learn a detail about a creature, you can now learn two pieces of information from that list.
-
-- When you use the weather prediction aspect of the device, you now have advantage on WIS (Survival) checks to predict the weather within the next 7 days.
-
-- While holding the device, you can spend 10 minutes communing with the device to learn details about current or future events or to learn the direction to a specific creature or object. These effects work like the *[[Rituals 4th–6th Circle#Divination|divination]]* or *[[Rituals 1st–3rd Circle#Locate|locate]]* spells, except the device serves as the material component and isn’t consumed by the spell. When you reach 11th-level in the mechanist class, you can use the **At Higher Circles** aspect of the *[[Rituals 1st–3rd Circle#Locate|locate]]* spell when using this aspect of the auguring device. You can use this aspect of the device a number of times equal to your PB, but this doesn’t prevent you from risking no answer, as detailed in the *[[Rituals 4th–6th Circle#Divination|divination]]* spell. You regain all expended uses when you finish a long rest.
-
-- While holding the device, you can’t be surprised, for it clicks and whirs warnings of danger.
-
-### Improved Divining
-
-*11th-Level Cog Augur Feature*
-
-You learn to adjust your Auguring Device feature’s calculations to reduce its chances of failure. When you use the *[[Rituals 1st–3rd Circle#Augury|augury]]* or *[[Rituals 4th–6th Circle#Divination|divination]]* aspects of the device, the chance of receiving a random answer or no answer, respectively, is a cumulative 10 percent instead of 25 percent. If the device is imbued with the Clairvoyant augment, you can choose for one of the targets to have advantage on all its attack rolls instead of only one.
-
-In addition, you can now spend 1 minute communing with your auguring device to find the shortest, most direct physical route to a location you are familiar with on the same plane of existence. This effect works like the *[[Rituals 4th–6th Circle#Find the Path|find the path]]* spell, except the device serves as the material component. Once you use this aspect of this feature, you can’t use it again until you finish a long rest.
-
-### Clarity of Vision
-
-*15th-Level Cog Augur Feature*
-
-You can spend 1 minute communing with the device of your Auguring Device feature, alongside one friendly creature within 5 feet of you, and imbue that creature with minor foresight. For 1 hour, the target gains one of the following benefits of its choice:
-
-- Any creature has disadvantage on the first attack roll it makes against the target each turn.
-
-- The target has advantage on all ability checks.
-
-- The target has advantage on all saves. You can use this feature on yourself instead. Once a creature has gained a benefit from this feature, it can’t benefit again until it finishes a long rest.
-
-## Grenadier
-
-%% source: Player's Guide 2 %%
-
-Mechanists who pursue the Grenadier’s craft are disciples of entropy, more interested in how things come apart than how they come together. Grenadiers expertly manipulate thermodynamic forces to blow away their foes and demolish terrain. Their explosive talents serve them well as master demolitionists, artillerists, and devastatingly effective opponents on the field of battle.
-
-*Grenadier Progression*
-
-| Mechanist Level | Features |
-|---|---|
-| 3rd | Arcane Grenades (1d8, 1/turn), Augment: Explosive |
-| 7th | Arcane Grenades (2d8, 2/turn), Controlled Blasts |
-| 11th | Advanced Modifications, Arcane Grenades (3d8) |
-| 15th | Arcane Grenades (4d8, 3/turn), Superior Firepower |
-
-### Arcane Grenades
-
-*3rd-Level Grenadier Feature*
-
-You have learned to construct potent magical devices called arcane grenades. As an action (counts as the Use an Object action), you can arm and throw an arcane grenade. Alternatively, when you take the Attack action, you can replace one of your attacks with the arming and throwing of a grenade. You must have at least one hand free to do so, and you can only use an arcane grenade once per turn. Given their unique nature, arcane grenades can’t be augmented.
-
-For the purposes of determining attack bonus and damage, an arcane grenade counts as a magic ranged weapon with a range of 20/60 feet and with which you are proficient. When making an attack roll with an arcane grenade, you can choose to use either your DEX or INT modifier to determine your attack bonus. On a hit, a grenade deals force damage equal to 1d8 + your INT modifier. Whether you hit or miss, a thrown grenade is destroyed on impact.
-
-The damage dealt by your arcane grenades increases as you gain levels in the mechanist class, dealing 2d8 at 7th level, 3d8 at 11th level, and 4d8 15th level.
-
-#### Grenade Modifications
-
-As part of the same action used to arm and throw a grenade (see Arcane Grenades feature), you can alter the properties of the grenade to create a special effect, applying one of the following modifications of your choice to it. Unless specified otherwise, a modified grenade still deals its standard damage in addition to any listed effects. A single grenade can’t have more than one modification, and you can use only one modified grenade per turn. If a modification requires a target to make a save, the DC for that save is the same as your augment save DC.
-
-You can modify grenades a number of times equal to your PB, and you regain all expended uses when you finish a short or long rest.
-
-***Dispersal Grenade.*** When you hit a creature with a dispersal grenade, the target takes only half your typical arcane grenade damage, and each creature within 10 feet of the target must succeed on a DEX save or take the same amount of damage.
-
-***Flash Grenade.*** You don’t make an attack roll when you throw a flash grenade, and it doesn’t deal damage. Instead, you throw the grenade at a point you can see within 30 feet of you. Each creature within 10 feet of that point must succeed on a CON save or be blinded for 1 minute. A creature blinded by a flash grenade can repeat the save at the end of each of its turns, ending the effect on itself on a success.
-
-***Kinetic Grenade.*** When you hit a Large or smaller creature with a kinetic grenade, the target takes the grenade’s standard damage and must succeed on a STR save or be pushed in a single direction of your choice up to a number of feet equal to 10 × your PB.
-
-***Smoke Grenade.*** You can choose to throw a smoke grenade at a target or at a point you can see within 30 feet of you. If thrown at a point, it doesn’t deal damage. After it hits a target or when it impacts the point you chose, the smoke grenade produces a 30-foot-radius sphere of thick smoke centered on the chosen point or the target’s current space. The smoke spreads around corners. A creature inside the smoke can’t see farther than 10 feet, and creatures outside the smoke can’t see creatures inside it. The sphere lasts for up to 1 minute or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
-
-### Augment
-
-*3rd-Level Grenadier Feature*
-
-You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table (see *Player’s Guide*).
-
-#### Augment: Explosive
-
-*Item Requirement: A Stationary Medium or Smaller Item that*
-
-*Isn’t Being Worn or Held* You imbue an item with the ability to release explosive magical energy when triggered. You decide what triggers the explosion when you first use this effect. The nature of the trigger is determined by you, but the most common triggers include touching the item, approaching within a certain distance of the item, or performing a specific interaction with an item—like specifying a chest will explode if opened. You can further refine the trigger, so the explosion occurs only under certain circumstances or according to a physical characteristic (such as height or weight) or creature type or category (such as specifying Aberrations or hags). You can also set conditions for creatures that don’t trigger the explosion, such as those who say a certain password.
-
-When triggered, the item erupts with explosive power, releasing magical energy in a 10-foot-radius sphere centered on the item. The energy spreads around corners. Each creature in the area must make a DEX save against your augment save DC. On a failed save, a creature takes a number of d6s equal to your PB + 1 (minimum of 3d6) of force damage. On a success, it takes half the damage. A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the explosion’s area.
-
-This explosion can trigger a number of times equal to your PB. The augmented item regains all expended triggers when you finish a long rest.
-
-***At Higher Levels.*** Once you reach 9th level in the mechanist class, you can choose to increase the item’s explosive area to a 20-foot-radius sphere.
-
-### Controlled Blasts
-
-*7th-Level Grenadier Feature*
-
-Your experience affords you greater control and precision with your Arcane Grenades feature. You gain the following benefits:
-
-- When you make a ranged weapon attack (including with your grenades), you don’t have disadvantage on the attack roll from being within 5 feet of a hostile creature, though you can still have disadvantage from other sources.
-
-- Whenever you deal damage or an effect, like a condition, with a nonmagical or magic item (including items you have augmented and your grenades), you can choose to make a number of friendly creatures equal to your PB immune to the damage or effect.
-
-- You are immune to all damage, conditions, and other negative effects caused by items you activate, including effects from your augments and arcane grenades.
-
-- You can now arm and throw up to two arcane grenades on your turn (though you are still restricted to only one modified grenade per turn).
-
-### Advanced Modifications
-
-*11th-Level Grenadier Feature*
-
-Your experiments with your Arcane Grenades feature lead you to more powerful modifications. Your existing modifications change in the following ways:
-
-- **Dispersal Grenade.** This grenade’s burst becomes more versatile. When you hit a creature with a dispersal grenade, the target takes the full damage instead of half the damage. In addition, you can choose for the burst to be concentrated or expanded. If you choose concentrated, each creature within 10 feet of the target must make a DEX save, taking the same damage the target took on a failed save or half as much damage on a successful one. If you choose expanded, each creature within 20 feet of the target must succeed on a DEX save or take half the damage the target took.
-
-- **Flash Grenade.** The flash grenade’s light can now sear those in the area. A creature that fails the save takes a number of d6s equal to your PB of radiant damage in addition to being blinded. A creature that succeeds on the save isn’t blinded, but it takes half the radiant damage.
-
-- **Kinetic Grenade.** The pushing power of this grenade is enhanced and can now push Huge or smaller creatures. If the target fails the save, it takes an extra 1d6 force damage for every 10 feet it is pushed. If the target succeeds on the save, it is pushed only half the distance and doesn’t take the extra force damage.
-
-- **Smoke Grenade.** The smoke produced by this grenade becomes noxious. A creature that starts its turn in the smoke must succeed on a CON save or take poison damage equal to twice your PB and be poisoned until it starts its turn outside of the smoke.
-
-In addition, you learn to create the following new modifications, which are available to you whenever you could modify a grenade.
-
-***Elemental Grenade.*** An elemental grenade is filled with the energy of one element of your choice: acid, cold, fire, lightning, or thunder. You don’t make an attack roll when you throw an elemental grenade, and it doesn’t deal standard damage. Instead, you throw the grenade at a point you can see within 30 feet of you. Each creature within 15 feet of that point must make a DEX save. On a failure, a creature takes a number of d6s equal to your PB of damage of the type you chose and then becomes vulnerable to that damage type until the end of its next turn. On a success, a creature takes half the damage and isn’t vulnerable. If the creature is normally resistant to that damage type, it instead loses that resistance. A creature immune to that damage type remains immune to it.
-
-***Phrenic Grenade.*** You infuse the grenade with psychic energy that shrieks into the minds of those nearby. When you hit a creature with a phrenic grenade, the target takes psychic damage instead of force damage, and the target and each creature within 10 feet of the target must succeed on a WIS save or be frightened of you for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.
-
-### Superior Firepower
-
-*15th-Level Grenadier Feature*
-
-Your ability to utilize your Arcane Grenades feature is unrivaled. You gain the following benefits:
-
-- Once per turn, when you miss an attack roll with your arcane grenade, you can choose to succeed instead. You can use this feature a number of times equal to your INT modifier, and you regain all expended uses when you finish a long rest.
-
-- The range of your arcane grenades increases to 40/80 feet. When throwing elemental, flash, or smoke grenades, you can now throw them at a point you can see within 40 feet of you.
-
-- When you score a critical hit with an attack with your unmodified arcane grenade and the attack reduces a creature to 0 HP, it is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a *[[Rituals 7th–9th Circle#True Resurrection|true resurrection]]* or *[[9th-Circle Spells#Wish|wish]]* spell. If the creature is destroyed, any magic items it was wearing or holding drop onto the ground in a space previously occupied by the creature.
-
-- You can now arm and throw up to three arcane grenades on your turn (though you are still restricted to one modified grenade per turn).
-
-## Toymaker
-
-%% source: Player's Guide 2 %%
-
-Toymakers are mechanists who revel in creating miniature replicas of animals and humans for their own entertainment, to help with various tasks, and to inflict a surprising hurt on their foes.
-
-*Toymaker Progression*
-
-| Mechanist Level | Features |
-|---|---|
-| 3rd | Augment: Messenger, Autonomous Toys |
-| 7th | Automated Power |
-| 11th | Eyes Everywhere |
-| 15th | Ultimate Toymaker |
-
-### Augment
-
-*3rd-Level Toymaker Feature*
-
-You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table (see *Player’s Guide*).
-
-#### Augment: Messenger
-
-*Item Requirement: Small or Smaller Item That Can Be Worn*
-
-*or Held* You imbue an item with the ability to emit sound. As an action while touching the item, you can activate it. As part of this same action, you can throw the item to a point you can see within 30 feet of you. The item can be activated a number of times equal to your PB, and you regain all expended uses when you finish a long rest. The activated item can produce only one of its effects, which you choose when you activate it.
-
-***Disruptive Noise.*** The object emits a sudden, disruptive noise, such as a high-pitched beep, a long whistle, or similar sudden, startling sound. Each creature within 10 feet of the item must succeed on a WIS save or be deafened until the end of its next turn. Any target concentrating on a spell or similar effect must also make a CON save against your augment save DC or lose concentration.
-
-***Master’s Voice.*** For 1 minute, you can speak through the item and hear sounds near the item as if you were in its space. When you speak through the item in this way, you can’t use your speech to activate magic items with command words, cast spells with verbal components, or similar. If this augment is on a toy, the toy can activate it at any distance from you, provided you are both on the same plane of existence, and you instantly become mentally aware that it has been activated.
-
-***At Higher Levels.*** Once you reach 5th level in the mechanist class, the Disruptive Noise effect can now affect creatures within 15 feet of the item, and the Master’s Voice effect can last up to 10 minutes. In addition, you can activate this item to translate spoken languages for up to 10 minutes. For the duration, the item repeats any languages spoken within 30 feet of it into a language of your choice, and the repetition can be audible or as a voice in your mind, which you decide when you activate the item.
-
-### Autonomous Toys
-
-*3rd-Level Toymaker Feature*
-
-You design and animate intricate Tiny objects that follow your instructions. During a long rest, you can create up to two autonomous toys in the shapes of animals. Each toy is modeled after a Small or smaller Beast (or creature with the Animal tag) of your choice that has a CR of 1/4 or lower. The toy uses the statistics of that creature, except it loses all traits and actions that assume it either has a living body, such as Amphibious, or possesses complex knowledge, such as Spellcasting. The toy’s type changes to Construct, its hit points are reduced by 13 percent, its INT is 5 (−3), it understands all languages you know but can’t speak, and it has darkvision to a range of 60 feet. The toy also gains the following traits:
-
-- **Construct Nature.** The toy doesn’t require air, food, drink, or sleep.
-
-- **Construct Resilience.** The toy is immune to poison and psychic damage, and it is immune to exhaustion and the charmed, frightened, paralyzed, petrified, and poisoned conditions.
-
-- **Immutable Form.** The toy is immune to any spell or effect that would alter its form. If a toy is reduced to 0 HP, it is destroyed. A toy can be augmented with any augment that can affect an item or object that doesn’t need to be worn, and a toy can be augmented with the Detecting augment (see *Player’s Guide*), treating itself as both the augmented item and the “you” receiving the benefit. A toy can be augmented with any augment that can be applied to a weapon, but the augment applies to the toy’s weapon attacks. Starting at 5th level, you can have any number of toys under your control, provided the combined total CR of the toys is no higher than half your level in the mechanist class (rounded down). Toys with a CR of 0 are considered to have a CR of 1/8 for the purpose of this calculation.
-
-#### Commanding Toys
-
-As a bonus action, you can command any number of your toys within 60 feet that can see or hear you to move up to their speeds. As part of that same bonus action, you can command a number of toys up to your PB that can see or hear you to attack a creature within 5 feet of it or to perform one of the following tasks:
-
-- **Activate Augment.** The toy activates an augment on it that requires activation, using your augment save DC when necessary. If the augment’s activation directly affects you or doesn’t make sense to come from the augmented item itself, such as the Returning augment, the “you” in the augment’s description is you instead of the toy.
-
-- **Assist Ally.** The toy assists one friendly creature it can see within 5 feet of it. The target gains a +1 bonus on the next ability check it makes before the start of your next turn. If you command more than one toy to assist a creature in this way, the bonuses are cumulative, up to a maximum bonus on the check equal to your PB.
-
-- **Distract Enemy.** The toy distracts one hostile creature it can see within 5 feet of it, pecking at its eyes, hopping around its legs, or performing some other distracting activity. The next attack roll against that creature before the start of your next turn has advantage.
-
-- **Protect Ally.** The toy protects one friendly creature it can see within 5 feet of it, leaping in the way of incoming attacks, nudging the creature out of the way of a blow, and similar. The next attack roll against that creature before the start of your next turn has disadvantage. If the attack still hits, and the creature is within 5 feet of the toy, the toy takes up to half the damage, reducing the damage the target takes. The toy can’t take more damage than its current hit point total.
-
-### Automated Power
-
-*7th-Level Toymaker Feature*
-
-The toys from your Autonomous Toys feature gain a bonus to their saves and to their ACs equal to your PB, and when one of your toys is destroyed while within 30 feet of you, you become empowered until the end of your next turn. While empowered, you have advantage on attack rolls and saves.
-
-In addition, a friendly creature that makes an attack roll against a creature within 5 feet of a toy gains a +1 bonus to the attack roll for each toy within 5 feet of that creature, up to a maximum of +3. A friendly creature within 10 feet of at least two toys increases its AC by 1 for every two toys within 10 feet of it, up to a maximum of +3.
-
-### Eyes Everywhere
-
-*11th-Level Toymaker Feature*
-
-While you are within 10 feet of at least two of the toys from your Autonomous Toys feature, you have advantage on WIS (Perception) checks and can’t be surprised.
-
-In addition, you can now create toys during a short or long rest, and the toys can be modeled after Beasts (or creatures with the Animal tag) that have a CR up to 1.
-
-### Ultimate Toymaker
-
-*15th-Level Toymaker Feature*
-
-Your maximum number of augmented items (see Augment feature in *Player’s Guide*) increases by 3, but these extra augments must be on toys from your Autonomous Toys feature. A toy can have up to two augments on it at one time. As normal, multiple instances of one augment aren’t cumulative on the toy.
-
-In addition, the toys you create can now be modeled after Beasts (or creatures with the Animal tag) that are Medium or smaller and that have a CR up to 2.
-
-## Labyrinth Mechanist Subclasses
-
-%% source: Labyrinth Worldbook %%
-
-At 3rd level, a mechanist gains the Mechanist Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Tinker.
 
 ## Tinker
 
@@ -1016,201 +1104,86 @@ While in an overdrive state, the clockwork companion gains the following:
 
 - The companion gains an additional action on each of its turns. That action can be used to take only the Attack (one attack only) or Dash action.
 
-## Book of Blades Mechanist Subclasses
+## Toymaker
 
-%% source: Book of Blades %%
+%% source: Player's Guide 2 %%
 
-When you choose your mechanist subclass, the following subclasses from *[[Book of Blades]]* are also available: Clockmaker and Fleshsmith.
+Toymakers are mechanists who revel in creating miniature replicas of animals and humans for their own entertainment, to help with various tasks, and to inflict a surprising hurt on their foes.
 
-## Clockmaker
-
-%% source: Book of Blades %%
-
-The clockmaker is a master crafter whose timepiece does more than keep track of the passing hours. With it, the Clockmaker controls time itself. By winding their watch, they can give themselves more time or take time away from their enemies. A clockmaker can even freeze enemies in place with specially prepared traps.
-
-**Clockmaker Progression**
+*Toymaker Progression*
 
 | Mechanist Level | Features |
 |---|---|
-| 3rd | Augment: Countdown, Timepiece |
-| 7th | Advanced Timepiece |
-| 11th | Stasis Trap |
-| 15th | Master Timepiece |
+| 3rd | Augment: Messenger, Autonomous Toys |
+| 7th | Automated Power |
+| 11th | Eyes Everywhere |
+| 15th | Ultimate Toymaker |
 
-### Augment: Count Down
+### Augment
 
-*3rd-Level Clockmaker Feature*
+*3rd-Level Toymaker Feature*
 
-You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table.
+You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table (see *Player’s Guide*).
 
-> Count Down
+#### Augment: Messenger
 
-*Item Requirement: Medium or Smaller Magic Item that Is*
+*Item Requirement: Small or Smaller Item That Can Be Worn*
 
-*Worn or Carried*
+*or Held* You imbue an item with the ability to emit sound. As an action while touching the item, you can activate it. As part of this same action, you can throw the item to a point you can see within 30 feet of you. The item can be activated a number of times equal to your PB, and you regain all expended uses when you finish a long rest. The activated item can produce only one of its effects, which you choose when you activate it.
 
-You imbue a magic item with a countdown of any length of time. At the end of the countdown, one of the magic item’s effects (your choice) triggers. When you set the countdown, you choose the duration. The effect targets the creature carrying or wearing the item. If the effect targets an area, the area of effect is centered on the creature. You can touch the item and use an action to change or cancel the item’s countdown.
+***Disruptive Noise.*** The object emits a sudden, disruptive noise, such as a high-pitched beep, a long whistle, or similar sudden, startling sound. Each creature within 10 feet of the item must succeed on a WIS save or be deafened until the end of its next turn. Any target concentrating on a spell or similar effect must also make a CON save against your augment save DC or lose concentration.
 
-### Timepiece
+***Master’s Voice.*** For 1 minute, you can speak through the item and hear sounds near the item as if you were in its space. When you speak through the item in this way, you can’t use your speech to activate magic items with command words, cast spells with verbal components, or similar. If this augment is on a toy, the toy can activate it at any distance from you, provided you are both on the same plane of existence, and you instantly become mentally aware that it has been activated.
 
-*3rd-Level Clockmaker Feature*
+***At Higher Levels.*** Once you reach 5th level in the mechanist class, the Disruptive Noise effect can now affect creatures within 15 feet of the item, and the Master’s Voice effect can last up to 10 minutes. In addition, you can activate this item to translate spoken languages for up to 10 minutes. For the duration, the item repeats any languages spoken within 30 feet of it into a language of your choice, and the repetition can be audible or as a voice in your mind, which you decide when you activate the item.
 
-You create a small clockwork device as a focus for your clockwork abilities. This device always keeps perfect time on the Material Plane. While holding your timepiece in one hand, you gain the following:
+### Autonomous Toys
 
-- ***Spellcasting.*** The timepiece can be used as an arcane focus for the spells that you learn from this subclass. You learn the spells *pendulum* and *hold* and can cast them using your timepiece without expending spell slots. Once you cast a spell with your timepiece, you must finish a long rest before you can cast a spell with it again. INT is your spellcasting ability. Your INT modifier determines the save DC or the attack modifier for your timepiece spells:
+*3rd-Level Toymaker Feature*
 
-- **Spell save DC** = 8 + your PB + your INT modifier
-- **Spell attack modifier** = your PB + your INT modifier 
-- ***Double Time.*** On your turn, you can double your speed until the start of your next turn. When you use this feature, you gain temporary hit points equal to 1d6 + your INT modifier. You must finish a short or long rest before you can use this feature again.
+You design and animate intricate Tiny objects that follow your instructions. During a long rest, you can create up to two autonomous toys in the shapes of animals. Each toy is modeled after a Small or smaller Beast (or creature with the Animal tag) of your choice that has a CR of 1/4 or lower. The toy uses the statistics of that creature, except it loses all traits and actions that assume it either has a living body, such as Amphibious, or possesses complex knowledge, such as Spellcasting. The toy’s type changes to Construct, its hit points are reduced by 13 percent, its INT is 5 (−3), it understands all languages you know but can’t speak, and it has darkvision to a range of 60 feet. The toy also gains the following traits:
 
-### Advanced Timepiece
+- **Construct Nature.** The toy doesn’t require air, food, drink, or sleep.
 
-*7th-Level Clockmaker Feature*
+- **Construct Resilience.** The toy is immune to poison and psychic damage, and it is immune to exhaustion and the charmed, frightened, paralyzed, petrified, and poisoned conditions.
 
-You add more intricate clockworks to your timepiece, improving and expanding its capabilities. You gain the following benefits:
+- **Immutable Form.** The toy is immune to any spell or effect that would alter its form. If a toy is reduced to 0 HP, it is destroyed. A toy can be augmented with any augment that can affect an item or object that doesn’t need to be worn, and a toy can be augmented with the Detecting augment (see *Player’s Guide*), treating itself as both the augmented item and the “you” receiving the benefit. A toy can be augmented with any augment that can be applied to a weapon, but the augment applies to the toy’s weapon attacks. Starting at 5th level, you can have any number of toys under your control, provided the combined total CR of the toys is no higher than half your level in the mechanist class (rounded down). Toys with a CR of 0 are considered to have a CR of 1/8 for the purpose of this calculation.
 
-- ***Forewarned.*** While holding your timepiece in one hand, add your INT modifier to initiative rolls.
+#### Commanding Toys
 
-- ***Spellcasting.*** Add *haste* and *slow* to the list of spells that you can cast with your timepiece without expending spell slots. You can now use your timepiece to cast any spell gained from this subclass two times until you finish a long rest.
+As a bonus action, you can command any number of your toys within 60 feet that can see or hear you to move up to their speeds. As part of that same bonus action, you can command a number of toys up to your PB that can see or hear you to attack a creature within 5 feet of it or to perform one of the following tasks:
 
-- ***Extra Time.*** You expand your mastery over time. You can gain an additional bonus action on your turn. You must finish a short or long rest before you can use this feature again.
+- **Activate Augment.** The toy activates an augment on it that requires activation, using your augment save DC when necessary. If the augment’s activation directly affects you or doesn’t make sense to come from the augmented item itself, such as the Returning augment, the “you” in the augment’s description is you instead of the toy.
 
-### Stasis Trap
+- **Assist Ally.** The toy assists one friendly creature it can see within 5 feet of it. The target gains a +1 bonus on the next ability check it makes before the start of your next turn. If you command more than one toy to assist a creature in this way, the bonuses are cumulative, up to a maximum bonus on the check equal to your PB.
 
-*11th-Level Clockmaker Feature*
+- **Distract Enemy.** The toy distracts one hostile creature it can see within 5 feet of it, pecking at its eyes, hopping around its legs, or performing some other distracting activity. The next attack roll against that creature before the start of your next turn has advantage.
 
-You freeze a moment of time inside a clockwork cog the size of a button. Creating a stasis trap takes 10 minutes and can be done as part of a short or long rest. You can have a maximum number of stasis traps active at once equal to your PB.
+- **Protect Ally.** The toy protects one friendly creature it can see within 5 feet of it, leaping in the way of incoming attacks, nudging the creature out of the way of a blow, and similar. The next attack roll against that creature before the start of your next turn has disadvantage. If the attack still hits, and the creature is within 5 feet of the toy, the toy takes up to half the damage, reducing the damage the target takes. The toy can’t take more damage than its current hit point total.
 
-You can place the stasis trap where a creature might step on it or throw it as a ranged attack with a range of 30 feet. Seeing a hidden stasis trap requires a successful WIS (Perception) check with a DC equal to your spell save DC.
+### Automated Power
 
-When a creature steps on, touches, or is hit by a stasis trap, it must succeed on a CON save equal to your spell save DC or be paralyzed for 1 minute. At the end of each of the target’s turns, it can repeat the save, ending the effect on itself on a success. If the creature fails its CON save at the end of its turn, it suffers a secondary effect chosen by you when the stasis trap was created:
+*7th-Level Toymaker Feature*
 
-- The target takes 1d6 + your INT modifier force damage.
+The toys from your Autonomous Toys feature gain a bonus to their saves and to their ACs equal to your PB, and when one of your toys is destroyed while within 30 feet of you, you become empowered until the end of your next turn. While empowered, you have advantage on attack rolls and saves.
 
-- You learn one thing of your choice about the creature: type, resistances, immunities, vulnerabilities, or special attacks.
+In addition, a friendly creature that makes an attack roll against a creature within 5 feet of a toy gains a +1 bonus to the attack roll for each toy within 5 feet of that creature, up to a maximum of +3. A friendly creature within 10 feet of at least two toys increases its AC by 1 for every two toys within 10 feet of it, up to a maximum of +3.
 
-- Time within a 20-foot radius slows. Creatures in the area halve their speed, take a −2 penalty to AC and DEX saves, and can’t use reactions.
+### Eyes Everywhere
 
-### Master Timepiece
+*11th-Level Toymaker Feature*
 
-*15th-Level Clockmaker Feature*
+While you are within 10 feet of at least two of the toys from your Autonomous Toys feature, you have advantage on WIS (Perception) checks and can’t be surprised.
 
-You achieve mastery over your timepiece and expand its abilities even further. You gain the following benefits:
+In addition, you can now create toys during a short or long rest, and the toys can be modeled after Beasts (or creatures with the Animal tag) that have a CR up to 1.
 
-- ***Accelerated Attacks.*** Your attacks move faster and hit harder. Your melee and ranged weapon attacks deal an extra 2d6 force damage.
+### Ultimate Toymaker
 
-- ***Spellcasting.*** Add *foresight* and *time stop* to your list of spells that you can cast using your timepiece.
+*15th-Level Toymaker Feature*
 
-- ***Extra Time.*** You fully master time between seconds.
+Your maximum number of augmented items (see Augment feature in *Player’s Guide*) increases by 3, but these extra augments must be on toys from your Autonomous Toys feature. A toy can have up to two augments on it at one time. As normal, multiple instances of one augment aren’t cumulative on the toy.
 
-You can gain an additional action on your turn. You must finish a short or long rest before you can use this feature again.
-
-## Fleshsmith
-
-%% source: Book of Blades %%
-
-Other mechanists create objects of stone and steel; things that are worn, carried, or constructed. For a few though, flesh is the clay of creation and from which they coax new growths or bind creations with other living things.
-
-Depending on their background, a Fleshsmith might grow magical vines from their skin, bind the dermis of an eldritch horror to their body, or use twisted eldritch science to graft parts of the dead. They are most known for their flesh-forged servitor, an organic construct that can be imbued with augmentations.
-
-**Fleshsmith Progression**
-
-| Mechanist Level | Features |
-|---|---|
-| 3rd | Augment: Shape Flesh, Flesh-Forged Servitor |
-| 7th | Augment |
-| 11th | Absorb Servitor |
-| 15th | Flawless Servitor |
-
-### Augment: Shape Flesh
-
-*3rd-Level Fleshsmith Feature*
-
-You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table.
-
-> Shape Flesh
-
-*Item Requirement: Your Body or the Body of Your Flesh-Forged Servitor*
-
-You twist and shape the flesh of your body or that of your flesh-forged servitor. You improve the target body by binding organic material to it. Choose one of these benefits:
-
-- By enhancing muscles, you add your INT modifier to the target’s melee weapon attack damage. The damage type is the same as that normally done by the weapon.
-
-- By adding organs to increase durability, you add twice your INT modifier to the target’s hit points and hit point maximum.
-
-- By attaching thick hide or chitin, add your INT modifier to the target’s AC as long as it is wearing no armor.
-
-### Flesh-Forged Servitor
-
-*3rd-Level Fleshsmith Feature*
-
-You sculpt a Small minion out of organic material. Your new servitor takes an appearance chosen by you, but always bears traces of the source material. It might be plant-, animal-, or abomination-based. Construction of your servitor requires a minimum of 100 pounds of material, 1 hour of uninterrupted time, and alchemist tools.
-
-In combat, your flesh-forged servitor shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any commands, it takes the Dodge action and uses its move to avoid danger.
-
-Your fservitor has a d6 for hit dice. It has a number of hit dice equal to your mechanist level. It can expend these hit dice to recover hit points during a short rest just as a PC would. It recovers all hit points during a long rest.
-> [!note] Flesh-Forged Servitor
-> *Small Construct*
-> **Armor Class** 10 + your PB (natural armor)
-> **Hit Points** 5 × your mechanist level (the flesh-forged servitor has a number of d6 hit dice equal to your mechanist level)
-> **Speed** 30 ft.
-> **Perception** 11	**Stealth** 10
-> **Senses** —
-> **Languages** All languages known by its creator
-> 
-> | STR | DEX | CON | INT | WIS | CHA |
-> |---|---|---|---|---|---|
-> | +1 | +0 | +0 | +0 | +1 | +1 |
-> 
-> ***Receptive Clay.*** In addition to augments that list Living Body (Fleshsmiths Only) as an item requirement, the following augments can also be imbued onto the servitor’s body: detecting, empowered, phosphorescent, propulsion, protean, reinforced, and repellant.
-> 
-> **Actions**
-> 
-> ***Slam.*** *Melee Weapon Attack:* +1 + your PB to hit, reach 5 ft., one target. *Hit:* 4 + your PB (1d6 + 1 + your PB) bludgeoning damage.
-
-### Cr —
-
-### Augment: Graft
-
-*7th-Level Fleshsmith Feature*
-
-You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table.
-
-> Graft
-
-*Item Requirement: Your Body, the Body of Your Flesh-Forged Servitor, or Other Willing Body*
-
-You graft a body part to your own body or that of a willing host. This graft lasts until the target completes a long rest, at which point it molts off. Choose one of these benefits:
-
-- ***Acidic Blood.*** You transfuse the target’s blood with acid. This does no harm to the target, but when the target takes damage from a melee attack, the attacker takes 1d4 + your INT modifier acid damage.
-
-- ***Dermal Plates.*** The target gains a +4 bonus to AC as long as they are not wearing armor.
-
-- ***Digestion Augmentation.*** The target does not need to eat or drink as long as it has access to an unusual sustenance of your devising, such as sunshine, rusted metal, or small rocks.
-
-- ***Eye in the Back of Your Head.*** The target cannot be surprised.
-
-- ***Spine Projector.*** You graft a spine-covered bud onto the target. The bud contains a number of spines equal to your INT modifier. As a bonus action, the target can fire a spine as a ranged weapon attack with a range of 100 feet. Each spine deals 1d6 + the target’s DEX modifier piercing damage. The spines regenerate when the target finishes a short rest.
-
-- ***Third Arm.*** You graft a third limb onto the target. This limb is strong enough to wield a weapon with the Light property. When wielding three Light weapons and the target takes a bonus action to attack with two-weapon fighting, it can choose to make attacks with its third hand, leaving a hand free to wield a shield, a spell focus, or any other one-handed object.
-
-### Absorb Servitor
-
-*11th-Level Fleshsmith Feature*
-
-As an action while adjacent to your flesh-forged servitor, you can absorb it into your body, destroying it. You immediately regain hit points equal to its current hit points. You are cleansed of blindness, deafness, diseases, and poisons. If your flesh-forged servitor was imbued with an augmentation, you can choose to have that augment be instantly imbued into you.
-
-### Flawless Servitor
-
-*15th-Level Fleshsmith Feature*
-
-You have discovered new ways to improve your flesh-forged servitor. Your servitor gains the following benefits:
-
-- Your flesh-forged servitor can be affected by two augments at the same time.
-
-- The servitor gains the Multiattack feature and can make three attacks with its slam when it uses Multiattack.
-
-- The damage of its slam attack increases to 3d6 + 1 + your PB bludgeoning damage.
+In addition, the toys you create can now be modeled after Beasts (or creatures with the Animal tag) that are Medium or smaller and that have a CR up to 2.
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

@@ -206,9 +206,15 @@ You can use this feature a number of times equal to your PB and regain all uses 
 
 Your commitment to the ranger’s path grants you a powerful new ability. Choose one of the following heroic boons:
 
+- **Cat’s Pride.** All your movement speeds increase by 10 feet, and you ignore bludgeoning damage caused by falling. In addition, as a bonus action, you can now take the Dash action.
+
 - **Path of the Predator.** When you roll initiative, you can expend a use of Mystic Mark to automatically mark one creature you can see, no attack required. In addition, if a marked creature is reduced to 0 HP, you can use your reaction to transfer the mark to a different creature you can see within 60 feet of the original target.
 
 - **Path of the Sage.** You learn two cantrips of your choice from the Primordial spell list. You also learn two ritual spells of your choice from the Primordial spell list. Both ritual spells must be from circles you have spell slots for, as shown on the **Ranger Progression** table. Ritual spells learned this way don't count against your total number of spells known. WIS is your spellcasting ability for cantrips and ritual spells learned in this way. When you gain a level of ranger, you can replace one of these cantrips and one of these rituals with another cantrip or ritual spell from the Primordial spell list, as long as the replacement ritual spell is still of a circle you have spell slots for.
+
+- **Salamander’s Renewal.** If you start your turn with at least 1 HP but below your hit point maximum, you gain 1d10 + your CON modifier temporary hit points. If you start your turn with any number of temporary hit points, you automatically recover hit points equal to the number of temporary HP you have (up to your hit point maximum). In addition, if any of your limbs or nonvital body parts are severed (such as a finger, leg, tail, or similar), they grow back and become fully functional after 24 hours.
+
+%% source: Player's Guide 2: Cat’s Pride, Salamander’s Renewal %%
 
 ### Keensense
 
@@ -226,13 +232,245 @@ Your movement never provokes opportunity attacks, and you have advantage on any 
 
 *20th-Level Ranger Feature*
 
-Your commitment to the ranger’s path grants you a powerful new ability. You gain the following epic boon:
+Your commitment to the ranger’s path grants you a powerful new ability. You gain one of the following epic boons:
+
+- **Deadeye.** The extra damage dealt by your Mystic Mark feature (see *Player’s Guide*) becomes a d12, and you can now use your Mystic Mark an unlimited number of times.
 
 - **Foe Slayer.** You can add your WIS modifier to either the attack roll or the damage roll of each attack you make against a creature marked by your Mystic Mark on your turn.
+
+- **Ghost Step.** You can now activate your Stalker’s Step feature (see *Player’s Guide*) at any time, regardless of current environment, lighting conditions, and obscurement, and the invisibility granted by the feature lasts up to 1 minute (though it still ends early if you attack or cast a spell). As part of the bonus action used to become invisible, and as a bonus action on any subsequent turns you remain invisible, you can teleport up to 30 feet to an unoccupied space you can see.
+
+%% source: Player's Guide 2: Deadeye, Ghost Step %%
 
 ## Ranger Subclasses
 
 As a ranger fosters their skills, they gain new abilities that reflect their deepening relationship with the natural world. Your choice of subclass represents the way your connection to the Primordial manifests.
+
+| Subclass | Suits |
+|---|---|
+| [[#Arrow Binder\|Arrow Binder]] | Any character |
+| [[#Griffon Scout\|Griffon Scout]] | The [[The Margreve\|Margreve]] forest |
+| [[#Grove Warden\|Grove Warden]] | The [[The Margreve\|Margreve]] forest |
+| [[#Hunter\|Hunter]] | Any character |
+| [[#Pack Master\|Pack Master]] | Any character |
+| [[#Peerless Scout\|Peerless Scout]] | Any character |
+| [[#Shadow\|Shadow]] | Any character |
+| [[#Spear of the Weald\|Spear of the Weald]] | The [[The Margreve\|Margreve]] forest |
+| [[#Trailblazer\|Trailblazer]] | Any character |
+| [[#Waysmith\|Waysmith]] | The [[The Labyrinth\|Labyrinth]] |
+| [[#Windsworn\|Windsworn]] | Any character |
+
+## Arrow Binder
+
+%% source: Player's Guide 2 %%
+
+Arrow binders are rangers who have melded their mastery of the wilds with their mastery of the bow. They channel primordial magic into their ammunition, unleashing spell and shot as one to defend the natural world from those that would despoil it. While most Arrow Binder rangers prefer bows, some swear by crossbows or will use slings in a pinch.
+
+|   |   |
+|---|---|
+| Arrow Binder Progression |  |
+| 3rd | Arrow Binder Calling Spells, Bind Spell, Trickster’s Quiver |
+| 7th | Arrow Dance |
+| 11th | Master’s Quiver |
+| 15th | Counterfire |
+
+**Ranger Level Features**
+
+### Arrow Binder Calling Spells
+
+*3rd-Level Arrow Binder Feature*
+
+You gain calling spells at the ranger levels listed in the **Arrow Binder Calling Spells** table. See the Ranger Subclass class feature in the *Player’s Guide* for how these spells work.
+
+*Arrow Binder Calling Spells*
+
+| Ranger Level | Spells |
+|---|---|
+| 3rd | grease |
+| 5th | thunderburst* |
+| 9th | stinger spray* |
+| 13th | blight |
+| 15th | cloudkill |
+
+### Bind Spell
+
+*3rd-Level Arrow Binder Feature*
+
+As an action, you can expend a spell slot to cast a Primordial spell you know into a ranged weapon you are holding and with which you are proficient. The spell isn’t cast but is instead bound into that weapon for 1 hour. You can have only one weapon bound in this way at a time. If you bind another, the spell in the previous weapon fades, and you don’t regain the expended spell slot. When you bind a spell into a ranged weapon, the spell must have a casting time of 1 action or 1 bonus action, can’t have a range of Self, and must target a single creature or affect an area. For example, you can bind the *[[1st-Circle Spells#Entangle|entangle]]* spell to a shortbow, but you can’t bind the *[[4th-Circle Spells#Giant Insect|giant insect]]* spell to it.
+
+When you hit a target with a ranged attack using the bound ranged weapon, as a bonus action, you can activate the spell bound to it, ending the binding effect and causing the spell’s effect to trigger. The target of the attack becomes the target of the spell, making any saves as normal. If the spell affects an area, the spell’s effect is centered on a point of your choice within the target’s space.
+
+While you have a spell bound into a ranged weapon, ranged attacks you make with that weapon count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+### Trickster’s Quiver
+
+*3rd-Level Arrow Binder Feature*
+
+You imbue your ammunition with primordial magic as you fire. Once on your turn, when you hit a creature marked by your Mystic Mark feature (see *Player’s Guide*) with a ranged weapon attack, you can cause one of the following effects:
+
+- **Frost Shot.** The target’s speed is reduced by 10 feet until the end of its next turn.
+
+- **Shock Shot.** The target can’t take reactions until the start of its next turn.
+
+- **Venom Shot.** The attack deals poison damage instead of its normal damage, and the target is poisoned until the end of its next turn.
+
+### Arrow Dance
+
+*7th-Level Arrow Binder Feature*
+
+When you make a ranged weapon attack roll, you don’t have disadvantage on the attack roll from being within 5 feet of a hostile creature, though you can still have disadvantage from other sources. When you hit a creature within 5 feet of you with a ranged weapon attack, it can’t make opportunity attacks against you until the end of your turn.
+
+### Master’s Quiver
+
+*11th-Level Arrow Binder Feature*
+
+You can now bind a spell into your ranged weapon as a bonus action instead of an action, and activating a bound spell after you hit a target with a ranged weapon attack now requires no action. You can now also use your Trickster’s Quiver feature against any creature you hit, not only creatures marked with your Mystic Mark, but you still use it only once on your turn.
+
+In addition, as an action, you can fire ammunition with your ranged weapon at a point you can see within your weapon’s range and cause one of the following effects instead of dealing damage:
+
+- **Paw Shot.** Your shot interacts with an item within 1 foot of that point as if you had taken the Use an Object action on that item.
+
+- **Smoke Shot.** A 5-foot-radius sphere of smoke appears centered on that point. The smoke spreads around corners, and its area is heavily obscured. The smoke dissipates at the start of your next turn.
+
+- **Vine Shot.** A rope-like vine is now anchored to that point. The vine has the statistics of a 100-foot length of rope and disappears after 1 hour. If you are within 100 feet of that point, you can choose for the other end of the vine to appear in your empty hand or be anchored on a point you can see within 5 feet of you. Otherwise, the vine’s length lies curled or dangling from the point where it appeared. You can make a vine in this way a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+
+### Counterfire
+
+*15th-Level Arrow Binder Feature*
+
+When a creature you can see hits you with a ranged attack, you can make one ranged weapon attack against that creature, provided you are wielding the ranged weapon and the attacker is within your weapon’s normal range. If you have a spell bound into your ranged weapon, you have advantage on the attack roll.
+
+## Griffon Scout
+
+%% source: Tales of the Old Margreve %%
+
+[[Elves]] of the forested woodlands and mountain foothills often uphold the tradition of taming and riding griffons, living on the same windswept crags where griffons nest, thus giving themselves the ability to command vast tracts of woodland territory. Trained by elf veterans and beast tamers, rangers of the Griffon Scout subclass learn to move swiftly and stealthily both on foot and while mounted, gathering information on their enemies and mounting devastating hit-and-run raids with precision and coordination.
+
+*Griffon Scout Progression*
+
+| Ranger Level | Features |
+|---|---|
+| 3rd | Griffon Scout Calling Spells, Mounted Scout, Skirmisher's Step |
+| 7th | Griffon Wings |
+| 11th | Coordinated Strikes |
+| 15th | Strike and Fade |
+
+### Griffon Scout Calling Spells
+
+*3rd-Level Griffon Scout Feature*
+
+You gain ring spells at the ranger levels listed in the Griffon Scout Calling Spells table. See the Ranger Subclass class feature for how these spells work.
+
+*Griffon Calling Spells*
+
+| Ranger Level | Spells |
+|---|---|
+| 3rd | *[[1st-Circle Spells#Feather Fall\|feather fall]]* |
+| 5th | *[[2nd-Circle Spells#Alter Self\|alter self]]* |
+| 9th | *[[3rd-Circle Spells#Haste\|haste]]* |
+| 13th | *[[4th-Circle Spells#Greater Invisibility\|greater invisibility]]* |
+| 17th | *[[5th-Circle Spells#Telepathic Bond\|telepathic bond]]* |
+
+### Mounted Scout
+
+*3rd-Level Griffon Scout Feature*
+
+Mounting and dismounted costs you only 5 feet of movement rather than half your speed. While mounted, you have advantage on WIS (Perception) checks, and your DEX (Stealth) checks apply to both you and your mount.
+
+### Skirmisher's Step
+
+*3rd-Level Griffon Scout Feature*
+
+When you move at least 20 feet straight toward a creature and hit it with a melee weapon attack in the same turn, that attack deals extra damage. The extra damage is equal to the amount your Mystic Mark feature deals at your level and is of the same damage type as the weapon. You can deal this extra damage only once per turn.
+
+If you move out of the target's reach before the end of your next turn, whether you are mounted or not, you don't provoke an opportunity attack from the target.
+
+### Griffon Wings
+
+*7th-Level Griffon Scout Feature*
+
+You learn the find steed ritual. The mount you summon can be one of the options presented in that spell or a young griffon, which uses the statistics of a tiger with a flying speed of 20 feet. If you summon a young griffon, its type is always Fey.
+
+When you reach 11th level in this class, the mount you summon can be a full-grown griffon, which uses the statistics of a griffon, except its type is Fey.
+
+### Coordinated Strikes
+
+*11th-Level Griffon Scout Feature*
+
+You can deliver punishing flurries of attacks in perfect coordination with your allies. When one of your allies hits a target you can see within 30 feet of you with an attack, you can use your reaction to make one weapon attack against that target, provided the target is within range of a weapon you are wielding.
+
+### Strike and Fade
+
+*15th-Level Griffon Scout Feature*
+
+When you move at least 20 feet during your turn, whether you are mounted or not, you become an evasive blur. Until the start of your next turn, a creature that attacks you or your mount has disadvantage on the first attack roll it makes against you or your mount.
+
+## Grove Warden
+
+%% source: Tales of the Old Margreve %%
+
+Fiercely protective of their territory, alseid herds form close bonds with their home forests. In return for their diligent protection, the forests offered their blessings to dedicated alseid rangers. These rangers learned to pass this connection to the land down to other rangers, who have expanded this knowledge to connect with any land with natural growth. Grove Wardens can tap into the subtle magic within the land itself, calling on it to help the ranger protect the wilds and themselves. Grove Wardens are dedicated to using martial might to keep the land safe from otherworldly dangers and those who would despoil it.
+
+*Grove Warden Progression*
+
+| Ranger Level | Features |
+|---|---|
+| 3rd | Grove Warden Calling Spells, Whispers of the Land, Land's Aid |
+| 7th | Intruder's Bane |
+| 11th | Living Bulwark |
+| 15th | Wrath of the Land |
+
+### Grove Warden Calling Spells
+
+*3rd-Level Grove Warden Feature*
+
+You gain ring spells at the ranger levels listed in the Grove Warden Calling Spells table. See the Ranger Subclass class feature for how these spells work.
+
+*Grove Warden Calling Spells*
+
+| Ranger Level | Spells |
+|---|---|
+| 3rd | *[[1st-Circle Spells#Entangle\|entangle]]* |
+| 5th | *[[2nd-Circle Spells#Branding Smite\|branding smite]]* |
+| 9th | *[[3rd-Circle Spells#Speak with Plants\|speak with plants]]* |
+| 13th | *[[4th-Circle Spells#Elemental Shield\|elemental shield]]* |
+| 17th | *[[5th-Circle Spells#Animate Objects\|animate objects]]* |
+
+### Whispers of the Land
+
+*3rd-Level Grove Warden Feature*
+
+Your senses are attuned to the natural world around you, always noting the subtle changes in the feel of the wind, the sounds of animals, and the smell of plants. You gain a bonus to initiative rolls equal to your PB.
+
+In addition, while you are conscious and within 5 feet of vegetation such as a bush or tree or a patch of grass or fungi, you can't be surprised.
+
+### Land's Aid
+
+*3rd-Level Grove Warden Feature*
+
+You can magically draw on the living essence of the land to come to your aid. As a bonus action, choose one creature you can see within 60 feet of you that is on the ground or within 15 feet of vegetation, such as a tree or patch of fungi. Your next weapon attack against that creature has advantage. If that attack hits, the creature's speed is reduced by 10 feet until the start of your next turn, as vines, mud, and other natural phenomena briefly cling to the creature. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+
+When you reach 11th level in this class, if that attack hits, the creature's speed is instead halved until the start of your next turn.
+
+### Intruder's Bane
+
+*7th-Level Grove Warden Feature*
+
+You can call on the land around you to hamper your foes. As a bonus action, choose a point you can see on the ground within 60 feet. The area within 15 feet of that point undulates and warps. Each creature on the ground or within 5 feet of vegetation, such as a tree or patch of fungi, in the area must succeed on a DEX save against your spell save DC or be pushed up to 15 feet in a direction of your choice and knocked prone. Once you use this feature, you can't use it again until you finish a short or long rest.
+
+### Living Bulwark
+
+*11th-Level Grove Warden Feature*
+
+The land around you comes to your aid when you are in danger, interposing rocks, branches, vines, roots, or even the ground itself between you and your foes. When a creature you can see targets you with an attack, you can use your reaction to call on the land to increase your AC by an amount equal to a die roll against that attack, potentially negating the attack. The type of die you roll is the same as the die you roll when using your Mystic Mark feature.
+
+### Wrath of the Land
+
+*15th-Level Grove Warden Feature*
+
+If you are reduced to 0 HP while within 100 feet of natural, nonmagical vegetation, such as trees, grass, or fungi, your body is filled with nature's wrath, and you don't fall unconscious. You still make death saves and can be killed outright if you take damage from a single source equal to your hit point maximum or if you fail three death saves. This effect lasts for a number of rounds equal to half your PB or until you die, whichever occurs first. At the end of the duration, if you didn't die outright, you call unconscious, stabilize at 0 HP, and suffer one level of exhaustion.
+
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ## Hunter
 
@@ -409,124 +647,80 @@ If you are reduced to 0 HP or killed outright while your beast spirit is active,
 
 When a spirit is destroyed in this way, you must complete a long rest before you can perform the 1-hour ritual required to create a new body for it.
 
-## Ranger Boons
+## Peerless Scout
 
-%% source: Player's Guide 2 %%
+%% source: Book of Blades %%
 
-When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the ranger class.
+To protect the edges of society from encroaching monsters, rangers learn to navigate various terrains and acquire nature magic to make them better hunters. The Peerless Scout forgoes those spells to strengthen their relationship to the terrain they fight in. They become consummate guides who can sense subtle changes in terrain or an enemy’s demeanor and use that information to protect their allies. They control the battlefield with a supernatural ability to quickly set traps and predict the movement of their foes.
 
-### Heroic Boons
+The Peerless Scout takes advantage of the tracking in combat (see **Tracking in Combat** in **Chapter 4**) and booby trap (see **Booby Traps** in **Chapter 3**) rules found in this book.
 
-When you reach 10th level in the ranger class, you have the following additional options to choose from when selecting the boon for your Heroic Boon feature.
+**Peerless Scout Progression**
 
-#### Heroic Boon
-
-*10th-Level Ranger Feature*
-
-Your commitment to the ranger’s path grants you a powerful ability. Choose one of the following heroic boons:
-
-- **Cat’s Pride.** All your movement speeds increase by 10 feet, and you ignore bludgeoning damage caused by falling. In addition, as a bonus action, you can now take the Dash action.
-
-- **Salamander’s Renewal.** If you start your turn with at least 1 HP but below your hit point maximum, you gain 1d10 + your CON modifier temporary hit points. If you start your turn with any number of temporary hit points, you automatically recover hit points equal to the number of temporary HP you have (up to your hit point maximum). In addition, if any of your limbs or nonvital body parts are severed (such as a finger, leg, tail, or similar), they grow back and become fully functional after 24 hours.
-
-### Epic Boons
-
-When you reach 20th level in the ranger class, you have the following additional options to choose from when selecting the boon for your Epic Boon feature.
-
-#### Epic Boon
-
-*20th-Level Ranger Feature*
-
-Your commitment to the ranger’s path grants you a powerful new ability. You gain one of the following epic boons:
-
-- **Deadeye.** The extra damage dealt by your Mystic Mark feature (see *Player’s Guide*) becomes a d12, and you can now use your Mystic Mark an unlimited number of times.
-
-- **Ghost Step.** You can now activate your Stalker’s Step feature (see *Player’s Guide*) at any time, regardless of current environment, lighting conditions, and obscurement, and the invisibility granted by the feature lasts up to 1 minute (though it still ends early if you attack or cast a spell). As part of the bonus action used to become invisible, and as a bonus action on any subsequent turns you remain invisible, you can teleport up to 30 feet to an unoccupied space you can see.
-
-## More Ranger Subclasses
-
-%% source: Player's Guide 2 %%
-At 3rd level, rangers gain the Ranger Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Arrow Binder, Shadow, or Trailblazer.
-
-## Arrow Binder
-
-%% source: Player's Guide 2 %%
-
-Arrow binders are rangers who have melded their mastery of the wilds with their mastery of the bow. They channel primordial magic into their ammunition, unleashing spell and shot as one to defend the natural world from those that would despoil it. While most Arrow Binder rangers prefer bows, some swear by crossbows or will use slings in a pinch.
-
-|   |   |
+| Ranger Level | Features |
 |---|---|
-| Arrow Binder Progression |  |
-| 3rd | Arrow Binder Calling Spells, Bind Spell, Trickster’s Quiver |
-| 7th | Arrow Dance |
-| 11th | Master’s Quiver |
-| 15th | Counterfire |
+| 3rd | Preternatural Augment. Taste the Wind |
+| 7th | Experienced Explorer |
+| 11th | Impromptu Ambush |
+| 15th | Master Ambusher |
 
-**Ranger Level Features**
+### Preternatural Advancement
 
-### Arrow Binder Calling Spells
+*3rd-Level Peerless Scout Feature*
 
-*3rd-Level Arrow Binder Feature*
+You undergo a ritual that strengthens your connection to the world around you at the expense of your ability to work magic. You can’t cast Primordial spells. However, you continue to gain spell slots. You can use spell slots, from this or other classes you have, to enhance your ability to track in combat and create magical booby traps. You gain two of the following preternatural advancements of your choice. You gain another one at 9th and 13th level. You can use only one preternatural Advancement at a time, unless otherwise noted.
 
-You gain calling spells at the ranger levels listed in the **Arrow Binder Calling Spells** table. See the Ranger Subclass class feature in the *Player’s Guide* for how these spells work.
+***Cunning Trap.*** When placing a booby trap, you can expend one spell slot to increase the DC to find, disable, and save against the trap by 1 per circle of the slot expended.
 
-*Arrow Binder Calling Spells*
+***Extra Ally.*** When using tracking in combat, you can expend one spell slot to affect additional allies equal to the circle of the slot expended.
 
-| Ranger Level | Spells |
-|---|---|
-| 3rd | grease |
-| 5th | thunderburst* |
-| 9th | stinger spray* |
-| 13th | blight |
-| 15th | cloudkill |
+***Deadly Traps.*** When placing a booby trap, you can expend one spell slot to increase the damage done by a damage‑dealing trap by an additional 1d6 of the trap’s damage type per circle of the slot expended.
 
-### Bind Spell
+***Focus Ally.*** When using tracking in combat, you can expend one spell slot to increase the bonus granted to one ally equal to the circle of the slot expended.
 
-*3rd-Level Arrow Binder Feature*
+***Fueled By Magic.*** When creating a booby trap, you can expend one spell slot to create one trap or improvement per circle of the slot expended. This allows you to add more than one improvement to a trap. These traps do not require any raw materials but disappear after 1 hour.
 
-As an action, you can expend a spell slot to cast a Primordial spell you know into a ranged weapon you are holding and with which you are proficient. The spell isn’t cast but is instead bound into that weapon for 1 hour. You can have only one weapon bound in this way at a time. If you bind another, the spell in the previous weapon fades, and you don’t regain the expended spell slot. When you bind a spell into a ranged weapon, the spell must have a casting time of 1 action or 1 bonus action, can’t have a range of Self, and must target a single creature or affect an area. For example, you can bind the *[[1st-Circle Spells#Entangle|entangle]]* spell to a shortbow, but you can’t bind the *[[4th-Circle Spells#Giant Insect|giant insect]]* spell to it.
+***Long Range Plan.*** When using tracking in combat, you can expend one spell slot to extend the duration of the benefit granted to one ally by a number of rounds equal to the circle of slot expended.
 
-When you hit a target with a ranged attack using the bound ranged weapon, as a bonus action, you can activate the spell bound to it, ending the binding effect and causing the spell’s effect to trigger. The target of the attack becomes the target of the spell, making any saves as normal. If the spell affects an area, the spell’s effect is centered on a point of your choice within the target’s space.
+***Rapid Deployment.*** You can place a booby trap as a bonus action by expending one spell slot. The trap remains for a number of rounds equal to the circle of the slot expended.
 
-While you have a spell bound into a ranged weapon, ranged attacks you make with that weapon count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+***Safe Path.*** When using tracking in combat, you can expend one spell slot to make your allies affected by a tracking in combat benefit able to pass through your booby trap without triggering it. The number of allies affected is equal to the circle of the slot expended.
 
-### Trickster’s Quiver
+***Swift Assessment.*** When using tracking in combat, you can expend one spell slot to use tracking in combat as a bonus action. The granted benefit lasts a number of rounds equal to the circle of the slot expended.
 
-*3rd-Level Arrow Binder Feature*
+***Widen Trap.*** When placing a booby trap, you can expend one spell slot to have the trap affect a number of additional 5-foot squares equal to the circle of the slot expended.
 
-You imbue your ammunition with primordial magic as you fire. Once on your turn, when you hit a creature marked by your Mystic Mark feature (see *Player’s Guide*) with a ranged weapon attack, you can cause one of the following effects:
+### Taste the Wind
 
-- **Frost Shot.** The target’s speed is reduced by 10 feet until the end of its next turn.
+*3rd-Level Peerless Scout Feature*
 
-- **Shock Shot.** The target can’t take reactions until the start of its next turn.
+You have tremorsense to a range of 60 feet and keensense to a range of 30 feet.
 
-- **Venom Shot.** The attack deals poison damage instead of its normal damage, and the target is poisoned until the end of its next turn.
+### Experienced Explorer
 
-### Arrow Dance
+*7th-Level Peerless Scout Feature*
 
-*7th-Level Arrow Binder Feature*
+At 7th level your booby traps automatically gain one improvement with no additional cost or time to construct it. You gain advantage on WIS (Survival) checks to use tracking in combat.
 
-When you make a ranged weapon attack roll, you don’t have disadvantage on the attack roll from being within 5 feet of a hostile creature, though you can still have disadvantage from other sources. When you hit a creature within 5 feet of you with a ranged weapon attack, it can’t make opportunity attacks against you until the end of your turn.
+### Impromptu Ambush
 
-### Master’s Quiver
+*11th-Level Peerless Scout Feature*
 
-*11th-Level Arrow Binder Feature*
+Your experience and training coalesce into a state of heightened situational awareness. As an action, you can expend your situational awareness to magically create one of two effects:
 
-You can now bind a spell into your ranged weapon as a bonus action instead of an action, and activating a bound spell after you hit a target with a ranged weapon attack now requires no action. You can now also use your Trickster’s Quiver feature against any creature you hit, not only creatures marked with your Mystic Mark, but you still use it only once on your turn.
+***Contingent Attack.*** You declare a perceivable action that the target of your tracking in combat use might take as a triggering event. Allies who gain a benefit from your tracking in combat can each immediately make one melee or ranged weapon attack against the target if they witness the declared triggering event. An ally’s attack roll gains a bonus equal to your PB. This attack requires no action from your allies and can only occur once per target until 24 hours have passed.
 
-In addition, as an action, you can fire ammunition with your ranged weapon at a point you can see within your weapon’s range and cause one of the following effects instead of dealing damage:
+***Unseen Trap.*** While in direct line of sight of your foes, you can expend your situational awareness to place a booby trap at exactly the right time so that no one is looking at you, even if you are in plain sight. The trap is considered hidden and must be found with a WIS (Perception) check as normal. When you expend your situational awareness to use Unseen Trap, you choose which effect to create.
 
-- **Paw Shot.** Your shot interacts with an item within 1 foot of that point as if you had taken the Use an Object action on that item.
+You must finish a short or long rest to use your situational awareness again.
 
-- **Smoke Shot.** A 5-foot-radius sphere of smoke appears centered on that point. The smoke spreads around corners, and its area is heavily obscured. The smoke dissipates at the start of your next turn.
+### Master Ambusher
 
-- **Vine Shot.** A rope-like vine is now anchored to that point. The vine has the statistics of a 100-foot length of rope and disappears after 1 hour. If you are within 100 feet of that point, you can choose for the other end of the vine to appear in your empty hand or be anchored on a point you can see within 5 feet of you. Otherwise, the vine’s length lies curled or dangling from the point where it appeared. You can make a vine in this way a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+*15th-Level Peerless Scout Feature*
 
-### Counterfire
+As an action, you can access an awareness of the battlefield, give suggestions to your allies, and place a flurry of traps. You automatically succeed on a roll to use tracking in combat against one creature that you can see and place six booby traps within 30 feet of you. These booby traps cannot be placed in the same spot or within 5 feet of another booby trap. In addition, you can expend two spell slots with Preternatural Advancement at once, one to advance your booby traps and one to advance your tracking in combat benefit at no additional cost in money, time, or materials.
 
-*15th-Level Arrow Binder Feature*
-
-When a creature you can see hits you with a ranged attack, you can make one ranged weapon attack against that creature, provided you are wielding the ranged weapon and the attacker is within your weapon’s normal range. If you have a spell bound into your ranged weapon, you have advantage on the attack roll.
+When you expend your situational awareness with Impromptu Ambush along with Master Ambusher, you must finish a long rest to use your situational awareness again.
 
 ## Shadow
 
@@ -596,217 +790,6 @@ As an action, you subsume yourself into an embodiment of a moonless, pitiless ni
 - You can use your Predator’s Strike feature on any hit, not just once on your turn, and the extra damage is equal to the amount your Mystic Mark feature (see *Player’s Guide*) deals at your level + your ranger level. The target must still meet all other requirements of the Predator’s Strike feature.
 
 - You have advantage on saves. Once you use this feature, you can’t use it again until you finish a long rest.
-
-## Trailblazer
-
-%% source: Player's Guide 2 %%
-
-Trailblazers lead expeditions into the unknown and guard travelers through the most dangerous wilds. They are unparalleled experts of the natural world, navigating extreme climes with ease and protecting their charges from the myriad dangers of those environs. In combat, they leap into the fray, marking targets for their allies to bring down.
-
-*Trailblazer Progression*
-
-| Ranger Level | Features |
-|---|---|
-| 3rd | Expert Guide, Focus Fire, Trailblazer Calling Spells |
-| 7th | Skirmisher’s Mobility |
-| 11th | Primordial Goad |
-| 15th | Tracker’s Brand |
-
-### Expert Guide
-
-*3rd-Level Trailblazer Feature*
-
-You gain proficiency in the Nature and Survival skills. If you are already proficient in one or both of these skills, double your PB instead for checks made with that skill.
-
-In addition, when you make a Nature or Survival check or when you roll initiative, you can expend a Primordial spell slot and gain a bonus to the check equal to twice the spell slot’s circle.
-
-### Focus Fire
-
-*3rd-Level Trailblazer Feature*
-
-When you mark a creature with your Mystic Mark feature (see *Player’s Guide*), you can share some of its power with an ally. Choose one friendly creature within 30 feet that can see or hear you. While the mark lasts, the chosen ally deals extra damage of their weapon’s type equal to your Mystic Mark die the first time they hit the marked creature with a weapon attack on each of the ally’s turns. This feature ends early if your chosen ally can no longer see or hear you, or if the ally ends their turn more than 60 feet away from you.
-
-Starting at 6th level, your chosen ally also gains the benefits of your Empowered Mark feature while benefiting from this feature.
-
-### Trailblazer Calling Spells
-
-*3rd-Level Trailblazer Feature*
-
-You gain calling spells at the ranger levels listed in the **Trailblazer Calling Spells** table. See the Ranger Subclass class feature in the *Player’s Guide* for how these spells work.
-
-*Trailblazer Calling Spells*
-
-| Ranger Level | Spells |
-|---|---|
-| 3rd | feather fall |
-| 5th | pass without trace |
-| 9th | water breathing |
-| 13th | freedom of movement |
-| 15th | feathered flock* |
-
-### Skirmisher’s Mobility
-
-*7th-Level Trailblazer Feature*
-
-Your walking speed increases by 10 feet.
-
-In addition, as a bonus action, you can expend a Primordial spell slot to increase your climbing speed or swimming speed by 10 feet × the circle of the spell slot. This effect lasts for 10 minutes per circle of the expended spell slot. If you don’t have that type of movement speed, you gain it for the duration.
-
-### Primordial Goad
-
-*11th-Level Trailblazer Feature*
-
-When you hit a creature with an attack roll, you can goad the creature into attacking you. The target must succeed on a WIS save against your spell save DC, or until the end of its next turn, it has disadvantage both on attack rolls against creatures that aren’t you and on saves against spells and effects from creatures that aren’t you. If the target is marked with your Mystic Mark (see *Player’s Guide*), this effect instead lasts until the mark ends. You can use this feature a number of times equal to your PB. You regain all expended uses when you finish a long rest.
-
-### Tracker’s Brand
-
-*15th-Level Trailblazer Feature*
-
-As a bonus action, you can choose a creature marked by your Mystic Mark (see *Player’s Guide*) and enhance the mark’s effect on it. For 1 minute, the target suffers the following effects:
-
-- The first attack roll you make against the target each turn has advantage.
-
-- The target is vulnerable to damage dealt by your Mystic Mark, including the extra damage your ally deals via your Focus Fire feature.
-
-- When the ally chosen in your Focus Fire feature deals Mystic Mark’s extra damage to the target, the ally regains hit points equal to that extra damage. Once you use this feature, you can’t use it again until you finish a long rest.
-
-## Old Margreve Ranger Subclasses
-
-%% source: Tales of the Old Margreve %%
-
-At 3rd level, a ranger gains the Ranger Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Griffon Scout, Grove Warden, or Spear of the Weald.
-
-## Griffon Scout
-
-%% source: Tales of the Old Margreve %%
-
-[[Elves]] of the forested woodlands and mountain foothills often uphold the tradition of taming and riding griffons, living on the same windswept crags where griffons nest, thus giving themselves the ability to command vast tracts of woodland territory. Trained by elf veterans and beast tamers, rangers of the Griffon Scout subclass learn to move swiftly and stealthily both on foot and while mounted, gathering information on their enemies and mounting devastating hit-and-run raids with precision and coordination.
-
-*Griffon Scout Progression*
-
-| Ranger Level | Features |
-|---|---|
-| 3rd | Griffon Scout Calling Spells, Mounted Scout, Skirmisher's Step |
-| 7th | Griffon Wings |
-| 11th | Coordinated Strikes |
-| 15th | Strike and Fade |
-
-### Griffon Scout Calling Spells
-
-*3rd-Level Griffon Scout Feature*
-
-You gain ring spells at the ranger levels listed in the Griffon Scout Calling Spells table. See the Ranger Subclass class feature for how these spells work.
-
-*Griffon Calling Spells*
-
-| Ranger Level | Spells |
-|---|---|
-| 3rd | *[[1st-Circle Spells#Feather Fall\|feather fall]]* |
-| 5th | *[[2nd-Circle Spells#Alter Self\|alter self]]* |
-| 9th | *[[3rd-Circle Spells#Haste\|haste]]* |
-| 13th | *[[4th-Circle Spells#Greater Invisibility\|greater invisibility]]* |
-| 17th | *[[5th-Circle Spells#Telepathic Bond\|telepathic bond]]* |
-
-### Mounted Scout
-
-*3rd-Level Griffon Scout Feature*
-
-Mounting and dismounted costs you only 5 feet of movement rather than half your speed. While mounted, you have advantage on WIS (Perception) checks, and your DEX (Stealth) checks apply to both you and your mount.
-
-### Skirmisher's Step
-
-*3rd-Level Griffon Scout Feature*
-
-When you move at least 20 feet straight toward a creature and hit it with a melee weapon attack in the same turn, that attack deals extra damage. The extra damage is equal to the amount your Mystic Mark feature deals at your level and is of the same damage type as the weapon. You can deal this extra damage only once per turn.
-
-If you move out of the target's reach before the end of your next turn, whether you are mounted or not, you don't provoke an opportunity attack from the target.
-
-### Griffon Wings
-
-*7th-Level Griffon Scout Feature*
-
-You learn the find steed ritual. The mount you summon can be one of the options presented in that spell or a young griffon, which uses the statistics of a tiger with a flying speed of 20 feet. If you summon a young griffon, its type is always Fey.
-
-When you reach 11th level in this class, the mount you summon can be a full-grown griffon, which uses the statistics of a griffon, except its type is Fey.
-
-### Coordinated Strikes
-
-*11th-Level Griffon Scout Feature*
-
-You can deliver punishing flurries of attacks in perfect coordination with your allies. When one of your allies hits a target you can see within 30 feet of you with an attack, you can use your reaction to make one weapon attack against that target, provided the target is within range of a weapon you are wielding.
-
-### Strike and Fade
-
-*15th-Level Griffon Scout Feature*
-
-When you move at least 20 feet during your turn, whether you are mounted or not, you become an evasive blur. Until the start of your next turn, a creature that attacks you or your mount has disadvantage on the first attack roll it makes against you or your mount.
-
-## Grove Warden
-
-%% source: Tales of the Old Margreve %%
-
-Fiercely protective of their territory, alseid herds form close bonds with their home forests. In return for their diligent protection, the forests offered their blessings to dedicated alseid rangers. These rangers learned to pass this connection to the land down to other rangers, who have expanded this knowledge to connect with any land with natural growth. Grove Wardens can tap into the subtle magic within the land itself, calling on it to help the ranger protect the wilds and themselves. Grove Wardens are dedicated to using martial might to keep the land safe from otherworldly dangers and those who would despoil it.
-
-*Grove Warden Progression*
-
-| Ranger Level | Features |
-|---|---|
-| 3rd | Grove Warden Calling Spells, Whispers of the Land, Land's Aid |
-| 7th | Intruder's Bane |
-| 11th | Living Bulwark |
-| 15th | Wrath of the Land |
-
-### Grove Warden Calling Spells
-
-*3rd-Level Grove Warden Feature*
-
-You gain ring spells at the ranger levels listed in the Grove Warden Calling Spells table. See the Ranger Subclass class feature for how these spells work.
-
-*Grove Warden Calling Spells*
-
-| Ranger Level | Spells |
-|---|---|
-| 3rd | *[[1st-Circle Spells#Entangle\|entangle]]* |
-| 5th | *[[2nd-Circle Spells#Branding Smite\|branding smite]]* |
-| 9th | *[[3rd-Circle Spells#Speak with Plants\|speak with plants]]* |
-| 13th | *[[4th-Circle Spells#Elemental Shield\|elemental shield]]* |
-| 17th | *[[5th-Circle Spells#Animate Objects\|animate objects]]* |
-
-### Whispers of the Land
-
-*3rd-Level Grove Warden Feature*
-
-Your senses are attuned to the natural world around you, always noting the subtle changes in the feel of the wind, the sounds of animals, and the smell of plants. You gain a bonus to initiative rolls equal to your PB.
-
-In addition, while you are conscious and within 5 feet of vegetation such as a bush or tree or a patch of grass or fungi, you can't be surprised.
-
-### Land's Aid
-
-*3rd-Level Grove Warden Feature*
-
-You can magically draw on the living essence of the land to come to your aid. As a bonus action, choose one creature you can see within 60 feet of you that is on the ground or within 15 feet of vegetation, such as a tree or patch of fungi. Your next weapon attack against that creature has advantage. If that attack hits, the creature's speed is reduced by 10 feet until the start of your next turn, as vines, mud, and other natural phenomena briefly cling to the creature. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
-
-When you reach 11th level in this class, if that attack hits, the creature's speed is instead halved until the start of your next turn.
-
-### Intruder's Bane
-
-*7th-Level Grove Warden Feature*
-
-You can call on the land around you to hamper your foes. As a bonus action, choose a point you can see on the ground within 60 feet. The area within 15 feet of that point undulates and warps. Each creature on the ground or within 5 feet of vegetation, such as a tree or patch of fungi, in the area must succeed on a DEX save against your spell save DC or be pushed up to 15 feet in a direction of your choice and knocked prone. Once you use this feature, you can't use it again until you finish a short or long rest.
-
-### Living Bulwark
-
-*11th-Level Grove Warden Feature*
-
-The land around you comes to your aid when you are in danger, interposing rocks, branches, vines, roots, or even the ground itself between you and your foes. When a creature you can see targets you with an attack, you can use your reaction to call on the land to increase your AC by an amount equal to a die roll against that attack, potentially negating the attack. The type of die you roll is the same as the die you roll when using your Mystic Mark feature.
-
-### Wrath of the Land
-
-*15th-Level Grove Warden Feature*
-
-If you are reduced to 0 HP while within 100 feet of natural, nonmagical vegetation, such as trees, grass, or fungi, your body is filled with nature's wrath, and you don't fall unconscious. You still make death saves and can be killed outright if you take damage from a single source equal to your hit point maximum or if you fail three death saves. This effect lasts for a number of rounds equal to half your PB or until you die, whichever occurs first. At the end of the duration, if you didn't die outright, you call unconscious, stabilize at 0 HP, and suffer one level of exhaustion.
-
-Once you use this feature, you can't use it again until you finish a long rest.
 
 ## Spear of the Weald
 
@@ -891,11 +874,78 @@ When you hit a creature with an attack with your weald spear, you can use a bonu
 
 When you teleport, you can shroud yourself in strands of the magic. Until the start of your next turn, attacks against you have disadvantage, and any damage you take is halved. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
-## Labyrinth Ranger Subclasses
+## Trailblazer
 
-%% source: Labyrinth Worldbook %%
+%% source: Player's Guide 2 %%
 
-At 3rd level, a ranger gains the Ranger Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Waysmith.
+Trailblazers lead expeditions into the unknown and guard travelers through the most dangerous wilds. They are unparalleled experts of the natural world, navigating extreme climes with ease and protecting their charges from the myriad dangers of those environs. In combat, they leap into the fray, marking targets for their allies to bring down.
+
+*Trailblazer Progression*
+
+| Ranger Level | Features |
+|---|---|
+| 3rd | Expert Guide, Focus Fire, Trailblazer Calling Spells |
+| 7th | Skirmisher’s Mobility |
+| 11th | Primordial Goad |
+| 15th | Tracker’s Brand |
+
+### Expert Guide
+
+*3rd-Level Trailblazer Feature*
+
+You gain proficiency in the Nature and Survival skills. If you are already proficient in one or both of these skills, double your PB instead for checks made with that skill.
+
+In addition, when you make a Nature or Survival check or when you roll initiative, you can expend a Primordial spell slot and gain a bonus to the check equal to twice the spell slot’s circle.
+
+### Focus Fire
+
+*3rd-Level Trailblazer Feature*
+
+When you mark a creature with your Mystic Mark feature (see *Player’s Guide*), you can share some of its power with an ally. Choose one friendly creature within 30 feet that can see or hear you. While the mark lasts, the chosen ally deals extra damage of their weapon’s type equal to your Mystic Mark die the first time they hit the marked creature with a weapon attack on each of the ally’s turns. This feature ends early if your chosen ally can no longer see or hear you, or if the ally ends their turn more than 60 feet away from you.
+
+Starting at 6th level, your chosen ally also gains the benefits of your Empowered Mark feature while benefiting from this feature.
+
+### Trailblazer Calling Spells
+
+*3rd-Level Trailblazer Feature*
+
+You gain calling spells at the ranger levels listed in the **Trailblazer Calling Spells** table. See the Ranger Subclass class feature in the *Player’s Guide* for how these spells work.
+
+*Trailblazer Calling Spells*
+
+| Ranger Level | Spells |
+|---|---|
+| 3rd | feather fall |
+| 5th | pass without trace |
+| 9th | water breathing |
+| 13th | freedom of movement |
+| 15th | feathered flock* |
+
+### Skirmisher’s Mobility
+
+*7th-Level Trailblazer Feature*
+
+Your walking speed increases by 10 feet.
+
+In addition, as a bonus action, you can expend a Primordial spell slot to increase your climbing speed or swimming speed by 10 feet × the circle of the spell slot. This effect lasts for 10 minutes per circle of the expended spell slot. If you don’t have that type of movement speed, you gain it for the duration.
+
+### Primordial Goad
+
+*11th-Level Trailblazer Feature*
+
+When you hit a creature with an attack roll, you can goad the creature into attacking you. The target must succeed on a WIS save against your spell save DC, or until the end of its next turn, it has disadvantage both on attack rolls against creatures that aren’t you and on saves against spells and effects from creatures that aren’t you. If the target is marked with your Mystic Mark (see *Player’s Guide*), this effect instead lasts until the mark ends. You can use this feature a number of times equal to your PB. You regain all expended uses when you finish a long rest.
+
+### Tracker’s Brand
+
+*15th-Level Trailblazer Feature*
+
+As a bonus action, you can choose a creature marked by your Mystic Mark (see *Player’s Guide*) and enhance the mark’s effect on it. For 1 minute, the target suffers the following effects:
+
+- The first attack roll you make against the target each turn has advantage.
+
+- The target is vulnerable to damage dealt by your Mystic Mark, including the extra damage your ally deals via your Focus Fire feature.
+
+- When the ally chosen in your Focus Fire feature deals Mystic Mark’s extra damage to the target, the ally regains hit points equal to that extra damage. Once you use this feature, you can’t use it again until you finish a long rest.
 
 ## Waysmith
 
@@ -976,87 +1026,6 @@ Once a creature successfully saves against this feature (whether a CON or CHA sa
 You can open a magical gate to take you anywhere in the multiverse. As an action, you can open a magical portal to a destination you select. The destination must be known to you (a place you have visited before) and must be a real place, though it can be on any plane of existence. If the destination you declare does not suit these conditions, this ability fails, and the gate doesn’t open or transport you. Once created, the gate remains open for 1 minute.
 
 Once you use this feature, you can’t do so again until you finish a long rest.
-
-## Book of Blades Ranger Subclasses
-
-%% source: Book of Blades %%
-
-When you choose your ranger subclass, the following subclasses from *[[Book of Blades]]* are also available: Peerless Scout and Windsworn.
-
-## Peerless Scout
-
-%% source: Book of Blades %%
-
-To protect the edges of society from encroaching monsters, rangers learn to navigate various terrains and acquire nature magic to make them better hunters. The Peerless Scout forgoes those spells to strengthen their relationship to the terrain they fight in. They become consummate guides who can sense subtle changes in terrain or an enemy’s demeanor and use that information to protect their allies. They control the battlefield with a supernatural ability to quickly set traps and predict the movement of their foes.
-
-The Peerless Scout takes advantage of the tracking in combat (see **Tracking in Combat** in **Chapter 4**) and booby trap (see **Booby Traps** in **Chapter 3**) rules found in this book.
-
-**Peerless Scout Progression**
-
-| Ranger Level | Features |
-|---|---|
-| 3rd | Preternatural Augment. Taste the Wind |
-| 7th | Experienced Explorer |
-| 11th | Impromptu Ambush |
-| 15th | Master Ambusher |
-
-### Preternatural Advancement
-
-*3rd-Level Peerless Scout Feature*
-
-You undergo a ritual that strengthens your connection to the world around you at the expense of your ability to work magic. You can’t cast Primordial spells. However, you continue to gain spell slots. You can use spell slots, from this or other classes you have, to enhance your ability to track in combat and create magical booby traps. You gain two of the following preternatural advancements of your choice. You gain another one at 9th and 13th level. You can use only one preternatural Advancement at a time, unless otherwise noted.
-
-***Cunning Trap.*** When placing a booby trap, you can expend one spell slot to increase the DC to find, disable, and save against the trap by 1 per circle of the slot expended.
-
-***Extra Ally.*** When using tracking in combat, you can expend one spell slot to affect additional allies equal to the circle of the slot expended.
-
-***Deadly Traps.*** When placing a booby trap, you can expend one spell slot to increase the damage done by a damage‑dealing trap by an additional 1d6 of the trap’s damage type per circle of the slot expended.
-
-***Focus Ally.*** When using tracking in combat, you can expend one spell slot to increase the bonus granted to one ally equal to the circle of the slot expended.
-
-***Fueled By Magic.*** When creating a booby trap, you can expend one spell slot to create one trap or improvement per circle of the slot expended. This allows you to add more than one improvement to a trap. These traps do not require any raw materials but disappear after 1 hour.
-
-***Long Range Plan.*** When using tracking in combat, you can expend one spell slot to extend the duration of the benefit granted to one ally by a number of rounds equal to the circle of slot expended.
-
-***Rapid Deployment.*** You can place a booby trap as a bonus action by expending one spell slot. The trap remains for a number of rounds equal to the circle of the slot expended.
-
-***Safe Path.*** When using tracking in combat, you can expend one spell slot to make your allies affected by a tracking in combat benefit able to pass through your booby trap without triggering it. The number of allies affected is equal to the circle of the slot expended.
-
-***Swift Assessment.*** When using tracking in combat, you can expend one spell slot to use tracking in combat as a bonus action. The granted benefit lasts a number of rounds equal to the circle of the slot expended.
-
-***Widen Trap.*** When placing a booby trap, you can expend one spell slot to have the trap affect a number of additional 5-foot squares equal to the circle of the slot expended.
-
-### Taste the Wind
-
-*3rd-Level Peerless Scout Feature*
-
-You have tremorsense to a range of 60 feet and keensense to a range of 30 feet.
-
-### Experienced Explorer
-
-*7th-Level Peerless Scout Feature*
-
-At 7th level your booby traps automatically gain one improvement with no additional cost or time to construct it. You gain advantage on WIS (Survival) checks to use tracking in combat.
-
-### Impromptu Ambush
-
-*11th-Level Peerless Scout Feature*
-
-Your experience and training coalesce into a state of heightened situational awareness. As an action, you can expend your situational awareness to magically create one of two effects:
-
-***Contingent Attack.*** You declare a perceivable action that the target of your tracking in combat use might take as a triggering event. Allies who gain a benefit from your tracking in combat can each immediately make one melee or ranged weapon attack against the target if they witness the declared triggering event. An ally’s attack roll gains a bonus equal to your PB. This attack requires no action from your allies and can only occur once per target until 24 hours have passed.
-
-***Unseen Trap.*** While in direct line of sight of your foes, you can expend your situational awareness to place a booby trap at exactly the right time so that no one is looking at you, even if you are in plain sight. The trap is considered hidden and must be found with a WIS (Perception) check as normal. When you expend your situational awareness to use Unseen Trap, you choose which effect to create.
-
-You must finish a short or long rest to use your situational awareness again.
-
-### Master Ambusher
-
-*15th-Level Peerless Scout Feature*
-
-As an action, you can access an awareness of the battlefield, give suggestions to your allies, and place a flurry of traps. You automatically succeed on a roll to use tracking in combat against one creature that you can see and place six booby traps within 30 feet of you. These booby traps cannot be placed in the same spot or within 5 feet of another booby trap. In addition, you can expend two spell slots with Preternatural Advancement at once, one to advance your booby traps and one to advance your tracking in combat benefit at no additional cost in money, time, or materials.
-
-When you expend your situational awareness with Impromptu Ambush along with Master Ambusher, you must finish a long rest to use your situational awareness again.
 
 ## Windsworn
 

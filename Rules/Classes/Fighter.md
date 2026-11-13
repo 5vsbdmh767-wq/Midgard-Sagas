@@ -156,19 +156,325 @@ Your commitment to the fighter’s path grants you a powerful new ability. Choos
 
 - **Defiant.** When you fail a save, you can instead choose to succeed on the save. You can use this feature once and regain the use of it when you finish a long rest. You can use it twice before a long rest at 13th level, and three times at 17th.
 
+- **Martial Expert.** Learn three additional actions of your choice from the Martial Action feature (see *Player’s* *Guide*). In addition, when you take the Attack action on your turn, you can substitute one of your attacks to perform a martial action instead.
+
+- **Unavoidable.** When you make an attack roll against a creature and fail to hit it with the attack, you have advantage on the next attack you make against that creature before the end of your next turn.
+
 - **Unstoppable.** When you start your turn, you can choose to end one of the following conditions affecting you: blinded, charmed, frightened, incapacitated, paralyzed, or stunned. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+
+%% source: Player's Guide 2: Martial Expert, Unavoidable %%
 
 ### Epic Boon
 
 *20th-Level Fighter Feature*
 
-Your commitment to the fighter’s path grants you a powerful new ability. You gain the following epic boon:
+Your commitment to the fighter’s path grants you a powerful new ability. You gain one of the following epic boons:
+
+- **Clear the Field.** When you reduce an enemy to 0 HP, you can move up to your base movement speed and make a single attack against a different creature within range. Moving in this way doesn’t provoke opportunity attacks.
+
+- **Live to Fight.** If you start your turn with less than half your hit points, but at least 1 HP, you regain hit points equal to your PB + your CON modifier. In addition, whenever you roll a death save, you can add your CON modifier to determine the result.
 
 - **Turn the Tide.** Once on each of your turns, when you hit a creature or object with a weapon attack on your turn, you can cause the attack to deal additional damage (of the same damage type as the weapon) equal to your STR or DEX score (your choice). The attack’s damage ignores resistance and immunity, and it can’t be reduced or avoided by any means.
+
+%% source: Player's Guide 2: Clear the Field, Live to Fight %%
 
 ## Fighter Subclasses
 
 As you develop mastery, you gain new abilities that support your preferred combat tactics. The subclass you choose represents your specialized training in pursuit of ever-greater martial might.
+
+| Subclass | Suits |
+|---|---|
+| [[#Iron Bastion\|Iron Bastion]] | Any character |
+| [[#Martial Actions Expanded\|Martial Actions Expanded]] | Any character |
+| [[#Nemesis\|Nemesis]] | Horror campaigns |
+| [[#Scrapper\|Scrapper]] | Any character |
+| [[#Skirmisher\|Skirmisher]] | Any character |
+| [[#Spell Blade\|Spell Blade]] | Any character |
+| [[#Stunt Archer\|Stunt Archer]] | Any character |
+| [[#Trooper\|Trooper]] | The [[The Labyrinth\|Labyrinth]] |
+| [[#Twinblade\|Twinblade]] | Any character |
+| [[#Viking\|Viking]] | The [[Northlands]] |
+| [[#Weapon Master\|Weapon Master]] | Any character |
+
+## Iron Bastion
+
+%% source: Book of Blades %%
+
+Encased in a tower of iron and steel, the Iron Bastion stands between its allies and all harm. These fighters excel at using armor and shield to protect themselves and other party members. They learn special exploits that take advantage of their armor and shield in ways others could never master.
+
+**Iron Bastion Progression**
+
+| Fighter Level | Features |
+|---|---|
+| 3rd | Additional Talent, Barrier Shield |
+| 7th | Unscathed |
+| 11th | Barrier Shield Expert |
+| 15th | Impenetrable |
+
+### Additional Talent
+
+*3rd-Level Iron Bastion Feature*
+
+You gain a new martial talent. Choose a talent to represent the way you specialize in protecting yourself and your allies: Armor Expert, Shield Mastery, or [[Vanguard]].
+
+### Barrier Shield
+
+*3rd-Level Iron Bastion Feature*
+
+You have innovated shield use. When you are wielding a shield, you gain a +3 bonus to your AC instead of +2. At the end of your turn, you can choose one ally to gain a +1 bonus to AC until the end of your next turn, while that ally stays within 5 feet of you.
+
+In addition, choose one shield exploit that you know from the list below. You can perform the exploit a number of times equal to your PB. You regain all expended uses when you finish a long rest.
+
+- **Iron Resolve.** As a reaction, you can add your shield bonus to your WIS save.
+
+- **Lock Down.** When you succeed on a melee attack against an enemy within 5 feet, the enemy’s speed becomes 0 until the start of your next turn.
+
+- **Shield Bash.** As a bonus action, you can forgo the bonus to your AC from your shield to make an attack with it. In your hands, a shield is a weapon with the Light property that deals 1d6 + your STR modifier bludgeoning damage and has the Bash weapon option.
+
+- **Superior Maneuvering.** When you hit with a shove attack, you can push your target an additional 5 feet.
+
+When you are forced to move against your will, decrease the distance by 5 feet.
+
+### Unscathed
+
+*7th-Level Iron Bastion Feature*
+
+Protected by the steel plates of armor and your heavy shield, you can walk through almost anything. While you are wearing heavy armor and wielding a shield and you are subjected to an effect that allows you to make a DEX save to take only half damage, you instead take no damage if you succeed on the save and only half damage if you fail.
+
+### Barrier Shield Expert
+
+*11th-Level Iron Bastion Feature*
+
+Your skill with a shield exceeds what most would have thought achievable. When you are wielding a shield, you now gain a +4 bonus to your AC instead of +3. In addition, you learn a second shield exploit from the Tower Shield feature.
+
+### Impenetrable
+
+*15th-Level Iron Bastion Feature*
+
+Your resilience in heavy armor and wielding a shield is legendary. Whenever you perform a shield exploit, you gain temporary hit points equal to your PB. These hit points last until expended or you finish a short or long rest.
+
+While wearing heavy armor and carrying a shield, as an action, you can cast *wall of force* with no material components. Once you cast this spell, you can’t use it again until you finish a long rest.
+
+## Martial Actions Expanded
+
+%% source: Player's Guide 2 %%
+
+This section lists additional martial actions available for fighters. See the Martial Action class feature in the *Player’s* *Guide* for the full description of how these effects work.
+
+### Destabilizing Blow
+
+*Requires Wielding a Shield or Unarmed Strike* As a bonus action, you knock the wind out of a creature with a kick, elbow, or blow with your shield. Choose one creature you can see within 5 feet of you. The target must succeed on a STR save against your weapon option save DC or have disadvantage on the next ability check or save it makes before the start of your next turn.
+
+### Focus
+
+*Requires Wielding a Melee Weapon or Unarmed Strike* As a bonus action, you take the time to increase the effectiveness of your next melee weapon attack. Select one target you can see and then double your PB for the first attack roll using a melee weapon against that target before the end of your turn.
+
+### Lunge
+
+*Requires Wielding a One-Handed Melee Weapon or a Two-* *Handed Melee Weapon Without the Heavy Property* As a bonus action, you briefly extend your reach but leave yourself exposed in the process. Until the start of your next turn, the reach of any melee weapons you wield extends by 5 feet, and your AC is decreased by 1.
+
+### Reposition
+
+*Requires Not Wielding a Heavy Melee Weapon* As a bonus action, you carefully reposition yourself to gain better ground on your enemy. You move up to 10 feet without provoking opportunity attacks.
+
+### Riposte
+
+*Requires Wielding a One-Handed Melee Weapon* As a bonus action, you fall into a parrying stance. Until the start of your next turn, your AC increases by 1, and the first time before the start of your next turn that a creature misses you with an attack while within 5 feet of you, the attacker takes damage of your weapon’s type equal to your PB.
+
+### Steady
+
+*Requires Wielding a Ranged or Thrown Weapon* As a bonus action, you steady your aim. Select one target you can see within your weapon’s normal range. If you hit that target with a ranged weapon attack from that weapon before the end of your turn, the first such attack deals extra damage equal to your PB (of the same damage type as the weapon).
+
+> [!note] Martial Actions for Paladins and Rangers
+> This section introduces new martial actions for the fighter. Paladins and rangers also have access to the Martial Action class feature, but their options are typically more limited than the fighter’s. At the GM’s discretion, the following new options would be good fits for paladin and ranger PCs:
+>
+> - **Paladin.** Destabilizing blow, focus, reposition, unmoving shield.
+>
+> - **Ranger.** Focus, lunge, riposte, steady.
+>
+
+### Unmoving Shield
+
+*Requires Wielding a Shield* As a bonus action, you take on a defensive stance, bracing yourself with your shield. Until the start of your next turn, you have advantage on checks and saves against effects that would push or pull you, and you have advantage on checks and saves both to avoid and escape being grappled or restrained.
+
+## Nemesis
+
+%% source: Night Hunters %%
+
+Fighters that commit to the Nemesis discipline dedicate themselves to the pursuit and slaughter of the vilest predators that stalk the night. They stand against shadow by infusing themselves with a fraction of the same darkness they are bound to fight.
+
+**Nemesis Progression**
+
+| Fighter Level | Features |
+|---|---|
+| 3rd | Beast of Prey, Slayer’s Rite |
+| 7th | Blood to Blood |
+| 11th | Hunter’s Revenge |
+| 15th | Killing Drive |
+
+### Beast of Prey
+
+*3rd-Level Nemesis Feature*
+
+You gain proficiency in the Survival skill. If you’re already proficient, double your PB instead for checks made with that skill.
+
+In addition, you have advantage on saves against being charmed, frightened, or possessed, including on saves to end such effects.
+
+### Slayer’s Rite
+
+*3rd-Level Nemesis Feature*
+
+As part of a short or long rest, you can mystically attune yourself to face a specific type of monster. Choose one of the following creature types: Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Monstrosity, Ooze, Plant, or Undead. You gain the following benefits, which last until you use this feature to select a different creature type:
+
+- When you deal damage to creatures of your chosen type, you ignore any damage resistances the creature has, including resistance to damage from nonmagical attacks. Damage immunities function as normal.
+- When you hit a creature of your chosen type with an attack roll, the attack deals additional damage equal to half your fighter level (rounded down). This extra damage is the same type as that dealt by the triggering attack.
+- You have advantage on ability checks to track, identify, or recall information about creatures of that type.
+
+### Blood to Blood
+
+*7th-Level Nemesis Feature*
+
+As a reaction when you take damage from a creature that isn’t the type you chose when you last activated your Slayer’s Rite feature, you can immediately change that feature’s creature type to match the type of your attacker. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+
+### Hunter’s Revenge
+
+*11th-Level Nemesis Feature*
+
+When you use your [[Fighter#Last Stand|Last Stand]] fighter feature, you can swear vengeance against one creature within 60 feet that you can see and choose one of the following benefits:
+
+- The target has disadvantage on attack rolls against you.
+- You have advantage on attack rolls against the target.
+- You have advantage on saves against the target’s spells and effects.
+
+The chosen benefit lasts for 1 minute. If the target dies before the duration ends, you can choose a new creature within 60 feet that you can see, automatically switching the same chosen benefit to the new target.
+
+### Killing Drive
+
+*15th-Level Nemesis Feature*
+
+If you start your turn and can see at least one hostile creature within 60 feet of you that matches the type you chose when you last activated your Slayer’s Rite feature, your speed is doubled until the start of your next turn.
+
+In addition, you can immediately choose to expend (and then roll) one of your available hit dice to recover hit points equal to the number rolled + your CON modifier. Alternatively, you can forgo regaining hit points and instead use the hit die to end a condition of your choice that is currently affecting you.
+
+## Scrapper
+
+%% source: Player's Guide 2 %%
+
+Fighters typically engage with their opponents with manufactured weapons. However, some of them enjoy the physicality of using their bodies as weapons and become adept at throwing fists and locking down foes.
+
+*Scrapper Progression*
+
+| Fighter Level | Features |
+|---|---|
+| 3rd | Grappling Superiority, Mighty Fists |
+| 7th | Grappling Maneuvers |
+| 11th | Expert Grappler |
+| 15th | Knockout Punch |
+
+### Grappling Superiority
+
+*3rd-Level Scrapper Feature*
+
+You gain proficiency in the Athletics skill. If you are already proficient, double your PB instead for checks made with that skill.
+
+In addition, instead of using your reaction to make an opportunity attack, you can use your reaction to attempt to grapple the creature provoking the opportunity attack.
+
+Starting at 7th level, you have advantage on checks to initiate or escape a grapple but not on the checks to perform the maneuvers listed in the Grappling Maneuvers feature.
+
+### Mighty Fists
+
+*3rd-Level Scrapper Feature*
+
+Your unarmed attacks become more powerful. When you make an unarmed strike, the damage increases from 1 + your STR modifier to 1d4 + your STR modifier. This further increases to 1d6 at 7th level, 1d8 at 11th level, and 1d10 at 15th level.
+
+Starting at 7th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+Starting at 11th level, you score a critical hit on a d20 roll of 19 or 20 with unarmed strikes.
+
+### Grappling Maneuvers
+
+*7th-Level Scrapper Feature*
+
+As a bonus action while grappling a creature, you can perform one of the following grappling maneuvers. You must make a STR (Athletics) check contested by the grappled creature’s STR (Athletics) or DEX (Acrobatics) check (target’s choice). If you succeed, the target is affected by the maneuver until the grapple ends or until you use a different grappling maneuver on it:
+
+- **Chokehold.** You choke a breathing or speaking creature, and it can’t speak or cast spells with verbal components. If the target remains in a chokehold for two consecutive turns, it begins suffocating and continues suffocating until the grapple or this maneuver ends.
+
+- **Makeshift Shield.** You pull the creature between you and danger. You have half cover if the target is your size or smaller and three-quarters cover if it is larger than you.
+
+- **Pin.** You pin, hold, or otherwise immobilize the creature. The target is restrained.
+
+### Expert Grappler
+
+*11th-Level Scrapper Feature*
+
+You are an expert at holding onto and locking down foes. You can grapple creatures up to two sizes larger than you, and your speed isn’t halved when you drag or carry a grappled creature with you when you move.
+
+In addition, when you successfully initiate a grapple or succeed on a grappling maneuver, you can choose for the target to also take bludgeoning damage equal to half your fighter level.
+
+### Knockout Punch
+
+*15th-Level Scrapper Feature*
+
+When you hit a creature with two unarmed strikes in the same turn (and it has less than half of its hit point maximum) or when you score a critical hit with an unarmed strike, the target must succeed on a CON save (DC 8 + your PB + your STR modifier) or be stunned for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
+
+## Skirmisher
+
+%% source: Book of Blades %%
+
+Skirmishers use ranged attacks, melee attacks, and mobility to evade incoming strikes and reach enemies anywhere on the battlefield. They typically use crossbows with a Light weapon on hand for flexibility, taking aim at one foe while dodging another’s attacks, then slipping away to a more advantageous position.
+
+Skirmishers fill rank-and-file positions of many armies. Most come from the common class—sons and daughters of farmers and shepherds dragged into conflict. Lacking the wealth to purchase heavy armor and swords, they use inexpensive weapons, and their training is hasty and informal. To their commanders, skirmishers are expendable. They make strategic strikes against enemies to whittle them down until the heavy infantry rolls in.
+
+Skirmishers train with light armor, crossbows, daggers, and other light throwing weapons. They practice hit-andrun tactics, focusing on ranged attacks and guile to offset their lack of protection.
+
+**Skirmisher Progression**
+
+| Fighter Level | Features |
+|---|---|
+| 3rd | Agile, Crossbow Finesse |
+| 7th | Focused Aim |
+| 11th | Additional Fighting Style, Juke |
+| 15th | Bleeding Strike |
+
+### Agile
+
+*3rd-Level Skirmisher Feature*
+
+You gain a +2 bonus to all your DEX saves and ability checks while you’re wearing light or no armor.
+
+### Crossbow Finesse
+
+*3rd-Level Skirmisher Feature*
+
+You can fire more than once in a turn with a crossbow or other ranged weapon with the Loading property, which you are proficient with, ignoring that property’s typical penalty against it.
+
+In addition, if you take the Attack action and make a ranged weapon attack with a hand crossbow, you can use your bonus action to attack with a Light melee weapon you are wielding in your other hand.
+
+### Focused Aim
+
+*7th-Level Skirmisher Feature*
+
+You can use your bonus action to take precise, specific aim. Your ranged weapon attacks score critical hits on rolls of 19 or 20. When you score a critical hit in this way, you can also perform the Disarm, Hamstring, or Pinning Shot weapon option on the target (no action required). If you know the Aim Martial Action, you can use Focused Aim and Aim as part of the same bonus action.
+
+### Honed Reflexes
+
+*11th-Level Skirmisher Feature*
+
+You are particularly adept at responding to changes on the battlefield. Until the beginning of your next turn, you can take two reactions. You can do this a number of times equal to your PB. You regain all expended charges of this feature when you finish a long rest.
+
+### Juke
+
+*11th-Level Skirmisher Feature*
+
+You become more difficult to pin down on the battlefield. When a creature misses you with an attack roll, you can use your reaction to immediately move up to half your movement without provoking attacks of opportunity.
+
+In addition, when a creature makes a melee attack roll against you, if you are wielding a Light weapon in one hand, you can use your reaction to increase your AC by a number equal to your DEX modifier.
+
+### Bleeding Strike
+
+*15th-Level Iron Skirmisher Feature*
+
+When you hit an opponent with a crossbow bolt, your ammunition strikes a sensitive spot and the target bleeds profusely. At the start of the target’s next turn, it takes one additional die of damage of the weapon that dealt it. At the end of its turn, the target must succeed on a CON save against DC 8 + your PB + your WIS modifier to end the effect. On a failure, the effect continues on the target’s next turn.
 
 ## Spell Blade
 
@@ -274,261 +580,6 @@ When you take the Cast a Spell action, you can make a single weapon attack as pa
 You can add your INT modifier (minimum of +1) to the damage of your melee weapon attacks in addition to either your STR or DEX modifier.
 
 In addition, any damage you deal with a weapon is considered magical.
-
-## Weapon Master
-
-Most fighters feel a deep connection to their weapons, but none more so than the Weapon Master. For them, a favored bow or blade is a natural extension of their body and a trusted ally. Fighters who pursue this subclass learn to use their chosen arms with efficiency and artistry.
-
-**Weapon Master Progression**
-
-| Fighter Level | Features |
-|---|---|
-| 3rd | Mastery, Stunts |
-| 7th | Deadly Flourish |
-| 11th | Advanced Stunts |
-| 15th | Grand Finale |
-
-### Mastery
-
-*3rd-Level Weapon Master Feature*
-
-Choose three types of simple or martial weapons with which you have proficiency. You have mastered the use of those three weapons.
-
-Once per turn, when you roll damage for an attack with a weapon you have mastered, you can reroll the weapon’s damage dice and use either result.
-
-Alternatively, once per turn, when you use a weapon option (see **Weapon Options** in **Chapter 5**) for a weapon that you have mastered, you can roll the attack’s damage even if the weapon option doesn’t normally allow it.
-
-### Stunts
-
-*3rd-Level Weapon Master Feature*
-
-As part of your training, you’ve learned to use unique tactics with certain weapons. You gain access to special maneuvers called stunts.
-
-To use a stunt, you must wield a weapon that matches the weapon type listed in the stunt description (if one is listed). You can only use one stunt per turn. You gain access to advanced stunts at higher levels.
-
-All stunts listed are available to you at 3rd level. You can perform stunts a number of times equal to your PB + 1. After that, you must finish a short or long rest to regain expended uses.
-
-**Saves.** Some stunts require your target to make a save to resist its effects. The save DC for these stunts is calculated as follows: **Stunt save DC** = 8 + your proficiency bonus (PB) + your STR or DEX modifier (your choice) Stunts are presented in alphabetical order.
-
-#### Arcing Strike
-
-*Requires a Heavy Melee Weapon* When you deal damage with a heavy weapon wielded in both hands, you can also deal half the damage you dealt to a different target within reach that you can see. If the second target is an object, it takes the full damage instead. You can decide to use this after you know your damage roll.
-
-#### Cheap Shot
-
-*Requires a Melee Weapon* When you successfully hit a target with a melee weapon as part of the Attack action, you can immediately make an unarmed strike against that target as part of the same Attack action.
-
-#### Make It Count
-
-When you take the Attack action, you can make a single weapon attack with a +10 to the attack roll. On a hit, the attack deals additional damage equal to your fighter level. You can’t make additional attacks as part of that Attack action, even if a feature like Multiattack would normally allow you to do so.
-
-#### Parry
-
-*Requires a Melee Weapon* When a creature you can see hits you with a weapon attack, you can use your reaction to reduce the damage you take by 1d10 + your PB (to a minimum of 0 damage).
-
-#### Redirect
-
-When you miss a target with a weapon attack, you can use your reaction to immediately reroll the attack, but you must select a different target you can see within 5 feet of the original target.
-
-#### Riposte
-
-*Requires a Melee Weapon* When a creature you can see within range misses you with a weapon attack, you can use your reaction to immediately make a melee weapon attack against that creature.
-
-#### Straight Through
-
-*Requires a Ranged Weapon* When you deal damage with a ranged weapon attack, you can also deal half the damage you dealt to a different target you can see within 5 feet of the original target. You can decide to use this after you know your damage roll.
-
-#### Tactical Retreat
-
-*Requires a Melee Weapon* When you hit a creature with a weapon as part of the Attack action, you can immediately move up to half your speed as part of the same action without provoking opportunity attacks.
-
-### Deadly Flourish
-
-*7th-Level Weapon Master Feature*
-
-Attacks made with weapons you have mastered through your Mastery feature score critical hits on rolls of 19 or 20. When you score a critical hit, you can use your reaction to do one of the following:
-
-- Make a ranged weapon attack against a number of creatures equal to your PB within 15 feet of the target hit by your critical hit.
-
-- Make a separate melee attack against each creature within 5 feet of you.
-
-### Advanced Stunts
-
-*11th-Level Weapon Master Feature*
-
-The following powerful stunts are available to you whenever you could use a stunt.
-
-#### Assassin’s Ambush
-
-When you hit a creature, from which you are hidden, with a weapon attack, roll your weapon damage dice twice instead of once. On a critical hit, roll the weapon’s damage dice three times instead of twice.
-
-#### Bulwark
-
-*Requires a Shield* When you take damage from a spell or ability that requires a save, such as the *[[3rd-Circle Spells#Fireball|fireball]]* spell, you can use your reaction to reduce the damage dealt to you by an amount equal to your AC. Psychic damage can't be reduced by this stunt.
-
-#### Felling Sweep
-
-*Requires a Heavy Melee Weapon* As an action, you can make a single melee attack that targets each creature within reach, using a single attack and damage roll.
-
-#### Preemptive Strike
-
-*Requires a Melee Weapon* When a creature comes within reach of your weapon, you can use your reaction to make a single attack against it. On a hit, the target’s speed is reduced by 15 feet until the start of your next turn.
-
-#### Rapid Release
-
-*Requires a Ranged or Thrown Weapon* After you take the Attack action, you can use a bonus action to make an additional attack with a ranged or thrown weapon. You can draw a thrown weapon as part of the attack.
-
-#### Wrestler’s Clutch
-
-*Requires a Melee Weapon* When you hit a creature with a melee attack, the creature must succeed on a STR save or become grappled by you. While this grapple persists, stunts you use against the grappled creature don't expend uses of your Stunts feature. This grapple ends if you attack another creature, the target escapes, or you end it (no action required).
-
-### Grand Finale
-
-*15th-Level Weapon Master Feature*
-
-When you roll initiative and have no uses of your Stunts feature remaining, you can regain 3 uses. You must complete a long rest before you can use this feature again.
-
-## Fighter Boons
-
-%% source: Player's Guide 2 %%
-
-When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the fighter class.
-
-### Heroic Boons
-
-When you reach 10th level in the fighter class, you have the following additional options to choose from when selecting the boon for your Heroic Boon feature.
-
-#### Heroic Boon
-
-*10th-Level Fighter Feature*
-
-Your commitment to the fighter’s path grants you a powerful ability. Choose one of the following heroic boons:
-
-- **Martial Expert.** Learn three additional actions of your choice from the Martial Action feature (see *Player’s* *Guide*). In addition, when you take the Attack action on your turn, you can substitute one of your attacks to perform a martial action instead.
-
-- **Unavoidable.** When you make an attack roll against a creature and fail to hit it with the attack, you have advantage on the next attack you make against that creature before the end of your next turn.
-
-### Epic Boons
-
-When you reach 20th level in the fighter class, you have the following additional options to choose from when selecting the boon for your Epic Boon feature.
-
-#### Epic Boon
-
-*20th-Level Fighter Feature*
-
-Your commitment to the fighter’s path grants you a powerful new ability. You gain one of the following epic boons:
-
-- **Clear the Field.** When you reduce an enemy to 0 HP, you can move up to your base movement speed and make a single attack against a different creature within range. Moving in this way doesn’t provoke opportunity attacks.
-
-- **Live to Fight.** If you start your turn with less than half your hit points, but at least 1 HP, you regain hit points equal to your PB + your CON modifier. In addition, whenever you roll a death save, you can add your CON modifier to determine the result.
-
-## Martial Actions Expanded
-
-%% source: Player's Guide 2 %%
-
-This section lists additional martial actions available for fighters. See the Martial Action class feature in the *Player’s* *Guide* for the full description of how these effects work.
-
-### Destabilizing Blow
-
-*Requires Wielding a Shield or Unarmed Strike* As a bonus action, you knock the wind out of a creature with a kick, elbow, or blow with your shield. Choose one creature you can see within 5 feet of you. The target must succeed on a STR save against your weapon option save DC or have disadvantage on the next ability check or save it makes before the start of your next turn.
-
-### Focus
-
-*Requires Wielding a Melee Weapon or Unarmed Strike* As a bonus action, you take the time to increase the effectiveness of your next melee weapon attack. Select one target you can see and then double your PB for the first attack roll using a melee weapon against that target before the end of your turn.
-
-### Lunge
-
-*Requires Wielding a One-Handed Melee Weapon or a Two-* *Handed Melee Weapon Without the Heavy Property* As a bonus action, you briefly extend your reach but leave yourself exposed in the process. Until the start of your next turn, the reach of any melee weapons you wield extends by 5 feet, and your AC is decreased by 1.
-
-### Reposition
-
-*Requires Not Wielding a Heavy Melee Weapon* As a bonus action, you carefully reposition yourself to gain better ground on your enemy. You move up to 10 feet without provoking opportunity attacks.
-
-### Riposte
-
-*Requires Wielding a One-Handed Melee Weapon* As a bonus action, you fall into a parrying stance. Until the start of your next turn, your AC increases by 1, and the first time before the start of your next turn that a creature misses you with an attack while within 5 feet of you, the attacker takes damage of your weapon’s type equal to your PB.
-
-### Steady
-
-*Requires Wielding a Ranged or Thrown Weapon* As a bonus action, you steady your aim. Select one target you can see within your weapon’s normal range. If you hit that target with a ranged weapon attack from that weapon before the end of your turn, the first such attack deals extra damage equal to your PB (of the same damage type as the weapon).
-
-> [!note] Martial Actions for Paladins and Rangers
-> This section introduces new martial actions for the fighter. Paladins and rangers also have access to the Martial Action class feature, but their options are typically more limited than the fighter’s. At the GM’s discretion, the following new options would be good fits for paladin and ranger PCs:
->
-> - **Paladin.** Destabilizing blow, focus, reposition, unmoving shield.
->
-> - **Ranger.** Focus, lunge, riposte, steady.
->
-
-### Unmoving Shield
-
-*Requires Wielding a Shield* As a bonus action, you take on a defensive stance, bracing yourself with your shield. Until the start of your next turn, you have advantage on checks and saves against effects that would push or pull you, and you have advantage on checks and saves both to avoid and escape being grappled or restrained.
-
-## More Fighter Subclasses
-
-%% source: Player's Guide 2 %%
-At 3rd level, fighters gain the Fighter Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Scrapper, Stunt Archer, or Twinblade.
-
-## Scrapper
-
-%% source: Player's Guide 2 %%
-
-Fighters typically engage with their opponents with manufactured weapons. However, some of them enjoy the physicality of using their bodies as weapons and become adept at throwing fists and locking down foes.
-
-*Scrapper Progression*
-
-| Fighter Level | Features |
-|---|---|
-| 3rd | Grappling Superiority, Mighty Fists |
-| 7th | Grappling Maneuvers |
-| 11th | Expert Grappler |
-| 15th | Knockout Punch |
-
-### Grappling Superiority
-
-*3rd-Level Scrapper Feature*
-
-You gain proficiency in the Athletics skill. If you are already proficient, double your PB instead for checks made with that skill.
-
-In addition, instead of using your reaction to make an opportunity attack, you can use your reaction to attempt to grapple the creature provoking the opportunity attack.
-
-Starting at 7th level, you have advantage on checks to initiate or escape a grapple but not on the checks to perform the maneuvers listed in the Grappling Maneuvers feature.
-
-### Mighty Fists
-
-*3rd-Level Scrapper Feature*
-
-Your unarmed attacks become more powerful. When you make an unarmed strike, the damage increases from 1 + your STR modifier to 1d4 + your STR modifier. This further increases to 1d6 at 7th level, 1d8 at 11th level, and 1d10 at 15th level.
-
-Starting at 7th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
-
-Starting at 11th level, you score a critical hit on a d20 roll of 19 or 20 with unarmed strikes.
-
-### Grappling Maneuvers
-
-*7th-Level Scrapper Feature*
-
-As a bonus action while grappling a creature, you can perform one of the following grappling maneuvers. You must make a STR (Athletics) check contested by the grappled creature’s STR (Athletics) or DEX (Acrobatics) check (target’s choice). If you succeed, the target is affected by the maneuver until the grapple ends or until you use a different grappling maneuver on it:
-
-- **Chokehold.** You choke a breathing or speaking creature, and it can’t speak or cast spells with verbal components. If the target remains in a chokehold for two consecutive turns, it begins suffocating and continues suffocating until the grapple or this maneuver ends.
-
-- **Makeshift Shield.** You pull the creature between you and danger. You have half cover if the target is your size or smaller and three-quarters cover if it is larger than you.
-
-- **Pin.** You pin, hold, or otherwise immobilize the creature. The target is restrained.
-
-### Expert Grappler
-
-*11th-Level Scrapper Feature*
-
-You are an expert at holding onto and locking down foes. You can grapple creatures up to two sizes larger than you, and your speed isn’t halved when you drag or carry a grappled creature with you when you move.
-
-In addition, when you successfully initiate a grapple or succeed on a grappling maneuver, you can choose for the target to also take bludgeoning damage equal to half your fighter level.
-
-### Knockout Punch
-
-*15th-Level Scrapper Feature*
-
-When you hit a creature with two unarmed strikes in the same turn (and it has less than half of its hit point maximum) or when you score a critical hit with an unarmed strike, the target must succeed on a CON save (DC 8 + your PB + your STR modifier) or be stunned for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 
 ## Stunt Archer
 
@@ -653,71 +704,6 @@ You treat all bows and crossbows as if they had the Ricochet Shot weapon option 
 
 In addition, when you roll initiative and have no uses of your Stunt Shots feature remaining, you regain 3 uses. You must complete a long rest before you can use this aspect of this feature again.
 
-## Twinblade
-
-%% source: Player's Guide 2 %%
-
-Fighters that choose the Twinblade discipline are master dual-wielders, forgoing cumbersome armaments to become a whirling death that moves through battles with lightning speed. From afar, the complex forms and circular movements employed by these warriors resemble a graceful dance. But foes confronted with a Twinblade’s spinning strikes rarely live to question the deadliness of their art.
-
-*Twinblade Progression*
-
-| Fighter Level | Features |
-|---|---|
-| 3rd | Blade Dance, Deadly Grace |
-| 7th | Double Edged |
-| 11th | One Thousand Cuts |
-| 15th | Moving Target |
-
-### Blade Dance
-
-*3rd-Level Twinblade Feature*
-
-As a bonus action, you can begin a blade dance as long as you are neither grappled or restrained nor your speed is otherwise reduced to 0. While engaged in a blade dance, you gain the following benefits if you are wielding a melee weapon in each hand and aren’t wearing medium or heavy armor:
-
-- You have advantage on DEX saves and DEX ability checks made to avoid being grappled or restrained or having your movement speed reduced. If you become grappled or restrained, you have advantage on checks made to escape or end the effect as long as your blade dance is active.
-
-- Your movement doesn’t provoke opportunity attacks.
-
-- Your speed increases by 10 feet. If you can cast spells, you can’t cast them or concentrate on them while you’re engaged in a blade dance. A blade dance lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven’t moved at least 5 feet since the start of your turn. You can also end a blade dance early on your turn (no action required). You can begin a blade dance a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
-
-### Deadly Grace
-
-*3rd-Level Twinblade Feature*
-
-You gain proficiency in either the Acrobatics or Performance skill. If you are already proficient in one or both of these skills, double your PB for checks made with that skill.
-
-In addition, while you are wielding a melee weapon in each hand and aren’t restrained, grappled, or otherwise unable to move, your AC equals 10 + your DEX modifier + your PB. You can’t benefit from this feature while wearing medium or heavy armor.
-
-### Double Edged
-
-*7th-Level Twinblade Feature*
-
-When you take the Attack action on your turn and then use a bonus action to make one or more additional attacks (such as for two-weapon fighting and the Quick Strike martial action), you can add your DEX modifier to the damage dealt by the bonus attacks. If you have at least one use remaining of your Blade Dance feature, you can activate it as part of the same bonus action you used to make these attacks.
-
-### One Thousand Cuts
-
-*11th-Level Twinblade Feature*
-
-When you take the Attack action on your turn while your blade dance is active, you can forgo the normal number of attacks granted by your Multiattack to instead make one melee weapon attack that targets each creature within 5 feet of you, using a single attack roll and damage roll.
-
-In addition, if you use a bonus action to use two-weapon fighting or the Quick Strike martial action on the same turn, you can also forgo the number of additional attacks you would normally make to instead make one melee weapon attack that targets each creature within 5 feet of you, using a single attack roll and damage roll.
-
-Once you use this feature, you can’t do so again until you finish a short or long rest.
-
-### Moving Target
-
-*15th-Level Twinblade Feature*
-
-As long as you aren’t incapacitated, you can’t be grappled or restrained, and your speed can’t be reduced by any means.
-
-In addition, as a reaction when a hostile creature you can see enters a space within 10 feet of you for the first time on a turn, you can move up to your movement speed without provoking opportunity attacks.
-
-## Labyrinth Fighter Subclasses
-
-%% source: Labyrinth Worldbook %%
-
-At 3rd level, a fighter gains the Fighter Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Trooper.
-
 ## Trooper
 
 %% source: Labyrinth Worldbook %%
@@ -780,135 +766,64 @@ Nothing can stop you from completing your mission. When you are reduced to 0 HP 
 
 Once you use this feature, you can’t do so again until you finish a long rest.
 
-## Book of Blades Fighter Subclasses
+## Twinblade
 
-%% source: Book of Blades %%
+%% source: Player's Guide 2 %%
 
-When you choose your fighter subclass, the following subclasses from *[[Book of Blades]]* are also available: Iron Bastion and Skirmisher.
+Fighters that choose the Twinblade discipline are master dual-wielders, forgoing cumbersome armaments to become a whirling death that moves through battles with lightning speed. From afar, the complex forms and circular movements employed by these warriors resemble a graceful dance. But foes confronted with a Twinblade’s spinning strikes rarely live to question the deadliness of their art.
 
-## Iron Bastion
-
-%% source: Book of Blades %%
-
-Encased in a tower of iron and steel, the Iron Bastion stands between its allies and all harm. These fighters excel at using armor and shield to protect themselves and other party members. They learn special exploits that take advantage of their armor and shield in ways others could never master.
-
-**Iron Bastion Progression**
+*Twinblade Progression*
 
 | Fighter Level | Features |
 |---|---|
-| 3rd | Additional Talent, Barrier Shield |
-| 7th | Unscathed |
-| 11th | Barrier Shield Expert |
-| 15th | Impenetrable |
+| 3rd | Blade Dance, Deadly Grace |
+| 7th | Double Edged |
+| 11th | One Thousand Cuts |
+| 15th | Moving Target |
 
-### Additional Talent
+### Blade Dance
 
-*3rd-Level Iron Bastion Feature*
+*3rd-Level Twinblade Feature*
 
-You gain a new martial talent. Choose a talent to represent the way you specialize in protecting yourself and your allies: Armor Expert, Shield Mastery, or [[Vanguard]].
+As a bonus action, you can begin a blade dance as long as you are neither grappled or restrained nor your speed is otherwise reduced to 0. While engaged in a blade dance, you gain the following benefits if you are wielding a melee weapon in each hand and aren’t wearing medium or heavy armor:
 
-### Barrier Shield
+- You have advantage on DEX saves and DEX ability checks made to avoid being grappled or restrained or having your movement speed reduced. If you become grappled or restrained, you have advantage on checks made to escape or end the effect as long as your blade dance is active.
 
-*3rd-Level Iron Bastion Feature*
+- Your movement doesn’t provoke opportunity attacks.
 
-You have innovated shield use. When you are wielding a shield, you gain a +3 bonus to your AC instead of +2. At the end of your turn, you can choose one ally to gain a +1 bonus to AC until the end of your next turn, while that ally stays within 5 feet of you.
+- Your speed increases by 10 feet. If you can cast spells, you can’t cast them or concentrate on them while you’re engaged in a blade dance. A blade dance lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven’t moved at least 5 feet since the start of your turn. You can also end a blade dance early on your turn (no action required). You can begin a blade dance a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
-In addition, choose one shield exploit that you know from the list below. You can perform the exploit a number of times equal to your PB. You regain all expended uses when you finish a long rest.
+### Deadly Grace
 
-- **Iron Resolve.** As a reaction, you can add your shield bonus to your WIS save.
+*3rd-Level Twinblade Feature*
 
-- **Lock Down.** When you succeed on a melee attack against an enemy within 5 feet, the enemy’s speed becomes 0 until the start of your next turn.
+You gain proficiency in either the Acrobatics or Performance skill. If you are already proficient in one or both of these skills, double your PB for checks made with that skill.
 
-- **Shield Bash.** As a bonus action, you can forgo the bonus to your AC from your shield to make an attack with it. In your hands, a shield is a weapon with the Light property that deals 1d6 + your STR modifier bludgeoning damage and has the Bash weapon option.
+In addition, while you are wielding a melee weapon in each hand and aren’t restrained, grappled, or otherwise unable to move, your AC equals 10 + your DEX modifier + your PB. You can’t benefit from this feature while wearing medium or heavy armor.
 
-- **Superior Maneuvering.** When you hit with a shove attack, you can push your target an additional 5 feet.
+### Double Edged
 
-When you are forced to move against your will, decrease the distance by 5 feet.
+*7th-Level Twinblade Feature*
 
-### Unscathed
+When you take the Attack action on your turn and then use a bonus action to make one or more additional attacks (such as for two-weapon fighting and the Quick Strike martial action), you can add your DEX modifier to the damage dealt by the bonus attacks. If you have at least one use remaining of your Blade Dance feature, you can activate it as part of the same bonus action you used to make these attacks.
 
-*7th-Level Iron Bastion Feature*
+### One Thousand Cuts
 
-Protected by the steel plates of armor and your heavy shield, you can walk through almost anything. While you are wearing heavy armor and wielding a shield and you are subjected to an effect that allows you to make a DEX save to take only half damage, you instead take no damage if you succeed on the save and only half damage if you fail.
+*11th-Level Twinblade Feature*
 
-### Barrier Shield Expert
+When you take the Attack action on your turn while your blade dance is active, you can forgo the normal number of attacks granted by your Multiattack to instead make one melee weapon attack that targets each creature within 5 feet of you, using a single attack roll and damage roll.
 
-*11th-Level Iron Bastion Feature*
+In addition, if you use a bonus action to use two-weapon fighting or the Quick Strike martial action on the same turn, you can also forgo the number of additional attacks you would normally make to instead make one melee weapon attack that targets each creature within 5 feet of you, using a single attack roll and damage roll.
 
-Your skill with a shield exceeds what most would have thought achievable. When you are wielding a shield, you now gain a +4 bonus to your AC instead of +3. In addition, you learn a second shield exploit from the Tower Shield feature.
+Once you use this feature, you can’t do so again until you finish a short or long rest.
 
-### Impenetrable
+### Moving Target
 
-*15th-Level Iron Bastion Feature*
+*15th-Level Twinblade Feature*
 
-Your resilience in heavy armor and wielding a shield is legendary. Whenever you perform a shield exploit, you gain temporary hit points equal to your PB. These hit points last until expended or you finish a short or long rest.
+As long as you aren’t incapacitated, you can’t be grappled or restrained, and your speed can’t be reduced by any means.
 
-While wearing heavy armor and carrying a shield, as an action, you can cast *wall of force* with no material components. Once you cast this spell, you can’t use it again until you finish a long rest.
-
-## Skirmisher
-
-%% source: Book of Blades %%
-
-Skirmishers use ranged attacks, melee attacks, and mobility to evade incoming strikes and reach enemies anywhere on the battlefield. They typically use crossbows with a Light weapon on hand for flexibility, taking aim at one foe while dodging another’s attacks, then slipping away to a more advantageous position.
-
-Skirmishers fill rank-and-file positions of many armies. Most come from the common class—sons and daughters of farmers and shepherds dragged into conflict. Lacking the wealth to purchase heavy armor and swords, they use inexpensive weapons, and their training is hasty and informal. To their commanders, skirmishers are expendable. They make strategic strikes against enemies to whittle them down until the heavy infantry rolls in.
-
-Skirmishers train with light armor, crossbows, daggers, and other light throwing weapons. They practice hit-andrun tactics, focusing on ranged attacks and guile to offset their lack of protection.
-
-**Skirmisher Progression**
-
-| Fighter Level | Features |
-|---|---|
-| 3rd | Agile, Crossbow Finesse |
-| 7th | Focused Aim |
-| 11th | Additional Fighting Style, Juke |
-| 15th | Bleeding Strike |
-
-### Agile
-
-*3rd-Level Skirmisher Feature*
-
-You gain a +2 bonus to all your DEX saves and ability checks while you’re wearing light or no armor.
-
-### Crossbow Finesse
-
-*3rd-Level Skirmisher Feature*
-
-You can fire more than once in a turn with a crossbow or other ranged weapon with the Loading property, which you are proficient with, ignoring that property’s typical penalty against it.
-
-In addition, if you take the Attack action and make a ranged weapon attack with a hand crossbow, you can use your bonus action to attack with a Light melee weapon you are wielding in your other hand.
-
-### Focused Aim
-
-*7th-Level Skirmisher Feature*
-
-You can use your bonus action to take precise, specific aim. Your ranged weapon attacks score critical hits on rolls of 19 or 20. When you score a critical hit in this way, you can also perform the Disarm, Hamstring, or Pinning Shot weapon option on the target (no action required). If you know the Aim Martial Action, you can use Focused Aim and Aim as part of the same bonus action.
-
-### Honed Reflexes
-
-*11th-Level Skirmisher Feature*
-
-You are particularly adept at responding to changes on the battlefield. Until the beginning of your next turn, you can take two reactions. You can do this a number of times equal to your PB. You regain all expended charges of this feature when you finish a long rest.
-
-### Juke
-
-*11th-Level Skirmisher Feature*
-
-You become more difficult to pin down on the battlefield. When a creature misses you with an attack roll, you can use your reaction to immediately move up to half your movement without provoking attacks of opportunity.
-
-In addition, when a creature makes a melee attack roll against you, if you are wielding a Light weapon in one hand, you can use your reaction to increase your AC by a number equal to your DEX modifier.
-
-### Bleeding Strike
-
-*15th-Level Iron Skirmisher Feature*
-
-When you hit an opponent with a crossbow bolt, your ammunition strikes a sensitive spot and the target bleeds profusely. At the start of the target’s next turn, it takes one additional die of damage of the weapon that dealt it. At the end of its turn, the target must succeed on a CON save against DC 8 + your PB + your WIS modifier to end the effect. On a failure, the effect continues on the target’s next turn.
-
-## Northlands Fighter Subclasses
-
-%% source: Northlands Worldbook %%
-
-At 3rd level, a fighter gains the Fighter Subclass feature. The following subclass from the [[Northlands]] is also available when making that choice: Viking.
+In addition, as a reaction when a hostile creature you can see enters a space within 10 feet of you for the first time on a turn, you can move up to your movement speed without provoking opportunity attacks.
 
 ## Viking
 
@@ -967,70 +882,118 @@ When your hit points are reduced to half your maximum, or if a creature scores a
 
 You can use this feature a number of times equal to your PB, and you regain all uses once you’ve finished a long rest.
 
-## Night Hunters Fighter Subclasses
+## Weapon Master
 
-%% source: Night Hunters %%
+Most fighters feel a deep connection to their weapons, but none more so than the Weapon Master. For them, a favored bow or blade is a natural extension of their body and a trusted ally. Fighters who pursue this subclass learn to use their chosen arms with efficiency and artistry.
 
-At 3rd level, a fighter gains the Fighter Subclass feature. The following subclass from *Night Hunters* is also available when making that choice: Nemesis.
-
-## Nemesis
-
-%% source: Night Hunters %%
-
-Fighters that commit to the Nemesis discipline dedicate themselves to the pursuit and slaughter of the vilest predators that stalk the night. They stand against shadow by infusing themselves with a fraction of the same darkness they are bound to fight.
-
-**Nemesis Progression**
+**Weapon Master Progression**
 
 | Fighter Level | Features |
 |---|---|
-| 3rd | Beast of Prey, Slayer’s Rite |
-| 7th | Blood to Blood |
-| 11th | Hunter’s Revenge |
-| 15th | Killing Drive |
+| 3rd | Mastery, Stunts |
+| 7th | Deadly Flourish |
+| 11th | Advanced Stunts |
+| 15th | Grand Finale |
 
-### Beast of Prey
+### Mastery
 
-*3rd-Level Nemesis Feature*
+*3rd-Level Weapon Master Feature*
 
-You gain proficiency in the Survival skill. If you’re already proficient, double your PB instead for checks made with that skill.
+Choose three types of simple or martial weapons with which you have proficiency. You have mastered the use of those three weapons.
 
-In addition, you have advantage on saves against being charmed, frightened, or possessed, including on saves to end such effects.
+Once per turn, when you roll damage for an attack with a weapon you have mastered, you can reroll the weapon’s damage dice and use either result.
 
-### Slayer’s Rite
+Alternatively, once per turn, when you use a weapon option (see **Weapon Options** in **Chapter 5**) for a weapon that you have mastered, you can roll the attack’s damage even if the weapon option doesn’t normally allow it.
 
-*3rd-Level Nemesis Feature*
+### Stunts
 
-As part of a short or long rest, you can mystically attune yourself to face a specific type of monster. Choose one of the following creature types: Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Monstrosity, Ooze, Plant, or Undead. You gain the following benefits, which last until you use this feature to select a different creature type:
+*3rd-Level Weapon Master Feature*
 
-- When you deal damage to creatures of your chosen type, you ignore any damage resistances the creature has, including resistance to damage from nonmagical attacks. Damage immunities function as normal.
-- When you hit a creature of your chosen type with an attack roll, the attack deals additional damage equal to half your fighter level (rounded down). This extra damage is the same type as that dealt by the triggering attack.
-- You have advantage on ability checks to track, identify, or recall information about creatures of that type.
+As part of your training, you’ve learned to use unique tactics with certain weapons. You gain access to special maneuvers called stunts.
 
-### Blood to Blood
+To use a stunt, you must wield a weapon that matches the weapon type listed in the stunt description (if one is listed). You can only use one stunt per turn. You gain access to advanced stunts at higher levels.
 
-*7th-Level Nemesis Feature*
+All stunts listed are available to you at 3rd level. You can perform stunts a number of times equal to your PB + 1. After that, you must finish a short or long rest to regain expended uses.
 
-As a reaction when you take damage from a creature that isn’t the type you chose when you last activated your Slayer’s Rite feature, you can immediately change that feature’s creature type to match the type of your attacker. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+**Saves.** Some stunts require your target to make a save to resist its effects. The save DC for these stunts is calculated as follows: **Stunt save DC** = 8 + your proficiency bonus (PB) + your STR or DEX modifier (your choice) Stunts are presented in alphabetical order.
 
-### Hunter’s Revenge
+#### Arcing Strike
 
-*11th-Level Nemesis Feature*
+*Requires a Heavy Melee Weapon* When you deal damage with a heavy weapon wielded in both hands, you can also deal half the damage you dealt to a different target within reach that you can see. If the second target is an object, it takes the full damage instead. You can decide to use this after you know your damage roll.
 
-When you use your [[Fighter#Last Stand|Last Stand]] fighter feature, you can swear vengeance against one creature within 60 feet that you can see and choose one of the following benefits:
+#### Cheap Shot
 
-- The target has disadvantage on attack rolls against you.
-- You have advantage on attack rolls against the target.
-- You have advantage on saves against the target’s spells and effects.
+*Requires a Melee Weapon* When you successfully hit a target with a melee weapon as part of the Attack action, you can immediately make an unarmed strike against that target as part of the same Attack action.
 
-The chosen benefit lasts for 1 minute. If the target dies before the duration ends, you can choose a new creature within 60 feet that you can see, automatically switching the same chosen benefit to the new target.
+#### Make It Count
 
-### Killing Drive
+When you take the Attack action, you can make a single weapon attack with a +10 to the attack roll. On a hit, the attack deals additional damage equal to your fighter level. You can’t make additional attacks as part of that Attack action, even if a feature like Multiattack would normally allow you to do so.
 
-*15th-Level Nemesis Feature*
+#### Parry
 
-If you start your turn and can see at least one hostile creature within 60 feet of you that matches the type you chose when you last activated your Slayer’s Rite feature, your speed is doubled until the start of your next turn.
+*Requires a Melee Weapon* When a creature you can see hits you with a weapon attack, you can use your reaction to reduce the damage you take by 1d10 + your PB (to a minimum of 0 damage).
 
-In addition, you can immediately choose to expend (and then roll) one of your available hit dice to recover hit points equal to the number rolled + your CON modifier. Alternatively, you can forgo regaining hit points and instead use the hit die to end a condition of your choice that is currently affecting you.
+#### Redirect
+
+When you miss a target with a weapon attack, you can use your reaction to immediately reroll the attack, but you must select a different target you can see within 5 feet of the original target.
+
+#### Riposte
+
+*Requires a Melee Weapon* When a creature you can see within range misses you with a weapon attack, you can use your reaction to immediately make a melee weapon attack against that creature.
+
+#### Straight Through
+
+*Requires a Ranged Weapon* When you deal damage with a ranged weapon attack, you can also deal half the damage you dealt to a different target you can see within 5 feet of the original target. You can decide to use this after you know your damage roll.
+
+#### Tactical Retreat
+
+*Requires a Melee Weapon* When you hit a creature with a weapon as part of the Attack action, you can immediately move up to half your speed as part of the same action without provoking opportunity attacks.
+
+### Deadly Flourish
+
+*7th-Level Weapon Master Feature*
+
+Attacks made with weapons you have mastered through your Mastery feature score critical hits on rolls of 19 or 20. When you score a critical hit, you can use your reaction to do one of the following:
+
+- Make a ranged weapon attack against a number of creatures equal to your PB within 15 feet of the target hit by your critical hit.
+
+- Make a separate melee attack against each creature within 5 feet of you.
+
+### Advanced Stunts
+
+*11th-Level Weapon Master Feature*
+
+The following powerful stunts are available to you whenever you could use a stunt.
+
+#### Assassin’s Ambush
+
+When you hit a creature, from which you are hidden, with a weapon attack, roll your weapon damage dice twice instead of once. On a critical hit, roll the weapon’s damage dice three times instead of twice.
+
+#### Bulwark
+
+*Requires a Shield* When you take damage from a spell or ability that requires a save, such as the *[[3rd-Circle Spells#Fireball|fireball]]* spell, you can use your reaction to reduce the damage dealt to you by an amount equal to your AC. Psychic damage can't be reduced by this stunt.
+
+#### Felling Sweep
+
+*Requires a Heavy Melee Weapon* As an action, you can make a single melee attack that targets each creature within reach, using a single attack and damage roll.
+
+#### Preemptive Strike
+
+*Requires a Melee Weapon* When a creature comes within reach of your weapon, you can use your reaction to make a single attack against it. On a hit, the target’s speed is reduced by 15 feet until the start of your next turn.
+
+#### Rapid Release
+
+*Requires a Ranged or Thrown Weapon* After you take the Attack action, you can use a bonus action to make an additional attack with a ranged or thrown weapon. You can draw a thrown weapon as part of the attack.
+
+#### Wrestler’s Clutch
+
+*Requires a Melee Weapon* When you hit a creature with a melee attack, the creature must succeed on a STR save or become grappled by you. While this grapple persists, stunts you use against the grappled creature don't expend uses of your Stunts feature. This grapple ends if you attack another creature, the target escapes, or you end it (no action required).
+
+### Grand Finale
+
+*15th-Level Weapon Master Feature*
+
+When you roll initiative and have no uses of your Stunts feature remaining, you can regain 3 uses. You must complete a long rest before you can use this feature again.
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

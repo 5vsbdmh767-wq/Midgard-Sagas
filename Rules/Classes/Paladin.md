@@ -214,7 +214,13 @@ Your commitment to the paladin’s path grants you a powerful new ability. Choos
 
 - **Divine Recovery.** When you heal a creature with your Lay on Hands feature, the target can expend one of their hit dice, roll the die, and add their CON modifier to it. The target regains that many hit points, in addition to any healing received from Lay on Hands.
 
+- **Mystic Steed.** Your faith is rewarded with the ability to summon a mystic steed. You learn a more potent version of the *[[Rituals 1st–3rd Circle#Find Steed|find steed]]* ritual spell, and you can cast it as an action without the need for any material components. This spell doesn’t count against your number of spells known. When you cast it, you can choose one of the normal steed forms or one of the following special forms: **dire wolf, griffon, hippogriff, pegasus, rhinoceros, or saber-toothed tiger** (see *Monster Vault* for all); or **hippalektryon** or **rampede** (see *Monster Vault 2* for both). Alternatively, with the approval of your GM, you can select any other Medium or Large Beast (or creature with the Animal tag) of CR 2 or lower.
+
 - **Radiant Strikes.** Your every strike is divinely empowered. When you hit a creature with a weapon, the attack deals an extra 1d8 radiant damage. Fiends and Undead instead take 2d8 radiant damage. This extra damage stacks with any damage from your Divine Smite feature.
+
+- **Seraphic Sight.** While your Divine Sense feature (see *Player’s Guide*) is active, you don’t have disadvantage on attack rolls against creatures you sense with Divine sense, even if you can’t see them, and such creatures don’t have advantage on attack rolls against you from being hidden, invisible, or otherwise unable to be seen by you. In addition, you can target such creatures with spells, even if the spell normally requires you to see the target.
+
+%% source: Player's Guide 2: Mystic Steed, Seraphic Sight %%
 
 ### Cleansing Touch
 
@@ -234,15 +240,304 @@ The range of your Aura of Protection and Aura of Courage features (and any auras
 
 *20th-Level Paladin Feature*
 
-Your commitment to the paladin’s path grants you a powerful new ability. You gain the following epic boon:
+Your commitment to the paladin’s path grants you a powerful new ability. You gain one of the following epic boons:
 
 - **Aura of Salvation.** As an action, you can exude a calming reassurance for 1 hour. While the aura is active, you and friendly creatures within 30 feet of you have resistance to nonmagical damage and automatically succeed on death saving throws. A creature with at least 1 HP that starts its turn in the aura regains hit points equal to your CHA modifier. This effect ends early if you are incapacitated or die. Once used, you can't use it again until you finish a long rest.
+
+- **Avenger.** When you expend a Divine spell slot of 5th circle or lower to deal extra damage with your Divine Smite feature (see *Player’s Guide*), you can choose to roll a d6. If the result of the roll is higher than the circle of the expended slot, you automatically recover the spell slot.
+
+- **Sacred Conduit.** When you finish a long rest, you gain one additional use of your Channel Divinity feature (see *Player’s Guide*). Once this extra use is expended, you can’t recover it by any means other than finishing a long rest. In addition, whenever you roll initiative, you automatically recover up to two expended uses of Channel Divinity.
+
+%% source: Player's Guide 2: Avenger, Sacred Conduit %%
 
 ## Paladin Subclasses
 
 When you have strengthened your resolve, pitted yourself against wickedness, and proven that fate is on your side, you will be ready to take your sacred oath. Each oath is both a set of principles to which you will strive and a reflection of manifestation of your divine powers.
 
 Choose wisely, for breaking your oath may strip you of your powers until you right the wrong or overcome the adversity that broke your oath in the first place.
+
+| Subclass | Suits |
+|---|---|
+| [[#Anamnesis\|Anamnesis]] | Any character |
+| [[#Anathema\|Anathema]] | Any character |
+| [[#Ashen Base\|Ashen Base]] | Any character |
+| [[#Devotion\|Devotion]] | Any character |
+| [[#Justice\|Justice]] | Any character |
+| [[#Old World\|Old World]] | The [[The Labyrinth\|Labyrinth]] |
+| [[#Safekeeping\|Safekeeping]] | Any character |
+| [[#Unbound\|Unbound]] | Any character |
+| [[#Valhalla\|Valhalla]] | The [[Northlands]] |
+
+## Anamnesis
+
+%% source: Book of Blades %%
+
+The Anamnesis paladin is an oath of heralds and martyrs. Legends have been passed down through the ages, the simple memories of which spur warriors on to feats of heroism. Its adherents are a varied lot, from living embodiments of storybook ideals to cultured warriorscholars learned in the traditions of a dozen languages to insular knights so steeped in centuries of in-jokes and literary references that they are near-incomprehensible to strangers. All are champions of ancient lines, not merely for their memory but for the virtues and cultural impact they have on the living.
+
+### Tenets of Anamnesis
+
+Tenets of Anamnesis are as varied as the legends that spawn them. Their similarity is less in specific tenets, for different cultures may consider different traits virtuous, but in their belief that culture can be a force for good and that all cultures, even those of their foes, are worth remembering.
+
+***Exalt Others.*** To provoke virtue, you must exalt it as it occurs. Publicly praise others for their good works and even admit virtue from your foes.
+
+***Remember the Fallen.*** Too often, martyrs are forgotten by happenstance. Spread the memory of those who have fallen in your adventures, not merely for their ends, but for the lives they lived and the ideals they stood for.
+
+***Preserve Culture.*** All traditions are worthy of preservation, even those alien to you. Save artifacts, stories, and art from destruction and prevent their theft by others.
+
+***Embody Virtue.*** Take on the virtues of those legends you extoll and be mindful to avoid their failings. Act in such a manner that when others carry on your memory, they need not embellish it.
+
+**Anamnesis Progression**
+
+| Paladin Level | Features |
+|---|---|
+| 3 | Anamnesis Oath Spells, Channel Divinity: Borrowed Knowledge, Channel Divinity: Tactical Brilliance |
+| 7 | Aura of Splendor |
+| 11 | Unending Chant |
+| 15 | Legendary Mien |
+
+### Anamnesis Oath Spells
+
+*3rd-Level Anamnesis Feature*
+
+You gain oath spells at the paladin levels listed in the **Anamnesis Oath Spells** table.
+
+**Anamnesis Oath Spells**
+
+| Paladin Level | Spells |
+|---|---|
+| 3rd | *bane, comprehend languages* |
+| 5th | *enthrall, spiritual weapon* |
+| 9th | *spirit guardians, tongues* |
+| 13th | *compulsion, freedom of movement* |
+| 17th | *dominate person, legend lore* |
+
+### Channel Divinity
+
+*3rd-Level Anamnesis Feature*
+
+You gain the following two Channel Divinity options.
+
+> Channel Divinity: Borrowed Knowledge
+
+As a bonus action, you recite the legend of an ancient hero and channel their legendary skills. For 10 minutes, you have proficiency in two skills of your choice. If you already have proficiency in a chosen skill, double your PB with it.
+
+> Channel Divinity: Tactical Brilliance
+
+As an action, you can perform any [[Battle Tactics|Battle Tactic]] (see **Battle Tactics** in **Chapter 4**) with an activation time of one action or less, even if you don’t have the Battle Tactician talent, by spending a spell slot whose spell circle equals its point cost. This does not count against your one Battle Tactic per short rest.
+
+### Aura of Splendor
+
+*7th-Level Anamnesis Feature*
+
+You draw power from all glory on the battlefield, regardless of origin, emanating as an aura that steadies your allies. When any creature within 10 feet of you performs a critical hit, all creatures of your choice within 10 feet of you gain temporary hit points equal to your paladin level. While they have these hit points, they are immune to the frightened and charmed conditions. This aura is enhanced by the 17thlevel Aura Improvements class feature.
+
+### Unending Chant
+
+*11th-Level Anamnesis Feature*
+
+The memory of your chant continues even after you fall. Battle Tactics that you use last for their full duration, even if you are knocked unconscious or otherwise removed from a combat.
+
+### Legendary Mien
+
+*15th-Level Anamnesis Feature*
+
+As an action, you take on the unmistakable appearance of a paladin of legend whose tales you know well. In this state, you stride unhindered across the battlefield and all allies who look upon you know your command. For 1 minute you gain the following benefits:
+
+- Your walking speed increases to 50 feet. You gain the effects of the *freedom of movement* spell. You cannot be moved unless you wish to move.
+
+- You can use any two Battle Tactics (see **Battle Tactics** in **Chapter 4**) of your choice, regardless of whether you know them, at no cost.
+
+- Once you use this feature, you can’t use it again until you finish a long rest.
+
+## Anathema
+
+%% source: Player's Guide 2 %%
+
+Paladins wishing to end immediate threats posed by evil creatures and who don’t mind the stains of close dealings with such creatures swear an oath of Anathema. These paladins use the tools of the enemy—typically guile and threats—against the enemy, preferring those over blades. However, they have no problem resorting to direct combat when necessary. Many argue these paladins are no better than the evils they purport to fight, but few can argue against the results of their efforts.
+
+### Tenets of Anathema
+
+Paladins who swear the oath of Anathema are often quick to adapt to unexpected situations, and though this can take unexpected forms, depending on the individual, their actions all evolve from the same convictions.
+
+***Evil Is a Viable Tool***. Take advantage of evil creatures’ venal natures to gather information on their superiors or turn them against former allies.
+
+***Forcing a Retreat Is a Victory***. Weigh the benefits of removing an imminent threat at great cost and regrouping to deal with it permanently at a later time with collateral damage.
+
+***Moral Flexibility***. Your foes don’t care about the concepts of compassion, honesty, or honor, and sometimes, you must also eschew them for the greater good.
+
+*Anathema Progression*
+
+| Paladin Level | Features |
+|---|---|
+| 3rd | Anathema Oath Spells, Channel Divinity: Reveal Deceivers, Channel Divinity: Turn the Profane, Expanded Proficiencies and Talent List |
+| 7th | Aura of Fearsomeness |
+| 11th | Direct Action |
+| 15th | Divine Anathema |
+
+### Anathema Oath Spells
+
+*3rd-Level Anathema Feature*
+
+You gain oath spells at the paladin levels listed in the **Anathema Oath Spells** table. See the Paladin Subclass class feature in the *Player’s Guide* for how these spells work.
+
+*Anathema Oath Spells*
+
+| Paladin Level | Spells |
+|---|---|
+| 3rd | protection from evil and good |
+| 5th | silence |
+| 9th | protection from energy |
+| 13th | banishment |
+| 17th | mislead |
+
+### Channel Divinity
+
+*3rd-Level Anathema Feature*
+
+You gain the following two Channel Divinity options.
+
+#### Channel Divinity: Reveal Deceivers
+
+As an action, you present your holy symbol and call out falsehoods in creatures within 30 feet of you. Each creature in the area that is using magic or a feature to disguise itself (such as the *[[1st-Circle Spells#Disguise Self|disguise self]]* spell or a hag’s Illusory Appearance) or to take on a form other than its true form (such as the *[[2nd-Circle Spells#Alter Self|alter self]]* spell or a werewolf’s Change Shape) is outlined in holy light of a color of your choice for 1 minute. While outlined in this light, a creature takes radiant damage equal to your CHA modifier at the start of each of its turns, can’t benefit from being invisible, and attack rolls against it have advantage. A creature outlined in light can make a CON save at the end of each of its turns, ending the effect on itself on a success.
+
+#### Channel Divinity: Turn the Profane
+
+As an action, you present your holy symbol and utter dire warnings of destruction to unholy creatures. Each Fiend and Undead of your choice within 30 feet of you and that can see or hear you must make a WIS save. If the creature fails its save, it is turned for 1 minute or until it takes any damage.
+
+A turned creature must try to move as far away from you as it can, though it can’t first get closer to you to do it. On its turn, it can only use the Dash action or otherwise try to escape from an effect that prevents it from moving. If there’s nowhere to move, it can use the Dodge action. It can’t take any reactions.
+
+### Expanded Proficiencies and Talent List
+
+*3rd-Level Anathema Feature*
+
+When you gain a new talent, you can select it from the martial or technical talent list.
+
+In addition, you gain proficiency in one of the following: Deception, Sleight of Hand, or thieves’ tools.
+
+### Aura of Fearsomeness
+
+*7th-Level Anathema Feature*
+
+While you aren’t incapacitated, you and friendly creatures within 10 feet of you gain a bonus to CHA (Intimidation) checks equal to your proficiency bonus.
+
+In addition, such checks are made with advantage against Fiends and Undead. This aura is enhanced by the 17th-level Aura Improvements class feature (see *Player’s Guide*).
+
+### Direct Action
+
+*11th-Level Anathema Feature*
+
+You take a more proactive approach with Fiends and Undead, and your attacks reflect that approach. You gain the following benefits against Fiends and Undead:
+
+- If you target a Fiend or Undead with a spell that specifically affects such creatures, the target has disadvantage on its save. If you target a Fiend or Undead with a spell that deals damage, the target is vulnerable to that damage. If the target is resistant to that damage type, it instead loses its resistance. This feature has no effect if the target is immune to that damage type.
+
+- When you use your Divine Sense feature (see *Player’s* *Guide*), for any being whose presence you sense, you now know the specific kind of creature it is.
+
+- You score a critical hit on a d20 roll of 19 or 20. If you score a critical hit and are using your Divine Smite feature or the Radiant Strikes boon (see *Player’s Guide* for both), you can add one extra d8 of damage to the attack. Alternatively, you can forgo the extra damage dealt to Fiends and Undead (from this feature and from Divine Smite or Radiant Strikes) to force the target to succeed on a CHA save or be affected as if it failed a save against the dismissal option of the *[[5th-Circle Spells#Dispel Evil and Good|dispel evil and good]]* spell.
+
+### Divine Anathema
+
+*15th-Level Anathema Feature*
+
+As an action, you can draw on the full weight of your divine power to destroy evil. You gain the following benefits for 1 minute:
+
+- When you deal damage to a Fiend or Undead, you treat all damage rolls of 1 or 2 as 3.
+
+- You are resistant to all damage dealt by Fiends and Undead.
+
+- You automatically detect the presence of Fiends and Undead within 10 feet of you, and they don’t benefit from invisibility against you.
+
+- You have advantage on saves against all spells and effects from Fiends and Undead. Once you use this feature, you can’t use it again until you finish a long rest.
+
+## Ashen Base
+
+%% source: Book of Blades %%
+
+The Ashen Base is a simple oath, as old as nations and hatred. These paladins dedicate themselves to a self‑destructive loathing for someone or something. Its adherents are evil, either knowingly or by degree, as their oath turns their lives to its central truth: everything burns.
+
+The Ashen Base is the oath of total warfare: burned villages, slaughtered innocents, salted fields, and the ruin of nations, even one’s own, because victory is not enough. This oath exalts gods of murder, warfare, or the Baleful Sun, an aspect of the Sun in its role as bringer of drought and wildfire. To the devotees of Ash, the only thing that matters is ensuring that your foe dies so thoroughly that generations to come remember them only as a warning.
+
+### Tenets of Ash
+
+Tenets of the Ashen Base are remarkably consistent, considering the enormous variety in its adherents. Fallen heroes, remorseless butchers, and bereaved scions all pledge themselves to a life of violence, bereft of beauty, kindness, or peace.
+
+***No Quarter.*** To provide mercy, even to the most meagre or sympathetic of foes, is an affront to your rage. To ask for it is unthinkable. You shall never surrender, nor shall you accept it.
+
+***No Bystanders.*** No belonging, holding, or relative of your enemy is safe. If you find a treasure of the enemy, it is to be destroyed. If you find a home, it is to be sacked. If you find an ally, they are to be slain.
+
+***No Rest.*** To falter is to allow the enemy to recover. You shall not allow yourself laxity, sloth, or joy. When your current enemy falls, you shall find a new foe.
+
+***No Restraint.*** No weapon is too dangerous, no associate too vile, to be wielded against your foe. Anything and everything that can be used in your war must be used.
+
+**Ashen Base Progression**
+
+| Paladin Level | Features |
+|---|---|
+| 3rd | Ashen Base Oath Spells, Channel Divinity: Ignite the World Kiln, Channel Divinity: Rite of Devastation |
+| 7th | Aura of Contempt |
+| 11th | Scorched Earth Brand |
+| 15th | Form of the Destroyer |
+
+### Ashen Base Oath Spells
+
+*3rd-Level Ashen Base Feature*
+
+You gain oath spells at the paladin levels listed on the **Ashen Base Oath Spells** table.
+
+**Ashen Base Oath Spells**
+
+| Paladin Level | Spells |
+|---|---|
+| 3rd | *hellish rebuke, thunderwave* |
+| 5th | *misty step, spike growth* |
+| 9th | *fireball, spirit guardians* |
+| 13th | *fire shield, freedom of movement* |
+| 17th | *contagion, passwall* |
+
+### Channel Divinity
+
+*3rd-Level Ashen Base Feature*
+
+You gain the following two Channel Divinity options.
+
+> Channel Divinity: Ignite the World-Kiln
+
+As an action, you stoke the hatred within you and a torrent of unnatural flame follows in your wake. When you activate this ability, and at the start of each of your turns for 1 minute, deal fire damage equal to your PB to all creatures and objects within 10 feet of you. While you burn in this fashion, you emit dim light in a 20‑foot radius.
+
+> Channel Divinity: Rite of Devastation
+
+As a bonus action, you raise your holy symbol and recite a condemnation of all edifices of civilization. For 1 minute, double all damage you deal to objects, and any successful melee attacks you make against doors, walls, and floors are critical hits.
+
+### Aura of Contempt
+
+*7th-Level Ashen Base Feature*
+
+You armor yourself in disdain for your foes. A hostile creature within 10 feet of you can’t use reactions if you dealt damage to it since the start of your last turn. In addition, if you deal damage to a creature with a melee weapon, you have advantage on saves against effects from that creature until the start of your next turn. This aura is enhanced by the 17th-level Aura Improvements class feature.
+
+### Scorched Earth Brand
+
+*11th-Level Ashen Base Feature*
+
+You can manifest an icon of devastation when you attack. When you deal damage with your Divine Smite class feature, you can cause the wound to take the shape of a glowing, painful brand. You know the location of any creature with this brand, even on other planes.
+
+You have advantage on attacks against a creature you have branded. In addition, if a branded creature within line of sight would regain hit points, the brand flares painfully and prevents the first 10 HP the target would regain.
+
+You can brand creatures in this manner a number of times per day equal to your PB. All brands issued fade at dawn each day.
+
+### Form of the Destroyer
+
+*15th-Level Ashen Base Feature*
+
+As an action, you transform into an embodiment of the Baleful Sun, the fiery aspect of the Sun which will one day extinguish itself in a grand detonation, scouring all life from the world. Your appearance changes in a manner you define. Common themes include an aura of green flame, black sclera, sharpened teeth, burning hair, or metallic skin.
+
+For 1 minute, you gain the following benefits:
+
+- Killing a Humanoid sates your need to eat, drink, or sleep for the next 24 hours.
+
+- You soar upon jets of flame, gaining a fly speed of 60 feet.
+
+- Whenever you deal radiant damage to a creature with a melee weapon attack, you can spend a bonus action to deal that much radiant damage to a different creature you can see within 30 feet of you.
+
+- Your Rite of Devastation and Ignite the World-Kiln Channel Divinity subclass features are active without the need to spend a bonus action or action, respectively. Once you use this feature, you can’t use it again until you finish a long rest.
 
 ## Devotion
 
@@ -410,143 +705,91 @@ Using your action, you can channel the full might of order, balance, and righteo
 
 - When an enemy you can see within 10 feet of you deals damage to you or an ally within 10 feet of you, you can use your reaction to force that creature to also take half the damage it dealt, of the same damage type. Once used, you can't use this feature again until you finish a long rest.
 
-## Paladin Boons
+## Old World
 
-%% source: Player's Guide 2 %%
+%% source: Labyrinth Worldbook %%
 
-When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the paladin class.
+Swearing an oath of the Old World binds a paladin to the principles of freedom, nature, light, and justice—not morality or law, but beauty and balance. Kindred to druids and rangers, these paladins understand the eternal cycle of beauty inherent to the multiverse and seek to protect it and those who live there from harm. They concern themselves with courage, decisiveness, and understanding and muse on the world as it was long ages ago or far into the future, along the endless march of time. They often adorn themselves with things found in nature—bones, bark, gemstones, vines, and flowers—to symbolize their connection to the most ancient understandings of life.
 
-### Heroic Boons
-
-When you reach 10th level in the paladin class, you have the following additional options to choose from when selecting the boon for your Heroic Boon feature.
-
-#### Heroic Boon
-
-*10th-Level Paladin Feature*
-
-Your commitment to the paladin’s path grants you a powerful ability. Choose one of the following heroic boons:
-
-- **Mystic Steed.** Your faith is rewarded with the ability to summon a mystic steed. You learn a more potent version of the *[[Rituals 1st–3rd Circle#Find Steed|find steed]]* ritual spell, and you can cast it as an action without the need for any material components. This spell doesn’t count against your number of spells known. When you cast it, you can choose one of the normal steed forms or one of the following special forms: **dire wolf, griffon, hippogriff, pegasus, rhinoceros, or saber-toothed tiger** (see *Monster Vault* for all); or **hippalektryon** or **rampede** (see *Monster Vault 2* for both). Alternatively, with the approval of your GM, you can select any other Medium or Large Beast (or creature with the Animal tag) of CR 2 or lower.
-
-- **Seraphic Sight.** While your Divine Sense feature (see *Player’s Guide*) is active, you don’t have disadvantage on attack rolls against creatures you sense with Divine sense, even if you can’t see them, and such creatures don’t have advantage on attack rolls against you from being hidden, invisible, or otherwise unable to be seen by you. In addition, you can target such creatures with spells, even if the spell normally requires you to see the target.
-
-### Epic Boons
-
-When you reach 20th level in the paladin class, you have the following additional options to choose from when selecting the boon for your Epic Boon feature.
-
-#### Epic Boon
-
-*20th-Level Paladin Feature*
-
-Your commitment to the paladin’s path grants you a powerful new ability. You gain one of the following epic boons:
-
-- **Avenger.** When you expend a Divine spell slot of 5th circle or lower to deal extra damage with your Divine Smite feature (see *Player’s Guide*), you can choose to roll a d6. If the result of the roll is higher than the circle of the expended slot, you automatically recover the spell slot.
-
-- **Sacred Conduit.** When you finish a long rest, you gain one additional use of your Channel Divinity feature (see *Player’s Guide*). Once this extra use is expended, you can’t recover it by any means other than finishing a long rest. In addition, whenever you roll initiative, you automatically recover up to two expended uses of Channel Divinity.
-
-## More Paladin Subclasses
-
-%% source: Player's Guide 2 %%
-At 3rd level, paladins gain the Paladin Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Anathema, Safekeeping, or Unbound.
-
-## Anathema
-
-%% source: Player's Guide 2 %%
-
-Paladins wishing to end immediate threats posed by evil creatures and who don’t mind the stains of close dealings with such creatures swear an oath of Anathema. These paladins use the tools of the enemy—typically guile and threats—against the enemy, preferring those over blades. However, they have no problem resorting to direct combat when necessary. Many argue these paladins are no better than the evils they purport to fight, but few can argue against the results of their efforts.
-
-### Tenets of Anathema
-
-Paladins who swear the oath of Anathema are often quick to adapt to unexpected situations, and though this can take unexpected forms, depending on the individual, their actions all evolve from the same convictions.
-
-***Evil Is a Viable Tool***. Take advantage of evil creatures’ venal natures to gather information on their superiors or turn them against former allies.
-
-***Forcing a Retreat Is a Victory***. Weigh the benefits of removing an imminent threat at great cost and regrouping to deal with it permanently at a later time with collateral damage.
-
-***Moral Flexibility***. Your foes don’t care about the concepts of compassion, honesty, or honor, and sometimes, you must also eschew them for the greater good.
-
-*Anathema Progression*
+**Old World Progression**
 
 | Paladin Level | Features |
 |---|---|
-| 3rd | Anathema Oath Spells, Channel Divinity: Reveal Deceivers, Channel Divinity: Turn the Profane, Expanded Proficiencies and Talent List |
-| 7th | Aura of Fearsomeness |
-| 11th | Direct Action |
-| 15th | Divine Anathema |
+| 3rd | Channel Divinity, Old World Spells |
+| 7th | Aura of Perseverance |
+| 11th | Vigor of Creation |
+| 15th | Bygone Emissary |
 
-### Anathema Oath Spells
+> [!note] Old World Paladins in the Labyrinth
+> Old World paladins are treasured allies of the [[Old Ring]] faction (see Chapter 3). Since the druids and elders of the group spend most of their time rooted in place—tending to the oak roads or fostering newborn worlds—action-oriented heroes like the Old World paladins are relied on to seek out and destroy unnatural corruption wherever it appears.
 
-*3rd-Level Anathema Feature*
+### Tenets of The Old World
 
-You gain oath spells at the paladin levels listed in the **Anathema Oath Spells** table. See the Paladin Subclass class feature in the *Player’s Guide* for how these spells work.
+The words of the oath of The Old World have been reshaped by time, though its tenets are as immutable as the stars. This oath does not concern itself with the laws of civilization or the machinations of evil, only with the eternal cycle of life.
 
-*Anathema Oath Spells*
+***Shelter the Fearful.*** Those who seek your help deserve it.
 
-| Paladin Level | Spells |
-|---|---|
-| 3rd | protection from evil and good |
-| 5th | silence |
-| 9th | protection from energy |
-| 13th | banishment |
-| 17th | mislead |
+***Light the Dark.*** Through your actions, show those who live in darkness or despair there is hope of a brighter tomorrow. Let nothing and no one darken the light within you.
+
+***Bask in Beauty.*** Cherish and protect that which brings joy, laughter, and contentment. Create it wherever you can.
 
 ### Channel Divinity
 
-*3rd-Level Anathema Feature*
+*3rd-Level Old World Feature*
 
 You gain the following two Channel Divinity options.
 
-#### Channel Divinity: Reveal Deceivers
+#### Channel Divinity: Upheaval
 
-As an action, you present your holy symbol and call out falsehoods in creatures within 30 feet of you. Each creature in the area that is using magic or a feature to disguise itself (such as the *[[1st-Circle Spells#Disguise Self|disguise self]]* spell or a hag’s Illusory Appearance) or to take on a form other than its true form (such as the *[[2nd-Circle Spells#Alter Self|alter self]]* spell or a werewolf’s Change Shape) is outlined in holy light of a color of your choice for 1 minute. While outlined in this light, a creature takes radiant damage equal to your CHA modifier at the start of each of its turns, can’t benefit from being invisible, and attack rolls against it have advantage. A creature outlined in light can make a CON save at the end of each of its turns, ending the effect on itself on a success.
+As a bonus action, you can awaken the elder spirits of earth around you, trapping your enemies in a vice of stone, wood, or sucking mud. Each creature of your choice within 10 feet of you must succeed on a STR save or be restrained for up to 1 minute. The target can repeat its save at the end of each of its turns, ending the effect for itself on a successful save. This effect ends early if you willingly move or use another Channel Divinity option.
 
-#### Channel Divinity: Turn the Profane
+#### Channel Divinity: Quelling Chime
 
-As an action, you present your holy symbol and utter dire warnings of destruction to unholy creatures. Each Fiend and Undead of your choice within 30 feet of you and that can see or hear you must make a WIS save. If the creature fails its save, it is turned for 1 minute or until it takes any damage.
+You can use your Channel Divinity to echo the primeval sounds of creation, wholly unknown to outsiders of the Material Plane. As an action, you display your holy symbol, and an enrapturing sound resonates from it. Each Aberration, Celestial, Fey, and Fiend within 60 feet of you must succeed on a CHA save or be stunned for 1 minute. The effect ends for a creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
-A turned creature must try to move as far away from you as it can, though it can’t first get closer to you to do it. On its turn, it can only use the Dash action or otherwise try to escape from an effect that prevents it from moving. If there’s nowhere to move, it can use the Dodge action. It can’t take any reactions.
+### Old World Oath Spells
 
-### Expanded Proficiencies and Talent List
+*3rd-Level Old World Feature*
 
-*3rd-Level Anathema Feature*
+You gain oath spells at the paladin levels listed in the **Old World Oath Spells** table. See the **Paladin Subclass** class feature for how oath spells work.
 
-When you gain a new talent, you can select it from the martial or technical talent list.
+**Old World Oath Spells**
 
-In addition, you gain proficiency in one of the following: Deception, Sleight of Hand, or thieves’ tools.
+| Paladin Level | Spells |
+|---|---|
+| 3rd | *[[1st-Circle Spells#Fog Cloud\|fog cloud]]* |
+| 5th | *[[2nd-Circle Spells#Spike Growth\|spike growth]]* |
+| 9th | *[[3rd-Circle Spells#Fly\|fly]]* |
+| 13th | *[[4th-Circle Spells#Freedom of Movement\|freedom of movement]]* |
+| 17th | *[[5th-Circle Spells#Wall of Stone\|wall of stone]]* |
 
-### Aura of Fearsomeness
+### Aura of Perseverance
 
-*7th-Level Anathema Feature*
+*7th-Level Old World Feature*
 
-While you aren’t incapacitated, you and friendly creatures within 10 feet of you gain a bonus to CHA (Intimidation) checks equal to your proficiency bonus.
+The supernatural resilience of the primordial titans flows through you. When you or any ally within 10 feet of you takes acid, cold, fire, lightning, or thunder damage, that damage is reduced by an amount equal to your paladin level.
 
-In addition, such checks are made with advantage against Fiends and Undead. This aura is enhanced by the 17th-level Aura Improvements class feature (see *Player’s Guide*).
+This aura is enhanced by the 18th-level **Aura Improvements** paladin class feature.
 
-### Direct Action
+### Vigor of Creation
 
-*11th-Level Anathema Feature*
+*11th-Level Old World Feature*
 
-You take a more proactive approach with Fiends and Undead, and your attacks reflect that approach. You gain the following benefits against Fiends and Undead:
+When you take damage, you can immediately use Lay On Hands as a reaction, targeting yourself. Once used, you can’t use this feature again until you finish a short or long rest.
 
-- If you target a Fiend or Undead with a spell that specifically affects such creatures, the target has disadvantage on its save. If you target a Fiend or Undead with a spell that deals damage, the target is vulnerable to that damage. If the target is resistant to that damage type, it instead loses its resistance. This feature has no effect if the target is immune to that damage type.
+In addition, so long as you maintain your oaths, you no longer age and can’t be aged by magic.
 
-- When you use your Divine Sense feature (see *Player’s* *Guide*), for any being whose presence you sense, you now know the specific kind of creature it is.
+### Bygone Emissary
 
-- You score a critical hit on a d20 roll of 19 or 20. If you score a critical hit and are using your Divine Smite feature or the Radiant Strikes boon (see *Player’s Guide* for both), you can add one extra d8 of damage to the attack. Alternatively, you can forgo the extra damage dealt to Fiends and Undead (from this feature and from Divine Smite or Radiant Strikes) to force the target to succeed on a CHA save or be affected as if it failed a save against the dismissal option of the *[[5th-Circle Spells#Dispel Evil and Good|dispel evil and good]]* spell.
+*15th-Level Old World Feature*
 
-### Divine Anathema
+You can assume the terrifying form of the primordial elements made flesh. Your skin may become like stone, your eyes may burn like embers, or your limbs may writhe like the churning sea—but your new form is insurmountable in toughness. As an action, you can assume the form of a primeval being for 1 hour, gaining the following benefits:
 
-*15th-Level Anathema Feature*
+- You gain immunity to one of the following damage types: acid, cold, fire, lightning, or thunder.
 
-As an action, you can draw on the full weight of your divine power to destroy evil. You gain the following benefits for 1 minute:
+- When you start your turn with 1 hit point or more, you regain a number of hit points equal to half your paladin level, rounded up.
 
-- When you deal damage to a Fiend or Undead, you treat all damage rolls of 1 or 2 as 3.
-
-- You are resistant to all damage dealt by Fiends and Undead.
-
-- You automatically detect the presence of Fiends and Undead within 10 feet of you, and they don’t benefit from invisibility against you.
-
-- You have advantage on saves against all spells and effects from Fiends and Undead. Once you use this feature, you can’t use it again until you finish a long rest.
+- Creatures within 10 feet of you have disadvantage on saves and vulnerability to the damage of your paladin spells (this does not include your Divine Smite). Once used, this feature can’t be used again until you finish a long rest.
 
 ## Safekeeping
 
@@ -715,282 +958,6 @@ As an action, you draw on your full willpower to break any mundane or magical co
 - As a reaction when a creature that you can see within 60 feet of you attempts to charm, grapple, or restrain either you or a friendly creature within 10 feet of you, you can rebuff that attempt. That target of the effect now has advantage on its save against it. If the target succeeds in avoiding the effect, the creature that caused the effect must make a CHA save against your spell save DC, taking a number of d6s equal to your PB of psychic damage on a failed save or half as much damage on a successful one. Celestials and Fiends have disadvantage on this save.
 
 - You have advantage on attack rolls against targets magically controlled by or receiving orders from more powerful creatures, and your weapon attacks against such creatures deal additional psychic damage equal to your CHA modifier (minimum of 1). Alternatively, you can forgo all damage dealt by the attack to instead force the target to make a CHA save against your spell save DC. On a failure, the creature ignores the orders of its superiors until the end of its next turn, acting of its own accord, though it might still view you as an enemy. Once you use this feature, you can’t use it again until you finish a long rest.
-
-## Labyrinth Paladin Subclasses
-
-%% source: Labyrinth Worldbook %%
-
-At 3rd level, a paladin gains the Paladin Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Old World.
-
-## Old World
-
-%% source: Labyrinth Worldbook %%
-
-Swearing an oath of the Old World binds a paladin to the principles of freedom, nature, light, and justice—not morality or law, but beauty and balance. Kindred to druids and rangers, these paladins understand the eternal cycle of beauty inherent to the multiverse and seek to protect it and those who live there from harm. They concern themselves with courage, decisiveness, and understanding and muse on the world as it was long ages ago or far into the future, along the endless march of time. They often adorn themselves with things found in nature—bones, bark, gemstones, vines, and flowers—to symbolize their connection to the most ancient understandings of life.
-
-**Old World Progression**
-
-| Paladin Level | Features |
-|---|---|
-| 3rd | Channel Divinity, Old World Spells |
-| 7th | Aura of Perseverance |
-| 11th | Vigor of Creation |
-| 15th | Bygone Emissary |
-
-> [!note] Old World Paladins in the Labyrinth
-> Old World paladins are treasured allies of the [[Old Ring]] faction (see Chapter 3). Since the druids and elders of the group spend most of their time rooted in place—tending to the oak roads or fostering newborn worlds—action-oriented heroes like the Old World paladins are relied on to seek out and destroy unnatural corruption wherever it appears.
-
-### Tenets of The Old World
-
-The words of the oath of The Old World have been reshaped by time, though its tenets are as immutable as the stars. This oath does not concern itself with the laws of civilization or the machinations of evil, only with the eternal cycle of life.
-
-***Shelter the Fearful.*** Those who seek your help deserve it.
-
-***Light the Dark.*** Through your actions, show those who live in darkness or despair there is hope of a brighter tomorrow. Let nothing and no one darken the light within you.
-
-***Bask in Beauty.*** Cherish and protect that which brings joy, laughter, and contentment. Create it wherever you can.
-
-### Channel Divinity
-
-*3rd-Level Old World Feature*
-
-You gain the following two Channel Divinity options.
-
-#### Channel Divinity: Upheaval
-
-As a bonus action, you can awaken the elder spirits of earth around you, trapping your enemies in a vice of stone, wood, or sucking mud. Each creature of your choice within 10 feet of you must succeed on a STR save or be restrained for up to 1 minute. The target can repeat its save at the end of each of its turns, ending the effect for itself on a successful save. This effect ends early if you willingly move or use another Channel Divinity option.
-
-#### Channel Divinity: Quelling Chime
-
-You can use your Channel Divinity to echo the primeval sounds of creation, wholly unknown to outsiders of the Material Plane. As an action, you display your holy symbol, and an enrapturing sound resonates from it. Each Aberration, Celestial, Fey, and Fiend within 60 feet of you must succeed on a CHA save or be stunned for 1 minute. The effect ends for a creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
-
-### Old World Oath Spells
-
-*3rd-Level Old World Feature*
-
-You gain oath spells at the paladin levels listed in the **Old World Oath Spells** table. See the **Paladin Subclass** class feature for how oath spells work.
-
-**Old World Oath Spells**
-
-| Paladin Level | Spells |
-|---|---|
-| 3rd | *[[1st-Circle Spells#Fog Cloud\|fog cloud]]* |
-| 5th | *[[2nd-Circle Spells#Spike Growth\|spike growth]]* |
-| 9th | *[[3rd-Circle Spells#Fly\|fly]]* |
-| 13th | *[[4th-Circle Spells#Freedom of Movement\|freedom of movement]]* |
-| 17th | *[[5th-Circle Spells#Wall of Stone\|wall of stone]]* |
-
-### Aura of Perseverance
-
-*7th-Level Old World Feature*
-
-The supernatural resilience of the primordial titans flows through you. When you or any ally within 10 feet of you takes acid, cold, fire, lightning, or thunder damage, that damage is reduced by an amount equal to your paladin level.
-
-This aura is enhanced by the 18th-level **Aura Improvements** paladin class feature.
-
-### Vigor of Creation
-
-*11th-Level Old World Feature*
-
-When you take damage, you can immediately use Lay On Hands as a reaction, targeting yourself. Once used, you can’t use this feature again until you finish a short or long rest.
-
-In addition, so long as you maintain your oaths, you no longer age and can’t be aged by magic.
-
-### Bygone Emissary
-
-*15th-Level Old World Feature*
-
-You can assume the terrifying form of the primordial elements made flesh. Your skin may become like stone, your eyes may burn like embers, or your limbs may writhe like the churning sea—but your new form is insurmountable in toughness. As an action, you can assume the form of a primeval being for 1 hour, gaining the following benefits:
-
-- You gain immunity to one of the following damage types: acid, cold, fire, lightning, or thunder.
-
-- When you start your turn with 1 hit point or more, you regain a number of hit points equal to half your paladin level, rounded up.
-
-- Creatures within 10 feet of you have disadvantage on saves and vulnerability to the damage of your paladin spells (this does not include your Divine Smite). Once used, this feature can’t be used again until you finish a long rest.
-
-## Book of Blades Paladin Subclasses
-
-%% source: Book of Blades %%
-
-When you choose your paladin subclass, the following subclasses from *[[Book of Blades]]* are also available: Ashen Base and Anamnesis.
-
-## Ashen Base
-
-%% source: Book of Blades %%
-
-The Ashen Base is a simple oath, as old as nations and hatred. These paladins dedicate themselves to a self‑destructive loathing for someone or something. Its adherents are evil, either knowingly or by degree, as their oath turns their lives to its central truth: everything burns.
-
-The Ashen Base is the oath of total warfare: burned villages, slaughtered innocents, salted fields, and the ruin of nations, even one’s own, because victory is not enough. This oath exalts gods of murder, warfare, or the Baleful Sun, an aspect of the Sun in its role as bringer of drought and wildfire. To the devotees of Ash, the only thing that matters is ensuring that your foe dies so thoroughly that generations to come remember them only as a warning.
-
-### Tenets of Ash
-
-Tenets of the Ashen Base are remarkably consistent, considering the enormous variety in its adherents. Fallen heroes, remorseless butchers, and bereaved scions all pledge themselves to a life of violence, bereft of beauty, kindness, or peace.
-
-***No Quarter.*** To provide mercy, even to the most meagre or sympathetic of foes, is an affront to your rage. To ask for it is unthinkable. You shall never surrender, nor shall you accept it.
-
-***No Bystanders.*** No belonging, holding, or relative of your enemy is safe. If you find a treasure of the enemy, it is to be destroyed. If you find a home, it is to be sacked. If you find an ally, they are to be slain.
-
-***No Rest.*** To falter is to allow the enemy to recover. You shall not allow yourself laxity, sloth, or joy. When your current enemy falls, you shall find a new foe.
-
-***No Restraint.*** No weapon is too dangerous, no associate too vile, to be wielded against your foe. Anything and everything that can be used in your war must be used.
-
-**Ashen Base Progression**
-
-| Paladin Level | Features |
-|---|---|
-| 3rd | Ashen Base Oath Spells, Channel Divinity: Ignite the World Kiln, Channel Divinity: Rite of Devastation |
-| 7th | Aura of Contempt |
-| 11th | Scorched Earth Brand |
-| 15th | Form of the Destroyer |
-
-### Ashen Base Oath Spells
-
-*3rd-Level Ashen Base Feature*
-
-You gain oath spells at the paladin levels listed on the **Ashen Base Oath Spells** table.
-
-**Ashen Base Oath Spells**
-
-| Paladin Level | Spells |
-|---|---|
-| 3rd | *hellish rebuke, thunderwave* |
-| 5th | *misty step, spike growth* |
-| 9th | *fireball, spirit guardians* |
-| 13th | *fire shield, freedom of movement* |
-| 17th | *contagion, passwall* |
-
-### Channel Divinity
-
-*3rd-Level Ashen Base Feature*
-
-You gain the following two Channel Divinity options.
-
-> Channel Divinity: Ignite the World-Kiln
-
-As an action, you stoke the hatred within you and a torrent of unnatural flame follows in your wake. When you activate this ability, and at the start of each of your turns for 1 minute, deal fire damage equal to your PB to all creatures and objects within 10 feet of you. While you burn in this fashion, you emit dim light in a 20‑foot radius.
-
-> Channel Divinity: Rite of Devastation
-
-As a bonus action, you raise your holy symbol and recite a condemnation of all edifices of civilization. For 1 minute, double all damage you deal to objects, and any successful melee attacks you make against doors, walls, and floors are critical hits.
-
-### Aura of Contempt
-
-*7th-Level Ashen Base Feature*
-
-You armor yourself in disdain for your foes. A hostile creature within 10 feet of you can’t use reactions if you dealt damage to it since the start of your last turn. In addition, if you deal damage to a creature with a melee weapon, you have advantage on saves against effects from that creature until the start of your next turn. This aura is enhanced by the 17th-level Aura Improvements class feature.
-
-### Scorched Earth Brand
-
-*11th-Level Ashen Base Feature*
-
-You can manifest an icon of devastation when you attack. When you deal damage with your Divine Smite class feature, you can cause the wound to take the shape of a glowing, painful brand. You know the location of any creature with this brand, even on other planes.
-
-You have advantage on attacks against a creature you have branded. In addition, if a branded creature within line of sight would regain hit points, the brand flares painfully and prevents the first 10 HP the target would regain.
-
-You can brand creatures in this manner a number of times per day equal to your PB. All brands issued fade at dawn each day.
-
-### Form of the Destroyer
-
-*15th-Level Ashen Base Feature*
-
-As an action, you transform into an embodiment of the Baleful Sun, the fiery aspect of the Sun which will one day extinguish itself in a grand detonation, scouring all life from the world. Your appearance changes in a manner you define. Common themes include an aura of green flame, black sclera, sharpened teeth, burning hair, or metallic skin.
-
-For 1 minute, you gain the following benefits:
-
-- Killing a Humanoid sates your need to eat, drink, or sleep for the next 24 hours.
-
-- You soar upon jets of flame, gaining a fly speed of 60 feet.
-
-- Whenever you deal radiant damage to a creature with a melee weapon attack, you can spend a bonus action to deal that much radiant damage to a different creature you can see within 30 feet of you.
-
-- Your Rite of Devastation and Ignite the World-Kiln Channel Divinity subclass features are active without the need to spend a bonus action or action, respectively. Once you use this feature, you can’t use it again until you finish a long rest.
-
-## Anamnesis
-
-%% source: Book of Blades %%
-
-The Anamnesis paladin is an oath of heralds and martyrs. Legends have been passed down through the ages, the simple memories of which spur warriors on to feats of heroism. Its adherents are a varied lot, from living embodiments of storybook ideals to cultured warriorscholars learned in the traditions of a dozen languages to insular knights so steeped in centuries of in-jokes and literary references that they are near-incomprehensible to strangers. All are champions of ancient lines, not merely for their memory but for the virtues and cultural impact they have on the living.
-
-### Tenets of Anamnesis
-
-Tenets of Anamnesis are as varied as the legends that spawn them. Their similarity is less in specific tenets, for different cultures may consider different traits virtuous, but in their belief that culture can be a force for good and that all cultures, even those of their foes, are worth remembering.
-
-***Exalt Others.*** To provoke virtue, you must exalt it as it occurs. Publicly praise others for their good works and even admit virtue from your foes.
-
-***Remember the Fallen.*** Too often, martyrs are forgotten by happenstance. Spread the memory of those who have fallen in your adventures, not merely for their ends, but for the lives they lived and the ideals they stood for.
-
-***Preserve Culture.*** All traditions are worthy of preservation, even those alien to you. Save artifacts, stories, and art from destruction and prevent their theft by others.
-
-***Embody Virtue.*** Take on the virtues of those legends you extoll and be mindful to avoid their failings. Act in such a manner that when others carry on your memory, they need not embellish it.
-
-**Anamnesis Progression**
-
-| Paladin Level | Features |
-|---|---|
-| 3 | Anamnesis Oath Spells, Channel Divinity: Borrowed Knowledge, Channel Divinity: Tactical Brilliance |
-| 7 | Aura of Splendor |
-| 11 | Unending Chant |
-| 15 | Legendary Mien |
-
-### Anamnesis Oath Spells
-
-*3rd-Level Anamnesis Feature*
-
-You gain oath spells at the paladin levels listed in the **Anamnesis Oath Spells** table.
-
-**Anamnesis Oath Spells**
-
-| Paladin Level | Spells |
-|---|---|
-| 3rd | *bane, comprehend languages* |
-| 5th | *enthrall, spiritual weapon* |
-| 9th | *spirit guardians, tongues* |
-| 13th | *compulsion, freedom of movement* |
-| 17th | *dominate person, legend lore* |
-
-### Channel Divinity
-
-*3rd-Level Anamnesis Feature*
-
-You gain the following two Channel Divinity options.
-
-> Channel Divinity: Borrowed Knowledge
-
-As a bonus action, you recite the legend of an ancient hero and channel their legendary skills. For 10 minutes, you have proficiency in two skills of your choice. If you already have proficiency in a chosen skill, double your PB with it.
-
-> Channel Divinity: Tactical Brilliance
-
-As an action, you can perform any [[Battle Tactics|Battle Tactic]] (see **Battle Tactics** in **Chapter 4**) with an activation time of one action or less, even if you don’t have the Battle Tactician talent, by spending a spell slot whose spell circle equals its point cost. This does not count against your one Battle Tactic per short rest.
-
-### Aura of Splendor
-
-*7th-Level Anamnesis Feature*
-
-You draw power from all glory on the battlefield, regardless of origin, emanating as an aura that steadies your allies. When any creature within 10 feet of you performs a critical hit, all creatures of your choice within 10 feet of you gain temporary hit points equal to your paladin level. While they have these hit points, they are immune to the frightened and charmed conditions. This aura is enhanced by the 17thlevel Aura Improvements class feature.
-
-### Unending Chant
-
-*11th-Level Anamnesis Feature*
-
-The memory of your chant continues even after you fall. Battle Tactics that you use last for their full duration, even if you are knocked unconscious or otherwise removed from a combat.
-
-### Legendary Mien
-
-*15th-Level Anamnesis Feature*
-
-As an action, you take on the unmistakable appearance of a paladin of legend whose tales you know well. In this state, you stride unhindered across the battlefield and all allies who look upon you know your command. For 1 minute you gain the following benefits:
-
-- Your walking speed increases to 50 feet. You gain the effects of the *freedom of movement* spell. You cannot be moved unless you wish to move.
-
-- You can use any two Battle Tactics (see **Battle Tactics** in **Chapter 4**) of your choice, regardless of whether you know them, at no cost.
-
-- Once you use this feature, you can’t use it again until you finish a long rest.
-
-## Northlands Paladin Subclasses
-
-%% source: Northlands Worldbook %%
-
-At 3rd level, a paladin gains the Paladin Subclass feature. The following subclass from the [[Northlands]] is also available when making that choice: Valhalla.
 
 ## Valhalla
 

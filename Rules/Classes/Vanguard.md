@@ -288,6 +288,12 @@ Bonus Action) You switch positions with one willing creature that you can see wi
 
 Vanguards typically begin their training from an early age, enduring rigorous programs of both academic study and combat training, which ultimately result in the different leadership archetypes. Your choice of subclass reflects the culmination of what you have learned from your personal history and teachers. After all, the leadership of a noble-born vanguard destined to one day lead armies will look different than that of a common-born vanguard forged by the desperate need of a community ravaged by conflict.
 
+| Subclass | Suits |
+|---|---|
+| [[#Bulwark\|Bulwark]] | Any character |
+| [[#Herald\|Herald]] | Any character |
+| [[#Marshal\|Marshal]] | Any character |
+
 ## Bulwark
 
 Bulwarks are battlefield healers and protectors. They are brave to a fault, rushing into the fray to protect those in need, healing the fallen, and when necessary, sacrificing themselves to save a comrade. Though skilled warriors, they often have secondary roles as chaplains or religious counselors for fellow soldiers.

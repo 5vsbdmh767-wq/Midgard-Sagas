@@ -220,9 +220,15 @@ At 9th level, you can assume the form of any Beast of CR 1 or less. At 14th leve
 
 Your commitment to the druid’s path grants you a powerful new ability. Choose one of the following heroic boons:
 
+- **Rite of the Healer.** When you use your Nature’s Gift feature (see *Player’s Guide*), you can now heal a number of creatures equal to your PB within 60 feet of you with one use of the feature. In addition, you no longer have to see a creature to target it when using Nature’s Gift as long as both you and the target are standing on earth, wood, stone, ice, or other solid, natural surface.
+
 - **Rite of the Kingdom.** All Beasts and creatures with the Animal tag understand your speech, and you can understand their noises and motions as if they were speaking, even if they don't speak a language. This ability doesn’t grant Beasts the intelligence to understand or communicate complex concepts, but you can share basic information with ease. Your GM has final say on what a particular creature can express. In addition, you have advantage on Charisma checks made to interact with or influence such creatures.
 
 - **Rite of the Shaper.** When you roll initiative and have no remaining uses of Wild Shape, you regain one use. Once you use this feature, you can’t do so again until you complete a long rest.
+
+- **Rite of the Traveler.** As a bonus action, you can give yourself a 30-foot burrowing, climbing, flying (with the ability to hover), or swimming speed. Alternatively, you can use this bonus action to increase a movement speed you already have by 30 feet. You can activate and benefit from this feature whether in your standard form or while transformed via the Wild Shape feature (see *Player’s Guide*). Once activated, this bonus movement lasts until you either finish a long rest or use this feature again to select a different movement type.
+
+%% source: Player's Guide 2: Rite of the Healer, Rite of the Traveler %%
 
 > [!note] Druidic Signs and Symbols
 > Druidic makes use of hidden signs to communicate messages. Examples of such signs are shown here.
@@ -244,223 +250,196 @@ Your attunement to the natural energies of the world infuses your body, sustaini
 
 *20th-Level Druid Feature*
 
-Your commitment to the druid’s path grants you a powerful new ability. You gain the following epic boon:
+Your commitment to the druid’s path grants you a powerful new ability. You gain one of the following epic boons:
 
 - **Archdruid.** You can use the Beast Form effect of your Wild Shape feature an unlimited number of times. In addition, you can ignore the verbal and somatic components of Primordial spells, as well as any material components that lack a cost.
-
-## Druid Subclasses
-
-While all druids revere nature, subclasses represent the specific ways druids best commune with the primordial forces of the world. The subclass you choose represents the rites, traditions, and mysteries you embrace in your quest to better understand the awesome powers of nature.
-
-## Leaf
-
-Druids who align with the ring of the Leaf feel a deep connection to plants. Leaf druids are drawn to the quiet, natural spaces of the world. They find great peace and wisdom among hidden groves, ancient forests, and overgrown gardens left to flourish without the influence of civilization. To you, nothing is more important than nurturing the flora that makes all life possible.
-
-**Leaf Progression**
-
-| Druid Level | Features |
-|---|---|
-| 3rd | Green Song, Leaf Ring Spells, Wild Shape: Sacred Grove |
-| 7th | Take Root |
-| 11th | Grove Warden |
-| 15th | Heart of the Forest |
-
-### Leaf Ring Spells
-
-*3rd-Level Leaf Feature*
-
-You gain ring spells at the druid levels listed in the **Leaf Ring Spells** table. See the Druid Subclass class feature for how these spells work.
-
-**Leaf Ring Spells**
-
-| Druid Level | Spells |
-|---|---|
-| 3rd | barkskin, entangle, goodberry, spike growth |
-| 5th | plant growth, speak with plants |
-| 7th | blight, freedom of movement |
-| 9th | greater hold, tree stride |
-
-### Green Song
-
-*3rd-Level Leaf Feature*
-
-Your deep connection to plants allows you to communicate with them. As an action, you can focus on a nonmagical plant within 30 feet of you that you can see. When you do so, you immediately learn its basic properties, including whether it is edible, whether it is poisonous or otherwise dangerous, and what type of environment it typically grows in. You also learn its condition, including whether it is unwell due to magical or mundane means.
-
-In addition, Plant type creatures can understand your speech, and you can understand them as if they were speaking a language—regardless of what languages they know (if any).
-
-### Wild Shape
-
-*3rd-Level Leaf Feature*
-
-You gain the following Wild Shape option.
-
-#### Wild Shape: Sacred Grove
-
-As an action, you can expend a use of your Wild Shape feature to infuse the area around you with primordial power, shaping it into a magical pocket grove.
-
-When you use this feature, vitality surges into the ground in a 10-foot radius centered on you. Normal plants in the affected area rapidly expand, and magical plants sprout from the ground. The sacred grove remains magical for 1 minute, until you use a feature that causes it to be destroyed, or you fall unconscious. After its magic fades, any nonmagical plants remain healthy and overgrown. You can choose to end this effect early (no action required). You can maintain only one sacred grove at a time.
-
-When you first create the grove, choose one of the following magical properties the grove has while its magic is active:
-
-- **Tangle Weed.** Creeping vines or brambles weave across the ground, making the area difficult terrain. When a creature attempts to move within the grove, you can use your reaction to command the vines to grab it. The target must succeed on a STR save against your spell save DC or be restrained by the grasping plants for the sacred grove’s duration. A creature restrained by the plants can use its action to make a STR check against your spell save DC. On a success, the creature is no longer restrained.
-
-- **Tree Line.** Saplings surge from the ground, creating a protective circle. All creatures, except you, have disadvantage on attacks against creatures within the grove’s area. In addition, if you would take damage from a weapon or spell attack while on solid ground within the grove, you can use your reaction to command the grove to intercept it. When you do, you take no damage from the triggering attack and the grove is destroyed.
-
-- **Wildflowers.** Patches of aromatic magical flowers calm and clarify minds. All creatures in the grove have advantage on saves against being charmed or frightened. In addition, as a bonus action, you can choose to destroy the grove to end all conditions affecting one creature in the grove’s area. When you do so, all creatures of your choice on solid ground in the grove gain temporary hit points equal to your PB.
-
-### Take Root
-
-*7th-Level Leaf Feature*
-
-While standing on solid ground, you can use a bonus action to root yourself in place. While rooted, your speed is 0 feet, and you can’t be forced to move or be knocked prone by any means. You remain rooted until you choose to end the effect (no action required).
-
-If you are rooted when your turn begins, you can choose to spend one of your hit dice. When you do so, roll the die and regain hit points equal to the result plus your CON modifier.
-
-### Grove Warden
-
-*11th-Level Leaf Feature*
-
-Your bond to your sacred grove has deepened, allowing you more precise control over it. The grove you summon using the Sacred Grove effect of your Wild Shape feature now covers a 30-foot-radius circle centered on you, and you can now decide whether allied creatures (including yourself) within the grove are immune to any effects it imposes.
-
-### Heart of the Forest
-
-*15th-Level Leaf Feature*
-
-If you are reduced to 0 HP while within your sacred grove, the grove withers, and you regain a number of hit points equal to your druid level. Once you use this feature, you can’t use it again until you finish a long rest.
-
-If your body is destroyed completely, after the grove withers, a single acorn is left at its center. If this acorn is either undisturbed or planted somewhere, you gain a new body in 1d10 days and regain all your hit points. Your new body appears within 5 feet of the acorn, which is destroyed as soon as you regain consciousness.
-
-## Shifter
-
-Druids that align with the ring of the Shifter feel a deep connection to the animals that walk the world. Shifters delve into the mysteries of transformation, spending much of their time in the forms of the beasts they so admire. To you, there is no greater joy than feeling wind beneath your wings, stalking prey on padded paws, or swimming through crystalline depths.
-
-**Shifter Progression**
-
-| Druid Level | Features |
-|---|---|
-| 3rd | Potent Forms, Quick Shift, Shifter Ring Spells |
-| 7th | Beast’s Fury |
-| 11th | Elemental Infusion |
-| 15th | Manifold Mind |
-
-### Potent Forms
-
-*3rd-Level Shifter Feature*
-
-You can select more powerful creatures for the known forms used with the Beast Form effect of your Wild Shape feature. When you gain this feature, you can choose any Beast or creature with the Animal tag with a CR of 1 or lower as a known form.
-
-In addition, you can now speak any language you know while in beast form—even if your chosen form would not typically allow you to do so. However, you still can’t cast spells while transformed, even if a spell requires only a verbal component.
-
-At higher druid levels, you can choose beast forms with a CR as high as your druid level divided by 3, rounded down (ignoring CR limitations in your Improved Beast Form feature). For example, upon achieving 6th level of druid, you can choose any Beast of CR 2 or lower as a known form, CR 3 or lower at 9th level, and so on—as shown in the **Potent Forms** table.
-
-**Potent Forms**
-
-| Druid Level | Max CR | Example | Druid Level | Max CR | Example |
-|---|---|---|---|---|---|
-| 3rd | 1 | Wolf | 12th | 4 | Elephant |
-| 5th | 1 | Hippogriff | 15th | 5 | Triceratops |
-| 6th | 2 | Pegasus | 18th | 6 | Mammoth |
-| 9th | 3 | Owlbear |  |  |  |
-
-### Quick Shift
-
-*3rd-Level Shifter Feature*
-
-By delving into the mysteries of the shifters, you have learned to change form more rapidly. When you use the Beast Form effect of your Wild Shape feature, you can transform as a bonus action instead of as an action.
-
-### Shifter Ring Spells
-
-*3rd-Level Shifter Feature*
-
-You gain ring spells at the druid levels listed in the **Shifter Ring Spells** table. See the Druid Subclass class feature for how these spells work.
-
-**Shifter Ring Spells**
-
-| Druid Level | Spells |
-|---|---|
-| 3rd | alter self, animal friendship, speak with animals, wildsense |
-| 5th | conjure animals, water breathing |
-| 7th | giant insect, polymorph |
-| 9th | dominate, insect plague |
-
-### Beast’s Fury
-
-*7th-Level Shifter Feature*
-
-Immediately after you take the Attack action on your turn while in beast form, you can use your bonus action to make a single unarmed strike with your claws, hooves, fangs, or whatever natural weapon suits your chosen form. This attack deals 1d6 + your PB damage, and you are considered proficient with it. You decide if this attack deals bludgeoning, piercing, or slashing damage when you first assume your beast form.
-
-In addition, all damage you deal with melee weapon attacks while in beast form now counts as magical damage for the purposes of overcoming resistance or immunity to nonmagical damage.
-
-### Elemental Infusion
-
-*11th-Level Shifter Feature*
-
-By expending two uses of the Beast Form effect of your Wild Shape feature, you can infuse your chosen form with one of the four elemental powers described here. Alternatively, you can use your reaction to spend one use of Wild Shape while already transformed by the Beast Form effect, either infusing yourself with one of the following powers or changing which power is active.
-
-#### Air
-
-You gain a 90-foot flying (hover) speed and are resistant to lightning and thunder damage. You gain the following action:
-
-- ***Whirl (Recharge 4–6).*** Each Large or smaller creature within 5 feet of you must make a STR save (DC 10 + your PB). On a failure, a target takes 3d8 + your PB bludgeoning damage and is flung up to 20 feet away from you in a random direction and knocked prone. If a thrown target strikes a solid surface, it takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target lands in the same space as another creature, that creature must succeed on a DC 13 DEX save or take the same damage and be knocked prone. The target is then prone in an adjacent unoccupied space. If the target’s STR save is successful, a target takes half damage and isn’t flung or knocked prone.
-
-#### Earth
-
-You gain a 30-foot burrowing speed and can burrow through nonmagical, unworked earth and stone without disturbing the material you move through. You gain tremorsense to a range of 60 feet and are resistant to bludgeoning, piercing, and slashing damage. Melee attacks you make deal double damage to objects and structures.
-
-#### Fire
-
-You shed bright light in a 30-foot-radius and dim light for an additional 30 feet. You are immune to fire damage. Melee attacks you make deal an additional 1d8 fire damage. When you deal fire damage to a flammable creature or object, you can choose whether it ignites—an ignited target takes 5 (1d10) fire damage at the start of each of its turns until a creature uses an action to douse it. Your GM determines what constitutes a flammable creature or object.
-
-#### Water
-
-You gain a 90-foot swimming speed and can breathe underwater. You are resistant to cold and poison damage. You gain the following action:
-
-- ***Wave (Recharge 4–6).*** Each creature within 5 feet of you must make a STR save (DC 10 + your PB). On a failure, a target takes 2d8 + your PB bludgeoning damage. If a target is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe in water. On a successful STR save, a creature takes half damage and isn’t grappled. At the start of each of your turns, each target grappled by you takes 2d8 + your PB bludgeoning damage. A creature within 5 feet of a grappled target can pull it out of the grapple if it expends an action to attempt a DC 14 STR (Athletics) check—freeing the target on a success.
-
-### Manifold Mind
-
-*15th-Level Shifter Feature*
-
-You can now cast Primordial spells while in beast form, and your form doesn't hinder performing the somatic and verbal components of spells. You must still provide any required material components as normal.
-
-## Druid Boons
-
-%% source: Player's Guide 2 %%
-
-When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the druid class.
-
-### Heroic Boons
-
-When you reach 10th level in the druid class, you have the following additional options to choose from when selecting the boon for your Heroic Boon feature.
-
-#### Heroic Boon
-
-*10th-Level Druid Feature*
-
-Your commitment to the druid’s path grants you a powerful ability. Choose one of the following heroic boons:
-
-- **Rite of the Healer.** When you use your Nature’s Gift feature (see *Player’s Guide*), you can now heal a number of creatures equal to your PB within 60 feet of you with one use of the feature. In addition, you no longer have to see a creature to target it when using Nature’s Gift as long as both you and the target are standing on earth, wood, stone, ice, or other solid, natural surface.
-
-- **Rite of the Traveler.** As a bonus action, you can give yourself a 30-foot burrowing, climbing, flying (with the ability to hover), or swimming speed. Alternatively, you can use this bonus action to increase a movement speed you already have by 30 feet. You can activate and benefit from this feature whether in your standard form or while transformed via the Wild Shape feature (see *Player’s Guide*). Once activated, this bonus movement lasts until you either finish a long rest or use this feature again to select a different movement type.
-
-### Epic Boons
-
-When you reach 20th level in the druid class, you have the following additional options to choose from when selecting the boon for your Epic Boon feature.
-
-#### Epic Boon
-
-*20th-Level Druid Feature*
-
-Your commitment to the druid’s path grants you a powerful new ability. You gain one of the following epic boons:
 
 - **Elemancer.** Choose one of the following damage types: acid, cold, fire, lightning, or thunder. You become immune to your chosen damage type and resistant to the rest. When you finish a long rest, you can change which of the listed damage types you are immune to.
 
 - **Sourcemaster.** When you use a Primordial spell slot to cast a spell of 1st circle or higher, you can choose to roll a d10. If the number rolled is higher than the circle of the expended spell slot, you automatically recover that slot. For example, if you expend a 1st-circle spell slot, a result of 2 or higher on the d10 means that you recover the spell slot. Once you successfully recover a spell slot in this way, you can’t use this feature again until you finish a short or long rest.
 
-## More Druid Subclasses
+%% source: Player's Guide 2: Elemancer, Sourcemaster %%
 
-%% source: Player's Guide 2 %%
-At 3rd level, druids gain the Druid Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Elementalist, Fey, or Stoneheart.
+## Druid Subclasses
+
+While all druids revere nature, subclasses represent the specific ways druids best commune with the primordial forces of the world. The subclass you choose represents the rites, traditions, and mysteries you embrace in your quest to better understand the awesome powers of nature.
+
+| Subclass | Suits |
+|---|---|
+| [[#Bees\|Bees]] | The [[The Margreve\|Margreve]] forest |
+| [[#Dreamer\|Dreamer]] | The [[The Labyrinth\|Labyrinth]] |
+| [[#Elementalist\|Elementalist]] | Any character |
+| [[#Fenris\|Fenris]] | The [[Northlands]] |
+| [[#Fey\|Fey]] | Any character |
+| [[#Leaf\|Leaf]] | Any character |
+| [[#Owls\|Owls]] | The [[The Margreve\|Margreve]] forest |
+| [[#Roses\|Roses]] | The [[The Margreve\|Margreve]] forest |
+| [[#Shifter\|Shifter]] | Any character |
+| [[#Stoneheart\|Stoneheart]] | Any character |
+| [[#Verdant\|Verdant]] | The [[The Margreve\|Margreve]] forest |
+
+## Bees
+
+%% source: Tales of the Old Margreve %%
+
+Druids of Bees are friends to all stinging insects but focus their attention on honeybees and other pollinating insects. When not adventuring, they tend hives, either created by the insects or by themselves. They tap into the horror inherent in stinging insects to protect their allies or the fields hosting their bee friends.
+
+*Bees Progression*
+
+| Druid Level | Features |
+|---|---|
+| 3rd | Bees Ring Spells, Bee Bond, Wild Shape: Bee Stinger |
+| 7th | Bumblebee Rush |
+| 11th | Hive Mind |
+| 15th | Mantle of Bees |
+
+### Bees Ring Spells
+
+*3rd-Level Bees Feature*
+
+You gain ring spells at the druid levels listed in the Bees Ring Spells table. See the Druid Subclass class feature for how these spells work.
+
+*Bees Ring Spells*
+
+| Druid Level | Spells |
+|---|---|
+| 3rd | *[[2nd-Circle Spells#Blur\|blur]]*, *[[2nd-Circle Spells#Bombardment of Stings\|bombardment of stings]]*, *[[1st-Circle Spells#Longstrider\|longstrider]]*, *[[1st-Circle Spells#Speak with Animals\|speak with animals]]* |
+| 5th | *[[3rd-Circle Spells#Fly\|fly]]*, *[[3rd-Circle Spells#Haste\|haste]]* |
+| 7th | *[[4th-Circle Spells#Giant Insect\|giant insect]]*, *[[4th-Circle Spells#Storm of Wings\|storm of wings]]* |
+| 9th | *[[5th-Circle Spells#Insect Plague\|insect plague]]*, *[[5th-Circle Spells#Primal Infusion\|primal infusion]]* |
+
+### Bee Bond
+
+*3rd-Level Bees Feature*
+
+You gain proficiency in the Acrobatics skill, and you can understand Bee Dance, a language shared by bees . Bees refuse to attack you, even with magical coercion, unless you attack them.
+
+When a Beast attacks you with a weapon that deals poison damage, such as a giant spider's Bite or a scorpion's Sting, it must succeed on a CHA save against your spell save DC or have disadvantage on attack rolls against you until the start of its next turn.
+
+### Wild Shape
+
+*3rd-Level Bees Feature*
+
+You gain the following Wild Shape option.
+
+#### Wild Shape: Bee Stinger
+
+As a bonus action, you can expend a use of your Wild Shape feature to grow a stinger, typically from your wrist, which you can use to make unarmed strikes.
+
+When you hit with an unarmed strike with this stinger, you use WIS instead of STR to determine the stinger's attack bonus, and the stinger deals piercing damage equal to 1d4 + your WIS modifier + poison damage equal to half your PB (rounded down), instead of the bludgeoning damage normal for an unarmed strike. The stinger lasts for a number of hours equal to your PB.
+
+As you gain levels in this class, your stinger becomes more powerful. At 7th level, unarmed strikes with your stinger count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage, and the poison damage dealt by your stinger equals your PB. In addition, the stinger's damage die increases to a d6 at 7th level, to a d8 at 11th level, and to a d10 at 15th level.
+
+### Bumblebee Rush
+
+*7th-Level Bees Feature*
+
+As a bonus action, you can Dash, and creatures have disadvantage on attack rolls against you until the start of your next turn. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+
+### Hive Mind
+
+*11th-Level Bees Feature*
+
+You can perform a 10-minute ritual with a number of willing creatures up to your PB. This ritual connects the minds of you and the targets in a mental network. Creatures with an INT of 3 (−4) or lower aren't affected by this ritual. Each member of the mental network can communicate telepathically with each other regardless of distance or languages, but communicating creatures must be on the same plane of existence. While linked to each other, each creature in the network has advantage on INT, WIS, and CHA checks that involve a skill if at least one creature in the network has proficiency in that skill. If at least one creature in the network succeeds on a WIS (Perception) check to notice a hidden creature, each creature in the network also succeeds on the check. Finally, when one creature in a network makes an attack, it has advantage on the attack roll if another creature in the network can see the target of the attack, is within 5 feet of the target, and uses its reaction to assist the attacker.
+
+Once you perform this ritual, you can't do so again until you finish a short or long rest.
+
+### Mantle of Bees
+
+*15th-Level Bees Feature*
+
+As an action, you can cover yourself in bees for 1 hour or until you dismiss them (no action required). While you are covered in bees, you gain the following benefits:
+
+- You gain a +2 bonus to AC.
+- You are immune to poison damage.
+- The stinger from your Bee Stinger feature deals poison damage equal to twice your PB rather than equal to your PB.
+- You have advantage on CHA (Intimidation) checks.
+- When a creature within 5 feet of you hits you with a melee attack, it must succeed on a CON save against your spell save DC or take 1d8 piercing damage and 1d8 poison damage and be poisoned until the end of its next turn.
+
+When you create the mantle or as an action while the mantle is active, you can direct the bees to swarm a point you can see within 60 feet of you. Each creature within 10 feet of that point must make a CON save against your spell save DC. On a failure, a creature takes 4d6 piercing damage and 4d6 poison damage and is poisoned for 1 minute. On a success, a creature takes half the damage and isn't poisoned. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. After you command the bees to swarm in this way, the bees disperse, and your mantle ends.
+
+Once you use this feature, you can't use it again until you finish a short or long rest, unless you expend a spell slot of 5th circle or higher to create the mantle again.
+
+## Dreamer
+
+%% source: Labyrinth Worldbook %%
+
+Druids aligned with the [[Servants of the Dreaming God|Dreamers]] and the [[Old Ring]] tap into the collective unconscious that binds all living things—perceiving invisible psychic and spiritual connections as easily as others perceive via sight. Dreamers concern themselves with unlearning the limitations of the physical world, focusing instead on understanding the cosmic energies that flow through all of nature’s creations.
+
+**Dreamer Progression**
+
+| Druid Level | Features |
+|---|---|
+| 3rd | Dreamer Ring Spells, Dreamer’s Intuition, Wild Shape: Energy Link (d4) |
+| 7th | Energy Link (d6), Imagination Veil |
+| 11th | Deep Connection, Energy Link (d8) |
+| 15th | Energy Link (d10), Transcendent Form |
+
+> [!note] Dreamer Druids in the Labyrinth
+> Dreamer druids are commonly found in the vast wildernesses of the Old Ring worlds, where it is easiest to feel natural energies untainted by the noise of civilization. While druids of this circle share many of the values and beliefs held by members of the Dreamers faction, they rarely feel compelled to spend their lives wandering the magical passages of the Great Maze, preferring instead to dedicate themselves to fostering the energies of rooted communities along the branches of the [[Yggdrasil|World Tree]].
+
+### Dreamer Ring Spells
+
+*3rd-Level Dreamer Feature*
+
+You gain ring spells at the druid levels listed in the **Dreamer Ring Spells** table. See the **Druid Subclass** class feature in the *Player’s Guide* for how these spells work.
+
+If these additional spells include a ritual spell, that spell is added to your available ritual spell list. The spell functions as a normal ritual spell but doesn’t count against the total number of ritual spells you know.
+
+**Dreamer Ring Spells**
+
+| Druid Level | Spells |
+|---|---|
+| 3rd | *[[2nd-Circle Spells#Detect Thoughts\|detect thoughts]]*, *[[Rituals 1st–3rd Circle#Dreamspan\|dreamspan]]*, *[[2nd-Circle Spells#Dream Lance\|dream lance]]*, *[[1st-Circle Spells#Sleep\|sleep]]* |
+| 5th | *[[Rituals 1st–3rd Circle#Dreamward\|dreamward]]*, *[[Rituals 1st–3rd Circle#Dream Step\|dream step]]* |
+| 7th | *[[Rituals 4th–6th Circle#Divination\|divination]]*, *[[4th-Circle Spells#Phantasmal Killer\|phantasmal killer]]* |
+| 9th | *[[Rituals 4th–6th Circle#Dream\|dream]]*, *[[5th-Circle Spells#Seeming\|seeming]]* |
+
+### Dreamer’s Intuition
+
+*3rd-Level Dreamer Feature*
+
+If you spend at least 1 minute observing or interacting with a creature, you can attempt to read its energy. When you do so, you learn the creature’s current emotional state, whether it is hostile toward your party, and what—if any— conditions it currently has.
+
+If a creature is actively trying to conceal or hide any of the above information, it can attempt a CHA (Deception) ability check (just use CHA modifier if using a stat block), contested by your WIS (Insight) check. If the creature succeeds, you don’t learn any information and the target is immune to the effects of this feature for 24 hours.
+
+### Wild Shape
+
+*3rd-Level Dreamer Feature*
+
+You gain the following Wild Shape option.
+
+#### Wild Shape: Energy Link
+
+You have learned how to manipulate the unseen energies that connect all living things, allowing you to create mystic channels that pool and focus the strength of your allies.
+
+As a bonus action, you can expend a use of Wild Shape to reflow the ambient energy around you, creating an aura with a 10-foot radius. This aura is centered on you and moves with you. The aura remains active for 1 minute or until you fall unconscious.
+
+While the aura is active, you and allied creatures you choose within the aura’s area are aware of and can pinpoint the exact location of all creatures within its radius. Additionally, whenever you or an allied creature within the aura’s area make an attack roll or save, it can roll a d4 and add the result to the total. Constructs and Undead creatures can’t contribute to this bonus, even if they are considered allies.
+
+The bonus granted by this feature increases when you achieve certain levels of this subclass, becoming a d6 at 7th level, a d8 at 11th level, and a d10 at 15th level.
+
+### Imagination Veil
+
+*7th-Level Dreamer Feature*
+
+You can make your magical workings appear exceptionally beautiful or terrifying in the minds of onlookers. When you cast a spell of 1st circle or higher that isn’t a ritual spell, you can target a number of creatures equal to your PB within 60 feet of you that can see you. Choose one of the following effects:
+
+- ***Vision of Beauty.*** Targets perceive your magic as a vison of something each individual target finds supremely beautiful, inspiring, or joyful. Each target gains temporary hit points equal to your WIS modifier plus your PB.
+
+- ***Vision of Terror.*** Targets perceive your magic as a vision of something reminiscent of their nightmares. Each target must make a WIS save (DC equals 10 + the circle of the triggering spell) or be frightened of you for 1 minute. Frightened creatures repeat the save at the end of each of their turns, ending the effect on a success. Once a creature has successfully saved against this effect, it can’t be affected by Imagination Veil for 24 hours. You can use Imagination Veil a number of times equal to your PB. You recover expended uses when you finish a long rest.
+
+### Deep Connection
+
+*11th-Level Dreamer Feature*
+
+The aura created by your Energy Link now covers a 15-foot radius centered on you. Creatures also get an additional bonus equal to the number of allies inside the aura whenever they make an attack roll or save in its area, up to a maximum number of allies equal to your PB.
+
+### Transcendent Form
+
+*15th-Level Dreamer Feature*
+
+Immediately after you take an instance of damage, you can use your reaction to assume an incorporeal form until the start of your next turn. While you remain in this form, attack rolls against you are made with disadvantage and you are resistant to bludgeoning, piercing, and slashing damage.
 
 ## Elementalist
 
@@ -537,6 +516,74 @@ Your command of the elements has deepened, strengthening your control over them 
 As a reaction when a creature hits you with an attack while within 5 feet of you, you can cause a flare of elemental energy. The attacker takes acid, cold, fire, lightning, or thunder damage (your choice) equal to half your druid level (rounded down).
 
 In addition, the Elemental Conduit effect of your Wild Shape feature now lasts for 1 hour, and while in that form, you have a burrowing speed, flying speed (and can hover), and swimming speed, each equal to your walking speed.
+
+## Fenris
+
+%% source: Northlands Worldbook %%
+
+The bitter Northlands hold many dark groups and secrets. One of the most dangerous is the Ring of [[Fenris]], a circle of druids who venerate the Great Wolf. Inspired by the strength and tenacity of Fenris, these druids feel a kinship to the wolf through their ties to the natural world.
+
+Despite their sometimes-unsavory reputation in the North, not all Ring of Fenris druids are savage killers or nihilists seeking to end the world. Some merely resent the trappings of so-called progress, while others throw off the trappings of civilization to embrace the single-mindedness of the predator. Regardless, Ring of Fenris druids are known for their untamed nature and unbridled enthusiasm for the hunt.
+
+**Fenris Progression**
+
+| Druid Level | Features |
+|---|---|
+| 3rd | Fenris Ring Spells, Wild Shape: Mantle of the Wolf |
+| 7th | Improved Mantle |
+| 11th | Defend the Pack |
+| 15th | Children of the Great Wolf |
+
+### Fenris Ring Spells
+
+*3rd-Level Fenris Feature*
+
+You gain ring spells at the druid levels listed in the **Fenris Ring Spells** table. See the **Druid Subclass** class feature for how these spells work.
+
+**Fenris Ring Spells**
+
+| Druid Level | Spells |
+|---|---|
+| 3rd | *[[2nd-Circle Spells#Darkvision\|darkvision]]*, *[[2nd-Circle Spells#Enhance Ability\|enhance ability]]*, *[[2nd-Circle Spells#Enlarge/Reduce\|enlarge/reduce]]*, *[[2nd-Circle Spells#Wildsense\|wildsense]]* |
+| 5th | *[[3rd-Circle Spells#Conjure Animals\|conjure animals]]*, *[[3rd-Circle Spells#Fear\|fear]]* |
+| 7th | *[[4th-Circle Spells#Compulsion\|compulsion]]*, *[[4th-Circle Spells#Polymorph\|polymorph]]* |
+| 9th | *[[5th-Circle Spells#Antilife Shell\|antilife shell]]*, *[[5th-Circle Spells#Dominate\|dominate]]* |
+
+### Wild Shape
+
+*3rd-Level Fenris Feature*
+
+You gain the following Wild Shape option.
+
+#### Wild Shape: Mantle of the Wolf
+
+You can manifest a tiny portion of Fenris’s power within you. As an action, you can expend a use of your Wild Shape feature to cause an ephemeral wolf’s head, blazing with primal power, to appear above your own for up to 10 minutes. It ends early if you dismiss it (no action required), manifest it again, or become incapacitated.
+
+While this mantle surrounds your body, you are filled with fierce primeval rage. You gain a bonus to your STR (Athletics) checks and STR saves equal to your WIS modifier. Additionally, you can replace one of your melee attacks with a special bite attack using the spectral head. This bite uses your WIS modifier instead of STR modifier for the attack rolls, and it deals 1d8 + your WIS modifier force damage on a successful hit.
+
+### Improved Mantle
+
+*7th-Level Fenris Feature*
+
+While you are using the Mantle of the Wolf effect of your Wild Shape feature, you gain these benefits:
+
+***Break the Chain.*** Bite attacks made using your spectral wolf head deal double damage to objects and structures, ignoring the damage threshold of these targets.
+
+***Dark Sight.*** You have darkvision out to 60 feet. If you already have darkvision, its range increases by 30 feet.
+
+***Wolf’s Sprint.*** Your walking speed increases by 10 feet.
+
+### Defend the Pack
+
+*11th-Level Fenris Feature*
+
+Whenever a creature attacks an ally within 30 feet of you, you can use your reaction and spend a use of your Wild Shape feature to conjure a giant phantom wolf to maul that creature. There is no attack roll required, and the creature is not entitled to a save. The target takes 4d8 force damage and falls prone. At 15th level, the damage increases to 6d8 force damage.
+
+### Children of the Great Wolf
+
+*15th-Level Fenris Feature*
+
+Once per day, when you use your Wild Shape feature for the Mantle of the Wolf effect, you can also summon a fenrikyn (its statistics are in chapter 8 of the *Northlands Worldbook*). You can telepathically order it to follow your commands (no action required). The fenrikyn is loyal to you and your allies. It lasts for as long as your Mantle of the Wolf lasts, until you dismiss it (no action required), it’s destroyed, you travel to another plane, you’re killed, you become unconscious, or it’s more than 120 feet from you.
 
 ## Fey
 
@@ -631,183 +678,83 @@ You can’t die of old age (though you can still be killed), and you are immune 
 
 In addition, the power of the Seelie Spirit effect of your Wild Shape feature grows. The range of the spirit’s effects increases from 15 feet to 30 feet (and from 20 feet to 40 feet for Sorrowful Rebuke’s secondary effect), the spirit can be moved up to 60 feet when you move it, and you can now summon two spirits of two different seasons for each use of the feature. You can control both spirits with the same bonus action.
 
-## Stoneheart
+## Leaf
 
-%% source: Player's Guide 2 %%
+Druids who align with the ring of the Leaf feel a deep connection to plants. Leaf druids are drawn to the quiet, natural spaces of the world. They find great peace and wisdom among hidden groves, ancient forests, and overgrown gardens left to flourish without the influence of civilization. To you, nothing is more important than nurturing the flora that makes all life possible.
 
-Druids of the Stoneheart ring believe that nature is a vital resource and that there will always be those who seek to claim it for themselves. Thus, it will always require the valiant to defend it. These druids tap into the primal energies of the land, becoming closer to nature by armoring themselves with the earth itself.
-
-*Stoneheart Progression*
+**Leaf Progression**
 
 | Druid Level | Features |
 |---|---|
-| 3rd | Stone Intuition, Stoneheart Ring Spells, Wild Shape: Earthen Armor |
-| 7th | Stone’s Vengeance |
-| 11th | Stone Sentinel |
-| 15th | Stone Heart |
+| 3rd | Green Song, Leaf Ring Spells, Wild Shape: Sacred Grove |
+| 7th | Take Root |
+| 11th | Grove Warden |
+| 15th | Heart of the Forest |
 
-### Stone Intuition
+### Leaf Ring Spells
 
-*3rd-Level Stoneheart Feature*
+*3rd-Level Leaf Feature*
 
-You learn the *[[Cantrips#Shillelagh|shillelagh]]* cantrip if you don’t already know it. When you cast *[[Cantrips#Shillelagh|shillelagh]]*, the club or quarterstaff becomes stone and is no longer flammable, though it remains as light as wood in your hands. When you cast *[[Cantrips#Shillelagh|shillelagh]]* on a patch of stone or earth, you can transform a 1-foot cube of the material into a club or quarterstaff (your choice), made of that same material.
+You gain ring spells at the druid levels listed in the **Leaf Ring Spells** table. See the Druid Subclass class feature for how these spells work.
 
-In addition, you have advantage on checks related to the origin and purpose of an object or structure made of metal or stone.
-
-### Stoneheart Ring Spells
-
-*3rd-Level Stoneheart Feature*
-
-You gain ring spells at the druid levels listed in the **Stoneheart Ring Spells** table. See the Druid Subclass class feature in the *Player’s Guide* for how these spells work.
-
-*Stoneheart Ring Spells*
+**Leaf Ring Spells**
 
 | Druid Level | Spells |
 |---|---|
-| 3rd | boulder toss*, circle of stones, entangle, shield of faith |
-| 5th | elemental fusion* (earth only), meld into stone |
-| 7th | stone shape, stoneskin |
-| 9th | conjure elemental (earth only), wall of stone |
+| 3rd | barkskin, entangle, goodberry, spike growth |
+| 5th | plant growth, speak with plants |
+| 7th | blight, freedom of movement |
+| 9th | greater hold, tree stride |
+
+### Green Song
+
+*3rd-Level Leaf Feature*
+
+Your deep connection to plants allows you to communicate with them. As an action, you can focus on a nonmagical plant within 30 feet of you that you can see. When you do so, you immediately learn its basic properties, including whether it is edible, whether it is poisonous or otherwise dangerous, and what type of environment it typically grows in. You also learn its condition, including whether it is unwell due to magical or mundane means.
+
+In addition, Plant type creatures can understand your speech, and you can understand them as if they were speaking a language—regardless of what languages they know (if any).
 
 ### Wild Shape
 
-*3rd-Level Stoneheart Feature*
+*3rd-Level Leaf Feature*
 
 You gain the following Wild Shape option.
 
-#### Wild Shape: Earthen Armor
+#### Wild Shape: Sacred Grove
 
-*3rd-Level Stoneheart Feature*
+As an action, you can expend a use of your Wild Shape feature to infuse the area around you with primordial power, shaping it into a magical pocket grove.
 
-As a bonus action while not wearing armor, you can expend a use of your Wild Shape feature (see *Player’s Guide*) to wrap yourself in protective earth, stone, and crystal. The armor covers you from head to toe, but you determine the appearance of the armor. Regardless of appearance, the armor remains composed of the earthen materials from which it was formed. The armor is lightweight and doesn’t hinder movement, and you are considered proficient with it.
+When you use this feature, vitality surges into the ground in a 10-foot radius centered on you. Normal plants in the affected area rapidly expand, and magical plants sprout from the ground. The sacred grove remains magical for 1 minute, until you use a feature that causes it to be destroyed, or you fall unconscious. After its magic fades, any nonmagical plants remain healthy and overgrown. You can choose to end this effect early (no action required). You can maintain only one sacred grove at a time.
 
-While the armor is active, you gain the following benefits:
+When you first create the grove, choose one of the following magical properties the grove has while its magic is active:
 
-- The damage die for any *[[Cantrips#Shillelagh|shillelagh]]* weapon you wield is a d10.
+- **Tangle Weed.** Creeping vines or brambles weave across the ground, making the area difficult terrain. When a creature attempts to move within the grove, you can use your reaction to command the vines to grab it. The target must succeed on a STR save against your spell save DC or be restrained by the grasping plants for the sacred grove’s duration. A creature restrained by the plants can use its action to make a STR check against your spell save DC. On a success, the creature is no longer restrained.
 
-- You have a burrowing speed equal to your walking speed.
+- **Tree Line.** Saplings surge from the ground, creating a protective circle. All creatures, except you, have disadvantage on attacks against creatures within the grove’s area. In addition, if you would take damage from a weapon or spell attack while on solid ground within the grove, you can use your reaction to command the grove to intercept it. When you do, you take no damage from the triggering attack and the grove is destroyed.
 
-- You have tremorsense to a range of 10 feet.
+- **Wildflowers.** Patches of aromatic magical flowers calm and clarify minds. All creatures in the grove have advantage on saves against being charmed or frightened. In addition, as a bonus action, you can choose to destroy the grove to end all conditions affecting one creature in the grove’s area. When you do so, all creatures of your choice on solid ground in the grove gain temporary hit points equal to your PB.
 
-- Your AC equals 13 + your WIS modifier. You can maintain this earthen armor for a number of hours equal to your PB. You then lose the armor unless you expend another use of Wild Shape.
+### Take Root
 
-### Stone’s Vengeance
+*7th-Level Leaf Feature*
 
-*7th-Level Stoneheart Feature*
+While standing on solid ground, you can use a bonus action to root yourself in place. While rooted, your speed is 0 feet, and you can’t be forced to move or be knocked prone by any means. You remain rooted until you choose to end the effect (no action required).
 
-On your turn, you can make two attacks when you take the Attack action.
+If you are rooted when your turn begins, you can choose to spend one of your hit dice. When you do so, roll the die and regain hit points equal to the result plus your CON modifier.
 
-In addition, when a friendly creature you can see within 30 feet of you is attacked while on the ground, you can summon a small pillar of earth, stone, wood, or similar material between the attack and the creature, imposing disadvantage on the attack roll. If the attack hits, the pillar bursts, and the attacker takes bludgeoning damage equal to your druid level. You can use this feature a number of times equal to your PB and regain all expended uses when you finish a long rest.
+### Grove Warden
 
-### Stone Sentinel
+*11th-Level Leaf Feature*
 
-*11th-Level Stoneheart Feature*
+Your bond to your sacred grove has deepened, allowing you more precise control over it. The grove you summon using the Sacred Grove effect of your Wild Shape feature now covers a 30-foot-radius circle centered on you, and you can now decide whether allied creatures (including yourself) within the grove are immune to any effects it imposes.
 
-Your earthen armor improves. While the Earthen Armor effect of your Wild Shape feature is active, you gain the following additional benefits:
+### Heart of the Forest
 
-- The damage die for any *[[Cantrips#Shillelagh|shillelagh]]* weapon you wield increases to a d12.
+*15th-Level Leaf Feature*
 
-- When you deal damage with a metal or stone weapon to an object or structure, the damage is doubled.
+If you are reduced to 0 HP while within your sacred grove, the grove withers, and you regain a number of hit points equal to your druid level. Once you use this feature, you can’t use it again until you finish a long rest.
 
-- While burrowing, you don’t disturb the material through which you move.
-
-- Your AC now equals 15 + your WIS modifier.
-
-- Your tremorsense increases to a range of 20 feet.
-
-### Stone Heart
-
-*15th-Level Stoneheart Feature*
-
-You are resistant to acid damage and bludgeoning damage. While the Earthen Armor effect of your Wild Shape feature is active, you are immune to these damage types instead, and you gain temporary hit points equal to your PB at the start of each of your turns.
-
-## Old Margreve Druid Subclasses
-
-%% source: Tales of the Old Margreve %%
-
-At 3rd level, a druid gains the Druid Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Bees, Owls, Roses, or Verdant.
-
-## Bees
-
-%% source: Tales of the Old Margreve %%
-
-Druids of Bees are friends to all stinging insects but focus their attention on honeybees and other pollinating insects. When not adventuring, they tend hives, either created by the insects or by themselves. They tap into the horror inherent in stinging insects to protect their allies or the fields hosting their bee friends.
-
-*Bees Progression*
-
-| Druid Level | Features |
-|---|---|
-| 3rd | Bees Ring Spells, Bee Bond, Wild Shape: Bee Stinger |
-| 7th | Bumblebee Rush |
-| 11th | Hive Mind |
-| 15th | Mantle of Bees |
-
-### Bees Ring Spells
-
-*3rd-Level Bees Feature*
-
-You gain ring spells at the druid levels listed in the Bees Ring Spells table. See the Druid Subclass class feature for how these spells work.
-
-*Bees Ring Spells*
-
-| Druid Level | Spells |
-|---|---|
-| 3rd | *[[2nd-Circle Spells#Blur\|blur]]*, *[[2nd-Circle Spells#Bombardment of Stings\|bombardment of stings]]*, *[[1st-Circle Spells#Longstrider\|longstrider]]*, *[[1st-Circle Spells#Speak with Animals\|speak with animals]]* |
-| 5th | *[[3rd-Circle Spells#Fly\|fly]]*, *[[3rd-Circle Spells#Haste\|haste]]* |
-| 7th | *[[4th-Circle Spells#Giant Insect\|giant insect]]*, *[[4th-Circle Spells#Storm of Wings\|storm of wings]]* |
-| 9th | *[[5th-Circle Spells#Insect Plague\|insect plague]]*, *[[5th-Circle Spells#Primal Infusion\|primal infusion]]* |
-
-### Bee Bond
-
-*3rd-Level Bees Feature*
-
-You gain proficiency in the Acrobatics skill, and you can understand Bee Dance, a language shared by bees . Bees refuse to attack you, even with magical coercion, unless you attack them.
-
-When a Beast attacks you with a weapon that deals poison damage, such as a giant spider's Bite or a scorpion's Sting, it must succeed on a CHA save against your spell save DC or have disadvantage on attack rolls against you until the start of its next turn.
-
-### Wild Shape
-
-*3rd-Level Bees Feature*
-
-You gain the following Wild Shape option.
-
-#### Wild Shape: Bee Stinger
-
-As a bonus action, you can expend a use of your Wild Shape feature to grow a stinger, typically from your wrist, which you can use to make unarmed strikes.
-
-When you hit with an unarmed strike with this stinger, you use WIS instead of STR to determine the stinger's attack bonus, and the stinger deals piercing damage equal to 1d4 + your WIS modifier + poison damage equal to half your PB (rounded down), instead of the bludgeoning damage normal for an unarmed strike. The stinger lasts for a number of hours equal to your PB.
-
-As you gain levels in this class, your stinger becomes more powerful. At 7th level, unarmed strikes with your stinger count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage, and the poison damage dealt by your stinger equals your PB. In addition, the stinger's damage die increases to a d6 at 7th level, to a d8 at 11th level, and to a d10 at 15th level.
-
-### Bumblebee Rush
-
-*7th-Level Bees Feature*
-
-As a bonus action, you can Dash, and creatures have disadvantage on attack rolls against you until the start of your next turn. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
-
-### Hive Mind
-
-*11th-Level Bees Feature*
-
-You can perform a 10-minute ritual with a number of willing creatures up to your PB. This ritual connects the minds of you and the targets in a mental network. Creatures with an INT of 3 (−4) or lower aren't affected by this ritual. Each member of the mental network can communicate telepathically with each other regardless of distance or languages, but communicating creatures must be on the same plane of existence. While linked to each other, each creature in the network has advantage on INT, WIS, and CHA checks that involve a skill if at least one creature in the network has proficiency in that skill. If at least one creature in the network succeeds on a WIS (Perception) check to notice a hidden creature, each creature in the network also succeeds on the check. Finally, when one creature in a network makes an attack, it has advantage on the attack roll if another creature in the network can see the target of the attack, is within 5 feet of the target, and uses its reaction to assist the attacker.
-
-Once you perform this ritual, you can't do so again until you finish a short or long rest.
-
-### Mantle of Bees
-
-*15th-Level Bees Feature*
-
-As an action, you can cover yourself in bees for 1 hour or until you dismiss them (no action required). While you are covered in bees, you gain the following benefits:
-
-- You gain a +2 bonus to AC.
-- You are immune to poison damage.
-- The stinger from your Bee Stinger feature deals poison damage equal to twice your PB rather than equal to your PB.
-- You have advantage on CHA (Intimidation) checks.
-- When a creature within 5 feet of you hits you with a melee attack, it must succeed on a CON save against your spell save DC or take 1d8 piercing damage and 1d8 poison damage and be poisoned until the end of its next turn.
-
-When you create the mantle or as an action while the mantle is active, you can direct the bees to swarm a point you can see within 60 feet of you. Each creature within 10 feet of that point must make a CON save against your spell save DC. On a failure, a creature takes 4d6 piercing damage and 4d6 poison damage and is poisoned for 1 minute. On a success, a creature takes half the damage and isn't poisoned. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. After you command the bees to swarm in this way, the bees disperse, and your mantle ends.
-
-Once you use this feature, you can't use it again until you finish a short or long rest, unless you expend a spell slot of 5th circle or higher to create the mantle again.
+If your body is destroyed completely, after the grove withers, a single acorn is left at its center. If this acorn is either undisturbed or planted somewhere, you gain a new body in 1d10 days and regain all your hit points. Your new body appears within 5 feet of the acorn, which is destroyed as soon as you regain consciousness.
 
 ## Owls
 
@@ -963,6 +910,189 @@ A whiff of your perfume surrounds you at all times and lingers. You are immune t
 
 In addition, when a creature hits you with an attack while within 5 feet of you, you can use your reaction to cause a whiff of your perfume to flare up. If the attacker is a breathing creature, it takes psychic damage equal to half your druid level (rounded down). If your Wild Perfume is active, you can use this reaction against any creature that attacks you while within your perfume or while suffering the perfume's effects.
 
+## Shifter
+
+Druids that align with the ring of the Shifter feel a deep connection to the animals that walk the world. Shifters delve into the mysteries of transformation, spending much of their time in the forms of the beasts they so admire. To you, there is no greater joy than feeling wind beneath your wings, stalking prey on padded paws, or swimming through crystalline depths.
+
+**Shifter Progression**
+
+| Druid Level | Features |
+|---|---|
+| 3rd | Potent Forms, Quick Shift, Shifter Ring Spells |
+| 7th | Beast’s Fury |
+| 11th | Elemental Infusion |
+| 15th | Manifold Mind |
+
+### Potent Forms
+
+*3rd-Level Shifter Feature*
+
+You can select more powerful creatures for the known forms used with the Beast Form effect of your Wild Shape feature. When you gain this feature, you can choose any Beast or creature with the Animal tag with a CR of 1 or lower as a known form.
+
+In addition, you can now speak any language you know while in beast form—even if your chosen form would not typically allow you to do so. However, you still can’t cast spells while transformed, even if a spell requires only a verbal component.
+
+At higher druid levels, you can choose beast forms with a CR as high as your druid level divided by 3, rounded down (ignoring CR limitations in your Improved Beast Form feature). For example, upon achieving 6th level of druid, you can choose any Beast of CR 2 or lower as a known form, CR 3 or lower at 9th level, and so on—as shown in the **Potent Forms** table.
+
+**Potent Forms**
+
+| Druid Level | Max CR | Example | Druid Level | Max CR | Example |
+|---|---|---|---|---|---|
+| 3rd | 1 | Wolf | 12th | 4 | Elephant |
+| 5th | 1 | Hippogriff | 15th | 5 | Triceratops |
+| 6th | 2 | Pegasus | 18th | 6 | Mammoth |
+| 9th | 3 | Owlbear |  |  |  |
+
+### Quick Shift
+
+*3rd-Level Shifter Feature*
+
+By delving into the mysteries of the shifters, you have learned to change form more rapidly. When you use the Beast Form effect of your Wild Shape feature, you can transform as a bonus action instead of as an action.
+
+### Shifter Ring Spells
+
+*3rd-Level Shifter Feature*
+
+You gain ring spells at the druid levels listed in the **Shifter Ring Spells** table. See the Druid Subclass class feature for how these spells work.
+
+**Shifter Ring Spells**
+
+| Druid Level | Spells |
+|---|---|
+| 3rd | alter self, animal friendship, speak with animals, wildsense |
+| 5th | conjure animals, water breathing |
+| 7th | giant insect, polymorph |
+| 9th | dominate, insect plague |
+
+### Beast’s Fury
+
+*7th-Level Shifter Feature*
+
+Immediately after you take the Attack action on your turn while in beast form, you can use your bonus action to make a single unarmed strike with your claws, hooves, fangs, or whatever natural weapon suits your chosen form. This attack deals 1d6 + your PB damage, and you are considered proficient with it. You decide if this attack deals bludgeoning, piercing, or slashing damage when you first assume your beast form.
+
+In addition, all damage you deal with melee weapon attacks while in beast form now counts as magical damage for the purposes of overcoming resistance or immunity to nonmagical damage.
+
+### Elemental Infusion
+
+*11th-Level Shifter Feature*
+
+By expending two uses of the Beast Form effect of your Wild Shape feature, you can infuse your chosen form with one of the four elemental powers described here. Alternatively, you can use your reaction to spend one use of Wild Shape while already transformed by the Beast Form effect, either infusing yourself with one of the following powers or changing which power is active.
+
+#### Air
+
+You gain a 90-foot flying (hover) speed and are resistant to lightning and thunder damage. You gain the following action:
+
+- ***Whirl (Recharge 4–6).*** Each Large or smaller creature within 5 feet of you must make a STR save (DC 10 + your PB). On a failure, a target takes 3d8 + your PB bludgeoning damage and is flung up to 20 feet away from you in a random direction and knocked prone. If a thrown target strikes a solid surface, it takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target lands in the same space as another creature, that creature must succeed on a DC 13 DEX save or take the same damage and be knocked prone. The target is then prone in an adjacent unoccupied space. If the target’s STR save is successful, a target takes half damage and isn’t flung or knocked prone.
+
+#### Earth
+
+You gain a 30-foot burrowing speed and can burrow through nonmagical, unworked earth and stone without disturbing the material you move through. You gain tremorsense to a range of 60 feet and are resistant to bludgeoning, piercing, and slashing damage. Melee attacks you make deal double damage to objects and structures.
+
+#### Fire
+
+You shed bright light in a 30-foot-radius and dim light for an additional 30 feet. You are immune to fire damage. Melee attacks you make deal an additional 1d8 fire damage. When you deal fire damage to a flammable creature or object, you can choose whether it ignites—an ignited target takes 5 (1d10) fire damage at the start of each of its turns until a creature uses an action to douse it. Your GM determines what constitutes a flammable creature or object.
+
+#### Water
+
+You gain a 90-foot swimming speed and can breathe underwater. You are resistant to cold and poison damage. You gain the following action:
+
+- ***Wave (Recharge 4–6).*** Each creature within 5 feet of you must make a STR save (DC 10 + your PB). On a failure, a target takes 2d8 + your PB bludgeoning damage. If a target is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe in water. On a successful STR save, a creature takes half damage and isn’t grappled. At the start of each of your turns, each target grappled by you takes 2d8 + your PB bludgeoning damage. A creature within 5 feet of a grappled target can pull it out of the grapple if it expends an action to attempt a DC 14 STR (Athletics) check—freeing the target on a success.
+
+### Manifold Mind
+
+*15th-Level Shifter Feature*
+
+You can now cast Primordial spells while in beast form, and your form doesn't hinder performing the somatic and verbal components of spells. You must still provide any required material components as normal.
+
+## Stoneheart
+
+%% source: Player's Guide 2 %%
+
+Druids of the Stoneheart ring believe that nature is a vital resource and that there will always be those who seek to claim it for themselves. Thus, it will always require the valiant to defend it. These druids tap into the primal energies of the land, becoming closer to nature by armoring themselves with the earth itself.
+
+*Stoneheart Progression*
+
+| Druid Level | Features |
+|---|---|
+| 3rd | Stone Intuition, Stoneheart Ring Spells, Wild Shape: Earthen Armor |
+| 7th | Stone’s Vengeance |
+| 11th | Stone Sentinel |
+| 15th | Stone Heart |
+
+### Stone Intuition
+
+*3rd-Level Stoneheart Feature*
+
+You learn the *[[Cantrips#Shillelagh|shillelagh]]* cantrip if you don’t already know it. When you cast *[[Cantrips#Shillelagh|shillelagh]]*, the club or quarterstaff becomes stone and is no longer flammable, though it remains as light as wood in your hands. When you cast *[[Cantrips#Shillelagh|shillelagh]]* on a patch of stone or earth, you can transform a 1-foot cube of the material into a club or quarterstaff (your choice), made of that same material.
+
+In addition, you have advantage on checks related to the origin and purpose of an object or structure made of metal or stone.
+
+### Stoneheart Ring Spells
+
+*3rd-Level Stoneheart Feature*
+
+You gain ring spells at the druid levels listed in the **Stoneheart Ring Spells** table. See the Druid Subclass class feature in the *Player’s Guide* for how these spells work.
+
+*Stoneheart Ring Spells*
+
+| Druid Level | Spells |
+|---|---|
+| 3rd | boulder toss*, circle of stones, entangle, shield of faith |
+| 5th | elemental fusion* (earth only), meld into stone |
+| 7th | stone shape, stoneskin |
+| 9th | conjure elemental (earth only), wall of stone |
+
+### Wild Shape
+
+*3rd-Level Stoneheart Feature*
+
+You gain the following Wild Shape option.
+
+#### Wild Shape: Earthen Armor
+
+*3rd-Level Stoneheart Feature*
+
+As a bonus action while not wearing armor, you can expend a use of your Wild Shape feature (see *Player’s Guide*) to wrap yourself in protective earth, stone, and crystal. The armor covers you from head to toe, but you determine the appearance of the armor. Regardless of appearance, the armor remains composed of the earthen materials from which it was formed. The armor is lightweight and doesn’t hinder movement, and you are considered proficient with it.
+
+While the armor is active, you gain the following benefits:
+
+- The damage die for any *[[Cantrips#Shillelagh|shillelagh]]* weapon you wield is a d10.
+
+- You have a burrowing speed equal to your walking speed.
+
+- You have tremorsense to a range of 10 feet.
+
+- Your AC equals 13 + your WIS modifier. You can maintain this earthen armor for a number of hours equal to your PB. You then lose the armor unless you expend another use of Wild Shape.
+
+### Stone’s Vengeance
+
+*7th-Level Stoneheart Feature*
+
+On your turn, you can make two attacks when you take the Attack action.
+
+In addition, when a friendly creature you can see within 30 feet of you is attacked while on the ground, you can summon a small pillar of earth, stone, wood, or similar material between the attack and the creature, imposing disadvantage on the attack roll. If the attack hits, the pillar bursts, and the attacker takes bludgeoning damage equal to your druid level. You can use this feature a number of times equal to your PB and regain all expended uses when you finish a long rest.
+
+### Stone Sentinel
+
+*11th-Level Stoneheart Feature*
+
+Your earthen armor improves. While the Earthen Armor effect of your Wild Shape feature is active, you gain the following additional benefits:
+
+- The damage die for any *[[Cantrips#Shillelagh|shillelagh]]* weapon you wield increases to a d12.
+
+- When you deal damage with a metal or stone weapon to an object or structure, the damage is doubled.
+
+- While burrowing, you don’t disturb the material through which you move.
+
+- Your AC now equals 15 + your WIS modifier.
+
+- Your tremorsense increases to a range of 20 feet.
+
+### Stone Heart
+
+*15th-Level Stoneheart Feature*
+
+You are resistant to acid damage and bludgeoning damage. While the Earthen Armor effect of your Wild Shape feature is active, you are immune to these damage types instead, and you gain temporary hit points equal to your PB at the start of each of your turns.
+
 ## Verdant
 
 %% source: Tales of the Old Margreve %%
@@ -1038,167 +1168,6 @@ Your body gains characteristics similar to Plants, granting you the following be
 *15th-Level Verdant Feature*
 
 You have learned to become truly one with your plant form. You can now cast Primordial spells while in plant form, and your form doesn't hinder performing the somatic and verbal components of spells. You must still provide any required material components as normal.
-
-## Labyrinth Druid Subclasses
-
-%% source: Labyrinth Worldbook %%
-
-At 3rd level, a druid gains the Druid Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Dreamer.
-
-## Dreamer
-
-%% source: Labyrinth Worldbook %%
-
-Druids aligned with the [[Servants of the Dreaming God|Dreamers]] and the [[Old Ring]] tap into the collective unconscious that binds all living things—perceiving invisible psychic and spiritual connections as easily as others perceive via sight. Dreamers concern themselves with unlearning the limitations of the physical world, focusing instead on understanding the cosmic energies that flow through all of nature’s creations.
-
-**Dreamer Progression**
-
-| Druid Level | Features |
-|---|---|
-| 3rd | Dreamer Ring Spells, Dreamer’s Intuition, Wild Shape: Energy Link (d4) |
-| 7th | Energy Link (d6), Imagination Veil |
-| 11th | Deep Connection, Energy Link (d8) |
-| 15th | Energy Link (d10), Transcendent Form |
-
-> [!note] Dreamer Druids in the Labyrinth
-> Dreamer druids are commonly found in the vast wildernesses of the Old Ring worlds, where it is easiest to feel natural energies untainted by the noise of civilization. While druids of this circle share many of the values and beliefs held by members of the Dreamers faction, they rarely feel compelled to spend their lives wandering the magical passages of the Great Maze, preferring instead to dedicate themselves to fostering the energies of rooted communities along the branches of the [[Yggdrasil|World Tree]].
-
-### Dreamer Ring Spells
-
-*3rd-Level Dreamer Feature*
-
-You gain ring spells at the druid levels listed in the **Dreamer Ring Spells** table. See the **Druid Subclass** class feature in the *Player’s Guide* for how these spells work.
-
-If these additional spells include a ritual spell, that spell is added to your available ritual spell list. The spell functions as a normal ritual spell but doesn’t count against the total number of ritual spells you know.
-
-**Dreamer Ring Spells**
-
-| Druid Level | Spells |
-|---|---|
-| 3rd | *[[2nd-Circle Spells#Detect Thoughts\|detect thoughts]]*, *[[Rituals 1st–3rd Circle#Dreamspan\|dreamspan]]*, *[[2nd-Circle Spells#Dream Lance\|dream lance]]*, *[[1st-Circle Spells#Sleep\|sleep]]* |
-| 5th | *[[Rituals 1st–3rd Circle#Dreamward\|dreamward]]*, *[[Rituals 1st–3rd Circle#Dream Step\|dream step]]* |
-| 7th | *[[Rituals 4th–6th Circle#Divination\|divination]]*, *[[4th-Circle Spells#Phantasmal Killer\|phantasmal killer]]* |
-| 9th | *[[Rituals 4th–6th Circle#Dream\|dream]]*, *[[5th-Circle Spells#Seeming\|seeming]]* |
-
-### Dreamer’s Intuition
-
-*3rd-Level Dreamer Feature*
-
-If you spend at least 1 minute observing or interacting with a creature, you can attempt to read its energy. When you do so, you learn the creature’s current emotional state, whether it is hostile toward your party, and what—if any— conditions it currently has.
-
-If a creature is actively trying to conceal or hide any of the above information, it can attempt a CHA (Deception) ability check (just use CHA modifier if using a stat block), contested by your WIS (Insight) check. If the creature succeeds, you don’t learn any information and the target is immune to the effects of this feature for 24 hours.
-
-### Wild Shape
-
-*3rd-Level Dreamer Feature*
-
-You gain the following Wild Shape option.
-
-#### Wild Shape: Energy Link
-
-You have learned how to manipulate the unseen energies that connect all living things, allowing you to create mystic channels that pool and focus the strength of your allies.
-
-As a bonus action, you can expend a use of Wild Shape to reflow the ambient energy around you, creating an aura with a 10-foot radius. This aura is centered on you and moves with you. The aura remains active for 1 minute or until you fall unconscious.
-
-While the aura is active, you and allied creatures you choose within the aura’s area are aware of and can pinpoint the exact location of all creatures within its radius. Additionally, whenever you or an allied creature within the aura’s area make an attack roll or save, it can roll a d4 and add the result to the total. Constructs and Undead creatures can’t contribute to this bonus, even if they are considered allies.
-
-The bonus granted by this feature increases when you achieve certain levels of this subclass, becoming a d6 at 7th level, a d8 at 11th level, and a d10 at 15th level.
-
-### Imagination Veil
-
-*7th-Level Dreamer Feature*
-
-You can make your magical workings appear exceptionally beautiful or terrifying in the minds of onlookers. When you cast a spell of 1st circle or higher that isn’t a ritual spell, you can target a number of creatures equal to your PB within 60 feet of you that can see you. Choose one of the following effects:
-
-- ***Vision of Beauty.*** Targets perceive your magic as a vison of something each individual target finds supremely beautiful, inspiring, or joyful. Each target gains temporary hit points equal to your WIS modifier plus your PB.
-
-- ***Vision of Terror.*** Targets perceive your magic as a vision of something reminiscent of their nightmares. Each target must make a WIS save (DC equals 10 + the circle of the triggering spell) or be frightened of you for 1 minute. Frightened creatures repeat the save at the end of each of their turns, ending the effect on a success. Once a creature has successfully saved against this effect, it can’t be affected by Imagination Veil for 24 hours. You can use Imagination Veil a number of times equal to your PB. You recover expended uses when you finish a long rest.
-
-### Deep Connection
-
-*11th-Level Dreamer Feature*
-
-The aura created by your Energy Link now covers a 15-foot radius centered on you. Creatures also get an additional bonus equal to the number of allies inside the aura whenever they make an attack roll or save in its area, up to a maximum number of allies equal to your PB.
-
-### Transcendent Form
-
-*15th-Level Dreamer Feature*
-
-Immediately after you take an instance of damage, you can use your reaction to assume an incorporeal form until the start of your next turn. While you remain in this form, attack rolls against you are made with disadvantage and you are resistant to bludgeoning, piercing, and slashing damage.
-
-## Northlands Druid Subclasses
-
-%% source: Northlands Worldbook %%
-
-At 3rd level, a druid gains the Druid Subclass feature. The following subclass from the [[Northlands]] is also available when making that choice: Fenris.
-
-## Fenris
-
-%% source: Northlands Worldbook %%
-
-The bitter Northlands hold many dark groups and secrets. One of the most dangerous is the Ring of [[Fenris]], a circle of druids who venerate the Great Wolf. Inspired by the strength and tenacity of Fenris, these druids feel a kinship to the wolf through their ties to the natural world.
-
-Despite their sometimes-unsavory reputation in the North, not all Ring of Fenris druids are savage killers or nihilists seeking to end the world. Some merely resent the trappings of so-called progress, while others throw off the trappings of civilization to embrace the single-mindedness of the predator. Regardless, Ring of Fenris druids are known for their untamed nature and unbridled enthusiasm for the hunt.
-
-**Fenris Progression**
-
-| Druid Level | Features |
-|---|---|
-| 3rd | Fenris Ring Spells, Wild Shape: Mantle of the Wolf |
-| 7th | Improved Mantle |
-| 11th | Defend the Pack |
-| 15th | Children of the Great Wolf |
-
-### Fenris Ring Spells
-
-*3rd-Level Fenris Feature*
-
-You gain ring spells at the druid levels listed in the **Fenris Ring Spells** table. See the **Druid Subclass** class feature for how these spells work.
-
-**Fenris Ring Spells**
-
-| Druid Level | Spells |
-|---|---|
-| 3rd | *[[2nd-Circle Spells#Darkvision\|darkvision]]*, *[[2nd-Circle Spells#Enhance Ability\|enhance ability]]*, *[[2nd-Circle Spells#Enlarge/Reduce\|enlarge/reduce]]*, *[[2nd-Circle Spells#Wildsense\|wildsense]]* |
-| 5th | *[[3rd-Circle Spells#Conjure Animals\|conjure animals]]*, *[[3rd-Circle Spells#Fear\|fear]]* |
-| 7th | *[[4th-Circle Spells#Compulsion\|compulsion]]*, *[[4th-Circle Spells#Polymorph\|polymorph]]* |
-| 9th | *[[5th-Circle Spells#Antilife Shell\|antilife shell]]*, *[[5th-Circle Spells#Dominate\|dominate]]* |
-
-### Wild Shape
-
-*3rd-Level Fenris Feature*
-
-You gain the following Wild Shape option.
-
-#### Wild Shape: Mantle of the Wolf
-
-You can manifest a tiny portion of Fenris’s power within you. As an action, you can expend a use of your Wild Shape feature to cause an ephemeral wolf’s head, blazing with primal power, to appear above your own for up to 10 minutes. It ends early if you dismiss it (no action required), manifest it again, or become incapacitated.
-
-While this mantle surrounds your body, you are filled with fierce primeval rage. You gain a bonus to your STR (Athletics) checks and STR saves equal to your WIS modifier. Additionally, you can replace one of your melee attacks with a special bite attack using the spectral head. This bite uses your WIS modifier instead of STR modifier for the attack rolls, and it deals 1d8 + your WIS modifier force damage on a successful hit.
-
-### Improved Mantle
-
-*7th-Level Fenris Feature*
-
-While you are using the Mantle of the Wolf effect of your Wild Shape feature, you gain these benefits:
-
-***Break the Chain.*** Bite attacks made using your spectral wolf head deal double damage to objects and structures, ignoring the damage threshold of these targets.
-
-***Dark Sight.*** You have darkvision out to 60 feet. If you already have darkvision, its range increases by 30 feet.
-
-***Wolf’s Sprint.*** Your walking speed increases by 10 feet.
-
-### Defend the Pack
-
-*11th-Level Fenris Feature*
-
-Whenever a creature attacks an ally within 30 feet of you, you can use your reaction and spend a use of your Wild Shape feature to conjure a giant phantom wolf to maul that creature. There is no attack roll required, and the creature is not entitled to a save. The target takes 4d8 force damage and falls prone. At 15th level, the damage increases to 6d8 force damage.
-
-### Children of the Great Wolf
-
-*15th-Level Fenris Feature*
-
-Once per day, when you use your Wild Shape feature for the Mantle of the Wolf effect, you can also summon a fenrikyn (its statistics are in chapter 8 of the *Northlands Worldbook*). You can telepathically order it to follow your commands (no action required). The fenrikyn is loyal to you and your allies. It lasts for as long as your Mantle of the Wolf lasts, until you dismiss it (no action required), it’s destroyed, you travel to another plane, you’re killed, you become unconscious, or it’s more than 120 feet from you.
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

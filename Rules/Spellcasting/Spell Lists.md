@@ -588,7 +588,7 @@ Spells and rituals available to each source of magic, by circle, with each spell
 - *[[1st-Circle Spells#Animal Friendship|Animal Friendship]]* (Enchantment): You charm a Beast or Animal for a day.
 - *[[1st-Circle Spells#Blend|Blend]]* (Illusion): You blend into natural surroundings while you remain still.
 - *[[1st-Circle Spells#Bloodhound|Bloodhound]]* (Transmutation): You transform an animal into an expert tracker.
-- *[[1st-Circle Spells#Bloodhound (Old Margreve)|Bloodhound (Old Margreve)]]* (Transmutation): You grant a creature an enhanced sense of smell.
+- *[[1st-Circle Spells#Bloodhound (Margreve)|Bloodhound (Margreve)]]* (Transmutation): You grant a creature an enhanced sense of smell.
 - *[[1st-Circle Spells#Bountiful Stamina|Bountiful Stamina]]* (Abjuration): You greatly increase a creature’s stamina.
 - *[[1st-Circle Spells#Burning Hands|Burning Hands]]* (Evocation): You create a cone of fire that burns creatures and sets objects aflame.
 - *[[1st-Circle Spells#Choking Fumes|Choking Fumes]]* (Evocation): You create noxious vapor that billows toward your target.

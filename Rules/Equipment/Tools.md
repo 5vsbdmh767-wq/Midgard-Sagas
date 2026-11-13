@@ -9,260 +9,8 @@ Your background, class, heritage, lineage, or talent features can give you profi
 
 Also, like skills, tools aren’t tied to specific ability scores. The ability score assigned to each ability check using a tool depends on what you are trying to accomplish. For example, when using construction tools, the GM might ask you to make a STR (Construction Tools) check to hammer nails into a hard surface, but ask for a DEX (Construction Tools) check to use the same tools to carve a wooden sculpture.
 
-## Tool Descriptions
-
-The tools available to PCs are described in this section. Entries generally include the following information.
-
-***Associated Abilities.*** Like skills, checks made with tools can involve any ability score. However, the abilities most used with each tool are included for easy reference.
-
-***Components.*** Each description lists all the individual items that comprise the tool set or kit.
-
-***Special Uses.*** Specific uses that require additional explanation are noted individually by name.
-
-***Example Tasks.*** A short table presents example tasks and DCs for each tool.
-
-### Alchemist Tools
-
-Alchemist tools are used to perform a variety of tasks such as identifying potions or foreign substances, mixing reagents together to cause alchemical reactions, and crafting alchemical substances.
-
-***Associated Abilities:*** DEX, INT.
-
-***Components.*** This tool kit includes an array of mixing and storage vessels, an alembic still, a metal frame for holding a mixing vessel above a flame, a mortar and pestle, and a variety of common alchemical reagents. ***Craft Items*.** Alchemist tools can be used to make items like those listed in the Alchemical Concoctions section of the **[[Adventuring Gear]]** table (see **Special Gear** in this chapter), with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
-
-**Alchemist Tools Example Tasks**
-
-| Task | DC |
-|---|---|
-| Purify water for safe consumption | 10 |
-| Start a volatile chemical reaction (such as smoke or fire) or | 15 |
-| neutralize a toxic substance (such as an acid or base) |  |
-| Identify a rare or obscure poison | 20 |
-
-> [!note] Ability Checks: Skill or Tool?
-> Some ability checks can’t be performed without using a tool. For example, there is no way to pick a lock without thieves’ tools. A PC without thieves’ tools can attempt to break down or force their way through a locked door, but only thieves’ tools allow them to pick the lock. The GM has final say on whether a tool is required to accomplish a task.
->
-
-### Artist Tools
-
-Artist tools are used to create illustrated art objects and ornamental documents, pen illuminated texts, and skillfully paint objects.
-
-***Associated Abilities:*** DEX, CHA.
-
-***Components.*** This tool kit includes brushes, spades, stirrers, inks, paints, a square and triangle, a canvas stretcher and an easel, and rolls of vellum, parchment, and canvas. ***Craft Items*.** Artist tools can be used to make art objects with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
-
-**Artist Tools Example Tasks**
-
-| Task | DC |
-|---|---|
-| Sketch an accurate image of person, place, or symbol | 10 |
-| you’ve seen |  |
-| Quickly paint a complex glyph or symbol | 15 |
-| Replicate someone else’s art style | 20 |
-
-### Charlatan Tools
-
-Charlatan tools are used to craft disguises and forge documents.
-
-***Associated Abilities:*** DEX, CHA.
-
-***Components.*** This tool kit includes hair dyes, small props, cosmetics, a few choice articles of clothing, a selection of wax seals, gold and silver leaf, inks, a variety of parchments, and sculpting tools to fashion melted wax into seals or prosthetics.
-
-***Create Disguise.*** Over the course of an hour (which can be done as part of a rest) you can create a disguise to make yourself or someone else—including any clothing or equipment—look like a different creature. A disguise can make a creature seem slightly taller, shorter, fatter, or thinner, but can’t conceal true size or basic arrangement of limbs. It takes 1 minute to don such a disguise once created. A set of charlatan tools only has enough materials to create one disguise at a time, but you can disassemble a disguise to create a new disguise as part of the time spent making a disguise. A creature can use its action to inspect a disguised appearance, and must succeed on an INT (Investigation) contest versus your DEX (Charlatan Tools) to discern a disguise.
-
-***Forge Documents.*** Over the course of one hour (which can be done as part of a rest) you can create a simple false document of 5 pages or less—like a personal letter, a party invitation, or a sales permit. With the GM’s permission you can create longer or more complicated documents over the course of several hours or days. A creature can use its action to inspect a forged document, and must succeed on an INT (Investigation) contest versus your DEX (Charlatan Tools) check to discern a forgery.
-
-**Charlatan Tools Example Tasks**
-
-| Task | DC |
-|---|---|
-| Hide a noteworthy physical feature or minor injury | 10 |
-| Forge a signature from memory | 15 |
-| Make yourself look like a well-known celebrity | 20 |
-
-### Clothier Tools
-
-Clothier tools are used to sew, make, or tailor fabric objects such as clothing or shoes.
-
-***Associated Abilities:*** DEX, CHA.
-
-***Components.*** This tool kit includes pins and needles, specially sharpened shears, a small hammer and shoe horn, a variety of dyed threads on spools, and thicker waxed threads and yarns. ***Craft Items*.** Clothier tools can be used to make items with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
-
-### Construction Tools
-
-Construction tools are used to build and repair items primarily made of wood or stone.
-
-***Associated Abilities:*** STR, DEX.
-
-***Components.*** This tool kit includes hammers and a mallet, a variety of fasteners, a square and triangle, chisels, a saw, brushes, and spades.
-
-***Fortify.*** You can spend 1 minute fortifying a chest, door, window, or other sealable object or structure. When you do so, the object’s AC increases by an amount equal to your PB or creatures have disadvantage on STR (Athletics) checks made to penetrate the fortification (the GM decides which is more relevant). An item doesn’t receive additional benefits from multiple attempts to fortify it.
-
-***Build Cover.*** You can spend 1 hour (which can be done as part of a long rest) erecting a 5-foot by 5-foot wall panel in an unoccupied space, provided you have the raw materials to do so. The panel provides three-quarters cover (see **Cover** in **Chapter 6**) for one Medium or smaller creature, and it can’t be moved. A panel of cover created with this feature is an object with an AC equal to 10 + your PB and 15 HP if made of wood or 25 HP if made of stone. It is immune to psychic and poison damage. ***Craft Items*.** Construction tools can be used to make items with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
-
-**Clothier Tools Example Tasks**
-
-| Task | DC |
-|---|---|
-| Determine a garment’s age and origin | 10 |
-| Sew an injury closed | 15 |
-| Patch a torn sail during a raging storm | 20 |
-
-### Gaming Set
-
-Gaming sets are used to gamble, entertain, or engage in fortune-telling. There are three types: cards, dice, and board games. When you have proficiency in a gaming set, choose one type for your proficiency, not all gaming sets. You must have multiple proficiencies to have proficiency with more than one type of gaming set.
-
-***Associated Abilities:*** DEX, CHA.
-
-***Components.*** A gaming set is typically a full set of cards, a full set of dice with a dice cup, or a collection of special pieces used to play a particular game. If you are unsure what to choose, consult your GM about games and game sets played in the world of your game.
-
-**Construction Tools Example Tasks Gaming Set Example Tasks**
-
-| Task | DC |
-|---|---|
-| Distract a bored sentry | 10 |
-| Perform a card trick that looks like real magic | 15 |
-| Cheat against an experienced opponent | 20 |
-
-### Herbalist Tools
-
-Herbalist tools are used to store and brew plants and other organic materials into potions, antidotes, and poisons.
-
-***Associated Abilities:*** INT, WIS.
-
-***Components.*** This tool kit includes glass vials, a mortar and pestle, pouches for ingredient storage, clippers, a pair of leather gloves, and a small pot for brewing. ***Craft Items*.** Herbalist tools can be used to make items like those listed in the Herbal Concoctions section of the **Adventuring Gear** table (see **Special Gear** in this chapter), with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
-
-| Task | DC |   |   |
-|---|---|---|---|
-| Drive a spike into a stone (or similarly hard) surface | 10 | TASK | DC |
-| Break down and repurpose materials from a woodshed | 15 | Safely harvest and preserve a plant for later use | 10 |
-| Construct a temporary brace to keep a roof from collapsing | 20 | Identify a poison with a sample of affected flesh Mix a hasty concoction to temporarily halt the effects of a deadly disease | 15 20 |
-
-### Musical Instrument
-
-Musical instruments come in many shapes and sizes with varying regional and cultural popularity. When you have proficiency in a musical instrument, choose one type: strings, brass, woodwinds, percussion, or keyboard instruments. You must have multiple proficiencies to have proficiency with more than one type of instrument.
-
-***Associated Abilities:*** DEX, CHA.
-
-***Components.*** A musical instrument typically includes an instrument, a protective case, and any small pieces necessary for play, such as picks or reeds.
-
-**Musical Instrument Example Tasks**
-
-| Task | DC |
-|---|---|
-| Imitate a sound or tune you’ve heard before | 10 |
-| Provide accompaniment for an ongoing performance | 15 |
-| Outplay a professional (or similarly skilled) musician in | 20 |
-| direct competition |  |
-
-### Navigator Tools
-
-Navigator tools are used to read and draw maps, find your path or prevent you from becoming lost, and determine likely locations on a map for secret doors or hidden features.
-
-***Associated Abilities:*** INT, WIS.
-
-***Components.*** This tool kit includes quills, ink, and parchment along with two compasses, calipers, and a ruler as well as a sextant or telescope.
-
-***Draw Map.*** Navigator tools can be used to create accurate maps while traveling, which grant advantage on checks made to prevent becoming lost.
-
-**Navigation Tools Example Tasks**
-
-| Task | DC |
-|---|---|
-| Plot and track a travel course in a familiar region | 10 |
-| Discover your position according to a map or | 15 |
-| nautical chart |  |
-| Extrapolate a hidden or secret location on an | 20 |
-| unmarked map |  |
-
-### Provisioner Tools
-
-***Associated Abilities:*** CON, WIS. Provisioner tools are used to prepare meals, make rations, and craft beverages.
-
-***Components.*** This tool kit includes a large jug, several jars, a siphon with several feet of tubing, a rolled set of knives for chopping, sawing, paring, and deboning, a metal soup pot and a large skillet, a small bundle of spoons, spatulas, ladels, and whisks, several mixing bowls, a cutting board, and quantities of hops, dried herbs, and powdered spices. ***Craft Items*.** Provisioner tools can be used to make items with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
-
-**Provisioner Tools Example Tasks**
-
-| Task | DC |
-|---|---|
-| Transform basic rations or subpar ingredients into | 10 |
-| a tavern-worthy meal |  |
-| Mask the pungent flavor of a poisonous herb mixed | 15 |
-| into a drink |  |
-| Outcook a professional (or similarly skilled) chef in | 20 |
-| direct competition |  |
-
-### Smithing Tools
-
-Smithing tools are used to build and repair items primarily made of metal. The use of smithing tools typically requires a dedicated forge, furnace, or some other source of intense heat. A campfire is only suitable for the smallest tasks like spot repairs.
-
-***Associated Abilities:*** DEX, CON.
-
-***Components.*** This tool kit includes a small anvil, tongs, hammers, heat-resistant hide or cloth towels, calipers, and billows. ***Craft Items*.** Smithing tools can be used to make items with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
-
-**Smithing Tools Example Tasks**
-
-| Task | DC |
-|---|---|
-| Identify the type and origin of a particular kind of metal | 10 |
-| Melt down and repurpose materials from horseshoes | 15 |
-| Safely pull an item out of a roaring fire before it’s destroyed | 20 |
-
-### Thieves’ Tools
-
-Thieves’ tools are used to pick locks, disable traps, and sabotage unattended items like saddles and doffed armor.
-
-***Associated Abilities:*** DEX, INT.
-
-***Components.*** This kit includes a roll of lockpicks and probes, a small, telescoping mirror on a pole, several triangular files, a long set of scissors, and a pair of pliers.
-
-***Disarm Traps.*** Thieves’ tools can be used to disarm traps (see **Disarm Traps** in **Chapter 6**).
-
-***Pick Locks.*** Thieves’ tools can be used to pick locks. If no DC to pick a lock is provided, a standard nonmagical lock can be opened with a DC of 15.
-
-**Thieves’ Tools Example Tasks**
-
-| Task | DC |
-|---|---|
-| Spot a patrolling guard from around a corner | 10 |
-| Pick a standard nonmagical lock | 15 |
-| Sabotage a ship to slowly fill with water as soon as | 20 |
-| it hits deep ocean |  |
-
-### Tinker Tools
-
-Tinker tools are used to construct mechanical or clockwork devices, repair damaged devices, or determine how to use unfamiliar mechanical or clockwork systems.
-
-***Associated Abilities:*** DEX, INT.
-
-***Components.*** This tool kit includes an array of hand tools, an array of files, pliers, tweezers, etching styluses, threads, needles, cloth and leather scraps, glue, loose cogs and pins, and a few sheets of thinly hammered metal. ***Craft Items*.** Tinker tools can be used to make items with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
-
-**Tinker Tools Example Tasks**
-
-| Task | DC |
-|---|---|
-| Provide accurate written or spoken instructions on | 10 |
-| operating a device you are familiar with |  |
-| Craft a temporary replacement for a missing part of a | 15 |
-| machine or device |  |
-| Disarm a complex device that is seconds from exploding | 20 |
-
-### Trapper Tools
-
-Trapper tools are used to set hunting traps, harvest hides or fur, and craft or repair leather goods like armor, pouches, or sturdy garments.
-
-***Associated Abilities:*** DEX, WIS.
-
-***Components.*** This tool kit includes a knife, a small shovel, a wooden mallet, a small bundle of edgers, hole punchers, and sturdy needles, thread, leather scraps, a 30-ft. length of strong cord, a quantity of salt, and tanning oil. ***Craft Items*.** Trapper tools can be used to make items with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
-
-**Trapper Tools Example Tasks**
-
-| Task | DC |
-|---|---|
-| Identify a leather good, hide, or fur’s age and origin | 10 |
-| Perfectly field strip the remains of creature with an | 15 |
-| unusually hard or magical hide—like that of a Dragon |  |
-| Secure a damaged leather saddle strap while atop a | 20 |
-| galloping horse |  |
+%% source: Trade Secrets %%
+Nearly every profession that involves physical work has specialized tools designed to make the work easier or even tools that are essential to doing that work. Because the **Tales of the Valiant** roleplaying game is largely about fantastic adventures, it doesn’t include as much detail for mundane work as it does with combat and magic. If you are playing an adventure themed around commerce, you may find some of the listed tools or their example uses don’t meet the needs of the story or the action.
 
 **Tools**
 
@@ -291,31 +39,44 @@ Trapper tools are used to set hunting traps, harvest hides or fur, and craft or 
 | Tinker tools | 50 gp | 10 lb. |
 | Trapper tools | 5 gp | 5 lb. |
 
-> [!note] Magical Mounts
-> Mounts other than those listed here are available in fantasy worlds, but they aren't normally available for purchase. These include flying mounts (pegasi, griffons, hippogriffs, and similar creatures) and even aquatic mounts (such as giant sea horses and hippocampi). Acquiring such a mount often means securing an egg and raising the creature, making a bargain with a powerful entity, or negotiating with the mount itself.
+## Tool Descriptions
+
+The tools available to PCs are described in this section. Entries generally include the following information.
+
+***Associated Abilities.*** Like skills, checks made with tools can involve any ability score. However, the abilities most used with each tool are included for easy reference.
+
+***Components.*** Each description lists all the individual items that comprise the tool set or kit.
+
+***Special Uses.*** Specific uses that require additional explanation are noted individually by name.
+
+***Example Tasks.*** A short table presents example tasks and DCs for each tool.
+
+### Alchemist Tools
+
+Alchemist tools are used to perform a variety of tasks such as identifying potions or foreign substances, mixing reagents together to cause alchemical reactions, and crafting alchemical substances.
+
+***Associated Abilities:*** DEX, INT.
+
+***Components.*** This tool kit includes an array of mixing and storage vessels, an alembic still, a metal frame for holding a mixing vessel above a flame, a mortar and pestle, and a variety of common alchemical reagents. ***Craft Items*.** Alchemist tools can be used to make items like those listed in the Alchemical Concoctions section of the **[[Adventuring Gear]]** table (see **Special Gear** in this chapter), with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
+
+**Alchemist Tools Example Tasks**
+
+| Task | DC |
+|---|---|
+| Purify water for safe consumption | 10 |
+| Create a dye | 10 |
+| Create a cleaning agent | 10 |
+| Light kindling | 10 |
+| Test the purity of minerals | 10 |
+| Start a volatile chemical reaction (such as smoke or fire) or neutralize a toxic substance (such as an acid or base) | 15 |
+| Analyze/identify an unknown substance | 15 |
+| Identify a rare or obscure poison | 20 |
+
+> [!note] Ability Checks: Skill or Tool?
+> Some ability checks can’t be performed without using a tool. For example, there is no way to pick a lock without thieves’ tools. A PC without thieves’ tools can attempt to break down or force their way through a locked door, but only thieves’ tools allow them to pick the lock. The GM has final say on whether a tool is required to accomplish a task.
 >
 
-## More Tool Uses (Trade Secrets)
-
-%% source: Trade Secrets %%
-
-Nearly every profession that involves physical work has specialized tools designed to make the work easier or even tools that are essential to doing that work. Because the **Tales of the Valiant** roleplaying game is largely about fantastic adventures, it doesn’t include as much detail for mundane work as it does with combat and magic. If you are playing an adventure themed around commerce, you may find some of the listed tools or their example uses don’t meet the needs of the story or the action.
-
-### Big Projects
-
-Ambitious PCs may decide to undertake a grand project such as building a roadside inn or constructing a small fortress as their base of operations. The basic crafting rules can be used to cover this kind of downtime project. Each worker makes 10 gp progress per day at the cost of 5 gp in materials and eventually it gets built. That approach works fine if the GM and players aren’t interested in the details of how the fortress was made or the quality of work that was done. On the other hand, a big project like this is a fun opportunity for roleplaying and storytelling. It could even be the focus of a whole campaign.
-
-Big projects are best divided into small pieces. The GM and PCs should both divide the task into meaningful steps and decide what order they should be completed in. Any activities that involve changing tool proficiencies are good places to divide the work. Another is to identify activities dependent on others. For example, to erect a building, you will need a foundation or, at minimum, a clearing for it to stand on, and you will need walls before you can put up a ceiling.
-
-For each step, the two key elements are PC choices and the execution of the work. Good choices usually involve a tradeoff, such as cost vs quality of materials or whether to make building convenient or secure. The tradeoff should matter to the PCs. Execution includes a cost in time, and sometimes an ability check. Ability checks should be used when there is a meaningful risk or reward at stake for good or poor work.
-
-Downtime activities all offer a good structure for the types of outcomes you can make, though in a big PC project, the result will determine how nice the result is rather than how much they can sell it for. Variability in the quality of each aspect can give the result a lot of character. The heroes could create an incredible fortress that can resist a mighty army, but the roof constantly leaks during heavy rains and gremlins infest the cellars.
-
-### New Tool Challenges
-
-Existing tools can do more than the basics. Here are some ideas to expand their range.
-
-#### Alchemist Tools
+%% source: Trade Secrets (everything below in this section, and these example tasks: Analyze/identify an unknown substance; Create a dye; Create a cleaning agent; Light kindling; Test the purity of minerals) %%
 
 Alchemist tools are among the most versatile and fun tools to use thanks to the range of useful alchemical concoctions. While many concoctions are inspired by real world chemistry, it’s especially fun to imagine new possibilities.
 
@@ -364,17 +125,28 @@ Alchemist tools are among the most versatile and fun tools to use thanks to the 
 
 ***Wonder Whiff.*** This alchemical liquid is sold in a small jug. When any scented object is dipped into the jug, the liquid takes on that scent. The wonder whiff can then be applied to nearly any surface or object to give it that scent for the next hour. A jug of wonder whiff contains enough liquid to apply 50 times. Wonder whiff is popular both as a cosmetic and with hunters who want to mask their scent.
 
-**Alchemist Tools New Example Tasks**
+### Artist Tools
+
+Artist tools are used to create illustrated art objects and ornamental documents, pen illuminated texts, and skillfully paint objects.
+
+***Associated Abilities:*** DEX, CHA.
+
+***Components.*** This tool kit includes brushes, spades, stirrers, inks, paints, a square and triangle, a canvas stretcher and an easel, and rolls of vellum, parchment, and canvas. ***Craft Items*.** Artist tools can be used to make art objects with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
+
+**Artist Tools Example Tasks**
 
 | Task | DC |
 |---|---|
-| Analyze/identify an unknown substance | 15 |
-| Create a dye | 10 |
-| Create a cleaning agent | 10 |
-| Light kindling | 10 |
-| Test the purity of minerals | 10 |
+| Sketch an accurate image of person, place, or symbol you’ve seen | 10 |
+| Decorate your equipment | 10 |
+| Paint yourself or others | 10 |
+| Restore or repair a damaged art object | 10 |
+| Quickly paint a complex glyph or symbol | 15 |
+| Appraise works of visual art | 15 |
+| Disguise an object as something else | 15 |
+| Replicate someone else’s art style | 20 |
 
-#### Artist Tools
+%% source: Trade Secrets (everything below in this section, and these example tasks: Appraise works of visual art; Decorate your equipment; Disguise an object as something else; Paint yourself or others; Restore or repair a damaged art object) %%
 
 Artist tools are primarily useful for creating paintings and drawings. While these are usually done on paper or canvas, paint can be used on nearly anything.
 
@@ -393,29 +165,53 @@ Artist tools are primarily useful for creating paintings and drawings. While the
 
 ***Fresco.*** Frescos are watercolor paintings made on plaster walls and other surfaces. The paint soaks into the walls to create an indelible image. They can range in size from small images to massive murals spanning an entire ceiling.
 
-**Artist Tools New Example Tasks**
+### Charlatan Tools
+
+Charlatan tools are used to craft disguises and forge documents.
+
+***Associated Abilities:*** DEX, CHA.
+
+***Components.*** This tool kit includes hair dyes, small props, cosmetics, a few choice articles of clothing, a selection of wax seals, gold and silver leaf, inks, a variety of parchments, and sculpting tools to fashion melted wax into seals or prosthetics.
+
+***Create Disguise.*** Over the course of an hour (which can be done as part of a rest) you can create a disguise to make yourself or someone else—including any clothing or equipment—look like a different creature. A disguise can make a creature seem slightly taller, shorter, fatter, or thinner, but can’t conceal true size or basic arrangement of limbs. It takes 1 minute to don such a disguise once created. A set of charlatan tools only has enough materials to create one disguise at a time, but you can disassemble a disguise to create a new disguise as part of the time spent making a disguise. A creature can use its action to inspect a disguised appearance, and must succeed on an INT (Investigation) contest versus your DEX (Charlatan Tools) to discern a disguise.
+
+***Forge Documents.*** Over the course of one hour (which can be done as part of a rest) you can create a simple false document of 5 pages or less—like a personal letter, a party invitation, or a sales permit. With the GM’s permission you can create longer or more complicated documents over the course of several hours or days. A creature can use its action to inspect a forged document, and must succeed on an INT (Investigation) contest versus your DEX (Charlatan Tools) check to discern a forgery.
+
+**Charlatan Tools Example Tasks**
 
 | Task | DC |
 |---|---|
-| Appraise works of visual art | 15 |
-| Decorate your equipment | 10 |
-| Disguise an object as something else | 15 |
-| Paint yourself or others | 10 |
-| Restore or repair a damaged art object | 10 |
-
-#### Charlatan Tools
-
-While the makeup, disguise elements, and stationery found in charlatan tools are usually intended for deception, they are also perfectly good for applying conventional cosmetics, dressing up, and making some artful stationery.
-
-**Charlatan Tools New Example Tasks**
-
-| Task | DC |
-|---|---|
+| Hide a noteworthy physical feature or minor injury | 10 |
 | Create a beautiful written document | 10 |
 | Make someone appear more attractive | 10 |
 | Make someone appear more intimidating | 10 |
+| Forge a signature from memory | 15 |
+| Make yourself look like a well-known celebrity | 20 |
 
-#### Clothier Tools
+%% source: Trade Secrets (everything below in this section, and these example tasks: Create a beautiful written document; Make someone appear more attractive; Make someone appear more intimidating) %%
+
+While the makeup, disguise elements, and stationery found in charlatan tools are usually intended for deception, they are also perfectly good for applying conventional cosmetics, dressing up, and making some artful stationery.
+
+### Clothier Tools
+
+Clothier tools are used to sew, make, or tailor fabric objects such as clothing or shoes.
+
+***Associated Abilities:*** DEX, CHA.
+
+***Components.*** This tool kit includes pins and needles, specially sharpened shears, a small hammer and shoe horn, a variety of dyed threads on spools, and thicker waxed threads and yarns. ***Craft Items*.** Clothier tools can be used to make items with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
+
+**Clothier Tools Example Tasks**
+
+| Task | DC |
+|---|---|
+| Determine a garment’s age and origin | 10 |
+| Decorate clothing with embroidery | 10 |
+| Repair damaged armor | 10 |
+| Splice rope | 10 |
+| Sew an injury closed | 15 |
+| Patch a torn sail during a raging storm | 20 |
+
+%% source: Trade Secrets (everything below in this section, and these example tasks: Decorate clothing with embroidery; Repair damaged armor; Splice rope) %%
 
 A needle and thread make it easy to keep yourself clothed and to create a wide array of ways to carry things, create shelter, and otherwise stay alive.
 
@@ -456,15 +252,30 @@ A needle and thread make it easy to keep yourself clothed and to create a wide a
 
 ***Towel.*** A good towel can be an incredibly useful thing to have on an adventure, especially when things get bloody.
 
-**Clothier Tools New Example Tasks**
+### Construction Tools
+
+Construction tools are used to build and repair items primarily made of wood or stone.
+
+***Associated Abilities:*** STR, DEX.
+
+***Components.*** This tool kit includes hammers and a mallet, a variety of fasteners, a square and triangle, chisels, a saw, brushes, and spades.
+
+***Fortify.*** You can spend 1 minute fortifying a chest, door, window, or other sealable object or structure. When you do so, the object’s AC increases by an amount equal to your PB or creatures have disadvantage on STR (Athletics) checks made to penetrate the fortification (the GM decides which is more relevant). An item doesn’t receive additional benefits from multiple attempts to fortify it.
+
+***Build Cover.*** You can spend 1 hour (which can be done as part of a long rest) erecting a 5-foot by 5-foot wall panel in an unoccupied space, provided you have the raw materials to do so. The panel provides three-quarters cover (see **Cover** in **Chapter 6**) for one Medium or smaller creature, and it can’t be moved. A panel of cover created with this feature is an object with an AC equal to 10 + your PB and 15 HP if made of wood or 25 HP if made of stone. It is immune to psychic and poison damage. ***Craft Items*.** Construction tools can be used to make items with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
+
+**Construction Tools Example Tasks**
 
 | Task | DC |
 |---|---|
-| Decorate clothing with embroidery | 10 |
-| Repair damaged armor | 10 |
-| Splice rope | 10 |
+| Drive a spike into a stone (or similarly hard) surface | 10 |
+| Identify a weak spot in a structure | 10 |
+| Break down and repurpose materials from a woodshed | 15 |
+| Break a lock | 15 |
+| Design a building | 15 |
+| Construct a temporary brace to keep a roof from collapsing | 20 |
 
-#### Construction Tools
+%% source: Trade Secrets (everything below in this section, and these example tasks: Break a lock; Design a building; Identify a weak spot in a structure) %%
 
 This tool set is intended for building things, but chisels, hammers, and saws are also very good for breaking things in a controlled way.
 
@@ -480,27 +291,49 @@ This tool set is intended for building things, but chisels, hammers, and saws ar
 
 Larger ones can be constructed but the weight eventually makes it difficult to carry on an adventure.
 
-**Construction Tools New Example Tasks**
+### Gaming Set
+
+Gaming sets are used to gamble, entertain, or engage in fortune-telling. There are three types: cards, dice, and board games. When you have proficiency in a gaming set, choose one type for your proficiency, not all gaming sets. You must have multiple proficiencies to have proficiency with more than one type of gaming set.
+
+***Associated Abilities:*** DEX, CHA.
+
+***Components.*** A gaming set is typically a full set of cards, a full set of dice with a dice cup, or a collection of special pieces used to play a particular game. If you are unsure what to choose, consult your GM about games and game sets played in the world of your game.
+
+**Gaming Set Example Tasks**
 
 | Task | DC |
 |---|---|
-| Break a lock | 15 |
-| Design a building | 15 |
-| Identify a weak spot in a structure | 10 |
+| Leave an important decision to chance | 0 |
+| Distract a bored sentry | 10 |
+| Invent a new game variation | 10 |
+| Perform a card trick that looks like real magic | 15 |
+| Plan out a battle strategy | 15 |
+| Cheat against an experienced opponent | 20 |
 
-#### Gaming Set
+%% source: Trade Secrets (everything below in this section, and these example tasks: Invent a new game variation; Leave an important decision to chance; Plan out a battle strategy) %%
 
 A game set is one of the most specific and the least versatile core tool sets. Nonetheless, they are fun and that’s a good reason to have one.
 
-**Gaming Set New Example Tasks**
+### Herbalist Tools
+
+Herbalist tools are used to store and brew plants and other organic materials into potions, antidotes, and poisons.
+
+***Associated Abilities:*** INT, WIS.
+
+***Components.*** This tool kit includes glass vials, a mortar and pestle, pouches for ingredient storage, clippers, a pair of leather gloves, and a small pot for brewing. ***Craft Items*.** Herbalist tools can be used to make items like those listed in the Herbal Concoctions section of the **Adventuring Gear** table (see **Special Gear** in this chapter), with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
+
+**Herbalist Tools Example Tasks**
 
 | Task | DC |
 |---|---|
-| Invent a new game variation | 10 |
-| Leave an important decision to chance | 0 |
-| Plan out a battle strategy | 15 |
+| Safely harvest and preserve a plant for later use | 10 |
+| Cultivate an herb garden | 10 |
+| Preserve food | 10 |
+| Identify a poison with a sample of affected flesh | 15 |
+| Identify the medicinal use for a plant | 15 |
+| Mix a hasty concoction to temporarily halt the effects of a deadly disease | 20 |
 
-#### Herbalist Tools
+%% source: Trade Secrets (everything below in this section, and these example tasks: Cultivate an herb garden; Identify the medicinal use for a plant; Preserve food) %%
 
 Medicine is one of the most important specializations. Nature often provides medicinal cures, which makes herbalist tools one of the most useful tool sets. Of course, while medicine can cure the body, a herbalist can also corrupt it with poison.
 
@@ -533,41 +366,76 @@ Medicine is one of the most important specializations. Nature often provides med
 
 ***Tonic.*** Tonics are medicinal drinks that grant the imbiber a feeling of health and energy. Drinking a tonic reduces the creature’s exhaustion by one level and give them advantage on their next CON saving throw. A creature cannot benefit from a tonic again until they complete a long rest.
 
-**Herbalist Tools New Example Tasks**
+### Musical Instrument
+
+Musical instruments come in many shapes and sizes with varying regional and cultural popularity. When you have proficiency in a musical instrument, choose one type: strings, brass, woodwinds, percussion, or keyboard instruments. You must have multiple proficiencies to have proficiency with more than one type of instrument.
+
+***Associated Abilities:*** DEX, CHA.
+
+***Components.*** A musical instrument typically includes an instrument, a protective case, and any small pieces necessary for play, such as picks or reeds.
+
+**Musical Instrument Example Tasks**
 
 | Task | DC |
 |---|---|
-| Cultivate an herb garden | 10 |
-| Identify the medicinal use for a plant | 15 |
-| Preserve food | 10 |
+| Imitate a sound or tune you’ve heard before | 10 |
+| Help someone fall asleep | 10 |
+| Provide accompaniment for an ongoing performance | 15 |
+| Compose an epic ballad | 15 |
+| Romance a music lover | 15 |
+| Outplay a professional (or similarly skilled) musician in direct competition | 20 |
 
-#### Musical Instrument
+%% source: Trade Secrets (everything below in this section, and these example tasks: Compose an epic ballad; Help someone fall asleep; Romance a music lover) %%
 
 While most musical instruments do little more than make a variety of sounds, the power of music to move people’s passions should never be underestimated.
 
-**Musical Instrument New Example Tasks**
+### Navigator Tools
+
+Navigator tools are used to read and draw maps, find your path or prevent you from becoming lost, and determine likely locations on a map for secret doors or hidden features.
+
+***Associated Abilities:*** INT, WIS.
+
+***Components.*** This tool kit includes quills, ink, and parchment along with two compasses, calipers, and a ruler as well as a sextant or telescope.
+
+***Draw Map.*** Navigator tools can be used to create accurate maps while traveling, which grant advantage on checks made to prevent becoming lost.
+
+**Navigator Tools Example Tasks**
 
 | Task | DC |
 |---|---|
-| Compose an epic ballad | 15 |
-| Help someone fall asleep | 10 |
-| Romance a music lover | 15 |
-
-#### Navigator Tools
-
-A set of navigation tools can be very useful for any adventurers traversing the wilds, exploring underground catacombs, or covering ground from point A to point B without running into too much trouble.
-
-**Navigator Tools New Example Tasks**
-
-| Task | DC |
-|---|---|
+| Plot and track a travel course in a familiar region | 10 |
+| Observe and track celestial bodies | 10 |
+| Discover your position according to a map or nautical chart | 15 |
 | Discover an optimal trade route | 15 |
 | Identify natural landmarks | 15 |
-| Observe and track celestial bodies | 10 |
+| Extrapolate a hidden or secret location on an unmarked map | 20 |
 | Predict the movement of enemy forces | 20 |
 | Survey a location for mineral deposits | 20 |
 
-#### Provisioner Tools
+%% source: Trade Secrets (everything below in this section, and these example tasks: Discover an optimal trade route; Identify natural landmarks; Observe and track celestial bodies; Predict the movement of enemy forces; Survey a location for mineral deposits) %%
+
+A set of navigation tools can be very useful for any adventurers traversing the wilds, exploring underground catacombs, or covering ground from point A to point B without running into too much trouble.
+
+### Provisioner Tools
+
+***Associated Abilities:*** CON, WIS. Provisioner tools are used to prepare meals, make rations, and craft beverages.
+
+***Components.*** This tool kit includes a large jug, several jars, a siphon with several feet of tubing, a rolled set of knives for chopping, sawing, paring, and deboning, a metal soup pot and a large skillet, a small bundle of spoons, spatulas, ladels, and whisks, several mixing bowls, a cutting board, and quantities of hops, dried herbs, and powdered spices. ***Craft Items*.** Provisioner tools can be used to make items with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
+
+**Provisioner Tools Example Tasks**
+
+| Task | DC |
+|---|---|
+| Stock provisions for a long journey | 5 |
+| Transform basic rations or subpar ingredients into a tavern-worthy meal | 10 |
+| Identify the ingredients of food and drink by taste or smell | 10 |
+| Make new friends with good hospitality | 10 |
+| Process and preserve food | 10 |
+| Mask the pungent flavor of a poisonous herb mixed into a drink | 15 |
+| Create fantastic new recipes | 15 |
+| Outcook a professional (or similarly skilled) chef in direct competition | 20 |
+
+%% source: Trade Secrets (everything below in this section, and these example tasks: Create fantastic new recipes; Identify the ingredients of food and drink by taste or smell; Make new friends with good hospitality; Process and preserve food; Stock provisions for a long journey) %%
 
 Nearly everyone likes a good cook, so being handy with provisioner tools is a good way to make friends. It is also a very common proficiency among the public so it can be difficult to make a sizable profit by cooking unless you are exceptionally talented.
 
@@ -605,17 +473,26 @@ Nearly everyone likes a good cook, so being handy with provisioner tools is a go
 
 ***Tea.*** Various plant infusions are popular ways to improve the taste of water and add minor medicinal properties.
 
-**Provisioner Tools New Example Tasks**
+### Smithing Tools
+
+Smithing tools are used to build and repair items primarily made of metal. The use of smithing tools typically requires a dedicated forge, furnace, or some other source of intense heat. A campfire is only suitable for the smallest tasks like spot repairs.
+
+***Associated Abilities:*** DEX, CON.
+
+***Components.*** This tool kit includes a small anvil, tongs, hammers, heat-resistant hide or cloth towels, calipers, and billows. ***Craft Items*.** Smithing tools can be used to make items with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
+
+**Smithing Tools Example Tasks**
 
 | Task | DC |
 |---|---|
-| Create fantastic new recipes | 15 |
-| Identify the ingredients of food and drink by taste or smell | 10 |
-| Make new friends with good hospitality | 10 |
-| Process and preserve food | 10 |
-| Stock provisions for a long journey | 5 |
+| Identify the type and origin of a particular kind of metal | 10 |
+| Appraise the quality of metalworks | 10 |
+| Set up a forge | 10 |
+| Sharpen a blade | 10 |
+| Melt down and repurpose materials from horseshoes | 15 |
+| Safely pull an item out of a roaring fire before it’s destroyed | 20 |
 
-#### Smithing Tools
+%% source: Trade Secrets (everything below in this section, and these example tasks: Appraise the quality of metalworks; Set up a forge; Sharpen a blade) %%
 
 Smiths are revered for their specialized knowledge and skill; their tools and craft are broadly useful in life and commerce. Communities without a smith must scavenge or barter for bronze or iron tools.
 
@@ -642,27 +519,53 @@ Smiths are revered for their specialized knowledge and skill; their tools and cr
 
 ***Tongs.*** Tongs are essential tools for smithing. Making a set is a rite of passage for any smith, part of the circle of knowledge that masters pass to their apprentices. They are also useful for adventurers cautious about what they touch with bare hands.
 
-**Smithing Tools New Example Tasks**
+### Thieves’ Tools
+
+Thieves’ tools are used to pick locks, disable traps, and sabotage unattended items like saddles and doffed armor.
+
+***Associated Abilities:*** DEX, INT.
+
+***Components.*** This kit includes a roll of lockpicks and probes, a small, telescoping mirror on a pole, several triangular files, a long set of scissors, and a pair of pliers.
+
+***Disarm Traps.*** Thieves’ tools can be used to disarm traps (see **Disarm Traps** in **Chapter 6**).
+
+***Pick Locks.*** Thieves’ tools can be used to pick locks. If no DC to pick a lock is provided, a standard nonmagical lock can be opened with a DC of 15.
+
+**Thieves’ Tools Example Tasks**
 
 | Task | DC |
 |---|---|
-| Appraise the quality of metalworks | 10 |
-| Set up a forge | 10 |
-| Sharpen a blade | 10 |
+| Spot a patrolling guard from around a corner | 10 |
+| Sabotage a mechanical device | 10 |
+| Remove a rotten tooth | 10 |
+| Pick a standard nonmagical lock | 15 |
+| Fix a broken lock or trap | 15 |
+| Sabotage a ship to slowly fill with water as soon as it hits deep ocean | 20 |
 
-#### Thieves’ Tools
+%% source: Trade Secrets (everything below in this section, and these example tasks: Fix a broken lock or trap; Sabotage a mechanical device; Remove a rotten tooth) %%
 
 Thieves’ tools have a well-earned reputation for crime and skullduggery, but they can be put to more constructive uses.
 
-**Thieves’ Tools New Example Tasks**
+### Tinker Tools
+
+Tinker tools are used to construct mechanical or clockwork devices, repair damaged devices, or determine how to use unfamiliar mechanical or clockwork systems.
+
+***Associated Abilities:*** DEX, INT.
+
+***Components.*** This tool kit includes an array of hand tools, an array of files, pliers, tweezers, etching styluses, threads, needles, cloth and leather scraps, glue, loose cogs and pins, and a few sheets of thinly hammered metal. ***Craft Items*.** Tinker tools can be used to make items with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
+
+**Tinker Tools Example Tasks**
 
 | Task | DC |
 |---|---|
-| Fix a broken lock or trap | 15 |
-| Sabotage a mechanical device | 10 |
-| Remove a rotten tooth | 10 |
+| Provide accurate written or spoken instructions on operating a device you are familiar with | 10 |
+| Engrave a metal item | 10 |
+| Craft a temporary replacement for a missing part of a machine or device | 15 |
+| Fix a broken clockwork device | 15 |
+| Solve a complex math problem | 15 |
+| Disarm a complex device that is seconds from exploding | 20 |
 
-#### Tinker Tools
+%% source: Trade Secrets (everything below in this section, and these example tasks: Engrave a metal item; Fix a broken clockwork device; Solve a complex math problem) %%
 
 Tinker tools are specialized for working on mechanical devices and cross over with jeweler’s tools. Many tinker devices have a good deal of artistic flair and decoration.
 
@@ -693,15 +596,27 @@ Tinker tools are specialized for working on mechanical devices and cross over wi
 
 ***Wonder-wash.*** The infamous wonder-wash is, to date, a one-of-a-kind contraption that has passed from tinker to tinker over the long years. It features a large wooden tub, several leather pockets, and two articulated metal arms. The device is meant to automatically wash any dishes placed before it. In practice, it has never quite worked that way. Each subsequent owner has been determined to finally work out its issues, but all have failed.
 
-**Tinker Tools New Example Tasks**
+### Trapper Tools
+
+Trapper tools are used to set hunting traps, harvest hides or fur, and craft or repair leather goods like armor, pouches, or sturdy garments.
+
+***Associated Abilities:*** DEX, WIS.
+
+***Components.*** This tool kit includes a knife, a small shovel, a wooden mallet, a small bundle of edgers, hole punchers, and sturdy needles, thread, leather scraps, a 30-ft. length of strong cord, a quantity of salt, and tanning oil. ***Craft Items*.** Trapper tools can be used to make items with the crafting downtime activity (see **Downtime Activities** in **Chapter 6**).
+
+**Trapper Tools Example Tasks**
 
 | Task | DC |
 |---|---|
-| Engrave a metal item | 10 |
-| Fix a broken clockwork device | 15 |
-| Solve a complex math problem | 15 |
+| Dig a latrine | 5 |
+| Identify a leather good, hide, or fur’s age and origin | 10 |
+| Perfectly field strip the remains of creature with an unusually hard or magical hide—like that of a Dragon | 15 |
+| Identify animal remains | 15 |
+| Secure a damaged leather saddle strap while atop a galloping horse | 20 |
+| Set a blind | * |
+| Set an animal trap | * |
 
-#### Trapper Tools
+%% source: Trade Secrets (everything below in this section, and these example tasks: Dig a latrine; Identify animal remains; Set a blind; Set an animal trap) %%
 
 Trapper tools cover a range of related, but differing disciplines. Most examples focus on leatherworking, but trappers also know how to build traps and how to use them to catch prey.
 
@@ -724,15 +639,6 @@ Trapper tools cover a range of related, but differing disciplines. Most examples
 ***Satchel.*** Few carrying devices are as versatile and handy as a good leather satchel. They are sturdy and, if well made, can keep your goods dry.
 
 ***Taxidermy critters.*** Taxidermy is a trapper’s hobby, and some nobles will pay good money for lifelike animals to decorate their homes.
-
-**Trapper Tools New Example Tasks**
-
-| Task | DC |
-|---|---|
-| Dig a latrine | 5 |
-| Identify animal remains | 15 |
-| Set a blind | * |
-| Set an animal trap | * |
 
 ***Set a blind.*** A blind is a hidden position in a natural setting in which one or more people can remain largely undetected by wildlife. This allows for ambush hunting or discrete wildlife observation. Setting up a blind takes at least 1 hour per person to be hidden. The character making the blind must make a WIS (Trapper Tools) check. The result is the DC needed to see the blind and anything it hides as anything other than part of the natural surroundings. Creatures within 10 feet of the blind have advantage on checks made to detect the blind itself.
 
@@ -762,6 +668,18 @@ When a character sets an animal trap, they should name the target type of animal
 ***Snare Trap.*** Snares require a length of cord or wire with a noose on one end; the other end is anchored to a tree, rock, or stake. Snares are placed along animal paths and in underbrush. When an animal is running along the path and passes through the noose, it tightens around the animal’s neck, holding it fast. The cord or wire needs to be strong enough to prevent an animal chewing through it.
 
 ***Spring Trap.*** This trap requires a supple wood branch and a thin tripwire, with a small metal hook to serve as a trigger. The branch is bent back with strong tension, and the tripwire is wound to keep the branch under tension, but any additional pressure on the tripwire will releases the branch to strike and kill the prey.
+
+## Big Projects
+
+%% source: Trade Secrets %%
+
+Ambitious PCs may decide to undertake a grand project such as building a roadside inn or constructing a small fortress as their base of operations. The basic crafting rules can be used to cover this kind of downtime project. Each worker makes 10 gp progress per day at the cost of 5 gp in materials and eventually it gets built. That approach works fine if the GM and players aren’t interested in the details of how the fortress was made or the quality of work that was done. On the other hand, a big project like this is a fun opportunity for roleplaying and storytelling. It could even be the focus of a whole campaign.
+
+Big projects are best divided into small pieces. The GM and PCs should both divide the task into meaningful steps and decide what order they should be completed in. Any activities that involve changing tool proficiencies are good places to divide the work. Another is to identify activities dependent on others. For example, to erect a building, you will need a foundation or, at minimum, a clearing for it to stand on, and you will need walls before you can put up a ceiling.
+
+For each step, the two key elements are PC choices and the execution of the work. Good choices usually involve a tradeoff, such as cost vs quality of materials or whether to make building convenient or secure. The tradeoff should matter to the PCs. Execution includes a cost in time, and sometimes an ability check. Ability checks should be used when there is a meaningful risk or reward at stake for good or poor work.
+
+Downtime activities all offer a good structure for the types of outcomes you can make, though in a big PC project, the result will determine how nice the result is rather than how much they can sell it for. Variability in the quality of each aspect can give the result a lot of character. The heroes could create an incredible fortress that can resist a mighty army, but the roof constantly leaks during heavy rains and gremlins infest the cellars.
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

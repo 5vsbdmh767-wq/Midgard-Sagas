@@ -324,6 +324,13 @@ Your commitment to the witch’s path grants you a powerful new ability. You gai
 
 Witches typically learn their craft from others. In remote parts of the world, a witch might apprentice under a single master. However, it is more common to learn rites and traditions by joining a coven, a group of like‑minded witches who come together for community, knowledge, and protection. Every coven possesses its own carefully kept mysteries, passed through generations. A solitary witch without access to other practitioners is still categorized into a coven based on the primary way they draw power and on the types of spirits with which they have affinity.
 
+| Subclass | Suits |
+|---|---|
+| [[#Crimson Cord\|Crimson Cord]] | Any character |
+| [[#Eternal Ember\|Eternal Ember]] | Horror campaigns |
+| [[#Night Song\|Night Song]] | Any character |
+| [[#Twilight Soul\|Twilight Soul]] | Any character |
+
 ## Crimson Cord
 
 Witches aligned with the coven of the Crimson Cord draw strength from spirits of vitality and are master manipulators of the physical bodies that house the living. Such witches are championed as master healers, able to extend life, heal grievous wounds, and burn away afflictions of the body with remarkable precision. However, their craft can just as easily be turned to darker purpose, inflicting wounds with a touch or instilling curses that cause their foes to waste away.
@@ -401,6 +408,87 @@ You can cause the life within you to radiate outward, linking all nearby creatur
 - When a friendly creature (including you) ends its turn within 30 feet of you, it regains a number of hit points equal to its PB + its CON modifier.
 
 - You have advantage on CON saves, and you are resistant to bludgeoning, piercing, and slashing damage from nonmagical attacks. Once you use this feature, you can’t use it again until you finish a long rest.
+
+## Eternal Ember
+
+%% source: Night Hunters %%
+
+Witches aligned with the coven of the Eternal Ember draw strength from flame, honoring its life-giving properties as well as its destructive potential. Such witches view the warmth within all living things as a sacred compact with the universe, a philosophy that drives these individuals to hunt undead and other creatures of shadow in an effort to purify the sanctity of life.
+
+**Eternal Ember Progression**
+
+| Witch Level | Features |
+|---|---|
+| 3rd | Cinder Cloak, Eternal Ember Coven Spells, Searing Hex |
+| 7th | Blazing Heart |
+| 11th | Molten Crown |
+| 15th | Living Flame |
+
+### Cinder Cloak
+
+*3rd-Level Eternal Ember Feature*
+
+As an action, you can cloak yourself in mystic flames for 1 minute. For the duration, you emanate bright light in a 15-foot radius. This magical light illuminates areas of magical darkness, though it doesn’t count as a spell for dispelling such effects or for being dispelled by them.
+
+When you first activate this feature, you summon a number of Tiny flame spirits (equal to your PB) that swirl around you. As a bonus action, you can launch one of the spirits at a target within 60 feet. Make a ranged spell attack, and on a hit, the target takes fire damage equal to 1d8 + your WIS modifier. Hit or miss, the spirit is destroyed. If all the flame spirits are destroyed before the duration is up, this effect ends.
+
+You can activate this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+
+### Eternal Ember Coven Spells
+
+*3rd-Level Eternal Ember Feature*
+
+You gain coven spells at the witch levels listed in the **Eternal Ember Coven Spells** table. See the **Witch Subclass** class feature for how these spells work.
+
+**Eternal Ember Coven Spells**
+
+| Witch Level | Spells |
+|---|---|
+| 3rd | *[[1st-Circle Spells#Burning Hands\|burning hands]]*, *[[2nd-Circle Spells#Darkvision\|darkvision]]*, *[[1st-Circle Spells#Fire Under the Tongue\|fire under the tongue]]*, *[[2nd-Circle Spells#Scorching Ray\|scorching ray]]* |
+| 5th | *[[3rd-Circle Spells#Daylight\|daylight]]*, *[[3rd-Circle Spells#Fireball\|fireball]]*, *[[3rd-Circle Spells#Haste\|haste]]*, *[[3rd-Circle Spells#Protection from Energy\|protection from energy]]* |
+| 7th | *[[4th-Circle Spells#Elemental Shield\|elemental shield]]*, *[[4th-Circle Spells#Wall of Fire\|wall of fire]]* |
+| 9th | *[[5th-Circle Spells#Conjure Elemental\|conjure elemental]]*, *[[5th-Circle Spells#Flame Strike\|flame strike]]* |
+
+### Searing Hex
+
+*3rd-Level Eternal Ember Feature*
+
+You can infuse your hexes with debilitating heat. When you use your [[Witch#Hex|Hex]] witch feature to give a creature a Hex die, it becomes vulnerable to fire damage for 1 minute or until the Hex die affecting the creature is expended. This vulnerability takes effect even if the creature would normally be resistant or immune to fire damage.
+
+Each time an affected target suffers an instance of fire damage, it can make a CON save against your spell save DC. On a success, the vulnerability effect is suppressed until the end of the creature’s next turn.
+
+### Blazing Heart
+
+*7th-Level Eternal Ember Feature*
+
+You are now resistant to fire damage and can’t be harmed by Medium or smaller fires in your environment, such as those created by a candle, torch, or campfire. If you are already resistant to fire damage when you gain this feature, you are now immune to it.
+
+In addition, each time you expend a spell slot to cast a spell that deals fire damage, you can roll a number of d8s equal to the circle of the slot expended (to a maximum of 5d8) and choose one of the following effects:
+
+- **Kindle.** You, or an ally within 60 feet that you can see, recovers hit points equal to the total rolled.
+- **Scorch.** Choose a creature damaged by the triggering spell. That target takes additional fire damage equal to the total rolled.
+
+### Molten Crown
+
+*11th-Level Eternal Ember Feature*
+
+You gain the following improvements to your Cinder Cloak feature:
+
+- As a reaction when you or a creature within 60 feet that you can see is hit with an attack while your Cinder Cloak is active, you can send one of your spirits to intercept the attack. The spirit is destroyed, and the target takes no damage from the triggering attack.
+- If you start your turn with your Cinder Cloak active, an additional flame spirit appears and lasts for the duration or until it is destroyed.
+- You can now choose to launch multiple spirits as part of the same bonus action, up to a number equal to your PB.
+
+### Living Flame
+
+*15th-Level Eternal Ember Feature*
+
+You unveil the fiery might within your soul, burning away your corporeal facade to reveal your true form. As an action, you can transform yourself for 1 minute, gaining the following benefits:
+
+- A hostile creature that ends its turn within 5 feet of you, or that touches or hits you with an attack while within 5 feet of you, takes fire damage equal to 1d8 + your WIS modifier.
+- The light created by your Cinder Cloak counts as sunlight. Hostile Aberrations, Celestials, Elementals, Fey, Fiends, and Undead within the area of your light have disadvantage on ability checks and attack rolls.
+- You are resistant to damage from nonmagical attacks and are immune to fire damage.
+
+Once you use this feature, you can’t use it again until you finish a long rest.
 
 ## Night Song
 
@@ -577,93 +665,6 @@ As an action, you can call nearby spirits to manifest and lend you their power f
 - Hostile creatures have disadvantage on attack rolls against you.
 
 - Hostile creatures within 10 feet of either you or the spirit from your Spirit Sentinel feature have disadvantage on saves against your spells. Once you use this feature, you can’t use it again until you finish a long rest.
-
-## Night Hunters Witch Subclasses
-
-%% source: Night Hunters %%
-
-At 3rd level, a witch gains the Witch Subclass feature. The following subclass from *Night Hunters* is also available when making that choice: Eternal Ember.
-
-## Eternal Ember
-
-%% source: Night Hunters %%
-
-Witches aligned with the coven of the Eternal Ember draw strength from flame, honoring its life-giving properties as well as its destructive potential. Such witches view the warmth within all living things as a sacred compact with the universe, a philosophy that drives these individuals to hunt undead and other creatures of shadow in an effort to purify the sanctity of life.
-
-**Eternal Ember Progression**
-
-| Witch Level | Features |
-|---|---|
-| 3rd | Cinder Cloak, Eternal Ember Coven Spells, Searing Hex |
-| 7th | Blazing Heart |
-| 11th | Molten Crown |
-| 15th | Living Flame |
-
-### Cinder Cloak
-
-*3rd-Level Eternal Ember Feature*
-
-As an action, you can cloak yourself in mystic flames for 1 minute. For the duration, you emanate bright light in a 15-foot radius. This magical light illuminates areas of magical darkness, though it doesn’t count as a spell for dispelling such effects or for being dispelled by them.
-
-When you first activate this feature, you summon a number of Tiny flame spirits (equal to your PB) that swirl around you. As a bonus action, you can launch one of the spirits at a target within 60 feet. Make a ranged spell attack, and on a hit, the target takes fire damage equal to 1d8 + your WIS modifier. Hit or miss, the spirit is destroyed. If all the flame spirits are destroyed before the duration is up, this effect ends.
-
-You can activate this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
-
-### Eternal Ember Coven Spells
-
-*3rd-Level Eternal Ember Feature*
-
-You gain coven spells at the witch levels listed in the **Eternal Ember Coven Spells** table. See the **Witch Subclass** class feature for how these spells work.
-
-**Eternal Ember Coven Spells**
-
-| Witch Level | Spells |
-|---|---|
-| 3rd | *[[1st-Circle Spells#Burning Hands\|burning hands]]*, *[[2nd-Circle Spells#Darkvision\|darkvision]]*, *[[1st-Circle Spells#Fire Under the Tongue\|fire under the tongue]]*, *[[2nd-Circle Spells#Scorching Ray\|scorching ray]]* |
-| 5th | *[[3rd-Circle Spells#Daylight\|daylight]]*, *[[3rd-Circle Spells#Fireball\|fireball]]*, *[[3rd-Circle Spells#Haste\|haste]]*, *[[3rd-Circle Spells#Protection from Energy\|protection from energy]]* |
-| 7th | *[[4th-Circle Spells#Elemental Shield\|elemental shield]]*, *[[4th-Circle Spells#Wall of Fire\|wall of fire]]* |
-| 9th | *[[5th-Circle Spells#Conjure Elemental\|conjure elemental]]*, *[[5th-Circle Spells#Flame Strike\|flame strike]]* |
-
-### Searing Hex
-
-*3rd-Level Eternal Ember Feature*
-
-You can infuse your hexes with debilitating heat. When you use your [[Witch#Hex|Hex]] witch feature to give a creature a Hex die, it becomes vulnerable to fire damage for 1 minute or until the Hex die affecting the creature is expended. This vulnerability takes effect even if the creature would normally be resistant or immune to fire damage.
-
-Each time an affected target suffers an instance of fire damage, it can make a CON save against your spell save DC. On a success, the vulnerability effect is suppressed until the end of the creature’s next turn.
-
-### Blazing Heart
-
-*7th-Level Eternal Ember Feature*
-
-You are now resistant to fire damage and can’t be harmed by Medium or smaller fires in your environment, such as those created by a candle, torch, or campfire. If you are already resistant to fire damage when you gain this feature, you are now immune to it.
-
-In addition, each time you expend a spell slot to cast a spell that deals fire damage, you can roll a number of d8s equal to the circle of the slot expended (to a maximum of 5d8) and choose one of the following effects:
-
-- **Kindle.** You, or an ally within 60 feet that you can see, recovers hit points equal to the total rolled.
-- **Scorch.** Choose a creature damaged by the triggering spell. That target takes additional fire damage equal to the total rolled.
-
-### Molten Crown
-
-*11th-Level Eternal Ember Feature*
-
-You gain the following improvements to your Cinder Cloak feature:
-
-- As a reaction when you or a creature within 60 feet that you can see is hit with an attack while your Cinder Cloak is active, you can send one of your spirits to intercept the attack. The spirit is destroyed, and the target takes no damage from the triggering attack.
-- If you start your turn with your Cinder Cloak active, an additional flame spirit appears and lasts for the duration or until it is destroyed.
-- You can now choose to launch multiple spirits as part of the same bonus action, up to a number equal to your PB.
-
-### Living Flame
-
-*15th-Level Eternal Ember Feature*
-
-You unveil the fiery might within your soul, burning away your corporeal facade to reveal your true form. As an action, you can transform yourself for 1 minute, gaining the following benefits:
-
-- A hostile creature that ends its turn within 5 feet of you, or that touches or hits you with an attack while within 5 feet of you, takes fire damage equal to 1d8 + your WIS modifier.
-- The light created by your Cinder Cloak counts as sunlight. Hostile Aberrations, Celestials, Elementals, Fey, Fiends, and Undead within the area of your light have disadvantage on ability checks and attack rolls.
-- You are resistant to damage from nonmagical attacks and are immune to fire damage.
-
-Once you use this feature, you can’t use it again until you finish a long rest.
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

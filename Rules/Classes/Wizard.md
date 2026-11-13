@@ -206,9 +206,15 @@ When you use your Arcane Recovery feature, you can choose to swap out a number o
 
 Your commitment to the wizard’s path grants you a powerful new ability. Choose one of the following heroic boons:
 
+- **Arcane Arsenal.** You can cast each of the prepared spells from your Rote Spell feature (see *Player’s Guide*) once at the spell’s lowest possible circle without expending a spell slot. Once you cast one of your rote spells in this way, you can’t use this feature again for that particular spell until you finish a long rest.
+
+- **Mystic Vision.** While your Magic Sense feature (see *Player’s Guide*) is active, you can see invisible creatures and objects, and you can see in nonmagical and magical darkness as if it were bright light.
+
 - **Rite of the Ritualist.** When you learn a new ritual as part of gaining a level of wizard, you can choose it from any source of magic. In addition, you can now copy ritual spells from any source of magic into your spellbook. Any rituals gained in this way count as Arcane spells for you.
 
 - **Rite of the Source Master.** Choose the Divine, Primordial, or Wyrd source of magic. When you add new spells to your spellbook as part of gaining a level of wizard (including the level you gain this feature), you can choose spells from the Arcane spell list or spells from your chosen source. Each spell must be a of a circle for which you have spell slots. In addition, you can now copy spells of your chosen source into your spellbook. Any spells gained in this way count as Arcane spells for you.
+
+%% source: Player's Guide 2: Arcane Arsenal, Mystic Vision %%
 
 ### Spellguard
 
@@ -228,15 +234,84 @@ If you want to cast any of your rote spells at a higher circle, you must expend 
 
 *20th-Level Wizard Feature*
 
-Your commitment to the wizard’s path grants you a powerful new ability. You gain the following epic boon:
+Your commitment to the wizard’s path grants you a powerful new ability. You gain one of the following epic boons:
+
+- **Arcane Confluence.** As long as you aren’t incapacitated, you can’t be affected or damaged by spells of 4th circle or lower unless you choose to be.
 
 - **Archmage.** When you cast a spell of 1st circle or higher and that spell expends an Arcane spell slot, you can choose to roll a d10. If the number rolled is higher than the circle of the expended spell slot, you automatically recover that slot. For example, if you expend a 1st-circle spell slot, a result of 2 or higher on the d10 means that you recover that 1st-circle spell slot. Once you successfully recover a spell slot in this way, you can’t use this feature again until you complete a short rest.
+
+- **Overcharge.** When you expend an Arcane spell slot to cast a spell that deals damage, you can choose to sacrifice an additional spell slot of a circle equal to or lower than the expended slot. The spell then deals additional damage of its type equal to 1d10 × the circle of the sacrificed slot.
+
+%% source: Player's Guide 2: Arcane Confluence, Overcharge %%
 
 ## Wizard Subclasses
 
 As long as there has been magic, there have been creatures determined to experiment with it, quantify it, and define it. Most of them are wizards.
 
 Centuries of magical study have led to various arcane traditions that encompass different methods of thinking about—and practicing—spellcasting. The subclass you choose represents the lens through which you focus your ongoing study of magic.
+
+| Subclass | Suits |
+|---|---|
+| [[#Arcanist\|Arcanist]] | Any character |
+| [[#Battle Mage\|Battle Mage]] | Any character |
+| [[#Cantrip Adept\|Cantrip Adept]] | Any character |
+| [[#Courser Mage\|Courser Mage]] | The [[The Margreve\|Margreve]] forest |
+| [[#Necromancer\|Necromancer]] | Any character |
+| [[#Summoner\|Summoner]] | Any character |
+| [[#Void Caster\|Void Caster]] | The [[The Labyrinth\|Labyrinth]] |
+
+## Arcanist
+
+%% source: Player's Guide 2 %%
+
+Among wizards, who might mollify their curiosity with any manner of research, the Arcanist is often considered the most preoccupied with the empirical and esoteric research of spellcraft. These wizards value the collection of knowledge, the efficient scribing of spells, and the fundamental properties of magic—which they obsess over so as to bend or break it to their own ends.
+
+*Arcanist Progression*
+
+| Wizard Level | Features |
+|---|---|
+| 3rd | Economical Transcription, Swift Ritual |
+| 7th | Arcane Conflux |
+| 11th | Eidetic Scribe |
+| 15th | Mastered Spell |
+
+### Economical Transcription
+
+*3rd-Level Arcanist Feature*
+
+Your ability to collect, decipher, and recall spells is unmatched. When you finish a short or long rest, you can replace one Arcane cantrip that you know with another cantrip from the Arcane source spell list.
+
+In addition, when you copy a spell into your spellbook, you can attempt to copy that spell with 1 minute of work and 10 gp of materials, regardless of the spell’s circle. To do so, you must succeed on an Arcana check with a DC of 10 + the spell’s circle. On a success, the spell is copied flawlessly. On a failure, the spell is not copied, but no materials are wasted. You can attempt an Economical Transcription of a particular spell only once.
+
+### Swift Ritual
+
+*3rd-Level Arcanist Feature*
+
+As an action, you can cast an Arcane ritual that you have scribed within your spellbook, instead of requiring the ritual’s normal casting time. To do so, the ritual can’t be an evocation spell, and it can’t have a casting time greater than 10 minutes. You must still provide all components necessary for the casting of the spell. Once used, you can’t use this feature again until you finish a long rest.
+
+### Arcane Conflux
+
+*7th-Level Arcanist Feature*
+
+Each time you miss a spell attack roll and for each creature that succeeds on a save against a spell you cast, you gain a cumulative +1 bonus to spell attack rolls and your spell save DC, to a maximum bonus of +3, until the end of your next turn. This effect triggers only when you cast a spell of 1st circle or higher.
+
+### Eidetic Scribe
+
+*11th-Level Arcanist Feature*
+
+As a reaction when a creature that you can see and hear casts a spell from the Arcane source list, you can attempt to memorize it. Make an INT (Arcana) check with a DC of 10 + the spell’s circle. On a success, you can cast that spell as though you have it prepared until you finish a short or long rest.
+
+You can attempt to copy a spell you currently have memorized into your spellbook. On a failure, the memorized spell is lost. You can have only one spell memorized in this way at a time, and each time you memorize a new spell, it replaces the previous one. If you are knocked unconscious or are incapacitated, any spell you have memorized is lost.
+
+When you reach 15th level, you can have up to two spells memorized at one time. If you memorize a new one, the oldest one is lost.
+
+### Mastered Spell
+
+*15th-Level Arcanist Feature*
+
+As part of a long rest, you can select one non‑ritual spell of 3rd circle or lower that you have scribed within your spellbook and master it. That spell is always prepared for you and doesn’t count against the number of spells you can prepare. You can cast that spell at its lowest circle without expending a spell slot, though you must still supply any spell components. A mastered spell doesn’t have to be a spell from your Rote Spell feature (see *Player’s Guide*), but it can be.
+
+You can cast your mastered spell this way a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
 ## Battle Mage
 
@@ -336,97 +411,56 @@ You can add your INT modifier to one damage roll of any Arcane cantrip you cast.
 
 Once per turn, when you cast an Arcane cantrip that deals damage, you can instead deal maximum damage with it. You can use this feature a number of times equal to your PB, and you regain all expended uses of it when you finish a long rest.
 
-## Wizard Boons
+## Courser Mage
 
-%% source: Player's Guide 2 %%
+%% source: Tales of the Old Margreve %%
 
-When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the wizard class.
+Wizards who follow the Courser Mage tradition are interested in ancient tomes, but they are just as interested in archery and the art of blending magic and archery to stalk and take down quarry. Their magical study focuses on subtle spells centered around finding or hiding from enemies, and their martial study focuses on combining magic and archery. They eventually learn to imbue their arrows with spell energy to deliver more deadly shots. Many monarchs employ Courser Mages in a dual role as magical counsel and personal assassin.
 
-### Heroic Boons
-
-When you reach 10th level in the wizard class, you have the following additional options to choose from when selecting the boon for your Heroic Boon feature.
-
-#### Heroic Boon
-
-*10th-Level Wizard Feature*
-
-Your commitment to the wizard’s path grants you a powerful ability. Choose one of the following heroic boons:
-
-- **Arcane Arsenal.** You can cast each of the prepared spells from your Rote Spell feature (see *Player’s Guide*) once at the spell’s lowest possible circle without expending a spell slot. Once you cast one of your rote spells in this way, you can’t use this feature again for that particular spell until you finish a long rest.
-
-- **Mystic Vision.** While your Magic Sense feature (see *Player’s Guide*) is active, you can see invisible creatures and objects, and you can see in nonmagical and magical darkness as if it were bright light.
-
-### Epic Boons
-
-When you reach 20th level in the wizard class, you have the following additional options to choose from when selecting the boon for your Epic Boon feature.
-
-#### Epic Boon
-
-*20th-Level Wizard Feature*
-
-Your commitment to the wizard’s path grants you a powerful new ability. You gain one of the following epic boons:
-
-- **Arcane Confluence.** As long as you aren’t incapacitated, you can’t be affected or damaged by spells of 4th circle or lower unless you choose to be.
-
-- **Overcharge.** When you expend an Arcane spell slot to cast a spell that deals damage, you can choose to sacrifice an additional spell slot of a circle equal to or lower than the expended slot. The spell then deals additional damage of its type equal to 1d10 × the circle of the sacrificed slot.
-
-## More Wizard Subclasses
-
-%% source: Player's Guide 2 %%
-At 3rd level, wizards gain the Wizard Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Arcanist, Necromancer, or Summoner.
-
-## Arcanist
-
-%% source: Player's Guide 2 %%
-
-Among wizards, who might mollify their curiosity with any manner of research, the Arcanist is often considered the most preoccupied with the empirical and esoteric research of spellcraft. These wizards value the collection of knowledge, the efficient scribing of spells, and the fundamental properties of magic—which they obsess over so as to bend or break it to their own ends.
-
-*Arcanist Progression*
+*Courser Mage Progression*
 
 | Wizard Level | Features |
 |---|---|
-| 3rd | Economical Transcription, Swift Ritual |
-| 7th | Arcane Conflux |
-| 11th | Eidetic Scribe |
-| 15th | Mastered Spell |
+| 3rd | Expanded Talent List, Stalking Savant, Unseen Assailant |
+| 7th | Spell Arrow |
+| 11th | Pinpoint Weakness |
+| 15th | Multitudinous Arrows |
 
-### Economical Transcription
+### Expanded Talent List
 
-*3rd-Level Arcanist Feature*
+*3rd-Level Courser Mage Feature*
 
-Your ability to collect, decipher, and recall spells is unmatched. When you finish a short or long rest, you can replace one Arcane cantrip that you know with another cantrip from the Arcane source spell list.
+When you gain a new talent, you can select it from the magic or martial talents list.
 
-In addition, when you copy a spell into your spellbook, you can attempt to copy that spell with 1 minute of work and 10 gp of materials, regardless of the spell’s circle. To do so, you must succeed on an Arcana check with a DC of 10 + the spell’s circle. On a success, the spell is copied flawlessly. On a failure, the spell is not copied, but no materials are wasted. You can attempt an Economical Transcription of a particular spell only once.
+### Stalking Savant
 
-### Swift Ritual
+*3rd-Level Courser Mage Feature*
 
-*3rd-Level Arcanist Feature*
+You gain proficiency with longbows and shortbows, and you gain proficiency in the Stealth skill. In addition, you can still perform the somatic components of wizard spells even when you have a longbow or shortbow in one or both hands.
 
-As an action, you can cast an Arcane ritual that you have scribed within your spellbook, instead of requiring the ritual’s normal casting time. To do so, the ritual can’t be an evocation spell, and it can’t have a casting time greater than 10 minutes. You must still provide all components necessary for the casting of the spell. Once used, you can’t use this feature again until you finish a long rest.
+### Unseen Assailant
 
-### Arcane Conflux
+*3rd-Level Courser Mage Feature*
 
-*7th-Level Arcanist Feature*
+As a bonus action, you can choose a creature you can see within 60 feet of you and become invisible to only that creature until the start of your next turn. This effect ends early if you attack that creature or cast a spell that includes that creature. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
-Each time you miss a spell attack roll and for each creature that succeeds on a save against a spell you cast, you gain a cumulative +1 bonus to spell attack rolls and your spell save DC, to a maximum bonus of +3, until the end of your next turn. This effect triggers only when you cast a spell of 1st circle or higher.
+### Spell Arrow
 
-### Eidetic Scribe
+*7th-Level Courser Mage Feature*
 
-*11th-Level Arcanist Feature*
+Once per turn, when you hit a creature with a longbow or shortbow attack, you can expend one spell slot to deal extra force damage to the target, in addition to the weapon's normal damage. The extra damage is 2d4 for a 1st-circle spell slot, plus 1d4 for each circle higher than 1st.
 
-As a reaction when a creature that you can see and hear casts a spell from the Arcane source list, you can attempt to memorize it. Make an INT (Arcana) check with a DC of 10 + the spell’s circle. On a success, you can cast that spell as though you have it prepared until you finish a short or long rest.
+### Pinpoint Weakness
 
-You can attempt to copy a spell you currently have memorized into your spellbook. On a failure, the memorized spell is lost. You can have only one spell memorized in this way at a time, and each time you memorize a new spell, it replaces the previous one. If you are knocked unconscious or are incapacitated, any spell you have memorized is lost.
+*11th-Level Courser Mage Feature*
 
-When you reach 15th level, you can have up to two spells memorized at one time. If you memorize a new one, the oldest one is lost.
+When you hit a creature with an arrow imbued by your Spell Arrow feature, your next ranged weapon attack against that creature before the end of your next turn has advantage.
 
-### Mastered Spell
+### Multitudinous Arrows
 
-*15th-Level Arcanist Feature*
+*15th-Level Courser Mage Feature*
 
-As part of a long rest, you can select one non‑ritual spell of 3rd circle or lower that you have scribed within your spellbook and master it. That spell is always prepared for you and doesn’t count against the number of spells you can prepare. You can cast that spell at its lowest circle without expending a spell slot, though you must still supply any spell components. A mastered spell doesn’t have to be a spell from your Rote Spell feature (see *Player’s Guide*), but it can be.
-
-You can cast your mastered spell this way a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+On your turn, you can attack twice, instead of once, when you take the Attack action, provided you are attacking with a longbow or shortbow. If you use your Spell Arrow feature, you can imbue both arrows with arcane power by expending one spell slot. If you imbue two arrows with this feature, you can't cast spells other than cantrips until the end of your next turn.
 
 ## Necromancer
 
@@ -541,69 +575,6 @@ Once you use this feature, you can’t use it again until you finish a short or 
 > [!note] Two Familiars?
 > Because of the Conjuration Specialist feature, a Summoner wizard can have two familiars, one from the *[[Rituals 1st–3rd Circle#Create Familiar|create familiar]]* spell and one from the *[[Rituals 1st–3rd Circle#Find Familiar|find familiar]]* spell. The wizard must still follow all other rules of those spells.
 >
-
-## Old Margreve Wizard Subclasses
-
-%% source: Tales of the Old Margreve %%
-
-At 3rd level, a wizard gains the Wizard Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Courser Mage.
-
-## Courser Mage
-
-%% source: Tales of the Old Margreve %%
-
-Wizards who follow the Courser Mage tradition are interested in ancient tomes, but they are just as interested in archery and the art of blending magic and archery to stalk and take down quarry. Their magical study focuses on subtle spells centered around finding or hiding from enemies, and their martial study focuses on combining magic and archery. They eventually learn to imbue their arrows with spell energy to deliver more deadly shots. Many monarchs employ Courser Mages in a dual role as magical counsel and personal assassin.
-
-*Courser Mage Progression*
-
-| Wizard Level | Features |
-|---|---|
-| 3rd | Expanded Talent List, Stalking Savant, Unseen Assailant |
-| 7th | Spell Arrow |
-| 11th | Pinpoint Weakness |
-| 15th | Multitudinous Arrows |
-
-### Expanded Talent List
-
-*3rd-Level Courser Mage Feature*
-
-When you gain a new talent, you can select it from the magic or martial talents list.
-
-### Stalking Savant
-
-*3rd-Level Courser Mage Feature*
-
-You gain proficiency with longbows and shortbows, and you gain proficiency in the Stealth skill. In addition, you can still perform the somatic components of wizard spells even when you have a longbow or shortbow in one or both hands.
-
-### Unseen Assailant
-
-*3rd-Level Courser Mage Feature*
-
-As a bonus action, you can choose a creature you can see within 60 feet of you and become invisible to only that creature until the start of your next turn. This effect ends early if you attack that creature or cast a spell that includes that creature. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
-
-### Spell Arrow
-
-*7th-Level Courser Mage Feature*
-
-Once per turn, when you hit a creature with a longbow or shortbow attack, you can expend one spell slot to deal extra force damage to the target, in addition to the weapon's normal damage. The extra damage is 2d4 for a 1st-circle spell slot, plus 1d4 for each circle higher than 1st.
-
-### Pinpoint Weakness
-
-*11th-Level Courser Mage Feature*
-
-When you hit a creature with an arrow imbued by your Spell Arrow feature, your next ranged weapon attack against that creature before the end of your next turn has advantage.
-
-### Multitudinous Arrows
-
-*15th-Level Courser Mage Feature*
-
-On your turn, you can attack twice, instead of once, when you take the Attack action, provided you are attacking with a longbow or shortbow. If you use your Spell Arrow feature, you can imbue both arrows with arcane power by expending one spell slot. If you imbue two arrows with this feature, you can't cast spells other than cantrips until the end of your next turn.
-
-## Labyrinth Wizard Subclasses
-
-%% source: Labyrinth Worldbook %%
-
-At 3rd level, a wizard gains the Wizard Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Void Caster.
 
 ## Void Caster
 

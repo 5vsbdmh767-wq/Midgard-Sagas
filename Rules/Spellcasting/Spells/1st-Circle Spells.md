@@ -133,7 +133,7 @@ You bless up to three creatures of your choice within range. When a target makes
 
 You touch a willing Beast or creature with the Animal tag that has an INT score of 3 (−4) or lower. For the duration, the creature can make WIS (Survival) checks for tracking, using your spellcasting modifier and PB as bonuses to the roll. If the animal has heightened senses, it gains advantage on these checks for appropriate senses (scent for following by smell, or sight if visually following tracks). In addition, if the creature isn’t surprised at the beginning of combat, no other creature within 10 feet of it is surprised.
 
-## Bloodhound (Old Margreve)
+## Bloodhound (Margreve)
 
 %% source: Tales of the Old Margreve %%
 

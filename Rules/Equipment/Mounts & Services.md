@@ -8,6 +8,50 @@ A good mount can carry you quickly across long distances, but its primary purpos
 
 Rules for running mounts during combat encounters are covered in the **Mounted Combat** section in **Chapter 6**.
 
+The unusual mounts on the table aren’t commonly available in most fantasy settlements, but a GM can determine their availability in more unique climates and societies—particularly in environments untraversable by horses and similar beasts.
+
+***Climbing Mounts.*** Mounts with a climbing speed, like the giant lizard, are commonly used in underground environments or areas too rocky to safely traverse on horseback. Subterranean societies, settlements surrounded by rocky canyons, and nomadic peoples in arid climates are most likely to sell these unique mounts.
+
+***Flying Mounts.*** Mounts with a flying speed, like the giant eagle, are most common in remote settlements atop frigid peaks, flying cities, or regions suffused with the bountiful winds of elemental air.
+
+***Swimming Mounts.*** Mounts with a swimming speed, like the giant seahorse, are raised and sold in underwater societies with the same frequency and numbers as surface horses and beasts of burden.
+
+Travel across the [[Northlands]] can be its own adventure. From howling blizzards to roaring giants, just moving from settlement to settlement pits the adventurer against nature and monsters alike. A mount can help you move more quickly through the wilderness, but it can also carry gear that would otherwise slow you down. For land vehicles, see [[Vehicles]].
+
+> [!note] Magical Mounts
+> Mounts other than those listed here are available in fantasy worlds, but they aren't normally available for purchase. These include flying mounts (pegasi, griffons, hippogriffs, and similar creatures) and even aquatic mounts (such as giant sea horses and hippocampi). Acquiring such a mount often means securing an egg and raising the creature, making a bargain with a powerful entity, or negotiating with the mount itself.
+>
+
+**Mounts**
+
+| Mount | Cost | Speed (per Round) | Carrying Capacity |
+|---|---|---|---|
+| **Common mounts** |  |  |  |
+| Donkey or mule | 8 gp | 40 ft. | 420 lb. |
+| Horse, draft | 50 gp | 40 ft. | 540 lb. |
+| Horse, riding | 75 gp | 60 ft. | 480 lb. |
+| Horse, war | 400 gp | 60 ft. | 540 lb. |
+| Mastiff | 25 gp | 40 ft. | 195 lb. |
+| Pony | 30 gp | 40 ft. | 225 lb. |
+| **Unusual mounts** |  |  |  |
+| Axe Beak (Large) | 60 gp | 50 ft. | 420 lb. |
+| Camel (Large) | 50 gp | 50 ft. | 450 lb. |
+| Eagle, Giant (Large) | 400 gp | 10 ft., fly 80 ft. | 480 lb. |
+| Goat, Giant (Large) | 50 gp | 40 ft. | 390 lb. |
+| Lizard, Giant (Large) | 75 gp | 30 ft., climb 30 ft. | 420 lb. |
+| Millipede, Giant | 1,200 gp | 40 ft., climb 20 ft. | 1,080 lb. |
+| Seahorse, Giant (Large) | 75 gp | 0 ft., swim 40 ft. | 360 lb. |
+| Wooly Hippopotamus | 1,600 gp | 30 ft. | 1,140 lb. |
+| **Northern mounts** |  |  |  |
+| Andahestur | N/A | — | 390 lb. |
+| Mammoth | 1,000 gp | — | 2,240 lb. |
+| Moose | 75 gp | — | 520 lb. |
+| Reindeer | 35 gp | — | 200 lb. |
+| Sea serpent | N/A | — | 935 lb. |
+| Sleipnirspringr | N/A | — | 610 lb. |
+
+%% sources: Player's Guide 2: unusual mounts and the three notes on climbing, flying and swimming mounts (stat blocks are in Monster Vault, except Millipede, Giant and Wooly Hippopotamus in Monster Vault 2); Northlands Worldbook: northern mounts and the paragraph on travel in the Northlands %%
+
 #### Mount Gear and Expenses
 
 The **Mount Gear and Expenses** table lists gear for sale specifically for use with mounts. Items that have special rules or require further explanation are covered here.
@@ -33,123 +77,15 @@ The **Mount Gear and Expenses** table lists gear for sale specifically for use w
 | Saddle | 10 gp | 25 lb. |
 | Stabling (per day) | 5 sp | — |
 
-## Services
-
-Adventurers can pay NPCs for help. Most hirelings have ordinary skills, others are masters of a craft, and a few experts have specialized adventuring talents.
-
-Some standard hirelings appear on the **Common Services** table, but you can hire out for nearly any task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the *[[Rituals 4th–6th Circle#Secret Chest|secret chest]]* *ritual* spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for a performance in front of the duke.
-
-Other hirelings provide more skilled services. Mercenary soldiers paid to help take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. A high-level adventurer establishing a stronghold might hire a whole staff of servants and agents to run the place. These hirelings often enjoy food, stabling, and a place to live within the stronghold as part of the deal.
-
-***Skilled Hirelings.*** Skilled hirelings come with a proficiency (armor, weapon, tool, vehicle, or skill). A mercenary, artisan, or scribe would be skilled. The pay shown is a minimum; true experts might require double or even triple pay.
-
-***Untrained Hirelings.*** Untrained hirelings are hired for physical work that doesn’t require specialized study. Examples include laborers, porters, or waiters.
-
-**Mounts**
-
-| Mount | Cost | Speed (per Round) | Carrying Capacity |
-|---|---|---|---|
-| Donkey or mule | 8 gp | 40 ft. | 420 lb. |
-| Horse, draft | 50 gp | 40 ft. | 540 lb. |
-| Horse, riding | 75 gp | 60 ft. | 480 lb. |
-| Horse, war | 400 gp | 60 ft. | 540 lb. |
-| Mastiff | 25 gp | 40 ft. | 195 lb. |
-| Pony | 30 gp | 40 ft. | 225 lb. |
-
-#### Spellcasting Services
-
-You might find a spellcaster for hire, but they’re rare and they know it.
-
-Hiring someone to cast a 1st- or 2nd-circle spell, such as *[[1st-Circle Spells#Cure Wounds|cure wounds]]* or *[[Rituals 1st–3rd Circle#Identify|identify]]*, is doable in most cities or towns. Finding someone to cast a higher-circle spell might involve traveling to a large city or a crossroads town like [[Zobeck]], with a university or prominent temple.
-
-Finding someone to cast a spell of 7th circle or higher is extremely difficult and should only be available through narrative circumstances. Money is seldom an issue for NPCs at this level. For payment, a spellcaster tends to prefer adventurer-style services, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something to a distant settlement.
-
-The **Spellcasting Services** table provides a rough pricing guide for spellcasting services, but the GM has final say on pricing and availability.
-
-**Spellcasting Services**
-
-| Spell Circle | Price |
-|---|---|
-| Cantrip | 10 gp + material components cost |
-| 1st | 50 gp + material components cost |
-| 2nd | 100 gp + material components cost |
-| 3rd | 200 gp + material components cost |
-| 4th | 350 gp + material components cost |
-| 5th | 650 gp + material components cost |
-| 6th | 1,500 gp + material components cost |
-| 7th | Priceless |
-| 8th | Priceless |
-| 9th | Priceless |
-
-**Common Services**
-
-| Service | Pay |
-|---|---|
-| Coach cab |  |
-| Between towns | 3 cp per mile |
-| Within a city | 1 cp |
-| Hireling |  |
-| Skilled | 2 gp per day |
-| Untrained | 2 sp per day |
-| Messenger | 2 cp per mile |
-| Road or gate toll | 1 cp |
-| Ship’s passage | 1 sp per mile |
-
-#### Food, Drink, and Lodging
-
-Prices on this table are for individual food items and a single night’s lodging.
-
-**Food, Drink, and Lodging**
-
-| Item | Cost |
-|---|---|
-| Ale |  |
-| Pitcher (gallon) | 2 sp |
-| Mug | 4 cp |
-| Inn stay (per day) |  |
-| Typical room | 5 sp |
-| Luxury room | 2 gp |
-| Meals (per day) |  |
-| Meal, common | 3 sp |
-| Meal, feast | 8 sp |
-| Wine |  |
-| Common (pitcher) | 2 sp |
-| Fine (bottle) | 10 gp |
-
-## Mounts & Combat Animals (Player's Guide 2)
+## Combat Animals
 
 %% source: Player's Guide 2 %%
-
-Mounts and other animal companions are a common feature when adventuring. Included are the pricing and basic statistics for more unique options available to PCs. For the full rules regarding the use of mounts, see the *Player’s Guide*.
-
-The mounts listed in this section aren’t commonly available in most fantasy settlements, but a GM can determine their availability in more unique climates and societies—particularly in environments untraversable by horses and similar beasts.
-
-***Climbing Mounts.*** Mounts with a climbing speed, like the giant lizard, are commonly used in underground environments or areas too rocky to safely traverse on horseback. Subterranean societies, settlements surrounded by rocky canyons, and nomadic peoples in arid climates are most likely to sell these unique mounts.
-
-***Flying Mounts.*** Mounts with a flying speed, like the giant eagle, are most common in remote settlements atop frigid peaks, flying cities, or regions suffused with the bountiful winds of elemental air.
-
-***Swimming Mounts.*** Mounts with a swimming speed, like the giant seahorse, are raised and sold in underwater societies with the same frequency and numbers as surface horses and beasts of burden.
-
-## Combat Animals
 
 Animals have been trained as implements of war for nearly as long as people have fought. Easy-to-train animals are used as mounts, messengers, weapons, and sometimes siege engines, if the creature is large enough. War animals are Beasts specifically trained for combat, and unlike most animals, they don’t get spooked or flee when in an area of conflict. These creatures know who is friendly to them and who isn’t, even in a pitched battle.
 
 Unless specified otherwise in its entry, a combat-trained animal will take commands from its designated handlers. One such handler can use an action to command the creature to Attack, Dash, Disengage, Dodge, Help, Hide, or Use an Object by succeeding on a DC 10 WIS (Animal Handling) check. On a failed save, the creature defends itself but otherwise takes no actions. The Use an Object command can be used to deliver an item to someone or to fetch either an item from a willing creature or an item that isn’t being worn or carried. While a combat-trained animal is being used as a mount in mounted combat, it follows the rules for a controlled mount instead.
 
-***Combat Training.*** A combat-trained animal can be trained to obey up to four handlers. Each handler must spend a week training with the creature before it learns to obey them. If the creature is trained to obey a new handler when it already obeys four, it no longer obeys the one whose most recent command to it was issued the longest amount of time ago and obeys the new handler instead. At
-
-*Unique Mounts*
-
-| Mount | Cost | Speed (Per Round) | Carrying Capacity | Source |
-|---|---|---|---|---|
-| Axe Beak (Large) | 60 gp | 50 ft. | 420 lb. | MV |
-| Camel (Large) | 50 gp | 50 ft. | 450 lb. | MV |
-| Eagle, Giant (Large) | 400 gp | 10 ft., fly 80 ft. | 480 lb. | MV |
-| Goat, Giant (Large) | 50 gp | 40 ft. | 390 lb. | MV |
-| Lizard, Giant (Large) | 75 gp | 30 ft., climb 30 ft. | 420 lb. | MV |
-| Millipede, Giant | 1,200 gp | 40 ft., climb 20 ft. | 1,080 lb. | MV2 |
-| Seahorse, Giant (Large) | 75 gp | 0 ft., swim 40 ft. | 360 lb. | MV |
-| Wooly Hippopotamus | 1,600 gp | 30 ft. | 1,140 lb. | MV2 |
+***Combat Training.*** A combat-trained animal can be trained to obey up to four handlers. Each handler must spend a week training with the creature before it learns to obey them. If the creature is trained to obey a new handler when it already obeys four, it no longer obeys the one whose most recent command to it was issued the longest amount of time ago and obeys the new handler instead. At the GM’s discretion, a Beast with a particularly strong bond with one or more handlers might not forget them, and in such cases, training it to obey someone new—when it already obeys four—fails.
 
 *War Animals*
 
@@ -160,8 +96,6 @@ Unless specified otherwise in its entry, a combat-trained animal will take comma
 | Hunting Hound | 50 gp | 40 ft. | 210 lb. |
 | Oliphaunt Warbeast | 2,400 gp | 40 ft. | 1,560 lb. |
 | War Pig | 50 gp | 30 ft. | 210 lb. |
-
-GM’s discretion, a Beast with a particularly strong bond with one or more handlers might not forget them, and in such cases, training it to obey someone new—when it already obeys four—fails.
 
 ### Cavalry Camel
 
@@ -331,24 +265,77 @@ This muscular, human-sized swine is covered with bristly brown and gray hair. A 
 > ***Frightful Squeal.*** The war pig emits a loud, high-pitched squeal. Each Beast and Humanoid within 10 feet of the war pig must succeed on a DC 12 WIS save or be frightened until the end of its next turn.
 >
 
-## More Mounts (Northlands Worldbook)
+## Services
 
-%% source: Northlands Worldbook %%
+Adventurers can pay NPCs for help. Most hirelings have ordinary skills, others are masters of a craft, and a few experts have specialized adventuring talents.
 
-Travel across the [[Northlands]] can be its own adventure. From howling blizzards to roaring giants, just moving from settlement to settlement pits the adventurer against nature and monsters alike. A mount can help you move more quickly through the wilderness, but it can also carry gear that would otherwise slow you down. The **Mounts** table shows each animal’s carrying capacity. For land vehicles, see [[Vehicles#More Vehicles (Northlands Worldbook)|Vehicles]].
+Some standard hirelings appear on the **Common Services** table, but you can hire out for nearly any task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the *[[Rituals 4th–6th Circle#Secret Chest|secret chest]]* *ritual* spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for a performance in front of the duke.
 
-**Mounts (Northlands Worldbook)**
+Other hirelings provide more skilled services. Mercenary soldiers paid to help take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. A high-level adventurer establishing a stronghold might hire a whole staff of servants and agents to run the place. These hirelings often enjoy food, stabling, and a place to live within the stronghold as part of the deal.
 
-| Mount | Carrying Capacity | Cost |
-|---|---|---|
-| Andahestur | 390 lb. | N/A |
-| Mammoth | 2,240 lb. | 1,000 gp |
-| Moose | 520 lb. | 75 gp |
-| Reindeer | 200 lb. | 35 gp |
-| Sea serpent | 935 lb. | N/A |
-| Sleipnirspringr | 610 lb. | N/A |
+***Skilled Hirelings.*** Skilled hirelings come with a proficiency (armor, weapon, tool, vehicle, or skill). A mercenary, artisan, or scribe would be skilled. The pay shown is a minimum; true experts might require double or even triple pay.
 
-The Northlands Worldbook repeats the rules for pulling vehicles and for barding; they match the ***Drawn Objects*** and ***Barding*** rules above.
+***Untrained Hirelings.*** Untrained hirelings are hired for physical work that doesn’t require specialized study. Examples include laborers, porters, or waiters.
+
+#### Spellcasting Services
+
+You might find a spellcaster for hire, but they’re rare and they know it.
+
+Hiring someone to cast a 1st- or 2nd-circle spell, such as *[[1st-Circle Spells#Cure Wounds|cure wounds]]* or *[[Rituals 1st–3rd Circle#Identify|identify]]*, is doable in most cities or towns. Finding someone to cast a higher-circle spell might involve traveling to a large city or a crossroads town like [[Zobeck]], with a university or prominent temple.
+
+Finding someone to cast a spell of 7th circle or higher is extremely difficult and should only be available through narrative circumstances. Money is seldom an issue for NPCs at this level. For payment, a spellcaster tends to prefer adventurer-style services, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something to a distant settlement.
+
+The **Spellcasting Services** table provides a rough pricing guide for spellcasting services, but the GM has final say on pricing and availability.
+
+**Spellcasting Services**
+
+| Spell Circle | Price |
+|---|---|
+| Cantrip | 10 gp + material components cost |
+| 1st | 50 gp + material components cost |
+| 2nd | 100 gp + material components cost |
+| 3rd | 200 gp + material components cost |
+| 4th | 350 gp + material components cost |
+| 5th | 650 gp + material components cost |
+| 6th | 1,500 gp + material components cost |
+| 7th | Priceless |
+| 8th | Priceless |
+| 9th | Priceless |
+
+**Common Services**
+
+| Service | Pay |
+|---|---|
+| Coach cab |  |
+| Between towns | 3 cp per mile |
+| Within a city | 1 cp |
+| Hireling |  |
+| Skilled | 2 gp per day |
+| Untrained | 2 sp per day |
+| Messenger | 2 cp per mile |
+| Road or gate toll | 1 cp |
+| Ship’s passage | 1 sp per mile |
+
+#### Food, Drink, and Lodging
+
+Prices on this table are for individual food items and a single night’s lodging.
+
+**Food, Drink, and Lodging**
+
+| Item | Cost |
+|---|---|
+| Ale |  |
+| Pitcher (gallon) | 2 sp |
+| Mug | 4 cp |
+| Inn stay (per day) |  |
+| Typical room | 5 sp |
+| Luxury room | 2 gp |
+| Meals (per day) |  |
+| Meal, common | 3 sp |
+| Meal, feast | 8 sp |
+| Wine |  |
+| Common (pitcher) | 2 sp |
+| Fine (bottle) | 10 gp |
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

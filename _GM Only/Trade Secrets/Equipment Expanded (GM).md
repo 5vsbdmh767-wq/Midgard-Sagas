@@ -1,7 +1,7 @@
 ---
 publish: false
 ---
-*From Trade Secrets, chapter 4. GM advice on tools. The player-facing rules from this chapter are on [[Adventuring Gear#More Adventuring Gear (Trade Secrets)|Adventuring Gear]], [[Tools#More Tool Uses (Trade Secrets)|Tools]], [[Weapons#More Weapons (Trade Secrets)|Weapons]], [[Armor#More Armor (Trade Secrets)|Armor]], and [[Setting Up Shop]].*
+*From Trade Secrets, chapter 4. GM advice on tools. The player-facing rules from this chapter are on [[Adventuring Gear|Adventuring Gear]], [[Tools|Tools]], [[Weapons|Weapons]], [[Armor|Armor]], and [[Setting Up Shop]].*
 
 ### Tool Limitations
 

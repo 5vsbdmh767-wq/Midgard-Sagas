@@ -66,11 +66,11 @@ The 78 Northlands spells and rituals are mixed into the [[Spells]] and [[Rituals
 
 | Page | What's There |
 |---|---|
-| [[Weapons#More Weapons (Northlands Worldbook)\|Weapons]] | Atgeir, bearded axe, breidox, bryntroll, seax, snaerispear, Ulfberht blade, and the puncture weapon option |
-| [[Armor#More Armor (Northlands Worldbook)\|Armor]] | Beinagrind, double mail, hardened mail shirt, walrus hide |
-| [[Adventuring Gear#More Adventuring Gear (Northlands Worldbook)\|Adventuring Gear]] | Jotunskull helm, skates, skis, snow goggles, snow visor, snowshoes, talharpa |
-| [[Mounts & Services#More Mounts (Northlands Worldbook)\|Mounts]] | Andahestur, mammoth, moose, reindeer, sea serpent, sleipnirspringr |
-| [[Vehicles#More Vehicles (Northlands Worldbook)\|Vehicles]] | Dog sled, ogre war sled, and five longships: drakkar, karvi, knarr, skeid, snekkja |
+| [[Weapons\|Weapons]] | Atgeir, bearded axe, breidox, bryntroll, seax, snaerispear, Ulfberht blade, and the puncture weapon option |
+| [[Armor\|Armor]] | Beinagrind, double mail, hardened mail shirt, walrus hide |
+| [[Adventuring Gear\|Adventuring Gear]] | Jotunskull helm, skates, skis, snow goggles, snow visor, snowshoes, talharpa |
+| [[Mounts & Services#Mounts\|Mounts]] | Andahestur, mammoth, moose, reindeer, sea serpent, sleipnirspringr |
+| [[Vehicles#The Northlands\|Vehicles]] | Dog sled, ogre war sled, and five longships: drakkar, karvi, knarr, skeid, snekkja |
 
 ## Magic Items
 

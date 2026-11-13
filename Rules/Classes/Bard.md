@@ -218,9 +218,15 @@ You learn two additional spells from any source at 13th level and again at 18th 
 
 Your commitment to the bard’s path grants you a powerful new ability. Choose one of the following heroic boons:
 
+- **Infectious Inspiration.** When a creature adds one of your Bardic Inspiration dice (see Bardic Inspiration feature in *Player’s Guide*) to an ability check, attack roll, or save, and the roll succeeds, the creature can choose an ally it can see within 30 feet of it. That ally gains a Bardic Inspiration die. Inspiration given in this way doesn’t expend a use of your current Bardic Inspiration dice.
+
 - **Persistent Inspiration.** When a creature adds one of your Bardic Inspiration dice to an ability check, attack roll, or save, and the roll still fails, the die isn’t lost and can be used again.
 
+- **Restorative Inspiration.** When a creature with one of your Bardic Inspiration dice (see Bardic Inspiration feature in *Player’s Guide*) casts a spell that restores hit points, it can choose to expend and roll the die to increase the total hit points the spell can heal by an amount equal to the result. The caster chooses how these additional hit points are distributed if the spell heals multiple targets. Alternatively, when a creature with one of your Bardic Inspiration die recovers hit points due to a spell, magic item, or class feature, it can use its reaction to roll and expend the Bardic Inspiration die to recover additional hit points equal to the result.
+
 - **Valiant Inspiration.** When a creature with one of your Bardic Inspiration dice successfully deals damage with an attack, the creature can expend and roll the die to deal additional damage equal to the result. The extra damage is of the same type as that of the triggering attack (though the attacker chooses which type if there are more than one). Alternatively, when a creature with one of your Bardic Inspiration dice takes damage, the creature can use its reaction to expend and roll the die to reduce the amount of damage taken by an amount equal to the result + your CHA modifier.
+
+%% source: Player's Guide 2: Infectious Inspiration, Restorative Inspiration %%
 
 ### Grand Performance
 
@@ -232,158 +238,30 @@ Your Bardic Performance feature now affects creatures within 60 feet of you that
 
 *20th-Level Bard Feature*
 
-Your commitment to the bard’s path grants you a powerful new ability. You gain the following epic boon:
+Your commitment to the bard’s path grants you a powerful new ability. You gain one of the following epic boons:
 
 - **Curtain Call.** If you start your turn with no uses of your Bardic Inspiration feature remaining, you can use your bonus action to recover a number of uses equal to your CHA modifier (minimum of 1). This bonus action can be taken as part of the bonus action required to maintain your Bardic Performance feature. Once you use this feature, you can’t do so again until you finish a long rest.
-
-## Bard Subclasses
-
-The bardic arts are ancient and heavy with traditions handed down from master to apprentice. While most bards still learn their craft from a single teacher, large settlements increasingly have colleges dedicated to training groups of students. These colleges typically focus on aspects of art deemed most useful to their patrons, which categorizes bards in ways that align with their abilities.
-
-## Lore
-
-Bards who align with the college of Lore value knowledge most highly. Many from this college are preoccupied with preserving ancient rituals, folklore, and stories—or recovering such things that were lost. These bards glean wisdom from all manner of cultures and sources, allowing them to utilize their magic and talents in novel ways.
-
-**Lore Progression**
-
-| Bard Level | Features |
-|---|---|
-| 3rd | Bardic Performance: Ode to Heroes, Expanded Talent List, Jack of All Trades |
-| 7th | Swift Ritual |
-| 11th | Magical Rites |
-| 15th | Peerless Skill |
-
-### Bardic Performance
-
-*3rd-Level Lore Feature*
-
-You gain the following Bardic Performance option.
-
-#### Bardic Performance: Ode to Heroes
-
-You invoke songs and stories of legend to inspire your allies to new heights of heroism and to intimidate your foes. When you use your Bardic Performance feature, choose STR, DEX, CON, INT, WIS, or CHA. While your performance lasts, allies within range have advantage on ability checks that use that ability and enemies within range have disadvantage on ability checks that use that ability.
-
-### Expanded Talent List
-
-*3rd-Level Lore Feature*
-
-When you gain a new talent, you can select it from either the magic or the technical talents list (see **Talents** in **Chapter 4**).
-
-### Jack of All Trades
-
-*3rd-Level Lore Feature*
-
-You make it your business to collect lessons and practical guidance from the stories, songs, and cultures you encounter. You can add half your PB, rounded down, to any ability check you make that doesn’t already include your PB.
-
-### Swift Ritual
-
-*7th-Level Lore Feature*
-
-You can cast an Arcane ritual you know as an action, instead of using the ritual’s listed casting time. You must still provide all other components necessary for the casting. Once used, you can't use this feature again until you finish a long rest.
-
-### Magical Rites
-
-*11th-Level Lore Feature*
-
-You learn two ritual spells of your choice from any source list. Each spell you choose must be of a circle for which you have spell slots, as shown in the **Bard Progression** table. The chosen rituals count as Arcane spells for you and aren't included in the number in the Rituals Known column of the **Bard Progression** table.
-
-### Peerless Skill
-
-*15th-Level Lore Feature*
-
-When you make an ability check and have at least one use of your Bardic Inspiration feature available, you can use it to roll a Bardic Inspiration die and add the number rolled to your ability check. If you succeed on the check, you get to keep the Bardic Inspiration die, but if you fail the check, the die is expended.
-
-## Victory
-
-Bards who align with the college of Victory are tacticians who thrive in the heat of battle. Whether rallying battalions of troops or skirmishing with smaller parties, these bards lead allies to glory with their commanding presence and strategic genius.
-
-**Victory Progression**
-
-| Bard Level | Features |
-|---|---|
-| 3rd | Battle March, Bonus Proficiencies, Expanded Talent List |
-| 7th | Multiattack (2/Attack Action) |
-| 11th | Unified Front |
-| 15th | Inspired Strike |
-
-### Battle March
-
-*3rd-Level Victory Feature*
-
-You gain the following Bardic Performance option.
-
-#### Bardic Performance: Battle March
-
-When you use your Bardic Performance feature and as part of each bonus action spent maintaining it, you can command up to three willing allies, who can hear or see you, to use their reaction to move up to half their speed. This movement doesn’t provoke opportunity attacks.
-
-### Bonus Proficiencies
-
-*3rd-Level College of Victory Feature*
-
-You gain proficiency with medium armor, shields, and one martial weapon of your choice.
-
-### Expanded Talent List
-
-*3rd-Level Victory Feature*
-
-When your bard level grants you the Improvement feature and you choose to gain a new talent, you can select it from either the martial or the technical talents list (see **Talents** in **Chapter 4**).
-
-### Multiattack
-
-*7th-Level Victory Feature*
-
-Your physical prowess has grown. On your turn, you can make two attacks when you take the Attack action.
-
-### Unified Front
-
-*11th-Level Victory Feature*
-
-When you are affected by a spell or feature that targets an area and requires a save—like the *[[3rd-Circle Spells#Fireball|fireball]]* spell or a dragon’s breath weapon—you can use your reaction to expend a Bardic Inspiration die and add the result to your save against the effect. On a success, any friendly creatures in the affected area automatically succeed on their saves as well.
-
-### Inspired Strike
-
-*15th-Level Victory Feature*
-
-Once per turn, when you make a weapon or spell attack roll and have at least one use of your Bardic Inspiration feature available, you can roll a Bardic Inspiration die and add the result to your attack roll. If you successfully hit with the attack, you get to keep the Bardic Inspiration die, but if you fail to hit, the die is expended.
-
-## Bard Boons
-
-%% source: Player's Guide 2 %%
-
-When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the bard class.
-
-### Heroic Boons
-
-When you reach 10th level in the bard class, you have the following additional options to choose from when selecting the boon for your Heroic Boon feature.
-
-#### Heroic Boon
-
-*10th-Level Bard Feature*
-
-Your commitment to the bard’s path grants you a powerful ability. Choose one of the following heroic boons:
-
-- **Infectious Inspiration.** When a creature adds one of your Bardic Inspiration dice (see Bardic Inspiration feature in *Player’s Guide*) to an ability check, attack roll, or save, and the roll succeeds, the creature can choose an ally it can see within 30 feet of it. That ally gains a Bardic Inspiration die. Inspiration given in this way doesn’t expend a use of your current Bardic Inspiration dice.
-
-- **Restorative Inspiration.** When a creature with one of your Bardic Inspiration dice (see Bardic Inspiration feature in *Player’s Guide*) casts a spell that restores hit points, it can choose to expend and roll the die to increase the total hit points the spell can heal by an amount equal to the result. The caster chooses how these additional hit points are distributed if the spell heals multiple targets. Alternatively, when a creature with one of your Bardic Inspiration die recovers hit points due to a spell, magic item, or class feature, it can use its reaction to roll and expend the Bardic Inspiration die to recover additional hit points equal to the result.
-
-### Epic Boons
-
-When you reach 20th level in the bard class, you have the following additional options to choose from when selecting the boon for your Epic Boon feature.
-
-#### Epic Boon
-
-*20th-Level Bard Feature*
-
-Your commitment to the bard’s path grants you a powerful new ability. You gain one of the following epic boons:
 
 - **Dual Performance.** When you use your Bardic Performance feature (see *Player’s Guide*) to begin a performance, you can choose two Bardic Performances you know and blend them together to simultaneously activate their benefits. You still must spend any actions or meet any specific requirements to activate specific effects described in either performance, but you can maintain and spend Bardic Inspiration to maintain both as you would with a single performance.
 
 - **Master Performer.** You now have unlimited uses of your Bardic Performance feature (see *Player’s Guide*). In addition, you can automatically begin a performance of your choice when initiative is rolled (no action required). As normal, you must still expend a bonus action each turn (including your first turn) to maintain this performance.
 
-## More Bard Subclasses
+%% source: Player's Guide 2: Dual Performance, Master Performer %%
 
-%% source: Player's Guide 2 %%
-At 3rd level, bards gain the Bard Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Allure, Mockery, or Sound.
+## Bard Subclasses
+
+The bardic arts are ancient and heavy with traditions handed down from master to apprentice. While most bards still learn their craft from a single teacher, large settlements increasingly have colleges dedicated to training groups of students. These colleges typically focus on aspects of art deemed most useful to their patrons, which categorizes bards in ways that align with their abilities.
+
+| Subclass | Suits |
+|---|---|
+| [[#Allure\|Allure]] | Any character |
+| [[#Lore\|Lore]] | Any character |
+| [[#Mockery\|Mockery]] | Any character |
+| [[#Secrecy\|Secrecy]] | The [[The Labyrinth\|Labyrinth]] |
+| [[#Skald\|Skald]] | The [[Northlands]] |
+| [[#Sound\|Sound]] | Any character |
+| [[#Victory\|Victory]] | Any character |
+| [[#Wildlife\|Wildlife]] | The [[The Margreve\|Margreve]] forest |
 
 ## Allure
 
@@ -454,6 +332,59 @@ The duration is doubled when you cast the *[[1st-Circle Spells#Disguise Self|dis
 
 In addition, when you make a save to maintain concentration on a spell from the illusion school and have at least one use of your Bardic Inspiration feature (see *Player’s Guide*) available, you can use it to roll a Bardic Inspiration die and add the number rolled to your save. If you succeed on the save, you get to keep the Bardic Inspiration die, but if you fail, the die is expended.
 
+## Lore
+
+Bards who align with the college of Lore value knowledge most highly. Many from this college are preoccupied with preserving ancient rituals, folklore, and stories—or recovering such things that were lost. These bards glean wisdom from all manner of cultures and sources, allowing them to utilize their magic and talents in novel ways.
+
+**Lore Progression**
+
+| Bard Level | Features |
+|---|---|
+| 3rd | Bardic Performance: Ode to Heroes, Expanded Talent List, Jack of All Trades |
+| 7th | Swift Ritual |
+| 11th | Magical Rites |
+| 15th | Peerless Skill |
+
+### Bardic Performance
+
+*3rd-Level Lore Feature*
+
+You gain the following Bardic Performance option.
+
+#### Bardic Performance: Ode to Heroes
+
+You invoke songs and stories of legend to inspire your allies to new heights of heroism and to intimidate your foes. When you use your Bardic Performance feature, choose STR, DEX, CON, INT, WIS, or CHA. While your performance lasts, allies within range have advantage on ability checks that use that ability and enemies within range have disadvantage on ability checks that use that ability.
+
+### Expanded Talent List
+
+*3rd-Level Lore Feature*
+
+When you gain a new talent, you can select it from either the magic or the technical talents list (see **Talents** in **Chapter 4**).
+
+### Jack of All Trades
+
+*3rd-Level Lore Feature*
+
+You make it your business to collect lessons and practical guidance from the stories, songs, and cultures you encounter. You can add half your PB, rounded down, to any ability check you make that doesn’t already include your PB.
+
+### Swift Ritual
+
+*7th-Level Lore Feature*
+
+You can cast an Arcane ritual you know as an action, instead of using the ritual’s listed casting time. You must still provide all other components necessary for the casting. Once used, you can't use this feature again until you finish a long rest.
+
+### Magical Rites
+
+*11th-Level Lore Feature*
+
+You learn two ritual spells of your choice from any source list. Each spell you choose must be of a circle for which you have spell slots, as shown in the **Bard Progression** table. The chosen rituals count as Arcane spells for you and aren't included in the number in the Rituals Known column of the **Bard Progression** table.
+
+### Peerless Skill
+
+*15th-Level Lore Feature*
+
+When you make an ability check and have at least one use of your Bardic Inspiration feature available, you can use it to roll a Bardic Inspiration die and add the number rolled to your ability check. If you succeed on the check, you get to keep the Bardic Inspiration die, but if you fail the check, the die is expended.
+
 ## Mockery
 
 %% source: Player's Guide 2 %%
@@ -508,140 +439,6 @@ Your insults are so crushing that even creatures with strong mental defenses wil
 Your banter and mockery can enrage creatures. As an action, choose a number of creatures up to your PB that you can see within 30 feet of you. Each target must make a WIS save against your spell save DC or succumb to a fit of rage for 1 minute. While in such a fit, a target is unable to distinguish friend from foe and must attack the nearest creature on its turn. If no other creature is near enough to move to and attack, the target stalks off in a random direction, seeking a target for its rage. A target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 
 Once used, you can’t use this feature again until you finish a long rest.
-
-## Sound
-
-%% source: Player's Guide 2 %%
-
-Bards aligned with the college of Sound are often drawn to it out of a desire to master their musical talents. Those with perfect pitch or who are virtuosos with the lute are common among the college’s members. But it is those who move beyond the simple creation of sound, who learn to truly manipulate it—not just with music but with magic— that truly capture what it means to be a master of sound.
-
-*Sound Progression*
-
-| Bard Level | Features |
-|---|---|
-| 3rd | Amplify/Dampen, Bardic Performance: Spell Syncopation, Echolocation |
-| 7th | Cacophonous Burst |
-| 11th | Somatic Semantics |
-| 15th | Inspired Syncopation |
-
-### Amplify/Dampen
-
-*3rd-Level Sound Feature*
-
-You learn the *[[Cantrips#Message|message]]* and *[[Cantrips#Thaumaturgy|thaumaturgy]]* cantrips and the *[[2nd-Circle Spells#Silence|silence]]* spell if you don’t already know them. These spells count as Arcane spells when you cast them, but they don’t count against the number of cantrips or spells you know as listed in the **Bard Progression** table (see *Player’s Guide*). When you learn a new spell from gaining a level in this class, you can learn any spell that creates sound (other than words or verbal components), dampens sound, or enhances a creature’s ability to observe sound. These spells can come from any source spell list and count as Arcane spells when you cast them.
-
-In addition, when you cast the *[[2nd-Circle Spells#Silence|silence]]* spell, you can exclude a number of creatures from its effects equal to your PB, and if one of your spells normally causes sound (such as the *[[1st-Circle Spells#Thunderwave|thunderwave]]* spell), you can choose to either make it silent or up to twice as loud, increasing the range at which it is audible.
-
-### Bardic Performance
-
-*3rd-Level Sound Feature*
-
-You gain the following Bardic Performance option.
-
-#### Bardic Performance: Spell Syncopation
-
-Your performance subtly manipulates the magic sounds of spellcasting, inhibiting or enhancing the spells. While your performance lasts, hostile creatures within range reduce spell attack bonuses and spell save DCs by an amount equal to half your PB (rounded down), and friendly creatures (which includes you) within range increase spell attack bonuses and spell save DCs by an amount equal to half your PB (rounded down).
-
-### Echolocation
-
-*3rd-Level Sound Feature*
-
-You learn how to use sound to perceive things your eyes can’t. You have keensense to a range of 10 feet, but you lose this sense while deafened. Starting at 7th level, the range increases to 15 feet and by an additional 5 feet at 11th level (20 feet), 15th level (25 feet), and 20th level (30 feet).
-
-### Cacophonous Burst
-
-*7th-Level Sound Feature*
-
-When a friendly creature you inspired rolls a Bardic Inspiration die (see Bardic Inspiration feature in *Player’s* *Guide*), a burst of sound ripples out from it. Each hostile creature within 5 feet of that friendly creature must succeed on a DEX save against your spell save DC or take thunder damage equal to twice the number rolled.
-
-In addition, you can roll a Bardic Inspiration die, using one of your uses of Bardic Inspiration, to add the number rolled as thunder damage when you hit with an attack.
-
-### Somatic Semantics
-
-*11th-Level Sound Feature*
-
-Your mastery of sound affords you some protection from it and makes you less reliant on it. You are resistant to the deafened condition and to thunder damage, and you can replace the verbal components of your spells with somatic components. At the GM’s discretion, some spells might not qualify for this kind of replacement, like the *[[Cantrips#Message|message]]* spell, which requires you to speak a message.
-
-### Inspired Syncopation
-
-*15th-Level Sound Feature*
-
-As a reaction when a creature you can see within 60 feet of you (which can include yourself) makes a save to maintain concentration on a spell or effect, you can roll a Bardic Inspiration die (see Bardic Inspiration feature in *Player’s Guide*), using one of your uses of Bardic Inspiration, to add or subtract the number rolled to that save. If this results in you or an ally successfully maintaining concentration or in an enemy failing to maintain concentration, you get to keep the Bardic Inspiration die. Otherwise, the die is expended.
-
-## Old Margreve Bard Subclasses
-
-%% source: Tales of the Old Margreve %%
-
-At 3rd level, a bard gains the Bard Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Wildlife.
-
-## Wildlife
-
-%% source: Tales of the Old Margreve %%
-
-Bards who align with the college of Wildlife thrive in nature and have a natural connection with animals. These colleges are often on the outskirts of settlements with one foot in the woods and one in the streets. Whether delighting passersby with their dancing squirrel companions or leading legions of rats away from settlements, these bards excel at enchanting animals with their performances, driving the creatures to protect allies or attack enemies.
-
-*Wildlife Progression*
-
-| Bard Level | Features |
-|---|---|
-| 3rd | Bardic Performance: Hymn of the Hunt, Lasting Familiar, Nature's Call |
-| 7th | Nature's Song |
-| 11th | Shared Inspiration |
-| 15th | Inspiring Familiar |
-
-### Bardic Performance
-
-*3rd-Level Wildlife Feature*
-
-You gain the following Bardic Performance option.
-
-#### Bardic Performance: Hymn of the Hunt
-
-Your performance awakens primal fervor in your Humanoid allies, bringing them closer to nature and feeling as a unified pack alongside your bestial allies. While your performance lasts, each non-Beast ally within range has advantage on the first attack roll it makes each turn, if at least one of your Beast allies is within 5 feet of the target of the attack and that Beast isn't incapacitated.
-
-#### Player Advice: Hymn of the Hunt
-
-Although the feature is a bit more specific to Beasts and non-Beasts, the Wildlife bard's Hymn of the Hunt performance works like the Pack Tactics trait that appears on many monsters, like wolves and lions.
-
-### Lasting Familiar
-
-*3rd-Level Wildlife Feature*
-
-You learn the create familiar ritual spell if you don't already know it. This spell doesn't count against your rituals known, and you can cast it as an action. Your familiar is considered a Beast, not a Construct, and if it dies while you are still alive, it regrows a new body in 1 minute instead of 1 hour.
-
-### Nature's Call
-
-*3rd-Level Wildlife Feature*
-
-You can use an action to magically call to a creature of the natural world to aid you. The creature can be any Beast with a challenge rating (CR) of 1/4 or less, and it appears in an unoccupied space you can see within 15 feet of you. The called creature is friendly to you and your companions and obeys your verbal commands (no action required by you). In combat, it acts on your initiative count, taking its turn immediately after yours. If you don't issue any commands during combat, it takes the Dodge action and uses its movement to avoid danger. The Beast remains for 1 hour, until it dies, until you die, or until you dismiss it as a bonus action. Once you call a Beast in this way, you can't do so again until you finish a short or long rest. When you reach 11th level in this class, you can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a short or long rest.
-
-### Nature's Song
-
-*7th-Level Wildlife Feature*
-
-Creatures you call with Nature's Call or conjure with a spell are more powerful. When you create a familiar, it has additional hit points equal to twice your level in the bard class, and it gains a bonus to its armor class and saves equal to your PB. When you use your Nature's Call feature or conjure a Beast or a creature with the Animal tag—other than via the create familiar spell—each creature gains temporary hit points equal to twice your PB, and its attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage while it has temporary hit points.
-
-In addition, when you use your Nature's Call feature, you can now call Beasts or creatures with the Animal tag, or you can call a swarm of Beasts. If you call a creature with the Animal tag, it counts as a Beast when determining its interaction with your Hymn of the Hunt bardic performance. You can now also use the feature to call a number of creatures up to twice your PB, provided the combined total CR of the called creatures is no higher than 2. Creatures with a CR of 0 are treated as having a CR of 1/8 for the purpose of this calculation. This combined total CR limit increases to 3 when you reach 11th level in this class and 4 when you reach 15th.
-
-### Shared Inspiration
-
-*11th-Level Wildlife Feature*
-
-When you grant a Bardic Inspiration die to a non-Beast ally, one friendly Beast or creature with the Animal tag within 60 feet of you also gains one Bardic Inspiration die.
-
-### Inspiring Familiar
-
-*15th-Level Wildlife Feature*
-
-Your familiar's connection to you imbues it with the power to inspire other creatures as well, granting the familiar its own Bardic Inspiration feature. As a bonus action on its turn, your familiar can grant a Bardic Inspiration die, using the same die as your Bardic Inspiration, to a creature within 60 feet of it, other than itself, that can hear or see it. Your familiar can do this a number of times equal to half your PB (rounded down), and it regains all expended uses when you finish a short or long rest. When your familiar grants Bardic Inspiration to a creature, it expends its own use of its Bardic Inspiration feature, not yours. Your familiar's Bardic Inspiration feature doesn't benefit from the Shared Inspiration feature you gain from this subclass.
-
-The number of times a familiar can use this feature between rests remains the same regardless how many times the familiar dies and regrows a new body or how often you recast the create familiar spell.
-
-## Labyrinth Bard Subclasses
-
-%% source: Labyrinth Worldbook %%
-
-At 3rd level, a bard gains the Bard Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Secrecy.
 
 ## Secrecy
 
@@ -700,12 +497,6 @@ Immediately after a creature adds one of your Bardic Inspiration dice to its abi
 *15th-Level Secrecy Feature*
 
 Once per turn, when you would be hit with an attack roll and you have at least one use of your Bardic Inspiration feature available, you can roll a Bardic Inspiration die and add the result to your AC. If your new AC total is high enough to overcome the attack roll, the attack misses, and you get to keep the Bardic Inspiration die. If your new AC total isn’t enough to beat the attack roll, you take the hit, and the die is expended.
-
-## Northlands Bard Subclasses
-
-%% source: Northlands Worldbook %%
-
-At 3rd level, a bard gains the Bard Subclass feature. The following subclass from the [[Northlands]] is also available when making that choice: Skald.
 
 ## Skald
 
@@ -783,6 +574,181 @@ During the same one-hour period, you gain the following benefit.
 - When an ally you can see who is under the effect of your Battle Sagas feature fails a save, attack roll, or ability check, you can use your reaction to expend a use of your Bardic Inspiration feature. The ally can roll your Bardic Inspiration die and add it to their failed result, possibly making it a success.
 
 Once you use your Battle Sagas feature, you can’t use it again until you complete a short or long rest.
+
+## Sound
+
+%% source: Player's Guide 2 %%
+
+Bards aligned with the college of Sound are often drawn to it out of a desire to master their musical talents. Those with perfect pitch or who are virtuosos with the lute are common among the college’s members. But it is those who move beyond the simple creation of sound, who learn to truly manipulate it—not just with music but with magic— that truly capture what it means to be a master of sound.
+
+*Sound Progression*
+
+| Bard Level | Features |
+|---|---|
+| 3rd | Amplify/Dampen, Bardic Performance: Spell Syncopation, Echolocation |
+| 7th | Cacophonous Burst |
+| 11th | Somatic Semantics |
+| 15th | Inspired Syncopation |
+
+### Amplify/Dampen
+
+*3rd-Level Sound Feature*
+
+You learn the *[[Cantrips#Message|message]]* and *[[Cantrips#Thaumaturgy|thaumaturgy]]* cantrips and the *[[2nd-Circle Spells#Silence|silence]]* spell if you don’t already know them. These spells count as Arcane spells when you cast them, but they don’t count against the number of cantrips or spells you know as listed in the **Bard Progression** table (see *Player’s Guide*). When you learn a new spell from gaining a level in this class, you can learn any spell that creates sound (other than words or verbal components), dampens sound, or enhances a creature’s ability to observe sound. These spells can come from any source spell list and count as Arcane spells when you cast them.
+
+In addition, when you cast the *[[2nd-Circle Spells#Silence|silence]]* spell, you can exclude a number of creatures from its effects equal to your PB, and if one of your spells normally causes sound (such as the *[[1st-Circle Spells#Thunderwave|thunderwave]]* spell), you can choose to either make it silent or up to twice as loud, increasing the range at which it is audible.
+
+### Bardic Performance
+
+*3rd-Level Sound Feature*
+
+You gain the following Bardic Performance option.
+
+#### Bardic Performance: Spell Syncopation
+
+Your performance subtly manipulates the magic sounds of spellcasting, inhibiting or enhancing the spells. While your performance lasts, hostile creatures within range reduce spell attack bonuses and spell save DCs by an amount equal to half your PB (rounded down), and friendly creatures (which includes you) within range increase spell attack bonuses and spell save DCs by an amount equal to half your PB (rounded down).
+
+### Echolocation
+
+*3rd-Level Sound Feature*
+
+You learn how to use sound to perceive things your eyes can’t. You have keensense to a range of 10 feet, but you lose this sense while deafened. Starting at 7th level, the range increases to 15 feet and by an additional 5 feet at 11th level (20 feet), 15th level (25 feet), and 20th level (30 feet).
+
+### Cacophonous Burst
+
+*7th-Level Sound Feature*
+
+When a friendly creature you inspired rolls a Bardic Inspiration die (see Bardic Inspiration feature in *Player’s* *Guide*), a burst of sound ripples out from it. Each hostile creature within 5 feet of that friendly creature must succeed on a DEX save against your spell save DC or take thunder damage equal to twice the number rolled.
+
+In addition, you can roll a Bardic Inspiration die, using one of your uses of Bardic Inspiration, to add the number rolled as thunder damage when you hit with an attack.
+
+### Somatic Semantics
+
+*11th-Level Sound Feature*
+
+Your mastery of sound affords you some protection from it and makes you less reliant on it. You are resistant to the deafened condition and to thunder damage, and you can replace the verbal components of your spells with somatic components. At the GM’s discretion, some spells might not qualify for this kind of replacement, like the *[[Cantrips#Message|message]]* spell, which requires you to speak a message.
+
+### Inspired Syncopation
+
+*15th-Level Sound Feature*
+
+As a reaction when a creature you can see within 60 feet of you (which can include yourself) makes a save to maintain concentration on a spell or effect, you can roll a Bardic Inspiration die (see Bardic Inspiration feature in *Player’s Guide*), using one of your uses of Bardic Inspiration, to add or subtract the number rolled to that save. If this results in you or an ally successfully maintaining concentration or in an enemy failing to maintain concentration, you get to keep the Bardic Inspiration die. Otherwise, the die is expended.
+
+## Victory
+
+Bards who align with the college of Victory are tacticians who thrive in the heat of battle. Whether rallying battalions of troops or skirmishing with smaller parties, these bards lead allies to glory with their commanding presence and strategic genius.
+
+**Victory Progression**
+
+| Bard Level | Features |
+|---|---|
+| 3rd | Battle March, Bonus Proficiencies, Expanded Talent List |
+| 7th | Multiattack (2/Attack Action) |
+| 11th | Unified Front |
+| 15th | Inspired Strike |
+
+### Battle March
+
+*3rd-Level Victory Feature*
+
+You gain the following Bardic Performance option.
+
+#### Bardic Performance: Battle March
+
+When you use your Bardic Performance feature and as part of each bonus action spent maintaining it, you can command up to three willing allies, who can hear or see you, to use their reaction to move up to half their speed. This movement doesn’t provoke opportunity attacks.
+
+### Bonus Proficiencies
+
+*3rd-Level College of Victory Feature*
+
+You gain proficiency with medium armor, shields, and one martial weapon of your choice.
+
+### Expanded Talent List
+
+*3rd-Level Victory Feature*
+
+When your bard level grants you the Improvement feature and you choose to gain a new talent, you can select it from either the martial or the technical talents list (see **Talents** in **Chapter 4**).
+
+### Multiattack
+
+*7th-Level Victory Feature*
+
+Your physical prowess has grown. On your turn, you can make two attacks when you take the Attack action.
+
+### Unified Front
+
+*11th-Level Victory Feature*
+
+When you are affected by a spell or feature that targets an area and requires a save—like the *[[3rd-Circle Spells#Fireball|fireball]]* spell or a dragon’s breath weapon—you can use your reaction to expend a Bardic Inspiration die and add the result to your save against the effect. On a success, any friendly creatures in the affected area automatically succeed on their saves as well.
+
+### Inspired Strike
+
+*15th-Level Victory Feature*
+
+Once per turn, when you make a weapon or spell attack roll and have at least one use of your Bardic Inspiration feature available, you can roll a Bardic Inspiration die and add the result to your attack roll. If you successfully hit with the attack, you get to keep the Bardic Inspiration die, but if you fail to hit, the die is expended.
+
+## Wildlife
+
+%% source: Tales of the Old Margreve %%
+
+Bards who align with the college of Wildlife thrive in nature and have a natural connection with animals. These colleges are often on the outskirts of settlements with one foot in the woods and one in the streets. Whether delighting passersby with their dancing squirrel companions or leading legions of rats away from settlements, these bards excel at enchanting animals with their performances, driving the creatures to protect allies or attack enemies.
+
+*Wildlife Progression*
+
+| Bard Level | Features |
+|---|---|
+| 3rd | Bardic Performance: Hymn of the Hunt, Lasting Familiar, Nature's Call |
+| 7th | Nature's Song |
+| 11th | Shared Inspiration |
+| 15th | Inspiring Familiar |
+
+### Bardic Performance
+
+*3rd-Level Wildlife Feature*
+
+You gain the following Bardic Performance option.
+
+#### Bardic Performance: Hymn of the Hunt
+
+Your performance awakens primal fervor in your Humanoid allies, bringing them closer to nature and feeling as a unified pack alongside your bestial allies. While your performance lasts, each non-Beast ally within range has advantage on the first attack roll it makes each turn, if at least one of your Beast allies is within 5 feet of the target of the attack and that Beast isn't incapacitated.
+
+#### Player Advice: Hymn of the Hunt
+
+Although the feature is a bit more specific to Beasts and non-Beasts, the Wildlife bard's Hymn of the Hunt performance works like the Pack Tactics trait that appears on many monsters, like wolves and lions.
+
+### Lasting Familiar
+
+*3rd-Level Wildlife Feature*
+
+You learn the create familiar ritual spell if you don't already know it. This spell doesn't count against your rituals known, and you can cast it as an action. Your familiar is considered a Beast, not a Construct, and if it dies while you are still alive, it regrows a new body in 1 minute instead of 1 hour.
+
+### Nature's Call
+
+*3rd-Level Wildlife Feature*
+
+You can use an action to magically call to a creature of the natural world to aid you. The creature can be any Beast with a challenge rating (CR) of 1/4 or less, and it appears in an unoccupied space you can see within 15 feet of you. The called creature is friendly to you and your companions and obeys your verbal commands (no action required by you). In combat, it acts on your initiative count, taking its turn immediately after yours. If you don't issue any commands during combat, it takes the Dodge action and uses its movement to avoid danger. The Beast remains for 1 hour, until it dies, until you die, or until you dismiss it as a bonus action. Once you call a Beast in this way, you can't do so again until you finish a short or long rest. When you reach 11th level in this class, you can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a short or long rest.
+
+### Nature's Song
+
+*7th-Level Wildlife Feature*
+
+Creatures you call with Nature's Call or conjure with a spell are more powerful. When you create a familiar, it has additional hit points equal to twice your level in the bard class, and it gains a bonus to its armor class and saves equal to your PB. When you use your Nature's Call feature or conjure a Beast or a creature with the Animal tag—other than via the create familiar spell—each creature gains temporary hit points equal to twice your PB, and its attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage while it has temporary hit points.
+
+In addition, when you use your Nature's Call feature, you can now call Beasts or creatures with the Animal tag, or you can call a swarm of Beasts. If you call a creature with the Animal tag, it counts as a Beast when determining its interaction with your Hymn of the Hunt bardic performance. You can now also use the feature to call a number of creatures up to twice your PB, provided the combined total CR of the called creatures is no higher than 2. Creatures with a CR of 0 are treated as having a CR of 1/8 for the purpose of this calculation. This combined total CR limit increases to 3 when you reach 11th level in this class and 4 when you reach 15th.
+
+### Shared Inspiration
+
+*11th-Level Wildlife Feature*
+
+When you grant a Bardic Inspiration die to a non-Beast ally, one friendly Beast or creature with the Animal tag within 60 feet of you also gains one Bardic Inspiration die.
+
+### Inspiring Familiar
+
+*15th-Level Wildlife Feature*
+
+Your familiar's connection to you imbues it with the power to inspire other creatures as well, granting the familiar its own Bardic Inspiration feature. As a bonus action on its turn, your familiar can grant a Bardic Inspiration die, using the same die as your Bardic Inspiration, to a creature within 60 feet of it, other than itself, that can hear or see it. Your familiar can do this a number of times equal to half your PB (rounded down), and it regains all expended uses when you finish a short or long rest. When your familiar grants Bardic Inspiration to a creature, it expends its own use of its Bardic Inspiration feature, not yours. Your familiar's Bardic Inspiration feature doesn't benefit from the Shared Inspiration feature you gain from this subclass.
+
+The number of times a familiar can use this feature between rests remains the same regardless how many times the familiar dies and regrows a new body or how often you recast the create familiar spell.
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

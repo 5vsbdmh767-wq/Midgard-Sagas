@@ -160,6 +160,12 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 
 When your sorcerer level grants you the Improvement feature, you can replace one Metamagic option you know with a different Metamagic option from this list.
 
+#### Bewildering Spell
+
+%% source: Player's Guide 2 %%
+
+When you cast a spell that specifically targets a creature, you can spend 2 sorcery points to cause the spell to overwhelm the senses of its target. The target of your spell has disadvantage on the next save it makes, other than the save against this spell, within the next 1 minute.
+
 #### Careful Spell
 
 When you cast a spell that forces creatures to make a save, you can spend 1 sorcery point to exclude some of them from the effect. When you do, choose a number of those creatures up to half your sorcerer level (rounded up). A chosen creature automatically succeeds on its save and takes no damage from the spell.
@@ -169,6 +175,12 @@ You can use the Careful Spell option even if you have already used a different M
 #### Distant Spell
 
 When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to increase its range by 100 feet. Spells with a range of touch instead have their range increased to 30 feet.
+
+#### Emotional Spell
+
+%% source: Player's Guide 2 %%
+
+When you cast a spell that forces its target to make a save, you can spend 3 sorcery points to change the type of save required to a CHA save instead. This option has no effect if the target has an INT of 3 (−4) or lower.
 
 #### Empowered Spell
 
@@ -192,6 +204,12 @@ When you cast a spell with a range of self that affects an area (not a specific 
 
 When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to increase its duration to 10 minutes. Spells with a duration of 10 minutes or longer instead have their duration doubled, to a maximum duration of 24 hours.
 
+#### Fearful Spell
+
+%% source: Player's Guide 2 %%
+
+When you cast a spell that deals damage to a creature, you can spend 3 sorcery points to make the target of your spell frightened of you until the end of your next turn. If your spell affects multiple targets, you can choose only one of the targets to be frightened.
+
 #### Flexible Spell
 
 When you cast a spell, you can spend 1 sorcery point to change the spell’s damage type to any other damage type, except psychic. Spells that naturally deal psychic damage can't benefit from the Flexible Spell option.
@@ -211,6 +229,14 @@ When you cast a spell that requires an attack roll and miss, you can spend 2 sor
 #### Quickened Spell
 
 When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting. You can’t use this feature to cast two 1st-circle or higher spells on the same turn.
+
+#### Relentless Spell
+
+%% source: Player's Guide 2 %%
+
+When you cast a spell that requires an attack roll but miss, you can spend 1 sorcery point to reroll the attack roll, and you must take the new result.
+
+You can use the Relentless Spell option even if you have already used a different Metamagic option during the casting of the spell.
 
 #### Retain Spell
 
@@ -274,6 +300,12 @@ Your commitment to the sorcerer’s path grants you a powerful new ability. Choo
 
 - **Innate Spell.** You learn one spell of 1st or 2nd circle from the Arcane, Primordial, or Wyrd spell list. You can cast that spell at its lowest circle by expending a number of sorcery points equal to that spell’s circle instead of using a spell slot. When you gain a level in sorcerer, you can replace your innate spell with another spell of 1st or 2nd circle from the available lists.
 
+- **Meta Surge.** When you cast a spell modified by one or more options from your Metamagic feature (see *Player’s* *Guide*), you can choose to either add a bonus to the spell attack roll or increase the spell save DC by an amount equal to half your PB rounded down (minimum of +2).
+
+- **Secrets Within.** Immediately gain two Metamagic feature (see *Player’s Guide*) options of your choice. These options don’t count against the total number of options you know. When you gain a level in sorcerer, you can choose to replace these options as you would any other.
+
+%% source: Player's Guide 2: Meta Surge, Secrets Within %%
+
 ### Devour Spell
 
 *14th-Level Sorcerer Feature*
@@ -288,13 +320,181 @@ Once you successfully devour a spell, you can't use this feature again until you
 
 *20th-Level Sorcerer Feature*
 
-Your commitment to the sorcerer’s path grants you a powerful new ability. You gain the following epic boon:
+Your commitment to the sorcerer’s path grants you a powerful new ability. You gain one of the following epic boons:
 
 - **Arcane Conjunction.** When a spell or magical effect affects you, you can use your reaction to target one creature you can see within 120 feet of you. That creature is affected as though it were also the target. Once used, you can't use this feature again until you finish a short or long rest, unless you spend 10 sorcery points to do so.
+
+- **Boundless Magic.** Whenever you cast a spell with a 1st–4th circle spell slot, roll a d4. If the number rolled is equal to the circle of the spell slot used, the slot isn’t expended (though the spell is still cast as if you had spent it).
+
+- **Source Tap.** When you roll for initiative, you regain up to 4 expended sorcery points (see *Player’s* *Guide*). If you start your turn with no sorcery points remaining, you regain 2 sorcery points.
+
+%% source: Player's Guide 2: Boundless Magic, Source Tap %%
 
 ## Sorcerer Subclasses
 
 When you started adventuring, you might have been unaware of the source of your magical abilities. Now, as your power grows, so too does your understanding of your magic’s origins. Alternatively, you may have had a passing knowledge of your sorcerous origin long ago, but as you gain greater mastery of the magic within, you move into its fuller power.
+
+| Subclass | Suits |
+|---|---|
+| [[#Abominable\|Abominable]] | Any character |
+| [[#Ancestral\|Ancestral]] | Horror campaigns |
+| [[#Chaos\|Chaos]] | Any character |
+| [[#Cyclonic\|Cyclonic]] | Any character |
+| [[#Draconic\|Draconic]] | Any character |
+| [[#Flora\|Flora]] | The [[The Margreve\|Margreve]] forest |
+| [[#Sacred\|Sacred]] | Any character |
+| [[#Spirit Caller\|Spirit Caller]] | The [[Northlands]] |
+| [[#Umbral\|Umbral]] | The [[The Labyrinth\|Labyrinth]] |
+
+## Abominable
+
+%% source: Player's Guide 2 %%
+
+You receive your magic from the primordial beings who existed before the creation of reality and that remain uncaring about its existence or their horrific influence upon it. Whether through your lineage or some unspeakable ritual, you become a conduit for these beings’ incursions. You feel assured, however, that you will withstand the changes they evoke.
+
+*Abominable Progression*
+
+| Sorcerer Level | Features |
+|---|---|
+| 3rd | Abominable Origin Spells, Physical Mutation, Unsettling Reaction |
+| 7th | Alien Mind |
+| 11th | Beyond Death |
+| 15th | Body Warping |
+
+### Abominable Origin Spells
+
+*3rd-Level Abominable Feature*
+
+You gain origin spells at the sorcerer levels listed in the **Abominable Origin Spells** table. See the Sorcerer Subclass class feature in the *Player’s Guide* for how these spells work.
+
+*Abominable Origin Spells*
+
+| Sorcerer Level | Spells |
+|---|---|
+| 3rd | detect thoughts, ray of enfeeblement |
+| 5th | bestow curse, fear |
+| 7th | black tentacles, confusion |
+| 9th | cloudkill, telepathic bond |
+| 11th | mass suggestion, true seeing |
+
+### Physical Mutation
+
+*3rd-Level Abominable Feature*
+
+Your body undergoes subtle transformations as you embrace your otherworldly origin. Vital organs shift or merge without any negative impact to you, but they make it more difficult for others to inflict grievous harm to you. When a creature scores a critical hit against you, there is a 25 percent chance it becomes a normal hit. This increases to 50 percent at 11th level and 75 percent at 15th level. As a reaction when you take damage, you can spend 1 sorcery point (see *Player’s Guide*) to increase the percent chance by 25 percent (and automatically turning the critical hit into a normal hit at 15th level or higher).
+
+In addition, you have advantage on saves against spells and effects that would alter your form against your will.
+
+### Unsettling Reaction
+
+*3rd-Level Abominable Feature*
+
+When you reduce one or more creatures to 0 HP, one creature you can see within 30 feet of you must succeed on a WIS save against your spell save DC or be frightened until the end of its next turn. You can spend 1 sorcery point to affect one additional creature you can see within 30 feet or to extend the duration on the target to 1 minute. A frightened creature can repeat its save at the end of each of its turns, ending the effect on itself on a success.
+
+### Alien Mind
+
+*7th-Level Abominable Feature*
+
+As you become more comfortable with the eldritch realities underlying your origin, your outlook and psyche change. You have advantage on saves against being charmed or frightened. As a bonus action, you can spend 1 sorcery point to become immune to one of these conditions for 1 minute.
+
+In addition, as a reaction when a creature that isn’t an Aberration tries to read your mind or contact you telepathically, you can cause a mental backlash, your alien mind sending the creature reeling. The creature must succeed on a CHA save against your spell save DC or be stunned until the end of its next turn.
+
+### Beyond Death
+
+*11th-Level Abominable Feature*
+
+Death becomes another trivial aspect of reality you can ignore. When reduced to 0 HP, you can spend 5 sorcery points to be reduced instead to 1 HP. Until you regain hit points, your body shows signs of the trauma it endured, and you have disadvantage on all CHA ability checks except for Intimidation.
+
+Alternatively, when you are reduced to 0 HP, you can spend 3 sorcery points to grant yourself advantage on death saves for 1 minute.
+
+### Body Warping
+
+*15th-Level Abominable Feature*
+
+As an action, you can manipulate your flesh to your liking. For 1 minute or until you are knocked unconscious, you gain the following benefits:
+
+- As a bonus action, you can cast any Arcane transmutation spell without expending a spell slot and without needing spell components. To do so, the spell must have a casting time of 1 minute or less and be of a spell circle no higher than half your PB (rounded down). Regardless of the spell’s duration, the spell ends when this feature’s duration ends. If the spell requires concentration, you don’t need to maintain concentration on the spell for the duration.
+
+- If you cast a transmutation spell on another creature and it fails its save, it takes damage equal to your PB at the start of each of its turns until the spell ends. Once used, you can’t use this feature again until you finish a long rest, unless you spend 11 sorcery points to do so.
+
+## Ancestral
+
+%% source: Night Hunters %%
+
+Your magical abilities are born from an ancient curse that afflicted your ancestors. Whether such a punishment was deserved, your bloodline bears the consequence of a fateful choice made generations before you were born.
+
+**Ancestral Progression**
+
+| Sorcerer Level | Features |
+|---|---|
+| 3rd | Ancestral Origin Spells, Dark Inheritance, Well of Despair |
+| 7th | Ancient Echoes |
+| 11th | Anguish Requiem |
+| 15th | Torment Manifest |
+
+### Ancestral Origin Spells
+
+*3rd-Level Ancestral Feature*
+
+You gain origin spells at the sorcerer levels listed in the **Ancestral Origin Spells** table. See the **Sorcerer Subclass** class feature for how these spells work.
+
+**Ancestral Origin Spells**
+
+| Sorcerer Level | Spells |
+|---|---|
+| 3rd | *[[2nd-Circle Spells#Enthrall\|enthrall]]*, *[[2nd-Circle Spells#Suggestion\|suggestion]]* |
+| 5th | *[[3rd-Circle Spells#Bestow Curse\|bestow curse]]*, *[[3rd-Circle Spells#Fear\|fear]]* |
+| 7th | *[[4th-Circle Spells#Blight\|blight]]*, *[[4th-Circle Spells#Confusion\|confusion]]* |
+| 9th | *[[5th-Circle Spells#Contagion\|contagion]]*, *[[5th-Circle Spells#Dominate\|dominate]]* |
+| 11th | *[[6th-Circle Spells#Eyebite\|eyebite]]*, *[[6th-Circle Spells#Mass Suggestion\|mass suggestion]]* |
+
+### Dark Inheritance
+
+*3rd-Level Ancestral Feature*
+
+Your magical abilities are born from an ancient curse that afflicted your ancestors. Choose one of the following aspects that best represents the nature of this curse and how its power manifests in you.
+
+***Blood.*** The stain of horrific violence mars your ancestral legacy. When you reduce a creature to 0 HP, you gain temporary hit points equal to your CHA modifier that last for up to 1 minute. While you have these temporary hit points, your attacks deal an additional die of damage of the same type as that of the triggering attack, and your movement doesn’t provoke opportunity attacks.
+
+***Deed.*** Your family line is haunted by the repercussions of an act of cowardice or betrayal. As a bonus action, you can expend 1 sorcery point to regain hit points equal to 1d6 + your CHA modifier, and your AC is increased by the same amount until the end of your next turn.
+
+***Name.*** Your family was condemned because of the power or influence they once held. You are immune to the frightened condition. In addition, when you are targeted by a spell or magical effect that forces you to make an INT or WIS save, you can attempt a CHA save instead.
+
+### Well of Despair
+
+*3rd-Level Ancestral Feature*
+
+When you use a spell slot of 6th circle or lower to cast a spell modified by a metamagic option, you can choose to roll one of your unspent sorcerer hit dice. If the die result is the same number as the circle of the slot used to cast the spell, you expend the hit die and regain any sorcery points used in casting the spell, up to a maximum number of points equal to your PB. If the die result isn’t the same as the slot used, this feature has no effect, and the hit die isn’t expended.
+
+Alternatively, when you deal damage with a spell modified by a metamagic option, you can choose to expend a hit die. When you do, roll the hit die, and your spell deals additional damage equal to the result + your CHA modifier.
+
+### Ancient Echoes
+
+*7th-Level Ancestral Feature*
+
+Creatures have disadvantage on saves made to resist being charmed or frightened by you.
+
+In addition, if it’s an effect of a spell you cast with a metamagic option or from an Ancestral subclass feature, you can charm or frighten a creature that is normally immune to the charmed or frightened condition. However, such creatures have advantage on saves to resist and/or end the charmed or frightened condition.
+
+### Anguish Requiem
+
+*11th-Level Ancestral Feature*
+
+You have advantage on attack rolls against creatures that are frightened of you, and creatures that are frightened of you have disadvantage on saves against your spells.
+
+In addition, as a reaction when you cast a spell, you can target a number of creatures (up to your PB) within 60 feet that can see and hear you. Each target must succeed on a CHA save against your spell save DC or be frightened of you for 1 minute. A creature frightened in this way can repeat the save at the end of each of its turns, ending the effect on itself on a success. If a creature’s save is successful or the effect otherwise ends for it, the creature can’t be frightened by your Anguish Requiem for the next 24 hours.
+
+### Torment Manifest
+
+*15th-Level Ancestral Feature*
+
+As an action, you unmask the torment within your soul, striking terror in those who see your terrible truth. For 1 minute or until you fall unconscious, you gain the following benefits:
+
+- Creatures don’t have resistance to any damage you deal, even if they normally would have resistance. A creature can still be immune to the damage you deal.
+- Each creature of CR 10 or lower that starts its turn within 15 feet of you is frightened of you.
+- When you reduce a creature to 0 HP, you regain 20 HP.
+
+Once used, you can’t use this feature again until you either finish a long rest or expend 11 sorcery points to do so.
 
 ## Chaos
 
@@ -436,6 +636,89 @@ When you cast a spell of 6th circle or higher, you can choose to become a condui
 | 97–98 | For 1 hour, should you die, you instead remain at 1 hit point and appear in the location in which you last took a long rest. |
 | 99–100 | You regain a number of sorcery points equal to half your PB (rounded up) at the start of each of your turns for the next minute. At the end of each of your turns for the duration, you take force damage equal to the number of sorcery points you have. |
 
+## Cyclonic
+
+%% source: Player's Guide 2 %%
+
+The power of the storm thunders within you. The magic that courses through you is as inescapable as a blizzard, as undeniable as a hurricane. Highly prized as sailors and mercenaries, these powerful sorcerers, completely untethered to the earth that bore them, can unleash natural disasters as easily as an exhaled breath, empowering their spells with enough thunder and lightning to shake the earth and split the skies.
+
+*Cyclonic Progression*
+
+| Sorcerer Level | Features |
+|---|---|
+| 3rd | Cyclonic Origin Spells, Stormborn, Whirlwind Step |
+| 7th | Fulminated Magic |
+| 11th | Become Wind |
+| 15th | Raging Storm |
+
+### Cyclonic Origin Spells
+
+*3rd-Level Cyclonic Feature*
+
+You gain origin spells at the sorcerer levels listed in the **Cyclonic Origin Spells** table. See the Sorcerer Subclass class feature in the *Player’s Guide* for how these spells work.
+
+*Cyclonic Origin Spells*
+
+| Sorcerer Level | Spells |
+|---|---|
+| 3rd | gust of wind, misty step |
+| 5th | call lightning, sleet storm |
+| 7th | control water, ice storm |
+| 9th | cone of cold, flame strike |
+| 11th | freezing sphere, wind walk |
+
+### Stormborn
+
+*3rd-Level Cyclonic Feature*
+
+The storm magic within you is tied forever to the elemental planes. You gain the following benefits:
+
+- While you are outdoors on the Material Plane or the Plane of Air, your emotional state subtly influences the weather around you. You are affected by light wind (less than 10 miles per hour) or light precipitation (mild rain or snowfall, small hail, and similar) only if you allow it. You are still affected by magical or strong weather, such as the wind produced by the *[[2nd-Circle Spells#Gust of Wind|gust of wind]]* spell.
+
+- You can hold your breath for 48 hours or until you are knocked unconscious.
+
+- You can speak and understand Auran and have advantage on CHA checks made to interact with Elementals from the Plane of Air.
+
+### Whirlwind Step
+
+*3rd-Level Cyclonic Feature*
+
+Bidden by your magic, a sudden burst of wind can hurl you great distances. Once per turn, immediately after you cast a spell, you can choose to fly up to 30 feet as part of that same action. This movement does not provoke opportunity attacks.
+
+You can use this feature a number of times equal to your PB. If you have no uses remaining, you can spend 2 sorcery points (see *Player’s Guide*) to activate this feature. You regain all expended uses when you finish a short or long rest.
+
+### Fulminated Magic
+
+*7th-Level Cyclonic Feature*
+
+When you cast a spell of 1st circle or higher that deals lightning or thunder damage, you can overcharge the spell with your cyclonic magic. The first time the spell deals damage, each of its targets takes extra damage of the spell’s damage type equal to your sorcerer level. Depending on the damage type of the spell, it gains an additional effect:
+
+- **Lightning.** The spell leaps from one of your targets to a number of additional targets of your choice equal to your PB, requiring saves and dealing damage as if these other targets were also targets of the spell or in range of its effects. The lightning can only leap from a creature that has taken damage from the spell, each additional target must be within 20 feet of that target, and the lightning can’t target a creature that has already taken lightning damage from this spell.
+
+- **Thunder.** The spell blasts nearby creatures with a thunderclap. Each creature of your choice within 10 feet of the spell’s target or within 10 feet of the spell’s area takes thunder damage equal to your CHA modifier and must succeed on a STR save against your spell save DC or be knocked prone. Once used, you can’t use this feature again until you finish a short or long rest.
+
+### Become Wind
+
+*11th-Level Cyclonic Feature*
+
+You have become untethered from the world around you. You gain a flying speed equal to your walking speed, and you can hover. While hovering, you can’t be knocked prone.
+
+As an action, you can grant a number of creatures equal to your PB a flying speed equal to their walking speed for 1 hour. Once used, you can’t use this feature again until you finish a short or long rest, unless you use 5 sorcery points to do so.
+
+### Raging Storm
+
+*15th-Level Cyclonic Feature*
+
+As a bonus action, you can shroud yourself in the elemental power of raging storms, forming a 10-foot-radius sphere of tumultuous wind and lightning. The storm moves with you, remaining centered on you, and lasts for 10 minutes or until you are incapacitated or die. The area is difficult terrain for every creature but you. While the storm persists, you gain the following benefits:
+
+- A creature that enters the area for the first time on a turn or starts its turn there must make a STR save against your spell save DC. On a failure, the creature takes lightning or thunder damage (your choice) equal to 2d8 + your CHA modifier and is pushed up to 10 feet away from you. On a success, the creature takes half the damage and isn’t pushed.
+
+- Ranged and thrown weapon attack rolls against you have disadvantage.
+
+- The wind blasts away any fog, gas, or vapor that can be dispersed by wind.
+
+- You are immune to lightning and thunder damage. Once used, you can’t use this feature again until you finish a long rest, unless you spend 13 sorcery points to do so.
+
 ## Draconic
 
 Through lineage, bargain, or unrequited gift, the origins of your magic lie in the preternatural power of dragons. These beings, monumental in their age, power, and size, possess unshakeable bearing, unstoppable might, and mastery over the elements of the natural world.
@@ -521,303 +804,6 @@ Once used, you can't use this feature again until you finish a long rest, unless
 | Void | Necrotic | inflict wounds | ray of enfeeblement | vampiric touch | blight | antilife shell |
 | Yellow | Radiant | guiding bolt | moonbeam | daylight | mass faerie fire | flame strike |
 
-## Metamagic Options
-
-%% source: Player's Guide 2 %%
-
-This section lists additional metamagic options available for sorcerers to learn. See the sorcerer’s Metamagic class feature in the *Player’s Guide* for the full description of how they work.
-
-#### Bewildering Spell
-
-When you cast a spell that specifically targets a creature, you can spend 2 sorcery points to cause the spell to overwhelm the senses of its target. The target of your spell has disadvantage on the next save it makes, other than the save against this spell, within the next 1 minute.
-
-#### Emotional Spell
-
-When you cast a spell that forces its target to make a save, you can spend 3 sorcery points to change the type of save required to a CHA save instead. This option has no effect if the target has an INT of 3 (−4) or lower.
-
-#### Fearful Spell
-
-When you cast a spell that deals damage to a creature, you can spend 3 sorcery points to make the target of your spell frightened of you until the end of your next turn. If your spell affects multiple targets, you can choose only one of the targets to be frightened.
-
-#### Relentless Spell
-
-When you cast a spell that requires an attack roll but miss, you can spend 1 sorcery point to reroll the attack roll, and you must take the new result.
-
-You can use the Relentless Spell option even if you have already used a different Metamagic option during the casting of the spell.
-
-## Sorcerer Boons
-
-%% source: Player's Guide 2 %%
-
-When you reach 10th level and 20th level in your chosen class, you gain the Heroic Boon and Epic Boon class features (see *Player’s Guide*), which allow you to choose one potent ability from a list of options. This section offers additional boons to choose from when you reach those levels of the sorcerer class.
-
-### Heroic Boons
-
-When you reach 10th level in the sorcerer class, you have the following additional options to choose from when selecting the boon for your Heroic Boon feature.
-
-#### Heroic Boon
-
-*10th-Level Sorcerer Feature*
-
-Your commitment to the sorcerer’s path grants you a powerful ability. Choose one of the following heroic boons:
-
-- **Meta Surge.** When you cast a spell modified by one or more options from your Metamagic feature (see *Player’s* *Guide*), you can choose to either add a bonus to the spell attack roll or increase the spell save DC by an amount equal to half your PB rounded down (minimum of +2).
-
-- **Secrets Within.** Immediately gain two Metamagic feature (see *Player’s Guide*) options of your choice. These options don’t count against the total number of options you know. When you gain a level in sorcerer, you can choose to replace these options as you would any other.
-
-### Epic Boons
-
-When you reach 20th level in the sorcerer class, you have the following additional options to choose from when selecting the boon for your Epic Boon feature.
-
-#### Epic Boon
-
-*20th-Level Sorcerer Feature*
-
-Your commitment to the sorcerer’s path grants you a powerful new ability. You gain one of the following epic boons:
-
-- **Boundless Magic.** Whenever you cast a spell with a 1st–4th circle spell slot, roll a d4. If the number rolled is equal to the circle of the spell slot used, the slot isn’t expended (though the spell is still cast as if you had spent it).
-
-- **Source Tap.** When you roll for initiative, you regain up to 4 expended sorcery points (see *Player’s* *Guide*). If you start your turn with no sorcery points remaining, you regain 2 sorcery points.
-
-## More Sorcerer Subclasses
-
-%% source: Player's Guide 2 %%
-At 3rd level, sorcerers gain the Sorcerer Subclass feature, which offers you a choice of subclasses. The following additional subclass options are available to you when making that choice: Abominable, Cyclonic, or Sacred.
-
-## Abominable
-
-%% source: Player's Guide 2 %%
-
-You receive your magic from the primordial beings who existed before the creation of reality and that remain uncaring about its existence or their horrific influence upon it. Whether through your lineage or some unspeakable ritual, you become a conduit for these beings’ incursions. You feel assured, however, that you will withstand the changes they evoke.
-
-*Abominable Progression*
-
-| Sorcerer Level | Features |
-|---|---|
-| 3rd | Abominable Origin Spells, Physical Mutation, Unsettling Reaction |
-| 7th | Alien Mind |
-| 11th | Beyond Death |
-| 15th | Body Warping |
-
-### Abominable Origin Spells
-
-*3rd-Level Abominable Feature*
-
-You gain origin spells at the sorcerer levels listed in the **Abominable Origin Spells** table. See the Sorcerer Subclass class feature in the *Player’s Guide* for how these spells work.
-
-*Abominable Origin Spells*
-
-| Sorcerer Level | Spells |
-|---|---|
-| 3rd | detect thoughts, ray of enfeeblement |
-| 5th | bestow curse, fear |
-| 7th | black tentacles, confusion |
-| 9th | cloudkill, telepathic bond |
-| 11th | mass suggestion, true seeing |
-
-### Physical Mutation
-
-*3rd-Level Abominable Feature*
-
-Your body undergoes subtle transformations as you embrace your otherworldly origin. Vital organs shift or merge without any negative impact to you, but they make it more difficult for others to inflict grievous harm to you. When a creature scores a critical hit against you, there is a 25 percent chance it becomes a normal hit. This increases to 50 percent at 11th level and 75 percent at 15th level. As a reaction when you take damage, you can spend 1 sorcery point (see *Player’s Guide*) to increase the percent chance by 25 percent (and automatically turning the critical hit into a normal hit at 15th level or higher).
-
-In addition, you have advantage on saves against spells and effects that would alter your form against your will.
-
-### Unsettling Reaction
-
-*3rd-Level Abominable Feature*
-
-When you reduce one or more creatures to 0 HP, one creature you can see within 30 feet of you must succeed on a WIS save against your spell save DC or be frightened until the end of its next turn. You can spend 1 sorcery point to affect one additional creature you can see within 30 feet or to extend the duration on the target to 1 minute. A frightened creature can repeat its save at the end of each of its turns, ending the effect on itself on a success.
-
-### Alien Mind
-
-*7th-Level Abominable Feature*
-
-As you become more comfortable with the eldritch realities underlying your origin, your outlook and psyche change. You have advantage on saves against being charmed or frightened. As a bonus action, you can spend 1 sorcery point to become immune to one of these conditions for 1 minute.
-
-In addition, as a reaction when a creature that isn’t an Aberration tries to read your mind or contact you telepathically, you can cause a mental backlash, your alien mind sending the creature reeling. The creature must succeed on a CHA save against your spell save DC or be stunned until the end of its next turn.
-
-### Beyond Death
-
-*11th-Level Abominable Feature*
-
-Death becomes another trivial aspect of reality you can ignore. When reduced to 0 HP, you can spend 5 sorcery points to be reduced instead to 1 HP. Until you regain hit points, your body shows signs of the trauma it endured, and you have disadvantage on all CHA ability checks except for Intimidation.
-
-Alternatively, when you are reduced to 0 HP, you can spend 3 sorcery points to grant yourself advantage on death saves for 1 minute.
-
-### Body Warping
-
-*15th-Level Abominable Feature*
-
-As an action, you can manipulate your flesh to your liking. For 1 minute or until you are knocked unconscious, you gain the following benefits:
-
-- As a bonus action, you can cast any Arcane transmutation spell without expending a spell slot and without needing spell components. To do so, the spell must have a casting time of 1 minute or less and be of a spell circle no higher than half your PB (rounded down). Regardless of the spell’s duration, the spell ends when this feature’s duration ends. If the spell requires concentration, you don’t need to maintain concentration on the spell for the duration.
-
-- If you cast a transmutation spell on another creature and it fails its save, it takes damage equal to your PB at the start of each of its turns until the spell ends. Once used, you can’t use this feature again until you finish a long rest, unless you spend 11 sorcery points to do so.
-
-## Cyclonic
-
-%% source: Player's Guide 2 %%
-
-The power of the storm thunders within you. The magic that courses through you is as inescapable as a blizzard, as undeniable as a hurricane. Highly prized as sailors and mercenaries, these powerful sorcerers, completely untethered to the earth that bore them, can unleash natural disasters as easily as an exhaled breath, empowering their spells with enough thunder and lightning to shake the earth and split the skies.
-
-*Cyclonic Progression*
-
-| Sorcerer Level | Features |
-|---|---|
-| 3rd | Cyclonic Origin Spells, Stormborn, Whirlwind Step |
-| 7th | Fulminated Magic |
-| 11th | Become Wind |
-| 15th | Raging Storm |
-
-### Cyclonic Origin Spells
-
-*3rd-Level Cyclonic Feature*
-
-You gain origin spells at the sorcerer levels listed in the **Cyclonic Origin Spells** table. See the Sorcerer Subclass class feature in the *Player’s Guide* for how these spells work.
-
-*Cyclonic Origin Spells*
-
-| Sorcerer Level | Spells |
-|---|---|
-| 3rd | gust of wind, misty step |
-| 5th | call lightning, sleet storm |
-| 7th | control water, ice storm |
-| 9th | cone of cold, flame strike |
-| 11th | freezing sphere, wind walk |
-
-### Stormborn
-
-*3rd-Level Cyclonic Feature*
-
-The storm magic within you is tied forever to the elemental planes. You gain the following benefits:
-
-- While you are outdoors on the Material Plane or the Plane of Air, your emotional state subtly influences the weather around you. You are affected by light wind (less than 10 miles per hour) or light precipitation (mild rain or snowfall, small hail, and similar) only if you allow it. You are still affected by magical or strong weather, such as the wind produced by the *[[2nd-Circle Spells#Gust of Wind|gust of wind]]* spell.
-
-- You can hold your breath for 48 hours or until you are knocked unconscious.
-
-- You can speak and understand Auran and have advantage on CHA checks made to interact with Elementals from the Plane of Air.
-
-### Whirlwind Step
-
-*3rd-Level Cyclonic Feature*
-
-Bidden by your magic, a sudden burst of wind can hurl you great distances. Once per turn, immediately after you cast a spell, you can choose to fly up to 30 feet as part of that same action. This movement does not provoke opportunity attacks.
-
-You can use this feature a number of times equal to your PB. If you have no uses remaining, you can spend 2 sorcery points (see *Player’s Guide*) to activate this feature. You regain all expended uses when you finish a short or long rest.
-
-### Fulminated Magic
-
-*7th-Level Cyclonic Feature*
-
-When you cast a spell of 1st circle or higher that deals lightning or thunder damage, you can overcharge the spell with your cyclonic magic. The first time the spell deals damage, each of its targets takes extra damage of the spell’s damage type equal to your sorcerer level. Depending on the damage type of the spell, it gains an additional effect:
-
-- **Lightning.** The spell leaps from one of your targets to a number of additional targets of your choice equal to your PB, requiring saves and dealing damage as if these other targets were also targets of the spell or in range of its effects. The lightning can only leap from a creature that has taken damage from the spell, each additional target must be within 20 feet of that target, and the lightning can’t target a creature that has already taken lightning damage from this spell.
-
-- **Thunder.** The spell blasts nearby creatures with a thunderclap. Each creature of your choice within 10 feet of the spell’s target or within 10 feet of the spell’s area takes thunder damage equal to your CHA modifier and must succeed on a STR save against your spell save DC or be knocked prone. Once used, you can’t use this feature again until you finish a short or long rest.
-
-### Become Wind
-
-*11th-Level Cyclonic Feature*
-
-You have become untethered from the world around you. You gain a flying speed equal to your walking speed, and you can hover. While hovering, you can’t be knocked prone.
-
-As an action, you can grant a number of creatures equal to your PB a flying speed equal to their walking speed for 1 hour. Once used, you can’t use this feature again until you finish a short or long rest, unless you use 5 sorcery points to do so.
-
-### Raging Storm
-
-*15th-Level Cyclonic Feature*
-
-As a bonus action, you can shroud yourself in the elemental power of raging storms, forming a 10-foot-radius sphere of tumultuous wind and lightning. The storm moves with you, remaining centered on you, and lasts for 10 minutes or until you are incapacitated or die. The area is difficult terrain for every creature but you. While the storm persists, you gain the following benefits:
-
-- A creature that enters the area for the first time on a turn or starts its turn there must make a STR save against your spell save DC. On a failure, the creature takes lightning or thunder damage (your choice) equal to 2d8 + your CHA modifier and is pushed up to 10 feet away from you. On a success, the creature takes half the damage and isn’t pushed.
-
-- Ranged and thrown weapon attack rolls against you have disadvantage.
-
-- The wind blasts away any fog, gas, or vapor that can be dispersed by wind.
-
-- You are immune to lightning and thunder damage. Once used, you can’t use this feature again until you finish a long rest, unless you spend 13 sorcery points to do so.
-
-## Sacred
-
-%% source: Player's Guide 2 %%
-
-*Celestial Origin Spells*
-
-|   |   | Sorcerer Level | Spells |
-|---|---|---|---|
-|  |  | 3rd 5th 7th 9th 11th | aid, cure wounds daylight, mass healing word aura of mercy*, death ward dispel evil and good, flame strike heal, righteous fervor* |
-| Sacred Progression |  | Fiendish Origin Spells Sorcerer Level | Spells |
-| Sorcerer Level | Features | 3rd | blindness/deafness, inflict wounds |
-| 3rd | Divine Providence, Metamagic: Divine Spell, Sacred Origin Spells | 5th 7th | aura of bane*, vampiric touch blight, compulsion |
-| 7th | Divine Retribution | 9th | contagion, dispel evil and good |
-| 11th | Divine Fortitude | 11th | demonic wings*, harm |
-| 15th | Divine Conduit |  |  |
-
-Your magical power derives from a deity. An avatar or a powerful celestial or fiendish proxy might feature in your distant ancestry, or you might be linked to a major change for the deity, for good or for bad. Though you share some characteristics with clerics, you might find yourself shunned by the deity’s worshippers as a false manifestation or competitor for the “rightful” recipients of the deity’s power.
-
-### Divine Providence
-
-*3rd-Level Sacred Feature*
-
-Your divine nature grants you a minor amount of grace. If you fail a save or miss an attack roll, you can roll a d4 and add it to the total, potentially turning a failure into a success. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
-
-### Metamagic
-
-*3rd-Level Sacred Feature*
-
-You gain the following unique option for your Metamagic feature (see *Player’s Guide*). This option can’t be replaced and doesn’t count against the number of Metamagic options that you know.
-
-#### Metamagic: Divine Spell
-
-When you cast a spell that deals damage, you can spend 1 sorcery point (see *Player’s Guide*) when rolling damage to replace half the spell’s damage with necrotic damage, if you chose Fiendish origin spells, or with radiant damage, if you chose Celestial origin spells (see also **Sacred Origin Spells**). You can use this Divine Spell option even if you have already used a different Metamagic option during the casting of the spell.
-
-### Sacred Origin Spells
-
-*3rd-Level Sacred Feature*
-
-When you gain this subclass, choose if your magic derives from celestial or fiendish power. You gain origin spells at the sorcerer levels listed in the **Celestial Origin Spells** table or the **Fiendish Origin Spells** table, based on which you chose. See the Sorcerer Subclass class feature in the *Player’s Guide* for how these spells work.
-
-### Divine Retribution
-
-*7th-Level Sacred Feature*
-
-As a reaction when a creature you can see deals damage to you, you can release a backlash of divine energy. The creature must make a CON save against your spell save DC, taking necrotic damage (if you chose Fiendish origin spells) or radiant damage (if you chose Celestial origin spells) equal to the damage it dealt to you on a failed save or half as much damage on a successful one. Once used, you can’t use this feature again until you finish a short or long rest, unless you spend 3 sorcery points.
-
-### Divine Fortitude
-
-*11th-Level Sacred Feature*
-
-Divine power courses through your body, changing it in subtle ways. You are immune to disease and the poisoned condition, and you are resistant to the charmed and frightened conditions.
-
-> [!note] Domain Origin Spells
-> If you want to play a Sacred sorcerer associated with a particular god or ideal, choose a cleric subclass that fits that god or ideal. Instead of gaining the Sacred Origin Spells feature, you gain that cleric subclass’s Domain Spells feature as your origin spells. This means you gain two extra spells known at 3rd level and no new origin spells known at 11th level, but these replaced spells are otherwise origin spells for you and work as detailed in the Sorcerer Subclass feature (see *Player’s Guide*). Discuss with your GM if or how this choice will affect other features of the Sacred sorcerer subclass that reference the Sacred Origin Spells feature.
->
-
-As a bonus action, you can call on this divine power to manifest a pair of wings from your back, gaining a flying speed equal to your walking speed. They last until you dismiss them (as a bonus action). The wings have a feathered, bird-like appearance if you chose Celestial origin spells or a leathery, bat-like appearance if you chose Fiendish origin spells. The appearance of the wings is otherwise up to you. You can’t manifest your wings while wearing armor.
-
-### Divine Conduit
-
-*15th-Level Sacred Feature*
-
-As an action, you can become a conduit of divine power. This lasts for 1 hour or until you are knocked unconscious. While affected, you gain the following benefits:
-
-- Each ally within 5 feet of you has advantage on saves against spells and other magical effects and on saves against being charmed or frightened. As a bonus action, you can extend this radius to 20 feet until the start of your next turn.
-
-- If you chose Celestial origin spells, any spell you cast of 1st circle or higher that restores hit points to a creature restores 50 percent more hit points.
-
-- If you chose Fiendish origin spells, any spell you cast of 1st circle or higher that deals necrotic damage to one or more creatures also frightens any creature hit by the spell or that failed its save against the spell until the start of your next turn.
-
-- You gain a +2 bonus to AC.
-
-- You have advantage on saves against spells and other magical effects. Once used, you can’t use this feature again until you finish a long rest, unless you spend 10 sorcery points to do so.
-
-## Old Margreve Sorcerer Subclasses
-
-%% source: Tales of the Old Margreve %%
-
-At 3rd level, a sorcerer gains the Sorcerer Subclass feature. The following subclasses from the [[The Margreve|Margreve Forest]] are also available when making that choice: Flora.
-
 ## Flora
 
 %% source: Tales of the Old Margreve %%
@@ -896,93 +882,79 @@ As a bonus action, you tap into the plantlife in your blood and take on the char
 
 Once used, you can't use this feature again until you finish a long rest, unless you spend 5 sorcery points to do so.
 
-## Labyrinth Sorcerer Subclasses
+## Sacred
 
-%% source: Labyrinth Worldbook %%
+%% source: Player's Guide 2 %%
 
-At 3rd level, a sorcerer gains the Sorcerer Subclass feature. The following subclasses from the [[The Labyrinth|Labyrinth]] are also available when making that choice: Umbral.
+*Celestial Origin Spells*
 
-## Umbral
+|   |   | Sorcerer Level | Spells |
+|---|---|---|---|
+|  |  | 3rd 5th 7th 9th 11th | aid, cure wounds daylight, mass healing word aura of mercy*, death ward dispel evil and good, flame strike heal, righteous fervor* |
+| Sacred Progression |  | Fiendish Origin Spells Sorcerer Level | Spells |
+| Sorcerer Level | Features | 3rd | blindness/deafness, inflict wounds |
+| 3rd | Divine Providence, Metamagic: Divine Spell, Sacred Origin Spells | 5th 7th | aura of bane*, vampiric touch blight, compulsion |
+| 7th | Divine Retribution | 9th | contagion, dispel evil and good |
+| 11th | Divine Fortitude | 11th | demonic wings*, harm |
+| 15th | Divine Conduit |  |  |
 
-%% source: Labyrinth Worldbook %%
+Your magical power derives from a deity. An avatar or a powerful celestial or fiendish proxy might feature in your distant ancestry, or you might be linked to a major change for the deity, for good or for bad. Though you share some characteristics with clerics, you might find yourself shunned by the deity’s worshippers as a false manifestation or competitor for the “rightful” recipients of the deity’s power.
 
-Your magic comes from a shard of shadow imprinted upon your soul. Your magic may have been born from accident or design, but however it came, a force beyond the understanding of mortals has spoken to you. It now demands you embrace what lies beyond comprehension.
+### Divine Providence
 
-**Umbral Progression**
+*3rd-Level Sacred Feature*
 
-| Sorcerer Level | Features |
-|---|---|
-| 3rd | Fade Away, Umbral Origin Spells, Umbral Sight |
-| 7th | Shadow Servant |
-| 11th | Black Guard |
-| 15th | Night’s Veil |
+Your divine nature grants you a minor amount of grace. If you fail a save or miss an attack roll, you can roll a d4 and add it to the total, potentially turning a failure into a success. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
-> [!note] Umbral Sorcerers in the Labyrinth
-> Every nomadic Labyrinth culture has its own cautionary story or nursery rhyme warning expecting parents to avoid traveling in darkened worlds (see Chapter 1) and the passageways that connect to them, for children born in shadow are most vulnerable to its influence. Umbral sorcerers are individuals whose souls carry a fragment of shadow, typically because of sudden or prolonged contact with the dark powers of the [[The Shadow Realm|Shadow Realm]] (see Chapter 2). Sometimes this magical exposure is intentionally orchestrated, especially by shadow fey hoping to create powerful servants—but it is exceedingly rare for an individual to master and wield the shadow within themselves as Umbral sorcerers do.
+### Metamagic
 
-### Fade Away
+*3rd-Level Sacred Feature*
 
-*3rd-Level Umbral Feature*
+You gain the following unique option for your Metamagic feature (see *Player’s Guide*). This option can’t be replaced and doesn’t count against the number of Metamagic options that you know.
 
-While you are standing in an area of darkness or magical darkness, you can use a bonus action and expend 2 sorcery points to teleport to an unoccupied space you can see that is also in an area of darkness or magical darkness (Note that Umbral Sight, below, allows you to see even in magical darkness).
+#### Metamagic: Divine Spell
 
-### Umbral Origin Spells
+When you cast a spell that deals damage, you can spend 1 sorcery point (see *Player’s Guide*) when rolling damage to replace half the spell’s damage with necrotic damage, if you chose Fiendish origin spells, or with radiant damage, if you chose Celestial origin spells (see also **Sacred Origin Spells**). You can use this Divine Spell option even if you have already used a different Metamagic option during the casting of the spell.
 
-*3rd-Level Umbral Feature*
+### Sacred Origin Spells
 
-You gain origin spells at the sorcerer levels listed in the **Umbral Origin Spells** table. See the **Sorcerer Subclass** class feature in the *Player’s Guide* for how these spells work.
+*3rd-Level Sacred Feature*
 
-**Umbral Origin Spells**
+When you gain this subclass, choose if your magic derives from celestial or fiendish power. You gain origin spells at the sorcerer levels listed in the **Celestial Origin Spells** table or the **Fiendish Origin Spells** table, based on which you chose. See the Sorcerer Subclass class feature in the *Player’s Guide* for how these spells work.
 
-| Sorcerer Level | Spells |
-|---|---|
-| 3rd | *[[1st-Circle Spells#Bane\|bane]]*, *[[1st-Circle Spells#False Life\|false life]]* |
-| 5th | *[[2nd-Circle Spells#Darkness\|darkness]]*, *[[2nd-Circle Spells#Pass Without Trace\|pass without trace]]* |
-| 7th | *[[3rd-Circle Spells#Blink\|blink]]*, *[[3rd-Circle Spells#Fear\|fear]]* |
-| 9th | *[[4th-Circle Spells#Black Tentacles\|black tentacles]]*, *[[2nd-Circle Spells#Invisibility\|invisibility]]* |
-| 11th | *[[5th-Circle Spells#Mislead\|mislead]]*, *[[5th-Circle Spells#Seeming\|seeming]]* |
+### Divine Retribution
 
-### Umbral Sight
+*7th-Level Sacred Feature*
 
-*3rd-Level Shadow Feature*
+As a reaction when a creature you can see deals damage to you, you can release a backlash of divine energy. The creature must make a CON save against your spell save DC, taking necrotic damage (if you chose Fiendish origin spells) or radiant damage (if you chose Celestial origin spells) equal to the damage it dealt to you on a failed save or half as much damage on a successful one. Once used, you can’t use this feature again until you finish a short or long rest, unless you spend 3 sorcery points.
 
-You gain darkvision out to a range of 60 feet. If you already have darkvision, its range is increased by 30 feet. You can see in magical darkness out to a range of 30 feet.
+### Divine Fortitude
 
-At 11th level, your darkness range is increased to 120 feet, and you can see in magical darkness out to a range of 60 feet.
+*11th-Level Sacred Feature*
 
-### Shadow Servant
+Divine power courses through your body, changing it in subtle ways. You are immune to disease and the poisoned condition, and you are resistant to the charmed and frightened conditions.
 
-*7th-Level Umbral Feature*
+> [!note] Domain Origin Spells
+> If you want to play a Sacred sorcerer associated with a particular god or ideal, choose a cleric subclass that fits that god or ideal. Instead of gaining the Sacred Origin Spells feature, you gain that cleric subclass’s Domain Spells feature as your origin spells. This means you gain two extra spells known at 3rd level and no new origin spells known at 11th level, but these replaced spells are otherwise origin spells for you and work as detailed in the Sorcerer Subclass feature (see *Player’s Guide*). Discuss with your GM if or how this choice will affect other features of the Sacred sorcerer subclass that reference the Sacred Origin Spells feature.
+>
 
-You gain the ability to awaken shadows to do your bidding. As a bonus action, you can target a creature you can see within 30 feet. That creature’s shadow comes to life as a separate creature under your command, using the **shadow** *[MV]* stat block.
+As a bonus action, you can call on this divine power to manifest a pair of wings from your back, gaining a flying speed equal to your walking speed. They last until you dismiss them (as a bonus action). The wings have a feathered, bird-like appearance if you chose Celestial origin spells or a leathery, bat-like appearance if you chose Fiendish origin spells. The appearance of the wings is otherwise up to you. You can’t manifest your wings while wearing armor.
 
-The shadow appears in an unoccupied space within 5 feet of the target and can act immediately. The shadow acts on your initiative. It must spend its turn moving toward the target by the most direct route, and it can use its action only to attack the target (no action required by you to command the shadow). If the shadow hits with an attack, instead of doing any damage, the target has disadvantage on the first attack or save it makes before the start of the shadow’s next turn.
+### Divine Conduit
 
-The shadow disappears if it is reduced to 0 hit points, if its target is reduced to 0 hit points, or after 1 minute.
+*15th-Level Sacred Feature*
 
-You can use this feature a number of times equal to your PB and you regain all expended uses when you finish a long rest.
+As an action, you can become a conduit of divine power. This lasts for 1 hour or until you are knocked unconscious. While affected, you gain the following benefits:
 
-### Black Guard
+- Each ally within 5 feet of you has advantage on saves against spells and other magical effects and on saves against being charmed or frightened. As a bonus action, you can extend this radius to 20 feet until the start of your next turn.
 
-*11th-Level Umbral Feature*
+- If you chose Celestial origin spells, any spell you cast of 1st circle or higher that restores hit points to a creature restores 50 percent more hit points.
 
-When a creature makes an attack roll against you, you can use your reaction to encase yourself in a 10-foot radius sphere of magical darkness (imposing disadvantage on attacks against you if the attacker can’t see through magical darkness). If the triggering attack still hits, you can’t use this feature again until you finish a short rest; otherwise, the darkness persists until the beginning of your next turn.
+- If you chose Fiendish origin spells, any spell you cast of 1st circle or higher that deals necrotic damage to one or more creatures also frightens any creature hit by the spell or that failed its save against the spell until the start of your next turn.
 
-Creatures that don’t perceive via sight are immune to this effect.
+- You gain a +2 bonus to AC.
 
-### Night’s Veil
-
-*15th-Level Umbral Feature*
-
-You can expend 4 sorcery points and use an action to emit a 15-foot-radius sphere of magical darkness centered on yourself. The sphere moves with you, and its darkness spreads around corners. When you create the sphere, you can designate any number of creatures that can see through the darkness, but otherwise, a creature with darkvision can’t see through it, and nonmagical light can’t illuminate it.
-
-The sphere lasts for 1 minute, until you are incapacitated, or until it comes into contact with sunlight. If any of this effect’s sphere overlaps with an area of light created by a spell of 7th circle or lower, the spell that created the light is dispelled.
-
-## Northlands Sorcerer Subclasses
-
-%% source: Northlands Worldbook %%
-
-At 3rd level, a sorcerer gains the Sorcerer Subclass feature. The following subclass from the [[Northlands]] is also available when making that choice: Spirit Caller.
+- You have advantage on saves against spells and other magical effects. Once used, you can’t use this feature again until you finish a long rest, unless you spend 10 sorcery points to do so.
 
 ## Spirit Caller
 
@@ -1073,90 +1045,81 @@ You can use this feature a number of times equal to your CHA modifier (minimum o
 
 Your spirit aura now extends 15 feet instead of 10 feet. In addition, an enemy that enters your aura or starts there takes 2d8 psychic damage.
 
-## Night Hunters Sorcerer Subclasses
+## Umbral
 
-%% source: Night Hunters %%
+%% source: Labyrinth Worldbook %%
 
-At 3rd level, a sorcerer gains the Sorcerer Subclass feature. The following subclass from *Night Hunters* is also available when making that choice: Ancestral.
+Your magic comes from a shard of shadow imprinted upon your soul. Your magic may have been born from accident or design, but however it came, a force beyond the understanding of mortals has spoken to you. It now demands you embrace what lies beyond comprehension.
 
-## Ancestral
-
-%% source: Night Hunters %%
-
-Your magical abilities are born from an ancient curse that afflicted your ancestors. Whether such a punishment was deserved, your bloodline bears the consequence of a fateful choice made generations before you were born.
-
-**Ancestral Progression**
+**Umbral Progression**
 
 | Sorcerer Level | Features |
 |---|---|
-| 3rd | Ancestral Origin Spells, Dark Inheritance, Well of Despair |
-| 7th | Ancient Echoes |
-| 11th | Anguish Requiem |
-| 15th | Torment Manifest |
+| 3rd | Fade Away, Umbral Origin Spells, Umbral Sight |
+| 7th | Shadow Servant |
+| 11th | Black Guard |
+| 15th | Night’s Veil |
 
-### Ancestral Origin Spells
+> [!note] Umbral Sorcerers in the Labyrinth
+> Every nomadic Labyrinth culture has its own cautionary story or nursery rhyme warning expecting parents to avoid traveling in darkened worlds (see Chapter 1) and the passageways that connect to them, for children born in shadow are most vulnerable to its influence. Umbral sorcerers are individuals whose souls carry a fragment of shadow, typically because of sudden or prolonged contact with the dark powers of the [[The Shadow Realm|Shadow Realm]] (see Chapter 2). Sometimes this magical exposure is intentionally orchestrated, especially by shadow fey hoping to create powerful servants—but it is exceedingly rare for an individual to master and wield the shadow within themselves as Umbral sorcerers do.
 
-*3rd-Level Ancestral Feature*
+### Fade Away
 
-You gain origin spells at the sorcerer levels listed in the **Ancestral Origin Spells** table. See the **Sorcerer Subclass** class feature for how these spells work.
+*3rd-Level Umbral Feature*
 
-**Ancestral Origin Spells**
+While you are standing in an area of darkness or magical darkness, you can use a bonus action and expend 2 sorcery points to teleport to an unoccupied space you can see that is also in an area of darkness or magical darkness (Note that Umbral Sight, below, allows you to see even in magical darkness).
+
+### Umbral Origin Spells
+
+*3rd-Level Umbral Feature*
+
+You gain origin spells at the sorcerer levels listed in the **Umbral Origin Spells** table. See the **Sorcerer Subclass** class feature in the *Player’s Guide* for how these spells work.
+
+**Umbral Origin Spells**
 
 | Sorcerer Level | Spells |
 |---|---|
-| 3rd | *[[2nd-Circle Spells#Enthrall\|enthrall]]*, *[[2nd-Circle Spells#Suggestion\|suggestion]]* |
-| 5th | *[[3rd-Circle Spells#Bestow Curse\|bestow curse]]*, *[[3rd-Circle Spells#Fear\|fear]]* |
-| 7th | *[[4th-Circle Spells#Blight\|blight]]*, *[[4th-Circle Spells#Confusion\|confusion]]* |
-| 9th | *[[5th-Circle Spells#Contagion\|contagion]]*, *[[5th-Circle Spells#Dominate\|dominate]]* |
-| 11th | *[[6th-Circle Spells#Eyebite\|eyebite]]*, *[[6th-Circle Spells#Mass Suggestion\|mass suggestion]]* |
+| 3rd | *[[1st-Circle Spells#Bane\|bane]]*, *[[1st-Circle Spells#False Life\|false life]]* |
+| 5th | *[[2nd-Circle Spells#Darkness\|darkness]]*, *[[2nd-Circle Spells#Pass Without Trace\|pass without trace]]* |
+| 7th | *[[3rd-Circle Spells#Blink\|blink]]*, *[[3rd-Circle Spells#Fear\|fear]]* |
+| 9th | *[[4th-Circle Spells#Black Tentacles\|black tentacles]]*, *[[2nd-Circle Spells#Invisibility\|invisibility]]* |
+| 11th | *[[5th-Circle Spells#Mislead\|mislead]]*, *[[5th-Circle Spells#Seeming\|seeming]]* |
 
-### Dark Inheritance
+### Umbral Sight
 
-*3rd-Level Ancestral Feature*
+*3rd-Level Shadow Feature*
 
-Your magical abilities are born from an ancient curse that afflicted your ancestors. Choose one of the following aspects that best represents the nature of this curse and how its power manifests in you.
+You gain darkvision out to a range of 60 feet. If you already have darkvision, its range is increased by 30 feet. You can see in magical darkness out to a range of 30 feet.
 
-***Blood.*** The stain of horrific violence mars your ancestral legacy. When you reduce a creature to 0 HP, you gain temporary hit points equal to your CHA modifier that last for up to 1 minute. While you have these temporary hit points, your attacks deal an additional die of damage of the same type as that of the triggering attack, and your movement doesn’t provoke opportunity attacks.
+At 11th level, your darkness range is increased to 120 feet, and you can see in magical darkness out to a range of 60 feet.
 
-***Deed.*** Your family line is haunted by the repercussions of an act of cowardice or betrayal. As a bonus action, you can expend 1 sorcery point to regain hit points equal to 1d6 + your CHA modifier, and your AC is increased by the same amount until the end of your next turn.
+### Shadow Servant
 
-***Name.*** Your family was condemned because of the power or influence they once held. You are immune to the frightened condition. In addition, when you are targeted by a spell or magical effect that forces you to make an INT or WIS save, you can attempt a CHA save instead.
+*7th-Level Umbral Feature*
 
-### Well of Despair
+You gain the ability to awaken shadows to do your bidding. As a bonus action, you can target a creature you can see within 30 feet. That creature’s shadow comes to life as a separate creature under your command, using the **shadow** *[MV]* stat block.
 
-*3rd-Level Ancestral Feature*
+The shadow appears in an unoccupied space within 5 feet of the target and can act immediately. The shadow acts on your initiative. It must spend its turn moving toward the target by the most direct route, and it can use its action only to attack the target (no action required by you to command the shadow). If the shadow hits with an attack, instead of doing any damage, the target has disadvantage on the first attack or save it makes before the start of the shadow’s next turn.
 
-When you use a spell slot of 6th circle or lower to cast a spell modified by a metamagic option, you can choose to roll one of your unspent sorcerer hit dice. If the die result is the same number as the circle of the slot used to cast the spell, you expend the hit die and regain any sorcery points used in casting the spell, up to a maximum number of points equal to your PB. If the die result isn’t the same as the slot used, this feature has no effect, and the hit die isn’t expended.
+The shadow disappears if it is reduced to 0 hit points, if its target is reduced to 0 hit points, or after 1 minute.
 
-Alternatively, when you deal damage with a spell modified by a metamagic option, you can choose to expend a hit die. When you do, roll the hit die, and your spell deals additional damage equal to the result + your CHA modifier.
+You can use this feature a number of times equal to your PB and you regain all expended uses when you finish a long rest.
 
-### Ancient Echoes
+### Black Guard
 
-*7th-Level Ancestral Feature*
+*11th-Level Umbral Feature*
 
-Creatures have disadvantage on saves made to resist being charmed or frightened by you.
+When a creature makes an attack roll against you, you can use your reaction to encase yourself in a 10-foot radius sphere of magical darkness (imposing disadvantage on attacks against you if the attacker can’t see through magical darkness). If the triggering attack still hits, you can’t use this feature again until you finish a short rest; otherwise, the darkness persists until the beginning of your next turn.
 
-In addition, if it’s an effect of a spell you cast with a metamagic option or from an Ancestral subclass feature, you can charm or frighten a creature that is normally immune to the charmed or frightened condition. However, such creatures have advantage on saves to resist and/or end the charmed or frightened condition.
+Creatures that don’t perceive via sight are immune to this effect.
 
-### Anguish Requiem
+### Night’s Veil
 
-*11th-Level Ancestral Feature*
+*15th-Level Umbral Feature*
 
-You have advantage on attack rolls against creatures that are frightened of you, and creatures that are frightened of you have disadvantage on saves against your spells.
+You can expend 4 sorcery points and use an action to emit a 15-foot-radius sphere of magical darkness centered on yourself. The sphere moves with you, and its darkness spreads around corners. When you create the sphere, you can designate any number of creatures that can see through the darkness, but otherwise, a creature with darkvision can’t see through it, and nonmagical light can’t illuminate it.
 
-In addition, as a reaction when you cast a spell, you can target a number of creatures (up to your PB) within 60 feet that can see and hear you. Each target must succeed on a CHA save against your spell save DC or be frightened of you for 1 minute. A creature frightened in this way can repeat the save at the end of each of its turns, ending the effect on itself on a success. If a creature’s save is successful or the effect otherwise ends for it, the creature can’t be frightened by your Anguish Requiem for the next 24 hours.
-
-### Torment Manifest
-
-*15th-Level Ancestral Feature*
-
-As an action, you unmask the torment within your soul, striking terror in those who see your terrible truth. For 1 minute or until you fall unconscious, you gain the following benefits:
-
-- Creatures don’t have resistance to any damage you deal, even if they normally would have resistance. A creature can still be immune to the damage you deal.
-- Each creature of CR 10 or lower that starts its turn within 15 feet of you is frightened of you.
-- When you reduce a creature to 0 HP, you regain 20 HP.
-
-Once used, you can’t use this feature again until you either finish a long rest or expend 11 sorcery points to do so.
+The sphere lasts for 1 minute, until you are incapacitated, or until it comes into contact with sunlight. If any of this effect’s sphere overlaps with an area of light created by a spell of 7th circle or lower, the spell that created the light is dispelled.
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>
