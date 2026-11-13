@@ -26,7 +26,7 @@ publish: true
 - [[Tumble]]
 
 ## Miscellaneous
-- [[Luck]]
+- [[Rolling the Dice#Luck|Luck]]
 - [[Monster Harvesting]]
 
 ---

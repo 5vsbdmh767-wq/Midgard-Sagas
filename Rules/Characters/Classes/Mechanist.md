@@ -102,7 +102,7 @@ A transformed shard remains in its new form until you die, use an action to retu
 
 You gain the ability to channel magical energy into items. To use this ability, you must spend 1 hour focusing on the item that you wish to augment while remaining in physical contact with it (which can be done as part of a short or long rest).
 
-You gain two augment effects of your choice. Augment effect options are detailed at the end of the class description. At certain mechanist levels, you gain additional augment effects of your choice, as shown in the [[Fighter#Martial Action|Augment Effects]] Known column of the **Mechanist Progression** table.
+You gain two augment effects of your choice. Augment effect options are detailed at the end of the class description. At certain mechanist levels, you gain additional augment effects of your choice, as shown in the [[#Augment Effects|Augment Effects]] Known column of the **Mechanist Progression** table.
 
 When you use this ability, choose an effect from those you know. Regardless of the effect, an augmented item is considered a magic item while the effect remains active. You can apply these effects to existing magic items, and any bonuses or features granted by an augment effect stack with any properties a magic item already possesses.
 

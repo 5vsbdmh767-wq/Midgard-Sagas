@@ -104,3 +104,34 @@ Fixed: two weapon descriptions (butterfly sword, sai) had table fragments in the
 Flags for Bryant:
 - Dragonscale armor (Special Armor) and Dragonhide (Armor Materials) are two takes on armor made from a dragon. Different prices and slightly different rules. Both kept.
 - Scythe, war costs 1 sp for 1d12 damage, as printed. That looks like a misprint in the book.
+
+### Stage 3: pages moved onto topic shelves (done)
+
+The Rules section now has these shelves. No page was renamed, so no links changed.
+
+- Characters: character creation, leveling, backgrounds, heritages, lineages, character themes, heroic endowments, the beast form and familiar tables. Inside it: Classes, and Talents (including Battle Tactics).
+- Equipment: as before, plus siege engines, warframes, clockwork extensions.
+- Crafting & Alchemy: as before, plus batch crafting and disenchanting.
+- Magic: spellcasting, spell lists, magic styles, spell points, Spells, Rituals, and Magic Items (which now also holds arcanepunk items and weapons of legacy).
+- Playing the Game: the core chapters and Conditions, plus six groups:
+  - Combat: called shots, injuries, DOOM, the six special melee attacks, parry, parting shots, single combat, terrain features.
+  - Downtime & Rewards: downtime, rewards, base building, monster harvesting.
+  - Trade & Business: shopping, running and creating a business, setting up shop, trade goods and money.
+  - Travel & Weather: weather, Northlands weather, waterborne travel, swimming, underwater visibility.
+  - Ships & Sea: Bryant's ship combat pages, the Northlands sea combat page, naval battles, raiding.
+  - Horror: dread, shadow tokens, curses and diseases, safety tools.
+  - Renown & Fate: reputation, flyting, prophecies and omens.
+- House Rules: unchanged.
+- Variant Rules: epic advancement (not in play).
+
+Gone: the folders Book of Blades, Trade Secrets, Expanded or Variant Rules, Nautical Rules, Backgrounds & Talents, Lineages & Heritages, Character Creation, Spellcasting.
+
+Class option pages folded into class pages (Stage 2 follow-up):
+- Fighter: all extra martial actions are in the one Martial Action list (13 actions).
+- Mechanist: all extra augment effects are in the one Augment Effects list.
+- Monk: Technique Forms is a section on the Monk page.
+- Ranger: Tracking in Combat and Booby Traps are sections on the Ranger page.
+
+Removed: the "Luck" page under variant rules. It was a word-for-word copy of the Luck rule in Rolling the Dice. The one link to it now goes there.
+
+Still to reconcile (Bryant's call, later): three ship combat systems sit side by side in Ships & Sea, and three weather systems in Travel & Weather and Combat (Terrain Features).

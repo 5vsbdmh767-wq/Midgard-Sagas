@@ -19,7 +19,7 @@ def idx():
     global _idx
     if _idx is None:
         _idx = {}
-        for p in glob.glob(V + '/Rules/Spellcasting/Spells/*.md') + glob.glob(V + '/Rules/Spellcasting/Rituals/*.md') + glob.glob(V + '/Rules/Magic Items/*.md'):
+        for p in glob.glob(V + '/Rules/Magic/Spells/*.md') + glob.glob(V + '/Rules/Magic/Rituals/*.md') + glob.glob(V + '/Rules/Magic/Magic Items/*.md'):
             n = os.path.basename(p)[:-3]
             for l in open(p, encoding='utf-8'):
                 m = re.match(r'^#{2,5} (.+?)\s*$', l)
