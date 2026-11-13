@@ -237,7 +237,7 @@ You sign a contract using your own blood as ink. The magic of the ritual shapes 
 | 3 | Hellish Mien. Your face alters into one of the scales, horns, black eyes, and sharpened fangs. You are immune to fire damage. Any creature that starts its turn within 5 feet of you takes 3d6 fire damage. |
 | 4 | Infernal Command. Your head and hands glow red‑hot. You have advantage on WIS (Insight) and CHA (Intimidation) checks, and you can detect lies spoken to you. |
 | 5 | Vertical Eyeslits. Your pupils narrow into slits, becoming deceitful and cunning. You gain an advantage on CHA (Persuasion) checks and INT (Investigation) ability checks, and you can see invisible creatures and objects as though they were visible. |
-| 6 | Voice of Temptation. Your voice becomes a seductive whisper, capable of weaving intricate lies. You gain advantage on CHA (Deception) checks and the ability to cast the *[[2nd-Circle Spells#Suggestion|suggestion]]* spell (spell save DC equal to your own) once during the duration. |
+| 6 | Voice of Temptation. Your voice becomes a seductive whisper, capable of weaving intricate lies. You gain advantage on CHA (Deception) checks and the ability to cast the *[[2nd-Circle Spells#Suggestion\|suggestion]]* spell (spell save DC equal to your own) once during the duration. |
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 8th circle or higher, you gain an additional devilish form for each circle you have access to above 7th.
 
