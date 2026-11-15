@@ -833,9 +833,11 @@ You gain origin spells at the sorcerer levels listed in the Flora Origin Spells 
 |---|---|
 | 3rd | *[[2nd-Circle Spells#Barkskin\|barkskin]]*, *[[2nd-Circle Spells#Spike Growth\|spike growth]]* |
 | 5th | *[[3rd-Circle Spells#Plant Growth\|plant growth]]*, *[[3rd-Circle Spells#Speak with Plants\|speak with plants]]* |
-| 7th | *[[4th-Circle Spells#Blight\|blight]]*, *[[5th-Circle Spells#Cloudkill\|cloudkill]]* |
+| 7th | *[[4th-Circle Spells#Blight\|blight]]*, *[[4th-Circle Spells#Freedom of Movement\|freedom of movement]]* |
 | 9th | *[[5th-Circle Spells#Tree Stride\|tree stride]]*, *[[5th-Circle Spells#Yarila and Porevit's Mantle\|yarila and porevit's mantle]]* |
 | 11th | *[[6th-Circle Spells#Transport Via Plants\|transport via plants]]*, *[[6th-Circle Spells#Wall of Thorns\|wall of thorns]]* |
+
+%% errata 2025-05-29: 7th-level row %%
 
 ### Floral Manifestation
 

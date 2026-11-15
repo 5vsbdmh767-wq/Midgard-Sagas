@@ -13,7 +13,7 @@ publish: true
 Bastet is the goddess of sunny afternoons and wild abandon, of desire, and of the hunt. She is patron of perfumers, alchemists, and everyone whose trade is beauty. As a lioness she smells of the open desert, and as the house cat she is the farmer's friend, killing the rats and snakes in the granary. She is shown with a cat's head or a lion's, golden fur, a sun or moon disk above her head, and bracelets shaped like cobras.
 
 ==**Worshipers**==
-An odd crowd: alchemists, dancers, farmers, temple courtesans, common soldiers (never officers), and the gnolls of the south, who adopted her when she married the jackal-headed Anu-Akma. The gnolls of Kesh and of Per-Bastet are devoted to her, and her standing as supreme huntress endears her to them.
+An odd crowd: alchemists, dancers, farmers, temple courtesans, common soldiers (never officers), and the gnolls of the south, who adopted her when she married the jackal-headed Anu-Akma. The gnolls of Kush and of Per-Bastet are devoted to her, and her standing as supreme huntress endears her to them.
 
 ==**Symbols and Books**==
 A cat's head beneath a sun disk, and sometimes the lion or the cobra. Everyone knows her book of sacred love poems, *Divine Lives and Desires*. Few know the darker *Words of the Huntress*.

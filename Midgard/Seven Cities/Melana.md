@@ -53,8 +53,8 @@ The busy town of Tolmezo stands at the edge of the marshes south of Melana and i
 | Place | Population | Description |
 | --- | --- | --- |
 | Melana | 39,800 (19,000 humans, 11,500 dwarves, 9,000 kobolds, 300 gearforged) | The capital, City of Iron. |
-| Brescia, the Iron Redoubt | 12,000 | A high-walled fortress city astride the road to Melana at the foot of the Ironcrags, built by the dwarves as a rearguard against raids from the cantons and garrisoned by 2,000 dwarven infantry and archers. It holds Melana's richest iron veins and deposits of silver and semiprecious stones, and it is growing fast. |
-| Schio, Gate to the North | 7,500 | A well-defended castle town where the Revolo and Templine rivers meet, directing barge trade from the river farms out to Triolo and the Middle Sea, and the wagon trade north to the [[Magdar Kingdom]] and [[Zobeck]]. |
+| Brixia, the Iron Redoubt | 12,000 | A high-walled fortress city astride the road to Melana at the foot of the Ironcrags, built by the dwarves as a rearguard against raids from the cantons and garrisoned by 2,000 dwarven infantry and archers. It holds Melana's richest iron veins and deposits of silver and semiprecious stones, and it is growing fast. |
+| Schion, Gate to the North | 7,500 | A well-defended castle town where the Revolo and Templine rivers meet, directing barge trade from the river farms out to Triolo and the Middle Sea, and the wagon trade north to the [[Magdar Kingdom]] and [[Zobeck]]. |
 | Ferriero | 2,600 | A once-independent trade town with a border castle to the south, living on trade and customs now that Melana patrols and pays for the road. |
 | Tolmezo | 1,500 | The marsh town at the start of the Floating Roads. |
 | Keep of Atranto | | A huge, heavily garrisoned keep within a day's march of Melana's largest and richest mines. |

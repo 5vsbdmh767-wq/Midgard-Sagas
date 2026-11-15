@@ -860,7 +860,7 @@ You gain ring spells at the druid levels listed in the Roses Ring Spells table. 
 
 *3rd-Level Roses Feature*
 
-You gain proficiency in the Deception, Intimidation, or Persuasion skill and with herbalist tools.
+You gain proficiency in your choice of the Deception, Intimidation, or Persuasion skill. You also gain proficiency with herbalist tools, and you double your PB for checks you make with them. %% errata 2025-05-29 %%
 
 ### Wild Shape
 
@@ -1127,7 +1127,7 @@ You gain ring spells at the druid levels listed in the Verdant Ring Spells table
 
 *3rd-Level Verdant Feature*
 
-As a bonus action, you can imbue the next attack you make or spell you cast before the start of your next turn with the power of plants. When you hit with an attack or when a creature fails a save against your spell, the target's speed is reduced by 10 feet as vines grasp at its limbs. If you score a critical hit with the attack or if a creature fails the save by 5 or more, its speed is halved instead. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+As a bonus action, you can imbue the next attack you make or spell you cast before the start of your next turn with the power of plants. When you hit with an attack or when a creature fails a save against your spell, the target's speed is reduced by 10 feet until the end of its next turn as vines grasp at its limbs. If you score a critical hit with the attack or if a creature fails the save by 5 or more, its speed is halved instead. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
 ### Wild Shape
 
@@ -1143,7 +1143,7 @@ As you advance in druid levels, you can choose more plant forms instead of beast
 
 You can't speak while in plant form—unless your new form is capable of doing so—but you do have a limited form of telepathy that allows you to communicate simple emotions and images with creatures within 30 feet of you. As normal, you can't cast spells while transformed.
 
-At higher druid levels, you can choose plant forms with a CR as high as your druid level divided by 3, rounded down. For example, upon achieving 8th level of druid, you can choose any Plant of CR 2 or lower as a known form, CR 3 or lower at 12th level, and so on. See the Appendix and Monster Vault for a selection of Plants to choose from.
+At higher druid levels, you can choose plant forms with a CR as high as your druid level divided by 3, rounded down. For example, upon achieving 6th level of druid, you can choose any Plant of CR 2 or lower as a known form, CR 3 or lower at 9th level, and so on. %% errata 2025-05-29 %% See the Appendix and Monster Vault for a selection of Plants to choose from.
 
 ### Thorny Armor
 

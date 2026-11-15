@@ -4,7 +4,7 @@ publish: true
 ---
 | Ruler | Important Personages | Population | Great Gods | Trade Goods |
 | --- | --- | --- | --- | --- |
-| King Uffi Toothless (human jarl) | Jarls Asvaldr Returned-Again of the Havardr Clan (human), Gunhilda Lefthand of the Skjoldr Clan (human), Hentgolf Trollbiter (dwarf), Veska Flamehair of the Grimthur Clan (trollkin), and Vngvarr Ironsides of the Ulfhednar Clan (human); Signy Fridrad, the king's advisor (human noble); Aldric Frostbourne (elf scholar); Juri Jensson (dwarf shipwright); Captain Hrova Mavsaer of the *Oarbound* (human pirate captain); Vetra Saltvoice (trollkin skald); Olympia Ferrymantle (dwarf scout); Hildr Ironbraid, Matron of Sif (human war priest) | About 135,500 (mostly humans, with trollkin, dwarves, goblins, ravenfolk, giantkin, werekin, and gnomes). Capital: Noatun (about 35,000) | [[Njord]] (patron), [[Yarila & Porevit\|Freyr and Freyja]], [[Wotan]], [[Thor]] | Fish, ambergris, reindeer, ships, mussels, gems, gold, iron, steel |
+| King Uffi Toothless (human jarl) | Jarls Asvaldr Returned-Again of the Havardr Clan (human), Gunhilda the Lefthanded of the Skjoldr Clan (human), Hentgolf Trollbiter (dwarf), Veska Flamehair of the Grimthur Clan (trollkin), and Yngvarr Ironsides of the Ulfhednar Clan (human); Signy Fridrad, the king's advisor (human noble); Aldric Frostbourne (elf scholar); Juri Jensson (dwarf shipwright); Captain Hrova Mavsaer of the *Oarbound* (human pirate captain); Vetra Saltvoice (trollkin skald); Olympia Ferrymantle (dwarf scout); Hildr Ironbraid, Matron of Sif (human war priest) | About 135,500 (mostly humans, with trollkin, dwarves, goblins, ravenfolk, giantkin, werekin, and gnomes). Capital: Noatun (about 35,000) | [[Njord]] (patron), [[Yarila & Porevit\|Freyr and Freyja]], [[Wotan]], [[Thor]] | Fish, ambergris, reindeer, ships, mussels, gems, gold, iron, steel |
 
 ![[Map - Trollheim.webp]]
 *Map from the Northlands Worldbook.*
@@ -48,8 +48,8 @@ He believes Trollheim's future can't be won by force alone, and he gambled on Ve
 | Hrafnkell | Hrokr Kolurson (dwarf) | Valkrath |
 | Ranulfr | Varghoss Grimolfson (human) | Skali |
 | Sigurdr | Grima Twin-Blades (dwarf) | Isby |
-| Skjoldr | Gunhilda Lefthand (human) | Amberhall |
-| Ulfhednar | Vngvarr Ironsides (human) | Varnerhall |
+| Skjoldr | Gunhilda the Lefthanded (human) | Amberhall |
+| Ulfhednar | Yngvarr Ironsides (human) | Varnerhall |
 | Clanless | Hentgolf Trollbiter (dwarf) | Jarrgard |
 
 ## Notable People
@@ -65,7 +65,7 @@ He believes Trollheim's future can't be won by force alone, and he gambled on Ve
 | Place | Description |
 | --- | --- |
 | Noatun, City of the Sea Wall | Trollheim's largest city, founded by the god Njord after he protected it from the Swive. Rare for a human city, it is built more of stone than wood, thanks to local dwarf clans. High walls face the land, and an enchanted sea wall that calms wave and weather encloses its docks and famous shipyards. It holds the Grand Temple of the [[Shield-Maidens of Sif\|Shield-Maidens]], the North's largest temple to [[Sif]]. Rich and welcoming, it hosts longships full of plunder and thirsty raiders, centaur caravans, now and then a cloud giant's flying island or a distant magician, and even trolls with gold to spend (closely watched). Uffi rules from Tannlaus Hall, hung with banners, shields, and trophies taken from raids, giants, and beasts as a pointed reminder to his jarls. Nine rival lords, each keeping a tower on the sea wall, form the core of his court. |
-| Amberhall | A large coastal village with a lively trading post, named for the amber in its hills. Its sailors are known for skill and wily evasiveness, and have sailed to distant southern cities, though lately they keep closer to home. |
+| Amberhall | The seat of Jarl Gunhilda the Lefthanded, who swears fealty to Uffi Toothless in Noatun. A large coastal village with a lively trading post, named for the amber in its hills. %% errata 2025-05-29 %% Its sailors are known for skill and wily evasiveness, and have sailed to distant southern cities, though lately they keep closer to home. |
 | Dead Skalds Tor | A bare rock pinnacle in the eastern hills, haunted by the ghosts of three dwarven skalds who charm passersby into listening to their songs until they die of hunger or cold. |
 | Great Moss Hall | A revered trollkin feast hall hidden behind a moss-covered boulder on a fjord, where trollkin shamans of [[Yarila & Porevit\|Freyr and Freyja]] hold feasts and rites. On rare nights their workings let spirits mingle with the living. Runes of great power enforce peace in the hall. |
 | [[Lodge of the Dancing Bear\|Gorsewood Lodge]] | A fortified lodge on Lake Dreken in the frontier, where senior guides of the Lodge of the Dancing Bear meet twice a year. |
@@ -76,6 +76,6 @@ He believes Trollheim's future can't be won by force alone, and he gambled on Ve
 | Skali | Walled seat of the Ranulfr Clan and a starting point for frontier expeditions. Its jarl trades protection to the ravenfolk of Wotan's Tree for prophetic blessings. |
 | Stone Meadow | A rocky meadow of dolmens guarded by a vaettir called She Who Sleeps Lightly, in life a mighty troll shaman. |
 | Threksetr | The newest jarldom, its wooden halls and stone walls still raw on a rugged hillside. Veska Flamehair rules here. |
-| Varnerhall | Jarl Vngvarr Ironsides's seat, a prosperous, well-defended village on a cliff at the end of a forested valley. It keeps good relations with the nomads who pass through and trades with them for furs, ivory, and good cold-weather gear. |
+| Varnerhall | Jarl Yngvarr Ironsides's seat, a prosperous, well-defended village on a cliff at the end of a forested valley. It shelters a goblin clan and keeps good relations with the nomads who pass through, trading with them for furs, ivory, and good cold-weather gear. |
 | Viezla | A fortified fishing village of the Havardr Clan, healing from its jarl's absence now that he has returned. |
 | Wotan's Tree | A World Tree near the mouth of the Tearstain River, one of the safest, because its [[Ravenfolk\|ravenfolk]] guardians let only those ready to fly beyond the mortal world into its branches. Legend says [[Wotan]] learned the runes here, and the ravenfolk keep a shrine to him, though few humans visit. See [[Yggdrasil]]. |

@@ -19,7 +19,7 @@ Each canton displays its own crest. Its trade goods are iron, weapons, armor, be
 
 Dwarves are reluctant to count themselves, or at least to share the count with anyone outside their own canton. The best guesses say the cantons hold as many as 150,000 dwarves and perhaps 25,000 slaves outside Grisal, most of them human.
 
-Other settlements rise and fall without being counted among the 13. The small settlements of Roglett and Mynnasgard have been inhabited for about 50 and 80 years, and are on their way to canton status. Wintersheim in the north and the dark canton of Grisal, across the River Argent near [[Blood Kingdom|Morgau and Doresh]], lie apart from the rest; varying altitudes and passes make some cantons far easier to reach than others.
+Other settlements rise and fall without being counted among the 13. The small settlements of Roglett and Mynnasgard have been inhabited for about 60 and 90 years, and are on their way to canton status. Wintersheim in the north and the dark canton of Grisal, across the River Argent near [[Blood Kingdom|Morgau and Doresh]], lie apart from the rest; varying altitudes and passes make some cantons far easier to reach than others.
 
 ## The Major Cantons
 
@@ -84,6 +84,6 @@ The ruins of Liadmura, Nest of the Eagle Emperor, stand high in the southern Iro
 |---|---|
 | Feathered Palace and Vineyards | Sacked by the dwarves but never burned. The enchanted tapestries and the unicorns of the gardens are gone, the Temple of [[Baccholon]] has lost its stained glass, and the wine cellars were carted to the Seven Cities and supposedly drunk in Triolo by an admiral celebrating the rise of human power. The throne went into a dwarven smelter. |
 | Houses of the Court of Talons | Sixteen fortified manors of the court's favored noble houses: the Griffon, Golden Hawk, Falcon, Silver Owl, Sable Owl, Bustard, Nightjar, Foxfire Bat, Wine Raven, Emerald Peacock, Pegasus, Pelican, Phoenix, Stork, Swallow, and Black Swan. Each kept archers, fliers, and soldiers trained in Valeran battle magic, and fragments of their lore survive in elfmarked families of Dornig. The houses have tall perching towers, stables for elven steeds and griffons, and defenses of plants, hidden arrow loops, illusions, and snares. Warlock's trumpetblossoms still grow at the House of the Foxfire Bat, and the Nightjar's gardens are overgrown with snow roses and umbral roses from the [[The Shadow Realm\|Shadow Realm]], whose pollen brings joy and whose thorns are poison. At least two of the court's wizards controlled portals to the shadow roads. |
-| Servants' Keep and Market | Burned, by accident or design, soon after the elves left, driving thousands of human and gnome servants to Villershall, Zigistad, Brescia, and Tijino. Goods may still be hidden in its dungeons and cisterns, but only goblins and spiders seem to like the blackened tunnels. |
+| Servants' Keep and Market | Burned, by accident or design, soon after the elves left, driving thousands of human and gnome servants to Villershall, Zigistad, Brixia, and Tijino. Goods may still be hidden in its dungeons and cisterns, but only goblins and spiders seem to like the blackened tunnels. |
 
 See also [[Customs of the Crossroads]] for the Dwarfmoot and the dwarves' thralls.
