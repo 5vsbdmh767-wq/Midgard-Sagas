@@ -1556,7 +1556,7 @@ A creature with the Shapechanger tag makes this save with disadvantage. If it fa
 
 On each of your turns after you cast this spell, you can use an action to move the beam 60 feet in any direction.
 
-***At Higher Circles.*** When you cast this spell using a spell slot of 3rd circle or higher, the damage increases by 1d10 for each slot above 3rd.
+***At Higher Circles.*** When you cast this spell using a spell slot of 3rd circle or higher, the damage increases by 1d10 for each slot above 2nd. %% errata 2025-05-29 %%
 
 ## Murder of Crows
 
@@ -2118,7 +2118,7 @@ You call upon spirits to protect a creature you can see within range. The target
 
 **Components:** V, S
 
-**Duration:** Instantaneous
+**Duration:** 1 minute %% errata 2025-05-29 %%
 
 *You create a ghostly weapon that fights at your command.*
 

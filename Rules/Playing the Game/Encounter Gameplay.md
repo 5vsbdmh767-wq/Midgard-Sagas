@@ -250,6 +250,8 @@ Certain special abilities, spells, and situations allow you to take a reaction. 
 
 You can take only one reaction until the start of your next turn. If a reaction interrupts another creature’s turn, that creature can continue its turn after the effects of the reaction are resolved.
 
+A creature that can take more than one reaction can still use only one reaction per trigger. For example, a fighter who leaves the reach of a five-headed hydra provokes only one opportunity attack, not five. If three creatures leave the reach of a hydra with at least three heads, each of them can provoke one opportunity attack. %% errata 2025-05-29 %%
+
 ##### Other Activity on Your Turn
 
 You can accomplish a variety of minor things during your turn that don’t interfere with your normal action and movement. Here are the kinds of things you might be able to accomplish in this way:
@@ -440,7 +442,7 @@ Combatants can try to escape notice by hiding (see **Hiding** under **Stealth** 
 
 When you attack a target you can’t see, you have disadvantage on the attack roll. This is true whether you’re guessing at the target’s location or targeting a creature you can hear but not see. If the target isn’t in the location you targeted, you automatically miss, though the GM might just say that you missed, not whether you guessed the target’s location correctly.
 
-When a creature can’t see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
+When a creature you can see can’t see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
 
 #### 3. Make an Attack Roll
 
@@ -596,7 +598,7 @@ Fighting underwater is a challenging environment with special rules to represent
 
 When making a **melee weapon attack**, a creature that doesn’t have a swimming speed (either natural or granted by magic) has disadvantage on attack rolls unless the weapon is a dagger, javelin, shortsword, spear, or trident.
 
-A **ranged weapon attack** can’t hit a target beyond its normal range. The attack roll has disadvantage even within normal range unless the weapon is a crossbow, net, or a weapon that is thrown like a javelin (such as a spear, trident, or dart).
+A **ranged weapon attack** can’t hit a target beyond its normal range. The attack roll has disadvantage even within normal range unless the weapon is a crossbow or a weapon that is thrown like a javelin (such as a trident or dart). %% errata 2025-05-29 %%
 
 Creatures and objects that are fully immersed in water have resistance to fire damage.
 

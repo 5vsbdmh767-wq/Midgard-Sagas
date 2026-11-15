@@ -368,7 +368,7 @@ Galleys are massive vessels ideal for transporting cargo and used by merchants t
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |---|---|---|---|---|---|
-> | +7 | −3 | +5 | +0 | +0 | +0 |
+> | +7 | −3 | +5 | — | — | — |
 >
 > ***Sails.*** While in initiative, the galley’s speed is reduced to 15 ft. when sailing against the wind. While sailing with the wind, its speed becomes 50 feet.
 >
@@ -498,7 +498,7 @@ Keelboats are small sailing vessels that operate with minimal crew. Keelboats ar
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |---|---|---|---|---|---|
-> | +3 | −2 | +1 | +0 | +0 | +0 |
+> | +6 | −2 | +1 | — | — | — |
 >
 > ***Sails.*** While in initiative, the keelboat’s speed is reduced to 15 ft. when sailing against the wind. While sailing with the wind, its speed becomes 50 feet.
 >
@@ -506,7 +506,7 @@ Keelboats are small sailing vessels that operate with minimal crew. Keelboats ar
 >
 > On its turn, the keelboat can take one action, choosing from the options below. It can’t take any actions if it has fewer than 2 crew.
 >
-> ***Fire Ballista.*** *Ranged Weapon Attack:* +6 hit, range 120/480 ft., one target. *Hit:* 16 (3d10 + 6) piercing damage.
+> ***Fire Ballista.*** *Ranged Weapon Attack:* +6 hit, range 120/480 ft., one target. *Hit:* 22 (3d10 + 6) piercing damage. %% errata 2025-05-29 %%
 >
 > ***Row.*** The keelboat takes the Dash action.
 >
@@ -635,7 +635,7 @@ Rowboats are powered by rowing and current. They can’t be rowed against any si
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |---|---|---|---|---|---|
-> | +0 | −1 | +0 | +0 | +0 | +0 |
+> | +0 | −1 | +0 | — | — | — |
 >
 > ***Lightweight.*** If the rowboat is going downstream, add the speed of the current (typically 3 miles per hour) to its speed. The rowboat’s speed is 0 ft. while traveling against any significant current.
 >
@@ -663,7 +663,7 @@ This wooden land vehicle slides atop a loose or slick surface, propelled by a si
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |---|---|---|---|---|---|
-> | +0 | +1 | +0 | +0 | +0 | +0 |
+> | +0 | +1 | +0 | — | — | — |
 >
 > ***Maneuverable.*** The sand skimmer can move up to its speed and make one 90-degree turn.
 >
@@ -818,7 +818,7 @@ Designed to transport armored combatants across battlefields, this heavy wooden 
 > *Huge Land Vehicle (15 ft. by 10 ft.)*
 > **Armor Class** 17 (damage threshold 10)
 > **Hit Points** 200
-> **Speed** 30 ft., 3 mph (72 miles per day)
+> **Speed** 25 ft., 3 mph (72 miles per day)
 > **Immune** Vehicle Resilience
 > **Initiative** 10
 > **Crew** 8
@@ -827,7 +827,7 @@ Designed to transport armored combatants across battlefields, this heavy wooden 
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |---|---|---|---|---|---|
-> | +4 | +0 | +4 | +0 | +0 | +0 |
+> | +6 | +0 | +4 | — | — | — |
 >
 > ***Armored Vehicle.*** Creatures inside the war wagon have three-quarters cover from attacks outside the wagon. ***Rolling Death*.** The war wagon can move through spaces occupied by Medium or smaller creatures. Those caught in its path must make a successful DC 13 DEX save to avoid being run over or take 22 (4d10) bludgeoning damage and be knocked prone.
 >
@@ -835,9 +835,9 @@ Designed to transport armored combatants across battlefields, this heavy wooden 
 >
 > On its turn, the war wagon can take two actions, choosing from the options below (it can take the same action multiple times). It can take only one action if it has fewer than 4 crew. It can take no actions if it has fewer than 2 crew.
 >
-> ***Ram.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 25 (6d6 + 4) bludgeoning damage.
+> ***Ram.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 23 (5d6 + 6) bludgeoning damage. %% errata 2025-05-29 %%
 >
-> ***Volley.*** *Ranged Weapon Attack:* +5 hit, range 120 ft., one target. *Hit:* 16 (3d10) piercing damage.
+> ***Volley.*** *Ranged Weapon Attack:* +6 to hit, range 120 ft., one target. *Hit:* 22 (3d10 + 6) piercing damage. %% errata 2025-05-29 %%
 >
 > ***Power Surge.*** The war wagon immediately moves up to its speed in a straight line. This action can be taken only once per turn.
 >

@@ -787,7 +787,7 @@ Once you cast this spell, you can’t do so again until seven true days have pas
 
 *7th-Circle Arcane Ritual (Abjuration)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 minute %% errata 2025-05-29 %%
 
 **Range:** Touch
 

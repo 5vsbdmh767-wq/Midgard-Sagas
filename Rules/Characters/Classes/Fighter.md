@@ -550,9 +550,9 @@ You regain all used spell slots when you finish a long rest.
 
 At 3rd level, choose three 1st-circle spells from the Arcane spell list that you know, two of which must be from either the abjuration or evocation schools.
 
-The Spells Known column of the **Spell Blade Progression** table shows when you learn additional Arcane spells. Each spell you choose must be an abjuration or evocation spell and from a circle for which you have Arcane spell slots.
+The Spells Known column of the **Spell Blade Progression** table shows when you learn additional Arcane spells. Each spell you choose must be an abjuration or evocation spell and from a circle for which you have Arcane spell slots. The spells you learn at 8th level and beyond can come from any school of magic. %% errata 2025-05-29 %%
 
-In addition, when you gain a level of fighter, you can choose one Arcane spell you know and replace it with another spell of your choice from the Arcane spell list. The replacement spell must be of a circle for which you have Arcane spell slots, and it must be an abjuration or evocation spell—unless you’re replacing the third spell you gained at 3rd level.
+In addition, when you gain a level of fighter, you can choose one Arcane spell you know and replace it with another spell of your choice from the Arcane spell list. The replacement spell must be of a circle for which you have Arcane spell slots, and it must be an abjuration or evocation spell—unless you’re replacing the third spell you gained at 3rd level or any of the spells you chose at 8th level and beyond. %% errata 2025-05-29 %%
 
 #### Spellcasting Ability
 

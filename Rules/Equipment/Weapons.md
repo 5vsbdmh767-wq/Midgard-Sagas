@@ -57,7 +57,7 @@ Martial weapons, including swords, axes, and polearms, require training to use e
 | Seax | 1 gp | 1d4 piercing | 2 lb. | Puncture | Finesse, Light |
 | Sickle | 1 gp | 1d4 slashing | 2 lb. | Hamstring | Light |
 | Snaerispear | 5 gp | 1d6 piercing | 2 lb. | Hamstring | Finesse, Thrown (1d8, range 30/90 ft.) |
-| Spear | 1 gp | 1d6/1d8 piercing | 3 lb. | Pull, Trip | Thrown (range 20/60 ft.), Versatile |
+| Spear | 1 gp | 1d6/1d8 piercing | 3 lb. | Pull, Trip | Reach, Versatile |
 | Throwing stick | 1 sp | 1d4 bludgeoning | 1 lb. | Bash | Light, Thrown (range 60/180 ft.) |
 | Tiger claws | 5 gp | 1d4 slashing | 1 lb. | — | Finesse, Light, Secure |
 | Tonfa | 2 sp | 1d4 bludgeoning | 3 lb. | Disarming Parry, Disarming Twist, Forearm Block, Hook and Pivot, Weapon Trap | Finesse, Hooked, Light, Shielding, Special |

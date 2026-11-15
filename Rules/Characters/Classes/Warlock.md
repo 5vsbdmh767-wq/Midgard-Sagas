@@ -17,7 +17,7 @@ Few understand the relationship between warlocks and their patrons, which often 
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1st | +2 | — | Eldritch Blast, Pact Boon | — | — | — | — | — | — | — |
 | 2nd | +2 | 2 | Eldritch Invocations, Spellcasting | 2 | 2 | 2 | — | — | — | — |
-| 3rd | +2 | 2 | Warlock Subclass | 2 | 3 | 3 | — | — | — | — |
+| 3rd | +2 | 2 | Pact Magic (2/Rest), Warlock Subclass | 2 | 3 | 3 | — | — | — | — |
 | 4th | +2 | 2 | Improvement | 3 | 3 | 3 | — | — | — | — |
 | 5th | +3 | 3 | Eldritch Blast (2 Beams) | 3 | 4 | 4 | 2 | — | — | — |
 | 6th | +3 | 3 | Enhanced Boon | 3 | 4 | 4 | 2 | — | — | — |
@@ -90,7 +90,7 @@ The initial pact that grants you your warlock powers is sealed with the gift of 
 
 Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
-You can transform an existing weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short or long rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears when you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+You can transform an existing melee weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short or long rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears when you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
 **Pact of the Chain** You learn a more potent version of the *[[Rituals 1st–3rd Circle#Find Familiar|find familiar]]* ritual and can cast it without the need for any material components. The spell doesn’t count against your number of spells known. A familiar summoned with this feature has the following differences from a standard familiar summoned by the spell:
 

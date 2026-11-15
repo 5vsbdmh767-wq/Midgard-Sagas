@@ -67,7 +67,7 @@ When you make an ability check while touching the shard (regardless of its curre
 
 #### Transform
 
-While touching the shard, you can use an action to transform it into any type of nonmagical weapon or shield or into any object of Medium size or smaller. The object appears in an unoccupied space within 10 feet of you, but the chosen space must contain a surface or liquid capable of supporting the object. If the object you create is of an appropriate size to be worn or held, you can choose for the object to appear in your hand or on your person. The total value (in gold pieces) of an object created can’t be more than 20 × your mechanist level.
+While touching the shard, you can use an action and expend 1 charge to transform it into any type of nonmagical weapon or shield or into any object of Medium size or smaller. The object appears in an unoccupied space within 10 feet of you, but the chosen space must contain a surface or liquid capable of supporting the object. If the object you create is of an appropriate size to be worn or held, you can choose for the object to appear in your hand or on your person. The total value (in gold pieces) of an object created can’t be more than 20 × your mechanist level.
 
 **Mechanist Progression**
 
@@ -94,7 +94,7 @@ While touching the shard, you can use an action to transform it into any type of
 | 19th | +6 | 9 | 7 | Improvement |
 | 20th | +6 | 9 | 7 | Epic Boon |
 
-A transformed shard remains in its new form until you die, use an action to return it to its original state, or use an action to transform it again. No matter what shape the shard assumes, those who handle the shard can sense something strange about its nature. The shard can’t be passed off as a typical item for purposes of buying and selling.
+A transformed shard remains in its new form until you die, use an action to return it to its original state (expending no charges), or use an action to transform it again. No matter what shape the shard assumes, those who handle the shard can sense something strange about its nature. The shard can’t be passed off as a typical item for purposes of buying and selling.
 
 ### Augment
 
@@ -102,7 +102,7 @@ A transformed shard remains in its new form until you die, use an action to retu
 
 You gain the ability to channel magical energy into items. To use this ability, you must spend 1 hour focusing on the item that you wish to augment while remaining in physical contact with it (which can be done as part of a short or long rest).
 
-You gain two augment effects of your choice. Augment effect options are detailed at the end of the class description. At certain mechanist levels, you gain additional augment effects of your choice, as shown in the [[#Augment Effects|Augment Effects]] Known column of the **Mechanist Progression** table.
+You gain two augment effects of your choice. Augment effect options are detailed at the end of the class description. At certain mechanist levels, you gain additional augment effects of your choice, as shown in the [[#Augment Effects|Augment Effects]] Known column of the **Mechanist Progression** table. When you gain a level in this class, you can choose one augment you know and replace it with another augment that you meet the prerequisites for. You can’t replace any unique augments you gain from your subclass. %% errata 2025-05-29 %%
 
 When you use this ability, choose an effect from those you know. Regardless of the effect, an augmented item is considered a magic item while the effect remains active. You can apply these effects to existing magic items, and any bonuses or features granted by an augment effect stack with any properties a magic item already possesses.
 
@@ -940,7 +940,7 @@ Mechanists who pursue the Metallurgist’s craft delight in the thrill of combat
 |---|---|
 | 3rd | Augment: Absorbing, Mystic Metal |
 | 7th | Heavy Hitter (d6) |
-| 9th | Heavy Hitter (d8), Juggernaut |
+| 11th | Heavy Hitter (d8), Juggernaut |
 | 15th | Full Metal, Heavy Hitter (d10) |
 
 ### Augment: Absorbing

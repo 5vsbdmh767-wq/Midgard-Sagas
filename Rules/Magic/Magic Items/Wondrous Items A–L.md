@@ -124,9 +124,11 @@ The *apparatus of the avian* is a Large object with AC 17 and 100 HP with a spee
 
 ## Apparatus of the Crab
 
-*Wondrous Item, Legendary 50,000 gp* This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 INT (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster. See the **Levers of the Apparatus** table for what each lever does.
+*Wondrous Item, Legendary 50,000 gp* This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 INT (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.
 
-The *[[#Apparatus of the Crab|apparatus of the crab]]* is a Large object with AC 20 and 200 HP.
+The *[[#Apparatus of the Crab|apparatus of the crab]]* is a Large object with AC 20 and 200 HP, and it is immune to poison and psychic damage. With its legs and tail extended, it has a walking speed and a swimming speed of 30 feet. It floats, and it can descend to a depth of 900 feet; below that, it takes 2d6 bludgeoning damage each minute from pressure. It needs one pilot. Its sealed compartment holds enough air for 10 hours of breathing, divided among the breathing creatures inside.
+
+A creature inside the compartment can use an action to move up to two of the levers up or down. After each use, a lever goes back to its neutral position. %% errata 2025-05-29 %%
 
 **Levers on the Apparatus**
 
@@ -602,7 +604,7 @@ The item has 3 charges and regains 1d3 expended charges daily at dusk. As part o
 
 ## Cape of the Mountebank
 
-*Wondrous Item, Rare 60,000 gp* This cape smells faintly of brimstone. While wearing it, you can use it to cast the *[[4th-Circle Spells#Dimension Door|dimension door]]* spell as an action. This property of the cape can’t be used again until the next dawn.
+*Wondrous Item, Rare 8,400 gp* This cape smells faintly of brimstone. %% errata 2025-05-29 %% While wearing it, you can use it to cast the *[[4th-Circle Spells#Dimension Door|dimension door]]* spell as an action. This property of the cape can’t be used again until the next dawn.
 
 When you disappear, you leave behind a cloud of smoke, and you appear in a cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.
 
@@ -1240,7 +1242,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ***Obsidian Steed (Very Rare, 50,000 gp).*** This polished obsidian horse can become a **nightmare** for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can’t be used again until 5 days have passed. Each time you use it, the figurine has a 10 percent chance to ignore your orders, including a command to revert to figurine form. If you mount the nightmare while it is ignoring your orders, you and the nightmare are instantly transported to a random location on the Ethereal Plane, where the nightmare reverts to figurine form.
 
-***Onyx Dog (Rare, 8,000 gp).*** This onyx statuette of a dog can become a **mastiff** for up to 6 hours. The mastiff has an INT score of 8 and can speak Common. It also has darkvision to a range of 60 feet and can see invisible creatures and objects within that range. Once it has been used, it can’t be used again until 7 days have passed.
+***Onyx Dog (Rare, 8,000 gp).*** This onyx statuette of a dog can become a **mastiff** for up to 6 hours. The mastiff has INT −1 and can speak Common. It also has darkvision to a range of 60 feet and can see invisible creatures and objects within that range. Once it has been used, it can’t be used again until 7 days have passed.
 
 ***Serpentine Owl (Rare, 8,000 gp).*** This serpentine statuette of an owl can become a **giant owl** for up to 8 hours. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence. Once it has been used, it can’t be used again until 2 days have passed.
 
@@ -1871,11 +1873,9 @@ You must have proficiency with instruments (strings) to use this lyre. The lyre 
 
 A *[[#Spell Scroll|spell scroll]]* bears the words of a single spell, written in a mystical cipher. You can read the scroll and cast its spell without providing any material components. Casting the spell by reading the scroll requires the spell’s normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.
 
-If the spell is on your source’s spell list but of a higher circle than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell’s circle. On a failed check, the spell disappears from the scroll with no other effect.
-
 The circle of the spell on the scroll determines the spell’s save DC and attack bonus, as well as the scroll’s rarity, as shown in the **Spell Scroll Rarity** table.
 
-An Arcane circle spell on a *[[#Spell Scroll|spell scroll]]* can be copied just as spells in spellbooks can be copied. When a spell is copied from a *[[#Spell Scroll|spell scroll]]*, the copier must succeed on an INT (Arcana) check with a DC equal to 10 + the spell’s circle. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the *[[#Spell Scroll|spell scroll]]* is destroyed.
+%% errata 2025-05-29: two paragraphs removed (casting a higher-circle scroll; copying a scroll into a spellbook) %%
 
 **Spell Scroll Rarity**
 

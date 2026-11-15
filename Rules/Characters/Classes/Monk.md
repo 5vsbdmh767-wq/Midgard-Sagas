@@ -134,7 +134,7 @@ You can spend 1 technique point to take the Disengage or Dash action as a bonus 
 
 *2nd-Level Monk Feature*
 
-Your speed increases by 10 feet while you aren’t wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the **Monk Progression** table.
+Your walking speed increases by 10 feet while you aren’t wearing armor or wielding a shield. %% errata 2025-05-29 %% This bonus increases when you reach certain monk levels, as shown in the **Monk Progression** table.
 
 ### Monk Subclass
 
@@ -680,7 +680,7 @@ When you first summon the dark flames, choose one of the following properties:
 
 *3rd-Level Flickering Dark Feature*
 
-With 1 minute of quiet meditation (which can be done as part of a rest), you fill the eyes of a willing creature, including yourself, with inky black shadow. Until that creature finishes a long rest, it can see in dim light, darkness, and magical darkness as if it were bright light, to a distance of 60 feet.
+With 1 minute of quiet meditation (which can be done as part of a rest), you fill the eyes of a willing creature, including yourself, with inky black shadow. Until that creature finishes a long rest, it can see in dim light, darkness, and magical darkness as if it were bright light, to a distance of 60 feet. You can have this effect active on only one creature at a time. %% errata 2025-05-29 %%
 
 At 7th level, the target can see invisible creatures. At 11th level, the target can't be blinded.
 

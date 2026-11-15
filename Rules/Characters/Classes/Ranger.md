@@ -686,8 +686,8 @@ If the spirit is reduced to 0 hit points, its body is instantly destroyed, and y
 > *Medium Beast*
 > **Armor Class** 11 + your PB (natural armor), 13 + your PB in Sturdy Form
 > **Hit Points** 5 + five × your ranger level (the companion has a number of Hit Dice [d10s] equal to your ranger level)
-> **Perception** 12
-> **Stealth** 14
+> **Perception** 10 + your PB + WIS
+> **Stealth** 10 + twice your PB + DEX %% errata 2025-05-29 %%
 > **Speed** 30 ft., climb 30 ft. (Agile only); fly 60 ft. (Avian only); swim 30 ft. (Aquatic only)
 > **Senses** darkvision 60 ft.
 > **Languages** understands the languages you speak
@@ -700,7 +700,7 @@ If the spirit is reduced to 0 hit points, its body is instantly destroyed, and y
 >
 > ***Aquatic Form.*** The spirit has a swimming speed equal to its walking speed and can hold its breath for up to 20 minutes.
 >
-> ***Avian Form.*** The spirit has a flying speed equal to its walking speed. Carrying a heavy load or creature of its size or larger while flying reduces its speed by half.
+> ***Avian Form.*** The spirit has a flying speed equal to twice its walking speed. Carrying a heavy load or creature of its size or larger while flying reduces its speed by half.
 >
 > ***Sturdy Form.*** The spirit has a natural AC 13 + your PB. In addition, the creature counts as one size larger when determining its carrying capacity and the weight it can push or drag.
 >

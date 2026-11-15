@@ -360,7 +360,7 @@ At the end of each of its turns, an affected target can make a WIS save, ending 
 
 **Range:** 90 feet
 
-**Components:** V, S, M
+**Components:** V, S %% errata 2025-05-29 %%
 
 **Duration:** Concentration, up to 1 hour
 

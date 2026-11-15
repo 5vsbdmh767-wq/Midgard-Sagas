@@ -523,7 +523,9 @@ Choose a spell source: Arcane, Divine, Primordial, or Wyrd. You must choose your
 
 When you gain your ritual book, add one ritual of each spell circle you have already unlocked via your spellcasting class. For example, a cleric who selects this talent at 4th level has spell slots for 1st and 2nd circles, so they would add one 1st-circle ritual and one 2nd-circle ritual to their book.
 
-Each time you gain access to a new circle of spell slots by gaining a level in your spellcasting class, add one new ritual spell to your book. This new ritual must be from the same circle of magic you originally chose, and it must be of a circle for which you have spell slots. For example, when a cleric reaches 5th level, they gain access to 3rd-circle spells, so the cleric would select one ritual spell of 3rd circle or lower to add to their ritual book.
+Each time you gain access to a new circle of spell slots by gaining a level in your spellcasting class, add one new ritual spell to your book. This new ritual must be from the same source of magic you originally chose, and it must be of a circle for which you have spell slots. For example, when a cleric reaches 5th level, they gain access to 3rd-circle spells, so the cleric would select one ritual spell of 3rd circle or lower to add to their ritual book.
+
+You can select this talent multiple times. Each time you do, you must choose a different source of magic. %% errata 2025-05-29 %%
 
 ## School Specialization
 

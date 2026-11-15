@@ -1108,7 +1108,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 Once you cast this spell, you can’t do so again until you complete a long rest.
 
-***At Higher Circles.*** As you unlock higher circles, this ritual grows in potency. Once you have access to 3rd-circle spell slots or higher, the healing increases by 1d8 for each slot above 3rd.
+***At Higher Circles.*** As you unlock higher circles, this ritual grows in potency. Once you have access to 3rd-circle spell slots or higher, the healing increases by 1d8 for each slot above 2nd. %% errata 2025-05-29 %%
 
 ## Purify Food and Drink
 

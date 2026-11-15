@@ -105,7 +105,7 @@ Choose one of the following improvements (ability scores can’t be raised above
 
 *5th-Level Barbarian Feature*
 
-Your speed increases by 10 feet while you aren’t wearing heavy armor. In addition, when you roll initiative, you can immediately move up to half your speed.
+Your walking speed increases by 10 feet while you aren’t wearing heavy armor. %% errata 2025-05-29 %% In addition, when you roll initiative, you can immediately move up to half your speed.
 
 **Barbarian Progression**
 
@@ -124,7 +124,7 @@ Your speed increases by 10 feet while you aren’t wearing heavy armor. In addit
 | 11th | +4 | 4 | +3 | Subclass Feature |
 | 12th | +4 | 5 | +3 | Improvement |
 | 13th | +5 | 5 | +3 | Brutal Critical (2 Dice) |
-| 14th | +5 | 5 | +3 | Persistent Rage |
+| 14th | +5 | 5 | +3 | Relentless Rage |
 | 15th | +5 | 5 | +3 | Subclass Feature |
 | 16th | +5 | 5 | +4 | Improvement |
 | 17th | +6 | 6 | +4 | Brutal Critical (3 Dice) |
@@ -245,7 +245,7 @@ Through primal rite or natural bloodthirst, some barbarians can work themselves 
 
 *3rd-Level Berserker Feature*
 
-You can choose to go into a frenzy as part of the same bonus action you use to activate your Rage feature. Once you do so, for its duration, you can make a single melee weapon attack as a bonus action on each of your turns.
+You go into a frenzy when you rage. While raging, you can make a single melee weapon attack as a bonus action on each of your turns. %% errata 2025-05-29 %%
 
 ### Ruthless Bearing
 
@@ -261,9 +261,9 @@ While raging, you gain the following benefits:
 
 - You ignore any levels of exhaustion you currently suffer for the duration of your rage.
 
-- You can’t be charmed or frightened while raging. If you are already charmed or frightened when you enter a rage, the effect is suspended for the duration of the rage.
+- You can’t be charmed or frightened. If you are already charmed or frightened when you enter a rage, the effect is suspended for the duration of the rage.
 
-- During a Frenzy, if you score a critical hit or reduce a creature to 0 HP, you gain a number of temporary hit points equal to your PB + your CON modifier. These hit points last until expended or until you finish a short or long rest.
+- If you score a critical hit or reduce a creature to 0 HP, you gain a number of temporary hit points equal to your PB + your CON modifier. These hit points last until expended or until you finish a short or long rest.
 
 ### Intimidating Presence
 
@@ -830,7 +830,7 @@ You have advantage on Perception checks and gain a +5 bonus to passive Perceptio
 
 #### Lizard
 
-Your speed increases by 10 feet, and you gain a climbing speed equal to your walking speed. In addition, when you take the Dash action, you can also gain the effects of a Disengage action in the same action.
+Your walking speed increases by 10 feet, and you gain a climbing speed equal to your walking speed. %% errata 2025-05-29 %% In addition, when you take the Dash action, you can also gain the effects of a Disengage action in the same action.
 
 #### Turtle
 

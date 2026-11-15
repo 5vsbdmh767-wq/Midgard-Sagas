@@ -59,7 +59,7 @@ At 6th level, choose two more of your proficiencies (any combination of skills o
 
 *1st-Level Rogue Feature*
 
-You know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The weapon you use must have the Finesse property or be a ranged weapon.
+You know how to strike subtly and exploit a foe’s distraction. Once on your turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The weapon you use must have the Finesse property or be a ranged weapon.
 
 You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
 
@@ -430,7 +430,7 @@ You have advantage on DEX checks made to determine your place in initiative orde
 
 When you roll Sneak Attack damage, you can reroll any number of the dice, but you must take the new result.
 
-In addition, you can apply your Sneak Attack feature to any eligible weapon attack you make as part of an attack of opportunity if you haven’t already used your Sneak Attack during the round.
+In addition, you can apply your Sneak Attack feature to any eligible weapon attack you make as part of an opportunity attack, if you haven’t used your Sneak Attack feature yet on your turn in this round. %% errata 2025-05-29 %%
 
 ## Nightblade
 

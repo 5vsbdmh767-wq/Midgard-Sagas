@@ -73,7 +73,7 @@ Some spellcasting classes have a large stockpile of spells and must plan their c
 
 ### Spellcasting Focus
 
-A spellcasting focus (see **Equipment** in **Chapter 5**) is a piece of equipment that a spellcaster can use in place of most material components for a spell. It works just a like component pouch. However, if a material component has a specific cost (for instance, the *[[2nd-Circle Spells#Continual Flame|continual flame]]* spell has a material component of ruby dust worth 50 gp), a pouch or focus can’t substitute for it.
+A spellcasting focus (see **Equipment** in **Chapter 5**) is a piece of equipment that a spellcaster can use in place of most material components for a spell. It works just like a component pouch. However, if a material component has a specific cost (for instance, the *[[2nd-Circle Spells#Continual Flame|continual flame]]* spell has a material component of ruby dust worth 50 gp), a pouch or focus can’t substitute for it.
 
 Even what is normally a non-spellcasting class can have a subclass that grants the ability to cast spells. How a subclass deals with knowing and preparing spells is detailed in its description.
 

@@ -863,7 +863,7 @@ You touch a creature that has died within the last minute and draw on its ebbing
 
 You can ingest a nonmagical fire up to the size of a Small campfire within range. The fire is stored harmlessly in your mouth and dissipates without effect if it isn’t expelled before the spell ends.
 
-Once ingested, you can spit out the stored fire as an action. If you try to hit a particular target with the flames, treat this as a ranged spell attack with a range of 10 feet. Small campfire-sized flames deal 2d6 fire damage, while Tiny torch-sized flames deal 1d6 fire damage. Once you have spit out the flames, the fire goes out immediately unless it hits flammable material that can keep it fed.
+Once ingested, you can spit out the stored fire as an action. If you try to hit a particular target with the flames, treat this as a ranged spell attack with a range of 10 feet. Small campfire-sized flames deal 2d6 fire damage, while Tiny torch-sized flames deal 1d6 fire damage. Once you have spit out the flames, the spell ends, and the fire goes out immediately unless it hits flammable material that can keep it fed. %% errata 2025-05-29 %%
 
 ## Fling
 

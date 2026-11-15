@@ -429,7 +429,7 @@ The mace regains 1d3 expended charges daily at dawn.
 
 ## Mailbreaker
 
-*Weapon (Warhammer), Common 100 gp + weapon base cost*
+*Weapon (Any Melee Weapon That Deals Bludgeoning Damage), Common 100 gp + weapon base cost* %% errata 2025-05-29 %%
 
 This hammer’s face is covered with armor-shredding teeth. When you make a successful melee weapon attack against a creature wearing armor, you can reduce your target’s AC by 1 in addition to dealing normal damage. A set of armor can’t be affected by this feature again until it is repaired. This AC reduction can be removed if a creature spends 1 hour making repairs to the damaged armor, which can be done as part of a short or long rest.
 

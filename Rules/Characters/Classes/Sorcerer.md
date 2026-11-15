@@ -192,7 +192,7 @@ You can use the Empowered Spell option even if you have already used a different
 
 When you cast a spell with a range of self that affects an area (not a specific target), you can spend 3 sorcery points to increase the size of the spell’s area of effect in one of the following ways (depending on the shape of the spell effect):
 
-- **Circle, Cylinder, or Sphere.** The radius of circle, sphere, or circular base of the cylinder increases by 5 feet. For example, the *[[2nd-Circle Spells#Darkness|darkness]]* spell could be altered to affect a 20-foot-radius sphere (instead of a 15-foot-radius sphere).
+- **Circle, Cylinder, or Sphere.** The radius of circle, sphere, or circular base of the cylinder increases by 5 feet. For example, the *[[8th-Circle Spells#Antimagic Field|antimagic field]]* spell could be altered to affect a 15-foot-radius sphere (instead of a 10-foot-radius sphere). %% errata 2025-05-29 %%
 
 - **Cone.** The cone’s size increases by 15 feet. For example, the *[[1st-Circle Spells#Burning Hands|burning hands]]* spell could be altered to affect a 30-foot cone (instead of a 15-foot cone).
 
@@ -605,11 +605,11 @@ When you cast a spell of 6th circle or higher, you can choose to become a condui
 | 41–42 | Your skin becomes translucent, showing the muscle and vein beneath. For 1 minute, you gain vulnerability to bludgeoning, piercing, and slashing damage. |
 | 43–44 | Each friendly creature within 30 feet of you can instantly choose to teleport up to 1 mile. The creature must be able to see or be familiar with the location in order to teleport there. |
 | 45–46 | One creature of your choice on the same plane as you becomes paralyzed until the end of your next turn. Creatures with legendary actions are unaffected. |
-| 47–48 | You and each hostile creature within 30 feet of you become stunned for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for all stunned creatures on a success. |
+| 47–48 | You and each hostile creature within 30 feet of you become stunned for 1 minute. A creature can make a CON save against your spell save DC at the end of each of its turns, ending the effect for all stunned creatures on a success. |
 | 49–50 | Until you finish a long rest, every word you utter sounds normal to you but is heard by others as incomprehensible babbling. This effect doesn’t impair your ability to cast spells. |
 | 51–52 | The sun or moon (depending on the time of day) is eclipsed for 10 minutes. For the duration, you are incorporeal and can move through creatures and objects as though they were difficult terrain. If you end your turn inside a creature or object, you take 1d10 force damage and are shunted to the nearest unoccupied space. |
 | 53–54 | Arcane energy thrums through you, creating an unnatural warble that is audible to a distance of 300 feet. For 1 hour, your cantrips deal additional damage equal to your CHA modifier. |
-| 55–56 | Until you finish a long rest, your movement speed increases by 15 feet. When you take the Dash action, your jump distance is tripled until the end of your turn. |
+| 55–56 | Until you finish a long rest, your walking speed increases by 15 feet. When you take the Dash action, your jump distance is tripled until the end of your turn. |
 
 |   |   |
 |---|---|
@@ -631,7 +631,7 @@ When you cast a spell of 6th circle or higher, you can choose to become a condui
 | 87–88 | A nonmagical weapon held by the target of your spell (or the closest creature holding a weapon) becomes a scorpion. The scorpion has 30 temporary hit points, INT 7 (-2), can speak Abyssal, and regards the caster as a trusted friend. |
 | 89–90 | A number of your teeth (1d4 + 1) fall out. For each tooth that hits the ground, a skeleton appears. Any such skeletons are hostile to everyone except you, and they fight until destroyed. Your teeth regrow when you finish a short or long rest. |
 | 91–92 | You and the target of your spell (if any) can choose to teleport up to 30 feet to an unoccupied space you can see. |
-| 93–94 | Each hostile creature within 30 feet of you that can see or hear you is frightened of you for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. |
+| 93–94 | Each hostile creature within 30 feet of you that can see or hear you is frightened of you for 1 minute. A creature can make a WIS save against your spell save DC at the end of each of its turns, ending the effect for itself on a success. |
 | 95–96 | Any metal weapons, armor, or jewelry you are wearing crackle with lightning and shine bright light in a 20-foot radius and dim light for an additional 10 feet for 1 minute. A creature that touches you or hits you with a melee attack takes 1d6 lightning damage. |
 | 97–98 | For 1 hour, should you die, you instead remain at 1 hit point and appear in the location in which you last took a long rest. |
 | 99–100 | You regain a number of sorcery points equal to half your PB (rounded up) at the start of each of your turns for the next minute. At the end of each of your turns for the duration, you take force damage equal to the number of sorcery points you have. |
@@ -744,11 +744,13 @@ Note that one of the spells you gain at each listed sorcerer level is determined
 
 | Sorcerer Level | Spells |
 |---|---|
-| 3rd | command, dragon ancestor spell |
-| 5th | elemental blade, dragon ancestor spell |
-| 7th | fear, dragon ancestor spell |
-| 9th | elemental shield, dragon ancestor spell |
-| 11th | dominate, dragon ancestor spell |
+| 3rd | elemental blade, dragon ancestor spell |
+| 5th | fear, dragon ancestor spell |
+| 7th | elemental shield, dragon ancestor spell |
+| 9th | dominate, dragon ancestor spell |
+| 11th | mass suggestion, dragon ancestor spell |
+
+%% errata 2025-05-29: both draconic spell tables %%
 
 ### Draconic Resilience
 
@@ -796,13 +798,13 @@ Once used, you can't use this feature again until you finish a long rest, unless
 
 | Dragon Type | Damage Type | 3rd Level | 5th Level | 7th Level | 9th Level | 11th Level |
 |---|---|---|---|---|---|---|
-| Black or Copper | Acid | grease | acid arrow | stinking cloud | stone shape | cloudkill |
-| Blue or Bronze | Lightning | thunderwave | invisibility | lightning bolt | greater invisibility | conjure elemental (air) |
-| Brass, Gold, or Red | Fire | burning hands | heat metal | fireball | wall of fire | flame strike |
-| Green | Poison | entangle | barkskin | stinking cloud | blight | contagion |
-| Silver or White | Cold | fog cloud | hold | sleet storm | ice storm | cone of cold |
-| Void | Necrotic | inflict wounds | ray of enfeeblement | vampiric touch | blight | antilife shell |
-| Yellow | Radiant | guiding bolt | moonbeam | daylight | mass faerie fire | flame strike |
+| Black or Copper | Acid | acid arrow | stinking cloud | stone shape | cloudkill | flesh to stone |
+| Blue or Bronze | Lightning | invisibility | lightning bolt | greater invisibility | conjure elemental (air) | chain lightning |
+| Brass, Gold, or Red | Fire | heat metal | fireball | wall of fire | flame strike | eyebite |
+| Green | Poison | barkskin | stinking cloud | blight | contagion | transport via plants |
+| Silver or White | Cold | hold | sleet storm | ice storm | cone of cold | wind walk |
+| Void | Necrotic | ray of enfeeblement | vampiric touch | blight | antilife shell | circle of death |
+| Yellow | Radiant | moonbeam | daylight | mass faerie fire | flame strike | sunbeam |
 
 ## Flora
 

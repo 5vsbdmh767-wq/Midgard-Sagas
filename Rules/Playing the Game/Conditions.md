@@ -49,7 +49,7 @@ Finishing a long rest reduces a creature’s exhaustion level by one, provided t
 
 ## Frightened
 
-- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
+- A frightened creature has disadvantage on ability checks and attack rolls while it can sense the source of its fear. %% errata 2025-05-29 %%
 
 - The creature can’t willingly move closer to the source of its fear.
 
@@ -63,7 +63,7 @@ Finishing a long rest reduces a creature’s exhaustion level by one, provided t
 
 ## Incapacitated
 
-- An incapacitated creature can’t take actions or reactions.
+- An incapacitated creature can’t take actions, bonus actions, or reactions. %% errata 2025-05-29 %%
 
 ## Invisible
 

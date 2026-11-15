@@ -831,7 +831,7 @@ Your Divine cantrips that deal damage deal an additional 1d8 radiant damage. In 
 
 *11th-Level Light Feature*
 
-The Searing Radiance effect of your Channel Divinity feature now causes all sources of light you’ve made to become magical sunlight for 1 minute.
+The Searing Radiance effect of your Channel Divinity feature now causes the bright light shed by all sources of light you have created to become magical sunlight for 1 minute. %% errata 2025-05-29 %%
 
 In addition, when you use your Overwhelming Flash feature against a creature, they are cursed by your luminance in one of the following ways:
 

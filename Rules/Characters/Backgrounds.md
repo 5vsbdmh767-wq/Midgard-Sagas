@@ -569,7 +569,7 @@ Perhaps you were a pickpocket jailed one too many times, a con artist hoping to 
 
 **Additional Proficiencies:** You know Thieves’ Cant. If you already know this language, you learn a different language of your choice. Gain proficiency with a tool and a vehicle.
 
-**Equipment:** Five pieces of chalk, a grappling hook, a set of dark traveler’s clothes or a costume, and a pouch containing 10 gp.
+**Equipment:** Five pieces of chalk, a grappling hook, a set of dark common clothes or a costume, and a pouch containing 10 gp.
 
 ### Talent
 
@@ -1019,9 +1019,9 @@ Perhaps you were a weather-beaten frontiersman done with the lumber camps behind
 
 **Skill Proficiencies:** Survival and choose one from Athletics, Animal Handling, or Intimidation.
 
-**Additional Proficiencies:** Gain proficiency with either herbalism tools or navigator’s tools.
+**Additional Proficiencies:** Gain proficiency with navigator’s tools and with one tool or vehicle of your choice. %% errata 2025-05-29 %%
 
-**Equipment:** A hunting trap, fishing tackle, a razor-sharp skinning knife, a canvas hammock, a set of heavy traveler’s clothes, and a pouch containing 8 gp worth of gold-crusted quartz.
+**Equipment:** A hunting trap, fishing tackle, a razor-sharp skinning knife, a canvas hammock, a set of heavy common clothes, and a pouch containing 8 gp worth of gold-crusted quartz.
 
 ### Talent
 
@@ -1159,7 +1159,7 @@ Perhaps you were the disgraced scion of an illustrious family of jewelers, a fam
 
 **Additional Proficiencies:** Gain proficiency with one tool. Double your PB when you make a check using that tool.
 
-**Equipment:** A tool you are proficient with; a wax seal, ink stamp, or chisel of your personal emblem; a set of traveler’s clothes, and a pouch containing 10 gp worth of gold shavings or silver dust.
+**Equipment:** A tool you are proficient with; a wax seal, ink stamp, or chisel of your personal emblem; a set of common clothes, and a pouch containing 10 gp worth of gold shavings or silver dust.
 
 ### Talent
 
@@ -1468,7 +1468,7 @@ Perhaps you were the blacksmith’s child who preferred to wear the armor, a she
 
 **Additional Proficiencies:** Gain proficiency with vehicles (land) and one of the following: a martial weapon, a musical instrument, a tool, or one type of armor.
 
-**Equipment:** A backpack, a bedroll, a warm blanket woven by a friend or family member, three candles, a set of traveler’s clothes, and a pouch containing 20 sp.
+**Equipment:** A backpack, a bedroll, a warm blanket woven by a friend or family member, three candles, a set of common clothes, and a pouch containing 20 sp.
 
 ### Talent
 

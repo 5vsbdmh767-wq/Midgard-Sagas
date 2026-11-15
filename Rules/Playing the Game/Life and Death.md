@@ -57,6 +57,8 @@ The damage types are provided here, with examples to help a GM assign a damage t
 
 ***Poison.*** Venomous stings and the toxic gas of a green dragon’s breath deal poison damage.
 
+***Psychic.*** Abilities that assault the mind, such as an aboleth’s Psychic Bolt, deal psychic damage. %% errata 2025-05-29 %%
+
 ***Radiant.*** Radiant damage, dealt by a cleric’s *[[5th-Circle Spells#Flame Strike|flame strike]]* spell or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
 
 ***Slashing.*** Swords, axes, and claws deal slashing damage.
@@ -123,7 +125,7 @@ For example, a cleric with a hit point maximum of 12 currently has 6 HP. If she 
 
 #### Death Saves
 
-When you start your turn with 0 HP, you must make a special save, called a **death save**, to determine whether you creep closer to death or cling to life. Unlike other saves, a death save isn’t tied to any ability score.
+When you start your turn with 0 HP, you must make a special save, called a **death save**, to determine whether you creep closer to death or cling to life. Unlike other saves, a death save isn’t tied to any ability score. Luck can be applied to death saves. %% errata 2025-05-29 %%
 
 Roll a d20. If the roll is 10 or higher, you succeed on the death save. Otherwise, you fail. An individual success or failure has no immediate effect. However, on your third success, you become stable. On your third failure, you die.
 

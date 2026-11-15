@@ -140,7 +140,7 @@ Once within the next 10 minutes, the creature can roll that die and add the numb
 
 You can use this feature a number of times equal to your CHA modifier. You regain any expended uses when you finish a long rest.
 
-Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, d10 at 10th, and d12 at 14th.
+Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, d10 at 9th, and d12 at 14th. %% errata 2025-05-29 %%
 
 ### Expertise
 

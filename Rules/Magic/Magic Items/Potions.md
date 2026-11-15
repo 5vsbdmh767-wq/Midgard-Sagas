@@ -189,9 +189,15 @@ This potion’s transparent liquid has floating in it a sliver of fingernail fro
 
 **Potion of Giant Strength Type**
 
-| Type of Giant | Strength |   | Rarity | Cost |
-|---|---|---|---|---|
-| Frost/stone giant | Hill giant Fire giant Cloud giant Storm giant | 21 23 25 27 29 | Uncommon Rare Rare Very rare Legendary | 100 gp 350 gp 350 gp 1,500 10,500 |
+| Type of Giant | Strength | Rarity | Cost |
+|---|---|---|---|
+| Hill giant | 21 | Uncommon | 100 gp |
+| Frost/stone giant | 23 | Rare | 350 gp |
+| Fire giant | 25 | Rare | 650 gp |
+| Cloud giant | 27 | Very rare | 1,500 gp |
+| Storm giant | 29 | Legendary | 10,500 gp |
+
+%% errata 2025-05-29: fire giant price; table rows rebuilt from a broken conversion %%
 
 ## Potion of Growth
 
@@ -282,7 +288,7 @@ A minute after you drink this potion, you violently vomit its contents into the 
 
 ## Potion of Resistance
 
-*Potion, Uncommon 10 gp* When you drink this potion, you become resistant to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.
+*Potion, Uncommon 100 gp* When you drink this potion, you become resistant to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.
 
 **Damage Resistance Type**
 

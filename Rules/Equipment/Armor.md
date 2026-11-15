@@ -9,7 +9,7 @@ Wearing armor increases your armor class (AC), which in turn increases your chan
 
 A typical PC who isn’t wearing armor has an AC of 10 + their DEX modifier.
 
-When you wear armor, use the AC equation listed with the type of armor you are wearing instead of the typical 10 + DEX modifier equation. See the **Armor** table for an armor type’s AC equation as well as specific bonuses or limitations it imposes when calculating AC.
+When you wear armor, use the AC equation listed with the type of armor you are wearing instead of the typical 10 + DEX modifier equation. Ways of calculating AC from different sources don’t add together: the highest one applies, or you choose which one to use. %% errata 2025-05-29 %% See the **Armor** table for an armor type’s AC equation as well as specific bonuses or limitations it imposes when calculating AC.
 
 ## Armor Types & Proficiencies
 

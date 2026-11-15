@@ -50,7 +50,7 @@ A spell might be Divine if it:
 
 Primordial casters draw power from the primal energies of nature. A Primordial caster can cause a forest to sprout from barren land, spur the rapid decay of flesh, or instantly restructure their biology to change forms.
 
-Harnessing magic from this circle requires awareness of the environment, knowledge of the building blocks of life, and respect for the power inherent in nature.
+Harnessing magic from this source requires awareness of the environment, knowledge of the building blocks of life, and respect for the power inherent in nature.
 
 Primordial magic is defined by how a caster interacts with energy that is actively present in the environment, whether amplifying, suppressing, altering, redirecting, or encouraging it. A Primordial caster understands that a finite amount of energy exists in nature, and this magic tips the scales of balance in just the right ways to enact a caster’s will. Primordial magic always draws from nature itself and can’t be accessed without placing its interests first.
 
@@ -150,7 +150,7 @@ Your character class defines what you must do to prepare spells and how many spe
 
 Some spellcasters can cast a simple type of spell called a cantrip. A caster can cast a cantrip without using a spell slot and without preparing it. Repeated practice has fixed the spell in the caster’s mind and infused the caster with the energy needed to produce the effect on demand. A cantrip’s spell circle is 0.
 
-Your character class defines whether you can access cantrips and how many cantrips you know at each class level.
+Your character class defines whether you can access cantrips and how many cantrips you know at each class level. A cantrip’s power is based on your character level, not your level in a spellcasting class. %% errata 2025-05-29 %%
 
 ### Rituals
 

@@ -169,7 +169,7 @@ You trained in the art of espionage. You gain these benefits:
 
 - Creatures that rely on darkvision can’t see you while you remain motionless in dim light or darkness. This effect ends if you move, take an action or bonus action, or use a reaction while in the creature’s line of sight.
 
-- You don’t have disadvantage on attack rolls and WIS (Perception) checks against targets in dim light.
+- Dim light doesn’t impose disadvantage on your WIS (Perception) checks that rely on sight. %% errata 2025-05-29 %%
 
 - If you make a ranged attack against a creature or if a creature spots you while you are hidden, you can use your reaction to make a DEX (Stealth) check at disadvantage opposed by the creature’s Perception. On a success, you remain hidden and the creature is unaware of your position. Once used on a creature, the target can’t be affected by this feature again for 24 hours.
 
@@ -537,7 +537,7 @@ You have studied language extensively. You can communicate in multiple languages
 
 You are uncommonly agile. While not wearing medium or heavy armor, you gain these benefits:
 
-- Your speed increases by 10 feet.
+- Your walking speed increases by 10 feet.
 
 - When you take the Dash action, you can move along vertical surfaces during your movement.
 

@@ -21,7 +21,7 @@ You’ve trained to improve your use of armor. You gain these benefits:
 
 - If you are proficient with light armor, you gain proficiency with medium armor. If you are proficient with medium armor, you gain proficiency with heavy armor and shields.
 
-- If you are wearing armor that would normally impose disadvantage on DEX (Stealth) checks, you instead roll normally and can’t have advantage or disadvantage on the check.
+- Armor you wear doesn’t impose disadvantage on your DEX (Stealth) checks, though other sources of disadvantage might still apply. %% errata 2025-05-29 %%
 
 - You can add up to +3 (instead of +2) to your AC based on your DEX while wearing medium armor.
 
@@ -283,7 +283,7 @@ You mastered techniques that allow you to efficiently fight barehanded. You gain
 
 - You gain proficiency with improvised weapons. While wielding an improvised weapon with one hand, the weapon deals a minimum of 1d8 + STR modifier damage. While wielding an improvised weapon with two hands, the weapon deals a minimum of 1d10 + STR modifier damage.
 
-- You have advantage on ability checks made to initiate or escape a grapple. When you start your turn grappled with or restrained by a creature, that creature takes bludgeoning damage equal to your STR modifier.
+- You have advantage on ability checks made to initiate or escape a grapple. When you start your turn grappled with or restrained by a creature within 5 feet of you, that creature takes bludgeoning damage equal to your STR modifier.
 
 ## Hard to Kill
 
@@ -565,7 +565,7 @@ You wield a spear deftly. You gain these benefits:
 
 You have a penchant for overpowering even skilled spellcasters. You gain these benefits:
 
-- When a creature you can see within your reach casts a spell, as a reaction you can make a single melee attack against that creature. On a hit, the attack deals additional damage equal to the circle of the spell they are casting. On a critical hit, the spell is interrupted and isn’t cast, but the spell slot isn’t expended.
+- When a creature you can see within your reach begins casting a spell, as a reaction you can make a single melee attack against that creature. On a hit, the attack deals additional damage equal to the circle of the spell they are casting. On a critical hit, the spell is interrupted and isn’t cast. The spell slot or daily use isn’t expended, but the action or reaction used to cast it is. %% errata 2025-05-29 %%
 
 - While you are within 5 feet of a creature, you have advantage on saves against their spells and they have disadvantage on saves made to maintain concentration.
 
@@ -665,11 +665,11 @@ You have mastered the art of wielding two weapons simultaneously. While wielding
 
 - You can use the bonus action attack granted by two-weapon fighting even if the weapons you are wielding don’t have the Light property. You are no longer restricted to the use of Light weapons if you have the Quick Strike Martial Action.
 
-- When you take the Attack action and hit a creature, the bonus attack granted by two-weapon fighting deals additional damage equal to your PB against that creature.
+- When you take the Attack action and hit a creature, the bonus attack granted by two-weapon fighting or Quick Strike deals additional damage equal to your PB against that creature.
 
 - You can draw or stow two one-handed weapons in the same time it would normally take you to draw or stow a single weapon.
 
-- When you score a critical hit or reduce a creature to 0 HP with the bonus action attack granted by two-weapon fighting, you can move up to half your speed without provoking opportunity attacks and make a single melee weapon attack against a creature or object within reach.
+- When you score a critical hit or reduce a creature to 0 HP with the bonus action attack granted by two-weapon fighting or Quick Strike, you can move up to half your speed without provoking opportunity attacks and make a single melee weapon attack against a creature or object within reach.
 
 ## Unarmed Maneuvers
 

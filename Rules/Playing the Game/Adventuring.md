@@ -176,7 +176,7 @@ Your Strength score determines the amount of weight you can bear. The following 
 ***Size and Strength.*** Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature's carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights.
 
 > [!note] Light
-> The presence or absence of light in an environment is the common factor in determining whether an area is lightly or heavily obscured. The amount of light in any given area is measured in one of five categories: **sunlight, bright light, dim light, darkness**, and **magical darkness**. **Sunlight** lets most creatures see normally. It also has special effects on certain creatures with the Sunlight Sensitivity trait or similar features. **Bright light** lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other light sources within a short radius.
+> The presence or absence of light in an environment is the common factor in determining whether an area is lightly or heavily obscured. The amount of light in any given area is measured in one of five categories: **sunlight, bright light, dim light, darkness**, and **magical darkness**. **Sunlight** lets most creatures see normally. Sunlight is always bright light, and it has special effects on some creatures, such as kobolds and vampires. %% errata 2025-05-29 %% **Bright light** lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other light sources within a short radius.
 >
 
 #### Variant: Encumbrance

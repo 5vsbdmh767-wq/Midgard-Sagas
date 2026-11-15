@@ -32,7 +32,7 @@ Rods are heavy, cylindrical objects that channel potent magic. Rods are made fro
 
 #### Scrolls
 
-Scrolls are consumable magic items that store spells in physical form. Scrolls are typically rolls of thick paper painstakingly inscribed with the magic inks and seals necessary to bind their magic. Any creature who can see and has a minimum INT score of 5 (modifier −3) can cast a spell from a scroll. The scroll is destroyed when the spell contained within is cast. Wizards can copy spells from scrolls into their spellbooks—a process which leaves the scroll intact.
+Scrolls are consumable magic items that store spells in physical form. Scrolls are typically rolls of thick paper painstakingly inscribed with the magic inks and seals necessary to bind their magic. Any creature who can see and has a minimum INT score of 5 (modifier −3) can cast a spell from a scroll. The scroll is destroyed when the spell contained within is cast.
 
 #### Staffs
 

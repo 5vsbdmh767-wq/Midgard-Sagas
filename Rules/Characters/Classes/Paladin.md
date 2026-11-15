@@ -104,7 +104,7 @@ As a bonus action, you can use this feature to affect yourself instead of a diff
 
 *2nd-Level Paladin Feature*
 
-Once per turn, when you hit a creature with a weapon attack, you can expend one Divine spell slot to deal extra radiant damage to the target, in addition to the weapon’s normal damage. The extra damage is 2d8 for a 1st-circle spell slot, plus 1d8 for each circle higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is a Fiend or Undead.
+Once per turn, when you hit a creature with a weapon attack, you can expend one spell slot to deal extra radiant damage to the target, in addition to the weapon’s normal damage. The extra damage is 2d8 for a 1st-circle spell slot, plus 1d8 for each circle higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is a Fiend or Undead.
 
 ### Martial Action
 
@@ -604,7 +604,7 @@ You gain oath spells at the paladin levels listed in the **Devotion Oath Spells*
 
 *7th-Level Devotion Feature*
 
-You and friendly creatures within 10 feet of you can’t be charmed while you are conscious. This aura is enhanced by the 18th‑level Aura Improvements class feature.
+You and friendly creatures within 10 feet of you can’t be charmed while you are conscious. This aura is enhanced by the 17th‑level Aura Improvements class feature.
 
 ### Purity of Spirit
 
@@ -685,7 +685,7 @@ You gain oath spells at the paladin levels listed in the **Justice Oath Spells**
 
 *7th-Level Justice Feature*
 
-While you aren't incapacitated, you and friendly creatures within 10 feet of you gain a bonus to initiative rolls equal to your proficiency bonus. This aura is enhanced by the 18th‑level Aura Improvements class feature.
+While you aren't incapacitated, you and friendly creatures within 10 feet of you gain a bonus to initiative rolls equal to your proficiency bonus. This aura is enhanced by the 17th‑level Aura Improvements class feature.
 
 ### Unworthy Adversary
 

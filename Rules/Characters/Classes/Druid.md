@@ -41,7 +41,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 - *(a)* a shield or *(b)* any simple weapon
 
-- *(a)* a scimitar or *(b)* any simple melee weapon
+- *(a)* a sickle or *(b)* any simple melee weapon %% errata 2025-05-29 %%
 
 - Leather armor, an explorer’s pack, and a druidic focus
 
@@ -927,7 +927,7 @@ Druids that align with the ring of the Shifter feel a deep connection to the ani
 
 *3rd-Level Shifter Feature*
 
-You can select more powerful creatures for the known forms used with the Beast Form effect of your Wild Shape feature. When you gain this feature, you can choose any Beast or creature with the Animal tag with a CR of 1 or lower as a known form.
+You can select more powerful creatures for the known forms used with the Beast Form effect of your Wild Shape feature. When you gain this feature, you can choose any Beast or creature with the Animal tag with a CR of 1 or lower as a known form. When you use Beast Form with one of these forms, you use the hit points of the creature, not the Hit Points by Form Size table. %% errata 2025-05-29 %%
 
 In addition, you can now speak any language you know while in beast form—even if your chosen form would not typically allow you to do so. However, you still can’t cast spells while transformed, even if a spell requires only a verbal component.
 

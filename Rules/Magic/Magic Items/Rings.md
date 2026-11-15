@@ -86,7 +86,7 @@ While wearing this ring, you can turn invisible as an action. Anything you are w
 
 *(Requires Attunement)*
 
-While wearing this ring, you can cast the *jump* spell from it as a bonus action. You can target only yourself with it.
+While wearing this ring, you can cast the *[[1st-Circle Spells#Longstrider|longstrider]]* spell from it as a bonus action. %% errata 2025-05-29 %% You can target only yourself with it.
 
 ## Ring of Mind Shielding
 
@@ -179,9 +179,9 @@ For its other properties, the ring has 6 charges.
 
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 circles’ worth of spells at a time. When found, it contains 1d6 − 1 circles of stored spells chosen by the GM.
 
-Any creature can cast a spell of 1st through 5th circle into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can’t hold the spell, the spell is expended without effect. The circle of the spell slot used to cast the spell determines how much space it uses.
+Any creature can store a spell of 1st through 5th circle that it knows or has prepared in the ring by taking an action and touching the ring, expending a spell slot as normal. %% errata 2025-05-29 %% The spell has no effect, other than to be stored in the ring. If the ring can’t hold the spell, the spell is expended without effect. The circle of the spell slot used to cast the spell determines how much space it uses.
 
-While wearing this ring, you can cast any spell stored in it. The spell uses the slot circle, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. A spell cast from the ring is no longer stored in it, freeing up space.
+While wearing this ring, you can cast any spell stored in it, using the appropriate action. If the spell has a trigger, its conditions must be met to cast it. The spell uses the slot circle, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. A spell cast from the ring is no longer stored in it, freeing up space.
 
 ## Ring of Spell Turning
 
