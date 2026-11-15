@@ -352,7 +352,7 @@ This trap causes stones, marbles, or other loose material to fall in a 10-foot r
 
 This trap is made by stretching a strong rope across two points up to 20 feet apart. Creatures that fail their DEX save fall prone.
 
-***Improvement:*** You can extend the rope by 10 feet for every additional 2 gp you spend in materials. You can also embed barbs in the rope that deal 1d3 + your PB piercing damage for an additional 1 gp. If the target succeeds on its save, it takes no damage.
+***Improvement:*** You can extend the rope by 10 feet for every additional 2 gp you spend in materials. You can also embed barbs in the rope that deal 1d4 + your PB piercing damage for an additional 1 gp. If the target succeeds on its save, it takes no damage.
 
 ## Ranger Subclasses
 
@@ -780,7 +780,7 @@ The Peerless Scout takes advantage of the tracking in combat (see **Tracking in 
 
 *3rd-Level Peerless Scout Feature*
 
-You undergo a ritual that strengthens your connection to the world around you at the expense of your ability to work magic. You can’t cast Primordial spells. However, you continue to gain spell slots. You can use spell slots, from this or other classes you have, to enhance your ability to track in combat and create magical booby traps. You gain two of the following preternatural advancements of your choice. You gain another one at 9th and 13th level. You can use only one preternatural Advancement at a time, unless otherwise noted.
+Unlike other ranger subclasses, you don’t receive calling spells. Instead, you learn to channel your magic to enhance existing abilities and create new effects. %% errata 2025-05-29 %% You can use spell slots, from this or other classes you have, to enhance your ability to track in combat and create magical booby traps. You gain two of the following preternatural advancements of your choice. You gain another one at 9th and 13th level. You can use only one preternatural Advancement at a time, unless otherwise noted.
 
 ***Cunning Trap.*** When placing a booby trap, you can expend one spell slot to increase the DC to find, disable, and save against the trap by 1 per circle of the slot expended.
 

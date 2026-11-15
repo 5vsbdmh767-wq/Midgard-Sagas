@@ -232,7 +232,7 @@ A GM might consider dealing the attack’s maximum damage instead of normal crit
 
 Due to their typically high DEX modifiers, rogues often go early in initiative, when they would rather wait for an ally to get into position first. The Setup option lets you address this hurry-up-and-wait situation.
 
-If you are not surprised and none of your enemies have acted in this encounter, as a bonus action, you can swap your place in the initiative order with one ally you can see. The ally takes its turn on your initiative count. Then you take your turn (without a bonus action) on their former initiative count.
+If you are not surprised and none of your enemies have acted in this encounter, as a bonus action, you can swap your place in the initiative order with one ally you can see. The ally takes its turn on your initiative count. Then you take your turn (without a bonus action) on their former initiative count. You and your ally act on the new initiative counts each subsequent round until the encounter is resolved or you use this feature again. %% errata 2025-05-29 %%
 
 ### Cunning Tricks
 
@@ -240,7 +240,7 @@ A cunning rogue has a toolkit of tricks to play in a fight, from a barroom tussl
 
 Once you’ve used a trick, any creature that witnessed it has advantage on saves to resist the same trick for 24 hours.
 
-**Blind.** This trick requires a handful of sand, dust, ash, embers, ink, or similar substance. You toss a substance at the eyes of a creature (or its ocular equivalent). It must succeed on a DEX save or be blinded until it spends a bonus action clearing the grime.
+**Blind.** This trick requires a handful of sand, dust, ash, embers, ink, or similar substance. You toss a substance into the eyes (or ocular equivalent) of a creature you can see within 5 feet of you. It must succeed on a DEX save or be blinded until it spends a bonus action clearing the grime.
 
 **Grab.** A creature within 5 feet of you and also within 5 feet of an ally must make a DEX save. On a failure, you or the ally grapple it as a reaction.
 
@@ -566,9 +566,10 @@ You can add your INT modifier to initiative rolls in addition to your DEX modifi
 
 ### Tactical Guidance
 
+
 *3rd-Level Strategist Feature*
 
-If you didn’t benefit from your Sneak Attack on your last turn, you can use your reaction when an ally that can see or hear you attacks a creature to apply your Sneak Attack damage to that attack instead. You must state your intent before the result of the attack roll is declared. If the ally misses, no damage is dealt.
+When an ally you can see hits a target you can see with an attack, you can use your reaction to apply your Sneak Attack damage to the triggering attack. You can’t use this feature if you applied your Sneak Attack damage on your last turn. %% errata 2025-05-29 %%
 
 ### Know the Field
 
@@ -668,19 +669,19 @@ The core of the rogue lies in its mobility, and the Thief‑Acrobat takes that m
 
 You gain proficiency with improvised weapons. Your damage die with an improvised weapon is always at least a d6, and you can use your DEX modifier for attack and damage rolls.
 
-Your attacks with improvised weapons qualify for your Sneak Attack. In fact, the first time you attack a creature with an improvised weapon in combat, you do not need to meet any other conditions to deal Sneak Attack damage. Creatures who witness this attack are immune to this effect for the next 24 hours.
+Your attacks with improvised weapons qualify for your Sneak Attack. During the first round of combat, you have advantage on the first attack roll you make with an improvised weapon against any creature in the fight. %% errata 2025-05-29 %%
 
 ### Nimble Strider
 
 *3rd-Level Thief-Acrobat Feature*
 
-Your walking speed increases by 10 feet, and you gain a climbing speed equal to your walking speed. You can also use your DEX in place of STR for Athletics ability checks and for determining jumping distances.
+Your walking speed increases by 10 feet, and you gain a climbing speed equal to your walking speed. You can also use your DEX in place of STR for Athletics ability checks and for determining how high you can jump.
 
 ### Momentum Mastery
 
 *7th-Level Thief-Acrobat Feature*
 
-When you move at least 20 feet toward a target, you don’t need advantage on the attack roll to use your Sneak Attack against it and you deal an additional d6 of damage on a hit.
+You can use your Sneak Attack against a target if you move at least 20 feet toward it immediately before attempting a weapon attack against it. You don’t need advantage on the attack roll, but you can’t have disadvantage on it. All other conditions of Sneak Attack still apply. %% errata 2025-05-29 %%
 
 In addition, when you use your Uncanny Dodge feature, you can also push or pull a Large or smaller size attacker up to 10 feet. If you do, you can also move up to 10 feet in the same direction.
 

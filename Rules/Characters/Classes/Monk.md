@@ -591,7 +591,7 @@ Certain monks learn to enter a state of calm, purposeful action when riding a ho
 
 *3rd-Level Equine Soul Feature*
 
-Carried by your horse, you can be anywhere on the battlefield to rapidly launch a volley of arrows. You gain proficiency with shortbows and they are considered monk weapons for you.
+Carried by your horse, you can be anywhere on the battlefield to rapidly launch a volley of arrows. Simple ranged weapons with the Ammunition property are considered monk weapons for you. %% errata 2025-05-29 %%
 
 ### Twin Soul
 
@@ -844,7 +844,7 @@ Monks of the Righteous Fist subclass channel their deep spirituality into energy
 
 *3rd-Level Righteous Fist Feature*
 
-You can infuse your strikes with searing light. When you hit with a monk weapon or unarmed strike, you can deal radiant damage instead of the weapon’s normal damage type. If the target is Undead, your strikes deal an additional die of damage equal to your martial arts die.
+You can infuse your strikes with searing light. When you hit with a monk weapon or unarmed strike, you can deal radiant damage instead of the weapon’s normal damage type. If the target is a Fiend or Undead, your strikes deal an additional die of damage equal to your martial arts die. %% errata 2025-05-29 %%
 
 You can increase the damage of your Blazing Strike by spending technique points. For each 1 point you spend, roll an extra martial arts die of radiant damage. The maximum number of technique points you can spend on this feature equals half your monk level.
 
@@ -868,7 +868,7 @@ You can expand your inner light to touch those around you. As an action, you spe
 
 - ***Cleansing Flare.*** Each creature of your choice within the area must make a CON save. On a failure, a creature takes 3d6 radiant damage, or half as much damage on a success. You can increase the size of your Cleansing Flare by 10 feet for every 2 technique points you spend above 2.
 
-- ***Soothing Flare.*** Each creature of your choice within the area regains 1d6 hit points. For every 2 technique points you spend above 2, you can increase the healing done by your Soothing Flare by 1d6.
+- ***Soothing Flare.*** Each creature of your choice within the area regains 2d6 hit points. For every 2 technique points you spend above 2, you can increase the healing done by your Soothing Flare by 2d6. %% errata 2025-05-29 %%
 
 ### Cleansing Soul
 
@@ -890,15 +890,17 @@ You can extend your soul to cleanse yourself and those around you. At the end of
 
 - An effect that reduces an ability score
 
-- An effect that reduces hit point maximum Spend the technique points at the beginning of the short rest. At the end of the short rest, you end one effect on a creature. With multiple uses of this feature, you can cleanse different creatures of different conditions or afflictions.
+- An effect that reduces hit point maximum
+
+With multiple uses of this feature, you can cleanse different creatures of different conditions or afflictions.
 
 ### Soul Burst
 
 *15th-Level Righteous Fist Feature*
 
-You can summon the light of the sun to push back darkness. As an action, you spend 5 technique points to cause a flash of sunlight to burst from your body. Each creature within a 60-foot radius must make a CON save. On a failure, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a success, it takes half as much damage and isn’t blinded by this effect. Undead and Oozes have disadvantage on this save. A creature blinded by this effect makes another CON save at the end of each of its turns. On a successful save, it is no longer blinded.
+You can summon the light of the sun to push back darkness. As an action, you spend 5 technique points to cause a flash of sunlight to burst from your body. Each creature within a 60-foot radius must make a CON save. On a failure, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a success, it takes half as much damage and isn’t blinded by this effect. Fiends and Undead have disadvantage on this save. A creature blinded by this effect makes another CON save at the end of each of its turns. On a successful save, it is no longer blinded.
 
-When you activate this feature, you can designate any number of creatures within the area, and spend 2 technique points per creature. These creatures automatically succeed on their save.
+When you activate this feature, you can designate any number of creatures within the area, and spend 2 technique points per creature. These creatures are immune to any damage or conditions caused by the burst. %% errata 2025-05-29 %%
 
 ## Seal Guardian
 

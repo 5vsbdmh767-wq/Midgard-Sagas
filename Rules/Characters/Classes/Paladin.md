@@ -305,11 +305,13 @@ You gain oath spells at the paladin levels listed in the **Anamnesis Oath Spells
 
 | Paladin Level | Spells |
 |---|---|
-| 3rd | *bane, comprehend languages* |
-| 5th | *enthrall, spiritual weapon* |
-| 9th | *spirit guardians, tongues* |
-| 13th | *compulsion, freedom of movement* |
-| 17th | *dominate person, legend lore* |
+| 3rd | *comprehend languages* |
+| 5th | *enthrall* |
+| 9th | *spirit guardians* |
+| 13th | *compulsion* |
+| 17th | *legend lore* |
+
+%% errata 2025-05-29 %%
 
 ### Channel Divinity
 
@@ -487,11 +489,13 @@ You gain oath spells at the paladin levels listed on the **Ashen Base Oath Spell
 
 | Paladin Level | Spells |
 |---|---|
-| 3rd | *hellish rebuke, thunderwave* |
-| 5th | *misty step, spike growth* |
-| 9th | *fireball, spirit guardians* |
-| 13th | *fire shield, freedom of movement* |
-| 17th | *contagion, passwall* |
+| 3rd | *hellish rebuke* |
+| 5th | *misty step* |
+| 9th | *fireball* |
+| 13th | *elemental shield* |
+| 17th | *contagion* |
+
+%% errata 2025-05-29 %%
 
 ### Channel Divinity
 
@@ -521,7 +525,7 @@ You can manifest an icon of devastation when you attack. When you deal damage wi
 
 You have advantage on attacks against a creature you have branded. In addition, if a branded creature within line of sight would regain hit points, the brand flares painfully and prevents the first 10 HP the target would regain.
 
-You can brand creatures in this manner a number of times per day equal to your PB. All brands issued fade at dawn each day.
+You can brand creatures in this manner a number of times equal to your PB, and you regain all expended uses when you finish a long rest. A brand remains active for 24 hours or until the branded target dies. %% errata 2025-05-29 %%
 
 ### Form of the Destroyer
 

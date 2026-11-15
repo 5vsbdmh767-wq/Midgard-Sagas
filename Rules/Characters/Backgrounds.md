@@ -278,7 +278,7 @@ You have learned to go for long periods of time with little to eat and no roof a
 
 ### Talent
 
-A life of renunciation has given you useful insight. Choose a talent from this list to represent your experience: Focus (Death), Physical Fortitude, Hard Target.
+A life of renunciation has given you useful insight. Choose a talent from this list to represent your experience: Mental Fortitude, Physical Fortitude, Hard Target.
 
 **Adventuring Motivation**
 
@@ -313,11 +313,11 @@ Throughout your childhood and training, you were taught to honor your god and al
 
 ### The Hand of the Divine
 
-You are the blade of your deity, the fist of the god, and the arbiter of divine justice or retribution on the mortal plane. As an avatar, you have been chosen for a martial destiny, but this glory can come in many forms. Choose the style of your divine purpose or roll a d8 and consult the table below.
+You are the blade of your deity, the fist of the god, and the arbiter of divine justice or retribution on the mortal plane. As an avatar, you have been chosen for a martial destiny, but this glory can come in many forms. Choose the style of your divine purpose or roll a d8 and consult the **Divine Purpose** table.
 
-**Martial Purpose**
+**Divine Purpose**
 
-| d8 | Martial Purpose |
+| d8 | Purpose |
 |---|---|
 | 1 | I am the secret dagger, death from the shadows. |
 | 2 | I am the standard-bearer, leading a glorious army to victory. |
@@ -507,7 +507,7 @@ Thrust into the world of the military, you quickly learned to follow orders, wie
 
 ### Talent
 
-Having war thrust upon you made you adapt quickly and brought your natural talents out into the sunlight. Choose a talent to represent this experience: Armor Training, Focus (War), or Ranged Weapon Mastery.
+Having war thrust upon you made you adapt quickly and brought your natural talents out into the sunlight. Choose a talent to represent this experience: Armor Training, Combat Casting, or Combat Conditioning. %% errata 2025-05-29 %%
 
 ### Adventuring Motivation
 
@@ -885,7 +885,7 @@ You are familiar with all aspects of laying the dead to rest, including preparin
 
 ### Talent
 
-You’re not necessarily a healer, but you’ve picked up a few tricks as you laid people to rest. Choose a talent to represent this experience: Combat Conditioning, Field Medic, or Focus (Death).
+You’re not necessarily a healer, but you’ve picked up a few tricks as you laid people to rest. Choose a talent to represent this experience: Combat Conditioning, Field Medic, or Physical Fortitude. %% errata 2025-05-29 %%
 
 ### Adventuring Motivation
 

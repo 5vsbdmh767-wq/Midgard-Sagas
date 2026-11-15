@@ -67,13 +67,10 @@ Choose one of the following martial actions that you know.
 
 #### Arbalest Skirmish
 
+
 %% source: Book of Blades %%
 
-You can wield a one-handed ranged weapon with the Loading property in one hand and a melee weapon with the Light property in your other hand. You can still load the ranged weapon while doing so. In addition, if you gain an extra attack while using a ranged weapon with the Loading property in one hand, you can take the extra attack with a Light weapon in your other hand.
-
-If you wield a heavy crossbow, you can use the shoulder stock to make a melee attack that deals 1d6 bludgeoning damage.
-
-Finally, you can use crossbow bolts as a melee weapon that deals 1d4 piercing damage. Using ammunition in this manner destroys it.
+You must be wielding a ranged weapon with the Heavy property to use this martial action. When you take the Attack action with it, you can use a bonus action to make a melee attack against a creature within 5 feet of you using the weapon’s stock. You are proficient with this attack, and you choose STR or DEX for it. On a hit, it deals 1d8 + your STR or DEX modifier bludgeoning damage. %% errata 2025-05-29 %%
 
 #### Destabilizing Blow
 
@@ -125,9 +122,10 @@ Finally, you can use crossbow bolts as a melee weapon that deals 1d4 piercing da
 
 #### Springheel
 
+
 %% source: Book of Blades %%
 
-You learn advanced maneuvers to avoid attacks while wearing light armor. When fighting in light or no armor, add your martial class (fighter, paladin, or ranger) PB to your AC.
+You must be wearing light armor or no armor to use this martial action. As a bonus action, you can take a defensive stance that gives you a bonus to your AC equal to your PB until the start of your next turn. %% errata 2025-05-29 %%
 
 #### Steady
 
@@ -280,27 +278,24 @@ Encased in a tower of iron and steel, the Iron Bastion stands between its allies
 
 ### Additional Talent
 
+
 *3rd-Level Iron Bastion Feature*
 
-You gain a new martial talent. Choose a talent to represent the way you specialize in protecting yourself and your allies: Armor Expert, Shield Mastery, or [[Vanguard]].
+You gain a new martial talent. Choose one of the following talents to represent the way you specialize in protecting yourself and your allies: [[Martial Talents#Armor Expert|Armor Expert]], [[Martial Talents#Physical Fortitude|Physical Fortitude]], or [[Martial Talents#Vanguard|Vanguard]]. %% errata 2025-05-29 %%
 
 ### Barrier Shield
 
+
 *3rd-Level Iron Bastion Feature*
 
-You have innovated shield use. When you are wielding a shield, you gain a +3 bonus to your AC instead of +2. At the end of your turn, you can choose one ally to gain a +1 bonus to AC until the end of your next turn, while that ally stays within 5 feet of you.
+You have innovated shield use. When you are wielding a shield, it grants you an additional +1 bonus to your AC (to a maximum of +3). At the end of your turn, while wielding a shield, you can choose one allied creature that you can see within 5 feet of you. It gains a +1 bonus to AC until the start of your next turn or until it moves more than 5 feet away from you.
 
-In addition, choose one shield exploit that you know from the list below. You can perform the exploit a number of times equal to your PB. You regain all expended uses when you finish a long rest.
+In addition, choose one shield exploit that you know from the list below. You can perform the exploit a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
-- **Iron Resolve.** As a reaction, you can add your shield bonus to your WIS save.
-
-- **Lock Down.** When you succeed on a melee attack against an enemy within 5 feet, the enemy’s speed becomes 0 until the start of your next turn.
-
-- **Shield Bash.** As a bonus action, you can forgo the bonus to your AC from your shield to make an attack with it. In your hands, a shield is a weapon with the Light property that deals 1d6 + your STR modifier bludgeoning damage and has the Bash weapon option.
-
-- **Superior Maneuvering.** When you hit with a shove attack, you can push your target an additional 5 feet.
-
-When you are forced to move against your will, decrease the distance by 5 feet.
+- **Iron Resolve.** When you fail a save, you can use your reaction to add your shield’s AC bonus to the roll, possibly turning the failure into a success.
+- **Lock Down.** When you hit a creature within 5 feet of you with a melee attack while wielding your shield, you can reduce the target’s speed to 0 feet until the start of your next turn. Your speed is also 0 feet for that duration.
+- **Shield Bash.** As a bonus action, you can forgo your shield’s AC bonus until the start of your next turn to wield it as a melee weapon, and you can immediately make one attack with it as part of that bonus action. The shield is a Light melee weapon you are proficient with. On a hit, it deals 1d6 + your STR modifier bludgeoning damage, and you can use it with the Bash weapon option.
+- **Superior Maneuvering.** When you successfully shove a creature while wielding your shield, you can push it an additional 5 feet per ally in a space adjacent to you (minimum of 5 extra feet). When an effect would force you to move against your will while you wield your shield, reduce the distance you are moved by 5 feet per ally adjacent to you. %% errata 2025-05-29 %%
 
 ### Unscathed
 
@@ -310,17 +305,19 @@ Protected by the steel plates of armor and your heavy shield, you can walk throu
 
 ### Barrier Shield Expert
 
+
 *11th-Level Iron Bastion Feature*
 
-Your skill with a shield exceeds what most would have thought achievable. When you are wielding a shield, you now gain a +4 bonus to your AC instead of +3. In addition, you learn a second shield exploit from the Tower Shield feature.
+Your skill with a shield exceeds what most would have thought achievable. When you are wielding a shield, it now grants you an additional +2 bonus to your AC (to a maximum of +4), instead of the +1 from Barrier Shield. You also learn a second shield exploit of your choice from the Barrier Shield feature. %% errata 2025-05-29 %%
 
 ### Impenetrable
 
+
 *15th-Level Iron Bastion Feature*
 
-Your resilience in heavy armor and wielding a shield is legendary. Whenever you perform a shield exploit, you gain temporary hit points equal to your PB. These hit points last until expended or you finish a short or long rest.
+Your resilience in heavy armor and wielding a shield is legendary. Whenever you perform a shield exploit, you gain temporary hit points equal to twice your PB. These hit points last until you perform another shield exploit or finish a long rest.
 
-While wearing heavy armor and carrying a shield, as an action, you can cast *wall of force* with no material components. Once you cast this spell, you can’t use it again until you finish a long rest.
+While wearing heavy armor and wielding a shield, you can cast *[[5th-Circle Spells#Wall of Force|wall of force]]* without using any components. Once you cast this spell, you can’t do so again until you finish a long rest. %% errata 2025-05-29 %%
 
 ## Nemesis
 
@@ -448,8 +445,6 @@ When you hit a creature with two unarmed strikes in the same turn (and it has le
 
 Skirmishers use ranged attacks, melee attacks, and mobility to evade incoming strikes and reach enemies anywhere on the battlefield. They typically use crossbows with a Light weapon on hand for flexibility, taking aim at one foe while dodging another’s attacks, then slipping away to a more advantageous position.
 
-Skirmishers fill rank-and-file positions of many armies. Most come from the common class—sons and daughters of farmers and shepherds dragged into conflict. Lacking the wealth to purchase heavy armor and swords, they use inexpensive weapons, and their training is hasty and informal. To their commanders, skirmishers are expendable. They make strategic strikes against enemies to whittle them down until the heavy infantry rolls in.
-
 Skirmishers train with light armor, crossbows, daggers, and other light throwing weapons. They practice hit-andrun tactics, focusing on ranged attacks and guile to offset their lack of protection.
 
 **Skirmisher Progression**
@@ -457,35 +452,43 @@ Skirmishers train with light armor, crossbows, daggers, and other light throwing
 | Fighter Level | Features |
 |---|---|
 | 3rd | Agile, Crossbow Finesse |
-| 7th | Focused Aim |
-| 11th | Additional Fighting Style, Juke |
+| 7th | Focused Aim, Honed Reflexes |
+| 11th | Juke |
 | 15th | Bleeding Strike |
 
 ### Agile
 
+
 *3rd-Level Skirmisher Feature*
 
-You gain a +2 bonus to all your DEX saves and ability checks while you’re wearing light or no armor.
+While you are conscious and not wearing medium or heavy armor, you can always add your PB to DEX saves and DEX-based ability checks. If you are already proficient, double your PB instead.
+
+In addition, when you or an allied creature within 5 feet of you succeeds on a DEX save, you can use your reaction to move up to 10 feet without provoking opportunity attacks or to make one attack with a weapon you are wielding. %% errata 2025-05-29 %%
 
 ### Crossbow Finesse
 
+
 *3rd-Level Skirmisher Feature*
 
-You can fire more than once in a turn with a crossbow or other ranged weapon with the Loading property, which you are proficient with, ignoring that property’s typical penalty against it.
+Once per turn, when you make a ranged attack with a weapon that has the Loading property, you can immediately make a less powerful follow-up shot that ignores the Loading property. Make it as a normal ranged attack, but don’t add your ability modifier to the damage unless that modifier is negative.
 
-In addition, if you take the Attack action and make a ranged weapon attack with a hand crossbow, you can use your bonus action to attack with a Light melee weapon you are wielding in your other hand.
+In addition, when you take the Attack action and attack with a Light ranged weapon in one hand, you can use a bonus action to attack with a different Light weapon you are wielding in the other hand. %% errata 2025-05-29 %%
 
 ### Focused Aim
 
+
 *7th-Level Skirmisher Feature*
 
-You can use your bonus action to take precise, specific aim. Your ranged weapon attacks score critical hits on rolls of 19 or 20. When you score a critical hit in this way, you can also perform the Disarm, Hamstring, or Pinning Shot weapon option on the target (no action required). If you know the Aim Martial Action, you can use Focused Aim and Aim as part of the same bonus action.
+When you score a critical hit with a ranged weapon that has the Loading property, you can choose the Disarm, Hamstring, or Pinning Shot weapon option, which takes effect automatically (no action or additional attack roll required). The target makes any saves the option calls for with disadvantage. The option’s size limits and other restrictions still apply. %% errata 2025-05-29 %%
 
 ### Honed Reflexes
 
-*11th-Level Skirmisher Feature*
 
-You are particularly adept at responding to changes on the battlefield. Until the beginning of your next turn, you can take two reactions. You can do this a number of times equal to your PB. You regain all expended charges of this feature when you finish a long rest.
+*7th-Level Skirmisher Feature*
+
+You are particularly adept at responding to changes on the battlefield. You gain one extra reaction each round, for a total of two. You can use the extra reaction only for reactions granted by this subclass, and you can’t use the same reaction twice in one round.
+
+In addition, when you or an ally within 5 feet of you is hit by a weapon or spell attack, you can use your reaction to take the Dodge action. %% errata 2025-05-29 %%
 
 ### Juke
 
@@ -497,9 +500,10 @@ In addition, when a creature makes a melee attack roll against you, if you are w
 
 ### Bleeding Strike
 
-*15th-Level Iron Skirmisher Feature*
 
-When you hit an opponent with a crossbow bolt, your ammunition strikes a sensitive spot and the target bleeds profusely. At the start of the target’s next turn, it takes one additional die of damage of the weapon that dealt it. At the end of its turn, the target must succeed on a CON save against DC 8 + your PB + your WIS modifier to end the effect. On a failure, the effect continues on the target’s next turn.
+*15th-Level Skirmisher Feature*
+
+When you hit a creature with a ranged weapon that has the Ammunition property, you can inflict a bleeding wound. At the start of each of the target’s turns, it takes one die of damage of the size and type of the weapon. At the end of each of its turns, the target can make a CON save (DC equal to 8 + your DEX modifier + your PB), ending the bleeding on a success. A creature can be affected by only one bleeding wound at a time. %% errata 2025-05-29 %%
 
 ## Spell Blade
 

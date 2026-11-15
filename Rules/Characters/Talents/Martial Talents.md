@@ -413,7 +413,7 @@ You’ve fortified yourself against physically debilitating effects. You gain th
 
 Through excessive exposure to poison, and practice with its use, you are an expert in this use of poison during combat. You gain these benefits:
 
-- You are immune to poison damage and the poisoned condition.
+- You have resistance to poison damage, and you have advantage on saves made to resist the effects of poisons and effects that cause the poisoned condition. %% errata 2025-05-29 %%
 
 - As a bonus action, you can apply poison to a weapon you wield.
 
@@ -677,7 +677,7 @@ You have mastered the art of wielding two weapons simultaneously. While wielding
 
 *Prerequisite: The Martial Arts Class Ability or the Hand to Hand Talent*
 
-Your training as an unarmed combatant grants access to the following special maneuvers. When you successfully make an attack with one of these maneuvers, the attack doesn’t deal damage, it just does the listed effect. You can use any of these maneuvers on your turn, but you can use only one per turn.
+Your training as an unarmed combatant grants access to the following special maneuvers, which you can use in place of one of the attacks you make as part of the Attack action. If a maneuver calls for a save or an ability check, the DC equals 8 + your PB + your STR or DEX modifier (your choice). If you are a monk, you can use your Technique save DC instead. %% errata 2025-05-29 %% When you successfully make an attack with one of these maneuvers, the attack doesn’t deal damage, it just does the listed effect. You can use any of these maneuvers on your turn, but you can use only one per turn.
 
 ***Chin Strike.*** You strike your opponent in the jaw, temporarily dazing it. Make an attack roll with an unarmed strike. On a hit, the target must succeed on a CON save or it can’t speak or cast spells with verbal components until the end of its next turn. This technique only affects opponents who speak using a mouth or similar orifice.
 

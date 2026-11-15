@@ -33,7 +33,6 @@ Martial weapons, including swords, axes, and polearms, require training to use e
 | **Simple Melee Weapons** |  |  |  |  |  |
 | Bayonet | 3 gp | 1d6 piercing | 1 lb. | Hamstring | Two-handed |
 | Boomerang | 1 gp | 1d4 bludgeoning | 1 lb. | — | Finesse, Special, Thrown (range 60/120 ft.) |
-| Boomerang, rebounding | 5 sp | 1d4 bludgeoning | 1 lb. | — | Thrown (range 20/60 ft.) |
 | Cat o’ nine tails | 10 gp | 1d4 bludgeoning | 4 lb. | Disarm, Trip | — |
 | Club | 1 sp | 1d4 bludgeoning | 2 lb. | Bash | Light |
 | Dagger | 2 gp | 1d4 piercing | 1 lb. | Pinning Shot | Finesse, Light, Thrown (range 20/60 ft.) |
@@ -53,14 +52,14 @@ Martial weapons, including swords, axes, and polearms, require training to use e
 | Nunchaku | 2 sp | 1d6 bludgeoning | 2 lb. | Whirling Distraction | Finesse |
 | Pitchfork | 1 sp | 1d4 piercing | 3 lb. | Pinning Shot, Trip | Reach, Two-handed |
 | Quarterstaff | 2 sp | 1d6/1d8 bludgeoning | 4 lb. | Bash | Versatile |
-| Sai | 2 gp | 1d4 piercing | 2 lb. | Disarming Parry, Disarming Twist, Hook and Pivot, Weapon Trap | Finesse, Hooked, Light |
+| Sai | 2 gp | 1d4 piercing | 2 lb. | Weapon Trap | Finesse, Light |
 | Seax | 1 gp | 1d4 piercing | 2 lb. | Puncture | Finesse, Light |
 | Sickle | 1 gp | 1d4 slashing | 2 lb. | Hamstring | Light |
 | Snaerispear | 5 gp | 1d6 piercing | 2 lb. | Hamstring | Finesse, Thrown (1d8, range 30/90 ft.) |
 | Spear | 1 gp | 1d6/1d8 piercing | 3 lb. | Pull, Trip | Reach, Versatile |
 | Throwing stick | 1 sp | 1d4 bludgeoning | 1 lb. | Bash | Light, Thrown (range 60/180 ft.) |
 | Tiger claws | 5 gp | 1d4 slashing | 1 lb. | — | Finesse, Light, Secure |
-| Tonfa | 2 sp | 1d4 bludgeoning | 3 lb. | Disarming Parry, Disarming Twist, Forearm Block, Hook and Pivot, Weapon Trap | Finesse, Hooked, Light, Shielding, Special |
+| Tonfa | 2 sp | 1d4 bludgeoning | 3 lb. | Forearm Block | Finesse, Light, Shielding, Special |
 | Umbrella | 5 sp | 1d4 piercing | 2 lb. | — | — |
 | War fan | 4 gp | 1d4 bludgeoning | 2 lb. | Bash, Disarm | Defensive, Disguised, Finesse, Light |
 | **Simple Ranged Weapons** |  |  |  |  |  |
@@ -81,7 +80,7 @@ Martial weapons, including swords, axes, and polearms, require training to use e
 | Breidox | 45 gp | 1d10 slashing | 11 lb. | Trip | Heavy, Reach, Two-handed |
 | Broadsword | 15 gp | 1d8 slashing | 3 lb. | Bash, Disarm, Hamstring | — |
 | Bryntroll | 35 gp | 1d10 slashing | 7 lb. | Hamstring | Heavy, Reach, Two-handed |
-| Butterfly sword | 10 gp | 1d6 slashing | 2 lb. | Disarming Parry, Disarming Twist, Hook and Pivot, Weapon Trap | Finesse, Hooked, Light |
+| Butterfly sword | 10 gp | 1d6 slashing | 2 lb. | Disarming Parry, Weapon Trap | Finesse, Light |
 | Chain Hook | 15 gp | 1d6 slashing | 3 lb. | Hamstring, Pull, Trip | Reach, Special, Thrown (range 10/20 ft.) |
 | Chakram | 15 gp | 1d6 slashing | 1 lb. | Disarm, Hamstring | Thrown (range 20/60 ft.) |
 | Club Shield | 25 gp | 1d4 bludgeoning | 2 lb. | Bash | Light, Special |
@@ -93,8 +92,8 @@ Martial weapons, including swords, axes, and polearms, require training to use e
 | Greatsword | 50 gp | 2d6 slashing | 6 lb. | Disarm, Hamstring | Heavy, Two-handed |
 | Guisarme | 20 gp | 1d10 piercing | 6 lb. | Pull, Hamstring, Trip | Heavy, Reach, Two-handed |
 | Halberd | 20 gp | 1d10 slashing | 6 lb. | Trip | Heavy, Reach, Two-handed |
-| Hook sword | 15 gp | 1d6 slashing | 3 lb. | Disarming Parry, Disarming Twist, Hook and Pivot, Weapon Trap | Hooked, Light, Special, Versatile (1d8) |
-| Ji | 15 gp | 1d10 piercing | 6 lb. | Disarming Parry, Disarming Twist, Hook and Pivot, Weapon Trap | Heavy, Hooked, Reach, Two-handed |
+| Hook sword | 15 gp | 1d6 slashing | 3 lb. | Disarming Twist, Hook and Pivot | Light, Special, Versatile (1d8) |
+| Ji | 15 gp | 1d10 piercing | 6 lb. | Disarming Twist | Heavy, Reach, Two-handed |
 | Joining Dirks | 50 gp | 1d6 slashing | 2 lb. | Disarm, Hamstring | Finesse, Light, Special |
 | Katar | 5 gp | 1d6 piercing | 1 lb. | — | Finesse, Light, Secure |
 | Khopesh | 25 gp | 1d6 slashing | 4 lb. | Disarm, Hamstring | Versatile (1d8) |
@@ -109,11 +108,10 @@ Martial weapons, including swords, axes, and polearms, require training to use e
 | Pistol sword, pistol\* | 150 gp | 1d6 piercing | 4 lb. | — | Ammunition (range 20/80 ft.), Gunpowder, Loading |
 | Poleaxe | 20 gp | 1d10 slashing | 4 lb. | Bash, Disarm, Hamstring, Trip | Heavy, Two-handed |
 | Rapier | 25 gp | 1d8 piercing | 2 lb. | Disarm | Finesse |
-| Rope dart | 5 sp | 1d6 bludgeoning | 3 lb. | Ensnare, Twine, Whirling Distraction | Finesse, Reach, Two-handed |
+| Rope dart | 1 gp | 1d4 piercing | 3 lb. | Ensnare, Twine, Whirling Distraction | Finesse, Reach, Two-handed |
 | Sabre | 20 gp | 1d8 slashing | 2.5 lb. | Bash, Disarm, Hamstring | Finesse, Secure |
 | Scimitar | 25 gp | 1d6 slashing | 3 lb. | Hamstring | Finesse, Light |
 | Scythe | 20 gp | 2d4 slashing | 4 lb. | Pull, Trip | Reach, Two-handed |
-| Scythe, war | 1 sp | 1d12 slashing | 6 lb. | — | Reach, Two-handed |
 | Shashka | 20 gp | 1d8 slashing | 4 lb. | Disarm, Hamstring | Special, Versatile (1d10) |
 | Shortsword | 10 gp | 1d6 piercing | 2 lb. | Disarm | Finesse, Light |
 | Temple Sword | 35 gp | 1d6 slashing | 3 lb. | Disarm, Hamstring | Finesse, Light |
@@ -133,7 +131,7 @@ Martial weapons, including swords, axes, and polearms, require training to use e
 
 \* The listings for “Pistol sword, pistol” and “Pistol sword, sword” are the same item showing different attack modes.
 
-%% sources: Player's Guide 2: Axespear, Bladed Whip, Boomerang, Chain Hook, Chakram, Club Shield, Double Axe, Gauntlet, Gauntlet, Spiked, Greatbow, Joining Dirks, Khopesh, Light Pick, Parrying Dagger, Repeating Crossbow, Shashka, Temple Sword, Wrist Knife; Northlands Worldbook: Atgeir, Bearded Axe, Breidox, Bryntroll, Seax, Snaerispear, Ulfberht Blade; Trade Secrets: Aruval, Bayonet, Bolo, Broadsword, Cat o’ nine tails, Fire lance, Gaff, Guisarme, Hairpin, Hot iron, Jitte, Katar, Lucerne hammer, Monkey’s fist, Pistol sword, pistol, Pistol sword, sword, Pitchfork, Poleaxe, Sabre, Throwing stick, Tiger claws, War fan; Book of Blades: Boomerang, rebounding, Butterfly sword, Hook sword, Ji, Lasso, Nunchaku, Rope dart, Sai, Scythe, war, Shuriken, Tonfa, Umbrella %%
+%% sources: Player's Guide 2: Axespear, Bladed Whip, Boomerang, Chain Hook, Chakram, Club Shield, Double Axe, Gauntlet, Gauntlet, Spiked, Greatbow, Joining Dirks, Khopesh, Light Pick, Parrying Dagger, Repeating Crossbow, Shashka, Temple Sword, Wrist Knife; Northlands Worldbook: Atgeir, Bearded Axe, Breidox, Bryntroll, Seax, Snaerispear, Ulfberht Blade; Trade Secrets: Aruval, Bayonet, Bolo, Broadsword, Cat o’ nine tails, Fire lance, Gaff, Guisarme, Hairpin, Hot iron, Jitte, Katar, Lucerne hammer, Monkey’s fist, Pistol sword, pistol, Pistol sword, sword, Pitchfork, Poleaxe, Sabre, Throwing stick, Tiger claws, War fan; Book of Blades: Butterfly sword, Hook sword, Ji, Lasso, Nunchaku, Rope dart, Sai, Shuriken, Tonfa, Umbrella %%
 
 ## Weapon Descriptions
 
@@ -152,8 +150,6 @@ Martial weapons, including swords, axes, and polearms, require training to use e
 ***Bolo (Simple Ranged).*** A typical bolo has three weighted lines connected to a central ring or knot. When thrown correctly the lines spread out evenly and spin. A bolo can trip up a moving target wrapping around the runner’s legs. %% source: Trade Secrets %%
 
 ***Boomerang (Simple Melee).*** This weapon is curved and flat, typically made of wood, and its aerodynamic design allows it to be thrown with accuracy. Immediately after you make a ranged attack with it, as a reaction when the boomerang returns to you, you can catch it. Otherwise, it lands in the nearest unoccupied space to you. %% source: Player's Guide 2 %%
-
-***Boomerang, Rebounding (Simple Melee).*** When you throw this weapon and hit, the weapon bounces off your target and returns to your hand. If you miss, the weapon sails past your target, then turns around to strike again. Make a second attack roll. On a miss, the weapon returns to your hand. On a hit, the weapon deals damage to your target, but then falls to the ground. %% source: Book of Blades %%
 
 ***Breidox.*** Essentially a greataxe with a longer haft, the breidox was developed to deliver a powerful slash to opponents behind a protective shield wall. %% source: Northlands Worldbook %%
 
@@ -235,8 +231,6 @@ A creature can attempt to break itself or another creature free from the lasso�
 
 ***Sai (Simple Melee).*** A sai is a three-pronged weapon roughly the length of the wielder’s forearm. The sai’s design makes it ideal for trapping and disarming an opponent’s weapons, and the long central prong can punch through metal plate mail. Sai are typically wielded in pairs. %% source: Book of Blades %%
 
-***Scythe, War (Martial Melee).*** The scythe is a larger sickle with a long blade and an even longer handle. One could harvest grain with it, but the blade is so sharp there’s no question it was crafted to harvest lives. %% source: Book of Blades %%
-
 ***Seax.*** These fighting knives are too heavy to be thrown, but they boast long blades that can punch through leather and mail. %% source: Northlands Worldbook %%
 
 ***Shashka (Martial Melee).*** This weapon is a large cavalry saber employed to great effect by mounted warriors. When riding a mount through enemy ranks, employing the weapon one-handed, you can make whirling downward swings on either side of the mount to strike at enemies on foot. A shashka can’t be wielded with two hands while mounted. %% source: Player's Guide 2 %%
@@ -287,8 +281,6 @@ Many weapons have special properties that affect their use, as shown in the Prop
 
 ***Heavy (STR Requirement).*** In addition to the standard restrictions of the Heavy property, this weapon is impossible to wield effectively unless you have the required STR score. If your STR score doesn’t equal or exceed the STR score listed in parentheses, you have disadvantage on attacks made with it, even if you’re proficient with it. %% source: Player's Guide 2 %%
 
-***Hooked.*** This weapon has one or more hooks or prongs used for catching and trapping an opponent’s weapon. %% source: Book of Blades %%
-
 ***Hot.*** This weapon deals an additional 1 Fire damage on a successful attack. %% source: Trade Secrets %%
 
 ***Light.*** A Light weapon is needed for use with two-weapon fighting (see **Melee Attacks** in **Chapter 6**).
@@ -325,6 +317,8 @@ Remember that unarmed strikes are melee weapon attacks that use an attacker’s 
 
 Not every weapon option presented here is appropriate for every campaign. Rather than allowing a weapon option to be broadly used by anyone who is proficient with a weapon, a GM might allow some weapon options to be gained only by training with a martial mentor.
 
+Martial Action features can’t be used to modify reaction-based weapon options. %% errata 2025-05-29 %%
+
 > [!note] Additional Monk Weapon Proficiencies
 > At the GM’s discretion, a monk character can be considered proficient with the following weapons in addition to the normal simple weapons and shortswords: butterfly swords, ji, hook swords, and rope dart. These are considered monk weapons regardless of their properties.
 
@@ -352,9 +346,10 @@ On a success, its attack misses, and it must succeed on a STR save or drop their
 
 ### Disarming Twist
 
+
 %% source: Book of Blades %%
 
-You attempt to disarm an opponent whose weapon you have trapped using your weapon’s hook (see **Weapon Trap** weapon option). As a reaction, make a DEX or STR check (your choice) contested by the target’s STR check. If you succeed, the target drops the trapped weapon. The dropped item lands in an unoccupied space within 5 feet of the target. If no unoccupied space is within range, the item lands at the target’s feet.
+When a creature you can see within your reach attacks you with a melee weapon, you can use your reaction to force it to make a DEX or STR save (it chooses which) against your weapon option save DC. On a failure, the attack misses, and the target drops its weapon in an unoccupied space within 5 feet of it. If no unoccupied space is within range, the weapon lands at the target’s feet. %% errata 2025-05-29 %%
 
 ### Distract
 
@@ -368,7 +363,7 @@ Make an attack roll with this weapon. On a hit the target must succeed on a WIS 
 
 *Prerequisite: Any Whip*
 
-When a creature you can see attempts to move out of your reach, you can keep it in place. Make an attack roll with this weapon. On a hit, you ensnare the target with your weapon. It can’t move until the start of your next turn or until you release it, whichever comes first.
+Make an attack roll with this weapon against a creature of your size or smaller. On a hit, you ensnare the target with your weapon. It can’t move until the start of your next turn or until you release it, whichever comes first.
 
 ***Special.*** A rope dart can be used to perform this weapon option.
 
@@ -436,9 +431,10 @@ You attempt to grapple a creature by entwining them in your weapon. Make an atta
 
 ### Weapon Trap
 
+
 %% source: Book of Blades %%
 
-When a creature you can see attempts to hit you with a melee weapon attack, you can use your reaction to make a STR or DEX save (your choice) with a DC equal to the creature’s attack roll. You have advantage if you are wielding a hooked weapon in each hand. If you succeed, its attack misses and you trap its weapon until the end of your next turn or until you release it, whichever comes first. When a creature’s weapon is trapped in this way, it has disadvantage on attack rolls with that weapon, and you have disadvantage on attacks using your trapping weapon.
+When a creature you can see attempts to hit you with a melee weapon attack, you can use your reaction to make a STR or DEX save (your choice) with a DC equal to the creature’s attack roll. You have advantage on the save if you are wielding a second weapon of the same type in your other hand. If you succeed, its attack misses, and you trap its weapon until the start of your next turn or until the creature moves out of your reach. A trapped weapon can’t be used to attack, and you can’t attack with the weapon you used to trap it. %% errata 2025-05-29 %%
 
 ### Whirling Distraction
 
@@ -536,7 +532,7 @@ You can’t give a new spell slot or additional charges with this weapon option.
 
 *Prerequisite: A Magic Melee Weapon That Deals Bludgeoning Damage*
 
-You can bash a hole in a magical wall, such as one created with the *wall of stone* spell or similar. Make an attack roll with this weapon. On a hit, you create a break in a magical wall that is 5 feet wide, 5 feet thick, and 10 feet tall. If any of the wall’s duration remains, then once your weapon is removed from this break, the wall reforms in that space.
+You can bash a hole in a magical barrier that requires concentration. Make a melee attack with this weapon against the barrier within your reach. If the result is equal to or higher than 10 + the circle of the spell slot used to create the barrier, you destroy your choice of a flat 10-by-10-foot area or a single 5-foot cube of the barrier. This has no effect on permanent barriers. %% errata 2025-05-29 %%
 
 ## Weapon Materials
 

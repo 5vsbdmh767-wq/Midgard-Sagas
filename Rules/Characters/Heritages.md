@@ -547,11 +547,9 @@ For those from a horse lord heritage, horses are not just a status symbol, but a
 
 Most horse lords live a nomadic existence of seasonal migrations for grazing herds, coming back to the capital once a year to rejoin the rest of their clan. While raised on a culture of self-sufficiency prizing the freedom of the open plains, clansmen also have a deep sense of community, passing on their clan’s history through storytelling and songs. Reverence for the heroes of the past and achieving a place in the afterlife through deeds spurs horse lords to take chances and make sacrifices.
 
-***Expert Trainer.*** You are skilled at training horses, allowing you to enhance your mount. Choose one horse that you work with for one hour as part of a long rest. Add your PB to your horse’s hit point maximum and DEX saves. These bonuses last until you long rest or train another horse.
+***Expert Trainer.*** You are skilled at training horses. As part of a long rest, you can spend one hour working with a particular mount. Its hit point maximum increases by an amount equal to your current level, and it gains a bonus to its saves equal to your PB. These benefits last until you finish your next long rest or use this feature on a different mount. %% errata 2025-05-29 %%
 
-***Clansman.*** You gain proficiency with Animal Handling and either Perform or Survival, reflecting your heritage in the capital or as a wandering herdsman. You have advantage on WIS (Animal Handling) checks made to calm horses.
-
-***Master of Horse.*** You gain proficiency with trapper tools and land vehicles.
+***Herd Master.*** You gain proficiency in Animal Handling, and you have advantage on checks made to influence horses (the GM decides which other creatures count). You also gain proficiency with your choice of trapper tools or land vehicles. %% errata 2025-05-29 %%
 
 ***Languages.*** You know Common and one additional language of your choice. Typical creatures of this heritage choose languages that border their grazing lands or trade with their clan. Halfling and Gnomish are most common.
 
@@ -679,11 +677,9 @@ The military deemed the civil authority to be unable to function and took over t
 
 While the rules are strict, and punishment swift and summary, all of the population’s minimum necessities are met, with additional benefits for the families of those who join the military. Society is generally safe, and those from martial law heritages feel they are part of a cohesive, tight-knit society that prioritizes self-sacrifice and service to others. As part of growing up, all members of society complete basic military training and often complete a brief compulsory military service.
 
-***Basic Training.*** You gain proficiency with Athletics and Intimidation.
+***Basic Training.*** You gain proficiency in either the Athletics or Intimidation skill, and with either light armor or one martial weapon of your choice. %% errata 2025-05-29 %%
 
-***Militia Drill.*** You gain proficiency with light armor, spears, light crossbows, and shortswords.
-
-***Small Unit Tactics.*** While you are within 5 feet of an ally, you can take the Help action to aid that ally as a bonus action. You can do so a number of times equal to your PB and regain all expended uses after you finish a long rest.
+***Small Unit Tactics.*** While you are within 5 feet of an allied creature you can see, you can use the Help action as a bonus action to aid that creature. %% errata 2025-05-29 %%
 
 ***Languages.*** You know Common and one additional language of your choice. Typical creatures of this heritage choose Dwarvish or Infernal.
 
@@ -833,7 +829,7 @@ A pleasant façade over a cold heart is the armor of choice when one moves in th
 
 ***Passion Project.*** You gain proficiency with a skill of your choice and one musical instrument or gaming set.
 
-***Social Maneuvering.*** You have advantage on contested Deception, Insight, and Persuasion skill checks made in social situations. Instead of the situation remaining the same, you win ties.
+***Social Maneuvering.*** You have advantage on checks made to influence Humanoids that are neutral or friendly toward you. When carousing with the upper class, you have advantage on the resolution checks. %% errata 2025-05-29 %%
 
 ***Languages.*** You know Common and one additional language of your choice. Typical creatures of this heritage choose Draconic or Sylvan.
 

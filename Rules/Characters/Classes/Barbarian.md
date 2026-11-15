@@ -491,15 +491,15 @@ Deep in the frozen wastes, some barbarians find their flesh infused with element
 
 *3rd-Level Frostborn Raider Feature*
 
-Your bitter, frozen soul surfaces when you rage, sheathing your flesh in plates of ice and covering your fists with gauntlets that sprout jagged icicles. While you aren’t wearing armor, your AC equals 15 + your CON modifier. (DEX doesn’t factor into your AC for this class feature.)
+Your bitter, frozen soul surfaces when you activate your Rage, sheathing your flesh in plates of ice and covering your fists with gauntlets that sprout jagged icicles. While you aren’t wearing armor, your AC equals 15 + your CON modifier. (DEX doesn’t factor into your AC for this class feature.)
 
-In addition, your ice-covered fists act as spiked gauntlets that deal 1d8 + your STR modifier piercing damage. The spiked ice gauntlets are light weapons and allow you to use the Bash weapon option. They cannot be disarmed and instantly melt when you stop raging.
+In addition, your ice gauntlets are Light melee weapons that you are proficient with. On a hit, the ice gauntlets deal 1d8 + your STR modifier damage, and you can use them with the Bash weapon option. They can’t be disarmed, and they melt instantly when your Rage ends. %% errata 2025-05-29 %%
 
 ### Home in the Wild
 
 *3rd-Level Frostborn Raider Feature*
 
-You are skilled at surviving in wild places and enduring extreme climates. You gain proficiency in the Survival skill. If you already have proficiency, double your PB instead for WIS (Survival) checks.
+You are skilled at surviving in wild places and enduring extreme climates. You gain proficiency in the Survival skill. If you already have proficiency, double your PB instead for Survival checks.
 
 ### One With the Storm
 
@@ -513,17 +513,18 @@ You walk through winter storms without concern and have become inured to their f
 
 While raging, you gain the following benefits:
 
-- As a ranged weapon attack, you can fling icicles from your Bitter Animus ice gauntlets that deal 1d6 + your STR modifier piercing damage. A new icicle regrows immediately after you throw one.
+- As a ranged weapon attack with a range of 20/60 feet, you can fling icicles from your Bitter Animus ice gauntlets that deal 1d6 + your STR modifier piercing damage. A new icicle regrows immediately after you throw one.
 
-- While raging, you call upon the blizzard within to cast *sleet storm* as an action, requiring no material components. CON is your spellcasting ability for this spell. You can cast this spell once each time you use your Rage feature. You don’t need to concentrate to maintain it and cannot end it before its 1 minute duration elapses.
+- While raging, you can use an action to cast *[[3rd-Circle Spells#Sleet Storm|sleet storm]]* without material components or concentration. The storm lasts for 1 minute or until your Rage ends, whichever comes first. You can see and move normally inside the storm, without making DEX saves. CON is your spellcasting ability for this spell. %% errata 2025-05-29 %%
 
 - **Spell save DC** = 8 + your PB + your CON modifier
 
 ### Raging Blizzard
 
+
 *15th-Level Frostborn Raider Feature*
 
-Melee and ranged attacks made with your Bitter Animus ice gauntlets now deal an additional 1d8 cold damage. On your turn, after you take an Attack action with your ice gauntlets, you can use a bonus action to make two additional attacks with your ice gauntlets instead of the one attack typically granted by two-weapon fighting.
+Weapon attacks made with your Bitter Animus ice gauntlets now deal an additional 1d8 cold damage. When you take the Attack action and attack with your ice gauntlets, you can use a bonus action to make two additional attacks with your ice gauntlets. %% errata 2025-05-29 %%
 
 ## Hive Tender
 
@@ -730,7 +731,7 @@ Whenever you activate your Rage feature, if you are smaller than Huge, you can c
 
 %% source: Book of Blades %%
 
-An Undying Warrior possesses a soul that has crossed into death, then pulled back into the world of the living by extraordinary magical means. Returning from true death is a turbulent process that shatters a soul then reforges it entirely. Creatures who have such souls are often psychically scarred by the experience, but they gain a measure of mastery over death. Those who walk this path can’t be pulled into death until their destiny—the reason their soul returned—is fulfilled.
+An Undying Warrior possesses a soul that crossed into death, then was pulled back into the world of the living by extraordinary magical means. Returning from true death is a turbulent process that shatters a soul then reforges it entirely. Creatures who have such souls are often psychically scarred by the experience, but they gain a measure of mastery over death. Those who walk this path can’t be pulled into death until their destiny—the reason their soul returned—is fulfilled.
 
 **Undying Warrior Progression**
 
@@ -751,29 +752,31 @@ When you begin your turn with hit points fewer than your number of barbarian lev
 
 *3rd-Level Undying Warrior Feature*
 
-You become possessed by supernatural wrath when you enter your rage. While you are raging, once during each of your turns when you hit a creature with an attack roll, you can force them to make a WIS save with a DC equal to 10 + your PB. On a failed save, the creature is frightened of you until the end of your next turn.
+You become possessed by supernatural wrath when you enter your rage. While you are raging, once during each of your turns when you hit a creature with an attack roll, you can force it to make a WIS save with a DC equal to 8 + your CON modifier + your PB. %% errata 2025-05-29 %% On a failed save, the creature is frightened of you until the end of your next turn.
 
 In addition, you deal an extra 1d6 psychic damage when you hit a creature that is frightened of you with a weapon attack.
 
 ### Feast of Suffering
 
+
 *7th-Level Undying Warrior Feature*
 
-Your soul consumes ailments that hinder your physical form. As a bonus action, you can end one condition afflicting you and gain temporary hit points equal to half your barbarian level (rounded down). These temporary hit points last for 1 minute.
+Your soul feeds on the pain that would harm you. When you would take damage, you can use your reaction to reduce the damage you take by an amount up to your barbarian level, and you gain temporary hit points equal to the amount of damage reduced. These temporary hit points last until you finish a rest or use this feature again. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a short or long rest. %% errata 2025-05-29 %%
 
 ### Vengeance Snare
 
 *11th-Level Undying Warrior Feature*
 
-While you are raging, you can use a bonus action to project your wrathful soul outward. When you do so, all creatures of your choice within 30 feet of you must succeed on a WIS save (DC equal to 10 + your PB) or become frightened of you for 1 minute or until they are more than 60 feet away from you. If a creature was already frightened of you when it fails this save, it is also paralyzed until the end of your next turn.
+While you are raging, you can use a bonus action to project your wrathful soul outward. When you do so, all creatures of your choice within 30 feet of you must succeed on a WIS save (DC equal to 8 + your CON modifier + your PB) or become frightened of you for 1 minute or until they are more than 60 feet away from you. If a creature was already frightened of you when it fails this save, it is also paralyzed until the end of your next turn.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### Rejected by Death
 
+
 *15th-Level Undying Warrior Feature*
 
-Death no longer desires you. If you die and your body is destroyed, your soul remains. After 24 hours, your soul inhabits and animates another humanoid corpse on the same plane of existence, and the body returns to life with all your hit points. Upon awakening, you recall your former life and experiences. You retain the capabilities you had in your original form, except you exchange your original lineage for the new one (if different than your previous form) and change your lineage features accordingly.
+Death no longer desires you. If you die and your body is intact, you return to life with 1 HP after one hour has passed. This feature doesn’t work if you died of old age, if your body is missing any part essential to survival, or if you are Undead. %% errata 2025-05-29 %%
 
 ## Wild Fury
 

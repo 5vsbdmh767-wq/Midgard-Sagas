@@ -242,16 +242,6 @@ Some effects require you to make an attack roll or require your target to make a
 
 (PB) + your Intelligence (INT) modifier
 
-### Absorbing
-
-%% source: Book of Blades %%
-
-*Item Requirement: Shield or Living Body (Fleshsmiths Only)*
-
-You imbue an item with the ability to absorb a Small or smaller object that is at least one size smaller than it. While absorbed, the object cannot be damaged. The absorbed object disappears and can be called from or returned to the imbued item as an action. If the imbued item is destroyed, any absorbed item appears within 5 feet of the destroyed item. When a Fleshsmith imbues a living body, there might be no sign of the item, a prominent lump, or even a kangaroo-like pouch.
-
-***At Higher Levels.*** Once you reach 9th level in the mechanist class, the imbued item can absorb a Medium or smaller object. Once you reach 15th level in the mechanist class, the imbued item can absorb a Large or smaller object.
-
 ### Adhesive
 
 *Item Requirement: Large or Smaller Equipment or Object that*
@@ -500,6 +490,16 @@ You imbue an item with the energy to repair itself. As long as the object has 1 
 
 You imbue an item with the ability to create a place of safety. When you activate this item, it creates a doorway to an extraplanar space. You and anyone you allow can pass through the doorway, up to a maximum of 5 + your INT modifier Large or smaller creatures. The space appears as a comfortable, furnished inn with enough food, water, and fodder to sustain the creatures in it for one day. As an action, you can evict any creature in the extraplanar space. Evicted creatures appear within 5 feet of the doorway and cannot re-enter the space. The effect recharges after you finish a long rest.
 
+### Storing
+
+%% source: Book of Blades %%
+
+*Item Requirement: Shield or Living Body (Fleshsmiths Only)*
+
+You imbue an item with the ability to absorb a Small or smaller object, storing the absorbed object in an extradimensional space within the item. The object must be at least one size smaller than the item. %% errata 2025-05-29 %% While absorbed, the object cannot be damaged. The absorbed object disappears and can be called from or returned to the imbued item as an action. If the imbued item is destroyed, any absorbed item appears within 5 feet of the destroyed item. When a Fleshsmith imbues a living body, there might be no sign of the item, a prominent lump, or even a kangaroo-like pouch.
+
+***At Higher Levels.*** Once you reach 9th level in the mechanist class, the imbued item can absorb a Medium or smaller object. Once you reach 15th level in the mechanist class, the imbued item can absorb a Large or smaller object.
+
 ### Sustaining
 
 %% source: Book of Blades %%
@@ -523,11 +523,10 @@ While carrying an item that contains written information, you can recall the con
 
 ### Understanding
 
+
 %% source: Book of Blades %%
 
-*Item Requirement: Circlet, Googles, Hat, Helm, Spectacles, or Living Body (Fleshsmiths Only)*
-
-You imbue an item with the ability to understand any spoken or written language. When a Fleshsmith imbues a living body, the creature gains an additional set of eyes or sensory appendage.
+You imbue an item with the ability to understand any spoken or written language. This doesn’t let the wearer decode secret messages, or glyphs and sigils that aren’t part of a written language. When a Fleshsmith imbues a living body, the creature gains an additional set of eyes or a similar visible sensory appendage. %% errata 2025-05-29 %%
 
 ### Vigorous
 
@@ -558,7 +557,7 @@ As you perfect your craft, you gain new abilities that reflect the specific ways
 
 %% source: Book of Blades %%
 
-The clockmaker is a master crafter whose timepiece does more than keep track of the passing hours. With it, the Clockmaker controls time itself. By winding their watch, they can give themselves more time or take time away from their enemies. A clockmaker can even freeze enemies in place with specially prepared traps.
+Clockmakers are precision crafters capable of constructing mystic timepieces that do more than keep track of the passing hours. With them, these mechanists can control time itself. %% errata 2025-05-29 %% By winding their watch, they can give themselves more time or take time away from their enemies. A clockmaker can even freeze enemies in place with specially prepared traps.
 
 **Clockmaker Progression**
 
@@ -569,19 +568,17 @@ The clockmaker is a master crafter whose timepiece does more than keep track of 
 | 11th | Stasis Trap |
 | 15th | Master Timepiece |
 
-### Augment: Count Down
+### Augment: Countdown
 
 *3rd-Level Clockmaker Feature*
 
 You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects you know, as shown in the Augment Effects Known column of the **Mechanist Progression** table.
 
-> Count Down
+> Countdown
 
-*Item Requirement: Medium or Smaller Magic Item that Is*
+*Item Requirement: Magic Item With an Action to Activate an Effect*
 
-*Worn or Carried*
-
-You imbue a magic item with a countdown of any length of time. At the end of the countdown, one of the magic item’s effects (your choice) triggers. When you set the countdown, you choose the duration. The effect targets the creature carrying or wearing the item. If the effect targets an area, the area of effect is centered on the creature. You can touch the item and use an action to change or cancel the item’s countdown.
+You imbue an item so that one of its effects (your choice) triggers after a set amount of time passes. While touching the item, you can use an action to set a countdown, change an ongoing countdown, or cancel a countdown. You can have only one countdown active at a time. When you set the countdown, you choose the duration. The effect targets the creature carrying or wearing the item. If the effect targets an area, the area of effect is centered on the creature. %% errata 2025-05-29 %%
 
 ### Timepiece
 
@@ -621,7 +618,7 @@ When a creature steps on, touches, or is hit by a stasis trap, it must succeed o
 
 - You learn one thing of your choice about the creature: type, resistances, immunities, vulnerabilities, or special attacks.
 
-- Time within a 20-foot radius slows. Creatures in the area halve their speed, take a −2 penalty to AC and DEX saves, and can’t use reactions.
+- Until the end of the paralyzed creature’s next turn, time slows within 20 feet of it. Creatures in the area halve their speed, take a −2 penalty to AC and DEX saves, and can’t use reactions.
 
 ### Master Timepiece
 
@@ -633,7 +630,7 @@ You achieve mastery over your timepiece and expand its abilities even further. Y
 
 - ***Spellcasting.*** Add *foresight* and *time stop* to your list of spells that you can cast using your timepiece.
 
-- ***Extra Time.*** You fully master time between seconds.
+- ***Saved Time.*** You fully master time between seconds.
 
 You can gain an additional action on your turn. You must finish a short or long rest before you can use this feature again.
 
@@ -761,7 +758,7 @@ You sculpt a Small minion out of organic material. Your new servitor takes an ap
 
 In combat, your flesh-forged servitor shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any commands, it takes the Dodge action and uses its move to avoid danger.
 
-Your fservitor has a d6 for hit dice. It has a number of hit dice equal to your mechanist level. It can expend these hit dice to recover hit points during a short rest just as a PC would. It recovers all hit points during a long rest.
+Your flesh-forged servitor has a d6 for hit dice. It has a number of hit dice equal to your mechanist level. It can expend these hit dice to recover hit points during a short rest just as a PC would. It recovers all hit points during a long rest.
 > [!note] Flesh-Forged Servitor
 > *Small Construct*
 > **Armor Class** 10 + your PB (natural armor)
@@ -805,7 +802,7 @@ You graft a body part to your own body or that of a willing host. This graft las
 
 - ***Spine Projector.*** You graft a spine-covered bud onto the target. The bud contains a number of spines equal to your INT modifier. As a bonus action, the target can fire a spine as a ranged weapon attack with a range of 100 feet. Each spine deals 1d6 + the target’s DEX modifier piercing damage. The spines regenerate when the target finishes a short rest.
 
-- ***Third Arm.*** You graft a third limb onto the target. This limb is strong enough to wield a weapon with the Light property. When wielding three Light weapons and the target takes a bonus action to attack with two-weapon fighting, it can choose to make attacks with its third hand, leaving a hand free to wield a shield, a spell focus, or any other one-handed object.
+- ***Third Arm.*** You graft a third limb onto the target. This limb is strong enough to wield a weapon with the Light property. When the target wields two Light weapons and makes the bonus action attack granted by two-weapon fighting, it can choose to make any of those attacks with its third limb, leaving a hand free %% errata 2025-05-29 %% to wield a shield, a spell focus, or any other one-handed object.
 
 ### Absorb Servitor
 
