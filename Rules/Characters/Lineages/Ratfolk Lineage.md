@@ -19,7 +19,7 @@ Your ratfolk character has the following hereditary traits.
 
 ***Size.*** Your size is Small. Ratfolk are about 3 feet tall and weigh around 40 pounds.
 
-***Speed.*** Your base walking speed is 30 feet. You also have a swimming speed of 10 feet.
+***Speed.*** Your base walking speed is 30 feet. You also have a swimming speed of 15 feet. %% errata 2025-05-29 %%
 
 ***Good Nose.*** You have advantage on Perception checks that rely on smell.
 

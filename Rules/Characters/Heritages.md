@@ -917,7 +917,7 @@ Along their journey, seafarer ships shift their formations to respond to the con
 
 You grew up in the Shadow Realm among the courts of the shadow fey. Trickery, dalliance, and fey politics ringed your upbringing, and you learned to navigate and wield them. Whether you are a loyal servant to one of the courts, or practice stepping in between their machinations, you know how to exploit the emotions of other, more susceptible creatures. A shadow court heritage character views their upbringing less like a community and more like an obstacle course, which they grew to traverse with grace and cunning. The skills you garnered from this life will serve you as well in the realm of mortals.
 
-***Gloam Sight.*** When in darkness or dim light, you do not suffer disadvantage on WIS (Perception) checks.
+***Gloam Sight.*** Dim light doesn’t impose disadvantage on your WIS (Perception) checks that rely on sight. %% errata 2025-05-29 %%
 
 ***Stoke Emotions.*** When a creature within 30 feet of you that you can see makes a save to resist becoming charmed or frightened, you can use your reaction to expend 2 Luck, roll a d6, and subtract the number you rolled from the creature’s result.
 
@@ -1221,6 +1221,8 @@ Growing up in one of its varied districts breeds a shrewd mind for business and 
 ***Commercial Mind.*** When you are haggling, bartering, or shopping, you have advantage on checks made to get a better deal or to tell if someone is attempting to rip you off.
 
 ***Defiant.*** When you fail an INT, WIS, or CHA save, you can reroll. You must take the next result. Once you use this feature, you cannot do so again until you finish a short or long rest.
+
+***Languages.*** You know Common and two additional languages of your choice. Typical Zobecker characters choose Draconic, Dwarvish, or Elvish. %% errata 2025-05-29 %%
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

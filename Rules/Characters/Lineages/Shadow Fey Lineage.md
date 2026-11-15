@@ -27,6 +27,10 @@ Your shadow fey character has the following hereditary traits.
 
 ***Fey Whim.*** You have proficiency in Persuasion. When you finish a short or long rest, you can exchange this proficiency for Deception, and vice versa.
 
+***Magic Ancestry.*** You have advantage on saves against being charmed, and magic can’t put you to sleep. %% errata 2025-05-29 %%
+
+***Trance.*** Shadow fey don’t need to sleep. Instead, they enter a meditative trance state, remaining semiconscious for 4 hours a day. You choose whether or not you can dream while meditating. After resting in this way, you gain the same benefit that other creatures do from 8 hours of sleep. %% errata 2025-05-29 %%
+
 ## Lunar Elf
 
 %% source: Book of Ebon Tides (a 5th Edition book; converted for this wiki following Converting 5e Material) %%
