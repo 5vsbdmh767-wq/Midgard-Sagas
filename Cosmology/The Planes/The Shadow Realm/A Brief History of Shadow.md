@@ -52,7 +52,7 @@ Other connections are rarer, and fall into three kinds.
 
 ### Rituals and summoning
 
-Rituals can call creatures out of the Shadow Realm, and powerful casters there can pull mortals in. A few casters deliberately twist a *shadow walk* spell, or speak a glamour to travelers on a shadow road, to draw them deeper into shadow. Most who arrive this way come unwillingly, and want nothing more than to get home.
+Rituals can call creatures out of the Shadow Realm, and powerful casters there can pull mortals in. A few casters deliberately twist an *ebon tide* spell, or speak a glamour to travelers on a shadow road, to draw them deeper into shadow. Most who arrive this way come unwillingly, and want nothing more than to get home.
 
 ### The shadow roots of Yggdrasil
 

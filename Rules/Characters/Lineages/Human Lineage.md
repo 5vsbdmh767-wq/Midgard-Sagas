@@ -33,7 +33,7 @@ Your umbral human character has the following hereditary traits.
 
 ***Age.*** Your natural aging slows to match that of an elf or shadow fey.
 
-***Size.*** Your size is Medium or Small. Humans vary in height and weight, but most adults range between 5 feet and 6 feet tall and average around 150 pounds. If you choose to play a human shorter than 4 feet however, you can choose your size to be Small.
+***Size.*** Your size is Medium. Umbral humans range from barely 5 feet to well over 6 feet tall. %% errata 2025-05-29 %%
 
 ***Speed.*** Your base walking speed is 30 feet.
 
