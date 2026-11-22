@@ -2,7 +2,6 @@
 publish: true
 ---
 ![[Map - The West.webp]]
-*Map from the Midgard Worldbook.*
 
 Perhaps no region inspires more tales of terror across the face of Midgard than its ruined western reaches, a once-verdant land permanently ravaged by the Great Mage Wars. A puckered, ragged scar of desiccated land that tears along the edge of the Green Duchy of [[Verrayne]] and down the coast of the giant-haunted Carnessian Peninsula marks its southern border. The desolation extends north to the elven courts of the [[Arbonesse]], where it gives way to lush forests. In the east, the proud, towering [[The Ironcrags|Ironcrags]] crumble into the foothills of the [[Western Wastes|Goblin Wastes]]. As one moves west toward the [[Leukos River]], the terrible devastation slowly lessens before finally halting at the vast expanse of the [[Western Ocean]].
 

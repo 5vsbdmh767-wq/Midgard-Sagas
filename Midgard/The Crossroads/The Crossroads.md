@@ -3,7 +3,6 @@ aliases: [Crossroads]
 publish: true
 ---
 ![[Map - The Crossroads.webp]]
-*Map from the Midgard Worldbook.*
 
 Interactive version: [The Crossroads on the Midgard Map](https://midgardmap.koboldpress.com/)
 

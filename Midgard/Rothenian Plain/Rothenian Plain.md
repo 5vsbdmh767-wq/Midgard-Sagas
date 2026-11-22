@@ -4,7 +4,6 @@ cssclasses: [lore]
 publish: true
 ---
 ![[Map - Rothenian Plain.webp]]
-*Map from the Midgard Worldbook.*
 
 East of the [[The Margreve|Margreve]] and the Cloudwall Mountains, the grass runs to the horizon. The Rothenian Plain smells of wild thyme in summer and lies under snow all winter, and almost nothing on it stays put. [[Kariv]] bands roll across it in painted wagons (see [[Wandering Realm of the Kariv]]), the [[Centaurs|centaurs]] keep an uneasy peace with them, and the [[Khazzaki]] ride their tough little ponies wherever there is plunder to be had. The few cities are held by iron-fisted lords, robber barons control the river roads, and bandits own the trails between.
 

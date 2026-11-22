@@ -4,7 +4,6 @@ cssclasses: [lore]
 publish: true
 ---
 ![[Map - Seven Cities.webp]]
-*Map from the Midgard Worldbook.*
 
 In the Seven Cities, war is a season like planting or harvest. Every spring the city-states and the free companies they hire march out to take land, cattle, gold, and towns from one another, and every autumn they stop. Other lands think the [[Septimes]] are bloodthirsty, or at least calculating, and Septimes take that as a compliment. War is how rulers prove their wisdom, generals their cleverness, and everyone the blessing of [[Mavros]].
 

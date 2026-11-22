@@ -7,7 +7,6 @@ publish: true
 | None; the dust goblin tribes, lately united under Braagezz | Braagezz, Beloved Leader of All [[Goblins]], Ruler of the Goblin Wastes; Crackfang, Spirit Caller of the Bonewraiths; Fengrak, Chieftain of the Bloody Tusk; Kamelk Twice-Killed, Chieftain of the Ghost Head Goblins | Perhaps 40,000 to 100,000 dust goblins | The Dread Walkers, [[Black Goat\|Goat of the Woods]], [[Addrikah]], [[Boreas (North Wind)\|Boreas]], [[The Hunter\|the Hunter]], the [[White Goddess]], [[Mavros]] |
 
 ![[Map - Western Wastes.webp]]
-*Map from the Midgard Worldbook.*
 
 At the heart of the [[Wasted West]] lie grey dunes, ruined towns, and the Dread Walkers. These are the colossal alien things the wizards summoned in the last desperate years of the Mage Wars, frozen in place by a great working of the surviving mages some 370 years ago. They hang over the horizon like statues of rotting flesh, moving so slowly you can barely see it, and they cannot be killed, banished, or reasoned with. There are no natural ley lines left here, so the weather is wrong and the storms are unnatural. The stars change near the Walkers, and there are fields of doors standing alone in the sand with light leaking around their frames.
 

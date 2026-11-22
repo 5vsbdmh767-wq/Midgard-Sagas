@@ -7,7 +7,6 @@ publish: true
 | First Duke-Admiral Cadua, the Golden Horn | Duke-Admiral Andreos Galantino; Commander Raniero Daliato; Commodore Piedros Galantino; Counselor Amba Werabu of the Morreg; Alkestis, Eye of Rava; Lady Melisande; vassals Queen Kitane of [[Kyprion]], Duke Legorio IV of Raguza, and Duchess Biljana | 2,199,900 (2,070,000 humans, 110,000 minotaurs, 16,000 kobolds, 3,900 gnomes) | Triolo (114,000) | [[Mavros]] (patron), Ceres, [[Charun]], Nethus, [[Rava]] |
 
 ![[Map - Triolo.webp]]
-*Map from the Midgard Worldbook.*
 
 Interactive version: [Triolo on the Midgard Map](https://midgardmap.koboldpress.com/triolo/)
 

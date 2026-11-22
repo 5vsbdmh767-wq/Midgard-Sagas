@@ -7,7 +7,6 @@ publish: true
 | Baron Raúl Cazagoza, the Southern Lion | Ines Cazagoza Ayeshi of La Pregunta; Johennes of Salzbach, hero of the Golden Wave; Caliana the Teaseller; Durant Grasa, Master of the Tumbles; Arcenzo Mudazzo, Ambassador of Triolo; Brimas Val, Ambassador of Valera; High Elder Potnia Adrasta; Perro Omjaya | 710,000 (510,000 humans, 200,000 minotaurs) | Capleon (39,500) | Ariadne ([[Rava]], patron), [[Mavros]], Ceres, [[Charun]], Nethus, [[Hecate]] |
 
 ![[Map - Capleon.webp]]
-*Map from the Midgard Worldbook.*
 
 Interactive version: [Capleon on the Midgard Map](https://midgardmap.koboldpress.com/capleon/)
 

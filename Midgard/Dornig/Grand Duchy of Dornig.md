@@ -7,10 +7,8 @@ publish: true
 | The Beloved Imperatrix Regia Moonthorn Kalthania-Reln vann Dornig, currently in a coma | Lord Arcane Heronimus Abysin Aldous-Donner, regent; Thadia, chamberlain; Prince Octabian Hirsh-Dammung; General Embrose Hirsh-Dammung; Princess Lyndosa Aldous-Donner; Prince Dimitor vann Rottsten; Grand Baron Dymytros Howlik vann Rottsten; Saintmistress Rowanmantle; Kalvora Moonsong; Queen Urzula of [[Krakovar\|Krakova]], in exile | About 3.8 million (3,200,000 humans, 200,000 elfmarked, 200,000 dwarves, 100,000 halflings, 1,000 elves) | The Imperatrix's moving court, currently at Reywald | [[Yarila & Porevit\|Yarila]] and Porevit, [[Lada]], [[Perun]], Holda, [[Volund]] |
 
 ![[Map - Grand Duchy of Dornig.webp]]
-*Map from the Midgard Worldbook.*
 
 ![[Map - Reywald.webp]]
-*Map from the Midgard Worldbook.*
 
 Interactive version: [Reywald on the Midgard Map](https://midgardmap.koboldpress.com/reywald/)
 

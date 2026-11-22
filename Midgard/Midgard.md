@@ -3,7 +3,6 @@ aliases: [Regions, Atlas of Midgard]
 publish: true
 ---
 ![[Map - Midgard.webp]]
-*Map from the Midgard Worldbook.*
 
 Explore the full zoomable map on the [[Interactive Map]] page, or [open it on Kobold's site](https://midgardmap.koboldpress.com/).
 

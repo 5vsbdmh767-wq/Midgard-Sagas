@@ -2,7 +2,6 @@
 publish: true
 ---
 ![[Map - Southlands.webp]]
-*Map from the Midgard Worldbook.*
 
 ## Regions
 - [[Nuria Natal]]

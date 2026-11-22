@@ -34,9 +34,9 @@ When a GM tracks milestones, PCs level up when they achieve a goal established b
 
 As a general rule, 1st-level PCs should hit a milestone after a single game session. Then, 2nd-level PCs should hit a milestone after two game sessions, and 3rd-level PCs should hit a milestone after three game sessions. They should hit another milestone approximately every three sessions after that. A GM can exercise dramatic license to speed up or slow down milestone advancement.
 
-## Optional Rule: Multiclassing
+## Multiclassing
 
-Multiclassing is an optional rule that allows you to gain levels in multiple classes. This lets you mix class features to realize a character concept that might not be reflected in one of the standard class options.
+Multiclassing is a rule that allows you to gain levels in multiple classes. This lets you mix class features to realize a character concept that might not be reflected in one of the standard class options.
 
 If your GM approves use of this rule, you can gain a level in a new class whenever you advance in level, instead of gaining a level in your current class. Add all your class levels together to determine your character level. For example, if you have three levels in wizard and two in fighter, you’re a 5th-level character.
 

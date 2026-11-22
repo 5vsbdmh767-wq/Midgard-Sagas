@@ -7,7 +7,6 @@ publish: true
 | Emperor Vilmos Marquering, the Black Fang | Kassimir Valengurd the Confessor, adviser to the Black Iron Throne; Duchess Angvyr Ssetha, the Lady of Chains, Slave Mistress of Chaingard; Duchess Mikalea Soulreaper, Lorekeeper of Ossean; Duke Borag the Executioner, Warlord of Gallwheor; Duke Eloghar Vorghesht, Regent of Evernight; Duke Wierdunn Bonehand, Warden of Blackstone; First Captain Ingelmarr Rothand, Steward of Bargol's Watch; Her Witchlight Resplendence Tiberessa Vert, priestess of [[Santerr Illosi]]; His Carmine Eminence and High Patriarch of Zhurakh, Devros Perghallen; Protector of Souls Sen-Nefer, priest of [[Anu-Akma]] | 65,000 (30,000 slaves, 10,000 lesser ghouls and ghasts, 7,000 darakhul, 6,000 imperial ghouls, 6,000 shadow goblins) | [[Vardesain]], [[Anu-Akma]], Chernobog, [[Mavros]], [[Sarastra]] | Iron, weapons, armor, gemstones, relics from the [[Oshragora\|City Fallen into Shadow]] |
 
 ![[Map - Twilight Empire.webp]]
-*Map from the Midgard Worldbook.*
 
 The capital is Zhurakh, the City of Bone and Iron (population 15,000), and the other enclaves are Chaingard, Gallwheor, Blackstone, Evernight, Ossean, and Bargol's Watch. The empire's symbol is a white skull crowned with green fire. Its slaves are bearfolk, elves, umbral humans, shadow goblins, and shadow fey.
 

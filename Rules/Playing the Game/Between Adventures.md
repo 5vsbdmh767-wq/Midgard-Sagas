@@ -45,7 +45,7 @@ You can spend downtime blowing off steam and making new friends. Enterprising ch
 > ***During the Session.*** When you use downtime activities during a session, the characters are usually in a safe environment, not actively adventuring, and outside concerns aren't immediately pressing. Time flies as days and weeks are spent working on personal goals. This time can be difficult to reconcile and even undesirable for some players who feel an immediate threat or a time‑sensitive concern. In addition to the attention paid to time spent, downtime activities can take some actual playtime to fully run their course. One way you can manage this is by calling for initiative and having everyone enter in a turn
 >
 
-Select one of the following options or ask your GM to select based on the kind of people you wish to carouse with. Note that if more than one PC engages in the same carousing activity, the cost must be paid for each participant, but only one PC must expend the required downtime. Listed costs cover an entire week of carousing.
+Select one of the following options or let your GM select based on the kind of people you wish to carouse with. Note that if more than one PC engages in the same carousing activity, the cost must be paid for each participant, but only one PC must expend the required downtime. Listed costs cover an entire week of carousing.
 
 - ***Lower Class (10 gp).*** This type of carousing is for nights of drinking at a favorite tavern, outdoor concerts and fairs, and late-night loitering. Members of the lower class typically include students, servants, laborers, petty criminals, soldiers, acolytes, and sailors.
 

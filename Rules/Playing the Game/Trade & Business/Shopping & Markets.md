@@ -9,7 +9,7 @@ When the PCs are on a tight schedule, track how much time they spend pursuing th
 
 *New downtime activity.* See [[Between Adventures]] for the general downtime rules.
 
-When you set out to shop as a downtime activity, select one of the following options, or describe your shopping objective and ask your GM which of these is the most appropriate method of achieving your goals.
+When you set out to shop as a downtime activity, select one of the following options, or describe your shopping objective and let your GM choose the most appropriate method of achieving your goals.
 
 ***Shopping List.*** Go to exactly the right shop and buy exactly what you need. This is the default method for PCs to replenish adventuring supplies. Use this option when you just want to hit the shops, buy everything on their list, back to the action, and maybe manage a little discount in the process.
 

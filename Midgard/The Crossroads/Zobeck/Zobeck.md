@@ -3,7 +3,6 @@ cssclasses: [lore]
 publish: true
 ---
 ![[Map - Zobeck.webp]]
-*Map from the Midgard Worldbook.*
 
 Interactive version: [Zobeck on the Midgard Map](https://midgardmap.koboldpress.com/zobeck/)
 

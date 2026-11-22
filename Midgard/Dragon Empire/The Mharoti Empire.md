@@ -7,13 +7,10 @@ publish: true
 | Dread Sultan Ozmir Al-Stragul | Kah-Vizier Zeki Hasan Al-Eski, keeper of the treasury; Vorel, Mistress of the Royal Harem; Basha General Azladdan ir-Rahullah of the Windrider Legion; Lord Marsan Cogalu, Commander of the Order of the Wyvern; Hasibe al-Harkeshi, High Priestess of [[Baal-Hotep\|Baal]]; Yavuz al-Prezhan, High Priest of Veles; Enver Demir Al-Kaa'Nesh, the Firespeaker of Mharot; General Stalek al-Grodoccor, king of the giants; [[Storros]] the Sea Sage; Zukzorana the Fifth, kobold queen of queens; Jabbir the Herald; Ambassador-Elementalist Aban; Kan Ulkan | About 48 million (19,500,000 dragonkin, 14,000,000 kobolds, 13,500,000 humans, 180,000 dwarves, 100,000 gnolls, 50,000 ogres, 18,000 drakes, 12,000 giants, 6,000 gnomes, 500 dragons) | Harkesh | Azuran, [[Baal-Hotep\|Baal]], Khespotan, Seggotan, Veles |
 
 ![[Map - Mharoti Empire West.webp]]
-*Map from the Midgard Worldbook.*
 
 ![[Map - Mharoti Empire East.webp]]
-*Map from the Midgard Worldbook.*
 
 ![[Map - Harkesh.webp]]
-*Map from the Midgard Worldbook.*
 
 Interactive version: [Harkesh on the Midgard Map](https://midgardmap.koboldpress.com/harkesh/)
 

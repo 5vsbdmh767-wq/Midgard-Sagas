@@ -7,7 +7,6 @@ publish: true
 | Prince Valendan | Cylentha the Silver Mistress; First Consort Shemani; Radiant Chancellor Ectius, Ambassador to the Stars; Second Consort Tremanca; Verskas Bright Eye; Phaerliggath, the dragon of Voidreach | 1,850 (900 shadow fey, 300 courtfolk halflings, 250 witchlights, 200 celestials, 100 shadow goblins, 70 umbral humans, 30 starry courtiers or living stars) | Veles, Khors, [[Wotan]], [[Sarastra]] | Void secrets, cartography, illumination magic, prophecy |
 
 ![[Map - Court of One Million Stars.webp]]
-*Map from the Midgard Worldbook.*
 
 The stars rarely shine over the [[The Shadow Realm|Shadow Realm]], but above its clouds rests the most enigmatic of dark fey gatherings: the Court of One Million Stars. Delicate spires of silver and pearl rise from great discs spun of dreamstuff and starlight, clustered together and joined by graceful bridges of moonbeams woven with silver. Prince Valendan, a noble [[Satyrs|selang]] wizard, rules with aloof, quiet wisdom. He makes a point of meeting every visitor at least once, though few get a second audience. His strange looks repel some, but he is far less bound to chaos and evil than most selang.
 

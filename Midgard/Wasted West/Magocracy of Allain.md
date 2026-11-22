@@ -7,7 +7,6 @@ publish: true
 | Exarch Vermes II and the Ninemage Council | Andress the Ageless, master of the Maillon chymists; Elder Arch Kallimachus of Cassadega; Feywarden Second Prime Cothwidden of Tintager; Teth Rangeska of Maillon; Malkot Ebonstaff of Smolderheim; Thelosiphus Duchang of the wilds; Jacen the Paper Master; High Savant-Priest Argess Airgead the Silver Feathered; Erramun the Sleepless; Feywarden Marriot Splitleaf | About 248,000 (221,000 humans, 20,000 tieflings, 6,000 gnomes, 1,000 minotaurs) | Bemmea | [[Thoth-Hermes]] (patron), [[Hecate]], [[Sarastra]], Veles, [[Wotan]] |
 
 ![[Map - Bemmea.webp]]
-*Map from the Midgard Worldbook.*
 
 Interactive versions: [Maillon](https://midgardmap.koboldpress.com/maillon/) and [Bemmea](https://midgardmap.koboldpress.com/bemmea/)
 

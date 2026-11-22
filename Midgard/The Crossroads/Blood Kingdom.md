@@ -7,7 +7,6 @@ publish: true
 | [[King Lucan]] | Thurso Dragonson, Duke of Morgau; Lord Fandorin, Baron of Doresh; Lady Mihaela, Baroness of Doresh; Princess Hristina, Duchess of [[Krakovar]] and Grand Marshall of the Ghost Knights; High Priestess Lileshka of the Chalice | Bratislor | [[Marena]], [[Mavros]], [[Vardesain]], [[Charun\|St. Charon]], [[The Hunter\|the Hunter]], Chernobog |
 
 ![[Map - Bratislor.webp]]
-*Map from the Midgard Worldbook.*
 
 Interactive version: [Bratislor on the Midgard Map](https://midgardmap.koboldpress.com/bratislor/)
 

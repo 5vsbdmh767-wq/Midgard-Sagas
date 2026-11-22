@@ -4,7 +4,6 @@ cssclasses: [lore]
 publish: true
 ---
 ![[Map - Dark Kingdoms.webp]]
-*Map from the Midgard Worldbook.*
 
 Northeast of [[Zobeck]], past the [[The Margreve|Margreve]], lie three kingdoms that seasoned travelers call the Triumvirate of Evil. No one goes there without a desperate need or a very large profit in mind, and the wise ones plan their escape before they arrive.
 

@@ -7,7 +7,6 @@ publish: true
 | Emperor Loki V | Imperial Marshal Carridoc Joderik Kastellan; the exiled Sultana Casmara Azrabahir; Izem ibn-Tariq, Emissary of the Spider Prophet; First Charioteer Akara Amasis, Nurian Ambassador; Priest-Commander Armengol de Aspa of Mavros; High Pontifex Miter Konya Mellas; Reverend Boatman Vanth of [[Charun]]; Bladesaint Ulderico Vensali | 482,000 (393,000 humans, 70,000 dwarves, 17,000 centaurs, 2,000 minotaurs) | Valera (40,500) | [[Mavros]] (patron), Ariadne ([[Rava]]), Ceres, [[Charun]], [[Lada]] |
 
 ![[Map - Valera.webp]]
-*Map from the Midgard Worldbook.*
 
 Valera was the southern capital of the elven empire, and it still thinks of itself as first among the [[Seven Cities]]. It is an empire in name only now, but it has old secrets, elven palaces, and the most devoted servants of Mavros anywhere outside [[Kammae Straboli|Kammae]]. Many families give a son to Mavros, to the priesthood or, for the poor, the legions.
 

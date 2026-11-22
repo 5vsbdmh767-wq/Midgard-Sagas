@@ -3,7 +3,6 @@ aliases: [Fey Courts, fey courts, Fallen Courts]
 publish: true
 ---
 ![[Map - Heart of the Shadow Fey.webp]]
-*Map from the Midgard Worldbook.*
 
 The [[The Shadow Realm|Shadow Realm]] has always belonged most of all to the fey, who used it as a source of magic and a way to travel long before they learned to make foundation stones and settle it. Their courts are much like those of the elves of [[Silendora]], the Summer Lands, in size and organization, but darker, and usually with far more gnomes, goblins, and humans. The [[Shadow Fey|shadow fey]] have never been many, but their promises of power and their gift for enchanting and controlling mortal rulers have let them pull whole cities into shadow.
 

@@ -7,7 +7,6 @@ publish: true
 | Admiral and Despot of Reth-Saal, Honest and Rightful King of the Plains, Master of the Ruby Sea, Lord of Land and Sky, Veltrin the Younger, the Glittering King | Zaganos the Red, Grand Marshall of the Ruby Sea; Captain Noorasti of the *Red Griffon*, a vrock; Captain Arianos the Mad of the *Moaning Monk*; Captain Fyogrim the Pale of the *Lost Moon*, priest of Chernobog; Darputin Valshek, captain of the Keepers of Order; Faulietta, called Foxglove, Mistress of Coin | About 39,500 (36,000 humans, 3,500 gnolls) | Reth-Saal | Chernobog, [[Mavros]], [[Marena]], [[Volund\|Svarog]] ([[Volund]]), the [[White Goddess]] |
 
 ![[Map - Reth-Saal.webp]]
-*Map from the Midgard Worldbook.*
 
 The Despotate holds a peninsula on the Ruby Sea, south of the [[Rothenian Plain]], and lives by slaving. Every summer the Rubeshi ride out with wagons, nets, and branding irons to take new slaves for their fields, mines, and the oars of their war galleys. They call them bondservants. They sell to anyone, and their red-and-black sails are dreaded by every fishing village on the sea, including those of [[Perunalia]].
 

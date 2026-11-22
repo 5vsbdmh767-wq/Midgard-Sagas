@@ -10,7 +10,7 @@ After witnessing terrors beyond mortal comprehension, a PC might experience drea
 
 Various diseases, magical effects, and supernatural hazards can create dread within an otherwise regulated mind. Some powerful magic items can also wreck the psyche of creatures who use or become attuned to them. Resisting dread typically requires a WIS or CHA save, but a given effect will provide any necessary details for avoiding or overcoming it.
 
-### Optional Rule: Dread Exposure
+### Dread Exposure
 
 Certain creatures, hazards, and similar supernatural effects within the game specifically prompt interactions with the dread rules. However, horror adventures and campaigns often warrant additional opportunities to introduce dread. If your gaming table agrees, you can use the following suggestions to expand the use of dread in your game.
 

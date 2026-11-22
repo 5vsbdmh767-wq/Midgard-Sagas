@@ -23,7 +23,7 @@ Each successful hit by a combatant earns 1 point. When the set number of rounds 
 
 The losing combatant is automatically reduced to 0 HP and considered unconscious but stable—unless their opponent declares that they wished to deal lethal damage at the start of the single combat (see specific single-combat rules). Unless the GM rules otherwise, a losing combatant can be restored to full health after finishing a short rest.
 
-***Optional Rule.*** If you would like to track damage as part of a single combat, a GM can choose to calculate weapon damage normally or have combatants reduce their hit points by a larger percentage each time an attacker lands a successful hit. Damage tracked in this way is assumed to be nonlethal.
+If you would like to track damage as part of a single combat, a GM can choose to calculate weapon damage normally or have combatants reduce their hit points by a larger percentage each time an attacker lands a successful hit. Damage tracked in this way is assumed to be nonlethal.
 
 ## Cheating
 

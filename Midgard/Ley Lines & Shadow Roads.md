@@ -4,7 +4,6 @@ cssclasses: [lore]
 publish: true
 ---
 ![[Map - Midgard Ley Lines.webp]]
-*Map from the Midgard Worldbook.*
 
 Ley lines are invisible rivers of magic running through the land. Some call them the scales of Veles or the bones of the world. They strengthen spells, arcane and divine alike, and they feed the old wards, the spells of liches, and the shadow roads. An ordinary eye can't see them, but a trained spellcaster sees them as glowing threads or bands of light. They aren't everywhere. The [[Western Wastes]] have almost none, and they're rare underground.
 
