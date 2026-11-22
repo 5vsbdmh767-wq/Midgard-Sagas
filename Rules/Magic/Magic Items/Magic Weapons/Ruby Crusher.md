@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Greatclub), [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Greatclub), [[Using Magic Items#Rarity|Legendary]] 100,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This greatclub is made entirely of fused rubies with a grip wrapped in manticore hide A roaring fire burns behind its smooth facets. You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Mace), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Mace), [[Using Magic Items#Rarity|Very Rare]] 110,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This bone mace is crafted from a humanoid femur. One end is carved to resemble a ghoulish face, its mouth open wide and full of sharp fangs. The mace has 8 charges, and it recovers 1d6 +2 charges daily at dawn.
 

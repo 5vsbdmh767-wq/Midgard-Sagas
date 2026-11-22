@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Plate), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Plate), [[Using Magic Items#Rarity|Rare]] 16,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This broad, bulky suit of plate is adorned with large, blunt spikes and has curving bull horns affixed to its helm. While wearing this armor, you gain a +1 bonus to AC, and difficult terrain doesn’t cost you extra movement.
 

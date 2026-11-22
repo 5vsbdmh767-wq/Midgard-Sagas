@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Shield), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Shield), [[Using Magic Items#Rarity|Very Rare]] 120,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This metal shield has an outer coating consisting of hardened resinous insectoid secretions embedded with flakes from ground dragon scales collected from various dragon wyrmlings and one dragon that was killed by shadow magic. While holding this shield, you gain a +2 bonus to AC. This bonus is in addition to the shield’s normal bonus to AC. In addition, you have resistance to acid, cold, fire, lightning, necrotic, and poison damage dealt by the breath weapons of dragons.
 

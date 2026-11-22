@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Any Metal), Rarity Varies* %% price pending %%
+*[[Armor|Armor]] (Any Metal), Rarity Varies 50 gp + base armor cost (hellfire) or 1,100 gp + base armor cost (molten)*
 
 This spiked armor is a dark, almost black crimson when inactive.
 

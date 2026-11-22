@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Any Sword), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Any Sword), [[Using Magic Items#Rarity|Rare]] 8,020 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This thin, curved blade has a bell guard shaped like a curled, golden leaf. You gain a +1 bonus to attack and damage rolls with this magic weapon. When you hit an aberration or undead creature with it, that target takes an extra 1d8 damage of the weapon’s type.
 

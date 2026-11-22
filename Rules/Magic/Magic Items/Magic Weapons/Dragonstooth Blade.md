@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Greatsword or Longsword), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Greatsword or Longsword), [[Using Magic Items#Rarity|Very Rare]] 7,500 gp + base weapon cost ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This razor-sharp blade, little more than leather straps around the base of a large tooth, still carries the power of a dragon. This weapon’s properties are determined by the type of dragon that once owned this tooth. The GM chooses the dragon type or determines it randomly from the options below.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Arrow), [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*[[Weapons|Weapon]] (Arrow), [[Using Magic Items#Rarity|Uncommon]] 100 gp*
 
 Carvings of spiderwebs decorate the arrowhead and shaft of these arrows, which always come in pairs. When you fire the arrows from a bow, they become the two anchor points for a 20-foot cube of thick, sticky webbing. Once you fire the first arrow, you must fire the second arrow within 1 minute. The arrows must land within 20 feet of each other, or the magic fails.
 

@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Wondrous Item, Uncommon 2,500 gp* While wearing this helm, you can use an action to cast the *[[1st-Circle Spells#Comprehend Languages|comprehend languages]]* spell from it.
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,500 gp*
+
+While wearing this helm, you can use an action to cast the *[[1st-Circle Spells#Comprehend Languages|comprehend languages]]* spell from it.
 
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

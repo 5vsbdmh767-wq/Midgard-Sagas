@@ -90,7 +90,7 @@ publish: true
 | [[Staff of Scrying]] | Staff | Rare | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending |
 | [[Staff of Spores]] | Staff | Rare | by a [[Druid]] | pending |
 | [[Staff of Striking]] | Staff | Very Rare | Yes | 66,000 gp |
-| [[Staff of Swarming Insects]] | Staff | Rare | — | 15,300 gp |
+| [[Staff of Swarming Insects]] | Staff | Rare | by a [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | 15,300 gp |
 | [[Staff of the Armada]] | Staff | Rare | by a [[Wizard]] | pending |
 | [[Staff of the Artisan]] | Staff | Rare | by a Spellcaster | pending |
 | [[Staff of the Cephalopod]] | Staff | Very Rare | by a [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending |

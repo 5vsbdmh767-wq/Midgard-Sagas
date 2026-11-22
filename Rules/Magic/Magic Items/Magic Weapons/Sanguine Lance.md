@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Lance), [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Lance), [[Using Magic Items#Rarity|Uncommon]] 1,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])* %% cursed: listed at half price %%
 
 This fiendish lance runs red with blood. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

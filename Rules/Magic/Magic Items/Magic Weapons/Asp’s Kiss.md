@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Shortsword), [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]], [[Fighter]], [[Ranger]], or [[Rogue]])* %% price pending %%
+*[[Weapons|Weapon]] (Shortsword), [[Using Magic Items#Rarity|Legendary]] 100,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]], [[Fighter]], [[Ranger]], or [[Rogue]])*
 
 This haladie features two short, slightly curved blades attached to a single hilt with a short, blue-sheened spike on the hand guard. You gain a +2 bonus to attack and damage rolls made with this magic weapon. While attuned to this sword, you have immunity to poison damage, and, when you take the Dash action, the extra movement you gain is double your speed instead of equal to your speed. When you use the Attack action with this sword, you can make one attack with its hand guard spike (treat as a dagger) as a bonus action.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Maul or Warhammer), [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*[[Weapons|Weapon]] (Maul or Warhammer), [[Using Magic Items#Rarity|Rare]] 1,500 gp + base weapon cost*
 
 The head of this weapon is shaped like an anvil, and engravings of fire and arcane runes decorate it. You can use a bonus action to speak this magic weapon’s command word, causing its head to glow red-hot. While red-hot, the weapon deals an extra 1d6 fire damage to any target it hits. The weapon’s anvil-like head remains red-hot until you use a bonus action to speak the command word again or until you drop or sheathe the weapon.
 

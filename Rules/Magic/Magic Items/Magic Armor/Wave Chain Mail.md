@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Chain Mail), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Chain Mail), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 The rows of chain links of this armor seem to ebb and flow like waves while worn. Attacks against you have disadvantage while at least half of your body is submerged in water.
 

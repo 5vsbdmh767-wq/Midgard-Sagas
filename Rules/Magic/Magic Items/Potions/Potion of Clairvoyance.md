@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Potion, Rare 200 gp* When you drink this potion, you gain the effect of the *[[Rituals 1st–3rd Circle#Clairvoyance|clairvoyance]]* spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.
+*Potion, [[Using Magic Items#Rarity|Rare]] 200 gp*
+
+When you drink this potion, you gain the effect of the *[[Rituals 1st–3rd Circle#Clairvoyance|clairvoyance]]* spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.
 
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

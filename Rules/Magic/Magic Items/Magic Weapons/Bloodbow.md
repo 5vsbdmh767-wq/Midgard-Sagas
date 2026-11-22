@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Longbow), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Longbow), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This longbow is carved of a light, sturdy wood such as hickory or yew, and it is almost always stained a deep maroon hue, lacquered and aged under layers of sundried blood. The bow is sometimes decorated with reptilian teeth, centaur tails, or other battle trophies.
 

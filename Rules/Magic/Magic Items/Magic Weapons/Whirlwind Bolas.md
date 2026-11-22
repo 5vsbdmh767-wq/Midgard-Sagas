@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Bolas), [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*[[Weapons|Weapon]] (Bolas), [[Using Magic Items#Rarity|Rare]] 8,000 gp*
 
 The metal weights of this magic weapon are inscribed with spiraling sigils of the wind. When you throw this bolas at a creature, the DC for the weapon’s STR save is 15 instead of 10. If a creature deals slashing damage to the bolas to free itself, the bolas can’t be used to reduce a creature’s speed again until the next dawn, when it knits itself back together.
 

@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Potion, Rare 350 gp* For 1 hour after drinking it, you gain 10 temporary HP that last for 1 hour. For the same duration, you are under the effect of the *[[1st-Circle Spells#Bless|bless]]* spell (no concentration required). This blue potion bubbles and steams as if boiling.
+*Potion, [[Using Magic Items#Rarity|Rare]] 350 gp*
+
+For 1 hour after drinking it, you gain 10 temporary HP that last for 1 hour. For the same duration, you are under the effect of the *[[1st-Circle Spells#Bless|bless]]* spell (no concentration required). This blue potion bubbles and steams as if boiling.
 
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

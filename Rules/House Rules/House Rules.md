@@ -5,3 +5,4 @@ publish: true
 - [[Void Taint]]
 - [[Converting 5e Material]]
 - [[Monster Harvesting]], which is in use
+- [[Magic Item Prices]]

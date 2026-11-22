@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Hide), [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*[[Armor|Armor]] (Hide), [[Using Magic Items#Rarity|Uncommon]] 1,000 gp*
 
 While wearing this hairy, black and white armor, you have a burrowing speed of 20 feet, and you have advantage on WIS (Perception) checks that rely on smell.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Maul), [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Maul), [[Using Magic Items#Rarity|Uncommon]] 2,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Also called an anointing gada, you gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

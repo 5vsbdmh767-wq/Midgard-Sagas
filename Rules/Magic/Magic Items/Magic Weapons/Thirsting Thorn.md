@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Shortsword), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Shortsword), [[Using Magic Items#Rarity|Rare]] 4,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])* %% cursed: listed at half price %%
 
 You gain a +1 bonus to attack and damage rolls made with this weapon. In addition, while carrying the sword, you have resistance to necrotic damage.
 

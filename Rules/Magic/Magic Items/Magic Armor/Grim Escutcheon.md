@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Shield), [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Shield), [[Using Magic Items#Rarity|Uncommon]] 4,030 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This blackened iron shield is adorned with the menacing relief of a monstrously gaunt skull. You gain a +1 bonus to AC while you wield this shield. This bonus is in addition to the shield’s normal bonus to AC.
 

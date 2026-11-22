@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Any Axe), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Any Axe), [[Using Magic Items#Rarity|Rare]] 8,020 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This simple axe looks no different from a standard forester’s tool. A single-edged head is set into a slot in the haft and bound with strong cord. The axe was found by a timber-hauling crew who disappeared into the shadows of a cave deep in an old forest. Retrieved in the dark of the cave, the axe was found to possess disturbing magical properties.
 

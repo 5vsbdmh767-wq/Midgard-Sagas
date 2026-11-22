@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Spear), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Spear), [[Using Magic Items#Rarity|Very Rare]] 33,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])* %% cursed: listed at half price %%
 
 This rowan wood spear has a thick knot in the center of the haft that uncannily resembles a [[Conditions#Petrified|petrified]] human heart. When you hit with an attack using this magic spear, the target takes an extra 1d6 necrotic damage.
 

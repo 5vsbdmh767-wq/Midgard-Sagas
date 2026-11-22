@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Any Sword), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Any Sword), [[Using Magic Items#Rarity|Rare]] 16,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 The blade of this weapon is cool to the touch and gives off a yellow-white radiance, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. In temperatures above freezing, vapor wafts off the chilled blade. When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage.
 

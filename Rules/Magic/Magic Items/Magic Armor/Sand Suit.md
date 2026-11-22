@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Leather), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Leather), [[Using Magic Items#Rarity|Very Rare]] 66,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Created from the treated body of a destroyed apaxrusl, this leather armor constantly sheds fine sand. The faint echoes of damned souls also emanate from the armor.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Longbow), [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Longbow), [[Using Magic Items#Rarity|Uncommon]] 2,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This magic weapon imbues arrows fired from it with random energies. When you hit with an attack using this magic bow, the target takes an extra 1d6 damage. Roll a d8. The number rolled determines the damage type of the extra damage.
 

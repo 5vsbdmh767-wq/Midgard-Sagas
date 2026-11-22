@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Scimitar), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Scimitar), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. While holding or carrying this scimitar, you can tolerate temperatures as low as -50 degrees Fahrenheit or as high as 150 degrees Fahrenheit without any additional protection.
 

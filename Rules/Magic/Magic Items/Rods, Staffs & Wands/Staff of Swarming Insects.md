@@ -1,9 +1,9 @@
 ---
 publish: true
 ---
-*Staff, Rare 15,300 gp* *(Requires Attunement by a [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]],*
+*Staff, [[Using Magic Items#Rarity|Rare]] 15,300 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]])*
 
-*[[Warlock]], or [[Wizard]])* This staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, a swarm of insects consumes and destroys the staff, then disperses. The staff has the following additional properties:
+This staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, a swarm of insects consumes and destroys the staff, then disperses. The staff has the following additional properties:
 
 ***Spells.*** While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: *[[4th-Circle Spells#Giant Insect|giant insect]]* (4 charges) or *[[5th-Circle Spells#Insect Plague|insect plague]]* (5 charges).
 

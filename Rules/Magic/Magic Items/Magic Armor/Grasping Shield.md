@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Shield), [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Shield), [[Using Magic Items#Rarity|Uncommon]] 2,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 The boss at the center of this shield is a hand fashioned of metal. While wielding this shield, you gain a +1 bonus to AC. This bonus is in addition to the shield’s normal bonus to AC.
 

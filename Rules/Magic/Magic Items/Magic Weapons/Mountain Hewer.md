@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Greataxe), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Greataxe), [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. The massive head of this axe is made from chiseled stone lashed to its haft by thick rope and leather strands. Small chips of stone fall from its edge intermittently, though it shows no sign of damage or wear. You can use your action to speak the command word to cause small stones to float and swirl around the axe, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. The light remains until you use a bonus action to speak the command word again or until you drop or sheathe the axe.
 

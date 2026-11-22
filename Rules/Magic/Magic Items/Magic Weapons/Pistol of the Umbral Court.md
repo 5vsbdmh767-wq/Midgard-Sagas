@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Hand Crossbow), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Hand Crossbow), [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This hand crossbow is made from coal-colored wood. Its limb is made from cold steel and boasts engravings of sharp teeth. The barrel is magically oiled and smells faintly of ash. The grip is made from rough leather.
 

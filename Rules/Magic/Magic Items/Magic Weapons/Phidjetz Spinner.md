@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Dart), [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Monk]])* %% price pending %%
+*[[Weapons|Weapon]] (Dart), [[Using Magic Items#Rarity|Uncommon]] 2,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Monk]])*
 
 This dart was crafted by the monk Phidjetz, a martial recluse obsessed with dragons. The spinner consists of a golden central disk with four metal dragon heads protruding symmetrically from its center point: one red, one white, one blue and one black.
 

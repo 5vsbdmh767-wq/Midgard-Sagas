@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Ring, Rare 4,000 gp* This ring has 3 charges and regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 charge to cast one of the following spells:
+*Ring, [[Using Magic Items#Rarity|Rare]] 4,000 gp*
+
+This ring has 3 charges and regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 charge to cast one of the following spells:
 
 - *[[1st-Circle Spells#Animal Friendship|Animal friendship]]* (save DC 13)
 

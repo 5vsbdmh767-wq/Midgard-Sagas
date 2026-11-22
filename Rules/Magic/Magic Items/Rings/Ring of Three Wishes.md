@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Ring, Legendary 130,000 gp* This ring has 3 charges. While wearing it, you can use an action to expend 1 charge to cast the *[[9th-Circle Spells#Wish|wish]]* spell from it. The ring becomes nonmagical when you use the last charge.
+*Ring, [[Using Magic Items#Rarity|Legendary]] 130,000 gp*
+
+This ring has 3 charges. While wearing it, you can use an action to expend 1 charge to cast the *[[9th-Circle Spells#Wish|wish]]* spell from it. The ring becomes nonmagical when you use the last charge.
 
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

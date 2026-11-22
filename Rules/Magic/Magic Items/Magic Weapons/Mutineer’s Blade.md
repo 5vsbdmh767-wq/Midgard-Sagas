@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Scimitar), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Scimitar), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This finely balanced scimitar has an elaborate brass hilt. You gain a +2 bonus on attack and damage rolls made with this magic weapon. You can use a bonus action to speak the scimitar’s command word, causing the blade to shed bright green light in a 10-foot radius and dim light for an additional 10 feet. The light lasts until you use a bonus action to speak the command word again or until you drop or sheathe the scimitar.
 

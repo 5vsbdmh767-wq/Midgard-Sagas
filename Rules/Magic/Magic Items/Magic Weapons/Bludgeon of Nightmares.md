@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Flail, Mace, or Morningstar), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Flail, Mace, or Morningstar), [[Using Magic Items#Rarity|Rare]] 4,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])* %% cursed: listed at half price %%
 
 You gain a +2 bonus to attack and damage rolls made with this weapon. The weapon appears to be a mace of disruption, and an *[[Rituals 1st–3rd Circle#Identify|identify]]* spell reveals it to be such.
 

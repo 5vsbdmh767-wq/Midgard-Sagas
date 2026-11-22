@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Breastplate), [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*[[Armor|Armor]] (Breastplate), [[Using Magic Items#Rarity|Rare]] 8,000 gp*
 
 This bronze breastplate depicts two krakens fighting. While wearing this armor, you gain a +1 bonus to AC.
 

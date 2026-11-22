@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Dagger), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Dagger), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 These matched daggers are identical except for the stones set in their pommels. One pommel is chalcedony (opaque white), the other is obsidian (opaque black). You gain a +1 bonus to attack and damage rolls with both magic weapons. The bonus increases to +3 when you use the white dagger to attack a monstrosity, and it increases to +3 when you use the black dagger to attack an undead.
 

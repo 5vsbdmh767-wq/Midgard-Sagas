@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Scale Mail), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Scale Mail), [[Using Magic Items#Rarity|Rare]] 8,040 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 While wearing this armor made from the skin of a giant snake, you gain a +1 bonus to AC, and you have resistance to poison damage.
 

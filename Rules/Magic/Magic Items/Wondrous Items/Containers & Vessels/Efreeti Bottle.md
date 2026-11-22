@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Wondrous Item, Very Rare 10,500 gp* This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an **efreeti** appears in an unoccupied space within 30 feet of you.
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 10,500 gp*
+
+This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an **efreeti** appears in an unoccupied space within 30 feet of you.
 
 The first time the bottle is opened, the GM rolls to determine what happens.
 

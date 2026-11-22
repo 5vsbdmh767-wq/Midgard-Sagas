@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Wondrous Item, Very Rare 30,000 gp* These handwritten books contain exercises and insights into improving your ability scores. Their words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying a book’s contents and practicing its guidelines, one of your ability scores increases by 2, as does your maximum for that score. The ability that increases is shown on the **Manuals of Advantageous Exertion Type** table. Afterward, the manual loses its magic, but regains it in a century.
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 30,000 gp*
+
+These handwritten books contain exercises and insights into improving your ability scores. Their words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying a book’s contents and practicing its guidelines, one of your ability scores increases by 2, as does your maximum for that score. The ability that increases is shown on the **Manuals of Advantageous Exertion Type** table. Afterward, the manual loses its magic, but regains it in a century.
 
 **Manual of Advantageous Exertion Type**
 

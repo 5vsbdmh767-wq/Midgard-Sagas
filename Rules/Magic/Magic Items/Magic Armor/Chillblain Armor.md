@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Medium or Heavy, but not Hide), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Medium or Heavy, but not Hide), [[Using Magic Items#Rarity|Very Rare]] 30,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])* %% cursed: listed at half price %%
 
 This armor is forged from overlapping blue steel plates or blue rings and has a frosted appearance. While wearing this armor, you gain a +1 bonus to AC, and you have resistance to cold damage. In addition, when a creature hits you with a melee weapon attack, it must succeed on a DC 15 CON save or become numbed by the supernatural cold radiating from the armor. A creature numbed by the cold can use either an action or bonus action on its turn, not both, and its movement speed is reduced by 10 feet until the end of its next turn.
 

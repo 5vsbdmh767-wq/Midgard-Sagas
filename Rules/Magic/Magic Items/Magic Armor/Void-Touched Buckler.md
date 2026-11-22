@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Shield), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Shield), [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This simple wood and metal buckler belonged to an adventurer slain by a void dragon wyrmling. It sat for decades next to a small tear in the fabric of reality, which led to the outer planes. It has since become tainted by the Void.
 

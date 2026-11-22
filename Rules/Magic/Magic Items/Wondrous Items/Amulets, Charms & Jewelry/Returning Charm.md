@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Wondrous Item, Common 100 gp* This golden tassel has a series of loops that wrap around each other and connect in a returning pattern at their beginning. You must spend 1 minute to tie the tassel onto a weapon with the Thrown property to use the charm’s effect. A weapon with a returning charm returns to your hand immediately after it is used to make a ranged weapon attack.
+*Wondrous Item, [[Using Magic Items#Rarity|Common]] 100 gp*
+
+This golden tassel has a series of loops that wrap around each other and connect in a returning pattern at their beginning. You must spend 1 minute to tie the tassel onto a weapon with the Thrown property to use the charm’s effect. A weapon with a returning charm returns to your hand immediately after it is used to make a ranged weapon attack.
 
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

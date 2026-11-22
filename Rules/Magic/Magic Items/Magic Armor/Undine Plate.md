@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Plate), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Plate), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This bright green plate armor is embossed with images of various marine creatures, such as octopuses and rays. While wearing this armor, you have a swimming speed of 40 feet, and you don’t have disadvantage on DEX (Stealth) checks while underwater.
 

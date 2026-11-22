@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Spear), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Spear), [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This spear has an ivory haft, and tiny snowflakes occasionally fall from its tip. You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you hit with an attack using this magic spear, the target takes an extra 1d6 cold damage.
 

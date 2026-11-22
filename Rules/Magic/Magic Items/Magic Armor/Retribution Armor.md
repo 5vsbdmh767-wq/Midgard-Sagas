@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Breastplate), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Breastplate), [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Etchings of flames adorn this breastplate, which is wrapped in chains of red gold, silver, and black iron. While wearing this armor, you gain a +1 bonus to AC. In addition, if a creature scores a critical hit against you, you have advantage on any attacks against that creature until the end of your next turn or until you score a critical hit against that creature.
 

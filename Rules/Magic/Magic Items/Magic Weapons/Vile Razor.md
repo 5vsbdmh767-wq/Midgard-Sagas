@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Dagger), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Dagger), [[Using Magic Items#Rarity|Rare]] 16,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This perpetually blood-stained straight razor deals slashing damage instead of piercing damage. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

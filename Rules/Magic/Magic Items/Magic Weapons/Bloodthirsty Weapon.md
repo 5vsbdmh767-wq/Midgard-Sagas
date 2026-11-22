@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Any Weapon that Deals Piercing or Slashing Damage), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Any Weapon that Deals Piercing or Slashing Damage), [[Using Magic Items#Rarity|Rare]] 5,000 gp + base weapon cost ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This magic weapon bears long, branching channels inscribed into its blade or head, and it gives off a coppery scent. When you damage a creature that has blood with this weapon, it loses an additional 2d6 hit points from blood loss.
 

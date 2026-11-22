@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (War Pick), [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*[[Weapons|Weapon]] (War Pick), [[Using Magic Items#Rarity|Rare]] 8,000 gp*
 
 You gain a +1 to attack and damage rolls with this magic weapon. This bonus increases to +3 when you use the pick to attack a creature made of earth or stone, such as an earth elemental or stone golem.
 

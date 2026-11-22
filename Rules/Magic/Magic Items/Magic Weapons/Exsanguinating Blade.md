@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Dagger), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Dagger), [[Using Magic Items#Rarity|Rare]] 8,800 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This double-bladed dagger has an ivory hilt, and its gold pommel is shaped into a woman’s head with ruby eyes and a fanged mouth opened in a scream. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

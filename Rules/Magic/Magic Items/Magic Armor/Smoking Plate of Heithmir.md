@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Plate), [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Plate), [[Using Magic Items#Rarity|Legendary]] 200,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This armor is soot-colored plate with grim dwarf visages on the pauldrons. The pauldrons emit curling smoke and are warm to the touch. You gain a +3 bonus to AC and are resistant to cold damage while wearing this armor.
 

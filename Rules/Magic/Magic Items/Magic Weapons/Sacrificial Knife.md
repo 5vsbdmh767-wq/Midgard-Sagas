@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Dagger), Rarity Varies ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Dagger), Rarity Varies 50 gp (sacrificial) or 1,000 gp (ceremonial) ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Runes dance along the blade of this keen knife.
 

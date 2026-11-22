@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Longsword or Greatsword), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Fighter]] or [[Paladin]])* %% price pending %%
+*[[Weapons|Weapon]] (Longsword or Greatsword), [[Using Magic Items#Rarity|Very Rare]] 66,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Fighter]] or [[Paladin]])*
 
 Legends tell of a dragon whose hide was impenetrable and so robust that only a blow to the heart would kill it. An unnamed hero finally defeated it and tore its heart into two. The dragon’s name was lost, but its legacy remains. This sword is one of two items that were crafted to hold its heart. The black blade is adorned with glittering silver runes, and its guard has a shallow opening at the center with grooves connecting it to the first rune. The sword’s pommel is a large, clear crystal held fast by silver scales.
 

@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Wondrous Item, Uncommon 1,000 gp* While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on DEX (Stealth) checks that rely on moving silently.
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp*
+
+While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on DEX (Stealth) checks that rely on moving silently.
 
 Part of [[Boots & Footwear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

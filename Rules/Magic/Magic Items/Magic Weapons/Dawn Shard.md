@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Any Sword or Dagger), [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Any Sword or Dagger), [[Using Magic Items#Rarity|Uncommon]] 1,000 gp + base weapon cost ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 The blade of this magic weapon gleams with a faint golden shine, and the pommel is etched with a sunburst. As a bonus action, you can command the weapon to shed dim light out to 5 feet, to shed bright light out to 20 feet and dim light for an additional 20 feet, or to douse the light.
 

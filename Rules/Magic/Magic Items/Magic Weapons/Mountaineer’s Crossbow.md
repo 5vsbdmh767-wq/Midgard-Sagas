@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Any Crossbow), [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*[[Weapons|Weapon]] (Any Crossbow), [[Using Magic Items#Rarity|Uncommon]] 2,000 gp*
 
 This crossbow has a weathered look, and scenes of mountains are etched across its stock. An adamantine grappling hook and cable are built into this magic crossbow. While no ammunition is loaded in the crossbow, you can use an action to fire the grappling hook at a surface, structure, precipice, or other similar location that you can see within 60 feet of you. The grappling hook magically attaches to the surface and connects to the crossbow via an adamantine cable.
 

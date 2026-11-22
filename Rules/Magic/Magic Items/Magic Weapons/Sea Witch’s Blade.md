@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Shortsword), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Shortsword), [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This slim, slightly curved blade has a ghostly sheen and a wickedly sharp edge. You can use a bonus action to speak this magic sword’s command word (“memory”) and cause the air around the blade to shimmer with a pale, violet glow. This glow sheds bright light in a 20-foot radius and dim light for an additional 20 feet. While the sword is glowing, it deals an extra 2d6 psychic damage to any target it hits. The glow lasts until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
 

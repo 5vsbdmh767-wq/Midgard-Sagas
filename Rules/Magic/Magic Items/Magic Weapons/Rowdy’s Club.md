@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Club), [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*[[Weapons|Weapon]] (Club), [[Using Magic Items#Rarity|Uncommon]] 2,000 gp*
 
 This knobbed stick is marked with nicks, scratches, and notches. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

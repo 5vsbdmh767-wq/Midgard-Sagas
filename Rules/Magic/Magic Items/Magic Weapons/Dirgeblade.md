@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Rapier), [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]])* %% price pending %%
+*[[Weapons|Weapon]] (Rapier), [[Using Magic Items#Rarity|Legendary]] 100,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]])*
 
 This weapon is an exquisitely crafted rapier set in a silver and leather scabbard. The blade glows a faint stormy blue and is encircled by swirling wisps of clouds. You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 

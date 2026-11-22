@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Wondrous Item, Legendary 50,000 gp* This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 INT (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.
+*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] 50,000 gp*
+
+This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 INT (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.
 
 The *apparatus of the crab* is a Large object with AC 20 and 200 HP, and it is immune to poison and psychic damage. With its legs and tail extended, it has a walking speed and a swimming speed of 30 feet. It floats, and it can descend to a depth of 900 feet; below that, it takes 2d6 bludgeoning damage each minute from pressure. It needs one pilot. Its sealed compartment holds enough air for 10 hours of breathing, divided among the breathing creatures inside.
 

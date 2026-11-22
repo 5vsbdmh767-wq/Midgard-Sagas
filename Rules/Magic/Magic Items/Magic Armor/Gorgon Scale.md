@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Scale Mail), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Scale Mail), [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 The iron scales of this armor have a green-tinged iridescence. While wearing this armor, you gain a +1 bonus to AC, and you have immunity to the [[Conditions#Petrified|petrified]] condition.
 

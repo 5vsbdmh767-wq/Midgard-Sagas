@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Any Sword), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Any Sword), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. The blade of the sword is coated in an endless supply of violet-colored slime. Despite the sword’s tendency to drip, the slime does not flow over the pommel, regardless of the angle at which it is held. You are immune to the effect of the slime while attuned to this sword. While holding this sword, you can communicate telepathically with ooze creatures, and you have advantage on CHA (Deception, Intimidation, and Persuasion) checks against ooze creatures.
 

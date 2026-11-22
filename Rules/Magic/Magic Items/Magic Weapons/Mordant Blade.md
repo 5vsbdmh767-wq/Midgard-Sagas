@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Any Weapon that Deals Slashing Damage), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Any Weapon that Deals Slashing Damage), [[Using Magic Items#Rarity|Rare]] 16,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 You can use a bonus action to speak this magic weapon's command word, causing the blade to weep a caustic, green acid. While weeping acid, the weapon deals an extra 2d6 acid damage to any target it hits. The weapon continues to weep acid until you use a bonus action to speak the command word again or you sheathe or drop the weapon.
 

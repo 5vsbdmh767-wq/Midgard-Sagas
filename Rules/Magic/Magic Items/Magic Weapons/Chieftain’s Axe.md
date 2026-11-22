@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Battleaxe), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Battleaxe), [[Using Magic Items#Rarity|Very Rare]] 120,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Furs conceal the worn runes lining the haft of this oversized, silver-headed battleaxe. You gain a +2 bonus to attack and damage rolls made with this silvered, magic weapon.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Whip), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Whip), [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This whip is constructed of humanoid vertebrae with their edges magically sharpened and pointed. The bones are joined together into a coiled line by strands of steel wire. The handle is half a femur wrapped in soft leather of tanned humanoid skin. You gain a +1 bonus to attack and damage rolls with this weapon.
 

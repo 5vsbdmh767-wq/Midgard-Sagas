@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Club), [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*[[Weapons|Weapon]] (Club), [[Using Magic Items#Rarity|Uncommon]] 2,000 gp*
 
 This simple, polished club has a studded iron band around one end. When you attack a [[Conditions#Poisoned|poisoned]] creature with this magic weapon, you have advantage on the attack roll.
 

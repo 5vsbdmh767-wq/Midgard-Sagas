@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Shield), Rarity Varies ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Shield), Rarity Varies 1,000 gp (spearbiter) or 8,000 gp (adamantine) ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 The front of this shield is fashioned in the shape of a snarling wolf’s head.
 

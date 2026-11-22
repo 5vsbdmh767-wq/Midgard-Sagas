@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Wondrous Item, Very Rare 200,000 gp* You can speak the carpet’s command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 200,000 gp*
+
+You can speak the carpet’s command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.
 
 Four sizes of *carpet of flying* exist. The GM chooses the size of a given carpet or determines it randomly.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Greatclub), [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*[[Weapons|Weapon]] (Greatclub), [[Using Magic Items#Rarity|Uncommon]] 2,000 gp*
 
 A favored weapon of hill giants, this greatclub appears to be little more than a thick tree branch. When you hit a giant with this magic weapon, the giant takes an extra 1d8 bludgeoning damage.
 

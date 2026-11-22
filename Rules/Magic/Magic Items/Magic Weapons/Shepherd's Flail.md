@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Flail), [[Using Magic Items#Rarity|Legendary]]* %% price pending %%
+*[[Weapons|Weapon]] (Flail), [[Using Magic Items#Rarity|Legendary]] 110,000 gp*
 
 The handle of this simple flail is made of smooth lotus wood. The three threshers are made of carved and painted wooden beads. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

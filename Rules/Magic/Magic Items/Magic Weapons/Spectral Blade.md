@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Shortsword), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Shortsword), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This blade seems to flicker in and out of existence but always strikes true. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and you can choose for its attacks to deal force damage instead of piercing damage.
 

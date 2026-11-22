@@ -1246,7 +1246,7 @@ Items in plain text (no link) are 5th Edition items that aren't on this wiki. Sw
 |---|---|
 | 01–10 | [[Potion of Flying]] |
 | 11–12 | [[Chillblain Armor]] |
-| 13–14 | Zephyr shield |
+| 13–14 | [[Zephyr Shield\|Zephyr shield]] |
 | 15–16 | [[Manual of Golems]] |
 | 17–18 | [[Kobold Firework\|Kobold firework: red dragon’s breath]] |
 | 19–20 | [[Shield, +1, +2, or +3\|Shield +3]] |

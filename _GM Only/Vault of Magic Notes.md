@@ -105,7 +105,20 @@ More spells not on the wiki yet (from the wondrous chapter): *cloak of shadow*, 
 - **Foulton Door** is a fabled item built from fragments. Its five tables were scrambled by the scan, so I rebuilt them from the page images (fragment powers, plus lesser and greater positive and negative quirks). A sidebar about how many fragments make a full door is a short note in **my words**.
 - **Fabled Magic Items page:** two new sections in **my words**, "Stories" (how an item's story reveals itself) and "Variant: Heavier Attunement" (an optional rule where fabled items take more attunement slots at higher levels).
 - **River Token:** a wondrous item the first pass missed because the book misprints its type line. It's added now.
-- **Treasure tables:** `_GM Only/Magic Item Treasure Tables.md` has the treasure-trove-by-CR tables and all 25 magic item tables. Items on the wiki are linked. About 50 are 5th Edition items the wiki doesn't have (deck of many things, crystal balls, horns of Valhalla and so on). They're plain text, so you can swap or keep them. "Zephyr shield" is on a table but isn't in the book's item chapters at all, so it may be a misprint.
+- **Treasure tables:** `_GM Only/Magic Item Treasure Tables.md` has the treasure-trove-by-CR tables and all 25 magic item tables. Items on the wiki are linked. About 50 are 5th Edition items the wiki doesn't have (deck of many things, crystal balls, horns of Valhalla and so on). They're plain text, so you can swap or keep them. "Zephyr shield" turned out to be a real item on a page the first pass skipped. It now has its own page (see the pricing batch below).
 
 ## Needs your call (Fabled)
 - **Alignment:** Tales of the Valiant has no alignment, but several items still mention it. Four fabled items need "a creature of good alignment" or "a cleric of non-evil alignment" to attune (Champion's Plate, Raurrick's Axe, Sovereign's Scepter, Healer's Hand Amulet), plus Helm of Velamish ("a paladin of good alignment"). A few earlier items also mention alignment in their effects (Seelie and Unseelie Staff, Angelic Earrings, Binding Oath, Djinn Vessel). Options: leave as written, drop the requirement, or swap in something like "a creature devoted to a good god".
+
+## Pricing: Armor & Weapons (22 Nov 2026)
+
+- All 177 armor and weapon pages now have prices, plus Zephyr Shield. How each price was worked out is in `_GM Only/Magic Item Prices, Armor & Weapons.md`. Start with the lines marked **Judgment**.
+- **New house rule page:** [[Magic Item Prices]] covers your rulings. Supply and demand tables apply to magic items, without the shopkeeper markup. Cursed items are listed at half price and resell only on the black market. Allain and Nuria Natal are 10% cheaper; I chose those two because the Midgard Worldbook describes magic as everyday in both. Wording is **mine**. It's linked from House Rules.
+- 8 cursed items carry a hidden note saying the price is halved.
+- **A page the scan pass skipped:** page 46 of the book was never read. It held the end of Wolf Brush (cut off mid-sentence on the wiki) and all of Zephyr Shield. Both are fixed from the page image. Zephyr Shield is now linked on the treasure table.
+- **Other scan damage found while checking every page for a broken ending:**
+  - Amulet of Sustaining Health had no text at all. Restored.
+  - Big Dipper: "roll adzo" fixed to "roll a d20", plus stray letters removed.
+  - Stray characters removed from Ashwood Wand, Crystal Staff and Bear Paws.
+- **Type lines:** 88 older item pages (mostly core items: potions, rings, wands, wondrous items) had the type line and first sentence run together, with no links. Each type line is now on its own line, with rarity and attunement linked like the other pages. No wording changed.
+- **Left alone:** Big Dipper lists *hold* twice (5 charges and 2 charges). The book had *hold monster* and *hold person*, which are one spell in Tales of the Valiant. Staff of Power does the same, so I matched it.

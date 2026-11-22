@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Wondrous Item, Rare 30,000 gp* This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 30,000 gp*
+
+This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
 
 You can use an action to unfold a *portable hole* and place it on or against a solid surface, whereupon the *portable* *hole* creates an extradimensional hole 10 feet deep. The cylindrical space within the hole exists on a different plane, so it can’t be used to create open passages. Any creature inside an open *portable hole* can exit the hole by climbing out of it.
 

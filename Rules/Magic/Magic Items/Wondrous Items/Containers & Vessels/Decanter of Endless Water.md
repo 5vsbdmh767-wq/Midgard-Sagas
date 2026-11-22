@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Wondrous Item, Uncommon 4,000 gp* This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds. You can use an action to remove the stopper and speak one of three command words, whereupon an amount of fresh water or salt water (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the following options:
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 4,000 gp*
+
+This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds. You can use an action to remove the stopper and speak one of three command words, whereupon an amount of fresh water or salt water (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the following options:
 
 - “Stream” produces 1 gallon of water.
 

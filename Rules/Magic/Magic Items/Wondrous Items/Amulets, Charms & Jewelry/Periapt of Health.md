@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Wondrous Item, Uncommon 500 gp* You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects are suppressed while you wear the pendant.
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 500 gp*
+
+You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects are suppressed while you wear the pendant.
 
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

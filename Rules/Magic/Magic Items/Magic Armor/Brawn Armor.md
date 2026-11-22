@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Hide), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Hide), [[Using Magic Items#Rarity|Rare]] 8,800 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This armor was crafted from the hide of an ancient grizzly bear. While wearing it, you gain a +1 bonus to AC, and you have advantage on grapple checks.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Club), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Club), [[Using Magic Items#Rarity|Rare]] 8,800 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 To the uninitiated, this short ebony baton resembles a heavy-duty truncheon with a cord-wrapped handle and silver-capped tip. The weapon has 5 charges, and it regains 1d4 +1 expended charges daily at dawn.
 

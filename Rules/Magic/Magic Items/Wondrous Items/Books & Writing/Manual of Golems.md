@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Wondrous Item, Very Rare Price Varies* This tome contains information and incantations necessary to make a particular type of creature with the Golem tag. The GM chooses the type or determines it randomly. To decipher and use the manual, you must be a spellcaster with at least two 5th-circle spell slots. A creature that can’t use a *manual of golems* and attempts to read it takes 6d6 psychic damage.
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] Price Varies*
+
+This tome contains information and incantations necessary to make a particular type of creature with the Golem tag. The GM chooses the type or determines it randomly. To decipher and use the manual, you must be a spellcaster with at least two 5th-circle spell slots. A creature that can’t use a *manual of golems* and attempts to read it takes 6d6 psychic damage.
 
 **Manual of Golems Type**
 

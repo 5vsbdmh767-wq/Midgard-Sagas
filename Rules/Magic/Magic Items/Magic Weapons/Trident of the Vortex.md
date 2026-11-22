@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Trident), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Trident), [[Using Magic Items#Rarity|Very Rare]] 120,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This bronze trident has a shaft of inlaid blue pearl. You gain a +2 bonus to attack and damage rolls with this magic weapon.
 

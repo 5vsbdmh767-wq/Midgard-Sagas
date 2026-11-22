@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Shield), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Cleric]] or [[Paladin]])* %% price pending %%
+*[[Armor|Armor]] (Shield), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Cleric]] or [[Paladin]])*
 
 This massive, holy tome is bound in brass with a handle on the back cover. A steel chain dangles from the sturdy metal cover, allowing you to hang the tome from your belt or hook it to your armor. A locked clasp holds the tome closed, securing its contents.
 

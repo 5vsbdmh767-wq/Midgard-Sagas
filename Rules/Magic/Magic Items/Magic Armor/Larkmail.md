@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Chain Mail), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Chain Mail), [[Using Magic Items#Rarity|Rare]] 16,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 While wearing this armor, you gain a +1 bonus to AC. The links of this mail have been stained to create the optical illusion that you are wearing a brown-and russet feathered tunic. While you wear this armor, you have advantage on CHA (Performance) checks made with an instrument.
 

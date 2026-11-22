@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Padded), [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Padded), [[Using Magic Items#Rarity|Uncommon]] 2,020 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This padded black armor is fashioned in the furtive style of shinobi shōzoku garb. You have advantage on DEX (Stealth) checks while you wear this armor.
 

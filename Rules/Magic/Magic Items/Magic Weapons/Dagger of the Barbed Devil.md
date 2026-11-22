@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Dagger), [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*[[Weapons|Weapon]] (Dagger), [[Using Magic Items#Rarity|Rare]] 8,000 gp*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

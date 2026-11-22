@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Dagger), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster of Evil Alignment)* %% price pending %%
+*[[Weapons|Weapon]] (Dagger), [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster of Evil Alignment)*
 
 Forged by creatures with firsthand knowledge of what lies between the stars, this dark gray blade sometimes appears to twitch or ripple like water when not directly observed. You gain a +1 bonus to attack and damage rolls with this magic weapon. In addition, when you hit with an attack using this dagger, the target takes an extra 2d6 psychic damage.
 

@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Potion, Uncommon 100 gp* When you drink this potion, you become resistant to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.
+*Potion, [[Using Magic Items#Rarity|Uncommon]] 100 gp*
+
+When you drink this potion, you become resistant to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.
 
 **Damage Resistance Type**
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Dagger), [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*[[Weapons|Weapon]] (Dagger), [[Using Magic Items#Rarity|Common]] 50 gp*
 
 When holding this sturdy knife, you can use an action to transform it into a crowbar, a fishing rod, a hunting trap, or a hatchet (mainly a chopping tool; if wielded as a weapon, it uses the same statistics as this dagger, except it deals slashing damage). While holding or touching the transformed knife, you can use an action to transform it into another form or back into its original shape.
 

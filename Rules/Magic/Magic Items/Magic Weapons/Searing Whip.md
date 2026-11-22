@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Whip), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Whip), [[Using Magic Items#Rarity|Rare]] 17,600 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Inspired by the searing breath weapon of a light drake, this whip seems to have filaments of light interwoven within its strands. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a creature with this weapon, the creature takes an extra 1d4 radiant damage. When you roll a 20 on an attack roll made with this weapon, the target is [[Conditions#Blinded|blinded]] until the end of its next turn.
 

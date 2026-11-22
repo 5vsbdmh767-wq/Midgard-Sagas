@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Chain Mail), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Chain Mail), [[Using Magic Items#Rarity|Rare]] 16,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 While wearing this armor, you gain a +1 bonus to AC, and you can use an action to cause parts of the armor to unravel into long, animated chains. While the chains are active, you have a climbing speed equal to your walking speed, and your AC is reduced by 2. You can use a bonus action to deactivate the chains, returning the armor to normal.
 

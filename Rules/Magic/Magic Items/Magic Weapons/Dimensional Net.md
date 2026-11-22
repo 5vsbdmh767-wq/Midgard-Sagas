@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Net), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Net), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Woven from the hair of celestials and fiends, this shimmering iridescent net can subdue and capture otherworldly creatures. You have a +1 bonus to attack rolls with this magic weapon. In addition to the normal effects of a net, this net prevents any Large or smaller aberration, celestial, or fiend hit by it from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. When such a creature is bound in this way, a creature must succeed on a DC 30 STR (Athletics) check to free the bound creature.
 

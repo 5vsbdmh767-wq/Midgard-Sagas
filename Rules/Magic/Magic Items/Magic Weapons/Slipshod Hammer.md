@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Light Hammer), [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*[[Weapons|Weapon]] (Light Hammer), [[Using Magic Items#Rarity|Uncommon]] 2,000 gp*
 
 This large smith’s hammer appears well-used and rough in make and maintenance. If you use this hammer as part of a set of smith’s tools, you can repair metal items in half the time, but the appearance of the item is always sloppy and haphazard.
 

@@ -1,7 +1,9 @@
 ---
 publish: true
 ---
-*Ring, Uncommon 1,000 gp* While wearing this ring, your swimming speed is 40 feet.
+*Ring, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp*
+
+While wearing this ring, your swimming speed is 40 feet.
 
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Light, Medium, or Heavy), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Light, Medium, or Heavy), [[Using Magic Items#Rarity|Very Rare]] 60,010 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This armor bears gold or brass symbols of sunlight and sun deities and never tarnishes or rusts. The armor is immune to necrotic damage and rusting attacks such as those of a rust monster. While wearing this armor, your maximum hit points can’t be reduced.
 

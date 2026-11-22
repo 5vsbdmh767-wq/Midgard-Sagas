@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Flail), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Flail), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This cat o’ nine tails is used primarily for self-flagellation, and its tails have barbs of silver woven into them. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and the weapon deals slashing damage instead of bludgeoning damage.
 

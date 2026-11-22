@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Any Weapon that Deals Bludgeoning Damage), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Any Weapon that Deals Bludgeoning Damage), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 You gain a +1 bonus on attack and damage rolls made with this magic weapon. The bonus increases to +3 when you use it to attack an undead creature. Often given to the grim enforcers of great necropolises, these weapons can reduce the walking dead to splinters with a single strike.
 

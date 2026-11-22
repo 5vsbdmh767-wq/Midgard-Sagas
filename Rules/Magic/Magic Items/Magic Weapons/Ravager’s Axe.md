@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Greataxe), [[Using Magic Items#Rarity|Very Rare]]* %% price pending %%
+*[[Weapons|Weapon]] (Greataxe), [[Using Magic Items#Rarity|Very Rare]] 60,000 gp*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. Any attack with this axe that hits a structure or an object that isn’t being worn or carried is a critical hit.
 

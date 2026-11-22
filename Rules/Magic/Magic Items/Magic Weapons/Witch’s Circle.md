@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Chakram), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)* %% price pending %%
+*[[Weapons|Weapon]] (Chakram), [[Using Magic Items#Rarity|Very Rare]] 60,020 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)*
 
 This damask steel weapon is a simple ring with the interior edge dulled to rest comfortably in hand. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 

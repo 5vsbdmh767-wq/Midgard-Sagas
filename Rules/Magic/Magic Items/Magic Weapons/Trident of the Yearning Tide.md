@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Trident), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Trident), [[Using Magic Items#Rarity|Very Rare]] 120,030 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 The barbs of this trident are forged from mother-of-pearl and its shaft is fashioned from driftwood. You gain a +2 bonus on attack and damage rolls made with this magic weapon. While holding the trident, you can breathe underwater.
 

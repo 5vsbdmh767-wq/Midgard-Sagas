@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Arrow), [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*[[Weapons|Weapon]] (Arrow), [[Using Magic Items#Rarity|Common]] 10 gp*
 
 This magic arrow’s tip is enchanted to soften stone and warp wood. When this arrow hits an object or structure, it deals double damage then becomes a nonmagical arrow.
 

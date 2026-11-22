@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Plate), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Plate), [[Using Magic Items#Rarity|Very Rare]] 30,015 gp ([[Using Magic Items#Attunement|Requires Attunement]])* %% cursed: listed at half price %%
 
 While wearing this steam-powered magic armor, you gain a +1 bonus to AC, your STR score increases by 2, and you gain the ability to cast *[[Rituals 1st–3rd Circle#Speak with Dead|speak with dead]]* as an action. As long as you remain cursed, you exude an unnatural aura, causing beasts with INT 3 or less within 30 feet of you to be [[Conditions#Frightened|frightened]]. Once you have used the armor to cast *[[Rituals 1st–3rd Circle#Speak with Dead|speak with dead]]*, you can’t cast it again until the next dawn.
 

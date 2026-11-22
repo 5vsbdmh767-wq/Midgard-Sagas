@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Shield), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Barbarian]])* %% price pending %%
+*[[Armor|Armor]] (Shield), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Barbarian]])*
 
 The wooden rim of this battered oak shield is covered in bite marks. While holding this shield, you gain a +1 bonus to AC. This bonus is in addition to the shield’s normal bonus to AC. In addition, you can use the Shove action as a bonus action while raging.
 

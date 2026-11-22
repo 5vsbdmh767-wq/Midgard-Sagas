@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Weapons|Weapon]] (Whip), [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Weapons|Weapon]] (Whip), [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This whip is braided from leather tanned from the hides of a dozen different, dangerous beasts. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you attack a beast using this weapon, you have advantage on the attack roll.
 

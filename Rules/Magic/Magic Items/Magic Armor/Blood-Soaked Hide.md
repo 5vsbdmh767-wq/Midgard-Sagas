@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*[[Armor|Armor]] (Hide), [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*[[Armor|Armor]] (Hide), [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Blood-soaked hide armor is crafted from the tanned skins of humanoids, carefully preserved and layered. The armor is always smeared in tacky, semi-dried blood, no matter how carefully it’s cleaned. While wearing this armor, you gain a +1 bonus to AC, and you are immune to any effect that would cause you to lose hit points due to blood loss or ongoing wounds, such as the infernal wounds caused by a horned devil’s tail or the necrotic damage caused by a sword of wounding.
 
