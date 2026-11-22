@@ -26,7 +26,7 @@ Vault of Magic, added chapter by chapter from your scan. Each batch gets a secti
 - Fixed while there: Staff of Unraveling and Battlebrew Medallion had stray formatting marks in their Attunement cells.
 
 ## Left alone
-- Autolink wanted to add "Shadow Fey" on Story So Far. Skipped, since it's a campaign page. Say if you want it.
+- Shadow Fey on Story So Far: linked later, on your go-ahead.
 
 ## Potions & Scrolls (22 Nov 2026)
 
