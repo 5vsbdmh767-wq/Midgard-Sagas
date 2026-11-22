@@ -1,0 +1,15 @@
+---
+publish: true
+---
+%% source: Vault of Magic %%
+
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+
+If you spend 1 hour weaving on this portable loom, roll ad2o and record the number rolled. You can replace any attack roll, save, or ability check made by you or a creature that you can see with this roll. You must choose to do so before the roll. The loom can’t be used this way again until the next dawn.
+
+Once you have used the loom 3 times, the fabric is complete, and the loom is no longer magical. The fabric becomes a shifting tapestry that represents the events where you used the loom’s power to alter fate.
+
+Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
+
+---
+<small>Sources: [[Credits]].</small>

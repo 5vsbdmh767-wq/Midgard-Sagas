@@ -40,6 +40,17 @@ The following are additional feather token options:
 
 ***Snowy Owl.*** You can use an action to wave this white and grey feather across a creature’s face. For 1 hour, that creature can use its bonus action to take the Hide action as long as it is in snowy terrain.
 
+## More Feather Tokens
+%% source: Vault of Magic %% %% prices pending %%
+
+***Cloud (Uncommon).*** This white feather is shaped like a cloud. You can use an action to step on the token, which expands into a 10-foot-diameter cloud that immediately begins to rise slowly to a height of up to 20 feet. Any creatures standing on the cloud rise with it. The cloud disappears after 10 minutes, and anything that was on the cloud falls slowly to the ground.
+
+***Dark of the Moon (Rare).*** This black feather is shaped like a crescent moon. As an action, you can brush the feather over a willing creature’s eyes to grant it the ability to see in the dark. For 1 hour, that creature has darkvision out to a range of 60 feet, including in magical darkness. Afterwards, the feather disappears.
+
+***Held Heart (Very Rare).*** This red feather is shaped like a heart. While carrying this token, you have advantage on initiative rolls. As an action, you can press the feather against a willing, injured creature. The target regains all its missing hit points and the feather disappears.
+
+***Jackdaw’s Dart (Common).*** This black feather is shaped like a dart. While holding it, you can use an action to throw it at a creature you can see within 30 feet of you. As it flies, the feather transforms into a blot of black ink. The target must succeed on a DC 11 DEX save or the feather leaves a black mark of misfortune on it. The target has disadvantage on its next ability check, attack roll, or save then the mark disappears. A *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell ends the mark early.
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

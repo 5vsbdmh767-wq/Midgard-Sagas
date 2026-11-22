@@ -42,7 +42,7 @@ for n, v in items.items(): bycat[v[0]].append(n)
 wcats = sorted(os.path.basename(d.rstrip('/')) for d in glob.glob(MI + '/Wondrous Items/*/'))
 writes = {}
 def put_items(path, names, cat_col=False, head='## Items\n\n'):
-    s = open(path, encoding='utf-8').read()
+    s = writes.get(path) or open(path, encoding='utf-8').read()
     i = s.index(head) + len(head); j = s.index('\n\n', s.index('|---', i)) if '\n\n' in s[s.index('|---', i):] else len(s)
     writes[path] = s[:i] + table(names, cat_col) + s[j:]
 for c, names in bycat.items():

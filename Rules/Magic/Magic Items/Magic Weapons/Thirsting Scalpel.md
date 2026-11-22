@@ -7,7 +7,7 @@ publish: true
 
 You gain a +1 bonus to attack and damage rolls with this magic weapon, which deals slashing damage instead of piercing damage.
 
-When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 2d6 slashing damage. If the target is a creature other than an undead or construct, it must succeed on a DC 133 CON save or lose 2d6 hit points at the start of each of its turns from a bleeding wound. Any creature can take an action to stanch the wound with a successful DC 11 WIS (Medicine) check. The wound also closes if the target receives magical healing.
+When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 2d6 slashing damage. If the target is a creature other than an undead or construct, it must succeed on a DC 13 CON save or lose 2d6 hit points at the start of each of its turns from a bleeding wound. Any creature can take an action to stanch the wound with a successful DC 11 WIS (Medicine) check. The wound also closes if the target receives magical healing.
 
 ***Curse.*** This scalpel is cursed and contains a bearded devil’s essence. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the scalpel, keeping it on your person at all times. While attuned to this weapon, you have disadvantage on attack rolls made with weapons other than this one.
 

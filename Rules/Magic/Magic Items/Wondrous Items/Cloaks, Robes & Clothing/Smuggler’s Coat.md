@@ -1,0 +1,17 @@
+---
+publish: true
+---
+%% source: Vault of Magic %%
+
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+
+When you attune yourself to this coat, it conforms to you in acolor and style of your choice. It has no visible pockets, but they appear if you place your hands against the side of the coat and expect pockets. Once your hand is withdrawn, the pockets vanish and take anything placed in them to an extradimensional space. The coat can hold up to 40 pounds of material in up to 10 different extradimensional pockets. Nothing can be placed inside the coat that won’t fit in a pocket. Retrieving an item from a pocket requires you to use an action. When you reach into the coat for a specific item, the correct pocket always appears with the desired item magically on top.
+
+As a bonus action, you can force the pockets to become visible on the coat. While you maintain concentration, the coat displays its four outer pockets, two on each side, four inner pockets, and two pockets on each sleeve. While the pockets are visible, any creature you allow can store or retrieve an item as an action.
+
+If the coat is destroyed, its contents are lost forever, although an artifact always turns up again somewhere. Placing the coat inside an extradimensional space, such as a *[[Bag of Holding|bag of holding]]*, instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
+
+Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
+
+---
+<small>Sources: [[Credits]].</small>

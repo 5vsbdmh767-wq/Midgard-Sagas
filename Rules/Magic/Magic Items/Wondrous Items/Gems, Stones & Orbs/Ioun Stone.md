@@ -37,6 +37,21 @@ A stone has AC 24 and 10 HP, and it is resistant to all damage. It is considered
 
 ***Sustenance (Rare, 4,000 gp).*** You don’t need to eat or drink while this clear spindle orbits your head.
 
+## More Ioun Stones
+%% source: Vault of Magic %% %% prices pending %%
+
+***Devil’s Sight (Rare).*** While this dull black spindle orbits your head, you can see normally in both magical and nonmagical darkness to a distance of 60 feet.
+
+***Emerald Shard (Very Rare).*** This irregularly shaped fragment of translucent emerald turns dull grey when its magic is expended. While the emerald orbits your head, it absorbs up to 5 damage from each attack or damaging effect that hits you. Once the stone has absorbed 120 damage, it loses all its magical properties and ceases to function.
+
+***Granite (Very Rare).*** While this granite rhomboid orbits your head, you have resistance to nonmagical bludgeoning, piercing, and slashing damage.
+
+***Illumination (Common).*** While this simple, pale yellow prism orbits your head, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet. As an action, you can change the color of the light. Completely covering the prism with something opaque blocks the light. Unlike other oun stones, this prism doesn’t require attunement. Limestone (Uncommon). While this limestone ellipsoid orbits your head, you have immunity to the [[Conditions#Frightened|frightened]] condition, and you have advantage on saves against being [[Conditions#Charmed|charmed]].
+
+***Sandstone (Uncommon).*** While this sandstone pyramid orbits your head, any critical hit against you becomes a normal hit.
+
+***Slate (Rare).*** While this slate spindle orbits your head, you have advantage on saves against spells.
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

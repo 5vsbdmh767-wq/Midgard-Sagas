@@ -7,32 +7,71 @@ Wondrous items of this kind. All wondrous items are listed on [[Wondrous Items]]
 
 | Item | Type | Rarity | Attunement | Price |
 |---|---|---|---|---|
+| [[Apron of the Eager Artisan]] | Wondrous Item | Common | — | pending |
+| [[Berserker’s Kilt]] | Wondrous Item | Rarity Varies | by a [[Barbarian]] | pending |
 | [[Blue Willow Cloak]] | Wondrous Item | Uncommon | — | 4,000 gp |
+| [[Cape of Targeting]] | Wondrous Item | Rare | Yes | pending |
 | [[Cape of the Mountebank]] | Wondrous Item | Rare | — | 8,400 gp |
 | [[Catskin Cloak]] | Wondrous Item | Rare | Yes | 8,000 gp |
 | [[Cloak of Arachnida]] | Wondrous Item | Very Rare | Yes | 31,000 gp |
+| [[Cloak of Coagulation]] | Wondrous Item | Uncommon | Yes | pending |
 | [[Cloak of Displacement]] | Wondrous Item | Very Rare | Yes | 60,000 gp |
 | [[Cloak of Elvenkind]] | Wondrous Item | Uncommon | Yes | 4,000 gp |
 | [[Cloak of Irrelevance]] | Wondrous Item | Rare | Yes | 33,000 gp |
 | [[Cloak of Meditation]] | Wondrous Item | Very Rare | by a [[Sorcerer]] | 30,000 gp |
+| [[Cloak of Petals]] | Wondrous Item | Uncommon | Yes | pending |
 | [[Cloak of Protection]] | Wondrous Item | Uncommon | Yes | 2,000 gp |
+| [[Cloak of Sails]] | Wondrous Item | Uncommon | Yes | pending |
+| [[Cloak of Squirrels]] | Wondrous Item | Rare | Yes | pending |
 | [[Cloak of the Bat]] | Wondrous Item | Rare | Yes | 33,500 gp |
+| [[Cloak of the Bearfolk]] | Wondrous Item | Uncommon | Yes | pending |
+| [[Cloak of the Eel]] | Wondrous Item | Uncommon | Yes | pending |
+| [[Cloak of the Empire]] | Wondrous Item | Uncommon | by a Creature of Non-good Alignment | pending |
 | [[Cloak of the Far Traveler]] | Wondrous Item | Legendary | Yes | 120,000 gp |
+| [[Cloak of the Inconspicuous Rake]] | Wondrous Item | Uncommon | Yes | pending |
 | [[Cloak of the Manta Ray]] | Wondrous Item | Uncommon | — | 1,000 gp |
+| [[Cloak of the Ram]] | Wondrous Item | Uncommon | Yes | pending |
+| [[Cloak of the Rat]] | Wondrous Item | Rare | Yes | pending |
+| [[Cloak of Wicked Wings]] | Wondrous Item | Uncommon | Yes | pending |
 | [[Cloak of Wide-Ranging]] | Wondrous Item | Common | — | 75 gp |
+| [[Clockwork Spider Cloak]] | Wondrous Item | Rare | Yes | pending |
+| [[Crawling Cloak]] | Wondrous Item | Rarity Varies | Yes | pending |
+| [[Eagle Cape]] | Wondrous Item | Very Rare | Yes | pending |
+| [[Garments of Winter’s Knight]] | Wondrous Item | Legendary | Yes | pending |
+| [[Gliding Cloak]] | Wondrous Item | Uncommon | — | pending |
+| [[Grasping Cloak]] | Wondrous Item | Very Rare | Yes | pending |
+| [[Green Mantle]] | Wondrous Item | Very Rare | Yes | pending |
+| [[Headdress of Majesty]] | Wondrous Item | Rare | Yes | pending |
+| [[Headscarf of the Oasis]] | Wondrous Item | Uncommon | — | pending |
 | [[Kerchief of Weeping]] | Wondrous Item | Rare | Yes | 2,000 gp |
+| [[Leonino Wings]] | Wondrous Item | Rare | Yes | pending |
+| [[Magma Mantle]] | Wondrous Item | Rare | Yes | pending |
+| [[Mantle of Blood Vengeance]] | Wondrous Item | Uncommon | Yes | pending |
 | [[Mantle of Spell Resistance]] | Wondrous Item | Rare | Yes | 8,000 gp |
+| [[Mantle of the Forest Lord]] | Wondrous Item | Rare | Yes | pending |
+| [[Mantle of the Lion]] | Wondrous Item | Rare | Yes | pending |
+| [[Mantle of the Void]] | Wondrous Item | Rare | Yes | pending |
 | [[Mantle of the Void Lord]] | Wondrous Item | Legendary | by a [[Cleric]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | 100,000 gp |
 | [[Margreve Fur]] | Wondrous Item | Uncommon | Yes | 2,000 gp |
+| [[Prayer Mat]] | Wondrous Item | Uncommon | by a [[Cleric]] or [[Paladin]] | pending |
+| [[Revenant’s Shawl]] | Wondrous Item | Uncommon | Yes | pending |
 | [[Robe of Eyes]] | Wondrous Item | Rare | Yes | 8,000 gp |
 | [[Robe of Scintillating Colors]] | Wondrous Item | Very Rare | Yes | 33,000 gp |
 | [[Robe of Stars]] | Wondrous Item | Very Rare | Yes | 50,500 gp |
 | [[Robe of the Archmagi]] | Wondrous Item | Legendary | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | 100,000 gp |
 | [[Robe of Useful Items]] | Wondrous Item | Uncommon | — | 5,000 gp |
+| [[Scarf of Deception]] | Wondrous Item | Rare | — | pending |
+| [[Scout’s Coat]] | Wondrous Item | Common | — | pending |
 | [[Sheltering Cape]] | Wondrous Item | Rare | Yes | 4,000 gp |
+| [[Shifting Shirt]] | Wondrous Item | Uncommon | — | pending |
 | [[Skintaker Cloak]] | Wondrous Item | Rarity Varies | by a [[Barbarian]] | Price Varies |
+| [[Smuggler’s Coat]] | Wondrous Item | Very Rare | Yes | pending |
 | [[Stormbinder’s Cloak]] | Wondrous Item | Legendary | Yes | 100,000 gp |
+| [[Tailor’s Clasp]] | Wondrous Item | Common | — | pending |
+| [[Tenebrous Mantle]] | Wondrous Item | Legendary | Yes | pending |
+| [[Vengeful Coat]] | Wondrous Item | Rare | Yes | pending |
 | [[Voidskin Cloak]] | Wondrous Item | Rare | Yes | 8,000 gp |
+| [[Whispering Cloak]] | Wondrous Item | Rare | Yes | pending |
 | [[Wings of Flying]] | Wondrous Item | Rare | Yes | 8,000 gp |
 
 ---

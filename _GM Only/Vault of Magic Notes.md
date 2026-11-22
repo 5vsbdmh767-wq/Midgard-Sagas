@@ -70,3 +70,26 @@ Vault of Magic, added chapter by chapter from your scan. Each batch gets a secti
 Many staffs cast spells from another Kobold Press spell book. The book marked them with an asterisk and named the book. I took out the book name, kept the spells in italics without links, and reworded the book's "GM can substitute" line to say the GM can swap any spell that isn't on the wiki. These are the ones to add when you do the spells project:
 
 *become nightwing*, *black hand*, *black ribbons*, *black well*, *bless the dead*, *boreas’s breath*, *circle of wind*, *claws of darkness*, *cloak of shadow*, *confound senses*, *curse of boreas*, *dark dementing*, *dark path*, *darkbolt*, *douse light*, *earthskimmer*, *encroaching shadows*, *entomb*, *fault line*, *flurry*, *frostbite*, *frozen razors*, *gliding step*, *heartstop*, *jeweled fissure*, *lock armor*, *night terrors*, *poisoned volley*, *prismatic ray*, *pummelstone*, *shadow armor*, *shadow blindness*, *shadow hands*, *shadow puppets*, *shared sacrifice*, *snow boulder*, *storm god’s doom*, *triumph of ice*, *wind tunnel*, *wresting wind*.
+
+## Wondrous Items (22 Nov 2026)
+
+- 375 new item pages, every one priced "pending", sorted into the wondrous categories. Banners grew to 7 items, so it keeps its own page.
+- **Categories:** the word list put 158 items into "Tools, Keys & Curiosities", so I placed about 90 of them by hand. The catch-all now holds 114. Move anything you like.
+- **Skipped:** 22 items the wiki already had from newer books, mostly Tales of the Old Margreve (Tales of the Valiant), plus Labyrinth Worldbook and core items.
+- **Ioun Stone, Feather Token and Figurine of Wondrous Power:** the book adds new options to these rather than new items. I added them to the existing pages under "More Ioun Stones", "More Feather Tokens" and the existing "More Figurines" section, with prices pending.
+- **Rebuilt from the page images:**
+  - The tables on Anuraag's Crucible, Bloodpearl Bracelet (two), Book of Ebon Tides (terrain changes), Manual of the Lesser Golem, Mongrelmaker's Handbook and Umber Beans.
+  - Garbled spots on Accursed Idol, Eyes of the Portal Masters, Headdress of Majesty, Ghost Dragon Horn, Chalice of Forbidden Ecstasies, Radiant Libram, Prayer Mat, Girdle of Traveling Alchemy, Skeleton Key and a few others.
+- **Wrong number fixed:** the scan read "DC 13" as "DC 33" in a few places. I checked each one against the page. This also fixed two pages already published: Potion of Freezing Fog and Thirsting Scalpel (it read "DC 133").
+- **Sidebars:**
+  - "The Book in Midgard" (sable elves, Court of Silver Words) is a short note on Book of Ebon Tides, in **my words**.
+  - Moxug the Fear-Eater and the story of the Eye of the Golden God are in `_GM Only/Magic Item Hooks.md`, in **my words**.
+  - Dropped: the sidebar on Phoenix Ember and Plumb of the Elements, which is about a livestream campaign rather than the world.
+- **Book references removed:** "(see Tome of Beasts)", "Creature Codex" and "Deep Magic" mentions are gone. Lists of other books' spells are reworded as "the GM can swap any spell that isn't on this wiki".
+
+## Needs your call (Wondrous)
+- **Skald's Harp** boosts the bard's Song of Rest and Countercharm. Tales of the Valiant bards don't have those features. Rule at the table or tell me what to map them to.
+- **Madness again:** Eyes of the Outer Dark mentions "a madness", like the spirit honeys.
+- **Mender's Mark** is a brooch shaped like an angel. I left it, since angels aren't specifically Christian. Say if you'd rather it be something else.
+
+More spells not on the wiki yet (from the wondrous chapter): *cloak of shadow*, *creeping darkness*, *douse light*, *ectoplasm*, *eldritch communion*, *emanation of yoth*, *living shadows*, *semblance of dread*, *shadow gateway*, *shadow step*, *yellow sign*. Nameless Cults also lists 18 Great Old One spells, and the Girdle of Traveling Alchemy mentions alchemist's ice and swarm repellent from the same family of books.
