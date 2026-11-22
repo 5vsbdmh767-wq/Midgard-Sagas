@@ -903,6 +903,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Ring of the Water Dancer]] | Ring | Rare | Yes | pending | [[Rings]] |
 | [[Ring of Ursa]] | Ring | Rare | Yes | pending | [[Rings]] |
 | [[Ring of X-Ray Vision]] | Ring | Rare | Yes | 2,000 gp | [[Rings]] |
+| [[River Token]] | Wondrous Item | Rare | — | pending | [[Gems, Stones & Orbs]] |
 | [[Riverine Blade]] | Weapon (Longsword) | Rare | — | pending | [[Magic Weapons]] |
 | [[Robe of Eyes]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Rod of Blade Bending]] | Rod | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
@@ -1371,13 +1372,19 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 |---|---|---|---|---|---|
 | [[Ancestral Armor]] | Armor | Fabled | by a [[Vanguard]] | Priceless | [[Fabled Magic Items]] |
 | [[Arbiter]] | Weapon (Warhammer) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
+| [[Assassin’s Chain]] | Armor (Chain Shirt) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Bash and Havoc]] | Weapon (Gauntlets) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Battlebrew Medallion]] | Wondrous Item | Fabled | by a [[Cleric]] or [[Paladin]] of a Relevant God | Priceless | [[Fabled Magic Items]] |
+| [[Battlecaster’s Armor]] | Armor (Breastplate) | Fabled | by a Spellcaster | Priceless | [[Fabled Magic Items]] |
 | [[Blades of Blood and Fury]] | Weapons | Fabled | by a [[Barbarian]] | Priceless | [[Fabled Magic Items]] |
+| [[Blood Moon Orb]] | Wondrous Item | Fabled | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | Priceless | [[Fabled Magic Items]] |
 | [[Blood Spike Armor]] | Armor (Plate) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Book of Names]] | Wondrous Item | Fabled | — | Priceless | [[Fabled Magic Items]] |
+| [[Bracers of Ganis’briel]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Bracers of Holy Fury]] | Wondrous Item | Fabled | — | Priceless | [[Fabled Magic Items]] |
 | [[Bright Fey Weapons]] | Weapon (Greatsword) | Fabled | — | Priceless | [[Fabled Magic Items]] |
+| [[Cailebryn]] | Weapon (Longsword) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
+| [[Champion’s Plate]] | Armor (Plate) | Fabled | by a Creature of good alignment | Priceless | [[Fabled Magic Items]] |
 | [[Chrono Glass]] | Wondrous Item | Fabled | — | Priceless | [[Fabled Magic Items]] |
 | [[Crown of the Spellspeaker]] | Wondrous Item | Fabled | by a [[Sorcerer]] | Priceless | [[Fabled Magic Items]] |
 | [[Deadfall and Fetch]] | Weapon (Paired Handaxes) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
@@ -1388,29 +1395,46 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Elemental Ring Blade]] | Weapon (Longsword) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Enforcer of the Pact]] | Wondrous Item | Fabled | by a [[Warlock]] | Priceless | [[Fabled Magic Items]] |
 | [[Featherwing]] | Weapon (Longbow) | Fabled | by an Elf | Priceless | [[Fabled Magic Items]] |
+| [[Fire Shield of Rathume]] | Armor (Shield) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
+| [[Foulton Door]] | Wondrous Item | Fabled | — | Priceless | [[Fabled Magic Items]] |
+| [[Gauntlets of the Arcane Fist]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
+| [[Golden Griffon Shield]] | Armor (Shield) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
+| [[Grinning Skull]] | Wondrous Item | Fabled | by a [[Cleric]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | Priceless | [[Fabled Magic Items]] |
 | [[Groundbyrne’s Greaves]] | Armor (Greaves) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Harrowhelm]] | Wondrous Item | Fabled | by a [[Paladin]] | Priceless | [[Fabled Magic Items]] |
+| [[Healer’s Hand Amulet]] | Wondrous Item | Fabled | by a [[Cleric]] of non-evil alignment | Priceless | [[Fabled Magic Items]] |
 | [[Helm of the Medusa]] | Wondrous Item | Fabled | — | Priceless | [[Fabled Magic Items]] |
+| [[Helm of Velamish]] | Wondrous Item | Fabled | by a [[Paladin]] of good alignment | Priceless | [[Fabled Magic Items]] |
+| [[Kelgror’s Hammer]] | Weapon (Warhammer) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Laceros, the Godsplinter]] | Weapon (Lance) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
+| [[Mage Hunter’s Armor]] | Armor (Breastplate) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Mailcoat of the Living Martyr]] | Armor | Fabled | by a [[Cleric]] | Priceless | [[Fabled Magic Items]] |
 | [[Mankiller]] | Weapon (Handaxe) | Fabled | Yes | Priceless | [[Weapons of Legacy]] |
+| [[Markum’s Glaive]] | Weapon (Glaive) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Mask of the Laughing Knave]] | Wondrous Item | Fabled | by a [[Bard]] | Priceless | [[Fabled Magic Items]] |
+| [[Matched Blades of the Eternal Feudalists]] | Weapon (Scimitar) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Mayhem]] | Weapon (Greataxe) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Monster Hunter’s Crossbow]] | Weapon (Heavy Crossbow) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
+| [[Oak Heart Figurine]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Pack of Peerless Purloining]] | Wondrous Item | Fabled | by a [[Rogue]] | Priceless | [[Fabled Magic Items]] |
 | [[Planner’s Piece]] | Wondrous Item | Fabled | by a [[Rogue]] | Priceless | [[Fabled Magic Items]] |
 | [[Plume of Names]] | Wondrous Item | Fabled | by a [[Theurge]] | Priceless | [[Fabled Magic Items]] |
 | [[Quickfinger Gloves]] | Wondrous Item | Fabled | — | Priceless | [[Fabled Magic Items]] |
+| [[Raurrick’s Axe]] | Weapon (Greataxe) | Fabled | by a Creature of good alignment | Priceless | [[Fabled Magic Items]] |
 | [[Reaver, the Endless Hunger]] | Weapon (Scythe) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
+| [[Red Bulette’s Hide]] | Armor (Hide) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Ring of the Flamekeeper]] | Wondrous Item | Fabled | — | Priceless | [[Fabled Magic Items]] |
+| [[Sacred Mountain Armor]] | Armor (Scale Mail) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Sanguine Spellbook]] | Wondrous Item | Fabled | by a [[Wizard]] | Priceless | [[Fabled Magic Items]] |
 | [[Scepter of the Warrior King]] | Rod | Fabled | by a [[Fighter]] | Priceless | [[Fabled Magic Items]] |
+| [[Scorpion Sting Scimitar]] | Weapon (Scimitar) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Second Chance]] | Weapon (Greataxe) | Fabled | Yes | Priceless | [[Weapons of Legacy]] |
 | [[Shield of Soaring Promise]] | Armor (Shield) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Shroud of Shadows]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Skein of Weal and Woe]] | Wondrous Item | Fabled | by a [[Witch]] | Priceless | [[Fabled Magic Items]] |
 | [[Skinchanger Arm Ring]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Soul Reaver]] | Weapon (Battleaxe) | Fabled | Yes | Priceless | [[Weapons of Legacy]] |
+| [[Sovereign’s Scepter]] | Rod | Fabled | by a Creature of good alignment | Priceless | [[Fabled Magic Items]] |
 | [[Staff of the Toad King]] | Staff | Fabled | — | Priceless | [[Fabled Magic Items]] |
 | [[Storrbani]] | Weapon | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[The Grave Blade]] | Weapon (Longsword) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
@@ -1418,8 +1442,13 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[The Patchwork Protector]] | Armor (Studded Leather) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Tordalfr’s Rebuttal]] | Javelin | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Trainer’s Whip]] | Weapon (Whip) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
+| [[Trickster’s Boots]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
+| [[Uthariel’s Diadem]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
+| [[Vrithmytrix’s Bane]] | Armor (Scale Mail) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Wand of the Wodewalker]] | Wand | Fabled | by a [[Druid]] | Priceless | [[Fabled Magic Items]] |
+| [[Wanderer’s Book]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Witch Light]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
+| [[Wolf’s Howl Ring]] | Ring | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Wraps of the Enlightened Path]] | Weapon | Fabled | by a [[Monk]] | Priceless | [[Fabled Magic Items]] |
 | [[Wyrm-Scored Coin]] | Wondrous Item | Fabled | by a [[Rogue]] | Priceless | [[Fabled Magic Items]] |
 

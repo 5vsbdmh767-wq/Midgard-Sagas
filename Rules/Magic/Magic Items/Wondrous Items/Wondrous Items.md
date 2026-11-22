@@ -14,7 +14,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Cloaks, Robes & Clothing]] | 66 |
 | [[Containers & Vessels]] | 67 |
 | [[Dusts, Oils & Consumables]] | 48 |
-| [[Gems, Stones & Orbs]] | 37 |
+| [[Gems, Stones & Orbs]] | 38 |
 | [[Headwear & Eyewear]] | 74 |
 | [[Instruments]] | 29 |
 | [[Mounts, Vehicles & Travel]] | 37 |
@@ -535,6 +535,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Revenant’s Shawl]] | Wondrous Item | Uncommon | Yes | pending | [[Cloaks, Robes & Clothing]] |
 | [[Rift Orb]] | Wondrous Item | Rare | — | 8,000 gp | [[Gems, Stones & Orbs]] |
 | [[Right-Sizing Saddle]] | Wondrous Item | Rare | Yes | 4,000 gp | [[Mounts, Vehicles & Travel]] |
+| [[River Token]] | Wondrous Item | Rare | — | pending | [[Gems, Stones & Orbs]] |
 | [[Robe of Eyes]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Robe of Scintillating Colors]] | Wondrous Item | Very Rare | Yes | 33,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Robe of Stars]] | Wondrous Item | Very Rare | Yes | 50,500 gp | [[Cloaks, Robes & Clothing]] |

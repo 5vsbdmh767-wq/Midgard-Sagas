@@ -74,6 +74,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Ashes of the Fallen]] | Wondrous Item | Rare | — | pending | [[Dusts, Oils & Consumables]] |
 | [[Ashwood Wand]] | Wand | Common | by a [[Druid]] | pending | [[Rods, Staffs & Wands]] |
 | [[Asp’s Kiss]] | Weapon (Shortsword) | Legendary | by a [[Bard]], [[Fighter]], [[Ranger]], or [[Rogue]] | pending | [[Magic Weapons]] |
+| [[Assassin’s Chain]] | Armor (Chain Shirt) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Aurochs Bracers]] | Wondrous Item | Uncommon | Yes | pending | [[Belts, Gloves & Bracers]] |
 | [[Avian Staff]] | Staff | Rare | by a Spellcaster | 120,000 gp | [[Rods, Staffs & Wands]] |
 | [[Axe of Shredding]] | Weapon (Battleaxe) | Rarity Varies | Yes | Price Varies | [[Magic Weapons]] |
@@ -98,6 +99,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Bash and Havoc]] | Weapon (Gauntlets) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Battle Standard of Passage]] | Wondrous Item | Uncommon | — | pending | [[Banners]] |
 | [[Battlebrew Medallion]] | Wondrous Item | Fabled | by a [[Cleric]] or [[Paladin]] of a Relevant God | Priceless | [[Fabled Magic Items]] |
+| [[Battlecaster’s Armor]] | Armor (Breastplate) | Fabled | by a Spellcaster | Priceless | [[Fabled Magic Items]] |
 | [[Beachhead Banner]] | Wondrous Item | Very Rare | by a [[Vanguard]] | 50,000 gp | [[Banners]] |
 | [[Bead of Exsanguination]] | Wondrous Item | Rare | — | pending | [[Amulets, Charms & Jewelry]] |
 | [[Bead of Force]] | Wondrous Item | Rare | — | 650 gp | [[Amulets, Charms & Jewelry]] |
@@ -141,6 +143,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Blessed Pauper’s Purse]] | Wondrous Item | Common | Yes | pending | [[Containers & Vessels]] |
 | [[Blinding Lantern]] | Wondrous Item | Uncommon | — | pending | [[Tools, Keys & Curiosities]] |
 | [[Blood Mark]] | Wondrous Item | Uncommon | — | pending | [[Amulets, Charms & Jewelry]] |
+| [[Blood Moon Orb]] | Wondrous Item | Fabled | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | Priceless | [[Fabled Magic Items]] |
 | [[Blood Pearl]] | Wondrous Item | Uncommon | — | pending | [[Gems, Stones & Orbs]] |
 | [[Blood Spike Armor]] | Armor (Plate) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Blood-Soaked Hide]] | Armor (Hide) | Very Rare | Yes | pending | [[Magic Armor]] |
@@ -188,6 +191,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Bracers of Archery]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Bracers of Baleful Reprisal]] | Wondrous Item | Common | Yes | 50 gp | [[Belts, Gloves & Bracers]] |
 | [[Bracers of Defense]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Belts, Gloves & Bracers]] |
+| [[Bracers of Ganis’briel]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Bracers of Holy Fury]] | Wondrous Item | Fabled | — | Priceless | [[Fabled Magic Items]] |
 | [[Bracers of Seven Winds]] | Weapon | Very Rare | by a [[Monk]] | 75,000 gp | [[Magic Weapons]] |
 | [[Bracers of Throwing]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Belts, Gloves & Bracers]] |
@@ -224,6 +228,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Butter of Disbelief]] | Wondrous Item | Uncommon | — | pending | [[Dusts, Oils & Consumables]] |
 | [[Buzzing Blade]] | Weapon (Any Sword or Axe) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Bygul’s Paw Boots]] | Wondrous Item | Uncommon | — | 2,500 gp | [[Boots & Footwear]] |
+| [[Cailebryn]] | Weapon (Longsword) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Caliginous Cowl]] | Wondrous Item | Very Rare | Yes | 30,020 gp | [[Headwear & Eyewear]] |
 | [[Candied Axe]] | Weapon (Battleaxe) | Very Rare | Yes | pending | [[Magic Weapons]] |
 | [[Candied Spider]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
@@ -252,6 +257,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Chalice of Forbidden Ecstasies]] | Wondrous Item | Uncommon | by a Spellcaster | pending | [[Containers & Vessels]] |
 | [[Chalk of Exodus]] | Wondrous Item | Uncommon | — | pending | [[Dusts, Oils & Consumables]] |
 | [[Chalk of Warding]] | Wondrous Item | Uncommon | — | 330 gp | [[Dusts, Oils & Consumables]] |
+| [[Champion’s Plate]] | Armor (Plate) | Fabled | by a Creature of good alignment | Priceless | [[Fabled Magic Items]] |
 | [[Chamrosh Salve]] | Wondrous Item | Rare | — | pending | [[Dusts, Oils & Consumables]] |
 | [[Charlatan’s Veneer]] | Wondrous Item | Uncommon | Yes | pending | [[Dusts, Oils & Consumables]] |
 | [[Charm of Restoration]] | Wondrous Item | Common | — | 100 gp | [[Amulets, Charms & Jewelry]] |
@@ -457,6 +463,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Figurehead of Prowess]] | Wondrous Item | Rarity Varies | — | pending | [[Mounts, Vehicles & Travel]] |
 | [[Figurine of Wondrous Power]] | Wondrous Item | Rarity by Figurine | — | Price Varies | [[Tools, Keys & Curiosities]] |
 | [[Figurine of Wondrous Power, Malachite Selang]] | Wondrous Item | Rare | — | 8,000 gp | [[Tools, Keys & Curiosities]] |
+| [[Fire Shield of Rathume]] | Armor (Shield) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Firebird Feather]] | Wondrous Item | Uncommon | — | 500 gp | [[Gems, Stones & Orbs]] |
 | [[Flag of the Cursed Fleet]] | Wondrous Item | Legendary | — | pending | [[Banners]] |
 | [[Flame Tongue]] | Weapon (Any Sword) | Rare | Yes | 5,000 gp + base weapon cost | [[Magic Weapons]] |
@@ -470,6 +477,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Fly Whisk of Authority]] | Wondrous Item | Uncommon | — | pending | [[Amulets, Charms & Jewelry]] |
 | [[Fog Stone]] | Weapon (Sling Bullet) | Uncommon | — | pending | [[Magic Weapons]] |
 | [[Forgefire Hammer]] | Weapon (Maul or Warhammer) | Rare | — | pending | [[Magic Weapons]] |
+| [[Foulton Door]] | Wondrous Item | Fabled | — | Priceless | [[Fabled Magic Items]] |
 | [[Fountmail]] | Armor (Chain Mail) | Legendary | Yes | pending | [[Magic Armor]] |
 | [[Freerunner Rod]] | Rod | Very Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Frost Brand]] | Weapon (Any Sword) | Very Rare | Yes | 5,000 gp + base weapon cost | [[Magic Weapons]] |
@@ -481,6 +489,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Garments of Winter’s Knight]] | Wondrous Item | Legendary | Yes | pending | [[Cloaks, Robes & Clothing]] |
 | [[Gauntlet of the Iron Sphere]] | Wondrous Item | Very Rare | Yes | pending | [[Gems, Stones & Orbs]] |
 | [[Gauntlets of Ogre Power]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Belts, Gloves & Bracers]] |
+| [[Gauntlets of the Arcane Fist]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Gazebo of Shade and Shelter]] | Wondrous Item | Rare | — | pending | [[Mounts, Vehicles & Travel]] |
 | [[Gem of Brightness]] | Wondrous Item | Uncommon | — | 200 gp | [[Gems, Stones & Orbs]] |
 | [[Gem of Image Storing]] | Wondrous Item | Rare | Yes | 4,000 gp | [[Gems, Stones & Orbs]] |
@@ -516,6 +525,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Goggles of Tracking]] | Wondrous Item | Uncommon | — | 2,800 gp | [[Headwear & Eyewear]] |
 | [[Golden Bolt]] | Weapon (Heavy Crossbow) | Uncommon | Yes | pending | [[Magic Weapons]] |
 | [[Golden Dawn]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
+| [[Golden Griffon Shield]] | Armor (Shield) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Gorgon Scale]] | Armor (Scale Mail) | Very Rare | Yes | pending | [[Magic Armor]] |
 | [[Granny Wax]] | Wondrous Item | Uncommon | — | pending | [[Dusts, Oils & Consumables]] |
 | [[Grasping Cap]] | Wondrous Item | Legendary | Yes | pending | [[Headwear & Eyewear]] |
@@ -528,6 +538,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Grifter’s Deck]] | Wondrous Item | Common | — | pending | [[Books & Writing]] |
 | [[Grim Escutcheon]] | Armor (Shield) | Uncommon | Yes | pending | [[Magic Armor]] |
 | [[Grimoire of the Eldest]] | Wondrous Item | Very Rare | Yes | 55,000 gp | [[Books & Writing]] |
+| [[Grinning Skull]] | Wondrous Item | Fabled | by a [[Cleric]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | Priceless | [[Fabled Magic Items]] |
 | [[Gritless Grease]] | Wondrous Item | Uncommon | — | pending | [[Dusts, Oils & Consumables]] |
 | [[Groundbound Ammunition]] | Weapon (Any Ammunition) | Rarity Varies | — | Price Varies | [[Magic Weapons]] |
 | [[Groundbyrne’s Greaves]] | Armor (Greaves) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
@@ -558,6 +569,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Headdress of Majesty]] | Wondrous Item | Rare | Yes | pending | [[Cloaks, Robes & Clothing]] |
 | [[Headrest of the Cattle Queens]] | Wondrous Item | Uncommon | — | pending | [[Headwear & Eyewear]] |
 | [[Headscarf of the Oasis]] | Wondrous Item | Uncommon | — | pending | [[Cloaks, Robes & Clothing]] |
+| [[Healer’s Hand Amulet]] | Wondrous Item | Fabled | by a [[Cleric]] of non-evil alignment | Priceless | [[Fabled Magic Items]] |
 | [[Healthful Honeypot]] | Wondrous Item | Very Rare | — | pending | [[Containers & Vessels]] |
 | [[Heat Stone]] | Wondrous Item | Common | — | pending | [[Gems, Stones & Orbs]] |
 | [[Heliotrope Heart]] | Wondrous Item | Uncommon | Yes | pending | [[Gems, Stones & Orbs]] |
@@ -570,6 +582,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Helm of Teleportation]] | Wondrous Item | Rare | Yes | 40,000 gp | [[Headwear & Eyewear]] |
 | [[Helm of the Medusa]] | Wondrous Item | Fabled | — | Priceless | [[Fabled Magic Items]] |
 | [[Helm of the Slashing Fin]] | Wondrous Item | Uncommon | Yes | pending | [[Headwear & Eyewear]] |
+| [[Helm of Velamish]] | Wondrous Item | Fabled | by a [[Paladin]] of good alignment | Priceless | [[Fabled Magic Items]] |
 | [[Helmet of Nullification]] | Wondrous Item | Very Rare | Yes | 80,000 gp | [[Headwear & Eyewear]] |
 | [[Hel’s Coin]] | Wondrous Item | Common | — | 10 gp | [[Amulets, Charms & Jewelry]] |
 | [[Hewer’s Draught]] | Potion | Uncommon | — | pending | [[Potions]] |
@@ -637,6 +650,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Jungle Mess Kit]] | Wondrous Item | Uncommon | — | pending | [[Containers & Vessels]] |
 | [[Justicar’s Mask]] | Wondrous Item | Rare | Yes | pending | [[Headwear & Eyewear]] |
 | [[Keffiyeh of Serendipitous Escape]] | Wondrous Item | Very Rare | — | pending | [[Headwear & Eyewear]] |
+| [[Kelgror’s Hammer]] | Weapon (Warhammer) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Kempdomr Axe]] | Weapon (battleaxe, bearded axe, breidox, or greataxe) | Rare | Yes | 5,000 gp + weapon base cost | [[Magic Weapons]] |
 | [[Kerchief of Weeping]] | Wondrous Item | Rare | Yes | 2,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Key of Keys]] | Wondrous Item | Uncommon | — | 520 gp | [[Tools, Keys & Curiosities]] |
@@ -684,6 +698,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Mace of Disruption]] | Weapon (Mace) | Rare | Yes | 8,000 gp | [[Magic Weapons]] |
 | [[Mace of Smiting]] | Weapon (Mace) | Rare | — | 8,000 gp | [[Magic Weapons]] |
 | [[Mace of Terror]] | Weapon (Mace) | Rare | Yes | 8,800 gp | [[Magic Weapons]] |
+| [[Mage Hunter’s Armor]] | Armor (Breastplate) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Magic Weights]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Magma Mantle]] | Wondrous Item | Rare | Yes | pending | [[Cloaks, Robes & Clothing]] |
 | [[Magus Rune Armor]] | Armor (Scale Mail) | Rare | — | 4,400 gp | [[Arcanepunk Items]] |
@@ -706,6 +721,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Manuals of Advantageous Exertion]] | Wondrous Item | Very Rare | — | 30,000 gp | [[Books & Writing]] |
 | [[Mapping Ink]] | Wondrous Item | Uncommon | — | pending | [[Books & Writing]] |
 | [[Margreve Fur]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Cloaks, Robes & Clothing]] |
+| [[Markum’s Glaive]] | Weapon (Glaive) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Marvelous Clockwork Mallard]] | Wondrous Item | Rare | — | pending | [[Tools, Keys & Curiosities]] |
 | [[Marvelous Pigments]] | Wondrous Item | Very Rare | — | 30,000 gp | [[Dusts, Oils & Consumables]] |
 | [[Masher Basher]] | Weapon (Greatclub) | Uncommon | — | pending | [[Magic Weapons]] |
@@ -715,6 +731,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Mask of the War Chief]] | Wondrous Item | Rarity Varies | Yes | pending | [[Headwear & Eyewear]] |
 | [[Masking Clay]] | Wondrous Item | Uncommon | — | 150 gp | [[Dusts, Oils & Consumables]] |
 | [[Master Angler’s Tackle]] | Wondrous Item | Common | — | pending | [[Tools, Keys & Curiosities]] |
+| [[Matched Blades of the Eternal Feudalists]] | Weapon (Scimitar) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Matryoshka Dolls]] | Wondrous Item | Rare | Yes | pending | [[Containers & Vessels]] |
 | [[Mayhem]] | Weapon (Greataxe) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Mayhem Mask]] | Wondrous Item | Very Rare | Yes | pending | [[Headwear & Eyewear]] |
@@ -765,6 +782,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[North Star Ring]] | Wondrous Item | Common | — | 25 gp | [[Amulets, Charms & Jewelry]] |
 | [[Northlander’s Boots]] | Wondrous Item | Common | Yes | 40 gp | [[Boots & Footwear]] |
 | [[Nullifier’s Lexicon]] | Wondrous Item | Very Rare | by a [[Cleric]] or [[Wizard]] | pending | [[Books & Writing]] |
+| [[Oak Heart Figurine]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Oakwood Wand]] | Wand | Common | by a [[Druid]] | pending | [[Rods, Staffs & Wands]] |
 | [[Oathbow]] | Weapon (Longbow) | Very Rare | Yes | 16,000 gp | [[Magic Weapons]] |
 | [[Octopus Bracers]] | Wondrous Item | Uncommon | Yes | pending | [[Belts, Gloves & Bracers]] |
@@ -895,6 +913,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Rage Hammer]] | Weapon (maul or warhammer) | Uncommon | by a barbarian | 1,000 gp | [[Magic Weapons]] |
 | [[Rain of Chaos]] | Weapon (Longbow) | Uncommon | Yes | pending | [[Magic Weapons]] |
 | [[Rainbow Extract]] | Potion | Common | — | pending | [[Potions]] |
+| [[Raurrick’s Axe]] | Weapon (Greataxe) | Fabled | by a Creature of good alignment | Priceless | [[Fabled Magic Items]] |
 | [[Ravager’s Axe]] | Weapon (Greataxe) | Very Rare | — | pending | [[Magic Weapons]] |
 | [[Ravenflight Axe]] | Weapon (handaxe) | Uncommon | Yes | 2,000 gp | [[Magic Weapons]] |
 | [[Reaver, the Endless Hunger]] | Weapon (Scythe) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
@@ -903,6 +922,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Reciprocating Polearm]] | Weapon (Spear, Glaive, or Halberd) | Common | — | 100 gp | [[Magic Weapons]] |
 | [[Recondite Shield]] | Ring | Uncommon | Yes | pending | [[Rings]] |
 | [[Recording Book]] | Wondrous Item | Uncommon | Yes | pending | [[Books & Writing]] |
+| [[Red Bulette’s Hide]] | Armor (Hide) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Reef Splitter]] | Weapon (Warhammer) | Very Rare | Yes | pending | [[Magic Weapons]] |
 | [[Reliquary Armor]] | Armor | Rare | Yes | 20,000 gp | [[Magic Armor]] |
 | [[Reliquary Weapon]] | Weapon | Rare | Yes | 5,000 gp + base weapon cost | [[Magic Weapons]] |
@@ -972,6 +992,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Ring of Warmth]] | Ring | Uncommon | Yes | 2,000 gp | [[Rings]] |
 | [[Ring of Water Walking]] | Ring | Uncommon | — | 3,000 gp | [[Rings]] |
 | [[Ring of X-Ray Vision]] | Ring | Rare | Yes | 2,000 gp | [[Rings]] |
+| [[River Token]] | Wondrous Item | Rare | — | pending | [[Gems, Stones & Orbs]] |
 | [[Riverine Blade]] | Weapon (Longsword) | Rare | — | pending | [[Magic Weapons]] |
 | [[Roast Bean Juice]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
 | [[Robe of Eyes]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Cloaks, Robes & Clothing]] |
@@ -1024,6 +1045,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Rumbling Hammer]] | Weapon (maul or warhammer) | Common | Yes | 50 gp | [[Magic Weapons]] |
 | [[Rust Monster Shell]] | Armor (Breastplate) | Rare | Yes | pending | [[Magic Armor]] |
 | [[Rusted Time Blade]] | Weapon (Any Sword) | Rare | Yes | 4,400 gp | [[Arcanepunk Items]] |
+| [[Sacred Mountain Armor]] | Armor (Scale Mail) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Sacrificial Knife]] | Weapon (Dagger) | Rarity Varies | Yes | pending | [[Magic Weapons]] |
 | [[Saddle of Flying]] | Wondrous Item | Uncommon | Yes | 8,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Saddle of the Cavalry Casters]] | Wondrous Item | Uncommon | — | pending | [[Mounts, Vehicles & Travel]] |
@@ -1053,6 +1075,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Scimitar of the Desert Winds]] | Weapon (Scimitar) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Scorn Pouch]] | Wondrous Item | Rare | Yes | 4,000 gp | [[Containers & Vessels]] |
 | [[Scorpion Feet]] | Wondrous Item | Legendary | Yes | pending | [[Tools, Keys & Curiosities]] |
+| [[Scorpion Sting Scimitar]] | Weapon (Scimitar) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Scoundrel’s Gambit]] | Wondrous Item | Uncommon | — | pending | [[Tools, Keys & Curiosities]] |
 | [[Scourge of Devotion]] | Weapon (Flail) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Scout’s Coat]] | Wondrous Item | Common | — | pending | [[Cloaks, Robes & Clothing]] |
@@ -1150,6 +1173,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Soul Jug]] | Wondrous Item | Very Rare | — | 45,000 gp | [[Containers & Vessels]] |
 | [[Soul Reaver]] | Weapon (Battleaxe) | Fabled | Yes | Priceless | [[Weapons of Legacy]] |
 | [[Sovereign Glue]] | Wondrous Item | Legendary | — | 25,000 gp | [[Dusts, Oils & Consumables]] |
+| [[Sovereign’s Scepter]] | Rod | Fabled | by a Creature of good alignment | Priceless | [[Fabled Magic Items]] |
 | [[Speaking Shards]] | Wondrous Item | Uncommon | — | 500 gp | [[Gems, Stones & Orbs]] |
 | [[Spear of the North]] | Weapon (Spear) | Very Rare | Yes | pending | [[Magic Weapons]] |
 | [[Spear of the Stilled Heart]] | Weapon (Spear) | Very Rare | Yes | pending | [[Magic Weapons]] |
@@ -1300,6 +1324,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Traveling Tool Chest]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Containers & Vessels]] |
 | [[Treebleed Bucket]] | Wondrous Item | Uncommon | — | 250 gp | [[Containers & Vessels]] |
 | [[Trick Shot Mirror]] | Wondrous Item | Rarity Varies | Yes | pending | [[Tools, Keys & Curiosities]] |
+| [[Trickster’s Boots]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Trident of Fish Command]] | Weapon (Trident) | Uncommon | Yes | 2,040 gp | [[Magic Weapons]] |
 | [[Trident of the Vortex]] | Weapon (Trident) | Very Rare | Yes | pending | [[Magic Weapons]] |
 | [[Trident of the Yearning Tide]] | Weapon (Trident) | Very Rare | Yes | pending | [[Magic Weapons]] |
@@ -1320,6 +1345,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Unquiet Dagger]] | Weapon (Dagger) | Very Rare | by a Spellcaster of Evil Alignment | pending | [[Magic Weapons]] |
 | [[Unseelie Staff]] | Staff | Rare | by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Unstable Bombard]] | Potion | Rarity Varies | — | pending | [[Potions]] |
+| [[Uthariel’s Diadem]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Valendra’s Voluminous Sheath]] | Wondrous Item | Rare | — | 4,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Valhallan Armor]] | Armor (Any medium or heavy) | Rare | Yes | 4,000 gp | [[Magic Armor]] |
 | [[Valkyrie’s Bite]] | Weapon (Scimitar) | Rare | Yes | pending | [[Magic Weapons]] |
@@ -1349,6 +1375,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Voidskin Cloak]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Voidwalker]] | Ring | Legendary | Yes | Priceless | [[Rings]] |
 | [[Vorpal Sword]] | Weapon (Any Sword That Deals Slashing Damage) | Legendary | Yes | — | [[Magic Weapons]] |
+| [[Vrithmytrix’s Bane]] | Armor (Scale Mail) | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Wafer of Warmth]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
 | [[Wand of Accompaniment]] | Wand | Very Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Wand of Air Glyphs]] | Wand | Common | — | pending | [[Rods, Staffs & Wands]] |
@@ -1387,6 +1414,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Wand of Web]] | Wand | Uncommon | by a Spellcaster | 3,000 gp | [[Rods, Staffs & Wands]] |
 | [[Wand of Windows]] | Wand | Common | — | pending | [[Rods, Staffs & Wands]] |
 | [[Wand of Wonder]] | Wand | Rare | by a Spellcaster | 19,600 gp | [[Rods, Staffs & Wands]] |
+| [[Wanderer’s Book]] | Wondrous Item | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Wanderer’s Skein]] | Wondrous Item | Very Rare | Yes | 16,500 gp | [[Tools, Keys & Curiosities]] |
 | [[Ward Against Wild Appetites]] | Wondrous Item | Uncommon | by a [[Druid]] or [[Ranger]] | 1,500 gp | [[Tools, Keys & Curiosities]] |
 | [[Warding Icon]] | Wondrous Item | Common | Yes | pending | [[Amulets, Charms & Jewelry]] |
@@ -1422,6 +1450,7 @@ Every magic item on this wiki, in alphabetical order. Each name links to the ite
 | [[Witch’s Circle]] | Weapon (Chakram) | Very Rare | by a Spellcaster | pending | [[Magic Weapons]] |
 | [[Wolf Brush]] | Weapon (Halberd or Spear) | Very Rare | Yes | pending | [[Magic Weapons]] |
 | [[Wolfbite Ring]] | Ring | Rare | Yes | pending | [[Rings]] |
+| [[Wolf’s Howl Ring]] | Ring | Fabled | Yes | Priceless | [[Fabled Magic Items]] |
 | [[Worg Salve]] | Wondrous Item | Uncommon | — | 400 gp | [[Dusts, Oils & Consumables]] |
 | [[Worry Stone]] | Wondrous Item | Common | — | pending | [[Gems, Stones & Orbs]] |
 | [[Worry Toy]] | Wondrous Item | Common | — | 50 gp | [[Tools, Keys & Curiosities]] |

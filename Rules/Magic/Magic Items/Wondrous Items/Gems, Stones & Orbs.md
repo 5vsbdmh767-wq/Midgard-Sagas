@@ -37,6 +37,7 @@ Wondrous items of this kind. All wondrous items are listed on [[Wondrous Items]]
 | [[Phoenix Ember]] | Wondrous Item | Legendary | Yes | pending |
 | [[Reaver’s Lodestone]] | Wondrous Item | Uncommon | — | 550 gp |
 | [[Rift Orb]] | Wondrous Item | Rare | — | 8,000 gp |
+| [[River Token]] | Wondrous Item | Rare | — | pending |
 | [[Shattersphere]] | Wondrous Item | Rarity Varies | — | Price Varies |
 | [[Skipstone]] | Wondrous Item | Rare | — | pending |
 | [[Speaking Shards]] | Wondrous Item | Uncommon | — | 500 gp |

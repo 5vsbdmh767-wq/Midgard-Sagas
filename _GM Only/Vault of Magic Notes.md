@@ -98,3 +98,14 @@ More spells not on the wiki yet (from the wondrous chapter): *cloak of shadow*, 
 - Skald's Harp: Song of Rest became Celebrate Life, capped at once per performance (my wording, your ruling). Countercharm became Clarity of Thought. Both are marked as house rules in hidden notes on the page.
 - Madness on Eyes of the Outer Dark: ruled at the table.
 - Mender's Mark keeps its angel. Angels exist in Midgard.
+
+## Fabled Items and Treasure Tables (22 Nov 2026)
+
+- 28 new fabled items, each with its story, its description and its 5th/9th/13th/17th-level properties. They're priced "Priceless" like the other fabled items, so nothing is pending. Blood Spike Armor was skipped because the wiki already has it.
+- **Foulton Door** is a fabled item built from fragments. Its five tables were scrambled by the scan, so I rebuilt them from the page images (fragment powers, plus lesser and greater positive and negative quirks). A sidebar about how many fragments make a full door is a short note in **my words**.
+- **Fabled Magic Items page:** two new sections in **my words**, "Stories" (how an item's story reveals itself) and "Variant: Heavier Attunement" (an optional rule where fabled items take more attunement slots at higher levels).
+- **River Token:** a wondrous item the first pass missed because the book misprints its type line. It's added now.
+- **Treasure tables:** `_GM Only/Magic Item Treasure Tables.md` has the treasure-trove-by-CR tables and all 25 magic item tables. Items on the wiki are linked. About 50 are 5th Edition items the wiki doesn't have (deck of many things, crystal balls, horns of Valhalla and so on). They're plain text, so you can swap or keep them. "Zephyr shield" is on a table but isn't in the book's item chapters at all, so it may be a misprint.
+
+## Needs your call (Fabled)
+- **Alignment:** Tales of the Valiant has no alignment, but several items still mention it. Four fabled items need "a creature of good alignment" or "a cleric of non-evil alignment" to attune (Champion's Plate, Raurrick's Axe, Sovereign's Scepter, Healer's Hand Amulet), plus Helm of Velamish ("a paladin of good alignment"). A few earlier items also mention alignment in their effects (Seelie and Unseelie Staff, Angelic Earrings, Binding Oath, Djinn Vessel). Options: leave as written, drop the requirement, or swap in something like "a creature devoted to a good god".
