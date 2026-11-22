@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Rare]] 4,060 gp*
 
 This finely carved rod is decorated with gold and small dragon scales. While underground and holding this rod, you know how deep below the surface you are. You also know the direction to the nearest exit leading upward.
 

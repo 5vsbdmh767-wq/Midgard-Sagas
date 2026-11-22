@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Common]] 55 gp*
 
 This wand is fashioned from a branch of pine, stripped of bark and beaded with hardened resin. The wand has 3 charges. If you use the wand as an arcane focus while casting a spell that deals fire damage, you can expend 1 charge as part of casting the spell to increase the spell’s damage by 1d4.
 

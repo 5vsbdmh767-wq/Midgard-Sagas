@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Very Rare]] 66,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Tightly intertwined lengths of grass, bound by additional stiff, knotted blades of grass, form this rod, which is favored by plains-dwelling druids and rangers. While holding it and in grasslands, you leave behind no tracks or other traces of your passing, and you can pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard. In addition, beasts with an INT of 3 or lower that are native to grasslands must succeed on a DC 15 CHA save to attack you.
 

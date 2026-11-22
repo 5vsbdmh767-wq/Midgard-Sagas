@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Sorcerer]], [[Warlock]], or [[Wizard]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Rare]] 16,050 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Sorcerer]], [[Warlock]], or [[Wizard]])*
 
 Made from stout oak with steel bands and bits of chain running its entire length, the staff feels oddly heavy. This staff has 10 charges for the following properties. It regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff constricts in upon itself and is destroyed.
 

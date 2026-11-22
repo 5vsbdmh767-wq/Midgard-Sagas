@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Uncommon]] 2,000 gp*
 
 An iron hook is affixed to the top of this plain, wooden staff. While holding this staff, you can use an action to cast the *[[Cantrips#Light|light]]* spell from it at will, but the light can emanate only from the staff’s hook. If a lantern hangs from the staff’s hook, you gain the following benefits while holding the staff:
 

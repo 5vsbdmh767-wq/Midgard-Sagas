@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]] or [[Cleric]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Very Rare]] 120,040 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]] or [[Cleric]])*
 
 One half of this staff is crafted of white ash and capped in gold, while the other is ebony and capped in silver. The staff has 10 charges for the following properties. It regains 1d6 + 4 charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff splits into two halves with a resounding crack and becomes nonmagical.
 

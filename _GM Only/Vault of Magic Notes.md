@@ -131,3 +131,21 @@ More spells not on the wiki yet (from the wondrous chapter): *cloak of shadow*, 
 - **Troll blood** matches the healing potion of the same rarity. The legendary one heals more than any healing potion, so I put it one row higher (2,500 gp).
 - **Reusable scrolls** (Binding Oath, Scroll of Fabrication, Scroll of Treasure Finding, Scrolls of Correspondence) are priced as permanent items. Binding Oath comes out at 60,000 gp.
 - **Scan fixes found while reading:** Black Dragon Oil was missing its dose count (5 ounces, checked against the page). A second sweep for garbled words fixed typos on 73 Vault of Magic pages, things like "adzo" for "a d20", "1dio" for "1d10", "Ifthe" for "If the", "I minute" for "1 minute", and three dropped numbers (Gnawing Spear's 5 feet, Living Juggernaut's DC 15, Ensnaring Ammunition's AC 10), each checked against the page. Armor of the Ngobou's type line said "Bide" instead of "Hide". Bezoar of the Cockatrice and Potion of Troll Blood, Superior also had stray characters.
+
+## Pricing: Rings, Rods, Staves & Wands (22 Nov 2026)
+
+- All 142 pages are priced. The working is in `_GM Only/Magic Item Prices, Rings, Rods, Staffs & Wands.md`.
+- **Big staffs:** the formula doubles for combat, for lasting benefits and for area spells, then adds the best spell. Most very rare staffs with area spells land near 120,000 gp, and seven legendary staffs reach about 200,000 gp. The official staffs on the wiki run from 63,500 gp (staff of fire) to 125,000 gp (staff of power), so these sit at the top of that range.
+- **Moved up a rarity:** Staff of Feathers, Staff of Voices, Staff of Portals, Staff of the Four Winds and Unseelie Staff, because they teleport, grant flight or cast *invisibility*.
+- **Judgment:** Blacktooth's best spells only work on fiends and undead, so I didn't double it for lasting effects (it would be 200,050 gp).
+- **Sidebars pulled out of the rules text:** three book sidebars had been printed into the middle of item rules. They're now short notes at the bottom of each page, in **my words**:
+  - Ring of the Jarl: the Northlands sidebar about the rings.
+  - Root of the World Tree: where the rods come from, and what a cursed one does.
+  - Serpent Staff had the "Seelie and Unseelie Staves in Midgard" sidebar stuck in its spell list. That sidebar now sits as a note on Seelie Staff and Unseelie Staff instead. It names [[Silendora]], which has no wiki page yet.
+- **More scan fixes:**
+  - Bubble and bead hit points: "$0" was 50 on both Rod of Bubbles and Bead of Exsanguination.
+  - "has to charges" was "10 charges" on three staffs.
+  - Ten paragraphs had been split mid-sentence, some with stray letters in the gap (Staff of the Treant read "when D Jon travel").
+  - About 30 smaller typos.
+  - Staff of the Unhatched still said *chill touch*; it now says *grave touch*, with its other spells linked.
+- More spells not on the wiki: *poisoned volley* (Serpent Staff) and *wind lash* (Staff of the Four Winds).

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Rare]] 8,800 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This thin bone rod is topped with the carved figurine of an albatross in flight. The rod has 5 charges. You can use an action to expend 1 or more of its charges and point the rod at one or more creatures you can see within 30 feet of you, expending 1 charge for each creature. Each target must succeed on a DC 15 WIS save or be cursed for 1 minute. A cursed creature has disadvantage on attack rolls and saves while within 100 feet of a body of water that is at least 20 feet deep.
 

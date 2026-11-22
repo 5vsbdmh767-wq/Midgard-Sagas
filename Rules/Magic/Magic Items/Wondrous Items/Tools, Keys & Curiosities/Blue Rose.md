@@ -11,9 +11,7 @@ The petals of this cerulean flower can be prepared into a compote and consumed. 
 
 - If the spell has more powerful effects when cast at a higher level, treat the spell’s effects as if you had cast the spell at one slot level higher than the spell slot you used.
 
-- The spell is affected by one of the following metamagic options, even if you aren’t a sorcerer:
-
-heightened, quickened, or subtle. A spell can’t be affected by the same option more than once, though you can affect one spell with up to three different options. If you consume one or more doses without casting a spell, you can choose to instead affect a spell you cast before you finish a long rest.
+- The spell is affected by one of the following metamagic options, even if you aren’t a sorcerer: heightened, quickened, or subtle. A spell can’t be affected by the same option more than once, though you can affect one spell with up to three different options. If you consume one or more doses without casting a spell, you can choose to instead affect a spell you cast before you finish a long rest.
 
 In addition, consuming blue rose gives you some protection against spells. When a spellcaster you can see casts a spell, you can use your reaction to cause one of the following:
 

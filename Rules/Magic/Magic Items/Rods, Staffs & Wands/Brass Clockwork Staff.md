@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This curved staff is made of coiled brass and glass wire. You can use an action to speak one of three command words and throw the staff on the ground within 10 feet of you. The staff transforms into one of three wireframe creatures, depending on the command word: a unicorn, a hound, or a swarm of tiny beetles. The wireframe creature or swarm is under your control and acts on its own initiative count.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Rare]] 8,800 gp*
 
 This thin, flexible rod is made of braided silver and brass wire and topped with a spoon-like cup. While holding the rod, you can use a reaction to deflect a ranged weapon attack against you. You can simply cause the attack to miss, or you can attempt to redirect the attack against another target, even your attacker. The attack must have enough remaining range to reach the new target. If the additional distance between yourself and the new target is within the attack’s long range, it is made at disadvantage as normal, using the original attack roll as the first roll.
 

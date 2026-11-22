@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Fighter]] or [[Monk]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Legendary]] 200,020 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Fighter]] or [[Monk]])*
 
 This plain-looking, wooden staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Rare]] 8,010 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This wooden rod is decorated with colorful scarves and topped with a carving of a madly grinning head.
 

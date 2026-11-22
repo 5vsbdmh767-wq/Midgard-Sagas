@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Rare]] 4,010 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)*
 
 Green gas swirls inside this slender, glass wand. The wand has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand shatters into hundreds of crystalline fragments, and the gas within it dissipates.
 

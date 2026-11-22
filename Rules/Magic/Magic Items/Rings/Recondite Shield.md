@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Uncommon]] 2,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 While wearing this ring, you can use a bonus action to create a weightless, magic shield that shimmers with arcane energy. You must be proficient with shields to wield this semitranslucent shield, and you wield it in the same hand that wears the ring. The shield lasts for 1 hour or until you dismiss it (no action required). Once used, you can’t use the ring in this way again until the next dawn.
 

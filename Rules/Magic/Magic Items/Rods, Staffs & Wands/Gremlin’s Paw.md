@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Rare]] 8,030 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This wand is fashioned from the fossilized forearm and claw of a gremlin. The wand has 5 charges. While holding the wand, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 15): *[[1st-Circle Spells#Bane|bane]]* (1 charge), *[[3rd-Circle Spells#Bestow Curse|bestow curse]]* (3 charges), or *[[1st-Circle Spells#Hideous Laughter|hideous laughter]]* (1 charge).
 

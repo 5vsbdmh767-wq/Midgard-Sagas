@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Rare]] 8,800 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This rod of polished white oak is wrapped in a knotted cord with three iron rings binding each end. If you are holding the rod and fail a save against a transmutation spell or other effect that would change your body or remove or alter parts of you, you can choose to succeed instead. The rod can’t be used this way again until the next dawn.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Rare]] 16,040 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]])*
 
 Delicate web-like designs are carved into the wood of this twisted staff, which is often topped with the carved likeness of a spider. The staff has 10 charges for the following properties. It regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, a swarm of spiders appears and consumes the staff then vanishes.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This heavy, gold ring is set with a round piece of carnelian, which is engraved with the symbol of an eagle perched upon a crown. While wearing the ring, you have advantage on saves against enchantment spells and effects. You can use an action to touch the ring to a creature—requiring a melee attack roll unless the creature is willing or [[Conditions#Incapacitated|incapacitated]]—and magically brand it with the ring’s crest.
 

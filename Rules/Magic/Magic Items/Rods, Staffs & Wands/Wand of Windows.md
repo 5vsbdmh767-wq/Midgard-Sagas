@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Common]] 28 gp*
 
 This clear, crystal wand has 3 charges. You can use an action to expend 1 charge and touch the wand to any nonmagical object. The wand causes a portion of the object, up to 1-foot square and 6 inches deep, to become transparent for 1 minute. The effect ends if you stop holding the wand.
 

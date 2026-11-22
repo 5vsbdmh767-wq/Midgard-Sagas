@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Uncommon]] 1,100 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)*
 
 This bone rod is carved into the shape of twisting tendrils or tentacles. You can use this rod as an arcane focus. The rod has 3 charges and regains all expended charges daily at dawn.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Uncommon]] 2,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This ring stores hit points sacrificed to it, holding them until the attuned wearer uses them. The ring can store up to 30 hit points at a time. When found, it contains 2d10 stored hit points.
 

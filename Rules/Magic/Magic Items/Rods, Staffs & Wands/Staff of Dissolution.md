@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Sorcerer]], [[Warlock]], or [[Wizard]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Very Rare]] 120,060 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Sorcerer]], [[Warlock]], or [[Wizard]])*
 
 A gray crystal floats in the crook of this twisted staff. The crystal breaks into fragments as it slowly revolves, and those fragments break into smaller pieces then into clouds of dust. In spite of this, the crystal never seems to reduce in size. You have resistance to necrotic damage while you hold this staff.
 

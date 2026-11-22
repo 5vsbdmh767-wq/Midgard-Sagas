@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Sorcerer]], [[Warlock]], or [[Wizard]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Very Rare]] 120,060 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Sorcerer]], [[Warlock]], or [[Wizard]])*
 
 Fashioned from a single branch of polished ebony, this sturdy staff is topped by a lustrous jet. While holding it and in dim light or darkness, you gain a +1 bonus to AC and saves.
 

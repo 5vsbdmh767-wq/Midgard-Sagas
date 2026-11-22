@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Rare]] 8,020 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This thin wand is fashioned from the fiendish quill of a barbed devil. While attuned to it, you have resistance to cold damage.
 

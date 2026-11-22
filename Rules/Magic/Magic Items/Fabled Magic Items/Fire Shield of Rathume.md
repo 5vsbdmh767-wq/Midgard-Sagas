@@ -25,7 +25,7 @@ While wielding this shield, you can add the shield’s AC bonus to any DEX save 
 
 ***Fire Dragon’s Bane (Requires Attunement).*** As your level increases, you gain the following benefits while wielding or holding this shield.
 
-**5th Level.** You have resistance to fire damage. In addition, you can use an action to cast the flame blade spell from the
+**5th Level.** You have resistance to fire damage. In addition, you can use an action to cast the *flame blade* spell from the
 
 Yj shield. Once used, the shield can’t be used in this way again until the next dawn.
 

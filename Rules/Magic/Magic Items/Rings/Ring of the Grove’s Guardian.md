@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Druid]] or [[Ranger]])* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Druid]] or [[Ranger]])*
 
 This pale gold ring looks as though made of delicately braided vines wrapped around a small, rough obsidian stone. While wearing this ring, you have advantage on WIS (Perception) checks.
 

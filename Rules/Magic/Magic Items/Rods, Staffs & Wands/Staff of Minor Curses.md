@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Common]] 55 gp*
 
 This twisted, wooden staff has 10 charges. While holding it, you can use an action to inflict a minor curse on a creature you can see within 30 feet of you. The target must succeed on a DC 10 CON save or be affected by the chosen curse. A minor curse causes a non-debilitating effect or change in the creature, such as an outbreak of boils on one section of the target’s skin, intermittent hiccupping, transforming the target’s ears into small, donkey-like ears, or similar effects. The curse never interrupts spellcasting and never causes disadvantage on ability checks, attack rolls, or saves. The curse lasts for 24 hours or until removed by the *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic.
 

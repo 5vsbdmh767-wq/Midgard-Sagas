@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Legendary]] 200,080 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]])*
 
 This staff is fashioned from [[Conditions#Petrified|petrified]] wood and crowned with a raw chunk of lapis lazuli veined with gold. The staff can be wielded as a magic quarterstaff.
 

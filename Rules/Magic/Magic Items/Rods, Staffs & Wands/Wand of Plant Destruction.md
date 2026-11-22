@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Rare]] 4,400 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This wand of [[Conditions#Petrified|petrified]] wood has 7 charges. While holding it, you can use an action to expend up to 3 of its charges to harm a plant or plant creature you can see within 30 feet of you. The target must make a DC 15 CON save, taking 2d8 necrotic damage for each charge you expended on a failed save, or half as much damage on a successful one.
 

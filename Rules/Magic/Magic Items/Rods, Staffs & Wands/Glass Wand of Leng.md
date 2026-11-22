@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Rare]] 8,030 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)*
 
 The tip of this twisted clear glass wand is razor-sharp. It can be wielded as a magic dagger that grants a +1 bonus to attack and damage rolls made with it. The wand weighs 4 pounds and is roughly 18 inches long. When you tap the wand, it emits a single, loud note which can be heard up to 20 feet away and does not stop sounding until you choose to silence it.
 

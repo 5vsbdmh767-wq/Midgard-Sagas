@@ -15,9 +15,7 @@ As a bonus action, you can expend 1 charge to cause one of the following effects
 
 - Bestial Vigor. The next time you hit a creature with a melee weapon attack, the target takes an extra 1d6 damage of the weapon’s type.
 
-- Natural Selection. Until the end of your next turn, you have advantage on WIS (Perception)
-
-checks, and your speed increases by 5 feet.
+- Natural Selection. Until the end of your next turn, you have advantage on WIS (Perception) checks, and your speed increases by 5 feet.
 
 - WIS of the Wilds. You have advantage on WIS (Animal Handling) and WIS (Survival) checks for 1 minute.
 

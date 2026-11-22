@@ -3,11 +3,11 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]], [[Cleric]], [[Druid]], [[Warlock]], or [[Wizard]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Rare]] 120,070 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]], [[Cleric]], [[Druid]], [[Warlock]], or [[Wizard]])*
 
 The length of this wooden staff is carved with images of mouths whispering, speaking, and screaming. This staff can be wielded as a magic quarterstaff. While holding this staff, you can’t be [[Conditions#Deafened|deafened]], and you can act normally in areas where sound is prevented, such as in the area of a *[[2nd-Circle Spells#Silence|silence]]* spell. Any creature that is not deafened can hear your voice clearly from up to 1,000 feet away if you wish them to hear it.
 
-The staff has to charges for the following properties. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the mouths carved into the staff give a collective sigh and close, and the staff becomes a nonmagical quarterstaff.
+The staff has 10 charges for the following properties. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the mouths carved into the staff give a collective sigh and close, and the staff becomes a nonmagical quarterstaff.
 
 ***Spells.*** While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: *[[7th-Circle Spells#Divine Word|divine word]]* (7 charges), *[[Rituals 1st–3rd Circle#Magic Mouth|magic mouth]]* (2 charges), *[[1st-Circle Spells#Speak with Animals|speak with animals]]* (1 charge), *[[Rituals 1st–3rd Circle#Speak with Dead|speak with dead]]* (3 charges), *[[3rd-Circle Spells#Speak with Plants|speak with plants]]* (3 charges), or *[[6th-Circle Spells#Word of Recall|word of recall]]* (6 charges). You can also use an action to cast the *[[Cantrips#Vicious Mockery|vicious mockery]]* cantrip from the staff without using any charges.
 

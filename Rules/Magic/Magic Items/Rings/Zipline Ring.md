@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This plain gold ring features a magnificent ruby. While wearing the ring, you can use an action to cause a crimson zipline of magical force to extend from the gem in the ring and attach to up to two solid surfaces you can see. Each surface must be within 150 feet of you. Once the zipline is connected, you can use a bonus action to magically travel up to 50 feet along the line between the two surfaces. You can bring along objects as long as their weight doesn’t exceed what you can carry.
 

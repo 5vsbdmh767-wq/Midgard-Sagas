@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Rare]] 4,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This silvery rod is set with rubies on each end. One end holds rubies shaped to resemble an open, fanged maw, and the other end’s rubies are shaped to resemble a heart.
 

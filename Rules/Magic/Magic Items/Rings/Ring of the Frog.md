@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 A pale chrysoprase cut into the shape of a frog is the centerpiece of this tarnished copper ring. While wearing this ring, you have a swimming speed of 20 feet, and you can jump three times the normal distance, though you can’t jump farther than your remaining movement would allow.
 

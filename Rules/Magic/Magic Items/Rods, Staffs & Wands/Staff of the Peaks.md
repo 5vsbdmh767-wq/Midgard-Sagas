@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Druid]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Legendary]] 200,080 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Druid]])*
 
 This staff is made of rock crystal yet weighs the same as a wooden staff. The staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to spell attack rolls. In addition, you are immune to the effects of high altitude and severe cold weather, such as hypothermia and frostbite.
 

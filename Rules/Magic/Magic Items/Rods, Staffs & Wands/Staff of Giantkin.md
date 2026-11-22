@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]], or [[Wizard]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Rare]] 16,020 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]], or [[Wizard]])*
 
 This stout, oaken staff is 7 feet long, bound in iron, and topped with a carving of a broad, thick-fingered hand. While holding this magic quarterstaff, your STR score is 20. This has no effect on you if your STR is already 20 or higher. The staff has 10 charges for the following properties. It regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the hand slowly clenches into a fist, and the staff becomes a nonmagical quarterstaff.
 

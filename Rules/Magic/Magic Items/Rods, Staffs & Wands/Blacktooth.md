@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Legendary]]* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Legendary]] 100,050 gp*
 
 This black ivory, rune-carved wand has 7 charges. It regains 1d6 + 1 expended charges daily at dawn. While holding it, you can use an action to expend 1 or more of its charges to cast the *[[1st-Circle Spells#Guiding Bolt|guiding bolt]]* spell from it, using an attack bonus of +7. For 1 charge, you cast the 1st-circle version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 

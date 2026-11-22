@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Rare]] 4,400 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 An open-mouthed skull caps this thick, onyx rod. The rod has 5 charges and regains 1d4 + 1 expended charges daily at dusk.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Uncommon]] 1,100 gp*
 
 Fashioned out of oak, this wand appears heavily stained by an unknown liquid. The wand has 7 charges and regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand explodes in a puff of black smoke and is destroyed.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Druid]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Rare]] 16,030 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Druid]])*
 
 Mold and mushrooms coat this gnarled wooden staff. The staff has 10 charges for the following properties. It regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff rots into tiny clumps of slimy, organic matter and is destroyed.
 
@@ -11,7 +11,7 @@ Mold and mushrooms coat this gnarled wooden staff. The staff has 10 charges for 
 
 ***Speak with Plants.*** While holding the staff, you can use an action to expend 1 of its charges to cast the *[[3rd-Circle Spells#Speak with Plants|speak with plants]]* spell from it.
 
-***Spore Cloud.*** While holding the staff, you can use action to expend 3 charges to release a cloud of spores in a 20-foot radius from you. The spores remain for 1 minute, making the area lightly obscured for creatures other than you. The cloud moves with you, remaining centered on you. When a creature, other than you, enters the cloud of spores for the first time on a turn or starts its turn there, that creature must succeed on a DC 15 CON save or take 1d6 poison damage and become [[Conditions#Poisoned|poisoned]] until the start of its next turn. A wind of at least 10 miles per hour disperses the spores and ends the effect.
+***Spore Cloud.*** While holding the staff, you can use an action to expend 3 charges to release a cloud of spores in a 20-foot radius from you. The spores remain for 1 minute, making the area lightly obscured for creatures other than you. The cloud moves with you, remaining centered on you. When a creature, other than you, enters the cloud of spores for the first time on a turn or starts its turn there, that creature must succeed on a DC 15 CON save or take 1d6 poison damage and become [[Conditions#Poisoned|poisoned]] until the start of its next turn. A wind of at least 10 miles per hour disperses the spores and ends the effect.
 
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

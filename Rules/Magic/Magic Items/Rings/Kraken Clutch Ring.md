@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Very Rare]] 120,080 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This green copper ring is etched with the image of a kraken with splayed tentacles. The ring has 5 charges, and it regains 1d4 + 1 expended charges daily at dawn, as long as it was immersed in water for at least 1 hour since the previous dawn. If the ring has at least 1 charge, you have advantage on grapple checks.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Uncommon]] 2,010 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This black lacquered wooden rod is banded in steel, has a flanged head, and functions as a magic mace. As a bonus action, you can brandish the rod at a creature and demand it refrain from a particular activity— attacking, casting, moving, or similar. The activity can be as specific (don’t attack the person next to you) or as open (don’t cast a spell) as you want, but the activity must be a conscious act on the creature’s part, must be something you can determine is upheld or broken, and can’t immediately jeopardize the creature’s life. For example, you can forbid a creature from lying only if you are capable of determining if the creature is lying, and you can’t forbid a creature that needs to breathe from breathing.
 

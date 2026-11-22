@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Wizard]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Very Rare]] 100,050 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Wizard]])*
 
 This iron-shod wooden staff is heavily worn, and it can be wielded as a quarterstaff that grants a +1 bonus to attack and damage rolls made with it. The staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff loses all of its magic and becomes a nonmagical quarterstaff.
 

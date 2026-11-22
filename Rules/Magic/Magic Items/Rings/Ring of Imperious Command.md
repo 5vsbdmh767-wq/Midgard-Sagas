@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Rare]] 8,800 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Embossed in gold on this heavy iron ring is the image of a crown. The ring has 3 charges and regains 1d3 expended charges daily at dawn.
 

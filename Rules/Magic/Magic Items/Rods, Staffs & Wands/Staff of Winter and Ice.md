@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Sorcerer]], [[Warlock]], or [[Wizard]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Legendary]] 200,060 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Sorcerer]], [[Warlock]], or [[Wizard]])*
 
 This pure white, pine staff is topped with an ornately faceted shard of ice. The entire staff is cold to the touch. You have resistance to cold damage while you hold this staff.
 

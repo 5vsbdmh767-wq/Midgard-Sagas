@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Sorcerer]], [[Warlock]], or [[Wizard]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Very Rare]] 120,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Sorcerer]], [[Warlock]], or [[Wizard]])*
 
 The withered, clawed hand of a demon or devil tops this iron rod. While holding this rod, you gain a +2 bonus to spell attack rolls, and the save DC for your spells increases by 2.
 

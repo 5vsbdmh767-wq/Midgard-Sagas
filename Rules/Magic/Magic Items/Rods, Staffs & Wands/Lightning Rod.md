@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Very Rare]] 132,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This rod is made from the blackened wood of a lightning-struck tree and topped with a spike of twisted iron. It functions as a magic javelin that grants a +1 bonus to attack and damage rolls made with it. While holding it, you are immune to lightning damage, and each creature within 5 feet of you has resistance to lightning damage.
 

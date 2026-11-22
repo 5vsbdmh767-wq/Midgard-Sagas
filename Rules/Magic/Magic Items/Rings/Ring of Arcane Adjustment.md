@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Uncommon]] 1,100 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)*
 
 This stylized silver ring is favored by spellcasters accustomed to fighting creatures capable of shrugging off most spells. The ring has 3 charges and regains 1d3 expended charges daily at dawn.
 

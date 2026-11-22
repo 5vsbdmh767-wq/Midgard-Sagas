@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Cleric]], [[Druid]], [[Warlock]], or [[Wizard]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Very Rare]] 120,040 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Cleric]], [[Druid]], [[Warlock]], or [[Wizard]])*
 
 This unwholesome staff is crafted of a material that appears to be somewhere between weathered wood and dried meat. It weeps beads of red liquid that are thick and sticky like tree sap but smell of blood. A crystalized yellow eye with a rectangular pupil, like the eye of a goat, sits at its top. You can wield the staff as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
 

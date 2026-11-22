@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Very Rare]]* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Very Rare]] 33,000 gp*
 
 This wand appears to be carved from the bones of a large fish, which have been cemented together. The wand has 3 charges and regains 1d3 expended charges daily at dawn.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Paladin]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Legendary]] 100,030 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Paladin]])*
 
 Created by a holy order of knights to protect their most important members on missions into badlands and magical wastelands, these red gold rods are invaluable tools against the forces of evil. This rod has a rounded head, and it functions as a magic mace that grants a +2 bonus to attack and damage rolls made with it.
 

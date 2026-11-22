@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Common]] 55 gp*
 
 This crooked, twisting wand is crafted of polished ebony with a small, silver arrow affixed to its tip. The wand has 3 charges. While holding it, you can expend 1 charge as an action to make the wand remember your path for up to 1,760 feet of movement. You can increase the length of the path the wand remembers by 1,760 feet for each additional charge you expend. When you expend a charge to make the wand remember your current path, the wand forgets the oldest path of up to 1,760 feet that it remembers.
 

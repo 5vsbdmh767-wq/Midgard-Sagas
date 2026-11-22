@@ -25,7 +25,7 @@ While wielding this axe, you have proficiency in the Religion skill.
 
 **13th Level.** You gain a +2 bonus to attack and damage rolls with this axe, instead of +1. When you use the Attack action with this axe and hit an evil creature, you can make one additional attack with this axe against that creature as a bonus action.
 
-**17th Level.** You gain a+3 bonus to attack and damage rolls with this axe, instead of +2. While holding this axe aloft, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 WIS save. On a failure, a creature is [[Conditions#Frightened|frightened]] of you for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Evil creatures have disadvantage on this save. Once used, this property can't be used again until the next dawn.
+**17th Level.** You gain a +3 bonus to attack and damage rolls with this axe, instead of +2. While holding this axe aloft, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 WIS save. On a failure, a creature is [[Conditions#Frightened|frightened]] of you for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Evil creatures have disadvantage on this save. Once used, this property can't be used again until the next dawn.
 
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

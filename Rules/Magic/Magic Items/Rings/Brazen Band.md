@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Uncommon]] 2,000 gp*
 
 While you wear this polished brass ring, you have advantage on CHA (Intimidation) checks and on saves against being [[Conditions#Frightened|frightened]]. If you fail a save against being frightened, you can choose to succeed instead. If you do, the ring’s magic ceases to function until the next dawn.
 

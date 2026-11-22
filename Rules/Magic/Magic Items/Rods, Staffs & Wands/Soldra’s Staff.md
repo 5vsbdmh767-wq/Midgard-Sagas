@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Staff, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Wizard]])* %% price pending %%
+*Staff, [[Using Magic Items#Rarity|Uncommon]] 4,020 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Wizard]])*
 
 Crafted by a skilled wizard and meant to be a spellcaster’s last defense, this staff is 5 feet long, made of yew wood that curves at its top, is iron shod at its mid-section, and capped with a silver dragon’s claw that holds a lustrous, though rough and uneven, black pearl. When you make an attack with this staff, it howls and whistles hauntingly like the wind. When you cast a spell from this staff, it chirps like insects on a hot summer night.
 

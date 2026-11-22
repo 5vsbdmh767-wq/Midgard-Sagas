@@ -3,15 +3,13 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This wooden ring is set with a strip of fossilized honey. While wearing this ring, you gain the following benefits:
 
 - Your STR score increases by 2, to a maximum of 20.
 
-- You have advantage on CHA (Persuasion)
-
-checks made to interact with bearfolk.
+- You have advantage on CHA (Persuasion) checks made to interact with bearfolk.
 
 In addition, while attuned to the ring, your hair grows thick and abundant. Your facial features grow more snout-like, and your teeth elongate. If you aren’t a bearfolk, you gain the following benefits while wearing the ring:
 

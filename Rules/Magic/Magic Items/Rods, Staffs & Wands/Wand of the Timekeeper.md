@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Rare]] 4,400 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This smoothly polished wooden wand is perfectly balanced in the hand. Its grip is wrapped with supple leather strips, and its length is decorated with intricate arcane symbols. When you use it while playing a drum, you have advantage on CHA (Performance) checks. The wand has 5 charges for the following properties. It regains 1d4 + 1 charges daily at dawn.
 

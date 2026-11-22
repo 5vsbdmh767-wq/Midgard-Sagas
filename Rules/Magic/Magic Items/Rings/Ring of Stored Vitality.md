@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Uncommon]] 550 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 While you are attuned to and wearing this ring of polished, white chalcedony, you can feed some of your vitality into the ring to charge it. You can use an action to suffer 1 level of exhaustion. For each level of exhaustion you suffer, the ring regains 1 charge. The ring can store up to 3 charges. As the ring increases in charges, its color reddens, becoming a deep red when it has 3 charges. Your level of exhaustion can be reduced by normal means. If you already suffer from 3 or more levels of exhaustion, you can’t suffer another level of exhaustion to restore a charge to the ring.
 

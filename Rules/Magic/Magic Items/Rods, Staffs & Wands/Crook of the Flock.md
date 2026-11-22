@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Very Rare]] 60,020 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This plain crook is made of smooth, worn lotus wood and is warm to the touch.
 

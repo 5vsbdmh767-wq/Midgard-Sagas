@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Rare]] 16,020 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Several long sharp thorns sprout along the edge of this stout wooden rod, and it functions as a magic mace that grants a +1 bonus to attack and damage rolls made with it. The rod has 5 charges and regains 1d4 + 1 expended charges daily at dawn. While holding the rod, you can use an action to expend 1 of its charges to cast the *[[2nd-Circle Spells#Spike Growth|spike growth]]* spell (save DC 15) from it.
 

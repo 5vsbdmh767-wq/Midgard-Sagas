@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Uncommon]] 2,200 gp*
 
 This strangely-shaped item resembles a melted wand or a strange growth chipped from the arcane trees of elder planes. The wand has 5 charges and regains 1d4 + 1 charges daily at dusk. While holding it, you can use an action to expend 1 of its charges and point it at a target within 60 feet of you. The target must be a creature. When activated, the wand frunges creatures into a chaos matrix, which does…something. Roll a d10 and consult the following table to determine these unpredictable effects (none of them especially good). Most effects can be removed by *[[3rd-Circle Spells#Dispel Magic|dispel magic]]*, *[[5th-Circle Spells#Greater Restoration|greater restoration]]*, or more powerful magic.
 

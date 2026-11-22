@@ -21,7 +21,7 @@ While you wear these boots, your steps make no sound, regardless of the surface 
 
 **5th Level.** You have advantage on DEX (Stealth) checks that rely on moving silently, and you can't be targeted by any divination magic or perceived through magical scrying sensors. In addition, you can use an action to cast the *[[1st-Circle Spells#Disguise Self|disguise self]]* spell from the boots. Once used, the boots can't be used in this way again until the next dawn.
 
-**9th Level.** You have advantage on DEX (Sleight of Hand) and DEX (Stealth) checks and on DEX checks made to pick locks or disable traps. In addition, you can use an action to cast the find traps spell from the boots at will.
+**9th Level.** You have advantage on DEX (Sleight of Hand) and DEX (Stealth) checks and on DEX checks made to pick locks or disable traps. In addition, you can use an action to cast the *find traps* spell from the boots at will.
 
 **13th Level.** You can cast the *[[4th-Circle Spells#Dimension Door|dimension door]]* spell from the boots as an action. Once used, the boots can't be used in this way again until the next dawn.
 

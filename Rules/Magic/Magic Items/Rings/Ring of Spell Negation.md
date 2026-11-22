@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, Rarity Varies ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Ring, Rarity Varies 1,030 gp (blue) or 4,030 gp (red) or 30,030 gp (black) ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use your reaction to expend 1 of its charges to cast *[[3rd-Circle Spells#Counterspell|counterspell]]*, and you lose hit points related to the spell’s circle. You can’t use this feature of the ring if you don’t have blood. The types of spells you can counter and the amount of hit points you lose depend on the type of ring you are wearing.
 

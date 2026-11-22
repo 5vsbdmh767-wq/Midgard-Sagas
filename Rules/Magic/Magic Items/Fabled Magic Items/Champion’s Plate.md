@@ -21,7 +21,7 @@ While wearing this armor and mounted, your melee weapon attack rolls score a cri
 
 ***Unyielding Champion (Requires Attunement).*** As your level increases, you gain the following benefits while wearing this armor.
 
-**5th Level.** You have resistance to one type of nonmagical damage: bludgeoning, piercing, or slashing. You can change the type of damage during along rest. In addition, you can use an action to cast the *[[1st-Circle Spells#Bless|bless]]* spell from the armor on yourself. Once used, the armor can’t be used in this way again until the next dawn.
+**5th Level.** You have resistance to one type of nonmagical damage: bludgeoning, piercing, or slashing. You can change the type of damage during a long rest. In addition, you can use an action to cast the *[[1st-Circle Spells#Bless|bless]]* spell from the armor on yourself. Once used, the armor can’t be used in this way again until the next dawn.
 
 **9th Level.** You gain a +1 bonus to AC. In addition, any critical hit against you becomes a normal hit.
 

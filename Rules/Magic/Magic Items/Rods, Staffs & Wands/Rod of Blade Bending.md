@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This simple iron rod functions as a magic mace that grants a +1 bonus to attack and damage rolls made with it.
 

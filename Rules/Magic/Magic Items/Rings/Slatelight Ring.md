@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Rare]] 16,010 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This decorated thick gold band is adorned with a single polished piece of slate. While wearing this ring, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing this ring increases its range by 60 feet.
 

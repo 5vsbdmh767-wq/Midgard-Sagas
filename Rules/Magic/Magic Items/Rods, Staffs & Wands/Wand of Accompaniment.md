@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Very Rare]] 120,060 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Tiny musical notes have been etched into the sides of this otherwise plain, wooden wand. It has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand disintegrates with a small bang.
 

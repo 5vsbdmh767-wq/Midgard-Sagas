@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Common]] 28 gp*
 
 This short, metal rod is engraved with arcane runes and images of open hands. The rod has 3 charges and regains all expended charges daily at dawn.
 

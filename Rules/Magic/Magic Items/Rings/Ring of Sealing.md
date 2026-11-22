@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Ring, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Ring, [[Using Magic Items#Rarity|Very Rare]] 66,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This ring appears to be made of golden chain links. It has 3 charges and regains 1d3 expended charges daily at dawn.
 

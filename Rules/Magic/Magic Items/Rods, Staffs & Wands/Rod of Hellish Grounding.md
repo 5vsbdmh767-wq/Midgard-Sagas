@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Rare]] 16,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This curious jade rod is tipped with a knob of crimson crystal that glows and shimmers with eldritch phosphorescence. While holding or carrying the rod, you have darkvision out to a range of 30 feet, and you have advantage on DEX (Acrobatics) checks.
 

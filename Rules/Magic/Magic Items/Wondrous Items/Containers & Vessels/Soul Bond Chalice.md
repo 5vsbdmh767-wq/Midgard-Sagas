@@ -7,9 +7,7 @@ publish: true
 
 The broad, shallow bowl of this silver chalice rests in the outstretched wings of the raven figure that serves as the chalice's stem. The raven’s talons, perched on a branch, serve as the chalice’s base. A pair of interlocking gold rings adorn the sides of the bowl.
 
-As a 1-minute ritual, you and another creature that isn’t a construct or undead and that has an INT of 6 or higher can fill the chalice with wine and mix in three drops of blood from each of you. You and the other participant can then drink from the chalice, mingling your spirits and creating a
-
-magical connection between you. This connection is unaffected by distance, though it ceases to function if you aren’t on the same plane of existence. The bond lasts until one or both of you end it of your own free will (no action required), one or both of you use the chalice to bond with another creature, or one of you dies. You and your bonded partner each gain the following benefits:
+As a 1-minute ritual, you and another creature that isn’t a construct or undead and that has an INT of 6 or higher can fill the chalice with wine and mix in three drops of blood from each of you. You and the other participant can then drink from the chalice, mingling your spirits and creating a magical connection between you. This connection is unaffected by distance, though it ceases to function if you aren’t on the same plane of existence. The bond lasts until one or both of you end it of your own free will (no action required), one or both of you use the chalice to bond with another creature, or one of you dies. You and your bonded partner each gain the following benefits:
 
 - You are proficient in each save that your bonded partner is proficient in.
 

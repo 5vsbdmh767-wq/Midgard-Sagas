@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Very Rare]] 30,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This rod is topped with a red ram’s skull with two backswept horns.
 

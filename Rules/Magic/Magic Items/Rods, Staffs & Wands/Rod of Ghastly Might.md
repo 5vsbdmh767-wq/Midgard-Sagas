@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Rod, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Rod, [[Using Magic Items#Rarity|Legendary]] 100,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 The knobbed head of this tarnished silver rod resembles the top half of a jawless, syphilitic skull, and it functions as a magic mace that grants a +2 bonus to attack and damage rolls made with it. The rod has properties associated with five different buttons that are set erratically along the haft. It has three other properties as well, detailed below.
 
@@ -15,7 +15,7 @@ If you press button 2, the rod’s head becomes enveloped in a black aura of ene
 
 If you press button 3, a 2-foot blade springs from the tip of the rod’s handle as the handle lengthens into a 5-foot haft, transforming the rod into a magic glaive that grants a +2 bonus to attack and damage rolls made with it.
 
-If you press button 4, a 3-pronged, bladed grappling hook affixed to a long chain springs from the tip of the rod’s handle. The bladed grappling hook counts as a magic sickle with reach that grants a+2 bonus to attack and damage rolls made with it. When you hit a target with the bladed grappling hook, the target must succeed on an opposed STR check or fall [[Conditions#Prone|prone]].
+If you press button 4, a 3-pronged, bladed grappling hook affixed to a long chain springs from the tip of the rod’s handle. The bladed grappling hook counts as a magic sickle with reach that grants a +2 bonus to attack and damage rolls made with it. When you hit a target with the bladed grappling hook, the target must succeed on an opposed STR check or fall [[Conditions#Prone|prone]].
 
 If you press button 5, the rod assumes or remains in its normal form and you can extinguish all nonmagical flames within 30 feet of you.
 

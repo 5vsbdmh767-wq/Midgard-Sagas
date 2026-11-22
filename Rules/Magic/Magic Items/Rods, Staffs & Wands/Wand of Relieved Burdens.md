@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wand, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wand, [[Using Magic Items#Rarity|Uncommon]] 1,100 gp*
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges and touch a creature with the wand. If the creature is [[Conditions#Blinded|blinded]], [[Conditions#Charmed|charmed]], [[Conditions#Deafened|deafened]], [[Conditions#Frightened|frightened]], [[Conditions#Paralyzed|paralyzed]], [[Conditions#Poisoned|poisoned]], or [[Conditions#Stunned|stunned]], the condition is removed from the creature and transferred to you. You suffer the condition for the remainder of its duration or until it is removed.
 
