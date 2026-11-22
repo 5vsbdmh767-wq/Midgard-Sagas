@@ -3,15 +3,20 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-Some healing potions use watered-down troll blood. Some alchemists bottle it pure instead. Undiluted troll blood heals a great deal, but it can also cause strange mutations. These potions are different from the [[Trollsblood Elixir|trollsblood elixir]] and from the alchemists' [[Alchemy Recipes#Troll Blood * (Banned)|troll blood recipe]], which regrows severed limbs.
+Some healing potions use watered-down troll blood. Some alchemists bottle it pure instead. Undiluted troll blood heals a great deal, but it can also cause strange mutations. Troll blood comes in two versions: the raw potions on this page, and a refined brew made by master alchemists. Neither is the same as the [[Trollsblood Elixir|trollsblood elixir]].
 
 ***Drinking It.*** At the start of each of your turns, you regain hit points, up to a total set by the potion. If you take acid or fire damage, you don't regain hit points at the start of your next turn. While the potion is working, you die only if you start your turn with 0 hit points and don't regain any. You can also reattach a severed body part by holding it in place for 1d4 rounds. The potion can't regrow a missing part.
 
 ***Harvesting It.*** A successful DC 15 WIS (Medicine) check collects blood from a freshly killed troll. It works like a [[Potion of Troll Blood|potion of troll blood]] but lasts only 2d4 days. Stronger potions take blood that has been processed and concentrated. At the GM's discretion, an especially powerful troll might give blood that works like a stronger potion.
 
+## Alchemists' Troll Blood
+%% from the Alchemy Recipes page %%
+
+Master apothecaries can refine troll blood into a thick, metallic-tasting brew that regrows lost body parts. Drinking it takes an action. A severed finger, leg, tail or other part grows back over 2 minutes, or knits back at once if you hold the severed part to the stump. It carries none of the raw potions' risks below. The recipe is a forbidden one. Making it is a master-level recipe; see [[Alchemy Recipes#Troll Blood * (Banned)|Troll Blood]] in the alchemy recipes.
+
 ## Instant Death and Mutations
 
-A troll blood potion keeps healing you up to its total even after you reach your hit point maximum. Too much healing, especially all at once, can mutate or kill you. You can't heal past your hit point maximum, but the extra still counts for the rules below.
+These rules apply to the raw potions only. A troll blood potion keeps healing you up to its total even after you reach your hit point maximum. Too much healing, especially all at once, can mutate or kill you. You can't heal past your hit point maximum, but the extra still counts for the rules below.
 
 ***Instant Death.*** If the healing the potion still has left would be at least twice your hit point maximum, you die. For example, a cleric with a 12 hit point maximum and 6 hit points left drinks a potion that heals 30. The cleric is back to 12 with 24 healing left over. That's twice the cleric's maximum, so the cleric dies.
 
