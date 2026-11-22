@@ -44,6 +44,6 @@ Vault of Magic, added chapter by chapter from your scan. Each batch gets a secti
 - **Scroll of Conjuring creatures:** the book marks which bestiary each creature comes from (Tome of Beasts, Tome of Beasts 2, Creature Codex). I left those marks out and kept a hidden note.
 - **Guess:** one row on the major mutation table read "harmed" in the scan. I took it as "charmed".
 
-## Needs your call
-- **Madness:** spirit honey gives a "long-term madness", and Brain Juice and Tonic for the Troubled Mind mention short-term and long-term madness. Those are 5th Edition rules that Tales of the Valiant doesn't have, and the wiki has no madness rules. Options: pick a Horror or Dread effect to stand in for madness, write a small madness table as a house rule, or leave it to your call at the table.
-- **Troll Blood vs. the alchemy ingredient:** the alchemy recipes use "Troll Blood" as an ingredient. I stopped autolink from linking those mentions to the new Troll Blood page. Say if they should link to it.
+## Settled
+- Madness (spirit honey, Brain Juice, Tonic for the Troubled Mind): you'll rule it at the table. No madness rules added.
+- Troll blood: the Apothecary recipe list and the alchemy ingredient now link to the Troll Blood page. The Troll Blood page points back to the alchemy recipe. Merging the two rulesets is still open.

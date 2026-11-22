@@ -293,7 +293,7 @@ publish: true
 
 ### ✦ Master — Apothecary
 
-**Recipe List:** Potion of Absorption ✦ · Potion of Healing (Supreme) · Potion of Luck ✦ (Restricted) · Troll Blood ✦
+**Recipe List:** Potion of Absorption ✦ · Potion of Healing (Supreme) · Potion of Luck ✦ (Restricted) · [[Troll Blood]] ✦
 
 > [!abstract] **Potion of Healing, Supreme**
 > *Alchemy [Apothecary] — Master* · **180 hours** · **20,000 gp**

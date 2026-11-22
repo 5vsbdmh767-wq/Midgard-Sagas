@@ -930,7 +930,7 @@ DC 15 CON save. Fail: **poisoned for 4d6 hours + incapacitated**.
 
 ### Troll Blood * (Banned)
 **Alchemy [Apothecary] — Master** | Time: 500 hrs | Value: 17,500 gp | DC: 25 WIS | Tools: Herbalism kit
-**Ingredients:** Healing Draught *(fluid)*, Monster Essence — Troll Blood *(unique)*
+**Ingredients:** Healing Draught *(fluid)*, Monster Essence — [[Troll Blood]] *(unique)*
 **Properties:** Fluid
 Thick, metallic-tasting liquid. Drink as action: **regrow severed body members** (fingers, legs, tails, etc.) in 2 minutes. If severed part held to stump, **instantaneously knits**.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-Some healing potions use watered-down troll blood. Some alchemists bottle it pure instead. Undiluted troll blood heals a great deal, but it can also cause strange mutations. These potions are different from the [[Trollsblood Elixir|trollsblood elixir]].
+Some healing potions use watered-down troll blood. Some alchemists bottle it pure instead. Undiluted troll blood heals a great deal, but it can also cause strange mutations. These potions are different from the [[Trollsblood Elixir|trollsblood elixir]] and from the alchemists' [[Alchemy Recipes#Troll Blood * (Banned)|troll blood recipe]], which regrows severed limbs.
 
 ***Drinking It.*** At the start of each of your turns, you regain hit points, up to a total set by the potion. If you take acid or fire damage, you don't regain hit points at the start of your next turn. While the potion is working, you die only if you start your turn with 0 hit points and don't regain any. You can also reattach a severed body part by holding it in place for 1d4 rounds. The potion can't regrow a missing part.
 
