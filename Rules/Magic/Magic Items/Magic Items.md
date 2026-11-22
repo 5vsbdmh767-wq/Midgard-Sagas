@@ -19,6 +19,10 @@ publish: true
 - [[Fabled Magic Items]]
 - [[Arcanepunk Items]]
 - [[Weapons of Legacy]]
+- [[Bezoars]]
+- [[Fantastical Foods]]
+- [[Spirit Honey]]
+- [[Troll Blood]]
 
 ## More Ways to Use Magic Items
 - [[Recommended Magic Items by Class]]

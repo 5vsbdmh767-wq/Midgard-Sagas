@@ -13,16 +13,26 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Anklets of Alacrity]] | Wondrous Item | Common | — | 50 gp | [[Boots & Footwear]] |
 | [[Arming Tattoo]] | Wondrous Item | Common | Yes | 60 gp | [[Magic Tattoos]] |
 | [[Beast Buckle]] | Wondrous Item | Common | Yes | 100 gp | [[Belts, Gloves & Bracers]] |
+| [[Bezoar of the Cockatrice]] | Wondrous Item | Common | — | pending | [[Bezoars]] |
 | [[Blackguard’s Blade]] | Weapon (Dagger or Shortsword) | Common | — | pending | [[Magic Weapons]] |
+| [[Bloodlink Potion]] | Potion | Common | — | pending | [[Potions]] |
 | [[Boots of Galloping]] | Wondrous Item | Common | — | 25 gp | [[Boots & Footwear]] |
 | [[Bow of Accuracy]] | Weapon (Any Bow) | Common | — | pending | [[Magic Weapons]] |
 | [[Bracers of Baleful Reprisal]] | Wondrous Item | Common | Yes | 50 gp | [[Belts, Gloves & Bracers]] |
 | [[Bridle of Handling]] | Wondrous Item | Common | — | 50 gp | [[Mounts, Vehicles & Travel]] |
+| [[Broth of Bolstering]] | Potion | Common | — | pending | [[Fantastical Foods]] |
 | [[Caterwauling Box]] | Wondrous Item | Common | — | 55 gp | [[Containers & Vessels]] |
 | [[Charm of Restoration]] | Wondrous Item | Common | — | 100 gp | [[Amulets, Charms & Jewelry]] |
+| [[Cleaning Concoction]] | Potion | Common | — | pending | [[Potions]] |
 | [[Cloak of Wide-Ranging]] | Wondrous Item | Common | — | 75 gp | [[Cloaks, Robes & Clothing]] |
+| [[Companion’s Broth]] | Potion | Common | — | pending | [[Fantastical Foods]] |
+| [[Cordial of Understanding]] | Potion | Common | — | pending | [[Potions]] |
 | [[Crusader’s Shield]] | Armor (Shield) | Common | by a [[Cleric]], [[Druid]], or [[Paladin]] | pending | [[Magic Armor]] |
 | [[Dancing Lockpicks]] | Wondrous Item | Common | — | 50 gp | [[Tools, Keys & Curiosities]] |
+| [[Draught of the Black Owl]] | Potion | Common | — | pending | [[Potions]] |
+| [[Elixir of Focus]] | Potion | Common | — | pending | [[Potions]] |
+| [[Elixir of Mimicry]] | Potion | Common | — | pending | [[Potions]] |
+| [[Elixir of Oracular Delirium]] | Potion | Common | — | pending | [[Potions]] |
 | [[Featherlight Armor]] | Armor (Light, Medium, or Heavy) | Common | — | 25 gp | [[Magic Armor]] |
 | [[Flash Bullet]] | Weapon (Sling Bullet) | Common | — | pending | [[Magic Weapons]] |
 | [[Glazed Blade]] | Weapon (Any Sword or Axe) | Common | — | pending | [[Magic Weapons]] |
@@ -34,7 +44,9 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Howling Arrow]] | Weapon (any ammunition) | Common | — | 10 gp | [[Magic Weapons]] |
 | [[Iced Steel Weapon]] | Weapon (Any ammunition or melee weapon) | Common | — | 10 gp | [[Magic Weapons]] |
 | [[Knockabout Billet]] | Weapon (Club) | Common | — | pending | [[Magic Weapons]] |
+| [[Liquid Courage]] | Potion | Common | — | pending | [[Potions]] |
 | [[Lockbreaker]] | Weapon (Dagger) | Common | — | pending | [[Magic Weapons]] |
+| [[Locksmith’s Oil]] | Potion | Common | — | pending | [[Potions]] |
 | [[Lucky Roller Dice]] | Wondrous Item | Common | — | 100 gp | [[Tools, Keys & Curiosities]] |
 | [[Mailbreaker]] | Weapon (Any Melee Weapon That Deals Bludgeoning Damage) | Common | — | 100 gp + weapon base cost | [[Magic Weapons]] |
 | [[Merchant’s Champion]] | Wondrous Item | Common | — | 200 gp | [[Tools, Keys & Curiosities]] |
@@ -42,21 +54,32 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Mug of Friendship]] | Wondrous Item | Common | — | 90 gp | [[Containers & Vessels]] |
 | [[North Star Ring]] | Wondrous Item | Common | — | 25 gp | [[Amulets, Charms & Jewelry]] |
 | [[Northlander’s Boots]] | Wondrous Item | Common | Yes | 40 gp | [[Boots & Footwear]] |
+| [[Oil of Concussion]] | Potion | Common | — | pending | [[Potions]] |
+| [[Oil of Numbing]] | Potion | Common | — | pending | [[Potions]] |
+| [[Oil of Sharpening]] | Potion | Common | — | pending | [[Potions]] |
 | [[Ottaveggr Talharpa]] | Wondrous Item | Common | — | 60 gp | [[Instruments]] |
 | [[Pendulous Periapt]] | Wondrous Item | Common | — | 50 gp | [[Amulets, Charms & Jewelry]] |
 | [[Periapt of the Small and Mighty]] | Wondrous Item | Common | — | 50 gp | [[Amulets, Charms & Jewelry]] |
 | [[Pocket Tattoo]] | Wondrous Item | Common | Yes | 100 gp | [[Magic Tattoos]] |
+| [[Potion of Bad Taste]] | Potion | Common | — | pending | [[Potions]] |
+| [[Potion of Buoyancy]] | Potion | Common | — | pending | [[Potions]] |
 | [[Potion of Due Notice]] | Potion | Common | — | 50 gp | [[Potions]] |
+| [[Potion of Effulgence]] | Potion | Common | — | pending | [[Potions]] |
+| [[Potion of Skating]] | Potion | Common | — | pending | [[Potions]] |
+| [[Potion of Transparency]] | Potion | Common | — | pending | [[Potions]] |
 | [[Quick Quaff Bandolier]] | Wondrous Item | Common | — | 100 gp | [[Belts, Gloves & Bracers]] |
 | [[Quickbuckle Armor]] | Armor (Any) | Common | — | 250 gp + base armor cost | [[Magic Armor]] |
 | [[Quillback Armor]] | Armor (Leather or Hide) | Common | — | 100 gp + armor base cost | [[Magic Armor]] |
 | [[Quilted Bridge]] | Wondrous Item | Common | — | 50 gp | [[Mounts, Vehicles & Travel]] |
+| [[Rainbow Extract]] | Potion | Common | — | pending | [[Potions]] |
 | [[Reciprocating Polearm]] | Weapon (Spear, Glaive, or Halberd) | Common | — | 100 gp | [[Magic Weapons]] |
 | [[Returning Charm]] | Wondrous Item | Common | — | 100 gp | [[Amulets, Charms & Jewelry]] |
 | [[Ring of Hospitality]] | Ring | Common | — | 25 gp | [[Rings]] |
 | [[Rumbling Hammer]] | Weapon (maul or warhammer) | Common | Yes | 50 gp | [[Magic Weapons]] |
 | [[Safe-and-Sound Alarm]] | Wondrous Item | Common | — | 100 gp | [[Containers & Vessels]] |
+| [[Saffron-Dusted Carrot]] | Potion | Common | — | pending | [[Fantastical Foods]] |
 | [[Salt of Thawing]] | Wondrous Item | Common | — | 25 gp | [[Dusts, Oils & Consumables]] |
+| [[Scrolls of Correspondence]] | Scroll | Common | — | pending | [[Scrolls]] |
 | [[Shield of Clamor]] | Armor (Shield) | Common | — | 25 gp + base shield cost | [[Magic Armor]] |
 | [[Shield of the Fallen]] | Armor (Shield) | Common | — | pending | [[Magic Armor]] |
 | [[Siege Arrow]] | Weapon (Arrow) | Common | — | pending | [[Magic Weapons]] |
@@ -67,6 +90,8 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Surefire Stock Pot]] | Wondrous Item | Common | — | 25 gp | [[Containers & Vessels]] |
 | [[Survival Knife]] | Weapon (Dagger) | Common | — | pending | [[Magic Weapons]] |
 | [[Sustaining Belt]] | Wondrous Item | Common | — | 25 gp | [[Belts, Gloves & Bracers]] |
+| [[Tonic for the Troubled Mind]] | Potion | Common | — | pending | [[Potions]] |
+| [[Tonic of Blandness]] | Potion | Common | — | pending | [[Potions]] |
 | [[Tracking Dart]] | Weapon (Dart) | Common | — | pending | [[Magic Weapons]] |
 | [[Warrior Honey]] | Potion [Honey] | Common | — | 50 gp | [[Potions]] |
 | [[Worry Toy]] | Wondrous Item | Common | — | 50 gp | [[Tools, Keys & Curiosities]] |
@@ -87,6 +112,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Arrow of Accuracy]] | Weapon (Arrow) | Uncommon | — | 100 gp + ammunition base cost | [[Magic Weapons]] |
 | [[Arrow of Indication]] | Weapon | Uncommon | — | 300 gp | [[Magic Weapons]] |
 | [[Arrow of Unpleasant Herbs]] | Weapon (Arrow) | Uncommon | — | pending | [[Magic Weapons]] |
+| [[Ash of the Ebon Birch]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Axe of the Ancients]] | Weapon (Handaxe) | Uncommon | Yes | pending | [[Magic Weapons]] |
 | [[Badger Hide]] | Armor (Hide) | Uncommon | — | pending | [[Magic Armor]] |
 | [[Bag of Bramble Beasts]] | Wondrous Item | Uncommon | — | 4,000 gp | [[Containers & Vessels]] |
@@ -94,7 +120,11 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Bag of Tricks]] | Wondrous Item | Uncommon | — | 4,000 gp | [[Containers & Vessels]] |
 | [[Bagpipes of Battle]] | Wondrous Item | Uncommon | Yes | 600 gp | [[Instruments]] |
 | [[Bell-Ringing Greatclub]] | Weapon (greatclub) | Uncommon | — | 1,000 gp | [[Magic Weapons]] |
+| [[Bezoar of the Bespectacled Owlbear]] | Wondrous Item | Uncommon | — | pending | [[Bezoars]] |
+| [[Bezoar of the Chimera]] | Wondrous Item | Uncommon | — | pending | [[Bezoars]] |
 | [[Blade of the Temple Guardian]] | Weapon (Shortsword) | Uncommon | by a [[Monk]] | pending | [[Magic Weapons]] |
+| [[Blasphemous Writ]] | Scroll | Uncommon | — | pending | [[Scrolls]] |
+| [[Blue Rose Tea]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
 | [[Blue Willow Cloak]] | Wondrous Item | Uncommon | — | 4,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Boots of Elvenkind]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Boots & Footwear]] |
 | [[Boots of Striding and Springing]] | Wondrous Item | Uncommon | Yes | 1,000 gp | [[Boots & Footwear]] |
@@ -107,6 +137,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Broom of Flying]] | Wondrous Item | Uncommon | — | 16,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Bullseye Arrow]] | Weapon (Arrow) | Uncommon | — | pending | [[Magic Weapons]] |
 | [[Bygul’s Paw Boots]] | Wondrous Item | Uncommon | — | 2,500 gp | [[Boots & Footwear]] |
+| [[Candied Spider]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
 | [[Chalk of Warding]] | Wondrous Item | Uncommon | — | 330 gp | [[Dusts, Oils & Consumables]] |
 | [[Circlet of Blasting]] | Wondrous Item | Uncommon | — | 3,000 gp | [[Headwear & Eyewear]] |
 | [[Circlet of Holly]] | Wondrous Item | Uncommon | Yes | 500 gp | [[Headwear & Eyewear]] |
@@ -117,6 +148,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Coin of Wandering Luck]] | Wondrous Item | Uncommon | Yes | 1,000 gp | [[Amulets, Charms & Jewelry]] |
 | [[Commander's Plate]] | Armor (Plate) | Uncommon | — | pending | [[Magic Armor]] |
 | [[Countercharm Charm]] | Wondrous Item | Uncommon | — | 1,100 gp | [[Amulets, Charms & Jewelry]] |
+| [[Courtesan’s Allure]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Cowl of the Wild]] | Wondrous Item | Uncommon | by a [[Druid]] | 500 gp | [[Headwear & Eyewear]] |
 | [[Crimson Starfall Arrow]] | Weapon (Arrow) | Uncommon | — | pending | [[Magic Weapons]] |
 | [[Dagger of Darkness]] | Weapon (Dagger) | Uncommon | — | 1,000 gp | [[Magic Weapons]] |
@@ -125,15 +157,20 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Dawn Shard]] | Weapon (Any Sword or Dagger) | Uncommon | Yes | pending | [[Magic Weapons]] |
 | [[Decanter of Endless Water]] | Wondrous Item | Uncommon | — | 4,000 gp | [[Containers & Vessels]] |
 | [[Defender Honey]] | Potion | Uncommon | — | 800 gp | [[Potions]] |
+| [[Dire Bacon]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
 | [[Dirk of Daring]] | Weapon (Dagger) | Uncommon | Yes | pending | [[Magic Weapons]] |
+| [[Dragonfire Pepper]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
 | [[Drum of Interruption]] | Wondrous Item | Uncommon | Yes | 2,500 gp | [[Instruments]] |
 | [[Dust of Disappearance]] | Wondrous Item | Uncommon | — | 100 gp | [[Dusts, Oils & Consumables]] |
 | [[Dust of Dryness]] | Wondrous Item | Uncommon | — | 250 gp | [[Dusts, Oils & Consumables]] |
 | [[Dust of Sneezing and Choking]] | Wondrous Item | Uncommon | — | 100 gp | [[Dusts, Oils & Consumables]] |
+| [[Efficacious Eyewash]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Efficient Quiver]] | Wondrous Item | Uncommon | — | 2,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Einherjar’s Drinking Horn]] | Wondrous Item | Uncommon | — | 3,400 gp | [[Containers & Vessels]] |
 | [[Elemental Gem]] | Wondrous Item | Uncommon | — | 650 gp | [[Gems, Stones & Orbs]] |
+| [[Elixir of Deep Slumber]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Elixir of Fury]] | Potion | Uncommon | — | 500 gp | [[Potions]] |
+| [[Elixir of Wakefulness]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Enraging Ammunition]] | Weapon (Any Ammunition) | Uncommon | — | pending | [[Magic Weapons]] |
 | [[Ensnaring Ammunition]] | Weapon (Any Ammunition) | Uncommon | — | pending | [[Magic Weapons]] |
 | [[Eyes of Charming]] | Wondrous Item | Uncommon | — | 1,500 gp | [[Headwear & Eyewear]] |
@@ -149,34 +186,44 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Glasses of Explication]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Headwear & Eyewear]] |
 | [[Gloves of Missile Snaring]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Gloves of Swimming and Climbing]] | Wondrous Item | Uncommon | Yes | 1,000 gp | [[Belts, Gloves & Bracers]] |
+| [[Gnomesalt Taffy]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
 | [[Goggles of Night]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Headwear & Eyewear]] |
 | [[Goggles of Snowsight]] | Wondrous Item | Uncommon | — | 4,200 gp | [[Headwear & Eyewear]] |
 | [[Goggles of Tracking]] | Wondrous Item | Uncommon | — | 2,800 gp | [[Headwear & Eyewear]] |
 | [[Golden Bolt]] | Weapon (Heavy Crossbow) | Uncommon | Yes | pending | [[Magic Weapons]] |
+| [[Golden Dawn]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
 | [[Grasping Shield]] | Armor (Shield) | Uncommon | Yes | pending | [[Magic Armor]] |
+| [[Grave Reagent]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Grim Escutcheon]] | Armor (Shield) | Uncommon | Yes | pending | [[Magic Armor]] |
 | [[Hammer of Throwing]] | Weapon (Light Hammer) | Uncommon | Yes | pending | [[Magic Weapons]] |
+| [[Hardening Polish]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Hat of Disguise]] | Wondrous Item | Uncommon | Yes | 1,500 gp | [[Headwear & Eyewear]] |
 | [[Hawking Sign]] | Wondrous Item | Uncommon | — | 200 gp | [[Banners]] |
 | [[Headband of Intellect]] | Wondrous Item | Uncommon | Yes | 1,500 gp | [[Headwear & Eyewear]] |
 | [[Helm of Comprehending Languages]] | Wondrous Item | Uncommon | — | 2,500 gp | [[Headwear & Eyewear]] |
 | [[Helm of Readiness]] | Armor | Uncommon | Yes | 2,000 gp | [[Magic Armor]] |
 | [[Helm of Telepathy]] | Wondrous Item | Uncommon | Yes | 3,000 gp | [[Headwear & Eyewear]] |
+| [[Hewer’s Draught]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Hidden Armament]] | Weapon (Any Melee Weapon that Isn’t Two-handed) | Uncommon | Yes | pending | [[Magic Weapons]] |
 | [[Hidden Scabbard]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Hjartarydi’s Belt]] | Wondrous Item | Uncommon | — | 4,400 gp | [[Belts, Gloves & Bracers]] |
+| [[Honey of Dead Fields]] | Potion | Uncommon | — | pending | [[Spirit Honey]] |
 | [[Honey of the Hearth Fire]] | Potion [Honey] | Uncommon | — | 200 gp | [[Potions]] |
+| [[Honey of the Hungry Flower]] | Potion | Uncommon | — | pending | [[Spirit Honey]] |
+| [[Honeyed Halfheart]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
 | [[Humble Cudgel of Temperance]] | Weapon (Club) | Uncommon | — | pending | [[Magic Weapons]] |
 | [[Iced Steel Armor]] | Armor (Any medium or heavy armor made primarily of metal) | Uncommon | — | 1,000 gp + armor base cost | [[Magic Armor]] |
 | [[Immovable Rod]] | Rod | Uncommon | — | 1,000 gp | [[Rods, Staffs & Wands]] |
 | [[Impact Club]] | Weapon (Club) | Uncommon | Yes | pending | [[Magic Weapons]] |
 | [[Infernal Bit]] | Wondrous Item | Uncommon | — | 2,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Iron Tattoo]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Magic Tattoos]] |
+| [[Ironskin Oil]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Javelin of Lightning]] | Weapon (Javelin) | Uncommon | — | 2,000 gp | [[Magic Weapons]] |
 | [[Key of Keys]] | Wondrous Item | Uncommon | — | 520 gp | [[Tools, Keys & Curiosities]] |
 | [[Key of Secure Lodging]] | Wondrous Item | Uncommon | — | 630 gp | [[Tools, Keys & Curiosities]] |
 | [[Laekning Shield]] | Round shield | Uncommon | — | 1,000 + shield base cost | [[Magic Armor]] |
 | [[Lantern of Revealing]] | Wondrous Item | Uncommon | — | 2,000 gp | [[Tools, Keys & Curiosities]] |
+| [[Liquid Shadow]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Mail of the Sword Master]] | Armor (Half Plate) | Uncommon | Yes | pending | [[Magic Armor]] |
 | [[Manticore’s Tail]] | Weapon (Morningstar) | Uncommon | Yes | pending | [[Magic Weapons]] |
 | [[Margreve Fur]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Cloaks, Robes & Clothing]] |
@@ -188,23 +235,33 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Monkey Charm]] | Wondrous Item | Uncommon | Yes | 550 gp | [[Amulets, Charms & Jewelry]] |
 | [[Mountaineer’s Crossbow]] | Weapon (Any Crossbow) | Uncommon | — | pending | [[Magic Weapons]] |
 | [[Necklace of Adaptation]] | Wondrous Item | Uncommon | Yes | 1,000 gp | [[Amulets, Charms & Jewelry]] |
+| [[Odorless Oil]] | Potion | Uncommon | — | pending | [[Potions]] |
+| [[Oil of Defoliation]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Oil of Slipperiness]] | Potion | Uncommon | — | 350 gp | [[Potions]] |
 | [[Pearl of Power]] | Wondrous Item | Uncommon | by a Spellcaster | 500 gp | [[Gems, Stones & Orbs]] |
 | [[Periapt of Health]] | Wondrous Item | Uncommon | — | 500 gp | [[Amulets, Charms & Jewelry]] |
 | [[Periapt of Wound Closure]] | Wondrous Item | Uncommon | Yes | 500 gp | [[Amulets, Charms & Jewelry]] |
 | [[Pestilent Spear]] | Weapon (Spear) | Uncommon | — | pending | [[Magic Weapons]] |
 | [[Phidjetz Spinner]] | Weapon (Dart) | Uncommon | by a [[Monk]] | pending | [[Magic Weapons]] |
+| [[Philter of Luck]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Pick of Ice Breaking]] | Weapon (War Pick) | Uncommon | — | pending | [[Magic Weapons]] |
 | [[Pillow of Somnolence]] | Wondrous Item | Uncommon | — | 1,100 gp | [[Tools, Keys & Curiosities]] |
 | [[Pipes of Haunting]] | Wondrous Item | Uncommon | — | 2,200 gp | [[Instruments]] |
 | [[Poisoner’s Sickle]] | Weapon (Sickle) | Uncommon | — | 2,000 gp | [[Magic Weapons]] |
 | [[Portable Palisade]] | Wondrous Item | Uncommon | — | 2,000 gp | [[Mounts, Vehicles & Travel]] |
+| [[Potion of Air Breathing]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Potion of Animal Friendship]] | Potion | Uncommon | — | 50 gp | [[Potions]] |
+| [[Potion of Bouncing]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Potion of Climbing]] | Potion | Uncommon | — | 100 gp | [[Potions]] |
+| [[Potion of Dire Cleansing]] | Potion | Uncommon | — | pending | [[Potions]] |
+| [[Potion of Ebbing Strength]] | Potion | Uncommon | — | pending | [[Potions]] |
+| [[Potion of Freezing Fog]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Potion of Growth]] | Potion | Uncommon | — | 200 gp | [[Potions]] |
 | [[Potion of Hardiness]] | Potion | Uncommon | — | 650 gp | [[Potions]] |
 | [[Potion of Knowledge]] | Potion | Uncommon | — | 100 gp | [[Potions]] |
+| [[Potion of Malleability]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Potion of Resistance]] | Potion | Uncommon | — | 100 gp | [[Potions]] |
+| [[Potion of Troll Blood]] | Potion | Uncommon | — | pending | [[Troll Blood]] |
 | [[Potion of Water Breathing]] | Potion | Uncommon | — | 200 gp | [[Potions]] |
 | [[Primordial Scale]] | Armor (Scale Mail) | Uncommon | Yes | pending | [[Magic Armor]] |
 | [[Prismatic Ammunition]] | Weapon (Any ammunition) | Uncommon | — | 50 gp | [[Magic Weapons]] |
@@ -224,16 +281,20 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Ring of the Diving Bird]] | Ring | Uncommon | — | 1,000 gp | [[Rings]] |
 | [[Ring of Warmth]] | Ring | Uncommon | Yes | 2,000 gp | [[Rings]] |
 | [[Ring of Water Walking]] | Ring | Uncommon | — | 3,000 gp | [[Rings]] |
+| [[Roast Bean Juice]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
 | [[Robe of Useful Items]] | Wondrous Item | Uncommon | — | 5,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Rope of Climbing]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Rover’s Boots]] | Wondrous Item | Uncommon | — | — | [[Boots & Footwear]] |
 | [[Rowdy’s Club]] | Weapon (Club) | Uncommon | — | pending | [[Magic Weapons]] |
+| [[Royal Jelly]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Saddle of Flying]] | Wondrous Item | Uncommon | Yes | 8,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Sail of Favorable Winds]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Sail of Smooth Travels]] | Wondrous Item | Uncommon | — | 4,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Sand Arrow]] | Weapon (Arrow) | Uncommon | — | 100 gp | [[Magic Weapons]] |
 | [[Sanguine Lance]] | Weapon (Lance) | Uncommon | Yes | pending | [[Magic Weapons]] |
 | [[Scrimshaw Comb]] | Wondrous Item | Uncommon | Yes | 3,000 gp | [[Amulets, Charms & Jewelry]] |
+| [[Scroll of Fabrication]] | Scroll | Uncommon | — | pending | [[Scrolls]] |
+| [[Scroll of Treasure Finding]] | Scroll | Uncommon | — | pending | [[Scrolls]] |
 | [[Sealskin Armor]] | Armor (Any light) | Uncommon | Yes | 2,000 gp | [[Magic Armor]] |
 | [[Searing Safe]] | Wondrous Item | Uncommon | — | 500 gp | [[Containers & Vessels]] |
 | [[Serpent Fin Oars]] | Wondrous Item | Uncommon | — | 500 gp | [[Mounts, Vehicles & Travel]] |
@@ -268,10 +329,12 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Trident of Fish Command]] | Weapon (Trident) | Uncommon | Yes | 2,040 gp | [[Magic Weapons]] |
 | [[Tyrant’s Whip]] | Weapon (Whip) | Uncommon | — | pending | [[Magic Weapons]] |
 | [[Vehicular Charm Bracelet]] | Wondrous Item | Uncommon | — | 2,200 gp | [[Mounts, Vehicles & Travel]] |
+| [[Verdant Elixir]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Vertiginous Helm]] | Wondrous Item | Uncommon | — | 2,200 gp | [[Headwear & Eyewear]] |
 | [[Vestments of the Bleak Shinobi]] | Armor (Padded) | Uncommon | Yes | pending | [[Magic Armor]] |
 | [[Vial of Cloudstuff]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Containers & Vessels]] |
 | [[Void Detector]] | Wondrous Item | Uncommon | — | 50 gp | [[Tools, Keys & Curiosities]] |
+| [[Wafer of Warmth]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
 | [[Wand of Magic Detection]] | Wand | Uncommon | — | 1,000 gp | [[Rods, Staffs & Wands]] |
 | [[Wand of Magic Missiles]] | Wand | Uncommon | — | 2,500 gp | [[Rods, Staffs & Wands]] |
 | [[Wand of Secrets]] | Wand | Uncommon | — | 550 gp | [[Rods, Staffs & Wands]] |
@@ -282,12 +345,17 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Whip of Fangs]] | Weapon (Whip) | Uncommon | Yes | pending | [[Magic Weapons]] |
 | [[Wind Fan]] | Wondrous Item | Uncommon | — | 3,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Winged Boots]] | Wondrous Item | Uncommon | Yes | 8,000 gp | [[Boots & Footwear]] |
+| [[Winter Coat]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
+| [[Wisp of the Void]] | Potion | Uncommon | — | pending | [[Potions]] |
+| [[Witch’s Brew]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Worg Salve]] | Wondrous Item | Uncommon | — | 400 gp | [[Dusts, Oils & Consumables]] |
+| [[Wrathful Vapors]] | Potion | Uncommon | — | pending | [[Potions]] |
 
 ## Rare
 
 | Item | Type | Rarity | Attunement | Price | Category |
 |---|---|---|---|---|---|
+| [[Aberrant Agreement]] | Scroll | Rare | — | pending | [[Scrolls]] |
 | [[Akaasit Blade]] | Weapon (Dagger) | Rare | — | pending | [[Magic Weapons]] |
 | [[Amulet of Amity]] | Wondrous Item | Rare | Yes | 2,020 gp | [[Amulets, Charms & Jewelry]] |
 | [[Amulet of Health]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Amulets, Charms & Jewelry]] |
@@ -312,7 +380,14 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Belt of the Berserker]] | Wondrous Item | Rare | by a barbarian with the Reckless Attack class feature | 6,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Berserker Axe]] | Weapon (Any Axe) | Rare | Yes | 5,000 gp | [[Magic Weapons]] |
 | [[Berserker’s Mead]] | Potion | Rare | — | 650 gp | [[Potions]] |
+| [[Bezoar of the Behir]] | Wondrous Item | Rare | — | pending | [[Bezoars]] |
+| [[Bezoar of the Great Horned Owlbear]] | Wondrous Item | Rare | — | pending | [[Bezoars]] |
+| [[Bezoar of the Hippogriff]] | Wondrous Item | Rare | — | pending | [[Bezoars]] |
+| [[Bezoar of the Hoary Owlbear]] | Wondrous Item | Rare | — | pending | [[Bezoars]] |
+| [[Bezoar of the Manticore]] | Wondrous Item | Rare | — | pending | [[Bezoars]] |
+| [[Bezoar of the Screech Owlbear]] | Wondrous Item | Rare | — | pending | [[Bezoars]] |
 | [[Black and White Daggers]] | Weapon (Dagger) | Rare | Yes | pending | [[Magic Weapons]] |
+| [[Black Dragon Oil]] | Potion | Rare | — | pending | [[Potions]] |
 | [[Blade of Insults]] | Weapon (Any simple weapon that deals piercing or slashing damage) | Rare | by a bard | 1,500 gp + weapon base cost | [[Magic Weapons]] |
 | [[Blade of Petals]] | Weapon (Shortsword) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Blade of the Dervish]] | Weapon (Scimitar) | Rare | Yes | pending | [[Magic Weapons]] |
@@ -336,7 +411,9 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Brick of Walling]] | Wondrous Item | Rare | Yes | 8,050 gp | [[Tools, Keys & Curiosities]] |
 | [[Buzzing Blade]] | Weapon (Any Sword or Axe) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Cape of the Mountebank]] | Wondrous Item | Rare | — | 8,400 gp | [[Cloaks, Robes & Clothing]] |
+| [[Catalyst Oil]] | Potion | Rare | — | pending | [[Potions]] |
 | [[Catskin Cloak]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Cloaks, Robes & Clothing]] |
+| [[Celestial Charter]] | Scroll | Rare | — | pending | [[Scrolls]] |
 | [[Censer of Controlling Air Elementals]] | Wondrous Item | Rare | — | 14,500 gp | [[Containers & Vessels]] |
 | [[Cephalopod Breastplate]] | Armor (Breastplate) | Rare | — | pending | [[Magic Armor]] |
 | [[Chain of Hexed Souls]] | Weapon (Flail) | Rare | — | — | [[Magic Weapons]] |
@@ -360,12 +437,20 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Doombringer’s Blade]] | Weapon (Any Axe, Halberd, Sword, or Dagger) | Rare | Yes | 16,000 gp | [[Magic Weapons]] |
 | [[Doubletake Armor]] | Armor | Rare | Yes | 5,000 gp | [[Magic Armor]] |
 | [[Dragon Slayer]] | Weapon (Any Sword) | Rare | — | 8,000 gp | [[Magic Weapons]] |
+| [[Dragonbone Broth]] | Potion | Rare | — | pending | [[Fantastical Foods]] |
 | [[Draught of Clear Thought]] | Potion | Rare | — | 50 gp | [[Potions]] |
 | [[Draught of False Death]] | Potion | Rare | — | 50 gp | [[Potions]] |
+| [[Electric Eel Sushi]] | Potion | Rare | — | pending | [[Fantastical Foods]] |
+| [[Elixir of Corruption]] | Potion | Rare | — | pending | [[Potions]] |
+| [[Elixir of Spike Skin]] | Potion | Rare | — | pending | [[Potions]] |
+| [[Elixir of the Clear Mind]] | Potion | Rare | — | pending | [[Potions]] |
+| [[Elixir of the Deep]] | Potion | Rare | — | pending | [[Potions]] |
 | [[Entrenching Mattock]] | Weapon (War Pick) | Rare | — | pending | [[Magic Weapons]] |
 | [[Exsanguinating Blade]] | Weapon (Dagger) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Far Traveler’s Potion]] | Potion | Rare | — | 350 gp | [[Potions]] |
 | [[Feather Token]] | Wondrous Item | Rare | — | 350 gp | [[Gems, Stones & Orbs]] |
+| [[Feysworn Contract]] | Scroll | Rare | — | pending | [[Scrolls]] |
+| [[Fiendish Charter]] | Scroll | Rare | — | pending | [[Scrolls]] |
 | [[Figurine of Wondrous Power, Malachite Selang]] | Wondrous Item | Rare | — | 8,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Flame Tongue]] | Weapon (Any Sword) | Rare | Yes | 5,000 gp + base weapon cost | [[Magic Weapons]] |
 | [[Flicker Glaive]] | Weapon (Glaive) | Rare | Yes | 5,000 gp + base weapon cost | [[Magic Weapons]] |
@@ -385,6 +470,9 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Helm of Teleportation]] | Wondrous Item | Rare | Yes | 40,000 gp | [[Headwear & Eyewear]] |
 | [[Hexen Blade]] | Weapon (Shortsword) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Hollow Eye]] | Wondrous Item | Rare | Yes | 4,040 gp | [[Tools, Keys & Curiosities]] |
+| [[Honey of Ancient Meadows]] | Potion | Rare | — | pending | [[Spirit Honey]] |
+| [[Honey of Gloomy Flowers]] | Potion | Rare | — | pending | [[Spirit Honey]] |
+| [[Honey of the Master Vine]] | Potion | Rare | — | pending | [[Spirit Honey]] |
 | [[Honey of the Norn-Blessed]] | Potion [Honey] | Rare | — | 650 gp | [[Potions]] |
 | [[Honey of the Sacred Bear]] | Potion [Honey] | Rare | — | 650 gp | [[Potions]] |
 | [[Honey of the Skald’s Tongue]] | Potion [Honey] | Rare | — | 350 gp | [[Potions]] |
@@ -413,16 +501,19 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Living Juggernaut]] | Armor (Plate) | Rare | Yes | pending | [[Magic Armor]] |
 | [[Living Stake]] | Wondrous Item | Rare | — | 4,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Lucky Tattoo]] | Wondrous Item | Rare | Yes | 10,500 gp | [[Magic Tattoos]] |
+| [[Luring Perfume]] | Potion | Rare | — | pending | [[Potions]] |
 | [[Lyre of Rumbling]] | Wondrous Item | Rare | Yes | 8,800 gp | [[Instruments]] |
 | [[Mace of Disruption]] | Weapon (Mace) | Rare | Yes | 8,000 gp | [[Magic Weapons]] |
 | [[Mace of Smiting]] | Weapon (Mace) | Rare | — | 8,000 gp | [[Magic Weapons]] |
 | [[Mace of Terror]] | Weapon (Mace) | Rare | Yes | 8,800 gp | [[Magic Weapons]] |
 | [[Magic Weights]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Magus Rune Armor]] | Armor (Scale Mail) | Rare | — | 4,400 gp | [[Arcanepunk Items]] |
+| [[Maiden’s Tears]] | Potion | Rare | — | pending | [[Fantastical Foods]] |
 | [[Mantle of Spell Resistance]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Megaphone of Commanding Presence]] | Wondrous Item | Rare | — | 2,500 gp | [[Instruments]] |
 | [[Meteoric Plate]] | Armor (Plate) | Rare | Yes | pending | [[Magic Armor]] |
 | [[Meteoric Sling]] | Weapon (Sling) | Rare | — | 1,500 gp + base weapon cost | [[Magic Weapons]] |
+| [[Mincemeat Pie]] | Potion | Rare | — | pending | [[Fantastical Foods]] |
 | [[Minotaur Helm]] | Wondrous Item | Rare | Yes | 4,000 gp | [[Headwear & Eyewear]] |
 | [[Moon Through the Trees]] | Wondrous Item | Rare | Yes | 16,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Moonsteel Weapon]] | Weapon (Rapier or Dagger) | Rare | — | pending | [[Magic Weapons]] |
@@ -436,6 +527,8 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Odd Bodkin]] | Weapon (Dagger) | Rare | — | pending | [[Magic Weapons]] |
 | [[Ogre's Pot]] | Wondrous Item | Rare | Yes | 6,000 gp | [[Containers & Vessels]] |
 | [[Oil of Etherealness]] | Potion | Rare | — | 2,500 gp | [[Potions]] |
+| [[Oil of Extreme Bludgeoning]] | Potion | Rare | — | pending | [[Potions]] |
+| [[Pact Paper]] | Scroll | Rare | — | pending | [[Scrolls]] |
 | [[Pauper’s Grove]] | Wondrous Item | Rare | — | 4,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Periapt of Fixation]] | Wondrous Item | Rare | — | 8,000 gp | [[Amulets, Charms & Jewelry]] |
 | [[Periapt of Proof Against Petrification]] | Wondrous Item | Rare | — | 2,000 gp | [[Amulets, Charms & Jewelry]] |
@@ -444,6 +537,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Potion of Clairvoyance]] | Potion | Rare | — | 200 gp | [[Potions]] |
 | [[Potion of Courage]] | Potion | Rare | — | 100 gp | [[Potions]] |
 | [[Potion of Diminution]] | Potion | Rare | — | 200 gp | [[Potions]] |
+| [[Potion of Empowering Truth]] | Potion | Rare | — | pending | [[Potions]] |
 | [[Potion of Gaseous Form]] | Potion | Rare | — | 200 gp | [[Potions]] |
 | [[Potion of Heroism]] | Potion | Rare | — | 350 gp | [[Potions]] |
 | [[Potion of Locomotion]] | Potion | Rare | — | 650 gp | [[Potions]] |
@@ -451,6 +545,9 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Potion of Puissance]] | Potion | Rare | — | 200 gp | [[Potions]] |
 | [[Potion of Readiness]] | Potion | Rare | — | 100 gp | [[Potions]] |
 | [[Potion of Replication]] | Potion | Rare | — | 200 gp | [[Potions]] |
+| [[Potion of Troll Blood, Greater]] | Potion | Rare | — | pending | [[Troll Blood]] |
+| [[Potion of Worg Form]] | Potion | Rare | — | pending | [[Potions]] |
+| [[Queen Bee]] | Potion | Rare | — | pending | [[Fantastical Foods]] |
 | [[Quicksilver Draught]] | Potion | Rare | — | 150 gp | [[Potions]] |
 | [[Reciprocating Armor]] | Armor (Any Medium or Heavy) | Rare | — | 5,000 gp + base armor cost | [[Magic Armor]] |
 | [[Reliquary Armor]] | Armor | Rare | Yes | 20,000 gp | [[Magic Armor]] |
@@ -480,6 +577,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Rust Monster Shell]] | Armor (Breastplate) | Rare | Yes | pending | [[Magic Armor]] |
 | [[Rusted Time Blade]] | Weapon (Any Sword) | Rare | Yes | 4,400 gp | [[Arcanepunk Items]] |
 | [[Safety Goblet]] | Wondrous Item | Rare | Yes | 2,200 gp | [[Containers & Vessels]] |
+| [[Scarlet Mead]] | Potion | Rare | — | pending | [[Fantastical Foods]] |
 | [[Scimitar of the Desert Winds]] | Weapon (Scimitar) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Scorn Pouch]] | Wondrous Item | Rare | Yes | 4,000 gp | [[Containers & Vessels]] |
 | [[Scourge of Devotion]] | Weapon (Flail) | Rare | Yes | pending | [[Magic Weapons]] |
@@ -513,6 +611,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Sun Blade]] | Weapon (Longsword) | Rare | Yes | 8,000 gp | [[Magic Weapons]] |
 | [[Sunfire Plate]] | Armor (Half Plate or Plate) | Rare | Yes | 2,500 gp + base armor cost | [[Magic Armor]] |
 | [[Swarm Suit]] | Armor (Leather or Padded) | Rare | Yes | 8,800 gp | [[Magic Armor]] |
+| [[Sweet Subjects]] | Potion | Rare | — | pending | [[Fantastical Foods]] |
 | [[Sword of Life Stealing]] | Weapon (Any Sword) | Rare | Yes | 8,000 gp | [[Magic Weapons]] |
 | [[Sword of Wounding]] | Weapon (Any Sword) | Rare | Yes | 8,000 gp | [[Magic Weapons]] |
 | [[Tamer’s Whip]] | Weapon (Whip) | Rare | Yes | pending | [[Magic Weapons]] |
@@ -573,12 +672,16 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Ashbraid]] | Weapon (battleaxe, greataxe) | Very Rare | Yes | 15,000 gp + weapon base cost | [[Magic Weapons]] |
 | [[Bagpipes of Mesmerism]] | Wondrous Item | Very Rare | by a Spellcaster | 63,550 gp | [[Instruments]] |
 | [[Beachhead Banner]] | Wondrous Item | Very Rare | by a [[Vanguard]] | 50,000 gp | [[Banners]] |
+| [[Bezoar of the Dire Owlbear]] | Wondrous Item | Very Rare | — | pending | [[Bezoars]] |
+| [[Binding Oath]] | Scroll | Very Rare | by a [[Cleric]] or [[Paladin]] | pending | [[Scrolls]] |
 | [[Blood-Soaked Hide]] | Armor (Hide) | Very Rare | Yes | pending | [[Magic Armor]] |
 | [[Bone Whip]] | Weapon (Whip) | Very Rare | Yes | pending | [[Magic Weapons]] |
 | [[Book of Baleful Bargains]] | Wondrous Item | Very Rare | by a [[Warlock]] | 25,000 gp | [[Books & Writing]] |
 | [[Book of Curses]] | Wondrous Item | Very Rare | Yes | 60,000 gp | [[Books & Writing]] |
 | [[Bow of Arrow Splitting]] | Weapon (Longbow or Shortbow) | Very Rare | Yes | 16,525 gp | [[Magic Weapons]] |
 | [[Bracers of Seven Winds]] | Weapon | Very Rare | by a [[Monk]] | 75,000 gp | [[Magic Weapons]] |
+| [[Brain Juice]] | Potion | Very Rare | — | pending | [[Potions]] |
+| [[Broth of Needful Fortitude]] | Potion | Very Rare | — | pending | [[Fantastical Foods]] |
 | [[Bubbler’s Sweat]] | Wondrous Item | Very Rare | — | 1,500 gp | [[Dusts, Oils & Consumables]] |
 | [[Caliginous Cowl]] | Wondrous Item | Very Rare | Yes | 30,020 gp | [[Headwear & Eyewear]] |
 | [[Candied Axe]] | Weapon (Battleaxe) | Very Rare | Yes | pending | [[Magic Weapons]] |
@@ -606,6 +709,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Encouraging Armor]] | Armor (Light, Medium, or Heavy) | Very Rare | Yes | pending | [[Magic Armor]] |
 | [[Fellforged Armor]] | Armor (Plate) | Very Rare | Yes | pending | [[Magic Armor]] |
 | [[Frost Brand]] | Weapon (Any Sword) | Very Rare | Yes | 5,000 gp + base weapon cost | [[Magic Weapons]] |
+| [[Ghoulbane Oil]] | Potion | Very Rare | — | pending | [[Potions]] |
 | [[Glacierpress Boots]] | Wondrous Item | Very Rare | — | 27,000 gp | [[Boots & Footwear]] |
 | [[Gorgon Scale]] | Armor (Scale Mail) | Very Rare | Yes | pending | [[Magic Armor]] |
 | [[Grave Ward Armor]] | Armor (Light, Medium, or Heavy) | Very Rare | Yes | pending | [[Magic Armor]] |
@@ -615,7 +719,9 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Helm of Brilliance]] | Wondrous Item | Very Rare | Yes | 120,000 gp | [[Headwear & Eyewear]] |
 | [[Helm of Enriching Aura]] | Wondrous Item | Very Rare | by a [[Paladin]] | 120,000 gp | [[Headwear & Eyewear]] |
 | [[Helmet of Nullification]] | Wondrous Item | Very Rare | Yes | 80,000 gp | [[Headwear & Eyewear]] |
+| [[Honey of Planar Flora]] | Potion | Very Rare | — | pending | [[Spirit Honey]] |
 | [[Honey of the Hive Warden]] | Potion [Honey] | Very Rare | — | 1,500 gp | [[Potions]] |
+| [[Honey of Warped Wildflowers]] | Potion | Very Rare | — | pending | [[Spirit Honey]] |
 | [[Horseshoes of a Zephyr]] | Wondrous Item | Very Rare | — | 30,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Iron Traitor’s Arm Ring]] | Wondrous Item | Very Rare | — | 28,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Lycanthrope Slayer]] | Weapon (Any Sword) | Very Rare | — | 30,000 gp + base weapon cost | [[Magic Weapons]] |
@@ -629,6 +735,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Nine Lives Stealer]] | Weapon (Any Sword) | Very Rare | Yes | 8,800 gp | [[Magic Weapons]] |
 | [[Oathbow]] | Weapon (Longbow) | Very Rare | Yes | 16,000 gp | [[Magic Weapons]] |
 | [[Oil of Sharpness]] | Potion | Very Rare | — | 1,500 gp | [[Potions]] |
+| [[Pickled Aboleth Brain]] | Potion | Very Rare | — | pending | [[Fantastical Foods]] |
 | [[Pistol of the Umbral Court]] | Weapon (Hand Crossbow) | Very Rare | Yes | pending | [[Magic Weapons]] |
 | [[Poison Strand]] | Weapon (Whip) | Very Rare | Yes | pending | [[Magic Weapons]] |
 | [[Portable Vault]] | Wondrous Item | Very Rare | — | 40,000 gp | [[Containers & Vessels]] |
@@ -636,7 +743,9 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Potion of Flying]] | Potion | Very Rare | — | 200 gp | [[Potions]] |
 | [[Potion of Invisibility]] | Potion | Very Rare | — | 100 gp | [[Potions]] |
 | [[Potion of Near-Death Portent]] | Potion | Very Rare | — | 650 gp | [[Potions]] |
+| [[Potion of Sand Form]] | Potion | Very Rare | — | pending | [[Potions]] |
 | [[Potion of Speed]] | Potion | Very Rare | — | 200 gp | [[Potions]] |
+| [[Potion of Troll Blood, Superior]] | Potion | Very Rare | — | pending | [[Troll Blood]] |
 | [[Prismatic Steel Weapon]] | Weapon (Any melee weapon) | Very Rare | Yes | 60,000 gp | [[Magic Weapons]] |
 | [[Ravager’s Axe]] | Weapon (Greataxe) | Very Rare | — | pending | [[Magic Weapons]] |
 | [[Reef Splitter]] | Weapon (Warhammer) | Very Rare | Yes | pending | [[Magic Weapons]] |
@@ -658,6 +767,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Sea Witch’s Blade]] | Weapon (Shortsword) | Very Rare | Yes | pending | [[Magic Weapons]] |
 | [[Seafoam Trident]] | Weapon (Trident) | Very Rare | Yes | 16,500 gp | [[Magic Weapons]] |
 | [[Seismic Maul]] | Weapon (Maul) | Very Rare | Yes | 15,000 gp + base weapon cost | [[Magic Weapons]] |
+| [[Seven-Flavored Tea of Forgetfulness]] | Potion | Very Rare | — | pending | [[Fantastical Foods]] |
 | [[Shield of Annihilation]] | Armor (Shield) | Very Rare | — | 30,000 gp | [[Magic Armor]] |
 | [[Shield of Righteousness]] | Armor (Shield) | Very Rare | Yes | 10,000 gp + base armor cost | [[Magic Armor]] |
 | [[Shield of the World Serpent]] | Wondrous Item | Very Rare | Yes | 30,000 gp | [[Tools, Keys & Curiosities]] |
@@ -681,9 +791,11 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Tattoo of the Emissary]] | Wondrous Item | Very Rare | Yes | 30,000 gp | [[Magic Tattoos]] |
 | [[Three-Dragon Staff]] | Weapon | Very Rare | — | 15,000 gp | [[Magic Weapons]] |
 | [[Thurible of Dream Traveling]] | Wondrous Item | Very Rare | — | 80,000 gp | [[Containers & Vessels]] |
+| [[Tincture of Moonlit Blossom]] | Potion | Very Rare | — | pending | [[Potions]] |
 | [[Tireless Rower]] | Wondrous Item | Very Rare | — | 30,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Trident of the Vortex]] | Weapon (Trident) | Very Rare | Yes | pending | [[Magic Weapons]] |
 | [[Trident of the Yearning Tide]] | Weapon (Trident) | Very Rare | Yes | pending | [[Magic Weapons]] |
+| [[Trollsblood Elixir]] | Potion | Very Rare | — | pending | [[Potions]] |
 | [[Unquiet Dagger]] | Weapon (Dagger) | Very Rare | by a Spellcaster of Evil Alignment | pending | [[Magic Weapons]] |
 | [[Vicious Weapon]] | Weapon (Any) | Very Rare | — | 1,500 gp + base weapon cost | [[Magic Weapons]] |
 | [[Void-Touched Buckler]] | Armor (Shield) | Very Rare | Yes | pending | [[Magic Armor]] |
@@ -705,18 +817,25 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Asp’s Kiss]] | Weapon (Shortsword) | Legendary | by a [[Bard]], [[Fighter]], [[Ranger]], or [[Rogue]] | pending | [[Magic Weapons]] |
 | [[Bloodprice Armor]] | Armor (Light, Medium, or Heavy) | Legendary | Yes | pending | [[Magic Armor]] |
 | [[Cloak of the Far Traveler]] | Wondrous Item | Legendary | Yes | 120,000 gp | [[Cloaks, Robes & Clothing]] |
+| [[Cloud and Mist Immortality Tea]] | Potion | Legendary | — | pending | [[Fantastical Foods]] |
 | [[Crimson Scepter]] | Rod | Legendary | by a [[Bard]], [[Cleric]], or [[Wizard]] | 200,000 gp | [[Rods, Staffs & Wands]] |
 | [[Dark Carousel]] | Wondrous Item | Legendary | — | 100,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Defender]] | Weapon (Any Sword) | Legendary | Yes | 100,000 gp | [[Magic Weapons]] |
 | [[Dirgeblade]] | Weapon (Rapier) | Legendary | by a [[Bard]] | pending | [[Magic Weapons]] |
+| [[Draught of Ambrosia]] | Potion | Legendary | — | pending | [[Potions]] |
+| [[Extract of Dual-Mindedness]] | Potion | Legendary | — | pending | [[Potions]] |
 | [[Fountmail]] | Armor (Chain Mail) | Legendary | Yes | pending | [[Magic Armor]] |
 | [[Haunted Doll]] | Wondrous Item | Legendary | Yes | 200,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Holy Avenger]] | Weapon (Any Sword) | Legendary | Yes | 200,000 gp | [[Magic Weapons]] |
 | [[Horn of the Wild Hunt]] | Wondrous Item | Legendary | — | 45,000 gp | [[Instruments]] |
+| [[Interplanar Paint]] | Potion | Legendary | — | pending | [[Potions]] |
 | [[Iron Flask]] | Wondrous Item | Legendary | — | 100,000 gp | [[Containers & Vessels]] |
 | [[Luck Blade]] | Weapon (Any Sword) | Legendary | Yes | Priceless | [[Magic Weapons]] |
 | [[Mantle of the Void Lord]] | Wondrous Item | Legendary | by a [[Cleric]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | 100,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Portable Caravan]] | Wondrous Item | Legendary | — | 125,000 gp | [[Mounts, Vehicles & Travel]] |
+| [[Potent Cure-All]] | Potion | Legendary | — | pending | [[Potions]] |
+| [[Potion of Troll Blood, Supreme]] | Potion | Legendary | — | pending | [[Troll Blood]] |
+| [[Purified Phoenix Tear]] | Potion | Legendary | — | pending | [[Fantastical Foods]] |
 | [[Ring of Djinni Summoning]] | Ring | Legendary | Yes | 100,000 gp | [[Rings]] |
 | [[Ring of Invisibility]] | Ring | Legendary | Yes | 101,000 gp | [[Rings]] |
 | [[Ring of Spell Turning]] | Ring | Legendary | Yes | 100,000 gp | [[Rings]] |
@@ -817,15 +936,18 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Ioun Stone]] | Wondrous Item | Rarity Varies | Yes | Price Varies | [[Gems, Stones & Orbs]] |
 | [[Jarlpact Rings]] | Ring (set of four) | Rarity Varies | Yes | Price Varies | [[Rings]] |
 | [[Mystic Tattoo]] | Wondrous Item | Rarity Varies | by a Spellcaster | Varies | [[Magic Tattoos]] |
+| [[Orb of Obfuscation]] | Potion | Rarity Varies | — | pending | [[Potions]] |
 | [[Potion of Giant Strength]] | Potion | Rarity Varies | — | Price Varies | [[Potions]] |
 | [[Potion of Healing]] | Potion | Rarity Varies | — | Price Varies | [[Potions]] |
 | [[Sacrificial Knife]] | Weapon (Dagger) | Rarity Varies | Yes | pending | [[Magic Weapons]] |
+| [[Scroll of Conjuring]] | Scroll | Rarity Varies | — | pending | [[Scrolls]] |
 | [[Shattersphere]] | Wondrous Item | Rarity Varies | — | Price Varies | [[Gems, Stones & Orbs]] |
 | [[Shield, +1, +2, or +3]] | Armor (Shield) | Rarity Varies | — | Price Varies | [[Magic Armor]] |
 | [[Skintaker Cloak]] | Wondrous Item | Rarity Varies | by a [[Barbarian]] | Price Varies | [[Cloaks, Robes & Clothing]] |
 | [[Slayer’s Blade]] | Weapon (Any Sword) | Rarity Varies | — | Price Varies | [[Magic Weapons]] |
 | [[Spearbiter]] | Armor (Shield) | Rarity Varies | Yes | pending | [[Magic Armor]] |
 | [[Spell Scroll]] | Scroll | Rarity Varies | — | Price Varies | [[Scrolls]] |
+| [[Unstable Bombard]] | Potion | Rarity Varies | — | pending | [[Potions]] |
 | [[Wand of the War Mage, +1, +2, or +3]] | Wand | Rarity Varies | by a Spellcaster | Price Varies | [[Rods, Staffs & Wands]] |
 | [[Weapon, +1, +2, or +3]] | Weapon (Any) | Rarity Varies | — | Price Varies | [[Magic Weapons]] |
 | [[Whip of the Blue Wyrm]] | Weapon (Whip) | Rarity Varies | Yes | pending | [[Magic Weapons]] |

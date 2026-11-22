@@ -1,0 +1,13 @@
+---
+publish: true
+---
+%% source: Vault of Magic %%
+
+*Potion, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+
+This rich broth boosts your body's defenses. When you consume this food, you have advantage on the next save you make against disease or poison within 24 hours.
+
+Part of [[Fantastical Foods]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
+
+---
+<small>Sources: [[Credits]].</small>

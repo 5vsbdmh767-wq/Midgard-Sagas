@@ -27,3 +27,23 @@ Vault of Magic, added chapter by chapter from your scan. Each batch gets a secti
 
 ## Left alone
 - Autolink wanted to add "Shadow Fey" on Story So Far. Skipped, since it's a campaign page. Say if you want it.
+
+## Potions & Scrolls (22 Nov 2026)
+
+- 122 new item pages, every one priced "pending":
+  - 65 in Potions.
+  - 11 scrolls in Wondrous Items › Scrolls.
+  - 10 in Bezoars, 25 in Fantastical Foods, 7 in Spirit Honey and 4 in Troll Blood.
+- None of them were already on the wiki.
+- **Four new rules pages:** Bezoars, Fantastical Foods, Spirit Honey and Troll Blood. Each one is the rules from the book in **my words**, followed by a table of its items. They're linked from the Magic Items hub and from the Potions page. The two Troll Blood mutation tables are reworded with the same numbers.
+- **Scrolls page:** it gains a short "Magical Contracts" section in **my words**, from the book's sidebar about the contract scrolls.
+- **Rebuilt from the page images:**
+  - The three Scroll of Conjuring tables and the Scroll of Treasure Finding table.
+  - Where art broke up the text: Brain Juice, Feysworn Contract, Oil of Defoliation, Potion of Air Breathing, Potion of Freezing Fog, Bezoar of the Behir and Bezoar of the Manticore.
+  - Catalyst Oil and Aberrant Agreement had sidebar text mixed in, which is now removed.
+- **Scroll of Conjuring creatures:** the book marks which bestiary each creature comes from (Tome of Beasts, Tome of Beasts 2, Creature Codex). I left those marks out and kept a hidden note.
+- **Guess:** one row on the major mutation table read "harmed" in the scan. I took it as "charmed".
+
+## Needs your call
+- **Madness:** spirit honey gives a "long-term madness", and Brain Juice and Tonic for the Troubled Mind mention short-term and long-term madness. Those are 5th Edition rules that Tales of the Valiant doesn't have, and the wiki has no madness rules. Options: pick a Horror or Dread effect to stand in for madness, write a small madness table as a house rule, or leave it to your call at the table.
+- **Troll Blood vs. the alchemy ingredient:** the alchemy recipes use "Troll Blood" as an ingredient. I stopped autolink from linking those mentions to the new Troll Blood page. Say if they should link to it.

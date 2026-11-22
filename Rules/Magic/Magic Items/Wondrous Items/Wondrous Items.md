@@ -25,6 +25,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 
 | Item | Type | Rarity | Attunement | Price | Category |
 |---|---|---|---|---|---|
+| [[Aberrant Agreement]] | Scroll | Rare | — | pending | [[Scrolls]] |
 | [[Action Stirge]] | Wondrous Item | Uncommon | — | 200 gp | [[Tools, Keys & Curiosities]] |
 | [[Adaptive Boots]] | Wondrous Item | Uncommon | — | 3,300 gp | [[Boots & Footwear]] |
 | [[Alkazinian’s Flask of Wonders]] | Wondrous Item | Very Rare | — | 17,500 gp | [[Containers & Vessels]] |
@@ -53,7 +54,9 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Belt of Giant Strength]] | Wondrous Item | Rarity Varies | Yes | Price Varies | [[Belts, Gloves & Bracers]] |
 | [[Belt of Natural Weaponry]] | Wondrous Item | Rare | Yes | 20,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Belt of the Berserker]] | Wondrous Item | Rare | by a barbarian with the Reckless Attack class feature | 6,000 gp | [[Belts, Gloves & Bracers]] |
+| [[Binding Oath]] | Scroll | Very Rare | by a [[Cleric]] or [[Paladin]] | pending | [[Scrolls]] |
 | [[Blanket of the War Steed]] | Wondrous Item | Rare | — | 4,000 gp | [[Mounts, Vehicles & Travel]] |
+| [[Blasphemous Writ]] | Scroll | Uncommon | — | pending | [[Scrolls]] |
 | [[Blue Willow Cloak]] | Wondrous Item | Uncommon | — | 4,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Book of Baleful Bargains]] | Wondrous Item | Very Rare | by a [[Warlock]] | 25,000 gp | [[Books & Writing]] |
 | [[Book of Curses]] | Wondrous Item | Very Rare | Yes | 60,000 gp | [[Books & Writing]] |
@@ -83,6 +86,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Carpet of Flying]] | Wondrous Item | Very Rare | — | 200,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Caterwauling Box]] | Wondrous Item | Common | — | 55 gp | [[Containers & Vessels]] |
 | [[Catskin Cloak]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Cloaks, Robes & Clothing]] |
+| [[Celestial Charter]] | Scroll | Rare | — | pending | [[Scrolls]] |
 | [[Censer of Controlling Air Elementals]] | Wondrous Item | Rare | — | 14,500 gp | [[Containers & Vessels]] |
 | [[Chalk of Warding]] | Wondrous Item | Uncommon | — | 330 gp | [[Dusts, Oils & Consumables]] |
 | [[Charm of Restoration]] | Wondrous Item | Common | — | 100 gp | [[Amulets, Charms & Jewelry]] |
@@ -129,6 +133,8 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Eyes of Minute Seeing]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Headwear & Eyewear]] |
 | [[Eyes of the Eagle]] | Wondrous Item | Uncommon | Yes | 1,000 gp | [[Headwear & Eyewear]] |
 | [[Feather Token]] | Wondrous Item | Rare | — | 350 gp | [[Gems, Stones & Orbs]] |
+| [[Feysworn Contract]] | Scroll | Rare | — | pending | [[Scrolls]] |
+| [[Fiendish Charter]] | Scroll | Rare | — | pending | [[Scrolls]] |
 | [[Figurine of Wondrous Power]] | Wondrous Item | Rarity by Figurine | — | Price Varies | [[Tools, Keys & Curiosities]] |
 | [[Figurine of Wondrous Power, Malachite Selang]] | Wondrous Item | Rare | — | 8,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Firebird Feather]] | Wondrous Item | Uncommon | — | 500 gp | [[Gems, Stones & Orbs]] |
@@ -218,6 +224,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Northlander’s Boots]] | Wondrous Item | Common | Yes | 40 gp | [[Boots & Footwear]] |
 | [[Ogre's Pot]] | Wondrous Item | Rare | Yes | 6,000 gp | [[Containers & Vessels]] |
 | [[Ottaveggr Talharpa]] | Wondrous Item | Common | — | 60 gp | [[Instruments]] |
+| [[Pact Paper]] | Scroll | Rare | — | pending | [[Scrolls]] |
 | [[Pauper’s Grove]] | Wondrous Item | Rare | — | 4,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Pearl of Power]] | Wondrous Item | Uncommon | by a Spellcaster | 500 gp | [[Gems, Stones & Orbs]] |
 | [[Pendulous Periapt]] | Wondrous Item | Common | — | 50 gp | [[Amulets, Charms & Jewelry]] |
@@ -261,6 +268,10 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Scarlet Key]] | Wondrous Item | Legendary | by a [[Bard]], [[Cleric]], or [[Wizard]] | — | [[Tools, Keys & Curiosities]] |
 | [[Scorn Pouch]] | Wondrous Item | Rare | Yes | 4,000 gp | [[Containers & Vessels]] |
 | [[Scrimshaw Comb]] | Wondrous Item | Uncommon | Yes | 3,000 gp | [[Amulets, Charms & Jewelry]] |
+| [[Scroll of Conjuring]] | Scroll | Rarity Varies | — | pending | [[Scrolls]] |
+| [[Scroll of Fabrication]] | Scroll | Uncommon | — | pending | [[Scrolls]] |
+| [[Scroll of Treasure Finding]] | Scroll | Uncommon | — | pending | [[Scrolls]] |
+| [[Scrolls of Correspondence]] | Scroll | Common | — | pending | [[Scrolls]] |
 | [[Searing Safe]] | Wondrous Item | Uncommon | — | 500 gp | [[Containers & Vessels]] |
 | [[Seidr Rune Necklace]] | Wondrous Item | Rare | Yes | 2,000 gp | [[Amulets, Charms & Jewelry]] |
 | [[Serpent Fin Oars]] | Wondrous Item | Uncommon | — | 500 gp | [[Mounts, Vehicles & Travel]] |
