@@ -23,7 +23,7 @@ Wondrous items of this kind. All wondrous items are listed on [[Wondrous Items]]
 | [[Shattersphere]] | Wondrous Item | Rarity Varies | — | Price Varies |
 | [[Speaking Shards]] | Wondrous Item | Uncommon | — | 500 gp |
 | [[Stone of Controlling Earth Elementals]] | Wondrous Item | Rare | — | 14,500 gp |
-| [[Void Saint Bone]] | Wondrous Item | Rare | by a Wizard or [[Cleric]] | 22,500 gp |
+| [[Void Saint Bone]] | Wondrous Item | Rare | by a [[Wizard]] or [[Cleric]] | 22,500 gp |
 
 ---
 <small>Sources: [[Credits]].</small>

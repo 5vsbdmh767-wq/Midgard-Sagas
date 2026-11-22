@@ -20,6 +20,7 @@ Rules:
 - *Night Hunters*
 - *Lineages & Heritages* supplements 1 and 3
 - *Book of Ebon Tides*, adapted from its 5th Edition rules to Tales of the Valiant terms (ability abbreviations, "save," and spell circles). The despondent condition drops the 5th Edition "flaw" line, since Tales of the Valiant doesn't use flaws.
+- *Vault of Magic*, magic items adapted from its 5th Edition rules to Tales of the Valiant terms in the same way. Prices are still being worked out.
 
 Rules and setting:
 - *Tales of the Old Margreve*

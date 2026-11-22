@@ -1,0 +1,19 @@
+---
+publish: true
+---
+%% source: Vault of Magic %%
+
+*[[Armor|Armor]] (Chain Mail), [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+
+This armor is a dazzling white suit of chain mail with an alabaster-colored steel collar that covers part of the face. You gain a +3 bonus to AC while you wear this armor. In addition, you gain the following benefits:
+
+- You add your STR and WIS modifiers in addition to your CON modifier on all rolls when spending Hit Die to recover hit points.
+
+- You can’t be [[Conditions#Frightened|frightened]].
+
+- You have resistance to necrotic damage.
+
+Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
+
+---
+<small>Sources: [[Credits]].</small>

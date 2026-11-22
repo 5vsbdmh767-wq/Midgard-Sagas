@@ -18,7 +18,7 @@ At the GM’s discretion, a fabled magic item’s more powerful properties might
 | [[Ancestral Armor]] | Armor | Fabled | by a [[Vanguard]] | Priceless |
 | [[Arbiter]] | Weapon (Warhammer) | Fabled | Yes | Priceless |
 | [[Bash and Havoc]] | Weapon (Gauntlets) | Fabled | Yes | Priceless |
-| [[Battlebrew Medallion]] | Wondrous Item | Fabled | Require Attunement* *by a [[Cleric]] or [[Paladin]] of a Relevant God | Priceless |
+| [[Battlebrew Medallion]] | Wondrous Item | Fabled | by a [[Cleric]] or [[Paladin]] of a Relevant God | Priceless |
 | [[Blades of Blood and Fury]] | Weapons | Fabled | by a [[Barbarian]] | Priceless |
 | [[Blood Spike Armor]] | Armor (Plate) | Fabled | Yes | Priceless |
 | [[Book of Names]] | Wondrous Item | Fabled | — | Priceless |
@@ -34,14 +34,14 @@ At the GM’s discretion, a fabled magic item’s more powerful properties might
 | [[Enforcer of the Pact]] | Wondrous Item | Fabled | by a [[Warlock]] | Priceless |
 | [[Featherwing]] | Weapon (Longbow) | Fabled | by an Elf | Priceless |
 | [[Groundbyrne’s Greaves]] | Armor (Greaves) | Fabled | Yes | Priceless |
-| [[Harrowhelm]] | Wondrous Item | Fabled | by a Paladin | Priceless |
+| [[Harrowhelm]] | Wondrous Item | Fabled | by a [[Paladin]] | Priceless |
 | [[Helm of the Medusa]] | Wondrous Item | Fabled | — | Priceless |
 | [[Laceros, the Godsplinter]] | Weapon (Lance) | Fabled | Yes | Priceless |
-| [[Mailcoat of the Living Martyr]] | Armor | Fabled | by a Cleric | Priceless |
+| [[Mailcoat of the Living Martyr]] | Armor | Fabled | by a [[Cleric]] | Priceless |
 | [[Mask of the Laughing Knave]] | Wondrous Item | Fabled | by a [[Bard]] | Priceless |
 | [[Mayhem]] | Weapon (Greataxe) | Fabled | Yes | Priceless |
 | [[Monster Hunter’s Crossbow]] | Weapon (Heavy Crossbow) | Fabled | Yes | Priceless |
-| [[Pack of Peerless Purloining]] | Wondrous Item | Fabled | by a Rogue | Priceless |
+| [[Pack of Peerless Purloining]] | Wondrous Item | Fabled | by a [[Rogue]] | Priceless |
 | [[Planner’s Piece]] | Wondrous Item | Fabled | by a [[Rogue]] | Priceless |
 | [[Plume of Names]] | Wondrous Item | Fabled | by a [[Theurge]] | Priceless |
 | [[Quickfinger Gloves]] | Wondrous Item | Fabled | — | Priceless |
@@ -63,7 +63,7 @@ At the GM’s discretion, a fabled magic item’s more powerful properties might
 | [[Wand of the Wodewalker]] | Wand | Fabled | by a [[Druid]] | Priceless |
 | [[Witch Light]] | Wondrous Item | Fabled | Yes | Priceless |
 | [[Wraps of the Enlightened Path]] | Weapon | Fabled | by a [[Monk]] | Priceless |
-| [[Wyrm-Scored Coin]] | Wondrous Item | Fabled | by a Rogue | Priceless |
+| [[Wyrm-Scored Coin]] | Wondrous Item | Fabled | by a [[Rogue]] | Priceless |
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

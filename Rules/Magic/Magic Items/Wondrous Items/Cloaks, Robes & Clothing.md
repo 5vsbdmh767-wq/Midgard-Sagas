@@ -14,7 +14,7 @@ Wondrous items of this kind. All wondrous items are listed on [[Wondrous Items]]
 | [[Cloak of Displacement]] | Wondrous Item | Very Rare | Yes | 60,000 gp |
 | [[Cloak of Elvenkind]] | Wondrous Item | Uncommon | Yes | 4,000 gp |
 | [[Cloak of Irrelevance]] | Wondrous Item | Rare | Yes | 33,000 gp |
-| [[Cloak of Meditation]] | Wondrous Item | Very Rare | by a Sorcerer | 30,000 gp |
+| [[Cloak of Meditation]] | Wondrous Item | Very Rare | by a [[Sorcerer]] | 30,000 gp |
 | [[Cloak of Protection]] | Wondrous Item | Uncommon | Yes | 2,000 gp |
 | [[Cloak of the Bat]] | Wondrous Item | Rare | Yes | 33,500 gp |
 | [[Cloak of the Far Traveler]] | Wondrous Item | Legendary | Yes | 120,000 gp |
@@ -27,7 +27,7 @@ Wondrous items of this kind. All wondrous items are listed on [[Wondrous Items]]
 | [[Robe of Eyes]] | Wondrous Item | Rare | Yes | 8,000 gp |
 | [[Robe of Scintillating Colors]] | Wondrous Item | Very Rare | Yes | 33,000 gp |
 | [[Robe of Stars]] | Wondrous Item | Very Rare | Yes | 50,500 gp |
-| [[Robe of the Archmagi]] | Wondrous Item | Legendary | by a Sorcerer, Warlock, or Wizard | 100,000 gp |
+| [[Robe of the Archmagi]] | Wondrous Item | Legendary | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | 100,000 gp |
 | [[Robe of Useful Items]] | Wondrous Item | Uncommon | — | 5,000 gp |
 | [[Sheltering Cape]] | Wondrous Item | Rare | Yes | 4,000 gp |
 | [[Skintaker Cloak]] | Wondrous Item | Rarity Varies | by a [[Barbarian]] | Price Varies |

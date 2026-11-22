@@ -55,7 +55,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Belt of the Berserker]] | Wondrous Item | Rare | by a barbarian with the Reckless Attack class feature | 6,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Blanket of the War Steed]] | Wondrous Item | Rare | — | 4,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Blue Willow Cloak]] | Wondrous Item | Uncommon | — | 4,000 gp | [[Cloaks, Robes & Clothing]] |
-| [[Book of Baleful Bargains]] | Wondrous Item | Very Rare | by a Warlock | 25,000 gp | [[Books & Writing]] |
+| [[Book of Baleful Bargains]] | Wondrous Item | Very Rare | by a [[Warlock]] | 25,000 gp | [[Books & Writing]] |
 | [[Book of Curses]] | Wondrous Item | Very Rare | Yes | 60,000 gp | [[Books & Writing]] |
 | [[Boots of Elvenkind]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Boots & Footwear]] |
 | [[Boots of Galloping]] | Wondrous Item | Common | — | 25 gp | [[Boots & Footwear]] |
@@ -94,7 +94,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Cloak of Displacement]] | Wondrous Item | Very Rare | Yes | 60,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Cloak of Elvenkind]] | Wondrous Item | Uncommon | Yes | 4,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Cloak of Irrelevance]] | Wondrous Item | Rare | Yes | 33,000 gp | [[Cloaks, Robes & Clothing]] |
-| [[Cloak of Meditation]] | Wondrous Item | Very Rare | by a Sorcerer | 30,000 gp | [[Cloaks, Robes & Clothing]] |
+| [[Cloak of Meditation]] | Wondrous Item | Very Rare | by a [[Sorcerer]] | 30,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Cloak of Protection]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Cloak of the Bat]] | Wondrous Item | Rare | Yes | 33,500 gp | [[Cloaks, Robes & Clothing]] |
 | [[Cloak of the Far Traveler]] | Wondrous Item | Legendary | Yes | 120,000 gp | [[Cloaks, Robes & Clothing]] |
@@ -105,7 +105,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Coin of Wandering Luck]] | Wondrous Item | Uncommon | Yes | 1,000 gp | [[Amulets, Charms & Jewelry]] |
 | [[Communication Apparatus]] | Wondrous Item | Very Rare | — | 50,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Countercharm Charm]] | Wondrous Item | Uncommon | — | 1,100 gp | [[Amulets, Charms & Jewelry]] |
-| [[Cowl of the Wild]] | Wondrous Item | Uncommon | by a Druid | 500 gp | [[Headwear & Eyewear]] |
+| [[Cowl of the Wild]] | Wondrous Item | Uncommon | by a [[Druid]] | 500 gp | [[Headwear & Eyewear]] |
 | [[Crystal Ball]] | Wondrous Item | Rarity Varies | Yes | Price Varies | [[Gems, Stones & Orbs]] |
 | [[Cube of Force]] | Wondrous Item | Rare | Yes | 17,600 gp | [[Tools, Keys & Curiosities]] |
 | [[Cymbals of Tumult]] | Wondrous Item | Rare | Yes | 22,000 gp | [[Instruments]] |
@@ -113,7 +113,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Dark Carousel]] | Wondrous Item | Legendary | — | 100,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Dashing Boots]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Boots & Footwear]] |
 | [[Decanter of Endless Water]] | Wondrous Item | Uncommon | — | 4,000 gp | [[Containers & Vessels]] |
-| [[Diadem of Focus]] | Wondrous Item | Rare | by a Sorcerer | 4,000 gp | [[Headwear & Eyewear]] |
+| [[Diadem of Focus]] | Wondrous Item | Rare | by a [[Sorcerer]] | 4,000 gp | [[Headwear & Eyewear]] |
 | [[Dimensional Shackles]] | Wondrous Item | Rare | — | 8,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Dreamer’s Delight]] | Wondrous Item | Rarity Varies | — | Price Varies | [[Tools, Keys & Curiosities]] |
 | [[Drum of Interruption]] | Wondrous Item | Uncommon | Yes | 2,500 gp | [[Instruments]] |
@@ -150,7 +150,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Hallowed Feedbag]] | Wondrous Item | Common | — | 25 gp | [[Mounts, Vehicles & Travel]] |
 | [[Handy Haversack]] | Wondrous Item | Rare | — | 8,000 gp | [[Containers & Vessels]] |
 | [[Hat of Disguise]] | Wondrous Item | Uncommon | Yes | 1,500 gp | [[Headwear & Eyewear]] |
-| [[Hat of Reproach]] | Wondrous Item | Very Rare | by a Wizard | 10,000 gp | [[Headwear & Eyewear]] |
+| [[Hat of Reproach]] | Wondrous Item | Very Rare | by a [[Wizard]] | 10,000 gp | [[Headwear & Eyewear]] |
 | [[Haunted Doll]] | Wondrous Item | Legendary | Yes | 200,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Hawk-Eyed Oculus]] | Wondrous Item | Rare | — | 5,000 gp | [[Headwear & Eyewear]] |
 | [[Hawking Sign]] | Wondrous Item | Uncommon | — | 200 gp | [[Banners]] |
@@ -178,7 +178,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Insta-Pit]] | Wondrous Item | Rare | — | 8,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Instant Fortress]] | Wondrous Item | Rare | — | 16,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Ioun Stone]] | Wondrous Item | Rarity Varies | Yes | Price Varies | [[Gems, Stones & Orbs]] |
-| [[Ioun Stone, Reciprocation]] | Wondrous Item | Rare | by a Wizard | 16,000 gp | [[Gems, Stones & Orbs]] |
+| [[Ioun Stone, Reciprocation]] | Wondrous Item | Rare | by a [[Wizard]] | 16,000 gp | [[Gems, Stones & Orbs]] |
 | [[Iron Bands of Binding]] | Wondrous Item | Rare | — | 8,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Iron Flask]] | Wondrous Item | Legendary | — | 100,000 gp | [[Containers & Vessels]] |
 | [[Iron Traitor’s Arm Ring]] | Wondrous Item | Very Rare | — | 28,000 gp | [[Belts, Gloves & Bracers]] |
@@ -211,7 +211,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Mug of Friendship]] | Wondrous Item | Common | — | 90 gp | [[Containers & Vessels]] |
 | [[Necklace of Adaptation]] | Wondrous Item | Uncommon | Yes | 1,000 gp | [[Amulets, Charms & Jewelry]] |
 | [[Necklace of Fireballs]] | Wondrous Item | Rare | — | 200 gp | [[Amulets, Charms & Jewelry]] |
-| [[Necklace of Prayer Beads]] | Wondrous Item | Rare | by a Cleric, [[Druid]], or [[Paladin]] | 75,000 gp | [[Amulets, Charms & Jewelry]] |
+| [[Necklace of Prayer Beads]] | Wondrous Item | Rare | by a [[Cleric]], [[Druid]], or [[Paladin]] | 75,000 gp | [[Amulets, Charms & Jewelry]] |
 | [[Necklace of Teeth]] | Wondrous Item | Rare | — | 14,500 gp | [[Amulets, Charms & Jewelry]] |
 | [[Nine-Escape Knot]] | Wondrous Item | Rare | — | 2,200 gp | [[Tools, Keys & Curiosities]] |
 | [[North Star Ring]] | Wondrous Item | Common | — | 25 gp | [[Amulets, Charms & Jewelry]] |
@@ -247,7 +247,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Robe of Eyes]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Robe of Scintillating Colors]] | Wondrous Item | Very Rare | Yes | 33,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Robe of Stars]] | Wondrous Item | Very Rare | Yes | 50,500 gp | [[Cloaks, Robes & Clothing]] |
-| [[Robe of the Archmagi]] | Wondrous Item | Legendary | by a Sorcerer, Warlock, or Wizard | 100,000 gp | [[Cloaks, Robes & Clothing]] |
+| [[Robe of the Archmagi]] | Wondrous Item | Legendary | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | 100,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Robe of Useful Items]] | Wondrous Item | Uncommon | — | 5,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Rope of Climbing]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Rope of Entanglement]] | Wondrous Item | Rare | — | 8,000 gp | [[Tools, Keys & Curiosities]] |
@@ -258,7 +258,7 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Sail of Favorable Winds]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Sail of Smooth Travels]] | Wondrous Item | Uncommon | — | 4,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Salt of Thawing]] | Wondrous Item | Common | — | 25 gp | [[Dusts, Oils & Consumables]] |
-| [[Scarlet Key]] | Wondrous Item | Legendary | by a [[Bard]], Cleric, or Wizard | — | [[Tools, Keys & Curiosities]] |
+| [[Scarlet Key]] | Wondrous Item | Legendary | by a [[Bard]], [[Cleric]], or [[Wizard]] | — | [[Tools, Keys & Curiosities]] |
 | [[Scorn Pouch]] | Wondrous Item | Rare | Yes | 4,000 gp | [[Containers & Vessels]] |
 | [[Scrimshaw Comb]] | Wondrous Item | Uncommon | Yes | 3,000 gp | [[Amulets, Charms & Jewelry]] |
 | [[Searing Safe]] | Wondrous Item | Uncommon | — | 500 gp | [[Containers & Vessels]] |
@@ -304,10 +304,10 @@ Wondrous items are worn items such as boots, belts, cloaks and amulets, and othe
 | [[Vial of Cloudstuff]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Containers & Vessels]] |
 | [[Void Aegis]] | Wondrous Item | Rare | — | 350 gp | [[Tools, Keys & Curiosities]] |
 | [[Void Detector]] | Wondrous Item | Uncommon | — | 50 gp | [[Tools, Keys & Curiosities]] |
-| [[Void Saint Bone]] | Wondrous Item | Rare | by a Wizard or Cleric | 22,500 gp | [[Gems, Stones & Orbs]] |
+| [[Void Saint Bone]] | Wondrous Item | Rare | by a [[Wizard]] or [[Cleric]] | 22,500 gp | [[Gems, Stones & Orbs]] |
 | [[Voidskin Cloak]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Wanderer’s Skein]] | Wondrous Item | Very Rare | Yes | 16,500 gp | [[Tools, Keys & Curiosities]] |
-| [[Ward Against Wild Appetites]] | Wondrous Item | Uncommon | by a Druid or [[Ranger]] | 1,500 gp | [[Tools, Keys & Curiosities]] |
+| [[Ward Against Wild Appetites]] | Wondrous Item | Uncommon | by a [[Druid]] or [[Ranger]] | 1,500 gp | [[Tools, Keys & Curiosities]] |
 | [[Wind Fan]] | Wondrous Item | Uncommon | — | 3,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Winged Boots]] | Wondrous Item | Uncommon | Yes | 8,000 gp | [[Boots & Footwear]] |
 | [[Winged Helm of Wisdom]] | Wondrous Item | Very Rare | Yes | 50,000 gp | [[Headwear & Eyewear]] |

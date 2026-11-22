@@ -123,6 +123,7 @@ Martial weapons, including swords, axes, and polearms, require training to use e
 | Wrist Knife | 4 gp | 1d4 slashing | 1 lb. | Disarm | Finesse, Fitted, Light |
 | **Martial Ranged Weapons** |  |  |  |  |  |
 | Blowgun | 10 gp | 1 piercing | 1 lb. | — | Ammunition (range 25/100 ft.), Loading |
+| Bolas | 5 gp | — | 2 lb. | — | Special, Thrown (range 5/15 ft.) |
 | Crossbow, hand | 75 gp | 1d6 piercing | 3 lb. | Pinning Shot | Ammunition (range 30/120 ft.), Light, Loading |
 | Crossbow, heavy | 50 gp | 1d10 piercing | 18 lb. | Pinning Shot | Ammunition (range 100/400 ft.), Heavy, Loading, Two-handed |
 | Greatbow | 100 gp | 2d6 piercing | 5 lb. | — | Ammunition (range 100/800 ft.), Heavy (STR 13), Two-handed |
@@ -131,7 +132,7 @@ Martial weapons, including swords, axes, and polearms, require training to use e
 
 \* The listings for “Pistol sword, pistol” and “Pistol sword, sword” are the same item showing different attack modes.
 
-%% sources: Player's Guide 2: Axespear, Bladed Whip, Boomerang, Chain Hook, Chakram, Club Shield, Double Axe, Gauntlet, Gauntlet, Spiked, Greatbow, Joining Dirks, Khopesh, Light Pick, Parrying Dagger, Repeating Crossbow, Shashka, Temple Sword, Wrist Knife; Northlands Worldbook: Atgeir, Bearded Axe, Breidox, Bryntroll, Seax, Snaerispear, Ulfberht Blade; Trade Secrets: Aruval, Bayonet, Bolo, Broadsword, Cat o’ nine tails, Fire lance, Gaff, Guisarme, Hairpin, Hot iron, Jitte, Katar, Lucerne hammer, Monkey’s fist, Pistol sword, pistol, Pistol sword, sword, Pitchfork, Poleaxe, Sabre, Throwing stick, Tiger claws, War fan; Book of Blades: Butterfly sword, Hook sword, Ji, Lasso, Nunchaku, Rope dart, Sai, Shuriken, Tonfa, Umbrella %%
+%% sources: Player's Guide 2: Axespear, Bladed Whip, Boomerang, Chain Hook, Chakram, Club Shield, Double Axe, Gauntlet, Gauntlet, Spiked, Greatbow, Joining Dirks, Khopesh, Light Pick, Parrying Dagger, Repeating Crossbow, Shashka, Temple Sword, Wrist Knife; Northlands Worldbook: Atgeir, Bearded Axe, Breidox, Bryntroll, Seax, Snaerispear, Ulfberht Blade; Trade Secrets: Aruval, Bayonet, Bolo, Broadsword, Cat o’ nine tails, Fire lance, Gaff, Guisarme, Hairpin, Hot iron, Jitte, Katar, Lucerne hammer, Monkey’s fist, Pistol sword, pistol, Pistol sword, sword, Pitchfork, Poleaxe, Sabre, Throwing stick, Tiger claws, War fan; Vault of Magic: Bolas; Book of Blades: Butterfly sword, Hook sword, Ji, Lasso, Nunchaku, Rope dart, Sai, Shuriken, Tonfa, Umbrella %%
 
 ## Weapon Descriptions
 
@@ -146,6 +147,8 @@ Martial weapons, including swords, axes, and polearms, require training to use e
 ***Bearded Axe.*** The hook-shaped “beard” at the lower edge of the head of a bearded axe gives it its characteristic silhouette and provides a larger cutting edge than standard battle axes without excessively increasing its weight. %% source: Northlands Worldbook %%
 
 ***Bladed Whip (Martial Melee).*** This whip has small razors braided into rigid strips of leather, providing it with a slashing edge. %% source: Player's Guide 2 %%
+
+***Bolas (Martial Ranged).*** A bolas is a set of weighted cords thrown to tangle a creature's legs. *Special.* A Medium or smaller creature hit by a bolas must succeed on a DC 10 STR save or have its speed reduced to 0 and fall [[Conditions#Prone|prone]] until it is freed. A bolas has no effect on formless creatures or creatures that are Large or larger. A creature can use its action to make a DC 10 STR check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the bolas (AC 10) also frees the creature without harming it. %% source: Vault of Magic %%
 
 ***Bolo (Simple Ranged).*** A typical bolo has three weighted lines connected to a central ring or knot. When thrown correctly the lines spread out evenly and spin. A bolo can trip up a moving target wrapping around the runner’s legs. %% source: Trade Secrets %%
 
