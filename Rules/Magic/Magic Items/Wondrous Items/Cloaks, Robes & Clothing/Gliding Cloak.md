@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp*
 
 By grasping the ends of the cloak while falling, you can glide up to 5 feet horizontally in any direction for every 1 foot you fall. You descend 60 feet per round but take no damage from falling while gliding in this way.
 

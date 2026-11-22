@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 350 gp*
 
 This small, black bead measures 3/4 of an inch in diameter and weights an ounce. Typically, 1d4 + 1 beads of exsanguination are found together. When thrown, the bead absorbs hit points from creatures near its impact site, damaging them. A bead can store up to 50 hit points at a time. When found, a bead contains 2d10 stored hit points.
 

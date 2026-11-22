@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Common]] (+1), Uncommon (+2), or Rare (+3) ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Ranger]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Common]] (+1), Uncommon (+2), or Rare (+3) 100 gp (+1) or 1,000 gp (+2) or 5,000 gp (+3) ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Ranger]])*
 
 This small fetish is made out of bones, feathers, and semi-precious gems. Typically worn around the neck, this charm can also be wrapped around your brow or wrist or affixed to a weapon.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, Rarity Varies ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, Rarity Varies 50 gp (crawling) or 1,000 gp (sturdy) ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This unusual cloak is made of many overlapping, broad strips of thick cloth.
 

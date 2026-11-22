@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] 100,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 The swirling gold bands of this crown recall the shape of desert dunes, and dozens of tiny emeralds, rubies, and sapphires nest among the skillfully forged curlicues. While wearing the crown, you gain the following benefits:
 

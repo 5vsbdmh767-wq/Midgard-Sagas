@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 While wearing this midnight-blue mantle covered in writhing runes, you gain a +1 bonus to saves, and if you succeed on a save against a spell that allows you to make a save to take only half the damage or suffer partial effects, you instead take no damage and suffer none of the spell’s effects.
 

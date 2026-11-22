@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Common]] 100 gp*
 
 These rawhide straps have lines of crimson runes running along their length. They require 10 minutes of bathing them in salt water before carefully wrapping them around your forearms.
 

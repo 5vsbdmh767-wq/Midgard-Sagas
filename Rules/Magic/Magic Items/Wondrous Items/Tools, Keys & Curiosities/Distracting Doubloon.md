@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Common]] 50 gp*
 
 This gold coin is plain and matches the dominant coin of the region. Typically, 2d6 distracting doubloons are found together.
 

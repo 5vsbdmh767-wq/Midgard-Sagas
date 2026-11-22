@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 60,000 gp*
 
 This gold coin bears the face of a leering devil on the obverse. If it is placed among other coins, it changes its appearance to mimic its neighbors, doing so over the course of 1 hour. This is a purely cosmetic change, and it returns to its original appearance when grasped by a creature with an INT of 5 or higher.
 

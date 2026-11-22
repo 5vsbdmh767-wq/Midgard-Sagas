@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 120,000 gp*
 
 The broad, shallow bowl of this silver chalice rests in the outstretched wings of the raven figure that serves as the chalice's stem. The raven’s talons, perched on a branch, serve as the chalice’s base. A pair of interlocking gold rings adorn the sides of the bowl.
 

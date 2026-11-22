@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 120,030 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 The deep blue pearls forming the core of these earrings come from oysters that survive being struck by lightning. While wearing these earrings, you gain the following benefits:
 

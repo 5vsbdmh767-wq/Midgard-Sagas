@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 5,000 gp*
 
 This tome contains information and incantations necessary to make a vine golem. To decipher and use the manual, you must be a druid with at least two 3rd-circle spell slots. A creature that can’t use a *manual of vine golems* and attempts to read it takes 4d6 psychic damage.
 

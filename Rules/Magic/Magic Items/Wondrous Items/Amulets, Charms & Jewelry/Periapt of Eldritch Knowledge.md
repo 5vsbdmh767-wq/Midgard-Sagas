@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)*
 
 This pendant consists of a hollow metal cylinder on a fine, silver chain and is capable of holding one scroll. When you put a spell scroll in the pendant, it is added to your list of known or prepared spells, but you must still expend a spell slot to cast it. If the spell has more powerful effects when cast at a higher circle, you can expend a spell slot of a higher circle to cast it. If you have metamagic options, you can apply any metamagic option you know to the spell, expending sorcery points as normal. When you cast the spell, the spell scroll isn’t consumed.
 

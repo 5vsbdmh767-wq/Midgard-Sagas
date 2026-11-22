@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 60,005 gp ([[Using Magic Items#Attunement|Requires Attunement]])* %% cursed: listed at half price %%
 
 Donning this thorny wooden circlet causes it to meld with your scalp. It can be removed only upon your death or by a *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell. The cap ingests some of your blood, dealing 2d4 piercing damage. After this first feeding, the thorns feed once per day for 1d4 piercing damage.
 

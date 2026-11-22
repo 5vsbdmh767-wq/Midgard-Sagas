@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Artifact]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Artifact]] Priceless*
 
 Thousands of years ago, a powerful alkemancer named Anuraag constructed an enormous crucible in his quest to create the perfect organism. He hoped it would bring forth an immortal being that could surpass the limitations imposed by human flesh and surpass even the gods. Anuraag used the crucible to create so many monstrosities that eventually the local deities had to take action against him. The alkemancer was destroyed for his impertinence, and his crucible was sealed away at the bottom of a mighty chasm.
 

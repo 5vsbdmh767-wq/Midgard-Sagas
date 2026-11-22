@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,000 gp*
 
 This 8-inch diameter mirror is set in a delicate, silver frame. While holding this mirror within 30 feet of another mirror, you can spend 10 minutes magically connecting the *mirror of eavesdropping* to that other mirror. The mirror of eavesdropping can be connected to only one mirror at a time.
 

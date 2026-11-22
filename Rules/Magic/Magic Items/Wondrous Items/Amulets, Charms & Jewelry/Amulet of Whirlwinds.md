@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 17,600 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This amulet is strung on a brass necklace and holds a piece of djinn magic. The amulet has 9 charges. You can use an action to expend 1 of its charges to create a whirlwind on a point you can see within 60 feet of you. The whirlwind is a 5-foot-radius, 30-foot-tall cylinder of swirling air that lasts as long as you maintain concentration (as if concentrating on a spell).
 

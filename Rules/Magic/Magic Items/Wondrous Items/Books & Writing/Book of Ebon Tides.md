@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Wizard]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 120,050 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Wizard]])*
 
 This strange, twilight-hued tome was written on pages of pure shadow weave, bound in traditional birch board covers wrapped with shadow goblin hide, and imbued with the memories of forests on the [[The Shadow Realm|Plane of Shadow]]. Its covers often reflect light as if it were resting in a forest grove, and some owners swear that a goblin face appears on them now and again. The sturdy lock on one side opens only for wizards, elves, and shadow fey.
 

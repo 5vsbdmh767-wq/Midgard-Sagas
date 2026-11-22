@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] 200,040 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This black cloak appears to be made of pure shadow and shrouds you in darkness. While wearing it, you gain the following benefits:
 

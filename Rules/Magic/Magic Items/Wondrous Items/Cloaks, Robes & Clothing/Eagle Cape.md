@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 100,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 The exterior of this silk cape is lined with giant eagle feathers. When you fall while wearing this cape, you descend 60 feet per round, take no damage from falling, and always land on your feet.
 

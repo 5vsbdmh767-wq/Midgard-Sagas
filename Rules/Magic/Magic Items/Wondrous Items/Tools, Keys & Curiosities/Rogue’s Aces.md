@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 400 gp*
 
 These four, colorful parchment cards have long bailed the daring out of hazardous situations. You can use an action to flip a card face-up, activating it. A card is destroyed after it activates.
 

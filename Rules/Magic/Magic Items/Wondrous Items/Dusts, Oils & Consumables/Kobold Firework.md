@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, Rarity Varies* %% price pending %%
+*Wondrous Item, Rarity Varies 50 gp (fairy sparkler) or 100 gp (deafening kobold-barker) or 100 gp (enchanting elf-fountain) or 200 gp (blinding goblin-cracker) or 350 gp (priest light) or 350 gp (snake fountain) or 1,500 gp (red dragon’s breath)*
 
 These small pouches and cylinders are filled with magical powders and reagents, and they each have a small fuse protruding from their closures. You can use an action to light a firework then throw it up to 30 feet. The firework activates immediately or on initiative count 20 of the following round, as detailed below. Once a firework’s effects end, it is destroyed. A firework can’t be lit underwater, and submersion in water destroys a firework. A lit firework can be destroyed early by dousing it with at least 1 gallon of water.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Common]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Common]] 100 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 After you pour these magic caltrops out of the bag into an area, you can use a bonus action to animate them and command them to move up to 10 feet to occupy a different square area that is 5 feet on a side.
 

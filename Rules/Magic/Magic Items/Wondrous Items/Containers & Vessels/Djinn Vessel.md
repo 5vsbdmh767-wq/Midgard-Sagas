@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,040 gp*
 
 A rough predecessor to the *[[Ring of Djinni Summoning|ring of djinni summoning]]* and the ring elemental command, this clay vessel is approximately a foot long and half as wide. An iron stopper engraved with a rune of binding seals its entrance.
 

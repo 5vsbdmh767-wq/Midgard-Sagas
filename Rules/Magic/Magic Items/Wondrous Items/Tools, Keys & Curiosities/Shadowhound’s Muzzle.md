@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This black leather muzzle seems to absorb light. As an action, you can place this muzzle around the snout of a [[Conditions#Grappled|grappled]], [[Conditions#Unconscious|unconscious]], or willing canine with an INT of 3 or lower, such as a mastiff or wolf. The canine transforms into a shadowy version of itself for 1 hour. It uses the statistics of a shadow, except it retains its size. It has its own turns and acts on its own initiative. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to it, it defends itself from hostile creatures, but otherwise takes no actions.
 

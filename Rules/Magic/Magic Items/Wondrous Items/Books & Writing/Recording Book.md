@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This book, which hosts a dormant bookkeeper, appears to be a journal filled with empty pages. You can use an action to place the open book on a surface and speak its command word to activate it. It remains active until you use an action to speak the command word again.
 

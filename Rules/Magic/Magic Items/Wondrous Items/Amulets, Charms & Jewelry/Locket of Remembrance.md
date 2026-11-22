@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,030 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 You can place a small keepsake of a creature, such as a miniature portrait, a lock of hair, or similar item, within the locket. The keepsake must be willingly given to you or must be from a creature personally connected to you, such as a relative or lover.
 

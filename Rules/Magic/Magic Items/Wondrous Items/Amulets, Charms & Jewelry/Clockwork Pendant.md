@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,030 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This pendant resembles an ornate, miniature clock and has 3 charges. While holding this pendant, you can expend 1 charge as an action to cast the blur, haste, or *[[3rd-Circle Spells#Slow|slow]]* spell (save DC 15) from it. The spell’s duration changes to 3 rounds, and it doesn’t require concentration. You can have only one spell active at a time. If you cast another, the previous spell effect ends. It regains 1d3 expended charges daily at dawn.
 

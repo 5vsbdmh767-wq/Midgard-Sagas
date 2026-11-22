@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 16,000 gp*
 
 This red and white flag adorned with a white anchor is made of velvet that never seems to fray in strong wings. When mounted and flown on a ship, the flag changes to the colors and symbol of the ship’s captain and crew.
 

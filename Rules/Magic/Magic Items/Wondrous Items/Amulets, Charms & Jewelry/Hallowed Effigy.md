@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 17,600 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This foot-long totem, crafted from the bones and skull of a Tiny woodland beast bound in thin leather strips, serves as a boon for you and your allies and as a stinging trap to those who threaten you. The totem has 10 charges, and it regains 1d6 + 4 expended charges daily at dawn. If the last charge is expended, it can’t regain charges again until a druid performs a 24-hour ritual, which involves the sacrifice of a Tiny woodland beast.
 

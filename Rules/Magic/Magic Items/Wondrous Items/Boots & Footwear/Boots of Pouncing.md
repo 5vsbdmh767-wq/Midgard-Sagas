@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 These soft leather boots have a collar made of albino death weasel fur. While you wear these boots, your walking speed becomes 40 feet, unless your walking speed is higher. Your speed is still reduced if you are encumbered or wearing heavy armor.
 

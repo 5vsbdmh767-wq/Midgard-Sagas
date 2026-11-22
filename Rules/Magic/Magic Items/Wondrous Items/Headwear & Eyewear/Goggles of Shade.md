@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,000 gp*
 
 While wearing these dark lenses, you have advantage on CHA (Deception) checks. If you have the Sunlight Sensitivity trait and wear these goggles, you no longer suffer the penalties of Sunlight Sensitivity while in sunlight.
 

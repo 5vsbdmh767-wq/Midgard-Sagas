@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 120,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 While lit, the flame in this ornate mithril lantern turns blue and sheds a cold, blue dim light in a 30-foot radius. After the lantern’s flame has burned for 1 hour, it can’t be lit again until the next dawn. You can extinguish the lantern’s flame early for use at a later time. Deduct the time it burned in increments of 1 minute from the lantern’s total burn time.
 

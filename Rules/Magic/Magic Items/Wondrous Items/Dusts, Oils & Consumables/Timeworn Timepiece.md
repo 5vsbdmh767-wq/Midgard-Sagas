@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,400 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This tarnished silver pocket watch seems to be temporally displaced and allows for limited manipulation of time.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 200 gp*
 
 These magical beans have a modest ochre or umber hue, and they are about the size and weight of walnuts. Typically, 1d4 + 4 umber beans are found together.
 

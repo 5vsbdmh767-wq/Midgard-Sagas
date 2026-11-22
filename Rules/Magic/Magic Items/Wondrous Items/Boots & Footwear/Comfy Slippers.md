@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Common]] 50 gp*
 
 While wearing the slippers, your feet feel warm and comfortable, no matter what the ambient temperature.
 

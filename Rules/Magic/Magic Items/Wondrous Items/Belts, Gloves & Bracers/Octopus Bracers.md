@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 These bronze bracers are etched with depictions of frolicking octopuses. While wearing these bracers, you can use an action to speak their command word and transform your arms into tentacles. You can use a bonus action to repeat the command word and return your arms to normal.
 

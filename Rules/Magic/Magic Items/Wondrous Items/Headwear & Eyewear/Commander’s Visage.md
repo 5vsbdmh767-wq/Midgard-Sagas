@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 66,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This golden mask resembles a stern face, glowering at the world. While wearing this mask, you have advantage on saves against being [[Conditions#Frightened|frightened]]. The mask has 7 charges for the following properties, and it regains 1d6 + 1 expended charges daily at midnight.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp*
 
 This ornate brass lantern comes fitted with heavily inscribed plates shielding the cut crystal lens. With a flick of a lever, as an action, the plates rise and unleash a dazzling array of lights at a single target within 30 feet.
 

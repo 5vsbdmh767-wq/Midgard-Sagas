@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,010 gp*
 
 This parrot is carved from bits of whalebone and decorated with bright feathers and tiny jewels. You can use an action to affix the parrot to your shoulder or arm. While the parrot is affixed, you gain the following benefits:
 

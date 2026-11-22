@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,030 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This wool brocade cloak features a repeating pattern of squirrel heads and tree branches. It has 3 charges and regains all expended charges daily at dawn.
 

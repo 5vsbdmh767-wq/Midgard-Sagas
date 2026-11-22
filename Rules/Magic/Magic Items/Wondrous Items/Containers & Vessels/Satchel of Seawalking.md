@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 500 gp*
 
 This eel-hide leather pouch is always filled with an unspeakably foul-tasting, coarse salt. You can use an action to toss a handful of the salt onto the surface of an unoccupied space of water. The water in a 5-foot cube becomes solid for 1 minute, resembling greenish-blue glass. This cube is buoyant and can support up to 750 pounds. When the duration expires, the hardened water cracks ominously and returns to a liquid state.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Cleric]] or [[Wizard]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 200,050 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Cleric]] or [[Wizard]])*
 
 This book has a black leather cover with silver bindings and a silver front plate. Void Speech glyphs adorn the front plate, which is pitted and tarnished. The pages are thin sheets of corrupted brass and are inscribed with more blasphemous glyphs. While you are attuned to the lexicon, you can speak, read, and write Void Speech, and you know the *[[Cantrips#Crushing Curse|crushing curse]]** cantrip. At the GM’s discretion, you know the *[[Cantrips#Grave Touch|grave touch]]* cantrip instead.
 

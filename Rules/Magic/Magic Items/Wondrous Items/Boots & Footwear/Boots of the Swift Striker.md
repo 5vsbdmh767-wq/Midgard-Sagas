@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 While you wear these boots, your walking speed increases by 10 feet. In addition, when you take the Dash action while wearing these boots, you can make a single weapon attack at the end of your movement. You can’t continue moving after making this attack.
 

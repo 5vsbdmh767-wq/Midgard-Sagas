@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 33,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This lens is rainbow-hued and protected by a sturdy leather case. It has 4 charges, and it regains 1d3 + 1 expended charges daily at dawn. As an action, you can hold the lens to your eye, speak its command word, and expend 2 charges to cause one of the following effects:
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Cleric]], [[Druid]], [[Paladin]], or [[Wizard]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] 200,050 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Cleric]], [[Druid]], [[Paladin]], or [[Wizard]])*
 
 The gilded pages of this holy tome are bound between thin plates of moonstone crystal that emit a gentle incandescence. Aureate celestial runes adorn nearly every inch of its blessed surface.
 

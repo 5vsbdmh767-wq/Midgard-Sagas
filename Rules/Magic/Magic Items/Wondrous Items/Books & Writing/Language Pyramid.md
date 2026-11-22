@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,800 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Script from dozens of languages flows across this sandstone pyramid’s surface. While holding or carrying the pyramid, you understand the literal meaning of any spoken language that you hear. In addition, you understand any written language that you see, but you must be touching the surface on which the words are written. It takes 1 minute to read one page of text.
 

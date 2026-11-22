@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,400 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]])*
 
 Any stringed instrument can be a harmonizing instrument, and you must be proficient with stringed instruments to use a harmonizing instrument. This instrument has 3 charges for the following properties. The instrument regains 1d3 expended charges daily at dawn.
 

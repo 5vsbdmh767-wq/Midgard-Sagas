@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] 200,090 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This fragmentary black book is reputed to descend from the realms of [[Legendary Places of the North|Hyperborea]]. It contains puzzling guidelines for frightful necromantic rituals and maddening interdimensional travel.
 

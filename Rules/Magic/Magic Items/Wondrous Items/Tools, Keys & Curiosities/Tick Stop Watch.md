@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,000 gp*
 
 While holding this silver pocketwatch, you can use an action to magically stop a single clockwork device or construct within 10 feet of you. If the target is an object, it freezes in place, even mid-air, for up to 1 minute or until moved. If the target is a construct, it must succeed on a DC 15 WIS save or be [[Conditions#Paralyzed|paralyzed]] until the end of its next turn. The pocketwatch can’t be used this way again until the next dawn.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 100 gp*
 
 This leathery mass of dried meat was once a humanoid heart, taken from an individual that died while experiencing great terror. You can use an action to whisper a command word and hurl the heart to the ground, where it revitalizes and begins to beat rapidly and loudly for 1 minute. Each creature within 30 feet of the heart has disadvantage on saves against being [[Conditions#Frightened|frightened]]. At the end of the duration, the heart bursts from the strain and is destroyed.
 

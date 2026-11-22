@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,000 gp*
 
 This plumage, a colorful bouquet of tropical hat feathers, has a small pin at its base and can be affixed to any hat or headband. Due to its distracting, ostentatious appearance, creatures hostile to you have disadvantage on opportunity attacks against you.
 

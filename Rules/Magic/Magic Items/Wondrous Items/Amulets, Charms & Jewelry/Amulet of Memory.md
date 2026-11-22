@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,020 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Made of gold or silver, this spherical locket is engraved with two cresting waves facing away from each other while bound in a twisted loop. It preserves a memory to be reexperienced later.
 

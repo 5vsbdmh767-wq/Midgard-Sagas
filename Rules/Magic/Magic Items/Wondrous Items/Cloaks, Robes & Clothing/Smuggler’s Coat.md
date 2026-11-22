@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 30,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 When you attune yourself to this coat, it conforms to you in a color and style of your choice. It has no visible pockets, but they appear if you place your hands against the side of the coat and expect pockets. Once your hand is withdrawn, the pockets vanish and take anything placed in them to an extradimensional space. The coat can hold up to 40 pounds of material in up to 10 different extradimensional pockets. Nothing can be placed inside the coat that won’t fit in a pocket. Retrieving an item from a pocket requires you to use an action. When you reach into the coat for a specific item, the correct pocket always appears with the desired item magically on top.
 

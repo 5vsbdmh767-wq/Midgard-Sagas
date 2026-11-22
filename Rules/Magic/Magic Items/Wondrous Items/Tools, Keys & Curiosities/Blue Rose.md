@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 650 gp*
 
 The petals of this cerulean flower can be prepared into a compote and consumed. A single flower can make 3 doses. When you consume a dose, your INT, WIS, and CHA scores are reduced by 1 each. This reduction lasts until you finish a long rest. You can consume up to three doses as part of casting a spell, and you can choose to affect your spell with one of the following options for each dose you consumed:
 
@@ -15,9 +15,9 @@ The petals of this cerulean flower can be prepared into a compote and consumed. 
 
 In addition, consuming blue rose gives you some protection against spells. When a spellcaster you can see casts a spell, you can use your reaction to cause one of the following:
 
-- You have advantage on the save against the spell ifit is a spell of the abjuration school.
+- You have advantage on the save against the spell if it is a spell of the abjuration school.
 
-If the spell is counterspell or dispel magic, the DC increases by 2 to interrupt your spellcasting or to end a magic effect on you. You can use this reaction a number of times equal to the number of doses you consumed.
+- If the spell is *[[3rd-Circle Spells#Counterspell|counterspell]]* or *[[3rd-Circle Spells#Dispel Magic|dispel magic]]*, the DC increases by 2 to interrupt your spellcasting or to end a magic effect on you. You can use this reaction a number of times equal to the number of doses you consumed.
 
 ***Blue Rose Addiction.*** Blue rose is a highly addictive substance. You must succeed on a DC 13 CON save each time you consume a dose of it or become addicted. It takes 1d4 days for blue rose addiction’s symptoms to manifest in a creature. Symptoms include fatigue and nausea. You suffer one level of exhaustion, and you regain only half the normal number of hit points from spending Hit Dice and no hit points from finishing a long rest.
 

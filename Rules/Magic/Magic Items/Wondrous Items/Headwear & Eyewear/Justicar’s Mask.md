@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This stern-faced mask is crafted of silver. While wearing the mask, your gaze can root enemies to the spot. When a creature that can see the mask starts its turn within 30 feet of you, you can use a reaction to force it to make a DC 15 WIS save, if you can see the creature and aren’t [[Conditions#Incapacitated|incapacitated]]. On a failure, the creature is [[Conditions#Restrained|restrained]]. The creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Otherwise, the condition lasts until removed with the *[[3rd-Circle Spells#Dispel Magic|dispel magic]]* spell or until you end it (no action required).
 

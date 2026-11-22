@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 30,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This mithral and gold lantern is emblazoned with a sunburst symbol. While holding the lantern, you have advantage on WIS (Insight) and INT (Investigation) checks. As a bonus action, you can speak a command word to cause one of the following effects:
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 100 gp*
 
 This small apple-sized globule is made from a highly reflective silver material and has a single, golden rune etched on it. Typically, 1d4 + 4 radiance bombs are found together.
 

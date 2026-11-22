@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 16,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 You gain a +1 bonus to AC while wearing this long, flowing cloak. Whenever you are within 10 feet of more than two creatures, it subtly and slowly shifts its color to whatever the creatures nearest you find the most irritating.
 

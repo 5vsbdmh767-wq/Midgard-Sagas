@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, Rarity Varies* %% price pending %%
+*Wondrous Item, Rarity Varies 100 gp (anguish) or 350 gp (pain) or 1,500 gp (rage)*
 
 A murky liquid or smoke churns inside this small, glass globe. Typically, 1d3 primal dooms are found together.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 60,000 gp*
 
 This foot-long box is 6 inches wide and 6 inches deep. With 1 minute of work, the box’s poles and multicolored silks can be unfolded into a pavilion expansive enough to sleep eight Medium or smaller creatures comfortably. The pavilion can stand in winds of up to 60 miles per hour without suffering damage or collapsing, and its interior remains comfortable and dry no matter the weather conditions or temperature outside.
 

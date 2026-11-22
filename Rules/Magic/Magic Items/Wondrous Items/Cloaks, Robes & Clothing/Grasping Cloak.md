@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Made of strips of black leather, this cloak always shines as if freshly oiled. The strips writhe and grasp at nearby creatures. While wearing this cloak, you can use a bonus action to command the strips to grapple a creature no more than one size larger than you within 5 feet of you. The strips make the grapple attack roll with a +7 bonus. On a hit, the target is [[Conditions#Grappled|grappled]] by the cloak, leaving your hands free to perform other tasks or actions that require both hands. However, you are still considered to be grappling a creature, limiting your movement as normal. The cloak can grapple only one creature at a time.
 

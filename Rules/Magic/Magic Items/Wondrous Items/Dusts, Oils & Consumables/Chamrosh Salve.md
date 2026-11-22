@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 350 gp*
 
 This 3-inch-diameter ceramic jar contains 1d4 + 1 doses of a syrupy mixture that smells faintly of freshly washed dog fur. The jar is a glorious gold-white, resembling the shimmering fur of a chamrosh, the holy hound from which this salve gets its name.
 

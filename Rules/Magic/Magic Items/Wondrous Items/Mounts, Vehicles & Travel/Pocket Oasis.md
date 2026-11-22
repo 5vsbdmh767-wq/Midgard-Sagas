@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 100,000 gp*
 
 When you unfold and throw this 5-foot by 5-foot square of black cloth into the air as an action, it creates a portal to an oasis hidden within an extra-dimensional space. A pool of shallow, fresh water fills the center of the oasis, and bountiful fruit and nut trees grow around the pool. The fruits and nuts from the trees provide enough nourishment for up to 10 Medium creatures. The air in the oasis is pure, cool, and even a little crisp, and the environment is free from harmful effects.
 

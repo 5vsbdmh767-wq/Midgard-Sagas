@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)*
 
 This small bauble consists of a flat crescent, which binds a small disc that freely spins in its housing. Each side of the disc is intricately etched with an incomplete pillar and pyre.
 

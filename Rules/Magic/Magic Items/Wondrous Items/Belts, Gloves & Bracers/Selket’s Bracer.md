@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 66,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This bronze bracer is crafted in the shape of a scorpion, its legs curled around your wrist, tail raised and ready to strike. While wearing this bracer, you are immune to the [[Conditions#Poisoned|poisoned]] condition.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This well-crafted cap appears to be standard wear for academics. Embroidered on the edge of the inside lining in green thread are sigils. If you cast *[[1st-Circle Spells#Comprehend Languages|comprehend languages]]* on them, they read, “They that are guided go not astray.”
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] 200,070 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This egg-shaped red and black stone is hot to the touch. An ancient, fossilized phoenix egg, the stone holds the burning essence of life and rebirth. While you are carrying the stone, you have resistance to fire damage.
 

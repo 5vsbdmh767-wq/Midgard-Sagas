@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 4,000 gp*
 
 This stoppered jar holds small animated knives and scissors. The jar weighs 1 pound, and its command word is often written on the jar’s label.
 

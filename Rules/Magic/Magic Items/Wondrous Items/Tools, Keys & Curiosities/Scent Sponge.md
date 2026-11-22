@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp*
 
 This sea sponge collects the scents of creatures and objects. You can use an action to touch the sponge to a creature or object, and the scent of the target is absorbed into the sponge. An unwilling target can make a DC 13 DEX save, and if it succeeds, it is unaffected by the sponge. For 1 hour after its scent has been absorbed, the target gives off no smell and can’t be detected or tracked by creatures, spells, or other effects that rely on smell to detect or track the target.
 

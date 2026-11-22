@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 These copper and glass goggles are prized by air and sea captains across the world. The goggles are designed to repel water and never fog. After attuning to the goggles, your name (or preferred moniker) appears on the side of the goggles. While wearing the goggles, you can’t suffer from exhaustion.
 

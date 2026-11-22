@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,200 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This stone is carved from [[Conditions#Petrified|petrified]] roots to reflect the shape and visage of a beast. The stone holds the spirit of a sacrificed beast of the type the stone depicts. A wraithstone is often created to grant immortal life to a beloved animal companion or to banish a troublesome predator. The creature’s essence stays within until the stone is broken, upon which point the soul is released and the creature can’t be resurrected or reincarnated by any means short of a *[[9th-Circle Spells#Wish|wish]]* spell.
 

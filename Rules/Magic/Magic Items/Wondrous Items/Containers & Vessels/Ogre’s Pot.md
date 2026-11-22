@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This cauldron boils anything placed inside it, whether venison or timber, to a vaguely edible paste. A spoonful of the paste provides enough nourishment to sustain a creature for one day.
 

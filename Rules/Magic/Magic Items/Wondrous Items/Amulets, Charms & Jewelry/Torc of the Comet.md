@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,800 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This silver torc is set with a large opal on one end, and it thins to a point on the other. While wearing the torc, you have resistance to cold damage, and you can use an action to speak the command word, causing the torc to shed bluish-white bright light in a 20-foot radius and dim light for an additional 20 feet. The light lasts until you use a bonus action to speak the command word again.
 

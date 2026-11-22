@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 350 gp*
 
 This swirling liquid is the collected memory of a mortal who willingly traded that memory away to the fey. When you touch the philter, you feel a flash of the emotion contained within. You can unstopper and pour out the philter as an action, unless otherwise specified. The philter’s effects take place immediately, either on you or on a creature you can see within 30 feet (your choice). If the target is unwilling, it can make a DC 15 WIS save to resist the effect of the philter. A creature affected by a philter experiences the memory contained in the vial.
 
@@ -17,7 +17,7 @@ A memory philter can be used only once, but the vial can be reused to store a ne
 
 ***Righteous Wrath.*** When you activate this philter, each creature other than you within 30 feet must succeed on a DC 15 WIS save or be overcome by burning ferocity until the start of your next turn. On its turn, an affected creature must attack a foe if it is able, and every attack made by an affected creature that hits is automatically a critical hit. To create this philter, a humanoid must sacrifice all memory of a great victory in battle.
 
-***Widow’s Tears.*** A creature you can see within 30 feet is overcome by devastating grief. The target is [[Conditions#Stunned|stunned]] for 1 minute. It can repeat the save at the end of each of its turns, ending the effect on itself on a success. To creature this philter, a humanoid must sacrifice all memory of a deceased loved one.
+***Widow’s Tears.*** A creature you can see within 30 feet is overcome by devastating grief. The target is [[Conditions#Stunned|stunned]] for 1 minute. It can repeat the save at the end of each of its turns, ending the effect on itself on a success. To create this philter, a humanoid must sacrifice all memory of a deceased loved one.
 
 ***Youthful Joy.*** The target regains 3d8 + 6 hit points and reduces its exhaustion level by one. To create this philter, a humanoid must sacrifice a favored childhood memory.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 30,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])* %% cursed: listed at half price %%
 
 This garment is made of living plants—mosses, vines, and grasses—interwoven into a light, comfortable piece of clothing. When you attune to this mantle, it forms a symbiotic relationship with you, sinking roots beneath your skin. While wearing the mantle, your hit point maximum is reduced by 5, and you gain the following benefits:
 

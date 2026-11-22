@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 100 gp*
 
 This small brass pellet measures 1/2 of an inch in diameter. Typically, 1d6 + 4 sleep pellets are found together. You can use the pellet as a sling bullet and shoot it at a creature using a sling. On a hit, the pellet is destroyed, and the target must succeed on a DC 13 CON save or fall [[Conditions#Unconscious|unconscious]] for 1 minute.
 

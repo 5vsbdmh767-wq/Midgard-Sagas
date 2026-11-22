@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 2,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 An intricately depicted replica of an eyeball, right down to the blood vessels and other fine details, this item is carved from sacred hardwoods by soothsayers using a specialized ceremonial blade handcrafted specifically for this purpose.
 

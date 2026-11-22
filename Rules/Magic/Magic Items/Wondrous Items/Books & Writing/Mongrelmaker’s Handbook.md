@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 30,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This thin volume holds a scant few dozen vellum pages between its mottled, scaled cover. The pages are scrawled with tight, efficient text which is broken up by outlandish pencil drawings of animals and birds combined together.
 

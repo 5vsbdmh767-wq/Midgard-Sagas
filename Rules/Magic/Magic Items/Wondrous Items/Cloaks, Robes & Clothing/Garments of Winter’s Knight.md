@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] 50,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])* %% cursed: listed at half price %%
 
 This white-and-blue outfit is designed in the style of fey nobility and maximized for both movement and protection. The multiple layers and snow-themed details of this garb leave no doubt that whoever wears these clothes is associated with the winter queen of faerie. You gain the following benefits while wearing the outfit:
 

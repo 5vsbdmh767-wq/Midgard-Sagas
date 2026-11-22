@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Cleric]] or [[Paladin]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Cleric]] or [[Paladin]])*
 
 This small rug is woven with intricate patterns that depict religious iconography. When you attune to it, the iconography and the mat’s colors change to the iconography and colors most appropriate for your deity.
 

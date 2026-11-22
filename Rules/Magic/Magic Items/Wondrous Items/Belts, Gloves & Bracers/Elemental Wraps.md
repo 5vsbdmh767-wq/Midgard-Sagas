@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 66,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 These cloth arm wraps are decorated with elemental symbols depicting flames, lightning bolts, snowflakes, and similar. You have resistance to acid, cold, fire, lightning, or thunder damage while you wear these arm wraps. You choose the type of damage when you first attune to the wraps, and you can choose a different type of damage at the end of a short or long rest.
 

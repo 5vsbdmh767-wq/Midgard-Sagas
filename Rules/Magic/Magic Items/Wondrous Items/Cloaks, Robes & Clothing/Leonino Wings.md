@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This cloak is decorated with the spotted white and brown pattern of a barn owl’s wing feathers. While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of a leonino’s owl-like feathered wings until you repeat the command word as an action. The wings give you a flying speed equal to your walking speed, and you have advantage on DEX (Stealth) checks made while flying in forests and urban settings. In addition, when you fly out of an enemy’s reach, you don’t provoke opportunity attacks.
 

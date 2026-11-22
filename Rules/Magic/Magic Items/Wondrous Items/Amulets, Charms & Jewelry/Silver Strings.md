@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]])*
 
 These silver wires magically adjust to fit any stringed instrument, making its sound richer and more melodious. You have advantage on CHA (Performance) checks made when playing the instrument.
 

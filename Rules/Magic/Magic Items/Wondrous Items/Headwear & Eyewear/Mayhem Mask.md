@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This goat mask with long, curving horns is carved from dark wood and framed in goat’s hair. While wearing this mask, you can use its horns to make unarmed strikes. When you hit with it, your horns deal piercing damage equal to 1d6 + your STR modifier, instead of bludgeoning damage normal for an unarmed strike. If you moved at least 15 feet straight toward the target before you attacked with the horns, the attack deals piercing damage equal to 2d6 + your STR modifier instead.
 

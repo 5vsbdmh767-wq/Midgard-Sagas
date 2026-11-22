@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This black iron armband bristles with long, needle-sharp iron thorns. When you attune to the armband, the thorns bite into your flesh. The armband doesn’t function unless the thorns pierce your skin and are able to reach your blood.
 

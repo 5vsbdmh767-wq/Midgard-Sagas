@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] 200,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This cap is a simple, blue silk hat with a goose feather trim. While wearing this cap, you have advantage on STR (Athletics) checks made to climb, and the cap deflects the first ranged attack made against you each round.
 

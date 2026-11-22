@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Common]] 50 gp*
 
 This is a set of well-worn but finely crafted fishing gear. You have advantage on any WIS (Survival) checks made to catch fish or other seafood when using it.
 

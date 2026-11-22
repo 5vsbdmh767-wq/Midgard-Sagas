@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 While wearing this cloak, you can use an action to transform into a mountain ram (use the statistics of a giant goat). This effect works like the *[[4th-Circle Spells#Polymorph|polymorph]]* spell, except you retain your INT, WIS, and CHA scores. You can use an action to transform back into your original form.
 

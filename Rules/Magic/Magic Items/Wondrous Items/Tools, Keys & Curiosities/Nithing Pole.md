@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 200 gp*
 
 This pole is crafted to exact retribution for an act of cowardice or dishonor. It’s a sturdy wooden stave, 6 to 10 feet long, carved with runes that name the dishonored target of the pole’s curse. The carved shaft is draped in horsehide, topped with a horse’s skull, and placed where its target is expected to pass by. Typically, the pole is driven into the ground or wedged into a rocky cleft in a remote spot where the intended victim won't see it until it’s too late.
 

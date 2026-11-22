@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 These white gloves have elegant tailoring and size themselves perfectly to fit your hands. The gloves must be attuned to a specific, habitable place with walls, a roof, and doors before you can attune to them. To attune the gloves to a location, you must leave the gloves in the location for 24 hours. Once the gloves are attuned to a location, you can attune to them.
 

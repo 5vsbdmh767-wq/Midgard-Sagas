@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 66,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Legends tell of a dragon whose hide was impenetrable and so tenacious that only a blow to the heart would kill it. An unnamed hero finally defeated it and tore its heart into two. The dragon’s name was lost, but its legacy remains. This magic amulet is one of two items that were crafted to hold its heart. An intricate engraving of a warrior’s sword piercing a dragon’s chest is detailed along the front of this untarnished silver locket. Within the locket is a clear crystal vial with a pulsing piece of a dragon’s heart. The pulses become more frequent when you are close to death.
 

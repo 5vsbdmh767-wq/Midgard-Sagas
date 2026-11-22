@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 120,080 gp*
 
 While wearing these steel-toed boots, the earth itself shakes when you walk, causing harmless, but unsettling, tremors. If you move at least 15 feet in a single turn, all creatures within 10 feet of you at any point during your movement must make a DC 16 STR save or take 1d6 force damage and fall [[Conditions#Prone|prone]].
 

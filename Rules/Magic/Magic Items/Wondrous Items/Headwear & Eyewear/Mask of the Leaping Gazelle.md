@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,000 gp*
 
 This painted wooden animal mask is adorned with a pair of gazelle horns. While wearing this mask, your walking speed increases by 10 feet, and your long jump is up to 25 feet with a 10-foot running start.
 

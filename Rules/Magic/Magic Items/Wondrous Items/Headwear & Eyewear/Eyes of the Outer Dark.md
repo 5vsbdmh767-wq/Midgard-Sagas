@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 60,090 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 These lenses are crafted of polished, opaque black stone. When placed over the eyes, however, they allow the wearer not only improved vision but glimpses into the vast emptiness between the stars.
 

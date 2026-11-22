@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,400 gp*
 
 This jar is made of beaten metal and engraved with honeybees. It has 7 charges, and it regains 1d6 + 1 expended charges daily at dawn. If you expend the jar’s last charge, roll a d20. On a 1, the jar shatters and loses all its magical properties.
 

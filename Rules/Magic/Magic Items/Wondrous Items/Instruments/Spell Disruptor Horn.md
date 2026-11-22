@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,000 gp*
 
 This horn is carved with images of a spellhound and invokes the antimagic properties of the hound’s howl. You use an action to blow this horn, which emits a high-pitched, multiphonic sound that disrupts all magical effects within 30 feet of you. Any spell of 3rd circle or lower in the area ends. For each spell of 4th circle or higher in the area, the horn makes a check with a +3 bonus. The DC equals 10 + the spell’s circle. On a success, the spell ends.
 

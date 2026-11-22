@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,005 gp ([[Using Magic Items#Attunement|Requires Attunement]])* %% cursed: listed at half price %%
 
 This polished orb of dark-green stone is latticed with pulsing crimson inclusions that resemble slowly dilating spatters of blood. While attuned to this orb, your hit point maximum can’t be reduced by the bite of a vampire, vampire spawn, or other vampiric creature.
 

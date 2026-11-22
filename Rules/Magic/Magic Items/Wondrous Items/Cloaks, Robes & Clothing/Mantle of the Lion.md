@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This splendid lion pelt is designed to be worn across the shoulders with the paws clasped at the base of the neck. While wearing this mantle, your speed increases by 10 feet, and the mantle’s lion jaws are a natural melee weapon, which you can use to make unarmed strikes. When you hit with it, the mantle’s bite deals piercing damage equal to 1d6 + your STR modifier, instead of the bludgeoning damage normal for an unarmed strike.
 

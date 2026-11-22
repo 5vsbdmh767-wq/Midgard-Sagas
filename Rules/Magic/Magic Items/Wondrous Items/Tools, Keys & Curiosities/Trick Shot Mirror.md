@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, Rarity Varies ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, Rarity Varies 1,100 gp (ricocheting) or 4,400 gp (spellbending) ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 A *trick shot mirror* is a round, steel-framed hand mirror with no handle, but its 5-inch diameter makes it easy to hold. A trick shot mirror comes in different styles, but each allows you to adjust the trajectory of an attack or spell. Each mirror has 3 charges, and it regains all expended charges daily at dawn.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Common]] 50 gp*
 
 Created by dwarven artisans, this leather apron has narrow pockets, which hold one type of artisan’s tools.
 

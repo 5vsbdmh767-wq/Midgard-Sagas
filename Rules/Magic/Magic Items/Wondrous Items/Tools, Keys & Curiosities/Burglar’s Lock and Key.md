@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 500 gp*
 
 This heavy iron lock bears a stout, pitted key permanently fixed in the keyhole. As an action, you can twist the key counterclockwise to instantly open one door, chest, bag, bottle, or container of your choice within 30 feet.
 

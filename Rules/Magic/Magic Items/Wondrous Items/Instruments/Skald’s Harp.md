@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 16,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]])*
 
 This ornate harp is fashioned from maple and engraved with heroic scenes of warriors battling trolls and dragons inlaid in bone. The harp is strung with fine silver wire and produces a sharp yet sweet sound. You must be proficient with stringed instruments to use this harp. When you play the harp, its music enhances some of your bard class features.
 

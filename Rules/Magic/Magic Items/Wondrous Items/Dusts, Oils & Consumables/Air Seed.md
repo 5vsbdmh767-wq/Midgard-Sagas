@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 100 gp*
 
 This plum-sized, nearly spherical sandstone is imbued with a touch of air magic. Typically, 1d4 + 4 air seeds are found together.
 

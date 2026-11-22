@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This heavy gauntlet is adorned with an onyx. While wearing this gauntlet, your unarmed strikes deal 1d8 bludgeoning damage, instead of the damage normal for an unarmed strike, and you gain a +1 bonus to attack and damage rolls with unarmed strikes. In addition, your unarmed strikes deal double damage to objects and structures.
 

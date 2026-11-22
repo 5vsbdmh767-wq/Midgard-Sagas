@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 650 gp*
 
 A *manual of the lesser golem* can be found in a book, on a scroll, etched into a piece of stone or metal, or scribed on any other medium that holds words, runes, and arcane inscriptions. Each manual of the lesser golem describes the materials needed and the process to be followed to create one type of lesser golem. The GM chooses the type of lesser golem detailed in the manual or determines the golem type randomly.
 

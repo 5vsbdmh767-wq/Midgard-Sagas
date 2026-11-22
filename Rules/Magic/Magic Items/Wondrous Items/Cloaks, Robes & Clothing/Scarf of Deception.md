@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,000 gp*
 
 While wearing this scarf, you appear different to everyone who looks upon you for less than 1 minute. In addition, you smell, sound, feel, and taste different to every creature that perceives you. Creatures with truesight or blindsight can see your true form, but their other senses are still confounded.
 

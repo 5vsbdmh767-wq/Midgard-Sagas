@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp*
 
 This dun-colored, well-worn silk wrap is long enough to cover the face and head of a Medium or smaller humanoid, barely revealing the eyes.
 

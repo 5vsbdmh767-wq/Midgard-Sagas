@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 350 gp*
 
 Found in a small packet, this coarse, foul-smelling black dust is made from the powdered remains of a celestial. Each packet of the substance contains enough ashes for one use.
 

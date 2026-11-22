@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,050 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 The strings of this bowed instrument never break. You must be proficient in stringed instruments to use this vielle. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 WIS save or take 2d8 psychic damage.
 

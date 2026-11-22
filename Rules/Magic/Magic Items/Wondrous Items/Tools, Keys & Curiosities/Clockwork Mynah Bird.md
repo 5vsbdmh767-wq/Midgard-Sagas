@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,000 gp*
 
 This mechanical brass bird is nine inches long from the tip of its beak to the end of its tail, and it can become active for up to 12 hours. Once it has been used, it can’t be used again until 2 days have passed.
 

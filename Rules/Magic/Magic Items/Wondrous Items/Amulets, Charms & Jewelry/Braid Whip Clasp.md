@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This intricately carved ivory clasp can be wrapped around or woven into braided hair 3 feet or longer. While the clasp is attached to your braided hair, you can speak its command word as a bonus action and transform your braid into a dangerous whip. If you speak the command word again, you end the effect.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,020 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster)*
 
 The cup of this garnet chalice is carved in the likeness of a human skull. When the chalice is filled with blood, the dark red gemstone pulses with a scintillating crimson light that sheds dim light in a 5-foot radius. Each creature that drinks blood from this chalice has disadvantage on enchantment spells you cast for the next 24 hours. In addition, you can use an action to cast the *[[2nd-Circle Spells#Suggestion|suggestion]]* spell, using your spell save DC, on a creature that has drunk blood from the chalice within the past 24 hours. You need to concentrate on this suggestion to maintain it during its duration. Once used, the suggestion power of the chalice can’t be used again until the next dusk.
 

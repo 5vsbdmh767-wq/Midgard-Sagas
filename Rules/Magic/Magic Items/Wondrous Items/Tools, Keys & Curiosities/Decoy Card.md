@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 200 gp*
 
 This small, thick, parchment card displays an accurate portrait of the person carrying it. You can use an action to toss the card on the ground at a point within 10 feet of you. An illusion of you forms over the card and remains until dispelled. The illusion appears real, but it can do no harm.
 

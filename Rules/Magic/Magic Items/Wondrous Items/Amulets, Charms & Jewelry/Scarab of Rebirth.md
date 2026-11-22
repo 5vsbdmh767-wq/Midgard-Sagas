@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This coin-sized figurine of a scarab is crafted from an unidentifiable blue-gray metal, but it appears mundane in all other respects. When you speak its command word, it whirs to life and burrows into your flesh. You can speak the command word again to remove the scarab. While the scarab is embedded in your flesh, you gain the following:
 

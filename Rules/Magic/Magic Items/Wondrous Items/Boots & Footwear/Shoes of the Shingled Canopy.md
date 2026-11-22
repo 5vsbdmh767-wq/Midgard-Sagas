@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,010 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 These well-made, black leather shoes have brass buckles shaped like chimneys. While wearing the shoes, you have proficiency in the Acrobatics skill.
 

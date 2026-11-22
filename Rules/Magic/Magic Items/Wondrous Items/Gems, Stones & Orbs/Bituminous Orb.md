@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 66,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 A tarlike substance leaks continually from this orb, which radiates a cloying darkness and emanates an unnatural chill. While attuned to the orb, you have darkvision out to a range of 60 feet. In addition, you have immunity to necrotic damage, and you have advantage on saves against spells and effects that deal radiant damage.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 4,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 These bracers are a pair of golden snakes with ruby eyes, which coil around your wrist and forearm. While wearing both bracers, you gain a +1 bonus to AC if you are wearing no armor and using no shield.
 

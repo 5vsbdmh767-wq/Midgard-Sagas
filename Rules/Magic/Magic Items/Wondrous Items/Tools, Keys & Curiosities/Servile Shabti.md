@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, Rarity Varies* %% price pending %%
+*Wondrous Item, Rarity Varies 1,000 gp (crafter) or 1,000 gp (digger) or 2,000 gp (defender) or 8,000 gp (warrior) or 8,060 gp (farmer) or 120,020 gp (healer)*
 
 Crafted to serve in place of the dead in the afterlife, shabti are often used by the living for their own ends. These 1-foot-tall statuettes are crafted of ceramic, stone, or terracotta and are garbed in gear indicative of their function.
 
@@ -13,7 +13,7 @@ The shabti is friendly to you and your companions, and it acts immediately after
 
 The shabti exists for a duration specific to each shabti. At the end of the duration, it reverts to its statuette form. It reverts to a statuette early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the shabti becomes a statuette again, its property can't be used again until a certain amount of time has passed, as specified in the shabti’s description.
 
-***Crafter Shabti (Uncommon).*** This shabti wears a leather apron and carries the tools of its trade. Each crafting shabti is skilled in a single craft— weaponsmithing, pottery, carpentry, or another trade—and has proficiency with the appropriate artisan’s tools. You can use an action to command the shabti to craft a single, nonmagical item within its skill set, so long as you provide it the raw materials to do so. The shabti works at incredible speeds, needing only 10 minutes per 100 gp value of the item to finish its task. A crafting shabti can never create magic items. Once it completes its task, the shabti reverts to statuette form, and it can’t be used again until a number of hours have passed equal to twice the market value in gold pieces of the item crafted (minimum of to hours).
+***Crafter Shabti (Uncommon).*** This shabti wears a leather apron and carries the tools of its trade. Each crafting shabti is skilled in a single craft— weaponsmithing, pottery, carpentry, or another trade—and has proficiency with the appropriate artisan’s tools. You can use an action to command the shabti to craft a single, nonmagical item within its skill set, so long as you provide it the raw materials to do so. The shabti works at incredible speeds, needing only 10 minutes per 100 gp value of the item to finish its task. A crafting shabti can never create magic items. Once it completes its task, the shabti reverts to statuette form, and it can’t be used again until a number of hours have passed equal to twice the market value in gold pieces of the item crafted (minimum of 10 hours).
 
 ***Defender Shabti (Uncommon).*** This shabti carries a shield, increasing its AC by 2. You can use a bonus action to command the shabti to either defend you or harass an enemy you can see within 30 feet of you. If the shabti defends you, each creature within 5 feet of the shabti has disadvantage on melee weapon attack rolls against you. If the shabti harasses a creature, each creature within 5 feet of the shabti has advantage on melee weapon attack rolls against that creature. The shabti remains active for up to 8 hours, after which it reverts to statuette form and can’t be used again until 3 days have passed.
 
@@ -25,7 +25,7 @@ Alternately, the shabti can spend 10 minutes planting magical crops. The magical
 
 Once the shabti is used to perform either function, the shabti returns to statuette form, and it can’t be used again until 30 days have passed.
 
-***Healer Shabti (Very Rare).*** This shabti is dres scholarly robes and carries a bag of medical supplies. It is proficient with a healer’s kit, has Medicine +7, and tends to the wounds of you and your companions. If directed to administer care when you take a short rest, the shabti can tend the wounds of up to six creatures over the course of the hour. Each creature that spends Hit Dice to regain hit points during that short rest increases the amount gained per Hit Die by 2, up to the maximum number that can be rolled. The shabti follows you and tends to the wounds of you and your companions, as directed, for up to 8 hours before reverting to statuette form.
+***Healer Shabti (Very Rare).*** This shabti is dressed in scholarly robes and carries a bag of medical supplies. It is proficient with a healer’s kit, has Medicine +7, and tends to the wounds of you and your companions. If directed to administer care when you take a short rest, the shabti can tend the wounds of up to six creatures over the course of the hour. Each creature that spends Hit Dice to regain hit points during that short rest increases the amount gained per Hit Die by 2, up to the maximum number that can be rolled. The shabti follows you and tends to the wounds of you and your companions, as directed, for up to 8 hours before reverting to statuette form.
 
 While the shabti is active, you can use a bonus action to command it to cast *[[1st-Circle Spells#Cure Wounds|cure wounds]]* (4th-circle version), lesser restoration, or protection from poison on one creature you can see within 30 feet of you on its next turn. The shabti can cast each spell only once. When it has cast all three spells, the shabti reverts to statuette form, even if its normal duration hasn’t ended.
 

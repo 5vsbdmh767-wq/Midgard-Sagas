@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,020 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Carved from a curious black stone of unknown origin, this small totem is fashioned in the macabre likeness of a Great Old One. While attuned to the idol and holding it, you gain the following benefits:
 

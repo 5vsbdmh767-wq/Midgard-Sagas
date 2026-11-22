@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 30,000 gp*
 
 This oak chest, measuring 3 feet by 5 feet by 3 feet, is secured with iron bands, which depict naval combat and scenes of piracy. The chest opens into an extradimensional space that can hold up to 3,500 cubic feet or 15,000 pounds of material. The chest always weighs 200 pounds, regardless of its contents.
 

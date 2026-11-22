@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] 50,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This dubious old book, bound in heavy leather with iron hasps, details the forbidden secrets and monstrous blasphemy of a multitude of nightmare cults that worship nameless and ghastly entities. It reads like the monologue of a maniac, illustrated with unsettling glyphs and filled with fluctuating moments of vagueness and clarity.
 

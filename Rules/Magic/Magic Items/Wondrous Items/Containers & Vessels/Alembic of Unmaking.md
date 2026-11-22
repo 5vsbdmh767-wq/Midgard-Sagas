@@ -3,11 +3,11 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 30,000 gp*
 
 This large alembic is a glass retort supported by a bronze tripod and connected to a smaller glass container by a bronze spout. The bronze fittings are etched with arcane symbols, and the glass parts of the alembic sometimes emit bright, amethyst sparks.
 
-If a magic item is placed inside the alembic anda fire lit beneath it, the magic item dissolves and its magical energy drains into the smaller container.
+If a magic item is placed inside the alembic and a fire lit beneath it, the magic item dissolves and its magical energy drains into the smaller container.
 
 Artifacts, legendary magic items, and any magic item that won’t physically fit into the alembic (anything larger than a shortsword or a cloak) can’t be dissolved in this way. Full dissolution and distillation of an item’s magical energy takes 1 hour, but 10 minutes is enough time to render most items nonmagical.
 

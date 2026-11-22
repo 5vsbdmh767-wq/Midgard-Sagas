@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,000 gp*
 
 These heavy iron and wood torches are typically found in pairs or sets of four. While holding this torch, you can use an action to speak a command word and cause it to produce a magical, heatless flame that sheds bright light in a 20-foot radius and dim light for an additional 20 feet. You can use a bonus action to repeat the command word to extinguish the light. If more than one talking torch remain lit and touching for 1 minute, they become magically bound to each other. A torch remains bound until the torch is destroyed or until it is bound to another talking torch or set of talking torches.
 

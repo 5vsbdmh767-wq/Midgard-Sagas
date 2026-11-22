@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 30,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This nondescript book contains statistics and details on various objects. Libraries often use these tomes to assist visitors in finding the knowledge contained within their stacks.
 

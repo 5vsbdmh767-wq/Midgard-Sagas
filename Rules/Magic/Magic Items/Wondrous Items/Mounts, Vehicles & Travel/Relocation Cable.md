@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 8,000 gp*
 
 This 60-foot length of fine wire cable weighs 2 pounds. If you hold one end of the cable and use an action to speak its command word, the other end plunges into the ground, burrowing through dirt, sand, snow, mud, ice, and similar material to emerge from the ground at a destination you can see up to its maximum length away. The cable can’t burrow through solid rock.
 

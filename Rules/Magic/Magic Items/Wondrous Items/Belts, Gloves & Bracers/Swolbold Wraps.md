@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 When wearing these cloth wraps, your forearms and hands swell to half again their normal size without negatively impacting your fine motor skills. You gain a +1 bonus to attack and damage rolls made with unarmed strikes while wearing these wraps. In addition, your unarmed strike uses a d4 for damage and counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 

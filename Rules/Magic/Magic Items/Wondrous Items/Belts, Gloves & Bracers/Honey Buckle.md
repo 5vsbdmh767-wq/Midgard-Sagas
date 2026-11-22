@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, Rarity Varies ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, Rarity Varies 2,040 gp (black) or 8,040 gp (brown) or 60,040 gp (white) ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 While wearing this bear head-shaped belt buckle, you can use an action to cast *[[4th-Circle Spells#Polymorph|polymorph]]* on yourself, transforming into a type of bear determined by the type of belt buckle you are wearing. While you are in the form of a bear, you retain your INT, WIS, and CHA scores. In addition, you don’t need to maintain concentration on the spell, and the transformation lasts for 1 hour, until you use a bonus action to revert to your normal form, or until you drop to 0 hit points or die. The belt buckle can’t be used this way again until the next dawn.
 

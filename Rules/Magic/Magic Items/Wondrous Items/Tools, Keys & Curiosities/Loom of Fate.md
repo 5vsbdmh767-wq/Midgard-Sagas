@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,000 gp*
 
 If you spend 1 hour weaving on this portable loom, roll a d20 and record the number rolled. You can replace any attack roll, save, or ability check made by you or a creature that you can see with this roll. You must choose to do so before the roll. The loom can’t be used this way again until the next dawn.
 

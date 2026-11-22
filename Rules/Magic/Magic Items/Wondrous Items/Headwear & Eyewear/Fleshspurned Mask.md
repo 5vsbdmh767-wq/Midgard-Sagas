@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])* %% cursed: listed at half price %%
 
 This mask features inhumanly sized teeth similar in appearance to the toothy ghost known as a fleshspurned. It has a strap fashioned from entwined strands of sinew, and it fits easily over your face with no need to manually adjust the strap.
 

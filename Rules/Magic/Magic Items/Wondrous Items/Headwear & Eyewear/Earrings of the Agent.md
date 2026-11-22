@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,400 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Aside from a minor difference in size, these simple golden hoops are identical to one another. Each hoop has 1 charge and provides a different magical effect. Each hoop regains its expended charge daily at dawn. You must be wearing both hoops to use the magic of either hoop.
 

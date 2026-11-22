@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,020 gp*
 
 This trio of fezzes works only if all three hats are worn within 60 feet of each other by creatures of the same size. If one of the hats is removed or moves further than 60 feet from the others or if creatures of different sizes are wearing the hats, the hats’ magic temporarily ceases.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, Rarity Varies* %% price pending %%
+*Wondrous Item, Rarity Varies 2,000 gp (albatross) or 4,000 gp (basilisk) or 8,000 gp (kraken) or 8,000 gp (manta ray) or 8,000 gp (octopus) or 120,000 gp (narwhal) or 120,000 gp (dragon turtle) or 60,000 gp (xorn) or 100,000 gp (sphinx)*
 
 A *figurehead of prowess* must be mounted on the bow of a ship for its magic to take effect. While mounted on a ship, the figurehead’s magic affects the ship and every creature on the ship. A figurehead can be mounted on any ship larger than a rowboat, regardless if that ship sails the sea, the sky, rivers and lakes, or the sands of the desert. A ship can have only one figurehead mounted on it at a time.
 

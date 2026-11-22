@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster of Evil Alignment)* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 33,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a Spellcaster of Evil Alignment)*
 
 These obsidian shards are engraved with words in Deep Speech, and their presence disquiets non-evil, intelligent creatures. The writing on the shards is obscure, esoteric, and possibly incomplete.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 5,000 gp*
 
 This small, square wooden box is carved with scenes of life in a busy city. Inside, the box is divided into six compartments, each holding a different magical spice. A small wooden spoon is also stored inside the box for measuring. A *spice box of zest* contains six spoonfuls of each spice when full.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, Rarity Varies ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Barbarian]])* %% price pending %%
+*Wondrous Item, Rarity Varies 2,000 gp (wolf) or 8,000 gp (elk) or 60,000 gp (bear) ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Barbarian]])*
 
 This kilt is made from bear, elk, or wolf fur. While wearing this kilt, your Unarmored Defense increases by 1, and you gain additional benefits while raging, depending on the type of kilt you are wearing.
 

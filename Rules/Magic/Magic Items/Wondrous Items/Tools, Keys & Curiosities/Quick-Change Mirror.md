@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp*
 
 This utilitarian, rectangular standing mirror measures 4 feet tall and 2 feet wide. Despite its plain appearance, the mirror allows creatures to quickly change outfits. While in front of the mirror, you can use an action to speak the mirror’s command word to be clothed in an outfit stored in the mirror. The outfit you are currently wearing is stored in the mirror or falls to the floor at your feet (your choice).
 

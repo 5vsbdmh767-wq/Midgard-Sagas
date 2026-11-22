@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 33,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])* %% cursed: listed at half price %%
 
 The abdomen of this beetle-shaped brooch is decorated with the grim semblance of a human skull. If you hold it in your hand for 1 round, an Abyssal inscription appears on its surface, revealing its magical nature. While wearing this brooch, you gain the following benefits:
 

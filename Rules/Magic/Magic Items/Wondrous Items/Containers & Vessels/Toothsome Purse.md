@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This common-looking leather pouch holds a nasty surprise for pickpockets. If a creature other than you reaches into the purse, small, sharp teeth emerge from the mouth of the bag. The bag makes a melee attack roll against that creature with a +3 bonus. On a hit, the target takes 2d4 piercing damage. If the bag rolls a 20 on the attack roll, the would-be pickpocket has disadvantage on any DEX checks made with that hand until the damage is healed.
 

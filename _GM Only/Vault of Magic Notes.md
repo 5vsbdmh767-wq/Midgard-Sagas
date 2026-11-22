@@ -149,3 +149,31 @@ More spells not on the wiki yet (from the wondrous chapter): *cloak of shadow*, 
   - About 30 smaller typos.
   - Staff of the Unhatched still said *chill touch*; it now says *grave touch*, with its other spells linked.
 - More spells not on the wiki: *poisoned volley* (Serpent Staff) and *wind lash* (Staff of the Four Winds).
+
+## Pricing: Wondrous Items (22 Nov 2026)
+
+- All 376 wondrous item pages are priced, plus the new ioun stones, feather tokens and figurines added to those older pages. The working is in `_GM Only/Magic Item Prices, Wondrous Items.md`. **Nothing in Vault of Magic is "pending" any more.**
+- **Judgment calls to check first** (marked in the worksheet):
+  - Girdle of Traveling Alchemy and Black Phial refill daily. I didn't treat that as an endless resource.
+  - Talisman of the Snow Queen and Cap of Thorns aren't labeled cursed, but they work like it, so both are halved.
+  - Flag of the Cursed Fleet's curse is its whole purpose, so it isn't halved.
+  - Healthful Honeypot and Marvelous Clockwork Mallard skip one doubling each.
+  - Nullifier's Lexicon counts as a wish.
+  - Spice Box of Zest is priced as a consumable.
+- **Moved up a rarity** for flight, teleporting, hiding, pocket spaces or endless food or water: Eagle Cape, Leonino Wings, Windwalker Boots, Keffiyeh, Cloak of Wicked Wings, Three-Section Boots, Cataloguing Book, Chalk of Exodus, Relocation Cable, Mantle of the Forest Lord, Spyglass of Summoning, the crystal Skeleton Key, Phase Mirrors, Earrings of the Eclipse, Sentinel Portrait, Rug of Safe Haven, Pocket Oasis, Plunderer's Sea Chest, Everflowing Bowl, Gazebo of Shade and Shelter, Ogre's Pot, Blessed Pauper's Purse, Oni Mask, Shrutinandan Sitar and Nullifier's Lexicon.
+- Anuraag's Crucible is an artifact, so it's Priceless.
+- **More scan fixes:**
+  - Shrutinandan Sitar had lost the start of its spell list ("create food and"). It's restored and linked.
+  - Five dropped numbers restored, checked against the page:
+    - Handy Scroll Quiver, Brass Snake Ball and Lifeblood Gear durations.
+    - Flask of Epiphanies holds 5 ounces.
+    - Clockwork Hare takes up to 5 creatures.
+  - Censer of Dark Shadows: "a spell of and level" now reads "2nd circle".
+  - Blue Rose's second reaction option is its own bullet again.
+  - An ioun stone entry (Limestone) had merged into the one above it.
+  - About 30 smaller typos.
+- **Credits:** the "prices are still being worked out" line is gone.
+
+## Pricing pass totals
+- 818 pages priced in four batches, plus 19 options added to older item pages. 11 prices are marked as judgment calls. 21 cursed items are listed at half price.
+- If a price looks wrong in play, change it on the item page. The tables rebuild from the item pages.

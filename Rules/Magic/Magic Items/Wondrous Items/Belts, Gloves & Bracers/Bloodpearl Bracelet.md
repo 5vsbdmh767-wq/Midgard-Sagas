@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] (silver) or Very Rare (gold)* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] (silver) or Very Rare (gold) 4,000 gp (silver) or 120,000 gp (gold)*
 
 This silver or gold bracelet features three red pearls. You can use an action to remove a pearl and throw it up to 20 feet. When the pearl lands, it transforms into an ooze you determine by rolling a d6 and consulting the table that corresponds to the bracelet’s color. The ooze vanishes at the next dawn or when it is reduced to 0 hit points.
 

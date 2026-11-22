@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 30,050 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Created by village elders for druidic scouts to better traverse and survey the perimeters of their lands, this cloak resembles thick oak bark but bends and flows like silk.
 

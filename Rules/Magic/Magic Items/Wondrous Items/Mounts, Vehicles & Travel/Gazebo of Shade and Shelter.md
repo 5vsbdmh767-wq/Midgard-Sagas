@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 60,000 gp*
 
 You can use an action to place this 3-inch sandstone gazebo statuette on the ground and speak its command word. Over the next 5 minutes, the sandstone gazebo grows into a full-sized gazebo that remains for 8 hours or until you speak the command word that returns it to a sandstone statuette.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This cloak is made of black, brown, and white bat pelts sewn together. While wearing it, you have blindsight out to a range of 60 feet. While wearing this cloak with its hood up, you transform into a creature of pure shadow. While in shadow form, your AC increases by 2, you have advantage on DEX (Stealth) checks, and you can move through a space as narrow as 1 inch wide without squeezing. You can cast spells normally while in shadow form, but you can’t make ranged or melee attacks with nonmagical weapons. In addition, you can’t pick up objects, and you can’t give objects you are wearing or carrying to others.
 

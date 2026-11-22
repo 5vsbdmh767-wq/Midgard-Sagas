@@ -3,11 +3,11 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] 200,020 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]])*
 
 This bodhran drum is crafted of wood from an ash tree struck by lightning, and its head is made from stretched mammoth skin, painted with a stylized thunderhead. While attuned to this drum, you can use it as an arcane focus. While holding the drum, you are immune to thunder damage. While this drum is on your person but not held, you have resistance to thunder damage.
 
-The drum has to charges for the following properties. It regains 1d6 + 4 expended charges daily at dawn. In addition, the drum regains 1 expended charge for every 10 thunder damage you ignore due to the resistance or immunity the drum gives you. If you expend the drum’s last charge, roll a d20. On a 1, it becomes a nonmagical drum. However, if you make a CHA (Performance) check while playing the nonmagical drum, and you roll a 20, the passion of your performance rekindles the item’s power, restoring its properties and giving it 1 charge.
+The drum has 10 charges for the following properties. It regains 1d6 + 4 expended charges daily at dawn. In addition, the drum regains 1 expended charge for every 10 thunder damage you ignore due to the resistance or immunity the drum gives you. If you expend the drum’s last charge, roll a d20. On a 1, it becomes a nonmagical drum. However, if you make a CHA (Performance) check while playing the nonmagical drum, and you roll a 20, the passion of your performance rekindles the item’s power, restoring its properties and giving it 1 charge.
 
 ***Deafness.*** You can expend 2 or more of its charges as an action to cast the *[[2nd-Circle Spells#Blindness/Deafness|blindness/deafness]]* spell, using your spell save DC. You can only deafen a creature with this spell. For each additional charge you spend, you can affect one additional creature.
 

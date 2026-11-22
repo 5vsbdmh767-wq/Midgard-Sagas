@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Common]] 10 gp*
 
 If you soak this 5-foot piece of twine in at least one pint of water, it grows into a 50-foot length of hemp rope after 1 minute.
 

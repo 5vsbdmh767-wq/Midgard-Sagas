@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,010 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 These earrings feature platinum loops from which hang bronzed claws from a chamrosh, freely given by the angelic hound. While wearing these earrings, you have advantage on WIS (Insight) checks to determine if a creature is lying or if it has an evil alignment.
 

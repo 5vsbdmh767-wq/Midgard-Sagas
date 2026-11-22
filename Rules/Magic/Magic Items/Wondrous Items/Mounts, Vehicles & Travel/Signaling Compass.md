@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,000 gp*
 
 The exterior of this clamshell metal case features a polished, mirror-like surface on one side and an ornate filigree on the other. Inside is a magnetic compass. While the case is closed, you can use an action to speak the command word and project a harmless beam of light up to 1 mile.
 

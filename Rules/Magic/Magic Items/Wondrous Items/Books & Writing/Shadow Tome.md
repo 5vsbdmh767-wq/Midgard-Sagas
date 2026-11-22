@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This unassuming book possesses powerful illusory magics. When you write on its pages while attuned to it, you can choose for the contents to appear to be something else entirely. A shadow tome used as a spellbook could be made to look like a cookbook, for example. To read the true text, you must speak a command word. A second speaking of the word hides the true text once more. A *[[6th-Circle Spells#True Seeing|true seeing]]* spell can see past the shadow tome’s magic and reveals the true text to the reader.
 

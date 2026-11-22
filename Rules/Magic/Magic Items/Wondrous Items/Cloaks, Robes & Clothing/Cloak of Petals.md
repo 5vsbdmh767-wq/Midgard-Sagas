@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 2,200 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This delicate cloak is covered in an array of pink, purple, and yellow flowers. While wearing this cloak, you have advantage on DEX (Stealth) checks made to hide in areas containing flowering plants.
 

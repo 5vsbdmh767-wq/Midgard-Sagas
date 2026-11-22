@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 1,100 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This scholar’s cap is covered in bright stitched runes, and the interior is rough, like bark or sharkskin. This cap has 9 charges. It regains 1d8 + 1 expended charges daily at midnight. While wearing it, you can use an action and expend 1 or more of its charges to cast one of the following spells, using your spell save DC or save DC 15, whichever is higher: *[[2nd-Circle Spells#Destructive Resonance|destructive resonance]]* (2 charges), *[[4th-Circle Spells#Nether Weapon|nether weapon]]* (4 charges), *[[2nd-Circle Spells#Protection from the Void|protection from the void]]* (1 charge), or *[[3rd-Circle Spells#Void Strike|void strike]]* (3 charges). These are Void magic spells. The GM can swap any of them for another spell of a similar circle related to darkness, destruction, or the Void.
 

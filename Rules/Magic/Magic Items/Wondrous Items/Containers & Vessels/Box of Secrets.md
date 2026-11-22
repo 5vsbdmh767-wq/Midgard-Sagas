@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 4,000 gp*
 
 This well-made, cubical box appears to be a normal container that can hold as much as a normal chest. However, each side of the chest is a lid that can be opened on cunningly concealed hinges. A successful DC 15 WIS (Perception) check notices that the sides can be opened. When you use an action to turn the box so a new side is facing up, and speak the command word before opening the lid, the current contents of the chest slip into an interdimensional space, leaving it empty once more. You can use an action to fill the box again, then turn it over to a new side and open it, again sending the contents to the interdimensional space. This can be done up to six times, once for each side of the box.
 

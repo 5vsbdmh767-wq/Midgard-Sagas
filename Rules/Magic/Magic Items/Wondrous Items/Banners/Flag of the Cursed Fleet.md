@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Legendary]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Legendary]] 200,000 gp*
 
 This dreaded item is a black flag painted with an unsettlingly realistic skull. A spell or other effect that can sense the presence of magic, such as detect magic, reveals an aura of necromancy around the flag. Beasts with an INT of 3 or lower don’t willingly board a vessel where this flag flies. A successful DC 17 WIS (Animal Handling) check convinces an unwilling beast to board the vessel, though it remains uneasy and skittish while aboard.
 

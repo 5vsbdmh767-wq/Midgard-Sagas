@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, Rarity Varies ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, Rarity Varies 30,000 gp (handheld) or 100,000 gp (vanity) or 100,000 gp (floor) ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 Unlike other magic items, multiple creatures can attune to the phase mirror by touching it as part of the same short rest. A creature remains attuned to the mirror as long as it is on the same plane of existence as the mirror or until it chooses to end its attunement to the mirror during a short rest. Phase mirrors look almost identical to standard mirrors, but their surfaces are slightly clouded. These mirrors are found in a variety of sizes, from handheld to massive disks. The larger the mirror, the more power it can take in, and consequently, the more creatures it can affect.
 

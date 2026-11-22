@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 350 gp*
 
 This small pebble measures 3/4 of an inch in diameter and weighs an ounce. The pebbles are often shaped like salmon, river clams, or iridescent river rocks. Typically, 1d4 + 4 *river tokens* are found together. The token gives off a distinct shine in sunlight and radiates a scent of fresh, roiling water. It is sturdy but crumbles easily if crushed.
 

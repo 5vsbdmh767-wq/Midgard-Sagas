@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This black, six-petaled flower fits neatly on a garment’s lapel or peeking out of a pocket. While wearing it, you have advantage on saves against being [[Conditions#Blinded|blinded]], [[Conditions#Deafened|deafened]], or [[Conditions#Frightened|frightened]].
 

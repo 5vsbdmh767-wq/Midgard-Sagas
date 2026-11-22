@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 120,020 gp ([[Using Magic Items#Attunement|Requires Attunement]])*
 
 This horned mask is fashioned into the fearsome likeness of a pale oni. The mask has 6 charges for the following properties. The mask regains 1d6 expended charges daily at dawn.
 
