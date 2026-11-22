@@ -1,0 +1,13 @@
+---
+publish: true
+---
+%% source: Vault of Magic %%
+
+*Staff, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+
+This roughly made staff has cracked and splintered ends and can be wielded as a magic quarterstaff. When you roll a 20 on an attack roll made with this weapon, you embed a splinter in the target’s body, and the pain and discomfort of the splinter is distracting. While the splinter remains embedded, the target has disadvantage on DEX, INT, and WIS checks, and, if it is concentrating on a spell, it must succeed on a DC 10 CON save at the start of each of its turns to maintain concentration on the spell. A creature, including the target, can take its action to remove the splinter by succeeding on a DC 13 WIS (Medicine) check.
+
+Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
+
+---
+<small>Sources: [[Credits]].</small>

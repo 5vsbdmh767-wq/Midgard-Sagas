@@ -1,0 +1,19 @@
+---
+publish: true
+---
+%% source: Vault of Magic %%
+
+*Staff, [[Using Magic Items#Rarity|Legendary]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Druid]])* %% price pending %%
+
+This staff is made of rock crystal yet weighs the same as a wooden staff. The staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to spell attack rolls. In addition, you are immune to the effects of high altitude and severe cold weather, such as hypothermia and frostbite.
+
+The staff has 10 charges for the following properties. It regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff shatters into fine stone fragments and is destroyed.
+
+***Spells.*** While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: *[[Rituals 7th–9th Circle#Control Weather|control weather]]* (8 charges), *fault line* (6 charges), *[[2nd-Circle Spells#Gust of Wind|gust of wind]]* (2 charges), *[[4th-Circle Spells#Ice Storm|ice storm]]* (4 charges), *[[1st-Circle Spells#Longstrider|longstrider]]* (1 charge), *snow boulder* (4 charges), or *[[5th-Circle Spells#Wall of Stone|wall of stone]]* (5 charges).
+
+***Stone Strike.*** When you hit a creature or object made of stone or earth with this staff, you can expend 5 of its charges to shatter the target. The target must make a DC 17 CON save, taking an extra 10d6 force damage on a failed save, or half as much damage on a successful one. If the target is an object that is being worn or carried, the creature wearing or carrying it must make the save, but only the object takes the damage. If this damage reduces the target to 0 hit points, it shatters and is destroyed.
+
+Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
+
+---
+<small>Sources: [[Credits]].</small>

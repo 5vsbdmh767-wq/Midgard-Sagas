@@ -14,6 +14,6 @@ The [[Asp’s Kiss|asp's kiss]] is a haladie, a double-bladed knife common in Kh
 ## The Crook and Flail
 %% source: Vault of Magic %%
 
-The [[Shepherd's Flail|shepherd's flail]] and its partner, the crook of the flock (not on the wiki yet), were made for the god-king Hekhmet, who was famous for his way with people and animals. They were buried with him after a long, prosperous reign.
+The [[Shepherd's Flail|shepherd's flail]] and its partner, the [[Crook of the Flock|crook of the flock]], were made for the god-king Hekhmet, who was famous for his way with people and animals. They were buried with him after a long, prosperous reign.
 
 - **A shaky crown.** Hekhmet's descendant Ibris is losing his grip on the throne. His people find him unimpressive, predators are killing the herds, and an ambitious rival is waiting to take over. Ibris wants adventurers to bring the crook and flail out of his ancestor's tomb, both to prove his right to rule and to set things right for his people.

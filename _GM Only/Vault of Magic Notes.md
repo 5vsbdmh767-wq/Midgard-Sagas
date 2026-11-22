@@ -47,3 +47,26 @@ Vault of Magic, added chapter by chapter from your scan. Each batch gets a secti
 ## Settled
 - Madness (spirit honey, Brain Juice, Tonic for the Troubled Mind): you'll rule it at the table. No madness rules added.
 - Troll blood: the Apothecary recipe list and the alchemy ingredient now link to the Troll Blood page. The Troll Blood page points back to the alchemy recipe. Merging the two rulesets is still open.
+
+## Rings, Rods, Staves & Wands (22 Nov 2026)
+
+- 142 new item pages, every one priced "pending": 38 in Rings, and 104 in Rods, Staffs & Wands.
+- Skipped because the wiki already has them: Rowan Staff and Voidwalker.
+- **Renamed spells:** spells with a different Tales of the Valiant name link to that version and show its name:
+  - *hold person* and *hold monster* become *hold*.
+  - *charm person* becomes *charm*.
+  - *dominate person* and *dominate monster* become *dominate*.
+  - *chill touch* becomes *grave touch*.
+  - *jump* becomes *longstrider*.
+  - I also fixed one older page, Retribution Armor, which still showed "locate creature".
+- **Rebuilt from the page images:**
+  - The Frungilator effect table and the end of Freerunner Rod (a full-width table had scrambled both).
+  - The school table on Ring of Spell Negation, and the retributive strike tables on Staff of Winter and Ice and Umbral Staff.
+  - Repairs on Crystal Staff, Rod of Sanguine Mastery, Rod of the Jester and Rod of the Infernal Realms.
+- **Justicars sidebar:** a book sidebar about the Justicars, an order of masked enforcers who serve "the Magister", is now a short note on Rod of the Disciplinarian, in **my words**. The Justicar's mask comes in the Wondrous chapter.
+- **Item links:** items that mention another item now link to it, for example wand of tears and wand of giggles.
+
+## Spells not on the wiki yet
+Many staffs cast spells from another Kobold Press spell book. The book marked them with an asterisk and named the book. I took out the book name, kept the spells in italics without links, and reworded the book's "GM can substitute" line to say the GM can swap any spell that isn't on the wiki. These are the ones to add when you do the spells project:
+
+*become nightwing*, *black hand*, *black ribbons*, *black well*, *bless the dead*, *boreas’s breath*, *circle of wind*, *claws of darkness*, *cloak of shadow*, *confound senses*, *curse of boreas*, *dark dementing*, *dark path*, *darkbolt*, *douse light*, *earthskimmer*, *encroaching shadows*, *entomb*, *fault line*, *flurry*, *frostbite*, *frozen razors*, *gliding step*, *heartstop*, *jeweled fissure*, *lock armor*, *night terrors*, *poisoned volley*, *prismatic ray*, *pummelstone*, *shadow armor*, *shadow blindness*, *shadow hands*, *shadow puppets*, *shared sacrifice*, *snow boulder*, *storm god’s doom*, *triumph of ice*, *wind tunnel*, *wresting wind*.

@@ -12,6 +12,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Amulet of the Far Traveler]] | Wondrous Item | Common | Yes | 50 gp | [[Amulets, Charms & Jewelry]] |
 | [[Anklets of Alacrity]] | Wondrous Item | Common | — | 50 gp | [[Boots & Footwear]] |
 | [[Arming Tattoo]] | Wondrous Item | Common | Yes | 60 gp | [[Magic Tattoos]] |
+| [[Ashwood Wand]] | Wand | Common | by a [[Druid]] | pending | [[Rods, Staffs & Wands]] |
 | [[Beast Buckle]] | Wondrous Item | Common | Yes | 100 gp | [[Belts, Gloves & Bracers]] |
 | [[Bezoar of the Cockatrice]] | Wondrous Item | Common | — | pending | [[Bezoars]] |
 | [[Blackguard’s Blade]] | Weapon (Dagger or Shortsword) | Common | — | pending | [[Magic Weapons]] |
@@ -38,6 +39,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Glazed Blade]] | Weapon (Any Sword or Axe) | Common | — | pending | [[Magic Weapons]] |
 | [[Hallowed Feedbag]] | Wondrous Item | Common | — | 25 gp | [[Mounts, Vehicles & Travel]] |
 | [[Hampering Ammunition]] | Weapon (Any Ammunition) | Common | — | 10 gp | [[Magic Weapons]] |
+| [[Hazelwood Wand]] | Wand | Common | by a [[Druid]] | pending | [[Rods, Staffs & Wands]] |
 | [[Hel’s Coin]] | Wondrous Item | Common | — | 10 gp | [[Amulets, Charms & Jewelry]] |
 | [[Honey Lamp]] | Wondrous Item | Common | — | 200 gp | [[Tools, Keys & Curiosities]] |
 | [[Honey of Robust Health]] | Potion [Honey] | Common | — | 50 gp | [[Potions]] |
@@ -54,6 +56,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Mug of Friendship]] | Wondrous Item | Common | — | 90 gp | [[Containers & Vessels]] |
 | [[North Star Ring]] | Wondrous Item | Common | — | 25 gp | [[Amulets, Charms & Jewelry]] |
 | [[Northlander’s Boots]] | Wondrous Item | Common | Yes | 40 gp | [[Boots & Footwear]] |
+| [[Oakwood Wand]] | Wand | Common | by a [[Druid]] | pending | [[Rods, Staffs & Wands]] |
 | [[Oil of Concussion]] | Potion | Common | — | pending | [[Potions]] |
 | [[Oil of Numbing]] | Potion | Common | — | pending | [[Potions]] |
 | [[Oil of Sharpening]] | Potion | Common | — | pending | [[Potions]] |
@@ -74,12 +77,21 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Rainbow Extract]] | Potion | Common | — | pending | [[Potions]] |
 | [[Reciprocating Polearm]] | Weapon (Spear, Glaive, or Halberd) | Common | — | 100 gp | [[Magic Weapons]] |
 | [[Returning Charm]] | Wondrous Item | Common | — | 100 gp | [[Amulets, Charms & Jewelry]] |
+| [[Ring of Deceiver’s Warning]] | Ring | Common | — | pending | [[Rings]] |
 | [[Ring of Hospitality]] | Ring | Common | — | 25 gp | [[Rings]] |
+| [[Ring of Remembrance]] | Ring | Common | — | pending | [[Rings]] |
+| [[Ring of Shadows]] | Ring | Common | — | pending | [[Rings]] |
+| [[Ring of Small Mercies]] | Ring | Common | — | pending | [[Rings]] |
+| [[Rod of Repossession]] | Rod | Common | — | pending | [[Rods, Staffs & Wands]] |
+| [[Rod of Vapor]] | Rod | Common | — | pending | [[Rods, Staffs & Wands]] |
+| [[Rod of Verbatim]] | Rod | Common | — | pending | [[Rods, Staffs & Wands]] |
+| [[Rod of Warning]] | Rod | Common | — | pending | [[Rods, Staffs & Wands]] |
 | [[Rumbling Hammer]] | Weapon (maul or warhammer) | Common | Yes | 50 gp | [[Magic Weapons]] |
 | [[Safe-and-Sound Alarm]] | Wondrous Item | Common | — | 100 gp | [[Containers & Vessels]] |
 | [[Saffron-Dusted Carrot]] | Potion | Common | — | pending | [[Fantastical Foods]] |
 | [[Salt of Thawing]] | Wondrous Item | Common | — | 25 gp | [[Dusts, Oils & Consumables]] |
 | [[Scrolls of Correspondence]] | Scroll | Common | — | pending | [[Scrolls]] |
+| [[Second Wind]] | Ring | Common | — | pending | [[Rings]] |
 | [[Shield of Clamor]] | Armor (Shield) | Common | — | 25 gp + base shield cost | [[Magic Armor]] |
 | [[Shield of the Fallen]] | Armor (Shield) | Common | — | pending | [[Magic Armor]] |
 | [[Siege Arrow]] | Weapon (Arrow) | Common | — | pending | [[Magic Weapons]] |
@@ -87,12 +99,24 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Slip-Bane Bracelet]] | Wondrous item | Common | — | 25 gp | [[Belts, Gloves & Bracers]] |
 | [[Slipforged Armor]] | Armor (Any) | Common | — | 100 gp + armor base cost | [[Magic Armor]] |
 | [[Staff of False Hues]] | Staff | Common | — | 25 gp | [[Rods, Staffs & Wands]] |
+| [[Staff of Minor Curses]] | Staff | Common | — | pending | [[Rods, Staffs & Wands]] |
 | [[Surefire Stock Pot]] | Wondrous Item | Common | — | 25 gp | [[Containers & Vessels]] |
 | [[Survival Knife]] | Weapon (Dagger) | Common | — | pending | [[Magic Weapons]] |
 | [[Sustaining Belt]] | Wondrous Item | Common | — | 25 gp | [[Belts, Gloves & Bracers]] |
 | [[Tonic for the Troubled Mind]] | Potion | Common | — | pending | [[Potions]] |
 | [[Tonic of Blandness]] | Potion | Common | — | pending | [[Potions]] |
 | [[Tracking Dart]] | Weapon (Dart) | Common | — | pending | [[Magic Weapons]] |
+| [[Wand of Air Glyphs]] | Wand | Common | — | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Depth Detection]] | Wand | Common | — | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Direction]] | Wand | Common | — | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Extinguishing]] | Wand | Common | — | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Flame Control]] | Wand | Common | — | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Giggles]] | Wand | Common | — | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Guidance]] | Wand | Common | — | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Ignition]] | Wand | Common | — | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Resistance]] | Wand | Common | — | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Tears]] | Wand | Common | — | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Windows]] | Wand | Common | — | pending | [[Rods, Staffs & Wands]] |
 | [[Warrior Honey]] | Potion [Honey] | Common | — | 50 gp | [[Potions]] |
 | [[Worry Toy]] | Wondrous Item | Common | — | 50 gp | [[Tools, Keys & Curiosities]] |
 
@@ -132,6 +156,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Bracelet of the Fire Tender]] | Wondrous Item | Uncommon | — | 500 gp | [[Belts, Gloves & Bracers]] |
 | [[Bracers of Archery]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Bracers of Throwing]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Belts, Gloves & Bracers]] |
+| [[Brazen Band]] | Ring | Uncommon | — | pending | [[Rings]] |
 | [[Bridle of Calling]] | Wondrous Item | Uncommon | — | 2,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Brooch of Shielding]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Amulets, Charms & Jewelry]] |
 | [[Broom of Flying]] | Wondrous Item | Uncommon | — | 16,000 gp | [[Mounts, Vehicles & Travel]] |
@@ -145,6 +170,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Cloak of Protection]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Cloak of the Manta Ray]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Clockwork Mace of Divinity]] | Weapon (Mace) | Uncommon | Yes | pending | [[Magic Weapons]] |
+| [[Clockwork Rogue Ring]] | Ring | Uncommon | Yes | pending | [[Rings]] |
 | [[Coin of Wandering Luck]] | Wondrous Item | Uncommon | Yes | 1,000 gp | [[Amulets, Charms & Jewelry]] |
 | [[Commander's Plate]] | Armor (Plate) | Uncommon | — | pending | [[Magic Armor]] |
 | [[Countercharm Charm]] | Wondrous Item | Uncommon | — | 1,100 gp | [[Amulets, Charms & Jewelry]] |
@@ -155,6 +181,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Dart of Silence]] | Weapon (Dart) | Uncommon | — | 200 gp | [[Magic Weapons]] |
 | [[Dashing Boots]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Boots & Footwear]] |
 | [[Dawn Shard]] | Weapon (Any Sword or Dagger) | Uncommon | Yes | pending | [[Magic Weapons]] |
+| [[Death’s Mirror]] | Ring | Uncommon | — | pending | [[Rings]] |
 | [[Decanter of Endless Water]] | Wondrous Item | Uncommon | — | 4,000 gp | [[Containers & Vessels]] |
 | [[Defender Honey]] | Potion | Uncommon | — | 800 gp | [[Potions]] |
 | [[Dire Bacon]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
@@ -167,6 +194,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Efficacious Eyewash]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Efficient Quiver]] | Wondrous Item | Uncommon | — | 2,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Einherjar’s Drinking Horn]] | Wondrous Item | Uncommon | — | 3,400 gp | [[Containers & Vessels]] |
+| [[Eldritch Rod]] | Rod | Uncommon | by a Spellcaster | pending | [[Rods, Staffs & Wands]] |
 | [[Elemental Gem]] | Wondrous Item | Uncommon | — | 650 gp | [[Gems, Stones & Orbs]] |
 | [[Elixir of Deep Slumber]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Elixir of Fury]] | Potion | Uncommon | — | 500 gp | [[Potions]] |
@@ -179,10 +207,12 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Firebird Feather]] | Wondrous Item | Uncommon | — | 500 gp | [[Gems, Stones & Orbs]] |
 | [[Flute of Saurian Summoning]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Instruments]] |
 | [[Fog Stone]] | Weapon (Sling Bullet) | Uncommon | — | pending | [[Magic Weapons]] |
+| [[Frungilator]] | Wand | Uncommon | — | pending | [[Rods, Staffs & Wands]] |
 | [[Gale Javelin]] | Weapon (Javelin) | Uncommon | — | pending | [[Magic Weapons]] |
 | [[Gauntlets of Ogre Power]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Gem of Brightness]] | Wondrous Item | Uncommon | — | 200 gp | [[Gems, Stones & Orbs]] |
 | [[Ghost Barding]] | Armor (Light, Medium, or Heavy) | Uncommon | — | pending | [[Magic Armor]] |
+| [[Glamour Rings]] | Ring | Uncommon | — | pending | [[Rings]] |
 | [[Glasses of Explication]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Headwear & Eyewear]] |
 | [[Gloves of Missile Snaring]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Gloves of Swimming and Climbing]] | Wondrous Item | Uncommon | Yes | 1,000 gp | [[Belts, Gloves & Bracers]] |
@@ -271,21 +301,36 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Rain of Chaos]] | Weapon (Longbow) | Uncommon | Yes | pending | [[Magic Weapons]] |
 | [[Ravenflight Axe]] | Weapon (handaxe) | Uncommon | Yes | 2,000 gp | [[Magic Weapons]] |
 | [[Reaver’s Lodestone]] | Wondrous Item | Uncommon | — | 550 gp | [[Gems, Stones & Orbs]] |
+| [[Recondite Shield]] | Ring | Uncommon | Yes | pending | [[Rings]] |
 | [[Restorative Ointment]] | Wondrous Item | Uncommon | — | 100 gp | [[Dusts, Oils & Consumables]] |
 | [[Reunion Charm]] | Wondrous Item | Uncommon | Yes | 1,000 gp | [[Amulets, Charms & Jewelry]] |
+| [[Ring of Arcane Adjustment]] | Ring | Uncommon | by a Spellcaster | pending | [[Rings]] |
+| [[Ring of Bravado]] | Ring | Uncommon | Yes | pending | [[Rings]] |
+| [[Ring of Dragon’s Discernment]] | Ring | Uncommon | — | pending | [[Rings]] |
 | [[Ring of Feather Falling]] | Ring | Uncommon | Yes | 4,500 gp | [[Rings]] |
+| [[Ring of Featherweight Weapons]] | Ring | Uncommon | Yes | pending | [[Rings]] |
+| [[Ring of Hoarded Life]] | Ring | Uncommon | Yes | pending | [[Rings]] |
 | [[Ring of Jumping]] | Ring | Uncommon | Yes | 1,500 gp | [[Rings]] |
+| [[Ring of Light’s Comfort]] | Ring | Uncommon | Yes | pending | [[Rings]] |
 | [[Ring of Mind Shielding]] | Ring | Uncommon | Yes | 8,000 gp | [[Rings]] |
+| [[Ring of Night’s Solace]] | Ring | Uncommon | Yes | pending | [[Rings]] |
+| [[Ring of Stored Vitality]] | Ring | Uncommon | Yes | pending | [[Rings]] |
 | [[Ring of Surtr]] | Ring | Uncommon | — | 1,000 gp | [[Rings]] |
 | [[Ring of Swimming]] | Ring | Uncommon | — | 1,000 gp | [[Rings]] |
 | [[Ring of the Diving Bird]] | Ring | Uncommon | — | 1,000 gp | [[Rings]] |
+| [[Ring of the Dolphin]] | Ring | Uncommon | Yes | pending | [[Rings]] |
+| [[Ring of the Frog]] | Ring | Uncommon | Yes | pending | [[Rings]] |
 | [[Ring of Warmth]] | Ring | Uncommon | Yes | 2,000 gp | [[Rings]] |
 | [[Ring of Water Walking]] | Ring | Uncommon | — | 3,000 gp | [[Rings]] |
 | [[Roast Bean Juice]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
 | [[Robe of Useful Items]] | Wondrous Item | Uncommon | — | 5,000 gp | [[Cloaks, Robes & Clothing]] |
+| [[Rod of Conveyance]] | Rod | Uncommon | — | pending | [[Rods, Staffs & Wands]] |
+| [[Rod of the Disciplinarian]] | Rod | Uncommon | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Root of the World Tree]] | Rod | Uncommon | — | pending | [[Rods, Staffs & Wands]] |
 | [[Rope of Climbing]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Rover’s Boots]] | Wondrous Item | Uncommon | — | — | [[Boots & Footwear]] |
 | [[Rowdy’s Club]] | Weapon (Club) | Uncommon | — | pending | [[Magic Weapons]] |
+| [[Rowdy’s Ring]] | Ring | Uncommon | — | pending | [[Rings]] |
 | [[Royal Jelly]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Saddle of Flying]] | Wondrous Item | Uncommon | Yes | 8,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Sail of Favorable Winds]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Mounts, Vehicles & Travel]] |
@@ -306,13 +351,18 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Slippers of Spider Climbing]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Boots & Footwear]] |
 | [[Slipshod Hammer]] | Weapon (Light Hammer) | Uncommon | — | pending | [[Magic Weapons]] |
 | [[Snowbirds]] | Wondrous Item | Uncommon | — | 500 gp | [[Tools, Keys & Curiosities]] |
+| [[Soldra’s Staff]] | Staff | Uncommon | by a [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Songsteel Armor]] | Armor (Any metal) | Uncommon | — | 1,000 gp | [[Magic Armor]] |
 | [[Songsteel Shield]] | Armor (shield) | Uncommon | — | 1,000 gp | [[Magic Armor]] |
 | [[Songsteel Weapon]] | Weapon (Any) | Uncommon | — | 1,000 gp | [[Magic Weapons]] |
 | [[Speaking Shards]] | Wondrous Item | Uncommon | — | 500 gp | [[Gems, Stones & Orbs]] |
 | [[Speartag]] | Wondrous Item | Uncommon | Yes | 1,100 gp | [[Tools, Keys & Curiosities]] |
 | [[Spirit Effigy]] | Wondrous Item | Uncommon | — | — | [[Tools, Keys & Curiosities]] |
+| [[Splinter Staff]] | Staff | Uncommon | — | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of Channeling]] | Staff | Uncommon | by a [[Sorcerer]] or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of the Lantern Bearer]] | Staff | Uncommon | — | pending | [[Rods, Staffs & Wands]] |
 | [[Staff of the Python]] | Staff | Uncommon | by a [[Cleric]], [[Druid]], or [[Wizard]] | 2,000 gp | [[Rods, Staffs & Wands]] |
+| [[Staff of the Unhatched]] | Staff | Uncommon | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Steadfast Splint]] | Armor (Splint) | Uncommon | Yes | pending | [[Magic Armor]] |
 | [[Stone of Good Luck (Luckstone)]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Amulets, Charms & Jewelry]] |
 | [[Striking Tattoo]] | Wondrous Item | Uncommon | Yes | 2,000 gp | [[Magic Tattoos]] |
@@ -328,6 +378,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Treebleed Bucket]] | Wondrous Item | Uncommon | — | 250 gp | [[Containers & Vessels]] |
 | [[Trident of Fish Command]] | Weapon (Trident) | Uncommon | Yes | 2,040 gp | [[Magic Weapons]] |
 | [[Tyrant’s Whip]] | Weapon (Whip) | Uncommon | — | pending | [[Magic Weapons]] |
+| [[Umbral Band]] | Ring | Uncommon | Yes | pending | [[Rings]] |
 | [[Vehicular Charm Bracelet]] | Wondrous Item | Uncommon | — | 2,200 gp | [[Mounts, Vehicles & Travel]] |
 | [[Verdant Elixir]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Vertiginous Helm]] | Wondrous Item | Uncommon | — | 2,200 gp | [[Headwear & Eyewear]] |
@@ -335,8 +386,11 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Vial of Cloudstuff]] | Wondrous Item | Uncommon | — | 1,000 gp | [[Containers & Vessels]] |
 | [[Void Detector]] | Wondrous Item | Uncommon | — | 50 gp | [[Tools, Keys & Curiosities]] |
 | [[Wafer of Warmth]] | Potion | Uncommon | — | pending | [[Fantastical Foods]] |
+| [[Wand of Fermentation]] | Wand | Uncommon | — | pending | [[Rods, Staffs & Wands]] |
 | [[Wand of Magic Detection]] | Wand | Uncommon | — | 1,000 gp | [[Rods, Staffs & Wands]] |
 | [[Wand of Magic Missiles]] | Wand | Uncommon | — | 2,500 gp | [[Rods, Staffs & Wands]] |
+| [[Wand of Relieved Burdens]] | Wand | Uncommon | — | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Revealing]] | Wand | Uncommon | — | pending | [[Rods, Staffs & Wands]] |
 | [[Wand of Secrets]] | Wand | Uncommon | — | 550 gp | [[Rods, Staffs & Wands]] |
 | [[Wand of Web]] | Wand | Uncommon | by a Spellcaster | 3,000 gp | [[Rods, Staffs & Wands]] |
 | [[Ward Against Wild Appetites]] | Wondrous Item | Uncommon | by a [[Druid]] or [[Ranger]] | 1,500 gp | [[Tools, Keys & Curiosities]] |
@@ -350,6 +404,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Witch’s Brew]] | Potion | Uncommon | — | pending | [[Potions]] |
 | [[Worg Salve]] | Wondrous Item | Uncommon | — | 400 gp | [[Dusts, Oils & Consumables]] |
 | [[Wrathful Vapors]] | Potion | Uncommon | — | pending | [[Potions]] |
+| [[Zipline Ring]] | Ring | Uncommon | Yes | pending | [[Rings]] |
 
 ## Rare
 
@@ -386,6 +441,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Bezoar of the Hoary Owlbear]] | Wondrous Item | Rare | — | pending | [[Bezoars]] |
 | [[Bezoar of the Manticore]] | Wondrous Item | Rare | — | pending | [[Bezoars]] |
 | [[Bezoar of the Screech Owlbear]] | Wondrous Item | Rare | — | pending | [[Bezoars]] |
+| [[Big Dipper]] | Rod | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Black and White Daggers]] | Weapon (Dagger) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Black Dragon Oil]] | Potion | Rare | — | pending | [[Potions]] |
 | [[Blade of Insults]] | Weapon (Any simple weapon that deals piercing or slashing damage) | Rare | by a bard | 1,500 gp + weapon base cost | [[Magic Weapons]] |
@@ -403,6 +459,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Boots of Speed]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Boots & Footwear]] |
 | [[Bowl of Commanding Water Elementals]] | Wondrous Item | Rare | — | 14,500 gp | [[Containers & Vessels]] |
 | [[Bracers of Defense]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Belts, Gloves & Bracers]] |
+| [[Brass Clockwork Staff]] | Staff | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Brawn Armor]] | Armor (Hide) | Rare | Yes | pending | [[Magic Armor]] |
 | [[Brazen Bulwark]] | Armor (Shield) | Rare | Yes | pending | [[Magic Armor]] |
 | [[Brazier of Commanding Fire Elementals]] | Wondrous Item | Rare | — | 14,500 gp | [[Containers & Vessels]] |
@@ -431,6 +488,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Dagger of the Barbed Devil]] | Weapon (Dagger) | Rare | — | pending | [[Magic Weapons]] |
 | [[Dagger of Venom]] | Weapon (Dagger) | Rare | — | 8,000 gp | [[Magic Weapons]] |
 | [[Deadfall Arrow]] | Weapon (Arrow) | Rare | — | pending | [[Magic Weapons]] |
+| [[Devil's Barb]] | Wand | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Diadem of Focus]] | Wondrous Item | Rare | by a [[Sorcerer]] | 4,000 gp | [[Headwear & Eyewear]] |
 | [[Dimensional Net]] | Weapon (Net) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Dimensional Shackles]] | Wondrous Item | Rare | — | 8,000 gp | [[Tools, Keys & Curiosities]] |
@@ -445,6 +503,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Elixir of Spike Skin]] | Potion | Rare | — | pending | [[Potions]] |
 | [[Elixir of the Clear Mind]] | Potion | Rare | — | pending | [[Potions]] |
 | [[Elixir of the Deep]] | Potion | Rare | — | pending | [[Potions]] |
+| [[Elk Horn Rod]] | Rod | Rare | by a Spellcaster | pending | [[Rods, Staffs & Wands]] |
 | [[Entrenching Mattock]] | Weapon (War Pick) | Rare | — | pending | [[Magic Weapons]] |
 | [[Exsanguinating Blade]] | Weapon (Dagger) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Far Traveler’s Potion]] | Potion | Rare | — | 350 gp | [[Potions]] |
@@ -459,10 +518,13 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Gem of Image Storing]] | Wondrous Item | Rare | Yes | 4,000 gp | [[Gems, Stones & Orbs]] |
 | [[Gem of Seeing]] | Wondrous Item | Rare | Yes | 4,400 gp | [[Gems, Stones & Orbs]] |
 | [[Ghost Thread]] | Wondrous Item | Rare | — | 4,000 gp | [[Tools, Keys & Curiosities]] |
+| [[Ghoulbane Rod]] | Rod | Rare | — | pending | [[Rods, Staffs & Wands]] |
 | [[Giant Slayer]] | Weapon (Any Axe or Sword) | Rare | — | 1,500 gp + base item cost | [[Magic Weapons]] |
 | [[Giant-Headed Flail]] | Weapon (Flail) | Rare | — | 5,000 gp | [[Magic Weapons]] |
+| [[Glass Wand of Leng]] | Wand | Rare | by a Spellcaster | pending | [[Rods, Staffs & Wands]] |
 | [[Gnawing Spear]] | Weapon (Spear) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Goblin Shield]] | Armor (Shield) | Rare | Yes | 4,000 gp | [[Magic Armor]] |
+| [[Gremlin’s Paw]] | Wand | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Half-Sword of the Margreve Knights]] | Weapon (Longsword) | Rare | Yes | 4,015 gp | [[Magic Weapons]] |
 | [[Handy Haversack]] | Wondrous Item | Rare | — | 8,000 gp | [[Containers & Vessels]] |
 | [[Hawk-Eyed Oculus]] | Wondrous Item | Rare | — | 5,000 gp | [[Headwear & Eyewear]] |
@@ -480,6 +542,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Horn of Blasting]] | Wondrous Item | Rare | — | 8,000 gp | [[Instruments]] |
 | [[Horn of the Hrimthursar]] | Wondrous Item | Rare | — | 14,000 gp | [[Instruments]] |
 | [[Horseshoes of Traveling]] | Wondrous Item | Rare | — | 8,000 gp | [[Mounts, Vehicles & Travel]] |
+| [[Howling Rod]] | Rod | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Iceblink]] | Weapon (Any Sword) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Icebreaker Axe]] | Weapon (battleaxe or greataxe) | Rare | — | 1,500 gp + weapon base cost | [[Magic Weapons]] |
 | [[Impaling Weapon]] | Weapon (Any Piercing Weapon) | Rare | — | 1,500 gp + base weapon cost | [[Magic Weapons]] |
@@ -559,30 +622,53 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Ring of Animal Influence]] | Ring | Rare | — | 4,000 gp | [[Rings]] |
 | [[Ring of Evasion]] | Ring | Rare | Yes | 4,400 gp | [[Rings]] |
 | [[Ring of Free Action]] | Ring | Rare | Yes | 7,500 gp | [[Rings]] |
+| [[Ring of Giant Mingling]] | Ring | Rare | by a Giant or Humanoid | pending | [[Rings]] |
 | [[Ring of Ice-Shielding]] | Ring | Rare | Yes | 4,400 gp | [[Rings]] |
+| [[Ring of Imperious Command]] | Ring | Rare | Yes | pending | [[Rings]] |
+| [[Ring of Powerful Summons]] | Ring | Rare | by a [[Cleric]], [[Druid]], [[Warlock]], or [[Wizard]] | pending | [[Rings]] |
 | [[Ring of Protection]] | Ring | Rare | Yes | 8,000 gp | [[Rings]] |
 | [[Ring of Reduction]] | Ring | Rare | — | 4,000 gp | [[Rings]] |
 | [[Ring of Resistance]] | Ring | Rare | Yes | 8,000 gp | [[Rings]] |
 | [[Ring of Spell Storing]] | Ring | Rare | Yes | 10,500 gp | [[Rings]] |
+| [[Ring of the Frost Knight]] | Ring | Rare | Yes | pending | [[Rings]] |
+| [[Ring of the Grove’s Guardian]] | Ring | Rare | by a [[Druid]] or [[Ranger]] | pending | [[Rings]] |
+| [[Ring of the Jarl]] | Ring | Rare | Yes | pending | [[Rings]] |
 | [[Ring of the Ram]] | Ring | Rare | Yes | 4,400 gp | [[Rings]] |
+| [[Ring of the Water Dancer]] | Ring | Rare | Yes | pending | [[Rings]] |
+| [[Ring of Ursa]] | Ring | Rare | Yes | pending | [[Rings]] |
 | [[Ring of X-Ray Vision]] | Ring | Rare | Yes | 2,000 gp | [[Rings]] |
 | [[Riverine Blade]] | Weapon (Longsword) | Rare | — | pending | [[Magic Weapons]] |
 | [[Robe of Eyes]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Cloaks, Robes & Clothing]] |
+| [[Rod of Blade Bending]] | Rod | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Rod of Bubbles]] | Rod | Rare | — | pending | [[Rods, Staffs & Wands]] |
+| [[Rod of Deflection]] | Rod | Rare | — | pending | [[Rods, Staffs & Wands]] |
 | [[Rod of Frostbite]] | Wand | Rare | by a spellcaster | 4,400 gp | [[Rods, Staffs & Wands]] |
+| [[Rod of Hellish Grounding]] | Rod | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Rod of Icicles]] | Rod | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Rod of Reformation]] | Rod | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Rod of Repulsion]] | Rod | Rare | Yes | 8,000 gp | [[Rods, Staffs & Wands]] |
 | [[Rod of Rulership]] | Rod | Rare | Yes | 11,500 gp | [[Rods, Staffs & Wands]] |
+| [[Rod of Sacrificial Blessing]] | Rod | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Rod of Solutions]] | Rod | Rare | Yes | 60,000 gp | [[Rods, Staffs & Wands]] |
+| [[Rod of Swarming Skulls]] | Rod | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Rod of the Jester]] | Rod | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Rod of the Mariner]] | Rod | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Rod of Thorns]] | Rod | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Rod of Underworld Navigation]] | Rod | Rare | — | pending | [[Rods, Staffs & Wands]] |
 | [[Rope of Entanglement]] | Wondrous Item | Rare | — | 8,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Rowan Staff]] | Staff | Rare | by a [[Cleric]], [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | 16,000 gp | [[Rods, Staffs & Wands]] |
 | [[Rust Monster Shell]] | Armor (Breastplate) | Rare | Yes | pending | [[Magic Armor]] |
 | [[Rusted Time Blade]] | Weapon (Any Sword) | Rare | Yes | 4,400 gp | [[Arcanepunk Items]] |
 | [[Safety Goblet]] | Wondrous Item | Rare | Yes | 2,200 gp | [[Containers & Vessels]] |
 | [[Scarlet Mead]] | Potion | Rare | — | pending | [[Fantastical Foods]] |
+| [[Scepter of Majesty]] | Rod | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Scimitar of the Desert Winds]] | Weapon (Scimitar) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Scorn Pouch]] | Wondrous Item | Rare | Yes | 4,000 gp | [[Containers & Vessels]] |
 | [[Scourge of Devotion]] | Weapon (Flail) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Searing Whip]] | Weapon (Whip) | Rare | Yes | pending | [[Magic Weapons]] |
+| [[Seelie Staff]] | Staff | Rare | by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Seidr Rune Necklace]] | Wondrous Item | Rare | Yes | 2,000 gp | [[Amulets, Charms & Jewelry]] |
+| [[Serpent Staff]] | Staff | Rare | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Serpent’s Scales]] | Armor (Scale Mail) | Rare | Yes | pending | [[Magic Armor]] |
 | [[Shadow Blade]] | Weapon (longsword, rapier, scimitar, or shortsword) | Rare | Yes | 4,400 gp | [[Magic Weapons]] |
 | [[Sharkskin Vest]] | Armor (Leather) | Rare | Yes | pending | [[Magic Armor]] |
@@ -591,23 +677,36 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Shield of Gnawing]] | Armor (Shield) | Rare | by a [[Barbarian]] | pending | [[Magic Armor]] |
 | [[Shield of Missile Attraction]] | Armor (Shield) | Rare | Yes | 8,000 gp | [[Magic Armor]] |
 | [[Shield of Missile Reversal]] | Armor (Shield) | Rare | Yes | pending | [[Magic Armor]] |
+| [[Shimmer Ring]] | Ring | Rare | Yes | pending | [[Rings]] |
 | [[Shovel of Treasure Finding]] | Wondrous Item | Rare | — | 2,000 gp | [[Tools, Keys & Curiosities]] |
+| [[Signet of the Magister]] | Ring | Rare | Yes | pending | [[Rings]] |
+| [[Slatelight Ring]] | Ring | Rare | Yes | pending | [[Rings]] |
 | [[Slimeblade]] | Weapon (Any Sword) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Spectral Blade]] | Weapon (Shortsword) | Rare | Yes | pending | [[Magic Weapons]] |
+| [[Spider Staff]] | Staff | Rare | by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Spirit Stick]] | Wondrous Item | Rare | — | 2,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Spyhole Rings]] | Wondrous Item | Rare | — | 2,000 gp | [[Tools, Keys & Curiosities]] |
+| [[Staff of Binding]] | Staff | Rare | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of Feathers]] | Staff | Rare | by a Spellcaster | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of Giantkin]] | Staff | Rare | by a [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Staff of Healing]] | Staff | Rare | by a [[Bard]], [[Cleric]], or [[Druid]] | 22,500 gp | [[Rods, Staffs & Wands]] |
+| [[Staff of Scrying]] | Staff | Rare | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of Spores]] | Staff | Rare | by a [[Druid]] | pending | [[Rods, Staffs & Wands]] |
 | [[Staff of Swarming Insects]] | Staff | Rare | — | 15,300 gp | [[Rods, Staffs & Wands]] |
+| [[Staff of the Armada]] | Staff | Rare | by a [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of the Artisan]] | Staff | Rare | by a Spellcaster | pending | [[Rods, Staffs & Wands]] |
 | [[Staff of the Righteous]] | Staff | Rare | by a Spellcaster | 12,040 gp | [[Rods, Staffs & Wands]] |
 | [[Staff of the Simian]] | Staff | Rare | Yes | 13,000 gp | [[Rods, Staffs & Wands]] |
 | [[Staff of the Woodlands]] | Staff | Rare | by a [[Druid]] | 15,300 gp | [[Rods, Staffs & Wands]] |
 | [[Staff of Unraveling]] | Staff | Rare | by a [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | 7,500 gp | [[Rods, Staffs & Wands]] |
+| [[Staff of Voices]] | Staff | Rare | by a [[Bard]], [[Cleric]], [[Druid]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Staff of Withering]] | Staff | Rare | by a [[Cleric]], [[Druid]], or [[Warlock]] | 8,800 gp | [[Rods, Staffs & Wands]] |
 | [[Standard of Divinity]] | Weapon (Glaive, Halberd, Lance, or Pike) | Rare | by a [[Cleric]] or [[Paladin]] | pending | [[Magic Weapons]] |
 | [[Stinger]] | Weapon (Dagger) | Rare | — | pending | [[Magic Weapons]] |
 | [[Stone of Controlling Earth Elementals]] | Wondrous Item | Rare | — | 14,500 gp | [[Gems, Stones & Orbs]] |
 | [[Stormhook]] | Weapon (dart, javelin, or spear) | Rare | Yes | 4,000 gp | [[Magic Weapons]] |
 | [[Stormhorn]] | Wondrous Item | Rare | — | 4,430 gp | [[Instruments]] |
+| [[Stygian Crook]] | Staff | Rare | by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Sun Blade]] | Weapon (Longsword) | Rare | Yes | 8,000 gp | [[Magic Weapons]] |
 | [[Sunfire Plate]] | Armor (Half Plate or Plate) | Rare | Yes | 2,500 gp + base armor cost | [[Magic Armor]] |
 | [[Swarm Suit]] | Armor (Leather or Padded) | Rare | Yes | 8,800 gp | [[Magic Armor]] |
@@ -628,6 +727,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Tyr’s Crushing Might]] | Wondrous Item | Rare | — | 4,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Umbral Chopper]] | Weapon (Any Axe) | Rare | Yes | pending | [[Magic Weapons]] |
 | [[Undine Plate]] | Armor (Plate) | Rare | Yes | pending | [[Magic Armor]] |
+| [[Unseelie Staff]] | Staff | Rare | by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Valendra’s Voluminous Sheath]] | Wondrous Item | Rare | — | 4,000 gp | [[Belts, Gloves & Bracers]] |
 | [[Valhallan Armor]] | Armor (Any medium or heavy) | Rare | Yes | 4,000 gp | [[Magic Armor]] |
 | [[Valkyrie’s Bite]] | Weapon (Scimitar) | Rare | Yes | pending | [[Magic Weapons]] |
@@ -641,19 +741,27 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Voidbane Weapon]] | Weapon (Any) | Rare | Yes | 6,000 gp + weapon base cost | [[Magic Weapons]] |
 | [[Voidskin Cloak]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Wand of Binding]] | Wand | Rare | by a Spellcaster | 10,900 gp | [[Rods, Staffs & Wands]] |
+| [[Wand of Bristles]] | Wand | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Wand of Creeping Vines]] | Wand | Rare | by a Spellcaster | 8,800 gp | [[Rods, Staffs & Wands]] |
 | [[Wand of Enemy Detection]] | Wand | Rare | Yes | 4,400 gp | [[Rods, Staffs & Wands]] |
 | [[Wand of Fireballs]] | Wand | Rare | by a Spellcaster | 10,000 gp | [[Rods, Staffs & Wands]] |
+| [[Wand of Harrowing]] | Wand | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Wand of Lightning Bolts]] | Wand | Rare | by a Spellcaster | 10,000 gp | [[Rods, Staffs & Wands]] |
 | [[Wand of Paralysis]] | Wand | Rare | by a Spellcaster | 4,400 gp | [[Rods, Staffs & Wands]] |
+| [[Wand of Plant Destruction]] | Wand | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of the Timekeeper]] | Wand | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Treasure Finding]] | Wand | Rare | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Vapors]] | Wand | Rare | by a Spellcaster | pending | [[Rods, Staffs & Wands]] |
 | [[Wand of Wonder]] | Wand | Rare | by a Spellcaster | 19,600 gp | [[Rods, Staffs & Wands]] |
 | [[Warlock’s Aegis]] | Armor (Leather) | Rare | by a [[Warlock]] | pending | [[Magic Armor]] |
 | [[Wave Chain Mail]] | Armor (Chain Mail) | Rare | Yes | pending | [[Magic Armor]] |
 | [[Weapon of the Wyrd]] | Weapon | Rare | — | 4,000 gp + base weapon cost | [[Magic Weapons]] |
 | [[Weapon of Wealth]] | Weapon (Any) | Rare | — | 1,500 gp | [[Magic Weapons]] |
+| [[Webbed Staff]] | Staff | Rare | by a [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Whirlwind Bolas]] | Weapon (Bolas) | Rare | — | pending | [[Magic Weapons]] |
 | [[Wings of Flying]] | Wondrous Item | Rare | Yes | 8,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Witch Hunter’s Armor]] | Armor (Light, Medium, or Heavy) | Rare | Yes | pending | [[Magic Armor]] |
+| [[Wolfbite Ring]] | Ring | Rare | Yes | pending | [[Rings]] |
 | [[Wrathful Weapon]] | Weapon (Any Two-Handed or Versatile Weapon) | Rare | by a [[Cleric]] or [[Paladin]] | 6,000 gp + base weapon cost | [[Magic Weapons]] |
 
 ## Very Rare
@@ -695,6 +803,8 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Cockatrice Egg]] | Wondrous Item | Very Rare | — | 5,000 gp | [[Gems, Stones & Orbs]] |
 | [[Communication Apparatus]] | Wondrous Item | Very Rare | — | 50,000 gp | [[Tools, Keys & Curiosities]] |
 | [[Consuming Rod]] | Weapon (Mace) | Very Rare | Yes | pending | [[Magic Weapons]] |
+| [[Crook of the Flock]] | Rod | Very Rare | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Crystal Staff]] | Staff | Very Rare | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Dancing Sword]] | Weapon (Any Sword) | Very Rare | Yes | 30,000 gp | [[Magic Weapons]] |
 | [[Demon Armor]] | Armor (Plate) | Very Rare | Yes | 60,000 gp | [[Magic Armor]] |
 | [[Draconic Staff]] | Staff | Very Rare | by a Spellcaster | 82,090 gp | [[Rods, Staffs & Wands]] |
@@ -708,6 +818,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Empyrean Halo]] | Wondrous Item | Very Rare | Yes | 60,000 gp | [[Headwear & Eyewear]] |
 | [[Encouraging Armor]] | Armor (Light, Medium, or Heavy) | Very Rare | Yes | pending | [[Magic Armor]] |
 | [[Fellforged Armor]] | Armor (Plate) | Very Rare | Yes | pending | [[Magic Armor]] |
+| [[Freerunner Rod]] | Rod | Very Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Frost Brand]] | Weapon (Any Sword) | Very Rare | Yes | 5,000 gp + base weapon cost | [[Magic Weapons]] |
 | [[Ghoulbane Oil]] | Potion | Very Rare | — | pending | [[Potions]] |
 | [[Glacierpress Boots]] | Wondrous Item | Very Rare | — | 27,000 gp | [[Boots & Footwear]] |
@@ -724,6 +835,8 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Honey of Warped Wildflowers]] | Potion | Very Rare | — | pending | [[Spirit Honey]] |
 | [[Horseshoes of a Zephyr]] | Wondrous Item | Very Rare | — | 30,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Iron Traitor’s Arm Ring]] | Wondrous Item | Very Rare | — | 28,000 gp | [[Belts, Gloves & Bracers]] |
+| [[Kraken Clutch Ring]] | Ring | Very Rare | Yes | pending | [[Rings]] |
+| [[Lightning Rod]] | Rod | Very Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Lycanthrope Slayer]] | Weapon (Any Sword) | Very Rare | — | 30,000 gp + base weapon cost | [[Magic Weapons]] |
 | [[Manual of Golems]] | Wondrous Item | Very Rare | — | Price Varies | [[Books & Writing]] |
 | [[Manuals of Advantageous Exertion]] | Wondrous Item | Very Rare | — | 30,000 gp | [[Books & Writing]] |
@@ -751,6 +864,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Reef Splitter]] | Weapon (Warhammer) | Very Rare | Yes | pending | [[Magic Weapons]] |
 | [[Retribution Armor]] | Armor (Breastplate) | Very Rare | Yes | pending | [[Magic Armor]] |
 | [[Ring of Regeneration]] | Ring | Very Rare | Yes | 55,000 gp | [[Rings]] |
+| [[Ring of Sealing]] | Ring | Very Rare | Yes | pending | [[Rings]] |
 | [[Ring of Shooting Stars]] | Ring | Very Rare | Outdoors at Night | 33,000 gp | [[Rings]] |
 | [[Ring of Telekinesis]] | Ring | Very Rare | Yes | 36,500 gp | [[Rings]] |
 | [[Ring of the Cragtop Jarl]] | Ring | Very Rare | Yes | 33,000 gp | [[Rings]] |
@@ -760,7 +874,9 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Robe of Stars]] | Wondrous Item | Very Rare | Yes | 50,500 gp | [[Cloaks, Robes & Clothing]] |
 | [[Rod of Absorption]] | Rod | Very Rare | Yes | 30,000 gp | [[Rods, Staffs & Wands]] |
 | [[Rod of Alertness]] | Rod | Very Rare | Yes | 121,000 gp | [[Rods, Staffs & Wands]] |
+| [[Rod of Sanguine Mastery]] | Rod | Very Rare | Yes | pending | [[Rods, Staffs & Wands]] |
 | [[Rod of Security]] | Rod | Very Rare | — | 100,000 gp | [[Rods, Staffs & Wands]] |
+| [[Rod of the Infernal Realms]] | Rod | Very Rare | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Rostungr Armor]] | Armor (light or hide) | Very Rare | — | 30,000 gp | [[Magic Armor]] |
 | [[Sand Suit]] | Armor (Leather) | Very Rare | Yes | pending | [[Magic Armor]] |
 | [[Scimitar of Speed]] | Weapon (Scimitar) | Very Rare | Yes | 60,000 gp | [[Magic Weapons]] |
@@ -776,14 +892,28 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Spear of the Stilled Heart]] | Weapon (Spear) | Very Rare | Yes | pending | [[Magic Weapons]] |
 | [[Spear of the Western Whale]] | Weapon (Spear) | Very Rare | Yes | pending | [[Magic Weapons]] |
 | [[Spellguard Shield]] | Armor (Shield) | Very Rare | Yes | 60,000 gp | [[Magic Armor]] |
+| [[Staff of Camazotz]] | Staff | Very Rare | by a [[Cleric]], [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of Desolation]] | Staff | Very Rare | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of Dissolution]] | Staff | Very Rare | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of Fate]] | Staff | Very Rare | by a [[Bard]] or [[Cleric]] | pending | [[Rods, Staffs & Wands]] |
 | [[Staff of Fire]] | Staff | Very Rare | by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | 63,500 gp | [[Rods, Staffs & Wands]] |
 | [[Staff of Frost]] | Staff | Very Rare | by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | 63,500 gp | [[Rods, Staffs & Wands]] |
+| [[Staff of Ice and Fire]] | Staff | Very Rare | by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of Midnight]] | Staff | Very Rare | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of Portals]] | Staff | Very Rare | by a [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Staff of Power]] | Staff | Very Rare | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | 125,000 gp | [[Rods, Staffs & Wands]] |
 | [[Staff of Radiance]] | Staff | Very Rare | by a Divine spellcaster | 75,000 gp | [[Rods, Staffs & Wands]] |
 | [[Staff of Ruin]] | Staff | Very Rare | by a [[Cleric]] | 45,000 gp | [[Rods, Staffs & Wands]] |
 | [[Staff of Striking]] | Staff | Very Rare | Yes | 66,000 gp | [[Rods, Staffs & Wands]] |
+| [[Staff of the Cephalopod]] | Staff | Very Rare | by a [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of the Four Winds]] | Staff | Very Rare | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of the Scion]] | Staff | Very Rare | by a [[Cleric]], [[Druid]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of the Treant]] | Staff | Very Rare | by a [[Druid]] | pending | [[Rods, Staffs & Wands]] |
 | [[Staff of the Void]] | Staff | Very Rare | by a [[Cleric]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | 75,000 gp | [[Rods, Staffs & Wands]] |
+| [[Staff of the White Necromancer]] | Staff | Very Rare | by a [[Cleric]], [[Sorcerer]], or [[Wizard]] of a Non-evil Alignment | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of Thorns]] | Staff | Very Rare | by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Staff of Thunder and Lightning]] | Staff | Very Rare | Yes | 120,000 gp | [[Rods, Staffs & Wands]] |
+| [[Stone Staff]] | Staff | Very Rare | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Sunfire Pitch]] | Potion | Very Rare | — | 1,500 gp | [[Potions]] |
 | [[Sword of Sharpness]] | Weapon (Any Sword That Deals Slashing Damage) | Very Rare | Yes | — | [[Magic Weapons]] |
 | [[Sword of Volsung]] | Weapon (Longsword or Greatsword) | Very Rare | by a [[Fighter]] or [[Paladin]] | pending | [[Magic Weapons]] |
@@ -799,6 +929,8 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Unquiet Dagger]] | Weapon (Dagger) | Very Rare | by a Spellcaster of Evil Alignment | pending | [[Magic Weapons]] |
 | [[Vicious Weapon]] | Weapon (Any) | Very Rare | — | 1,500 gp + base weapon cost | [[Magic Weapons]] |
 | [[Void-Touched Buckler]] | Armor (Shield) | Very Rare | Yes | pending | [[Magic Armor]] |
+| [[Wand of Accompaniment]] | Wand | Very Rare | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Wand of Drowning]] | Wand | Very Rare | — | pending | [[Rods, Staffs & Wands]] |
 | [[Wand of Polymorph]] | Wand | Very Rare | by a Spellcaster | 18,500 gp | [[Rods, Staffs & Wands]] |
 | [[Wand of Spell Stealing]] | Wand | Very Rare | by a Spellcaster | 39,500 gp | [[Rods, Staffs & Wands]] |
 | [[Wanderer’s Skein]] | Wondrous Item | Very Rare | Yes | 16,500 gp | [[Tools, Keys & Curiosities]] |
@@ -815,6 +947,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Antlered Headband of Chernobog]] | Wondrous Item | Legendary | by a bard, paladin, sorcerer, or warlock | 120,000 gp | [[Headwear & Eyewear]] |
 | [[Apparatus of the Crab]] | Wondrous Item | Legendary | — | 50,000 gp | [[Mounts, Vehicles & Travel]] |
 | [[Asp’s Kiss]] | Weapon (Shortsword) | Legendary | by a [[Bard]], [[Fighter]], [[Ranger]], or [[Rogue]] | pending | [[Magic Weapons]] |
+| [[Blacktooth]] | Wand | Legendary | — | pending | [[Rods, Staffs & Wands]] |
 | [[Bloodprice Armor]] | Armor (Light, Medium, or Heavy) | Legendary | Yes | pending | [[Magic Armor]] |
 | [[Cloak of the Far Traveler]] | Wondrous Item | Legendary | Yes | 120,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Cloud and Mist Immortality Tea]] | Potion | Legendary | — | pending | [[Fantastical Foods]] |
@@ -842,15 +975,23 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Ring of the Tempest Jarl]] | Ring | Legendary | Yes | 55,000 gp | [[Rings]] |
 | [[Ring of Three Wishes]] | Ring | Legendary | — | 130,000 gp | [[Rings]] |
 | [[Robe of the Archmagi]] | Wondrous Item | Legendary | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | 100,000 gp | [[Cloaks, Robes & Clothing]] |
+| [[Rod of Ghastly Might]] | Rod | Legendary | Yes | pending | [[Rods, Staffs & Wands]] |
+| [[Rod of the Wastes]] | Rod | Legendary | by a [[Paladin]] | pending | [[Rods, Staffs & Wands]] |
 | [[Ruby Crusher]] | Weapon (Greatclub) | Legendary | Yes | pending | [[Magic Weapons]] |
 | [[Scarlet Key]] | Wondrous Item | Legendary | by a [[Bard]], [[Cleric]], or [[Wizard]] | — | [[Tools, Keys & Curiosities]] |
 | [[Shepherd's Flail]] | Weapon (Flail) | Legendary | — | pending | [[Magic Weapons]] |
 | [[Smoking Plate of Heithmir]] | Armor (Plate) | Legendary | Yes | pending | [[Magic Armor]] |
 | [[Sovereign Glue]] | Wondrous Item | Legendary | — | 25,000 gp | [[Dusts, Oils & Consumables]] |
+| [[Staff of Master Lu Po]] | Staff | Legendary | by a [[Fighter]] or [[Monk]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of Parzelon]] | Staff | Legendary | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Staff of the Magi]] | Staff | Legendary | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | Priceless | [[Rods, Staffs & Wands]] |
+| [[Staff of the Peaks]] | Staff | Legendary | by a [[Druid]] | pending | [[Rods, Staffs & Wands]] |
+| [[Staff of Winter and Ice]] | Staff | Legendary | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Starry Half Plate]] | Armor (Half Plate) | Legendary | Yes | 100,000 gp | [[Magic Armor]] |
+| [[Stonedrift Staff]] | Staff | Legendary | by a [[Druid]], [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Stormbinder’s Cloak]] | Wondrous Item | Legendary | Yes | 100,000 gp | [[Cloaks, Robes & Clothing]] |
 | [[Titancall Dagger]] | Weapon (dagger) | Legendary | Yes | 25,000 gp | [[Magic Weapons]] |
+| [[Umbral Staff]] | Staff | Legendary | by a [[Sorcerer]], [[Warlock]], or [[Wizard]] | pending | [[Rods, Staffs & Wands]] |
 | [[Universal Solvent]] | Wondrous Item | Legendary | — | 10,500 gp | [[Dusts, Oils & Consumables]] |
 | [[Voidwalker]] | Ring | Legendary | Yes | Priceless | [[Rings]] |
 | [[Vorpal Sword]] | Weapon (Any Sword That Deals Slashing Damage) | Legendary | Yes | — | [[Magic Weapons]] |
@@ -939,6 +1080,7 @@ Every magic item, grouped by rarity, for handing out treasure. See [[Using Magic
 | [[Orb of Obfuscation]] | Potion | Rarity Varies | — | pending | [[Potions]] |
 | [[Potion of Giant Strength]] | Potion | Rarity Varies | — | Price Varies | [[Potions]] |
 | [[Potion of Healing]] | Potion | Rarity Varies | — | Price Varies | [[Potions]] |
+| [[Ring of Spell Negation]] | Ring | Rarity Varies | Yes | pending | [[Rings]] |
 | [[Sacrificial Knife]] | Weapon (Dagger) | Rarity Varies | Yes | pending | [[Magic Weapons]] |
 | [[Scroll of Conjuring]] | Scroll | Rarity Varies | — | pending | [[Scrolls]] |
 | [[Shattersphere]] | Wondrous Item | Rarity Varies | — | Price Varies | [[Gems, Stones & Orbs]] |

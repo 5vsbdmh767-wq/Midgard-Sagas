@@ -1,0 +1,17 @@
+---
+publish: true
+---
+%% source: Vault of Magic %%
+
+*Wand, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]])* %% price pending %%
+
+Tiny musical notes have been etched into the sides of this otherwise plain, wooden wand. It has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand disintegrates with a small bang.
+
+***Dance.*** While holding the wand, you can use an action to expend 3 charges to cast the *[[6th-Circle Spells#Irresistible Dance|irresistible dance]]* spell (save DC 17) from it. If the target is in the area of the Song property of this wand, it has disadvantage on the save.
+
+***Song.*** While holding the wand, you can use an action to expend 1 charge to cause the area within a 30-foot radius of you to fill with music for 1 minute. The type of music played is up to you, but it is performed flawlessly. Each creature in the area that can hear the music has advantage on saves against being [[Conditions#Deafened|deafened]] and against spells and effects that deal thunder damage.
+
+Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
+
+---
+<small>Sources: [[Credits]].</small>
