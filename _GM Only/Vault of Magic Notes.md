@@ -93,3 +93,8 @@ Many staffs cast spells from another Kobold Press spell book. The book marked th
 - **Mender's Mark** is a brooch shaped like an angel. I left it, since angels aren't specifically Christian. Say if you'd rather it be something else.
 
 More spells not on the wiki yet (from the wondrous chapter): *cloak of shadow*, *creeping darkness*, *douse light*, *ectoplasm*, *eldritch communion*, *emanation of yoth*, *living shadows*, *semblance of dread*, *shadow gateway*, *shadow step*, *yellow sign*. Nameless Cults also lists 18 Great Old One spells, and the Girdle of Traveling Alchemy mentions alchemist's ice and swarm repellent from the same family of books.
+
+## Settled (Wondrous)
+- Skald's Harp: Song of Rest became Celebrate Life, capped at once per performance (my wording, your ruling). Countercharm became Clarity of Thought. Both are marked as house rules in hidden notes on the page.
+- Madness on Eyes of the Outer Dark: ruled at the table.
+- Mender's Mark keeps its angel. Angels exist in Midgard.
