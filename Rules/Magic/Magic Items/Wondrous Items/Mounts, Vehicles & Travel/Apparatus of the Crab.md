@@ -17,7 +17,7 @@ A creature inside the compartment can use an action to move up to two of the lev
 | 2 | Forward window shutter opens. | Forward window shutter closes. |
 | 3 | Side window shutters open (two per side). | Side window shutters close (two per side). |
 | 4 | Two claws extend from the front side of the apparatus. | The claws retract. |
-| 5 | Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: 7 (2d6) bludgeoning damage. | Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: The target is grappled (escape DC 15). |
+| 5 | Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: 7 (2d6) bludgeoning damage. | Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: The target is [[Conditions#Grappled\|grappled]] (escape DC 15). |
 | 6 | The apparatus walks or swims forward. | The apparatus walks or swims backward. |
 | 7 | The apparatus turns 90 degrees left. | The apparatus turns 90 right. |
 | 8 | Eyelike fixtures emit bright light in a 30-foot radius and dim light for an additional 30 feet. | The lights turn off. |

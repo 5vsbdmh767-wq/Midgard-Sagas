@@ -31,9 +31,9 @@ Your werekin character has the following hereditary traits.
 
 When you transform, you gain one of the following options (choose the option each time you transform).
 
-- ***Bestial Strength.*** You gain temporary hit points equal to twice your PB. You also have advantage on STR checks as well as any checks or saves to resist or end being grappled.
+- ***Bestial Strength.*** You gain temporary hit points equal to twice your PB. You also have advantage on STR checks as well as any checks or saves to resist or end being [[Conditions#Grappled|grappled]].
 
-- ***Primal Savagery.*** You channel the raw savagery of your bestial side. When you use this option, and as a bonus action on each of your turns while it is active, you can roar. Creatures other than your allies within 10 feet of you must succeed on a CHA save (DC = 8 + your CHA modifier + PB) or be frightened of you until the end of your next turn. A creature that succeeds on the save is immune to your roar for 24 hours.
+- ***Primal Savagery.*** You channel the raw savagery of your bestial side. When you use this option, and as a bonus action on each of your turns while it is active, you can roar. Creatures other than your allies within 10 feet of you must succeed on a CHA save (DC = 8 + your CHA modifier + PB) or be [[Conditions#Frightened|frightened]] of you until the end of your next turn. A creature that succeeds on the save is immune to your roar for 24 hours.
 
 - ***Swift Hunter.*** Your body becomes primed for the hunt. Until the transformation ends, your speed is increased by 10 feet, and you have advantage on STR (Athletics) and WIS (Survival) checks.
 

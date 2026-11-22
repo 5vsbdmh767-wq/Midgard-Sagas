@@ -9,7 +9,7 @@ This ornate plate armor is fashioned to resemble a kind of humanoid-shaped fortr
 
 ***Ramparts (Requires Attunement).*** As your level increases, you gain the following benefits any time you are wearing this armor.
 
-***5th Level.*** Until the start of your next turn, you gain a +2 bonus to AC if you neither move nor attack on your turn. You also gain advantage on checks and saves to resist being knocked [[Conditions#Prone|prone]] or moved. The bonus continues on your turn if you don’t attack or move. The bonus ends if you are knocked prone or forced to move.
+***5th Level.*** Until the start of your next turn, you gain a +2 bonus to AC if you neither move nor attack on your turn. You also gain advantage on checks and saves to resist being knocked [[Conditions#Prone|prone]] or moved. The bonus continues on your turn if you don’t attack or move. The bonus ends if you are knocked [[Conditions#Prone|prone]] or forced to move.
 
 ***9th Level.*** Instead of a 5-foot range bonus, the range of your war banner’s effect now doubles if you neither move nor attack on your turn. In addition, each of your allies within 10 feet of you while you are neither moving nor attacking gains a +2 bonus to their own AC and DEX saves.
 

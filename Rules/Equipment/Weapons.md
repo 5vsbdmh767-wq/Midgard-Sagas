@@ -210,7 +210,7 @@ Martial weapons, including swords, axes, and polearms, require training to use e
 
 ***Lasso (Martial Melee).*** A Large or smaller creature hit by a lasso is grappled. A lasso has no effect on creatures that are formless or creatures that are at least two sizes larger than the wielder. %% source: Book of Blades %%
 
-A creature can attempt to break itself or another creature free from the lasso’s grapple with a contested STR check against you. Dealing 8 slashing damage to the lasso (AC 10) also frees a grappled creature without harming it and destroys the lasso. When you attack with a lasso, you can make only one attack with the weapon regardless of how many attacks you normally have in a round. As an action, you can pull a creature grappled by your lasso toward you a number of feet equal to your STR score.
+A creature can attempt to break itself or another creature free from the lasso’s grapple with a contested STR check against you. Dealing 8 slashing damage to the lasso (AC 10) also frees a [[Conditions#Grappled|grappled]] creature without harming it and destroys the lasso. When you attack with a lasso, you can make only one attack with the weapon regardless of how many attacks you normally have in a round. As an action, you can pull a creature grappled by your lasso toward you a number of feet equal to your STR score.
 
 ***Light Pick (Simple Melee).*** This weapon resembles a small pickaxe with a very long handle. It is equally as suited for digging as for throwing at opponents. %% source: Player's Guide 2 %%
 
@@ -420,7 +420,7 @@ Make an attack roll with this weapon against a target you can see that has half 
 
 ### Trip
 
-Make an attack roll with this weapon against a Large or smaller creature. On a hit, the target must succeed on a STR or DEX save (target’s choice) or fall prone. If the target is mounted, it has advantage on the save.
+Make an attack roll with this weapon against a Large or smaller creature. On a hit, the target must succeed on a STR or DEX save (target’s choice) or fall [[Conditions#Prone|prone]]. If the target is mounted, it has advantage on the save.
 
 ### Twine
 

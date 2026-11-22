@@ -54,7 +54,7 @@ Warframes come in various sizes, capabilities, and power levels. They use the st
 
 ***Speed.*** This covers the various speeds and travel capabilities of the warframe, in feet and miles per hour, and miles per day for its primary mode of travel. Warframe suits often have additional speeds beyond walking, but these are not useable over long distances (at the GM’s discretion).
 
-***Vulnerabilities, Resistances, and Immunities.*** Warframes have resistances, immunities, and vulnerabilities to certain damage types or conditions. These do not automatically convey to the crew. Like most items, warframes are immune to poison and psychic damage, and the following conditions: blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, and unconscious. Instead of writing all those immunities out in each stat block, a warframe that fits this standard has Vehicle Resilience in the Immune line of its stat block.
+***Vulnerabilities, Resistances, and Immunities.*** Warframes have resistances, immunities, and vulnerabilities to certain damage types or conditions. These do not automatically convey to the crew. Like most items, warframes are immune to poison and psychic damage, and the following conditions: [[Conditions#Blinded|blinded]], [[Conditions#Charmed|charmed]], [[Conditions#Deafened|deafened]], [[Conditions#Exhaustion|exhaustion]], [[Conditions#Frightened|frightened]], [[Conditions#Incapacitated|incapacitated]], [[Conditions#Paralyzed|paralyzed]], [[Conditions#Petrified|petrified]], [[Conditions#Poisoned|poisoned]], [[Conditions#Prone|prone]], [[Conditions#Stunned|stunned]], and [[Conditions#Unconscious|unconscious]]. Instead of writing all those immunities out in each stat block, a warframe that fits this standard has Vehicle Resilience in the Immune line of its stat block.
 
 ***Initiative.*** A warframe has a set count for when it acts in initiative and loses ties with non-vehicles or non‑warframes. In case of ties between warframes, the GM determines their initiative order. For more on initiative rules, see [[Encounter Gameplay#Initiative|Initiative]].
 
@@ -133,7 +133,7 @@ A team of sea explorers and necromantic researchers created this warframe from t
 >
 > ***Death Frenzy (2/Day).*** The devil shark makes three Death Jaws attacks that deal necrotic damage instead of piercing and do not grapple.
 >
-> ***Death Jaws*** **.** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 14 (4d6) piercing damage and the target is grappled.
+> ***Death Jaws*** **.** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 14 (4d6) piercing damage and the target is [[Conditions#Grappled|grappled]].
 >
 > ***Freezing Breath Blast.*** *Ranged Weapon Attack:* +6 to hit, range 60 ft., one target. *Hit:* 13 (3d8) cold damage, and the target must succeed on a DC 16 CON save or halve its speed until the end of its next turn.
 

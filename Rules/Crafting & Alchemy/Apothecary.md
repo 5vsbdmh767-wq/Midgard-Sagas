@@ -183,7 +183,7 @@ publish: true
 > **Ability Check:** DC 15 Wisdom check
 > **Properties:** fluid
 >
-> This glass jar (3 inches in diameter) contains **1d4 + 1 doses**. As an action, one dose can be swallowed or applied to the skin. The creature regains **2d8 + 2 hit points**, ceases to be poisoned, and is cured of any disease.
+> This glass jar (3 inches in diameter) contains **1d4 + 1 doses**. As an action, one dose can be swallowed or applied to the skin. The creature regains **2d8 + 2 hit points**, ceases to be [[Conditions#Poisoned|poisoned]], and is cured of any disease.
 
 > [!abstract] **Regenerative Ointment ✦**
 > *Alchemy [Apothecary] — Expert* · **18 hours** · **175 gp**
@@ -344,11 +344,11 @@ If the item is of lower rank than you, or you have ample time to reattempt, the 
 | Delicate | All ingredients destroyed |
 | Flammable | 1d6 fire damage |
 | Poisonous | Poisoned until long rest |
-| Psychedelic | Incapacitated until long rest |
+| Psychedelic | [[Conditions#Incapacitated\|Incapacitated]] until long rest |
 | Resonant | Noise draws nearby creatures |
 | Sharp | 1d6 piercing damage |
 | Staining | Auto-fail to hide attempt |
-| Stupefying | Stunned until long rest |
+| Stupefying | [[Conditions#Stunned\|Stunned]] until long rest |
 | Volatile | 1d6 force damage |
 
 ---

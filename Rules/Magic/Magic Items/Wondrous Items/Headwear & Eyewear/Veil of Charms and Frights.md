@@ -19,7 +19,7 @@ When you wear this magic veil, it becomes [[Conditions#Invisible|invisible]], le
 
 - If you appear more trusting when you invoke this feature, on a failed save, you have advantage on your next ability check or attack roll targeting the creature.
 
-- If you appear more frightening when you invoke this feature, on a failed save, the creature is [[Conditions#Frightened|frightened]] of you for 1 minute. A frightened creature can repeat its save at the end of each of its turns, ending the effect on itself on a success.
+- If you appear more frightening when you invoke this feature, on a failed save, the creature is [[Conditions#Frightened|frightened]] of you for 1 minute. A [[Conditions#Frightened|frightened]] creature can repeat its save at the end of each of its turns, ending the effect on itself on a success.
 
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

@@ -5,7 +5,7 @@ publish: true
 
 *Wondrous Item, Fabled Priceless (5th-Level and Higher Properties [[Using Magic Items#Attunement|Require Attunement]] by a [[Paladin]])*
 
-This gleaming metal helmet is adorned with a pair of angelic wings. You have immunity to being [[Conditions#Frightened|frightened]] when you wear it, and you can touch an ally to end the frightened condition as a bonus action.
+This gleaming metal helmet is adorned with a pair of angelic wings. You have immunity to being [[Conditions#Frightened|frightened]] when you wear it, and you can touch an ally to end the [[Conditions#Frightened|frightened]] condition as a bonus action.
 
 ***Foe of the Fiendish (Requires Attunement).*** As your level increases, wearing the helmet affords you the following additional benefits.
 

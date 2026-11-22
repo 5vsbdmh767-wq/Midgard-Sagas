@@ -6,7 +6,7 @@ publish: true
 
 The [[Northlands]] are cold, and most of the North suffers extreme cold in winter (see [[Northlands#Boreal Dark and Midnight Sun|Boreal Dark and Midnight Sun]]). These optional rules cover the environmental dangers of the North. For general weather, see [[Weather]].
 
-***Extreme Cold.*** When the temperature is 0 degrees Fahrenheit or lower, a creature exposed to the cold must succeed on a DC 10 CON save at the end of each hour or gain 1 exhaustion level, and may suffer hypothermia (see below). Creatures with resistance or immunity to cold damage automatically succeed.
+***Extreme Cold.*** When the temperature is 0 degrees Fahrenheit or lower, a creature exposed to the cold must succeed on a DC 10 CON save at the end of each hour or gain 1 [[Conditions#Exhaustion|exhaustion]] level, and may suffer hypothermia (see below). Creatures with resistance or immunity to cold damage automatically succeed.
 
 ***Foraging for Food.*** In spring and summer, a creature must spend 1d4 hours and succeed on a DC 15 WIS (Survival) check to find food, gaining a number of pounds of food and water equal to its WIS modifier. In fall and winter, the DC rises to 18 in most areas, and to 20 in the mountains, tundra, and glaciers. These are suggested averages for ease of play.
 
@@ -34,9 +34,9 @@ Creatures with exhaustion in a daudavangr suffer blinding headaches, disorientat
 | 4 | Ice-Addled | The creature is confused and its speech is slurred. It takes 2d10 cold damage each hour it isn't somewhere warm, has disadvantage on all d20 rolls, its speed is halved, and it can't take reactions or cast spells. |
 | 5 | Kissed by the Ice Maiden | The creature believes it is overheating. It must succeed on a DC 12 WIS save or begin removing its warm clothing, and it refuses to wear warm clothing or enter warm places. |
 
-***Slippery Ice.*** Slippery ice is difficult terrain. A creature that moves onto slippery ice for the first time on a turn, or starts its turn there, must succeed on a DC 10 DEX save or have the prone condition.
+***Slippery Ice.*** Slippery ice is difficult terrain. A creature that moves onto slippery ice for the first time on a turn, or starts its turn there, must succeed on a DC 10 DEX save or have the [[Conditions#Prone|prone]] condition.
 
-***Snow Blindness.*** Snow blindness is a burn on the eye from light reflected off snow and ice, usually at high altitudes on white, reflective snowfields. After 1 hour of exposure to a bright, snowy area, a creature must succeed on a CON save (DC 8 + the number of hours spent there). On a failure, it has disadvantage on attack rolls and ability checks that rely on sight for 24 hours. If it fails by 5 or more, it has the blinded condition for that time instead. Creatures with immunity to cold damage or naturally adapted to arctic environments automatically succeed. (Snow goggles and snow visors on the [[Adventuring Gear|Adventuring Gear]] page protect against it.)
+***Snow Blindness.*** Snow blindness is a burn on the eye from light reflected off snow and ice, usually at high altitudes on white, reflective snowfields. After 1 hour of exposure to a bright, snowy area, a creature must succeed on a CON save (DC 8 + the number of hours spent there). On a failure, it has disadvantage on attack rolls and ability checks that rely on sight for 24 hours. If it fails by 5 or more, it has the [[Conditions#Blinded|blinded]] condition for that time instead. Creatures with immunity to cold damage or naturally adapted to arctic environments automatically succeed. (Snow goggles and snow visors on the [[Adventuring Gear|Adventuring Gear]] page protect against it.)
 
 ***Strong Wind.*** Strong wind imposes disadvantage on ranged weapon attack rolls, puts out open flames, and disperses fog. A flying creature in strong wind must land at the end of its turn or fall. In a snowy area, strong wind can whip up a local snowstorm that imposes disadvantage on WIS (Perception) checks.
 

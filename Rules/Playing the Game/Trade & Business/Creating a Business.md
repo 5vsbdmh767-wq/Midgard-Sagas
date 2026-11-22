@@ -664,7 +664,7 @@ For shop names, first roll or choose a formula from the **Shop Name Formula** ta
 | 6 | Flaming | Discount | Fern |
 | 7 | Flying | Dwarven | Hammer |
 | 8 | Friendly | Elven | Lighthouse |
-| 9 | Invisible | Enchanted | Maid |
+| 9 | [[Conditions#Invisible\|Invisible]] | Enchanted | Maid |
 | 10 | Leaping | Fair | Mill |
 | 11 | Magical | Friendly | Moon |
 | 12 | Nosy | Generous | Owlbear |

@@ -43,7 +43,7 @@ Your sublime ravenfolk character has the following hereditary traits.
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Constant Tune.*** You have advantage on saves against being charmed or frightened.
+***Constant Tune.*** You have advantage on saves against being [[Conditions#Charmed|charmed]] or [[Conditions#Frightened|frightened]].
 
 ***Secretkeeper.*** You have advantage on saves against spells and effects that reveal your thoughts or discern your motives.
 

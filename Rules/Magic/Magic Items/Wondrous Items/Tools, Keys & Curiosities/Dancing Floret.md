@@ -9,7 +9,7 @@ This 2-inch-long plant has a humanoid shape, and a large purple flower sits at t
 
 The floret has 3 charges for the following other properties. The floret regains 1d3 expended charges daily at dawn.
 
-***Scintillating Petals.*** You can use an action and expend 1 charge to cause the floret to release scintillating petals. Choose up to three creatures within 20 feet of you. If a target can see the petals, it must succeed on a DC 15 WIS save or be [[Conditions#Charmed|charmed]] for 1 minute. While charmed, the target is [[Conditions#Incapacitated|incapacitated]] and has a speed of 0 as it watches the petals. The effect ends for a target if the target takes damage or another creature uses an action to shake it out of its stupor.
+***Scintillating Petals.*** You can use an action and expend 1 charge to cause the floret to release scintillating petals. Choose up to three creatures within 20 feet of you. If a target can see the petals, it must succeed on a DC 15 WIS save or be [[Conditions#Charmed|charmed]] for 1 minute. While [[Conditions#Charmed|charmed]], the target is [[Conditions#Incapacitated|incapacitated]] and has a speed of 0 as it watches the petals. The effect ends for a target if the target takes damage or another creature uses an action to shake it out of its stupor.
 
 ***Serrated Twirl.*** You can use an action and expend 1 charge to command the floret to fling an arcing swirl of serrated leaves. Each creature within 10 feet of you must make a DC 15 DEX save, taking 4d6 slashing damage on a failed save, or half as much damage on a successful one.
 

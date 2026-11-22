@@ -23,17 +23,17 @@ Your rachisan character has the following hereditary traits.
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Hybrid Humanoid.*** You are primarily a Humanoid, but your vegetable characteristics gives you traits in common with Plants. You have advantage on saves against being paralyzed, petrified, and effects that would cause you to suffer levels of exhaustion.
+***Hybrid Humanoid.*** You are primarily a Humanoid, but your vegetable characteristics gives you traits in common with Plants. You have advantage on saves against being [[Conditions#Paralyzed|paralyzed]], [[Conditions#Petrified|petrified]], and effects that would cause you to suffer levels of [[Conditions#Exhaustion|exhaustion]].
 
 ***Green Thumb.*** When you make an ability check to identify, cultivate, or otherwise interact with plants (not Plant creatures), you can roll a d8 and add the result to the check. In addition, your movement isn’t reduced when passing through areas of difficult terrain created by magical or nonmagical plant growth (you suffer damage or other penalties as normal).
 
 ***Natural Adaptation.*** You have inherited one of the following traits, determined by what kind of plant characteristics you want your character to have:
 
-- **Alliumite.** You have traits in common with allium vegetables, such as garlic, leek, and onion. You might have a bulbous head, long stalks for hair, or stems as your beard. If you are wounded by a piercing or slashing weapon attack, you can use your reaction to emit irritating chemicals into the air. When you do so, each creature within 10 feet of you must succeed on a CON save (DC 10 + your PB) or be blinded until the start of its next turn. Once used, you can’t use this trait again until you finish a long rest.
+- **Alliumite.** You have traits in common with allium vegetables, such as garlic, leek, and onion. You might have a bulbous head, long stalks for hair, or stems as your beard. If you are wounded by a piercing or slashing weapon attack, you can use your reaction to emit irritating chemicals into the air. When you do so, each creature within 10 feet of you must succeed on a CON save (DC 10 + your PB) or be [[Conditions#Blinded|blinded]] until the start of its next turn. Once used, you can’t use this trait again until you finish a long rest.
 
 - **Cruciferan.** You have traits in common with leafy or flower-headed cruciferous vegetables, such as broccoli, cabbage, and kale. You might have tough green or purple flesh or verdant hair growing from tough stems. As part of a short rest, you can prepare a small, nourishing meal of vegetables and herbs that feeds 2 + your PB creatures. Each creature who eats the meal regains 1d6 hit points. If you prepare a meal as part of a long rest, you can remove the effects of one nonmagical disease instead.
 
-- **Tuberkith.** You have traits in common with root and tuber vegetables, such as beet, carrot, and potato. You might have coarse brown flesh, a thick green stem for a head, or colorful flowers as your hair. You are immune to the blinded condition. In addition, you’re minimally aware of your surroundings, even asleep. While unconscious, you can use your passive Perception score to detect changes in your environment and listen to conversations around you.
+- **Tuberkith.** You have traits in common with root and tuber vegetables, such as beet, carrot, and potato. You might have coarse brown flesh, a thick green stem for a head, or colorful flowers as your hair. You are immune to the blinded condition. In addition, you’re minimally aware of your surroundings, even asleep. While [[Conditions#Unconscious|unconscious]], you can use your passive Perception score to detect changes in your environment and listen to conversations around you.
 
 ---
 <small>Sources: [[Credits]].</small>

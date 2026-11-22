@@ -73,7 +73,7 @@ The following epic-level boons are available to any PC with at least one epic le
 
 - **Epic Saves.** Choose one type of save: STR, DEX, CON, INT, WIS, or CHA. You gain proficiency in that save. Additionally, you now double your PB when calculating the result of saves you are proficient in. You can select this boon multiple times, choosing a different save each time.
 
-- **Epic Senses.** You gain keensense out to a range of 30 feet and truesight out to a range of 60 feet. Your truesight functions out to a range of 30 feet even if you are blinded or otherwise unable to perceive via sight (as long as your keensense is still active).
+- **Epic Senses.** You gain keensense out to a range of 30 feet and truesight out to a range of 60 feet. Your truesight functions out to a range of 30 feet even if you are [[Conditions#Blinded|blinded]] or otherwise unable to perceive via sight (as long as your keensense is still active).
 
 - **Epic Skills.** You gain proficiency in all skills. Additionally, choose a number of skills equal to the number of epic levels you have, and double your PB for any ability check you make that uses any of those chosen skills. Whenever you gain a new epic level after selecting this boon, choose one additional skill to receive this benefit.
 

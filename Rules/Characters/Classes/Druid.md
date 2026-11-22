@@ -139,7 +139,7 @@ You know Druidic, the secret language of druids. You can speak the language and 
 You have learned to harness the ambient energy of nature and can redirect that energy to encourage growth and healing. As a bonus action, choose one creature within 5 feet of you (this can be you). When you do so, roll a number of d4s equal to your PB (minimum of 2d4). That creature regains hit points equal to the total rolled. This feature has no effect on Constructs or Undead.
 
 > [!note] Rules of Transformation
-> You can stay in a beast form for a number of hours equal to your PB. You then revert to your normal form unless you expend another use of Wild Shape. You can also choose to revert to your normal form as a bonus action. You automatically revert if you become unconscious, drop to 0 HP while in beast form, or die. While transformed, your game statistics are replaced by those of your new form, except you retain your INT, WIS, and CHA scores. You also retain your personality. If you make an ability check or save while in beast form, you can choose whether to use either your normal character proficiencies and PB or else use the Beast’s listed ability modifier to determine the check total (without your PB in this case). Your hit points for the new form are set to a new amount dependent on the size of your new form, as shown in the **Hit Points by Form Size** table. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 HP, any excess damage carries over to your normal form. For example, if you take 10 damage while in beast form and your beast form has only 1 HP left, you revert to your normal form and take 9 damage. As long as
+> You can stay in a beast form for a number of hours equal to your PB. You then revert to your normal form unless you expend another use of Wild Shape. You can also choose to revert to your normal form as a bonus action. You automatically revert if you become [[Conditions#Unconscious|unconscious]], drop to 0 HP while in beast form, or die. While transformed, your game statistics are replaced by those of your new form, except you retain your INT, WIS, and CHA scores. You also retain your personality. If you make an ability check or save while in beast form, you can choose whether to use either your normal character proficiencies and PB or else use the Beast’s listed ability modifier to determine the check total (without your PB in this case). Your hit points for the new form are set to a new amount dependent on the size of your new form, as shown in the **Hit Points by Form Size** table. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 HP, any excess damage carries over to your normal form. For example, if you take 10 damage while in beast form and your beast form has only 1 HP left, you revert to your normal form and take 9 damage. As long as
 >
 
 You can use this feature a number of times per day equal to your PB. You recover expended uses when you complete a long rest.
@@ -354,7 +354,7 @@ As an action, you can cover yourself in bees for 1 hour or until you dismiss the
 - You are immune to poison damage.
 - The stinger from your Bee Stinger feature deals poison damage equal to twice your PB rather than equal to your PB.
 - You have advantage on CHA (Intimidation) checks.
-- When a creature within 5 feet of you hits you with a melee attack, it must succeed on a CON save against your spell save DC or take 1d8 piercing damage and 1d8 poison damage and be poisoned until the end of its next turn.
+- When a creature within 5 feet of you hits you with a melee attack, it must succeed on a CON save against your spell save DC or take 1d8 piercing damage and 1d8 poison damage and be [[Conditions#Poisoned|poisoned]] until the end of its next turn.
 
 When you create the mantle or as an action while the mantle is active, you can direct the bees to swarm a point you can see within 60 feet of you. Each creature within 10 feet of that point must make a CON save against your spell save DC. On a failure, a creature takes 4d6 piercing damage and 4d6 poison damage and is poisoned for 1 minute. On a success, a creature takes half the damage and isn't poisoned. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. After you command the bees to swarm in this way, the bees disperse, and your mantle ends.
 
@@ -364,7 +364,7 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 %% source: Labyrinth Worldbook %%
 
-Druids aligned with the [[Servants of the Dreaming God|Dreamers]] and the [[Old Ring]] tap into the collective unconscious that binds all living things—perceiving invisible psychic and spiritual connections as easily as others perceive via sight. Dreamers concern themselves with unlearning the limitations of the physical world, focusing instead on understanding the cosmic energies that flow through all of nature’s creations.
+Druids aligned with the [[Servants of the Dreaming God|Dreamers]] and the [[Old Ring]] tap into the collective unconscious that binds all living things—perceiving [[Conditions#Invisible|invisible]] psychic and spiritual connections as easily as others perceive via sight. Dreamers concern themselves with unlearning the limitations of the physical world, focusing instead on understanding the cosmic energies that flow through all of nature’s creations.
 
 **Dreamer Progression**
 
@@ -427,7 +427,7 @@ You can make your magical workings appear exceptionally beautiful or terrifying 
 
 - ***Vision of Beauty.*** Targets perceive your magic as a vison of something each individual target finds supremely beautiful, inspiring, or joyful. Each target gains temporary hit points equal to your WIS modifier plus your PB.
 
-- ***Vision of Terror.*** Targets perceive your magic as a vision of something reminiscent of their nightmares. Each target must make a WIS save (DC equals 10 + the circle of the triggering spell) or be frightened of you for 1 minute. Frightened creatures repeat the save at the end of each of their turns, ending the effect on a success. Once a creature has successfully saved against this effect, it can’t be affected by Imagination Veil for 24 hours. You can use Imagination Veil a number of times equal to your PB. You recover expended uses when you finish a long rest.
+- ***Vision of Terror.*** Targets perceive your magic as a vision of something reminiscent of their nightmares. Each target must make a WIS save (DC equals 10 + the circle of the triggering spell) or be [[Conditions#Frightened|frightened]] of you for 1 minute. Frightened creatures repeat the save at the end of each of their turns, ending the effect on a success. Once a creature has successfully saved against this effect, it can’t be affected by Imagination Veil for 24 hours. You can use Imagination Veil a number of times equal to your PB. You recover expended uses when you finish a long rest.
 
 ### Deep Connection
 
@@ -487,7 +487,7 @@ You gain the following Wild Shape option.
 
 #### Wild Shape: Elemental Conduit
 
-As a bonus action, you can expend a use of your [[#Wild Shape|Wild Shape]] feature to become a living conduit to the elemental planes, taking on physical characteristics related to the elements, such as constantly blowing hair, fiery eyes, fluid-seeming movement, and rock-solid bones. You remain in this form for 10 minutes or until you dismiss it (no action required), are incapacitated, or die.
+As a bonus action, you can expend a use of your [[#Wild Shape|Wild Shape]] feature to become a living conduit to the elemental planes, taking on physical characteristics related to the elements, such as constantly blowing hair, fiery eyes, fluid-seeming movement, and rock-solid bones. You remain in this form for 10 minutes or until you dismiss it (no action required), are [[Conditions#Incapacitated|incapacitated]], or die.
 
 As a reaction while the conduit is active, you can produce one of the following effects.
 
@@ -507,7 +507,7 @@ As a reaction when a friendly creature you can see within 30 feet of you takes a
 
 *11th-Level Elementalist Feature*
 
-Your command of the elements has deepened, strengthening your control over them and lessening their effect on you. While using the Elemental Conduit effect of your Wild Shape feature, you are resistant to acid, cold, fire, lightning, and thunder damage and to the paralyzed, petrified, poisoned, and unconscious conditions.
+Your command of the elements has deepened, strengthening your control over them and lessening their effect on you. While using the Elemental Conduit effect of your Wild Shape feature, you are resistant to acid, cold, fire, lightning, and thunder damage and to the [[Conditions#Paralyzed|paralyzed]], [[Conditions#Petrified|petrified]], poisoned, and unconscious conditions.
 
 ### Elemental Flare
 
@@ -577,7 +577,7 @@ While you are using the Mantle of the Wolf effect of your Wild Shape feature, yo
 
 *11th-Level Fenris Feature*
 
-Whenever a creature attacks an ally within 30 feet of you, you can use your reaction and spend a use of your Wild Shape feature to conjure a giant phantom wolf to maul that creature. There is no attack roll required, and the creature is not entitled to a save. The target takes 4d8 force damage and falls prone. At 15th level, the damage increases to 6d8 force damage.
+Whenever a creature attacks an ally within 30 feet of you, you can use your reaction and spend a use of your Wild Shape feature to conjure a giant phantom wolf to maul that creature. There is no attack roll required, and the creature is not entitled to a save. The target takes 4d8 force damage and falls [[Conditions#Prone|prone]]. At 15th level, the damage increases to 6d8 force damage.
 
 ### Children of the Great Wolf
 
@@ -643,7 +643,7 @@ When you summon the spirit and as a bonus action on your turn, you can move the 
 
 *7th-Level Fey Feature*
 
-Your time interacting with Fey has left you wise to their wiles. You are resistant to the charmed and unconscious conditions.
+Your time interacting with Fey has left you wise to their wiles. You are resistant to the [[Conditions#Charmed|charmed]] and unconscious conditions.
 
 In addition, as a reaction whenever a friendly creature you can see within 60 feet of you (which can include yourself) makes a save against an effect that causes the charmed, frightened, poisoned, or unconscious conditions or against an effect from a Fey, you can give that creature advantage on the save. You can use this feature a number of times equal to your PB and regain all expended uses when you finish a long rest.
 
@@ -668,7 +668,7 @@ Your mastery of fey magic grows. When using the Seelie Spirit effect of your Wil
 | 3 | Autumn | Enchanting. A beautiful, charming fey that radiates love and kindness. | Enchanting Distraction. One hostile creature within 5 feet of the spirit has disadvantage on the next attack roll it makes before the start of your next turn. |
 | 4 | Winter | Sorrowful. A withered and gnarled fey that is unsettling to look upon. | Sorrowful Rebuke. Choose one friendly creature within 5 feet of the spirit. The next time the target takes damage from another creature within 10 feet of the spirit before the start of your next turn, the creature that dealt damage to the target must succeed on a CON save against your spell save DC or take cold damage equal to your PB. |
 
-***Winter’s Grasp (Winter Spirit).*** One hostile creature within range must succeed on a STR save against your spell save DC or be restrained until the start of your next turn.
+***Winter’s Grasp (Winter Spirit).*** One hostile creature within range must succeed on a STR save against your spell save DC or be [[Conditions#Restrained|restrained]] until the start of your next turn.
 
 ### Archfey’s Blessing
 
@@ -823,7 +823,7 @@ You can use this feature a number of times equal to your PB, and you regain all 
 You embody the patient, watchful, all-seeing nature of owls. You gain the following benefits:
 
 - Your initiative bonus now equals your DEX modifier + your WIS modifier.
-- As long as you are conscious, you can't be affected by the surprised condition.
+- As long as you are conscious, you can't be affected by the [[Conditions#Surprised|surprised]] condition.
 - Once on your turn, when you hit a creature that can't see you with an attack or when a creature that can't see you fails its save against your spell, the creature takes psychic damage equal to half your druid level (rounded down).
 
 ## Roses
@@ -995,7 +995,7 @@ You shed bright light in a 30-foot-radius and dim light for an additional 30 fee
 
 You gain a 90-foot swimming speed and can breathe underwater. You are resistant to cold and poison damage. You gain the following action:
 
-- ***Wave (Recharge 4–6).*** Each creature within 5 feet of you must make a STR save (DC 10 + your PB). On a failure, a target takes 2d8 + your PB bludgeoning damage. If a target is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe in water. On a successful STR save, a creature takes half damage and isn’t grappled. At the start of each of your turns, each target grappled by you takes 2d8 + your PB bludgeoning damage. A creature within 5 feet of a grappled target can pull it out of the grapple if it expends an action to attempt a DC 14 STR (Athletics) check—freeing the target on a success.
+- ***Wave (Recharge 4–6).*** Each creature within 5 feet of you must make a STR save (DC 10 + your PB). On a failure, a target takes 2d8 + your PB bludgeoning damage. If a target is Large or smaller, it is also [[Conditions#Grappled|grappled]] (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe in water. On a successful STR save, a creature takes half damage and isn’t grappled. At the start of each of your turns, each target grappled by you takes 2d8 + your PB bludgeoning damage. A creature within 5 feet of a grappled target can pull it out of the grapple if it expends an action to attempt a DC 14 STR (Athletics) check—freeing the target on a success.
 
 ### Manifold Mind
 

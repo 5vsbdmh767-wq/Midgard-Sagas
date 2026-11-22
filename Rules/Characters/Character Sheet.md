@@ -44,7 +44,7 @@ Smaller versions of the two more complex pages are shown here. The sections are 
 
 **19. Death Saves.** When you are reduced to 0 HP but not killed outright, use this section to track the result of your death saves (see **Dropping to 0 Hit Points** in **Chapter 6**).
 
-**20. Exhaustion and Conditions.** When you gain a level of exhaustion or other condition, note it (see **Other Forms of Harm** in **Chapter 6**).
+**20. [[Conditions#Exhaustion|Exhaustion]] and Conditions.** When you gain a level of exhaustion or other condition, note it (see **Other Forms of Harm** in **Chapter 6**).
 
 **21. Proficiencies, Languages, and Talents.** Note any tool proficiencies, vehicle proficiencies, known languages, or talents granted by your class, lineage, heritage, or background.
 

@@ -21,7 +21,7 @@ Your dwarf character has the following hereditary traits.
 
 ***Darkvision.*** You have darkvision to a range of 60 feet.
 
-***Dwarven Resilience.*** You have advantage on saves against becoming poisoned, and you are resistant to poison damage.
+***Dwarven Resilience.*** You have advantage on saves against becoming [[Conditions#Poisoned|poisoned]], and you are resistant to poison damage.
 
 ***Dwarven Toughness.*** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
@@ -79,9 +79,9 @@ Your duergar character has the following hereditary traits.
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Duergar Resilience.*** You have advantage on saves against being charmed or paralyzed. You also have advantage on checks made to see through, detect, or resist illusions and illusory effects.
+***Duergar Resilience.*** You have advantage on saves against being [[Conditions#Charmed|charmed]] or [[Conditions#Paralyzed|paralyzed]]. You also have advantage on checks made to see through, detect, or resist illusions and illusory effects.
 
-***Enlarge.*** As a bonus action, you magically increase in size for 1 minute, along with any equipment you are wearing or wielding. While enlarged, you are Large, double your damage dice on weapon attacks, and make STR checks and saves with advantage. If you lack the room to become Large, this bonus action fails. You can end the transformation early (no action required) to revert to Medium size. The transformation also ends early if you become unconscious. Once you’ve transformed in this way, you must finish a long rest before you can use this feature again.
+***Enlarge.*** As a bonus action, you magically increase in size for 1 minute, along with any equipment you are wearing or wielding. While enlarged, you are Large, double your damage dice on weapon attacks, and make STR checks and saves with advantage. If you lack the room to become Large, this bonus action fails. You can end the transformation early (no action required) to revert to Medium size. The transformation also ends early if you become [[Conditions#Unconscious|unconscious]]. Once you’ve transformed in this way, you must finish a long rest before you can use this feature again.
 
 ***Superior Darkvision.*** You have darkvision to a range of 120 feet. While you are in an area of sunlight, you have disadvantage on WIS (Perception) checks made to perceive via sight.
 

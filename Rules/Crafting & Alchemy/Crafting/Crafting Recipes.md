@@ -380,7 +380,7 @@ publish: true
 | Dwarven Armor | Smith's tools, forge, must be a dwarf | 800 hrs | 35,000 gp | 20 | STR | Metal - Iron *(unique)*, Ward of Protection, Buckles | +2 AC; reduce forced movement by 10 ft |
 | Elven Chain | Smith's tools, forge, must be an elf | 120 hrs | 11,000 gp | 25 | INT | Metal - Iron *(unique)*, Ward of Protection, Buckles | +1 AC; proficient even without medium armor |
 | Mithral Armor | Smith's/leatherworker's tools, forge | 80 hrs | 350 gp + armor | 25 | INT | Precious Metal — Mithral *(unique)*, Armor (any metal) | Removes Stealth disadvantage & STR req. |
-| Oscillanium Armor* | Smith's tools | 800 hrs | 17,500 gp | 25 | INT | Precious Metal — Oscillanium *(unique)*, Armor (any) | Reflects bludgeoning; knocks prone attacker |
+| Oscillanium Armor* | Smith's tools | 800 hrs | 17,500 gp | 25 | INT | Precious Metal — Oscillanium *(unique)*, Armor (any) | Reflects bludgeoning; knocks [[Conditions#Prone\|prone]] attacker |
 | Plate Armor | Smith's tools, forge | 120 hrs | 1,500 gp | 25 | STR | Metal - Iron *(unique)*, Leather, Buckles | AC 18, STR 15 req., Stealth disadv. |
 | Weapon +3 | Smith's tools, forge | varies | varies | 25 | varies | Metal - Iron *(unique)*, Ward of Accuracy | |
 

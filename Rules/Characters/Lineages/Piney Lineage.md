@@ -35,7 +35,7 @@ Your piney character has the following hereditary traits.
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Hybrid Humanoid.*** Though your type is Humanoid, you have traits in common with Plants. You have advantage on saves against effects that would cause you to become exhausted. In addition, you have advantage on saves against being paralyzed or petrified and against effects that would make you fall unconscious.
+***Hybrid Humanoid.*** Though your type is Humanoid, you have traits in common with Plants. You have advantage on saves against effects that would cause you to become exhausted. In addition, you have advantage on saves against being [[Conditions#Paralyzed|paralyzed]] or [[Conditions#Petrified|petrified]] and against effects that would make you fall [[Conditions#Unconscious|unconscious]].
 
 ***Living Wood.*** In moments of peril, you can rapidly grow tough bark, vines, or similar growth to shield you from harm. When an attacker you can see would hit you with a melee attack, you can use your reaction to increase your AC by an amount equal to your PB against the triggering attack. You can use this trait a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 

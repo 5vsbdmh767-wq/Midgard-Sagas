@@ -35,7 +35,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 *Acid exudes from your skin.*
 
-You cause your body to produce a caustic acid. You and anything you are wearing or carrying when you cast the spell is immune to the acid. While the spell is active, you can make an unarmed melee attack against a target, dealing 5d4 acid damage on a hit. If you are grappling a creature, it takes the acid damage every round at the start of your turn, as if you had made a successful attack. If you are grappled by a creature, or restrained or immobilized by any physical means (ropes, chains, or similar restraints), the creature or restraining objects take the acid damage each round (at the start of your turn in the case of restraints, or at the start of the creature’s turn if you are grappled).
+You cause your body to produce a caustic acid. You and anything you are wearing or carrying when you cast the spell is immune to the acid. While the spell is active, you can make an unarmed melee attack against a target, dealing 5d4 acid damage on a hit. If you are grappling a creature, it takes the acid damage every round at the start of your turn, as if you had made a successful attack. If you are [[Conditions#Grappled|grappled]] by a creature, or [[Conditions#Restrained|restrained]] or immobilized by any physical means (ropes, chains, or similar restraints), the creature or restraining objects take the acid damage each round (at the start of your turn in the case of restraints, or at the start of the creature’s turn if you are grappled).
 
 ## Aid
 
@@ -187,7 +187,7 @@ You touch a willing creature. Until the spell ends, the creature’s skin has a 
 
 *You imbue a target with fury and strength.*
 
-You instill primal fury into a creature you can see within range. The target must make a CHA save; a creature can choose to fail this save. On a failure, the target must use its action to attack the nearest enemy it can see with unarmed strikes or natural weapons. For the duration, the target's attacks deal an extra 1d6 damage of the same type dealt by its weapon, and the target can't be charmed or frightened. If there are no enemies within reach, the target can use its action to repeat the save, ending the effect on a success.
+You instill primal fury into a creature you can see within range. The target must make a CHA save; a creature can choose to fail this save. On a failure, the target must use its action to attack the nearest enemy it can see with unarmed strikes or natural weapons. For the duration, the target's attacks deal an extra 1d6 damage of the same type dealt by its weapon, and the target can't be [[Conditions#Charmed|charmed]] or [[Conditions#Frightened|frightened]]. If there are no enemies within reach, the target can use its action to repeat the save, ending the effect on a success.
 
 This spell has no effect on Undead or Constructs.
 
@@ -249,7 +249,7 @@ Creatures that can't be charmed are immune to this spell.
 
 *You magically blind or deafen a nearby creature.*
 
-You can blind or deafen a foe. Choose one creature that you can see within range to make a CON save. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a CON save. On a success, it is no longer affected by the spell.
+You can blind or deafen a foe. Choose one creature that you can see within range to make a CON save. If it fails, the target is either [[Conditions#Blinded|blinded]] or [[Conditions#Deafened|deafened]] (your choice) for the duration. At the end of each of its turns, the target can make a CON save. On a success, it is no longer affected by the spell.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd.
 
@@ -285,7 +285,7 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 *You launch a cone of insect stingers from your hands.*
 
-Each creature in a 30-foot cone must make a DEX save. On a failure, a creature takes 4d6 piercing damage and is poisoned for 1 minute. On a success, a creature takes half as much damage and isn't poisoned. At the end of each of its turns, a poisoned target can make a CON save. On a success, the condition ends on the target.
+Each creature in a 30-foot cone must make a DEX save. On a failure, a creature takes 4d6 piercing damage and is [[Conditions#Poisoned|poisoned]] for 1 minute. On a success, a creature takes half as much damage and isn't poisoned. At the end of each of its turns, a poisoned target can make a CON save. On a success, the condition ends on the target.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 3rd circle or higher, the damage increases by 1d6 for each slot above 2nd.
 
@@ -309,7 +309,7 @@ You draw the power of the mountains into you, gaining a surge of strength that a
 
 You are proficient with hurled objects for the duration. A hurled object has a range of 60 feet and a long range of 240 feet. You deal 2d10 + 4 bludgeoning damage to one target on a hit. (The STR 19 damage bonus is included.)
 
-If the target is a creature and you hit, it must succeed on a STR check against your spell save DC or be knocked prone. On a critical hit, the target has disadvantage on the check.
+If the target is a creature and you hit, it must succeed on a STR check against your spell save DC or be knocked [[Conditions#Prone|prone]]. On a critical hit, the target has disadvantage on the check.
 
 The spell only gives you the ability and might to hurl rocks and similar objects. It doesn’t provide the actual objects which you must have on hand or otherwise produce to benefit from this spell.
 
@@ -329,7 +329,7 @@ The spell only gives you the ability and might to hurl rocks and similar objects
 
 *You empower a weapon with damaging radiance that makes foes visible.*
 
-The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it’s invisible, and the target sheds dim light in a 5-foot radius and can’t become invisible until the spell ends.
+The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it’s [[Conditions#Invisible|invisible]], and the target sheds dim light in a 5-foot radius and can’t become invisible until the spell ends.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 3rd circle or higher, the extra damage increases by 1d6 for each slot above 2nd.
 
@@ -733,13 +733,13 @@ You touch a creature and bestow one of the following effects upon it. It gains t
 
 **Bull’s Strength.** The target has advantage on STR checks, and its carrying capacity doubles.
 
-**Cat’s Grace.** The target has advantage on DEX checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated.
+**Cat’s Grace.** The target has advantage on DEX checks. It also doesn’t take damage from falling 20 feet or less if it isn’t [[Conditions#Incapacitated|incapacitated]].
 
 **Eagle’s Splendor.** The target has advantage on CHA checks and saves against the charmed condition.
 
 **Fox’s Cunning.** The target has advantage on INT checks and checks made to Hide or otherwise avoid notice.
 
-**Owl’s Wisdom.** The target has advantage on WIS checks and can’t be surprised.
+**Owl’s Wisdom.** The target has advantage on WIS checks and can’t be [[Conditions#Surprised|surprised]].
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd.
 
@@ -1123,7 +1123,7 @@ If a creature is holding or wearing the object and takes damage from it, the cre
 
 *You paralyze a Medium or smaller creature.*
 
-Choose a Medium or smaller creature that you can see within range. The target must succeed on a WIS save or be paralyzed for the duration. At the end of each of its turns, an affected target can repeat the WIS save, ending the effect on itself on a success. This spell has no effect on Undead.
+Choose a Medium or smaller creature that you can see within range. The target must succeed on a WIS save or be [[Conditions#Paralyzed|paralyzed]] for the duration. At the end of each of its turns, an affected target can repeat the WIS save, ending the effect on itself on a success. This spell has no effect on Undead.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd. The creatures must be within 30 feet of each other when you target them.
 
@@ -2268,7 +2268,7 @@ In addition, unsecured objects in the area that aren’t being worn or carried a
 
 *You see how healthy creatures around you are.*
 
-You see how near to death other creatures are. Until the spell ends, you know the current hit point total of each creature you can see within 30 feet of you, and you can see how many levels of exhaustion it has.
+You see how near to death other creatures are. Until the spell ends, you know the current hit point total of each creature you can see within 30 feet of you, and you can see how many levels of [[Conditions#Exhaustion|exhaustion]] it has.
 
 As a bonus action on your turn, you can cause a creature within 30 feet of you that is dying to become stable. Doing so ends the spell immediately.
 

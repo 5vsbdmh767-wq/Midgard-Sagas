@@ -61,7 +61,7 @@ At 6th level, choose two more of your proficiencies (any combination of skills o
 
 You know how to strike subtly and exploit a foe’s distraction. Once on your turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The weapon you use must have the Finesse property or be a ranged weapon.
 
-You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
+You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t [[Conditions#Incapacitated|incapacitated]], and you don’t have disadvantage on the attack roll.
 
 The amount of your extra damage you deal increases as you gain levels in this class, as shown in the Sneak Attack column of the **Rogue Progression** table.
 
@@ -172,7 +172,7 @@ Your commitment to the rogue’s path grants you a powerful new ability. Choose 
 
 - **Jack of All Trades.** When you gain a new talent, you can choose it from any talent list. Immediately gain one talent of your choice (that you meet the prerequisites for) when you gain this feature.
 
-- **Vanishing Act.** You can now use the Hide action to attempt to hide from creatures that can clearly sense you, as long as you aren’t within 5 feet of a hostile creature. When you attempt to hide in this way, make a DEX (Stealth) check against the creature’s Perception score as normal. If multiple creatures can sense you when you attempt to hide, roll against the creature with the highest Perception score. If your attempt is successful, you become invisible for 1 minute, along with any equipment you are wearing or carrying. This invisibility ends early (and you are no longer hidden) if you make an attack, cast a spell, or stop hiding.
+- **Vanishing Act.** You can now use the Hide action to attempt to hide from creatures that can clearly sense you, as long as you aren’t within 5 feet of a hostile creature. When you attempt to hide in this way, make a DEX (Stealth) check against the creature’s Perception score as normal. If multiple creatures can sense you when you attempt to hide, roll against the creature with the highest Perception score. If your attempt is successful, you become [[Conditions#Invisible|invisible]] for 1 minute, along with any equipment you are wearing or carrying. This invisibility ends early (and you are no longer hidden) if you make an attack, cast a spell, or stop hiding.
 
 %% source: Player's Guide 2: Double Tap, Vanishing Act %%
 
@@ -188,7 +188,7 @@ This extra damage increases to two additional dice at 17th level.
 
 *14th-Level Rogue Feature*
 
-You have keensense (see **Senses** in **Chapter 6**) to a range of 10 feet. Your keensense ceases to function while you are deafened (see **Appendix A: Conditions**) or otherwise deprived of hearing.
+You have keensense (see **Senses** in **Chapter 6**) to a range of 10 feet. Your keensense ceases to function while you are [[Conditions#Deafened|deafened]] (see **Appendix A: Conditions**) or otherwise deprived of hearing.
 
 ### Elusive
 
@@ -202,7 +202,7 @@ You are so evasive that attackers rarely gain the upper hand against you. While 
 
 Your commitment to the rogue’s path grants you a powerful new ability. You gain one of the following epic boons:
 
-- **Mask of Oblivion.** As an action, you can become invisible for 1 minute. This invisibility ends early only if you become unconscious or you choose to end it. While invisible in this way, you can’t be detected by any nonmagical or magical means short of truesight. Once you use this feature, you can’t do so again until you finish a short or long rest.
+- **Mask of Oblivion.** As an action, you can become invisible for 1 minute. This invisibility ends early only if you become [[Conditions#Unconscious|unconscious]] or you choose to end it. While invisible in this way, you can’t be detected by any nonmagical or magical means short of truesight. Once you use this feature, you can’t do so again until you finish a short or long rest.
 
 - **Shroud of Shadow.** While you are in an area of dim light or darkness, you are considered to have half-cover (+2 bonus to AC and DEX saves) and are resistant to all damage that isn’t radiant.
 
@@ -220,13 +220,13 @@ This section provides additional options useful to rogues and others who take on
 
 It can be disappointing to hold a foe at knifepoint or spellpoint, only for them to slip away with a Disengage trait or by sucking up the opportunity attack. Worse, your foe might ignore your threat completely and attack anyway.
 
-If you are wielding a melee weapon and your opponent is surprised, you can use your action to declare a target dead to rights. You can also declare a single creature dead to rights if it’s in range of your attack for a full round and neither of you moves, takes a Dodge action, or attacks any creature during that time. The target must have no intention or means to defend itself, such as a pleading negotiator.
+If you are wielding a melee weapon and your opponent is [[Conditions#Surprised|surprised]], you can use your action to declare a target dead to rights. You can also declare a single creature dead to rights if it’s in range of your attack for a full round and neither of you moves, takes a Dodge action, or attacks any creature during that time. The target must have no intention or means to defend itself, such as a pleading negotiator.
 
 Dead to rights is a special [[Encounter Gameplay#Ready|Ready]] action. If the trigger conditions you set for attacking the target are met and you hit, you score an automatic critical hit.
 
 If two or more instances of dead to rights occur, such as when a hidden enemy reveals itself and puts you dead to rights while you were staring down a foe, then a standoff occurs. If only one creature in initiative opts to attack, its dead to rights Ready action triggers first. If two or more parties meet their attacking trigger conditions on the same initiative count, they must make contested DEX checks. The winner can use its reaction to benefit from dead to rights.
 
-A GM might consider dealing the attack’s maximum damage instead of normal critical damage. This could especially apply if the target is restrained, paralyzed, or otherwise unable to avoid the worst.
+A GM might consider dealing the attack’s maximum damage instead of normal critical damage. This could especially apply if the target is [[Conditions#Restrained|restrained]], [[Conditions#Paralyzed|paralyzed]], or otherwise unable to avoid the worst.
 
 ### Setup
 
@@ -240,7 +240,7 @@ A cunning rogue has a toolkit of tricks to play in a fight, from a barroom tussl
 
 Once you’ve used a trick, any creature that witnessed it has advantage on saves to resist the same trick for 24 hours.
 
-**Blind.** This trick requires a handful of sand, dust, ash, embers, ink, or similar substance. You toss a substance into the eyes (or ocular equivalent) of a creature you can see within 5 feet of you. It must succeed on a DEX save or be blinded until it spends a bonus action clearing the grime.
+**Blind.** This trick requires a handful of sand, dust, ash, embers, ink, or similar substance. You toss a substance into the eyes (or ocular equivalent) of a creature you can see within 5 feet of you. It must succeed on a DEX save or be [[Conditions#Blinded|blinded]] until it spends a bonus action clearing the grime.
 
 **Grab.** A creature within 5 feet of you and also within 5 feet of an ally must make a DEX save. On a failure, you or the ally grapple it as a reaction.
 
@@ -250,7 +250,7 @@ Once you’ve used a trick, any creature that witnessed it has advantage on save
 
 **Press.** You use nimble leverage to reposition a foe. Make a melee weapon attack against a creature. Regardless of whether you hit, the press follows. The creature must make a STR or INT save (your choice). On a failure, it’s pushed 5 feet.
 
-**Startle.** If a creature is surprised or has not acted in combat yet, you can frighten it with loud noise and sudden movement. A creature within 30 feet of you must succeed on a WIS save or be frightened of you until the end of your next turn. If you deal damage to it before the frightened condition expires, it is extended for another turn. The creature can make a new WIS save at the end of each of its turns to end the effect. Afterward, it can’t be affected by this trick again.
+**Startle.** If a creature is surprised or has not acted in combat yet, you can frighten it with loud noise and sudden movement. A creature within 30 feet of you must succeed on a WIS save or be [[Conditions#Frightened|frightened]] of you until the end of your next turn. If you deal damage to it before the frightened condition expires, it is extended for another turn. The creature can make a new WIS save at the end of each of its turns to end the effect. Afterward, it can’t be affected by this trick again.
 
 ### Set Pitfalls
 
@@ -541,7 +541,7 @@ After initiative is rolled (but before the first round begins), you can choose t
 
 *15th-Level Spy Feature*
 
-When you successfully deal damage with your Sneak Attack feature against a creature that hasn’t taken damage during the current round, the target is automatically stunned until the end of its next turn (in addition to taking damage as normal). The stunned target can attempt a CON save each time it suffers an instance of damage while stunned (DC equals 8 + your PB + your DEX modifier), ending the effect early on a success.
+When you successfully deal damage with your Sneak Attack feature against a creature that hasn’t taken damage during the current round, the target is automatically [[Conditions#Stunned|stunned]] until the end of its next turn (in addition to taking damage as normal). The stunned target can attempt a CON save each time it suffers an instance of damage while stunned (DC equals 8 + your PB + your DEX modifier), ending the effect early on a success.
 
 ## Strategist
 
@@ -724,7 +724,7 @@ When you set a trap, you decide its trigger and effects, including if it deals d
 
 ***Area of Effect.*** A trap’s area of effect is typically only the triggering creature. If you expend a d6 from the d6s available for creating the trap, you can make the trap affect each creature within 5 feet of the trap’s space when it is triggered. This range increases by 5 feet for each additional d6 you spend in this way, to a maximum of 30 feet (6d6). Any d6s spent increasing the trap’s area can’t be spent on triggers or effects.
 
-***Conditions.*** A trap can inflict one of the following conditions: blinded, deafened, or poisoned. Each time you add a condition to a trap’s effects, choose a different condition, expending d6s from the d6s available for creating the trap.
+***Conditions.*** A trap can inflict one of the following conditions: blinded, deafened, or [[Conditions#Poisoned|poisoned]]. Each time you add a condition to a trap’s effects, choose a different condition, expending d6s from the d6s available for creating the trap.
 
 ***Save.*** When a trap is triggered, the affected creature or creatures must make a save against the trap’s effects. The trap’s save DC equals 8 + your PB + the number of d6s the trap’s triggers and effects cost.
 
@@ -749,7 +749,7 @@ You have advantage on checks to find or notice traps, checks to determine how tr
 | Creature enters any space within 10 feet of the trap. | 2d6 |  |
 | Trap Effects |  |  |
 | Effect |  | Cost |
-| On a failed save, the affected creature is grappled. The escape DC is equal to the trap’s save DC. |  | 1d6 |
+| On a failed save, the affected creature is [[Conditions#Grappled\|grappled]]. The escape DC is equal to the trap’s save DC. |  | 1d6 |
 | On a failed save, the affected creature suffers a condition until the end of its next turn. |  | 1d6 |
 | On a failed save, the affected creature is tethered and can’t move more than 15 feet away from the trap’s space |  | 1d6 |
 | until it or another creature takes an action to free it by succeeding on a STR check against the trap’s save DC. |  |  |
@@ -879,7 +879,7 @@ When you gain a new talent, you can select it from the magic or technical talent
 
 *7th-Level Underfoot Feature*
 
-As an action, you can mess with the footing of a Large or smaller creature on the ground within 5 feet of you by disrupting the ground beneath it, typically digging a small hole, slamming on a loose floorboard, dislodging a stone tile, or similar. That creature must succeed on a DEX save (DC = 8 + your PB + your DEX modifier) or fall prone. If the target fails the save and falls prone, you can make one weapon attack against that target as a bonus action.
+As an action, you can mess with the footing of a Large or smaller creature on the ground within 5 feet of you by disrupting the ground beneath it, typically digging a small hole, slamming on a loose floorboard, dislodging a stone tile, or similar. That creature must succeed on a DEX save (DC = 8 + your PB + your DEX modifier) or fall [[Conditions#Prone|prone]]. If the target fails the save and falls prone, you can make one weapon attack against that target as a bonus action.
 
 When you reach 11th level, you can use this feature against Huge or smaller creatures.
 

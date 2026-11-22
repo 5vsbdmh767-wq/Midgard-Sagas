@@ -152,7 +152,7 @@ In deserts, a calvary camel is worth its weight in water. Aggressive to others b
 > **Speed** 40 ft.
 > **Perception** 9
 > **Stealth** 10
-> **Resistant** blinded, exhaustion
+> **Resistant** [[Conditions#Blinded|blinded]], [[Conditions#Exhaustion|exhaustion]]
 > **Senses** —
 > **Languages** —
 >
@@ -172,7 +172,7 @@ In deserts, a calvary camel is worth its weight in water. Aggressive to others b
 >
 > **Reactions**
 >
-> ***Defensive Kick.*** When a creature the camel can see within 5 feet of it deals damage to the camel or its rider, the camel can kick the creature. The attacker must succeed on a DC 13 STR save or be pushed up to 10 feet away from the camel and knocked prone.
+> ***Defensive Kick.*** When a creature the camel can see within 5 feet of it deals damage to the camel or its rider, the camel can kick the creature. The attacker must succeed on a DC 13 STR save or be pushed up to 10 feet away from the camel and knocked [[Conditions#Prone|prone]].
 >
 
 ### Homing Pigeon
@@ -230,7 +230,7 @@ While mastiffs (see *Monster Vault*) serve humanoids as mounts and protectors, h
 >
 > **Actions**
 >
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage. If the target is a Medium or smaller creature, the target is grappled (escape DC 12). Until this grapple ends, the hound can’t Bite another target.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage. If the target is a Medium or smaller creature, the target is [[Conditions#Grappled|grappled]] (escape DC 12). Until this grapple ends, the hound can’t Bite another target.
 >
 > **Bonus Actions**
 >
@@ -250,7 +250,7 @@ An oliphaunt is a massive pachyderm with four scimitar-like tusks and a thick gr
 > **Speed** 40 ft.
 > **Perception** 13
 > **Stealth** 9
-> **Resistant** bludgeoning | frightened, prone
+> **Resistant** bludgeoning | [[Conditions#Frightened|frightened]], prone
 > **Senses** —
 > **Languages** —
 >

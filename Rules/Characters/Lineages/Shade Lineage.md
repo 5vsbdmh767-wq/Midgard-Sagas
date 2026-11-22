@@ -23,7 +23,7 @@ Your shade character has the following hereditary traits.
 
 ***Speed.*** Your speed is determined by your living form.
 
-***Hybrid Humanoid.*** You are a Humanoid, but your partial transition into undeath gives you traits in common with Undead. You are resistant to poison damage. In addition, you have advantage on saves against being poisoned and advantage on checks made to resist suffering levels of exhaustion. Game effects that raise a creature from the dead work on you as normal, but they return you to life as a shade. A *[[Rituals 7th–9th Circle#True Resurrection|true resurrection]]* or *[[9th-Circle Spells#Wish|wish]]* spell can restore you to life as a fully living member of your original lineage.
+***Hybrid Humanoid.*** You are a Humanoid, but your partial transition into undeath gives you traits in common with Undead. You are resistant to poison damage. In addition, you have advantage on saves against being [[Conditions#Poisoned|poisoned]] and advantage on checks made to resist suffering levels of [[Conditions#Exhaustion|exhaustion]]. Game effects that raise a creature from the dead work on you as normal, but they return you to life as a shade. A *[[Rituals 7th–9th Circle#True Resurrection|true resurrection]]* or *[[9th-Circle Spells#Wish|wish]]* spell can restore you to life as a fully living member of your original lineage.
 
 ***Phantasmal Form.*** As an action, you can temporarily dissolve your physical body and assume a ghostly form. This transformation lasts for 1 minute or until you choose to end it (no action required). While transformed, you become translucent and devoid of color, and the air around you grows cold. You also gain the following abilities:
 
@@ -33,7 +33,7 @@ Your shade character has the following hereditary traits.
 
 - You gain a flying speed of 30 feet with the ability to hover.
 
-- You have advantage on ability checks and saves made to escape a grapple or against being restrained. Once you use this feature, you can’t transform again until you finish a long rest.
+- You have advantage on ability checks and saves made to escape a grapple or against being [[Conditions#Restrained|restrained]]. Once you use this feature, you can’t transform again until you finish a long rest.
 
 ***Spectral Sight.*** You have darkvision to a range of 60 feet. In addition, as an action, you can open your awareness to see 30 feet into the Ethereal Plane while you are on the Material Plane (or vice versa), until the end of your next turn. You can activate this special sight a number of times equal to your PB, regaining all uses when you finish a long rest.
 
@@ -55,7 +55,7 @@ Your Stygian shade character has the following hereditary traits.
 
 ***Darkvision.*** You have darkvision to a range of 60 feet.
 
-***Death Mask.*** As an action, you can strip away your veneer of life and expose your true spectral face. Each creature that isn't Undead within 30 feet of you that can see you must succeed on a WIS save (DC 10 + your PB) or be frightened of you for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on the save, or for which the effect ends, is immune to your Death Mask for the next 24 hours. You can use this trait a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+***Death Mask.*** As an action, you can strip away your veneer of life and expose your true spectral face. Each creature that isn't Undead within 30 feet of you that can see you must succeed on a WIS save (DC 10 + your PB) or be [[Conditions#Frightened|frightened]] of you for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on the save, or for which the effect ends, is immune to your Death Mask for the next 24 hours. You can use this trait a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
 ***Hybrid Humanoid.*** You are a Humanoid, but your partial transition into undeath gives you traits in common with Undead. You are resistant to necrotic and poison damage. In addition, you have advantage on saves against being poisoned and advantage on checks made to resist suffering levels of exhaustion. Game effects that raise a creature from the dead work on you as normal, but they return you to life as a shade. A *[[Rituals 7th–9th Circle#True Resurrection|true resurrection]]* or *[[9th-Circle Spells#Wish|wish]]* spell can restore you to life as a fully living member of your original lineage.
 

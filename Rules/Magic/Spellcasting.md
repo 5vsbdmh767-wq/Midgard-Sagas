@@ -248,7 +248,7 @@ A spell’s components are the physical requirements you must provide to cast it
 
 #### Verbal (V)
 
-Most spells require the chanting of mystic words. The combination of sounds, with specific pitch and resonance, sets the magic in motion. Thus, a character who is gagged, affected by the deafened condition (see **Appendix A: Conditions**), or in an area of silence, such as one created by the *[[2nd-Circle Spells#Silence|silence]]* spell, can’t cast a spell with a verbal component.
+Most spells require the chanting of mystic words. The combination of sounds, with specific pitch and resonance, sets the magic in motion. Thus, a character who is gagged, affected by the [[Conditions#Deafened|deafened]] condition (see **Appendix A: Conditions**), or in an area of silence, such as one created by the *[[2nd-Circle Spells#Silence|silence]]* spell, can’t cast a spell with a verbal component.
 
 #### Somatic (S)
 
@@ -282,7 +282,7 @@ Normal activity, such as moving and attacking, doesn’t interfere with concentr
 
 - **Taking damage.** When you take damage while you are concentrating on a spell, you must make a CON save to maintain your concentration. The DC of this save equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon’s breath, make a separate save for each source of damage.
 
-- **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die. The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-tossed ship, require you to succeed on a CON save to maintain concentration on a spell.
+- **Being [[Conditions#Incapacitated|incapacitated]] or killed.** You lose concentration on a spell if you are incapacitated or if you die. The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-tossed ship, require you to succeed on a CON save to maintain concentration on a spell.
 
 ### Description
 

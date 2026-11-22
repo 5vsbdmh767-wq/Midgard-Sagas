@@ -48,7 +48,7 @@ You spend your downtime brewing small batches of beer, wine, or spirits. Brewing
 
 | Check Result | Resolution |
 |---|---|
-| 1–5 | Disaster. Anyone drinking the resulting brew must succeed on a DC 15 CON save or be poisoned for 1 hour. |
+| 1–5 | Disaster. Anyone drinking the resulting brew must succeed on a DC 15 CON save or be [[Conditions#Poisoned\|poisoned]] for 1 hour. |
 | 6–10 | The brew is bad and can’t be sold. |
 | 11–20 | The brew is good and can be sold at a base price equal to cost × 1.5. |
 | 21–25 | The brew is excellent and can be sold at a base price equal to cost × 2. |

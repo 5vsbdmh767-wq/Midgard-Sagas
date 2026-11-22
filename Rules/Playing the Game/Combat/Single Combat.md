@@ -15,7 +15,7 @@ Single combat doesn’t use standard initiative. Instead, each combatant makes a
 
 Most types of single combat have a set number of rounds before the combat ends—the default is 3.
 
-In the event of a tie after the set number of rounds ends, combatants continue for an additional round until one participant earns more successes. Combatants can only fight a number of additional rounds equal to their CON modifier (minimum 1) before they succumb to exhaustion and can no longer fight. If a round ends and one combatant can no longer fight, that combatant falls unconscious, and the combatant left standing is the victor.
+In the event of a tie after the set number of rounds ends, combatants continue for an additional round until one participant earns more successes. Combatants can only fight a number of additional rounds equal to their CON modifier (minimum 1) before they succumb to [[Conditions#Exhaustion|exhaustion]] and can no longer fight. If a round ends and one combatant can no longer fight, that combatant falls [[Conditions#Unconscious|unconscious]], and the combatant left standing is the victor.
 
 Each combatant can make only one weapon attack roll on their turn during each round of single combat. This attack roll is made by rolling a d20 and adding the attacker’s relevant weapon attack bonuses to hit the defending combatant’s AC. If an attacking combatant rolls a 1 on this attack roll or misses the target by 5 or more, the defender can immediately make an additional attack, allowing for a maximum of two attacks in a round.
 
@@ -95,15 +95,15 @@ Instead of determining victory by gaining points, a combatant’s goal is to pin
 
 When a combatant makes a successful attack, they choose one of the following options to affect the target:
 
-- ***Grapple.*** The target becomes grappled (escape DC equals 10 + the grappler’s STR or DEX modifier).
+- ***Grapple.*** The target becomes [[Conditions#Grappled|grappled]] (escape DC equals 10 + the grappler’s STR or DEX modifier).
 
 The target’s speed becomes 0, and it can’t benefit from any bonus to its speed. Note that a grappled target is still free to grapple the grappler.
 
-- ***Throw.*** The target is pushed 10 feet away from the attacker and falls prone. This ends any grapples affecting either combatant. The thrown target has disadvantage on its next attack.
+- ***Throw.*** The target is pushed 10 feet away from the attacker and falls [[Conditions#Prone|prone]]. This ends any grapples affecting either combatant. The thrown target has disadvantage on its next attack.
 
 - ***Counter.*** A combatant readies for the opponent’s next move. The countering combatant has advantage on its next ability check or attack roll made to escape a grapple, whichever comes first.
 
-- ***Pin.*** A combatant pins its target. The target becomes restrained until the grapple ends. A pinned target can only use its action to attempt to escape the pin (DC equals 10 + the pinner’s STR or DEX modifier), which also escapes the grapple. If the escape attempt fails and the target is pinned when a new round of single combat begins, the pinner wins the match!
+- ***Pin.*** A combatant pins its target. The target becomes [[Conditions#Restrained|restrained]] until the grapple ends. A pinned target can only use its action to attempt to escape the pin (DC equals 10 + the pinner’s STR or DEX modifier), which also escapes the grapple. If the escape attempt fails and the target is pinned when a new round of single combat begins, the pinner wins the match!
 
 ## Jousting
 

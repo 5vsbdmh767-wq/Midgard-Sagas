@@ -118,7 +118,7 @@ Spells and rituals available to each source of magic, by circle, with each spell
 - *[[2nd-Circle Spells#Hold|Hold]]* (Enchantment): You paralyze a Medium or smaller creature.
 - *[[2nd-Circle Spells#Imbue Projectile|Imbue Projectile]]* (Enchantment): You infuse a throwing weapon with magical energy.
 - *[[2nd-Circle Spells#Infectious Skal|Infectious Skal]]* (Enchantment): You charm others with an infectious song.
-- *[[2nd-Circle Spells#Invisibility|Invisibility]]* (Illusion): You make a creature invisible for up to an hour, if it doesn’t attack or cast a spell.
+- *[[2nd-Circle Spells#Invisibility|Invisibility]]* (Illusion): You make a creature [[Conditions#Invisible|invisible]] for up to an hour, if it doesn’t attack or cast a spell.
 - *[[2nd-Circle Spells#Knock|Knock]]* (Transmutation): You unlock, unstick, or unbar an object with a single word.
 - *[[2nd-Circle Spells#Levitate|Levitate]]* (Transmutation): You lift your target into the air.
 - *[[2nd-Circle Spells#Maddening Whispers|Maddening Whispers]]* (Enchantment): Your whispers incapacitate a creature.
@@ -510,7 +510,7 @@ Spells and rituals available to each source of magic, by circle, with each spell
 - *[[5th-Circle Spells#Feathered Flock|Feathered Flock]]* (Transmutation): You cause a group of creatures to grow wings.
 - *[[5th-Circle Spells#Flame Strike|Flame Strike]]* (Evocation): You call down a column of blazing radiance to immolate your foes.
 - *[[5th-Circle Spells#Greater Hold|Greater Hold]]* (Enchantment): You paralyze a creature.
-- *[[5th-Circle Spells#Greater Restoration|Greater Restoration]]* (Abjuration): Your touch alleviates exhaustion or ends a magical curse, condition, or other ailment.
+- *[[5th-Circle Spells#Greater Restoration|Greater Restoration]]* (Abjuration): Your touch alleviates [[Conditions#Exhaustion|exhaustion]] or ends a magical curse, condition, or other ailment.
 - *[[5th-Circle Spells#Greater Warding Bond|Greater Warding Bond]]* (Abjuration): You bless a number of rings for creatures to wear, affording protection and allowing them to share their pain.
 - *[[5th-Circle Spells#Legend Lore|Legend Lore]]* (Divination): You instantly learn significant lore about a person, place, or object of legendary importance.
 - *[[5th-Circle Spells#Lifeblind|Lifeblind]]* (Necromancy): Your target can’t see living creatures.
@@ -992,7 +992,7 @@ Spells and rituals available to each source of magic, by circle, with each spell
 - *[[6th-Circle Spells#Cyclone Cloak|Cyclone Cloak]]* (Evocation): Fierce winds surround and protect you.
 - *[[6th-Circle Spells#Delay Spell|Delay Spell]]* (Transmutation): You slow time around spell energy, delaying its effects for a few seconds.
 - *[[6th-Circle Spells#Disintegrate|Disintegrate]]* (Transmutation): You emit a ray that utterly destroys a target, reducing it to dust.
-- *[[6th-Circle Spells#Eyebite|Eyebite]]* (Transmutation): You transform your eyes into wells of eldritch power; creatures you gaze upon fall unconscious, panic, or become sick.
+- *[[6th-Circle Spells#Eyebite|Eyebite]]* (Transmutation): You transform your eyes into wells of eldritch power; creatures you gaze upon fall [[Conditions#Unconscious|unconscious]], panic, or become sick.
 - *[[6th-Circle Spells#Ghost Wells|Ghost Wells]]* (Conjuration): You create pools of spectral hands that claw and restrain your enemies.
 - *[[6th-Circle Spells#Ghostly Form|Ghostly Form]]* (Transmutation): You become incorporeal.
 - *[[6th-Circle Spells#Harm|Harm]]* (Necromancy): You infect a creature with a disease that damages them and reduces their hit point maximum for one hour.

@@ -23,7 +23,7 @@ Encounters are often action-packed with many participants clamoring to accomplis
 >
 > - **Encounters are time-sensitive.** If PCs have unlimited time to complete a task or accomplish a goal, they likely aren’t engaged in an encounter.
 >
-> - **Encounters are dangerous.** If there is a significant chance of harm befalling the PCs, primarily in the form of damage, disease, exhaustion, or death, the PCs are likely engaged in an encounter.
+> - **Encounters are dangerous.** If there is a significant chance of harm befalling the PCs, primarily in the form of damage, disease, [[Conditions#Exhaustion|exhaustion]], or death, the PCs are likely engaged in an encounter.
 >
 > - **Encounters have consequences.** Encounters are meant to test the PCs, which means some risk or pressure is necessary to create stakes. The most common consequence of an encounter is injury or death. However, consequences can take many forms, like losing allies, failing to retrieve an important item, letting a monster live to become more powerful, or similar events that alter the outcome of a story.
 >
@@ -90,7 +90,7 @@ Four of the most common hazards are included here.
 
 **Trigger:** This hazard begins when a creature enters an area affected by gale winds.
 
-**Effects:** Gale winds impose disadvantage on ranged attacks and WIS (Perception) checks that rely on hearing. Small and Tiny creatures must succeed on a DC 11 STR save or fall prone at the start of each of their turns while in the area. A flying creature must land at the end of each turn spent in the area or make a DC 11 STR save. On a failure, the creature falls to the ground instantly and takes falling damage.
+**Effects:** Gale winds impose disadvantage on ranged attacks and WIS (Perception) checks that rely on hearing. Small and Tiny creatures must succeed on a DC 11 STR save or fall [[Conditions#Prone|prone]] at the start of each of their turns while in the area. A flying creature must land at the end of each turn spent in the area or make a DC 11 STR save. On a failure, the creature falls to the ground instantly and takes falling damage.
 
 **Resolution:** An affected creature must find shelter or leave the area.
 
@@ -164,7 +164,7 @@ The basic steps of combat are detailed here.
 
 #### 1. Determine Surprise
 
-When a combat encounter begins, but before initiative is rolled, the GM determines whether any participants might be surprised and get the surprised condition (see **Appendix A: Conditions**). If no participants are trying to be stealthy, everyone notices each other and no one is surprised.
+When a combat encounter begins, but before initiative is rolled, the GM determines whether any participants might be [[Conditions#Surprised|surprised]] and get the surprised condition (see **Appendix A: Conditions**). If no participants are trying to be stealthy, everyone notices each other and no one is surprised.
 
 Otherwise, the GM compares the DEX (Stealth) checks of any creatures actively hiding at the start of combat with the passive Perception score (for PCs) or Perception score (for NPCs or monsters) of creatures on the opposing side. Individual members of a group can be surprised even if other members aren’t.
 
@@ -242,7 +242,7 @@ By default, most creatures don’t have any bonus actions to take. You can only 
 
 You can only ever take one bonus action on your turn, so you must choose which bonus action to use when more than one is available.
 
-You choose when to take a bonus action during your turn, unless the bonus action’s timing is specified. Anything that deprives you of your ability to take an action, such as the incapacitated condition (see **Appendix A: Conditions**), also prevents you from taking a bonus action.
+You choose when to take a bonus action during your turn, unless the bonus action’s timing is specified. Anything that deprives you of your ability to take an action, such as the [[Conditions#Incapacitated|incapacitated]] condition (see **Appendix A: Conditions**), also prevents you from taking a bonus action.
 
 ##### Reactions
 
@@ -412,7 +412,7 @@ When you make a ranged attack, you might fire a bow, hurl a handaxe, or send pro
 
 When a PC makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character’s proficiency bonus (PB). When a monster makes an attack roll, it uses the modifier provided for the action in its stat block.
 
-Other factors can help an attack roll succeed, such as those granted by various class features. Environmental factors, cover, or attempting to attack an invisible target make attack rolls more difficult.
+Other factors can help an attack roll succeed, such as those granted by various class features. Environmental factors, cover, or attempting to attack an [[Conditions#Invisible|invisible]] target make attack rolls more difficult.
 
 ##### Ability Modifier
 
@@ -449,7 +449,7 @@ When a creature you can see can’t see you, you have advantage on attack rolls 
 When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the check result equals or exceeds the target’s Armor Class (AC), the attack hits.
 
 > [!note] Knocking a Creature Out
-> By default, all damage you deal to a creature is potentially lethal, causing death if the target is reduced to 0 HP. But sometimes you want to incapacitate a foe rather than kill. When an attacker reduces a creature to 0 HP with a melee attack (not a ranged or spell attack), the attacker can choose to knock the creature out instead of killing it (sometimes referred to as a nonlethal attack). The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and is stable.
+> By default, all damage you deal to a creature is potentially lethal, causing death if the target is reduced to 0 HP. But sometimes you want to incapacitate a foe rather than kill. When an attacker reduces a creature to 0 HP with a melee attack (not a ranged or spell attack), the attacker can choose to knock the creature out instead of killing it (sometimes referred to as a nonlethal attack). The attacker can make this choice the instant the damage is dealt. The creature falls [[Conditions#Unconscious|unconscious]] and is stable.
 >
 
 ##### Critical Miss or Critical Hit
@@ -504,7 +504,7 @@ A melee attack usually involves an attack roll and dealing damage. However, you 
 
 ##### Grappling
 
-Using the Attack action, you can make a special melee attack to grapple a creature, potentially imposing the grappled condition. If you can make multiple attacks with the Attack action, a grapple attack can replace one.
+Using the Attack action, you can make a special melee attack to grapple a creature, potentially imposing the [[Conditions#Grappled|grappled]] condition. If you can make multiple attacks with the Attack action, a grapple attack can replace one.
 
 The target must be no more than one size larger than you and within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll. Make a STR (Athletics) check contested by the target’s STR (Athletics) or DEX (Acrobatics) check (target chooses).
 

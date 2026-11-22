@@ -9,7 +9,7 @@ Each glove is actually comprised of three, black ivory rings (typically fitting 
 
 - You have resistance to necrotic damage.
 
-- You can spend one Hit Die during a short rest to remove one level of exhaustion instead of regaining hit points.
+- You can spend one Hit Die during a short rest to remove one level of [[Conditions#Exhaustion|exhaustion]] instead of regaining hit points.
 
 - You can use an action to become a living shadow for 1 minute. For the duration, you can move through a space as narrow as 1 inch wide without squeezing, and you can take the Hide action as a bonus action while you are in dim light or darkness. Once used, this property of the gloves can’t be used again until the next nightfall.
 

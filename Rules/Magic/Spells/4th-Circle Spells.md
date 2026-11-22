@@ -43,7 +43,7 @@ A Large or smaller creature you touch becomes a gray ooze. For the duration, the
 
 An unwilling creature must make a CON save to avoid the effect. A willing creature can become unwilling at any point and can make a CON save at the end of each of its turns after becoming unwilling, ending the spell on itself on a success. This spell has no effect on a creature with the Shapechanger tag or a creature with 0 HP. The transformation lasts for the duration, until the target drops to 0 HP, or until it dies.
 
-The target has the maximum hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 HP, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to 0 HP, it isn’t knocked unconscious.
+The target has the maximum hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 HP, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to 0 HP, it isn’t knocked [[Conditions#Unconscious|unconscious]].
 
 The creature is limited by the nature of the ooze’s form. It can’t speak, cast spells, or take any action that requires hands or speech. The target’s gear melds into the new form. The creature can’t activate, use, wield, or otherwise benefit from any of its equipment.
 
@@ -81,7 +81,7 @@ The creature can repeat its save at the end of each of its turns, ending this sp
 
 **Duration:** Concentration, up to 1 hour
 
-*You manifest a movable and invisible eye that you can look through.*
+*You manifest a movable and [[Conditions#Invisible|invisible]] eye that you can look through.*
 
 You create an invisible, magical eye within range that hovers in the air for the duration. You mentally receive visual information from the eye, which has normal vision and darkvision to a range of 30 feet. The eye can look in every direction.
 
@@ -121,7 +121,7 @@ Soothing energy radiates from you in a 10-foot radius. The aura moves with you a
 
 You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a CHA save or be banished.
 
-If the target is native to the plane of existence you’re on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+If the target is native to the plane of existence you’re on, you banish the target to a harmless demiplane. While there, the target is [[Conditions#Incapacitated|incapacitated]]. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 
 If the target is native to a different plane of existence than the one you’re on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn’t return.
 
@@ -169,7 +169,7 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 
 Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.
 
-When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a DEX save or take 3d6 bludgeoning damage and be restrained by the tentacles until the spell ends. A creature that starts its turn in the area and is already restrained by the tentacles takes 3d6 bludgeoning damage.
+When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a DEX save or take 3d6 bludgeoning damage and be [[Conditions#Restrained|restrained]] by the tentacles until the spell ends. A creature that starts its turn in the area and is already restrained by the tentacles takes 3d6 bludgeoning damage.
 
 A creature restrained by the tentacles can use its action to make a STR or DEX check (its choice) against your spell save DC. On a success, it frees itself.
 
@@ -237,7 +237,7 @@ Your fling a chunk of tar that ignites as it travels. Make a ranged spell attack
 
 On a miss, the tar splatters on the target for half as much damage, and the target isn’t set on fire. Determine a landing point for the tar by rolling a d8 and assigning a direction to each die face. The tar chunk lands 1d6 × 5 feet in that direction.
 
-On landing, the tar creates a poisonous cloud. On a hit, the cloud extends 5 feet from the target. On a miss, the cloud billows in a 10-foot radius centered on the tar’s landing point on a miss. A creature that enters or starts its turn in the area must succeed on a CON save or become poisoned until the start of its next turn. If you hit when you cast this spell, the target has disadvantage on its save.
+On landing, the tar creates a poisonous cloud. On a hit, the cloud extends 5 feet from the target. On a miss, the cloud billows in a 10-foot radius centered on the tar’s landing point on a miss. A creature that enters or starts its turn in the area must succeed on a CON save or become [[Conditions#Poisoned|poisoned]] until the start of its next turn. If you hit when you cast this spell, the target has disadvantage on its save.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 5th circle or higher, the damages increase by 1d6 for each slot above 4th.
 
@@ -301,7 +301,7 @@ The marked creature can repeat the save at the end of each of its turns, ending 
 
 *You transform your arms into those of a powerful bear.*
 
-You imbue yourself with the claws of a bear. You transform your arms into a pair of muscular, furred paws and make a melee spell attack against a target. On a hit, the target takes slashing damage equal to 3d10 plus your spellcasting ability modifier and, if the target is no more than one size category larger than you, it falls prone. For the duration, you can make attacks with the claws.
+You imbue yourself with the claws of a bear. You transform your arms into a pair of muscular, furred paws and make a melee spell attack against a target. On a hit, the target takes slashing damage equal to 3d10 plus your spellcasting ability modifier and, if the target is no more than one size category larger than you, it falls [[Conditions#Prone|prone]]. For the duration, you can make attacks with the claws.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 5th or 6th circle, the damage increases to 4d10. When you cast this spell using a spell slot of 7th or 8th circle, the damage increases to 5d10. When you cast this spell using a spell slot of 9th circle, the damage increases to 6d10.
 
@@ -319,7 +319,7 @@ You imbue yourself with the claws of a bear. You transform your arms into a pair
 
 *You compel a creature to move in a direction you choose each round.*
 
-Creatures of your choice that you can see within range and that can hear you must make a WIS save. A target automatically succeeds on this save if it can’t be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another WIS save to try to end the effect. A target isn’t compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
+Creatures of your choice that you can see within range and that can hear you must make a WIS save. A target automatically succeeds on this save if it can’t be [[Conditions#Charmed|charmed]]. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another WIS save to try to end the effect. A target isn’t compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
 
 ## Confusion
 
@@ -538,7 +538,7 @@ You touch a siege weapon, imbuing it with pyroclastic power. For the duration, t
 
 A fist of solid ice filling a 5-foot cube hurtles from you in a direction you choose in a 120-foot line. Each creature in the area must make a DEX save, taking 4d8 cold damage on a failed save, or half as much damage on a successful one.
 
-You may choose for one creature of Huge size or smaller that fails its save to become grappled (escape DC equal to your spell save DC). A creature that ends its turn grappled by the fist takes 2d8 cold damage. When a creature escapes the grapple, the fist shatters.
+You may choose for one creature of Huge size or smaller that fails its save to become [[Conditions#Grappled|grappled]] (escape DC equal to your spell save DC). A creature that ends its turn grappled by the fist takes 2d8 cold damage. When a creature escapes the grapple, the fist shatters.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 5th circle or higher, the damage increases by 1d8 for each slot above 4th. When you cast this spell using a spell slot of 7th circle or higher, the spell ignores resistance to cold damage.
 
@@ -556,7 +556,7 @@ You may choose for one creature of Huge size or smaller that fails its save to b
 
 *You touch a creature to protect it against immobility and confinement.*
 
-You touch a willing creature. For the duration, the target’s movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target’s speed nor cause the target to be paralyzed or restrained.
+You touch a willing creature. For the duration, the target’s movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target’s speed nor cause the target to be [[Conditions#Paralyzed|paralyzed]] or restrained.
 
 The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target’s movement or attacks.
 
@@ -672,7 +672,7 @@ Any creature hostile to you that moves to a space within 10 feet of the guardian
 
 *You inflict lasting terror on a target.*
 
-You instill an irresistible sense of insecurity and terror in the target. The target must make a WIS save. On a failure, the target has disadvantage on DEX (Stealth) checks to avoid your notice and is frightened of you while you are within its line of sight. While you are within 1 mile of the target, you have advantage on WIS (Survival) checks to track the target, and the target can't take a long rest, terrified that you are just around the corner. The target can repeat the save once every 10 minutes, ending the spell on a success.
+You instill an irresistible sense of insecurity and terror in the target. The target must make a WIS save. On a failure, the target has disadvantage on DEX (Stealth) checks to avoid your notice and is [[Conditions#Frightened|frightened]] of you while you are within its line of sight. While you are within 1 mile of the target, you have advantage on WIS (Survival) checks to track the target, and the target can't take a long rest, terrified that you are just around the corner. The target can repeat the save once every 10 minutes, ending the spell on a success.
 
 On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.
 
@@ -948,7 +948,7 @@ A *[[6th-Circle Spells#Disintegrate|disintegrate]]* spell targeting the globe de
 
 *You retaliate against a creature with damaging insults.*
 
-The creature that damaged you is bombarded with a barrage of scathing insults and must make a CHA save. On a failed save, the creature takes 4d10 psychic damage and is incapacitated until the start of your next turn. If the creature fails the save by 5 or more, it is stunned instead. On a successful save, the creature takes half as much damage and isn’t incapacitated.
+The creature that damaged you is bombarded with a barrage of scathing insults and must make a CHA save. On a failed save, the creature takes 4d10 psychic damage and is incapacitated until the start of your next turn. If the creature fails the save by 5 or more, it is [[Conditions#Stunned|stunned]] instead. On a successful save, the creature takes half as much damage and isn’t incapacitated.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 5th circle or higher, the damage increases by 1d10 for each slot above 4th.
 

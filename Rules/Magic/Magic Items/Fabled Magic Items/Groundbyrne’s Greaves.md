@@ -9,7 +9,7 @@ publish: true
 
 The downward-pointing arrows at the base of the greaves are more than just a reminder of where Saga came from; they’re dwarven runes that stabilize the greaves and make sure the wearer always lands on their feet.
 
-While wearing these greaves, you gain a +1 bonus to AC. If you fall while wearing them, you always land on your feet rather than falling prone.
+While wearing these greaves, you gain a +1 bonus to AC. If you fall while wearing them, you always land on your feet rather than falling [[Conditions#Prone|prone]].
 
 ***Grounding Power (Requires Attunement).*** As your level increases, you gain the following benefits while wearing this armor.
 

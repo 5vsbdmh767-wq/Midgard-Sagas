@@ -81,9 +81,9 @@ If you attempt to cast this spell again while the first casting is still active,
 
 You create a mental link between you and a Beast or creature with the Animal subtype that is within range. Until the spell ends, you can use a bonus action to transfer your awareness to the creature—using any or all of its senses—and another bonus action on any subsequent turn to return your awareness to your body. You can use an action to dismiss the spell entirely.
 
-This spell doesn’t affect conjured animals or familiars. The spell doesn’t allow you to control the creature or make it friendly to you. While you are experiencing the world through the creature’s senses, your body remains unconscious and is unaware of events happening around it, including any damage it takes.
+This spell doesn’t affect conjured animals or familiars. The spell doesn’t allow you to control the creature or make it friendly to you. While you are experiencing the world through the creature’s senses, your body remains [[Conditions#Unconscious|unconscious]] and is unaware of events happening around it, including any damage it takes.
 
-The spell ends if the distance between your body and the creature is greater than 1 mile, if the creature is killed, when the duration is up. If you are using the creature’s senses when it is killed, you must succeed on a DC 14 WIS save or be stunned for 1d4 rounds from the shock of experiencing its death.
+The spell ends if the distance between your body and the creature is greater than 1 mile, if the creature is killed, when the duration is up. If you are using the creature’s senses when it is killed, you must succeed on a DC 14 WIS save or be [[Conditions#Stunned|stunned]] for 1d4 rounds from the shock of experiencing its death.
 
 ## Animate Dead
 
@@ -191,9 +191,9 @@ You create a magical trap on a 5-foot-wide area on a solid surface (such a secti
 
 A trap is triggered when a creature enters the trap’s space, and all DCs for a trap are equal to your spell save DC. You decide which type of trap you’re creating when you cast the spell, choosing from flash, snare, or thundercrack.
 
-***Flash.*** The trap emits a sudden flash of bright light. Each creature within 5 feet of the trap must succeed on a CON save or be blinded for 1 minute. A blinded creature can repeat the save at the end of its turn, ending the blinded condition on itself on a success.
+***Flash.*** The trap emits a sudden flash of bright light. Each creature within 5 feet of the trap must succeed on a CON save or be [[Conditions#Blinded|blinded]] for 1 minute. A blinded creature can repeat the save at the end of its turn, ending the blinded condition on itself on a success.
 
-***Snare.*** The trap whips out a glowing arcane cord. The triggering creature must succeed on a DEX save or be grappled. A grappled creature can use its action to make a STR (Athletics) or DEX (Acrobatics) check (its choice) against your spell save DC, ending the grapple effect on itself on a success.
+***Snare.*** The trap whips out a glowing arcane cord. The triggering creature must succeed on a DEX save or be [[Conditions#Grappled|grappled]]. A grappled creature can use its action to make a STR (Athletics) or DEX (Acrobatics) check (its choice) against your spell save DC, ending the grapple effect on itself on a success.
 
 ***Thundercrack.*** The trap releases a wave of thunderous force. Each creature within 5 feet of the trap must succeed on a STR save or take 1d8 thunder damage and is pushed 10 feet directly away from the trap. When triggered, the trap emits a thunderous boom audible to 300 feet.
 
@@ -351,7 +351,7 @@ The spell ends when all the crystals have become nonmagical. If you cast this sp
 
 **Duration:** Concentration, up to 10 minutes
 
-*You conjure a small, invisible sphere through which you can spy and sense nearby locations.*
+*You conjure a small, [[Conditions#Invisible|invisible]] sphere through which you can spy and sense nearby locations.*
 
 You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can’t be attacked or otherwise interacted with.
 
@@ -536,7 +536,7 @@ As an action, you can reach out your consciousness and attempt to influence the 
 
 For the duration of the spell, your body lies in repose in the location you cast the spell. You are blind and deaf to your body’s surroundings, though you can feel and are aware if you take damage. If your body is moved, the spell ends. If your target is awakened, the spell ends.
 
-Once this spell ends, you gain one level of exhaustion.
+Once this spell ends, you gain one level of [[Conditions#Exhaustion|exhaustion]].
 
 ## Dreamspan
 
@@ -822,7 +822,7 @@ If a creature under the effects of this spell engages in combat, stops, or slows
 
 *You place a creature into a deep, healing slumber.*
 
-You touch a willing creature and put it to sleep, infusing it with healing energy that acts for the duration. The target can’t be awoken until the spell ends. When the target awakes, its hit points are restored to its hit point maximum. If the creature was blinded, deafened, paralyzed, poisoned, or suffering from one or more diseases when you cast the ritual, you can choose a number of conditions and diseases equal to your PB to be removed when the creature awakens.
+You touch a willing creature and put it to sleep, infusing it with healing energy that acts for the duration. The target can’t be awoken until the spell ends. When the target awakes, its hit points are restored to its hit point maximum. If the creature was blinded, [[Conditions#Deafened|deafened]], [[Conditions#Paralyzed|paralyzed]], [[Conditions#Poisoned|poisoned]], or suffering from one or more diseases when you cast the ritual, you can choose a number of conditions and diseases equal to your PB to be removed when the creature awakens.
 
 ## Identify
 
@@ -948,7 +948,7 @@ Choose one or more of the following types of creatures: Celestials, Elementals, 
 
 - The creature has disadvantage on attack rolls against targets within the cylinder.
 
-- Targets within the cylinder can’t be charmed, frightened, or possessed by the creature. When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
+- Targets within the cylinder can’t be [[Conditions#Charmed|charmed]], [[Conditions#Frightened|frightened]], or possessed by the creature. When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 
 ***At Higher Circles.*** As you unlock higher circles, this ritual grows in potency. Once you have access to 4th-circle spell slots, the duration increases by 1 hour for each slot you have access to above 3rd.
 
@@ -1002,7 +1002,7 @@ For the duration, while you hold the doll, you can perform the following effects
 
 ***Spontaneous Harm.*** At the GM’s discretion, you can use an action to perform an offensive measure not normally granted by the spell.
 
-For example, you could use an action to attack the effigy’s leg, forcing the target to make a DEX save against your spell save DC or fall prone.
+For example, you could use an action to attack the effigy’s leg, forcing the target to make a DEX save against your spell save DC or fall [[Conditions#Prone|prone]].
 
 ## Mud Pack
 

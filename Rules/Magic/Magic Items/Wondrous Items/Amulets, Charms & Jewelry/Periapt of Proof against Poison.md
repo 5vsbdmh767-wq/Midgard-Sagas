@@ -3,7 +3,7 @@ publish: true
 ---
 *Wondrous Item, [[Using Magic Items#Rarity|Rare]] 500 gp*
 
-This delicate silver chain has a brilliant-cut black and green gem pendant. While you wear it, poisons have no effect on you. You are immune to the poisoned condition and to poison damage.
+This delicate silver chain has a brilliant-cut black and green gem pendant. While you wear it, poisons have no effect on you. You are immune to the [[Conditions#Poisoned|poisoned]] condition and to poison damage.
 
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

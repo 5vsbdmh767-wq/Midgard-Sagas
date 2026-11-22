@@ -23,7 +23,7 @@ Your bearfolk character has the following hereditary traits.
 
 ***Apex Predator.*** When you make a CHA check, you can add your STR or CON modifier to it (choose which during character creation). You can use this trait a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
-***Wild Heart.*** You and allied creatures within 5 feet of you have advantage on saves against being frightened while you are conscious and not incapacitated.
+***Wild Heart.*** You and allied creatures within 5 feet of you have advantage on saves against being [[Conditions#Frightened|frightened]] while you are conscious and not [[Conditions#Incapacitated|incapacitated]].
 
 ***Thick Coat.*** You are resistant to cold damage and immune to the effects of extreme cold.
 

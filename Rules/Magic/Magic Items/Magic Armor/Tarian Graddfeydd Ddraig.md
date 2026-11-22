@@ -12,10 +12,10 @@ While wielding the shield in an area of dim or bright light, you can use an acti
 | d6 | Effect |
 |---|---|
 | 1 | **Red.** The target takes 6d6 fire damage on a failed save, or half as much damage on a successful one. |
-| 2 | **White.** The target takes 4d6 cold damage and is restrained until the start of your next turn on a failed save, or half as much damage and is not restrained on a successful one. |
-| 3 | **Blue.** The target takes 4d6 lightning damage and is paralyzed until the start of your next turn on a failed save, or half as much damage and is not paralyzed on a successful one. |
+| 2 | **White.** The target takes 4d6 cold damage and is [[Conditions#Restrained\|restrained]] until the start of your next turn on a failed save, or half as much damage and is not restrained on a successful one. |
+| 3 | **Blue.** The target takes 4d6 lightning damage and is [[Conditions#Paralyzed\|paralyzed]] until the start of your next turn on a failed save, or half as much damage and is not paralyzed on a successful one. |
 | 4 | **Black.** The target takes 4d6 acid damage on a failed save, or half as much damage on a successful one. If the target failed the save, it also takes an extra 2d6 acid damage on the start of your next turn. |
-| 5 | **Green.** The target takes 4d6 poison damage and is poisoned until the start of your next turn on a failed save, or half as much damage and is not poisoned on a successful one. |
+| 5 | **Green.** The target takes 4d6 poison damage and is [[Conditions#Poisoned\|poisoned]] until the start of your next turn on a failed save, or half as much damage and is not poisoned on a successful one. |
 | 6 | **Shadow.** The target takes 4d6 necrotic damage and its STR score is reduced by 1d4 on a failed save, or half as much damage and does not reduce its STR score on a successful one. The target dies if this STR reduction reduces its STR to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. |
 
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].

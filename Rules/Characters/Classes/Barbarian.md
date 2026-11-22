@@ -61,7 +61,7 @@ While raging, you gain the following benefits if you aren’t wearing heavy armo
 
 If you can cast spells, you can’t cast them or concentrate on them while raging.
 
-Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature or taken damage from a hostile creature since the start of your last turn. You can also end your rage early with a bonus action on your turn.
+Your rage lasts for 1 minute. It ends early if you are knocked [[Conditions#Unconscious|unconscious]] or if your turn ends and you haven’t attacked a hostile creature or taken damage from a hostile creature since the start of your last turn. You can also end your rage early with a bonus action on your turn.
 
 You can rage a number of times equal to the number listed in the **Barbarian Progression** table. You regain all expended uses of Rage when you finish a long rest.
 
@@ -75,7 +75,7 @@ While you aren't wearing any armor, your AC equals 13 + your CON modifier. (DEX 
 
 *2nd-Level Barbarian Feature*
 
-You gain an uncanny sense of impending danger, giving you an edge when avoiding harm. You have advantage on DEX saves while you aren't blinded, deafened, or incapacitated.
+You gain an uncanny sense of impending danger, giving you an edge when avoiding harm. You have advantage on DEX saves while you aren't [[Conditions#Blinded|blinded]], [[Conditions#Deafened|deafened]], or [[Conditions#Incapacitated|incapacitated]].
 
 ### Reckless Attack
 
@@ -142,7 +142,7 @@ Your physical prowess has grown. On your turn, you can make two attacks when you
 
 *6th-Level Barbarian Feature*
 
-Your honed instincts give you advantage on initiative rolls. In addition, if you are surprised at the beginning of combat and aren’t incapacitated, you can act normally on your first turn, if you enter a rage before doing anything else on that turn.
+Your honed instincts give you advantage on initiative rolls. In addition, if you are [[Conditions#Surprised|surprised]] at the beginning of combat and aren’t incapacitated, you can act normally on your first turn, if you enter a rage before doing anything else on that turn.
 
 ### Brutal Critical
 
@@ -259,9 +259,9 @@ Your ferocity looms at all times. You gain proficiency in the Intimidation skill
 
 While raging, you gain the following benefits:
 
-- You ignore any levels of exhaustion you currently suffer for the duration of your rage.
+- You ignore any levels of [[Conditions#Exhaustion|exhaustion]] you currently suffer for the duration of your rage.
 
-- You can’t be charmed or frightened. If you are already charmed or frightened when you enter a rage, the effect is suspended for the duration of the rage.
+- You can’t be [[Conditions#Charmed|charmed]] or [[Conditions#Frightened|frightened]]. If you are already charmed or frightened when you enter a rage, the effect is suspended for the duration of the rage.
 
 - If you score a critical hit or reduce a creature to 0 HP, you gain a number of temporary hit points equal to your PB + your CON modifier. These hit points last until expended or until you finish a short or long rest.
 
@@ -438,7 +438,7 @@ The implacable and effortless nature of the windswept hills instills in you with
 
 *3rd-Level Four Winds Feature*
 
-Each time you enter a rage (see [[#Rage|Rage]]), the swirling winds of your ancestral home surround you. While raging and conscious, you can’t be knocked prone, and you land on your feet after falling. When you first enter your rage, choose one of the following additional benefits that activates for the duration:
+Each time you enter a rage (see [[#Rage|Rage]]), the swirling winds of your ancestral home surround you. While raging and conscious, you can’t be knocked [[Conditions#Prone|prone]], and you land on your feet after falling. When you first enter your rage, choose one of the following additional benefits that activates for the duration:
 
 - The buffeting winds protect you. You are lightly obscured by the swirling dust. Ranged attacks against you are made at disadvantage, and you gain resistance to lightning and thunder damage.
 
@@ -458,7 +458,7 @@ While raging, as a reaction when you or an ally within 30 feet that you can see 
 
 *11th-Level Four Winds Feature*
 
-As a bonus action, you can take the Dash action. Whenever you Dash, until the start of your next turn, you ignore difficult terrain, and you can’t be paralyzed or restrained.
+As a bonus action, you can take the Dash action. Whenever you Dash, until the start of your next turn, you ignore difficult terrain, and you can’t be [[Conditions#Paralyzed|paralyzed]] or [[Conditions#Restrained|restrained]].
 
 ### Raging Storm
 
@@ -564,7 +564,7 @@ While raging, translucent bee spirits form a bear-like visage over your face. Fo
 
 *7th-Level Hive Tender Feature*
 
-You are resistant to poison damage, and you have advantage on saves against being poisoned. If you are poisoned when you activate your Rage feature, the effect is suspended for the duration of the rage.
+You are resistant to poison damage, and you have advantage on saves against being [[Conditions#Poisoned|poisoned]]. If you are poisoned when you activate your Rage feature, the effect is suspended for the duration of the rage.
 
 ### On Buzzing Wings
 
@@ -607,7 +607,7 @@ In addition, when you are submerged in water, you gain darkvision out to a range
 
 When you activate your [[#Rage|Rage]] feature, you call on your primal connection to the kraken. While raging, two spectral tentacles sprout from your body. The tentacles count as melee weapons with which you are proficient. Each tentacle has a reach of 10 feet.
 
-As a bonus action (which can be part of the same bonus action used to activate your Rage), you can make up to two melee weapon attacks with the tentacles (one attack per tentacle). On a successful hit, a tentacle deals force damage equal to 1d4 + your STR modifier. If the target is a Large or smaller creature, it is also grappled (escape DC 8 + your PB + your STR modifier). A tentacle can grapple only one target at a time. If a tentacle is grappling a target, it can make attacks against only that target.
+As a bonus action (which can be part of the same bonus action used to activate your Rage), you can make up to two melee weapon attacks with the tentacles (one attack per tentacle). On a successful hit, a tentacle deals force damage equal to 1d4 + your STR modifier. If the target is a Large or smaller creature, it is also [[Conditions#Grappled|grappled]] (escape DC 8 + your PB + your STR modifier). A tentacle can grapple only one target at a time. If a tentacle is grappling a target, it can make attacks against only that target.
 
 You can use your tentacles to grasp and lift objects that weigh up to a number of pounds equal to your STR score × your PB and also to perform simple tasks like opening unlocked containers or pushing doors closed/open. You can’t use them for tasks that require manual precision like wielding weapons, using tools, or activating magic items.
 

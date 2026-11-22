@@ -204,7 +204,7 @@ When you or a friendly creature within 10 feet of you makes a save, the creature
 
 *9th-Level Paladin Feature*
 
-You and friendly creatures within 10 feet of you can’t be frightened while you are conscious.
+You and friendly creatures within 10 feet of you can’t be [[Conditions#Frightened|frightened]] while you are conscious.
 
 ### Heroic Boon
 
@@ -218,7 +218,7 @@ Your commitment to the paladin’s path grants you a powerful new ability. Choos
 
 - **Radiant Strikes.** Your every strike is divinely empowered. When you hit a creature with a weapon, the attack deals an extra 1d8 radiant damage. Fiends and Undead instead take 2d8 radiant damage. This extra damage stacks with any damage from your Divine Smite feature.
 
-- **Seraphic Sight.** While your [[#Divine Sense|Divine Sense]] feature is active, you don’t have disadvantage on attack rolls against creatures you sense with Divine sense, even if you can’t see them, and such creatures don’t have advantage on attack rolls against you from being hidden, invisible, or otherwise unable to be seen by you. In addition, you can target such creatures with spells, even if the spell normally requires you to see the target.
+- **Seraphic Sight.** While your [[#Divine Sense|Divine Sense]] feature is active, you don’t have disadvantage on attack rolls against creatures you sense with Divine sense, even if you can’t see them, and such creatures don’t have advantage on attack rolls against you from being hidden, [[Conditions#Invisible|invisible]], or otherwise unable to be seen by you. In addition, you can target such creatures with spells, even if the spell normally requires you to see the target.
 
 %% source: Player's Guide 2: Mystic Steed, Seraphic Sight %%
 
@@ -242,7 +242,7 @@ The range of your Aura of Protection and Aura of Courage features (and any auras
 
 Your commitment to the paladin’s path grants you a powerful new ability. You gain one of the following epic boons:
 
-- **Aura of Salvation.** As an action, you can exude a calming reassurance for 1 hour. While the aura is active, you and friendly creatures within 30 feet of you have resistance to nonmagical damage and automatically succeed on death saving throws. A creature with at least 1 HP that starts its turn in the aura regains hit points equal to your CHA modifier. This effect ends early if you are incapacitated or die. Once used, you can't use it again until you finish a long rest.
+- **Aura of Salvation.** As an action, you can exude a calming reassurance for 1 hour. While the aura is active, you and friendly creatures within 30 feet of you have resistance to nonmagical damage and automatically succeed on death saving throws. A creature with at least 1 HP that starts its turn in the aura regains hit points equal to your CHA modifier. This effect ends early if you are [[Conditions#Incapacitated|incapacitated]] or die. Once used, you can't use it again until you finish a long rest.
 
 - **Avenger.** When you expend a Divine spell slot of 5th circle or lower to deal extra damage with your [[#Divine Smite|Divine Smite]] feature, you can choose to roll a d6. If the result of the roll is higher than the circle of the expended slot, you automatically recover the spell slot.
 
@@ -305,11 +305,11 @@ You gain oath spells at the paladin levels listed in the **Anamnesis Oath Spells
 
 | Paladin Level | Spells |
 |---|---|
-| 3rd | *comprehend languages* |
-| 5th | *enthrall* |
-| 9th | *spirit guardians* |
-| 13th | *compulsion* |
-| 17th | *legend lore* |
+| 3rd | *[[1st-Circle Spells#Comprehend Languages\|comprehend languages]]* |
+| 5th | *[[2nd-Circle Spells#Enthrall\|enthrall]]* |
+| 9th | *[[3rd-Circle Spells#Spirit Guardians\|spirit guardians]]* |
+| 13th | *[[4th-Circle Spells#Compulsion\|compulsion]]* |
+| 17th | *[[5th-Circle Spells#Legend Lore\|legend lore]]* |
 
 %% errata 2025-05-29 %%
 
@@ -331,13 +331,13 @@ As an action, you can perform any [[Battle Tactics|Battle Tactic]] (see **Battle
 
 *7th-Level Anamnesis Feature*
 
-You draw power from all glory on the battlefield, regardless of origin, emanating as an aura that steadies your allies. When any creature within 10 feet of you performs a critical hit, all creatures of your choice within 10 feet of you gain temporary hit points equal to your paladin level. While they have these hit points, they are immune to the frightened and charmed conditions. This aura is enhanced by the 17thlevel Aura Improvements class feature.
+You draw power from all glory on the battlefield, regardless of origin, emanating as an aura that steadies your allies. When any creature within 10 feet of you performs a critical hit, all creatures of your choice within 10 feet of you gain temporary hit points equal to your paladin level. While they have these hit points, they are immune to the frightened and [[Conditions#Charmed|charmed]] conditions. This aura is enhanced by the 17thlevel Aura Improvements class feature.
 
 ### Unending Chant
 
 *11th-Level Anamnesis Feature*
 
-The memory of your chant continues even after you fall. Battle Tactics that you use last for their full duration, even if you are knocked unconscious or otherwise removed from a combat.
+The memory of your chant continues even after you fall. Battle Tactics that you use last for their full duration, even if you are knocked [[Conditions#Unconscious|unconscious]] or otherwise removed from a combat.
 
 ### Legendary Mien
 
@@ -345,7 +345,7 @@ The memory of your chant continues even after you fall. Battle Tactics that you 
 
 As an action, you take on the unmistakable appearance of a paladin of legend whose tales you know well. In this state, you stride unhindered across the battlefield and all allies who look upon you know your command. For 1 minute you gain the following benefits:
 
-- Your walking speed increases to 50 feet. You gain the effects of the *freedom of movement* spell. You cannot be moved unless you wish to move.
+- Your walking speed increases to 50 feet. You gain the effects of the *[[4th-Circle Spells#Freedom of Movement|freedom of movement]]* spell. You cannot be moved unless you wish to move.
 
 - You can use any two Battle Tactics (see **Battle Tactics** in **Chapter 4**) of your choice, regardless of whether you know them, at no cost.
 
@@ -489,11 +489,11 @@ You gain oath spells at the paladin levels listed on the **Ashen Base Oath Spell
 
 | Paladin Level | Spells |
 |---|---|
-| 3rd | *hellish rebuke* |
-| 5th | *misty step* |
-| 9th | *fireball* |
-| 13th | *elemental shield* |
-| 17th | *contagion* |
+| 3rd | *[[1st-Circle Spells#Hellish Rebuke\|hellish rebuke]]* |
+| 5th | *[[2nd-Circle Spells#Misty Step\|misty step]]* |
+| 9th | *[[3rd-Circle Spells#Fireball\|fireball]]* |
+| 13th | *[[4th-Circle Spells#Elemental Shield\|elemental shield]]* |
+| 17th | *[[5th-Circle Spells#Contagion\|contagion]]* |
 
 %% errata 2025-05-29 %%
 
@@ -586,7 +586,7 @@ You can end this effect on your turn (no action required). It ends early if you 
 
 #### Channel Divinity: Sanctifying Light
 
-As an action, you present your holy symbol and speak a prayer to bathe yourself in a flash of holy light. Each Aberration, Fey, Fiend, and Undead of your choice within 30 feet of you that can see you must make a CHA save. If the creature fails its save, it is blinded for 1 minute. At the end of each of its turns, a target can make a CON save, ending the effect for itself on a success.
+As an action, you present your holy symbol and speak a prayer to bathe yourself in a flash of holy light. Each Aberration, Fey, Fiend, and Undead of your choice within 30 feet of you that can see you must make a CHA save. If the creature fails its save, it is [[Conditions#Blinded|blinded]] for 1 minute. At the end of each of its turns, a target can make a CON save, ending the effect for itself on a success.
 
 ### Devotion Oath Spells
 
@@ -745,11 +745,11 @@ You gain the following two Channel Divinity options.
 
 #### Channel Divinity: Upheaval
 
-As a bonus action, you can awaken the elder spirits of earth around you, trapping your enemies in a vice of stone, wood, or sucking mud. Each creature of your choice within 10 feet of you must succeed on a STR save or be restrained for up to 1 minute. The target can repeat its save at the end of each of its turns, ending the effect for itself on a successful save. This effect ends early if you willingly move or use another Channel Divinity option.
+As a bonus action, you can awaken the elder spirits of earth around you, trapping your enemies in a vice of stone, wood, or sucking mud. Each creature of your choice within 10 feet of you must succeed on a STR save or be [[Conditions#Restrained|restrained]] for up to 1 minute. The target can repeat its save at the end of each of its turns, ending the effect for itself on a successful save. This effect ends early if you willingly move or use another Channel Divinity option.
 
 #### Channel Divinity: Quelling Chime
 
-You can use your Channel Divinity to echo the primeval sounds of creation, wholly unknown to outsiders of the Material Plane. As an action, you display your holy symbol, and an enrapturing sound resonates from it. Each Aberration, Celestial, Fey, and Fiend within 60 feet of you must succeed on a CHA save or be stunned for 1 minute. The effect ends for a creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
+You can use your Channel Divinity to echo the primeval sounds of creation, wholly unknown to outsiders of the Material Plane. As an action, you display your holy symbol, and an enrapturing sound resonates from it. Each Aberration, Celestial, Fey, and Fiend within 60 feet of you must succeed on a CHA save or be [[Conditions#Stunned|stunned]] for 1 minute. The effect ends for a creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
 ### Old World Oath Spells
 
@@ -907,7 +907,7 @@ You gain the following two Channel Divinity options.
 
 #### Channel Divinity: Forceful Unyoking
 
-As an action, you can present your holy symbol and utter a rebuke in a 30-foot cone. Each creature in the area that is charmed, grappled, or restrained by another creature is immediately freed and has advantage on checks and saves against these conditions for 1 minute. Each creature within 30 feet of you that caused a creature in the cone to suffer one of the removed conditions takes psychic damage equal to twice your CHA modifier (minimum of 1).
+As an action, you can present your holy symbol and utter a rebuke in a 30-foot cone. Each creature in the area that is charmed, [[Conditions#Grappled|grappled]], or restrained by another creature is immediately freed and has advantage on checks and saves against these conditions for 1 minute. Each creature within 30 feet of you that caused a creature in the cone to suffer one of the removed conditions takes psychic damage equal to twice your CHA modifier (minimum of 1).
 
 #### Channel Divinity: Oathbreaker
 
@@ -949,7 +949,7 @@ Your resolve prevents direct control of your body and mind. This feature grants 
 
 - When you use your [[#Divine Sense|Divine Sense]] feature, you also know the location of any creature with the charmed condition or that is being magically controlled by another creature.
 
-- You are immune to the charmed, incapacitated, and paralyzed conditions, provided those conditions come from another creature. You can still suffer these conditions from effects like hazards, poisons, or traps.
+- You are immune to the charmed, incapacitated, and [[Conditions#Paralyzed|paralyzed]] conditions, provided those conditions come from another creature. You can still suffer these conditions from effects like hazards, poisons, or traps.
 
 - You can use your [[#Lay on Hands|Lay on Hands]] feature to expend 5 HP from your pool of healing to remove the charmed, grappled, or restrained condition from a target.
 

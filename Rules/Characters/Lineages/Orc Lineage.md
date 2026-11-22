@@ -19,7 +19,7 @@ Your orc character has the following hereditary traits.
 
 ***Heightened Senses.*** You have advantage on Perception checks that rely on sight or hearing. You can see through lightly obscured areas normally and areas of dim light as if it were bright light.
 
-***Orcish Perseverance.*** When you would die due to suffocating or gaining levels of exhaustion, you instead enter a death-like stasis. While in stasis you are incapacitated, can’t move, can’t speak, and are unaware of your surroundings. You also cease to age, and your body is protected from decay. You can remain in this state until you are restored by mundane or magical healing, or your body is completely destroyed.
+***Orcish Perseverance.*** When you would die due to suffocating or gaining levels of [[Conditions#Exhaustion|exhaustion]], you instead enter a death-like stasis. While in stasis you are [[Conditions#Incapacitated|incapacitated]], can’t move, can’t speak, and are unaware of your surroundings. You also cease to age, and your body is protected from decay. You can remain in this state until you are restored by mundane or magical healing, or your body is completely destroyed.
 
 ***Stalwart.*** When you are subjected to an effect that requires you to make a save at the end of your turn, you can instead choose to make the save at the start of your turn.
 

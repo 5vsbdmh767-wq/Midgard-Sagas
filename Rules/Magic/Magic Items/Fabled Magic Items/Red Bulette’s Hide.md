@@ -25,7 +25,7 @@ While wearing this armor, you can cast the *[[1st-Circle Spells#Longstrider|long
 
 ***STR of the Bulette (Requires Attunement).*** As your level increases, you gain the following benefits while wearing this armor.
 
-**5th Level.** If you jump at least 15 feet as part of your movement, you can then use an action to land in a space that contains a creature of your size or smaller. The creature must succeed on a STR save (DC equal to 8 + your PB + your STR modifier) or be knocked [[Conditions#Prone|prone]]. On a successful save, the creature isn’t knocked prone and is pushed 5 feet out of your space into an unoccupied space of its choice. If no unoccupied space is within range, the creature instead falls prone in your space. You can then make one melee weapon attack against the prone target as a bonus action.
+**5th Level.** If you jump at least 15 feet as part of your movement, you can then use an action to land in a space that contains a creature of your size or smaller. The creature must succeed on a STR save (DC equal to 8 + your PB + your STR modifier) or be knocked [[Conditions#Prone|prone]]. On a successful save, the creature isn’t knocked [[Conditions#Prone|prone]] and is pushed 5 feet out of your space into an unoccupied space of its choice. If no unoccupied space is within range, the creature instead falls prone in your space. You can then make one melee weapon attack against the prone target as a bonus action.
 
 **9th Level.** You gain a +1 bonus to AC, and you gain a burrowing speed of 10 feet. In addition, when you use the 5th-level property of this armor, you can now land in a space that contains a creature up to one size larger than you.
 

@@ -25,7 +25,7 @@ Your satyr character has the following traits.
 
 ***Bounding Leap.*** After hitting a creature with a melee weapon attack or unarmed strike, you can use your reaction to move half your speed. This movement doesn’t provoke opportunity attacks. You may use this trait a number of times equal to your PB and regain all expended uses when you finish a long rest.
 
-***Fey Resilience.*** You are resistant to the charmed and unconscious conditions, and you have advantage on saves against spells and other magical effects.
+***Fey Resilience.*** You are resistant to the [[Conditions#Charmed|charmed]] and [[Conditions#Unconscious|unconscious]] conditions, and you have advantage on saves against spells and other magical effects.
 
 ***Natural Attack.*** You have horns that serve as a natural weapon that you can use to make unarmed strikes. When you hit with it, the strike deals 1d8 + your STR or DEX modifier (choose which during character creation) bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
 

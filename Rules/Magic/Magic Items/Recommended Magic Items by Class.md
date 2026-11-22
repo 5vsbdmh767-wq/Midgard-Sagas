@@ -16,10 +16,10 @@ Money is tight in tier 1, so you’ll have some to make choices. Most items in t
 
 | Class | Magic Item | Price | Why It Helps |
 |---|---|---|---|
-| **Barbarian** | *[[Beast Buckle\|beast buckle]]* | 100 gp | The HP increase helps keep you from being knocked unconscious before your Rage ends. |
+| **Barbarian** | *[[Beast Buckle\|beast buckle]]* | 100 gp | The HP increase helps keep you from being knocked [[Conditions#Unconscious\|unconscious]] before your Rage ends. |
 |  | *[[Potion of Giant Strength\|potion of giant strength]]* | 350 gp max | Having advantage on STR checks and saves while your STR is 21, 23, or 25 improves the odds of successes. |
 | **Bard** | *[[Lucky Roller Dice\|lucky roller dice]]* | 100 gp | Use the dice when your Luck drops to 0, or to help pay for improved dice rolls. |
-|  | *[[Masking Clay\|masking clay]]* | 150 gp | Keep this for when you need a disguise for longer than 1-hour duration of the *disguise self* spell. |
+|  | *[[Masking Clay\|masking clay]]* | 150 gp | Keep this for when you need a disguise for longer than 1-hour duration of the *[[1st-Circle Spells#Disguise Self\|disguise self]]* spell. |
 | **Cleric** | *[[3rd-Circle Spells#Revivify\|scroll: revivify]]* | 200 gp | Keep one of these handy until you have 3rd-circle spell slots to spare. |
 |  | *[[Void Aegis\|void aegis]]* | 350 gp | Many undead deal necrotic damage, so charging up your aegis is easy. Since it doesn’t require attunement, you can hand this item off to allies and they can heal themselves up to 20 HP as an action. |
 | **Druid** | *[[Restorative Ointment\|restorative ointment]]* | 100 gp | Keep this for when an ally needs more than just HP, and you’re out of spell slots. |
@@ -41,7 +41,7 @@ Money is tight in tier 1, so you’ll have some to make choices. Most items in t
 | **Sorcerer** | *[[Chalk of Warding\|chalk of warding]]* | 330 gp | Combine this chalk with the Enlarged or Extended Spell Metamagic features, particularly when dealing with Undead and Elementals (many of which can bypass conventional barriers). |
 |  | *[[Potion of Puissance\|potion of puissance]]* | 200 gp | Combine this with the Empowered, Enlarged, Hunting, Lucky, or Twinned Metamagic features. |
 | **Theurge** | *[[Pocket Tattoo\|pocket tattoo]]* | 100 gp | Keep your spell component pouch in easy reach. |
-|  | *[[Spell Scroll\|spell scroll (3rd circle)]]* | 200 gp | Prioritize spells that you don’t need to cast mid-combat, and that aren’t more efficiently delivered via a potion: *dispel magic*, *remove curse*, *revivify*, and so on. |
+|  | *[[Spell Scroll\|spell scroll (3rd circle)]]* | 200 gp | Prioritize spells that you don’t need to cast mid-combat, and that aren’t more efficiently delivered via a potion: *[[3rd-Circle Spells#Dispel Magic\|dispel magic]]*, *[[3rd-Circle Spells#Remove Curse\|remove curse]]*, *[[3rd-Circle Spells#Revivify\|revivify]]*, and so on. |
 | **Vanguard** | *[[Potion of Speed\|potion of speed]]* | 200 gp | Many of your stratagems cost you an action, so an additional action for a minute (with no concentration required) makes you literally twice as effective. |
 |  | *[[Quickbuckle Armor\|quickbuckle armor]]* | 250 gp + base armor cost | You’re vulnerable when you’re resting, so the ability to instantly get up to your full AC is tough to pass up. |
 |  | *[[Warding Shield\|warding shield]]* | 200 gp | Combine this with the War Banner feature to create a kind of chain. If your target is greater than 15 feet away from your Banner of Mercy, you can soak up half of their damage, then apply it to the banner’s HP instead. |
@@ -52,7 +52,7 @@ Money is tight in tier 1, so you’ll have some to make choices. Most items in t
 |  | *[[Gem of Brightness\|gem of brightness]]* | 200 gp | Other than the added versatility of several light-related effects, the ability to blind creatures mixes well with the Pain Transference ability of the Hollow Blade. |
 |  | *[[Spirit Effigy\|spirit effigy]]* | 100 gp | Use an appropriate Humanoid effigy to deliver heals to allies or vex enemies. |
 | **Wizard** | *[[Pocket Tattoo\|pocket tattoo]]* | 100 gp | Keep your spellbook, focus, or component pouch safe when you’re not actively using it. spellscroll (3rd circle) |
-|  | *[[Spell Scroll\|spell scroll (3rd circle)]]* | 200 gp | Prioritize spells that you don’t need to cast mid-combat, and that aren’t more efficiently delivered via a potion such as: *dispel magic*, *water breathing*, and *nondetection*. |
+|  | *[[Spell Scroll\|spell scroll (3rd circle)]]* | 200 gp | Prioritize spells that you don’t need to cast mid-combat, and that aren’t more efficiently delivered via a potion such as: *[[3rd-Circle Spells#Dispel Magic\|dispel magic]]*, *[[3rd-Circle Spells#Water Breathing\|water breathing]]*, and *[[3rd-Circle Spells#Nondetection\|nondetection]]*. |
 
 ## Tier 2 Recommended Magic Items
 
@@ -73,8 +73,8 @@ Finally, as a party, pool funds to invest in a *bag of holding* and a *lantern o
 | **Barbarian** | *[[Periapt of Wound Closure\|periapt of wound closure]]* | 500 gp | You’re going to draw a lot of attacks, so make sure your allied healers don’t put themselves at risk just to stabilize you. |
 |  | *[[Skintaker Cloak\|skintaker cloak]]* | 600–12,000 gp | If you choose the Wild Fury subclass, the right one of these improves your Animal Focus, Primal Aspect, and Empowered Rage features. |
 |  | *[[Rover’s Boots\|rover’s boots]]* | 1,000 gp | Speed is one of your strong suits, and these help you avoid effects that negate that advantage. |
-| **Bard** | *[[Bagpipes of Battle\|bagpipes of battle]]* | 600 gp | This instrument is a clear step up from just using your Bardic Inspiration—a d12 for your allies, and a frightened condition for your foes—and it only costs you one action. |
-|  | *[[Megaphone of Commanding Presence\|megaphone of commanding presence]]* | 2,500 gp | Extending the range of your Bardic Performance is valuable, and casting a four-target *command* just adds more utility. |
+| **Bard** | *[[Bagpipes of Battle\|bagpipes of battle]]* | 600 gp | This instrument is a clear step up from just using your Bardic Inspiration—a d12 for your allies, and a [[Conditions#Frightened\|frightened]] condition for your foes—and it only costs you one action. |
+|  | *[[Megaphone of Commanding Presence\|megaphone of commanding presence]]* | 2,500 gp | Extending the range of your Bardic Performance is valuable, and casting a four-target *[[1st-Circle Spells#Command\|command]]* just adds more utility. |
 |  | *[[Lyre of Rumbling\|lyre of rumbling]]* | 8,800 gp | Use its abilities for crowd control, or just make it your spellcasting focus. |
 |  | *[[Jester Scepter\|jester scepter]]* | 11,030 gp | The utility of this staff is a fantastic choice for a bard. |
 | **Cleric** | *[[Reliquary Weapon\|reliquary weapon]]* | 5,000 gp + base weapon cost | An improvement on the standard magical weapon, with extra bonuses against your most common foes, plus a little extra help when asking for divine intervention. |
@@ -86,7 +86,7 @@ Finally, as a party, pool funds to invest in a *bag of holding* and a *lantern o
 | **Fighter** | *[[Potion of Giant Strength\|potion of giant strength]]* | 10,500 gp max | While your STR is 27 or 29, your damage bonus is going to be much more formidable. |
 |  | *[[Helm of Readiness\|helm of readiness]]* | 2,000 gp | The sooner you act, the sooner you can give enemies something to worry about other than your spellcasting allies. |
 |  | *[[Iron Tattoo\|iron tattoo]]* | 2,000 gp | Having 15−20 extra HP is never a bad thing, particularly when you routinely find yourself surrounded by enemies. |
-| **Mechanist** | *[[Shattersphere\|shattersphere]]* | 650–10,500 gp | Unleashing a *shatter* spell always requires careful placement, but you can apply the Mend the Broken boon to repair anything that’s a little too damaged. |
+| **Mechanist** | *[[Shattersphere\|shattersphere]]* | 650–10,500 gp | Unleashing a *[[2nd-Circle Spells#Shatter\|shatter]]* spell always requires careful placement, but you can apply the Mend the Broken boon to repair anything that’s a little too damaged. |
 |  | *[[Dagger of Darkness\|dagger of darkness]]* | 1,000 gp | Lacking other built-in ways to deal damage at range, you can use this item to address that. Plus, it plays to your strong ability score. |
 |  | *[[Traveling Tool Chest\|traveling tool chest]]* | 8,000 gp | Keep your tools always close at hand, without their weight slowing you down. |
 | **Monk** | *[[Periapt of Wound Closure\|periapt of wound closure]]* | 500 gp | Your superior mobility in battle means that your healers will often be unable to reach you if you drop to 0 HP. This will keep you alive until they can get to you. |
@@ -102,7 +102,7 @@ Finally, as a party, pool funds to invest in a *bag of holding* and a *lantern o
 |  | *[[Doubletake Armor\|doubletake armor]]* | 5,000 gp | This armor gives you opportunity for longevity in a skirmish where you try to maximize your sneak attacks. |
 |  | *[[Boots of Elvenkind\|boots of elvenkind]]* | 1,000 gp | Between these and the Reliable Talent feature, you’ll rarely fail a DEX (Stealth) check. |
 |  | *[[Goggles of Night\|goggles of night]]* | 1,000 gp | A rogue who needs a light source to navigate in the dark is doomed to fail most of its DEX (Stealth) checks. |
-| **Sorcerer** | *[[Amulet of Amity\|amulet of amity]]* | 2,020 gp | Having advantage on CHA (Persuasion) is good (particularly if you’re engaged in any commerce), but being able to cast *calm emotions* at least once per day can defuse the occasional tense situation. |
+| **Sorcerer** | *[[Amulet of Amity\|amulet of amity]]* | 2,020 gp | Having advantage on CHA (Persuasion) is good (particularly if you’re engaged in any commerce), but being able to cast *[[2nd-Circle Spells#Calm Emotions\|calm emotions]]* at least once per day can defuse the occasional tense situation. |
 |  | *[[Diadem of Focus\|diadem of focus]]* | 4,000 gp | Use this to free up one of your metamagic slots (instead of taking Retain Spell)—or boost your check and roll with advantage. |
 |  | *[[Veil of Charms and Frights\|veil of charms and frights]]* | 4,400 gp | Your primary ability focus being CHA, it’s good to have advantage on CHA skill checks, with the option of introducing magical effects. |
 | **Theurge** | *[[Mystic Tattoo\|mystic tattoo]]* | 2,100–16,650 gp | Get the best one you can afford (and upgrade whenever you can) to always have one last spell up your sleeve. |
@@ -116,8 +116,8 @@ Finally, as a party, pool funds to invest in a *bag of holding* and a *lantern o
 |  | *[[Rift Orb\|rift orb]]* | 8,000 gp | Throw this into clusters of enemies for crowd control, then use the Repelling Blast eldritch invocation to push strays back into the radius of the effect. |
 | **Witch** | *[[Spirit Effigy\|spirit effigy]]* | 50–1,000 gp | Try to keep one of these for each of your allies’ ancestries, and also for the creature type you encounter most often. |
 |  | *[[Conductor’s Wand\|conductor’s wand]]* | 4,400 gp | Enemies unable to take actions, reactions, or bonus actions make much better targets for effects like Spell Breaker, Life Transfer, Draining Curse, and so on. |
-|  | *[[Wand of Binding\|wand of binding]]* | 10,900 gp | Casting *hold* or *greater hold* helps you turn evasive foes into easy targets for your Hollow Blade, Spell Breaker, Life Transfer, Draining Curse, and so on. |
-| **Wizard** | *[[Eyes of Charming\|eyes of charming]]* | 1,500 gp | The choice of targets is limited, but being able to *charm* villagers and low-level enemies can come in handy. |
+|  | *[[Wand of Binding\|wand of binding]]* | 10,900 gp | Casting *[[2nd-Circle Spells#Hold\|hold]]* or *[[5th-Circle Spells#Greater Hold\|greater hold]]* helps you turn evasive foes into easy targets for your Hollow Blade, Spell Breaker, Life Transfer, Draining Curse, and so on. |
+| **Wizard** | *[[Eyes of Charming\|eyes of charming]]* | 1,500 gp | The choice of targets is limited, but being able to *[[1st-Circle Spells#Charm\|charm]]* villagers and low-level enemies can come in handy. |
 |  | *[[Insta-Pit\|insta-pit]]* | 8,000 gp | Use this during pitched battles to put a particularly challenging enemy out of action (and line of sight) until you’re ready to deal with them. |
 |  | *[[Hat of Reproach\|hat of reproach]]* | 10,000 gp | Use this to best effect by always having at least one spell from every school in your spellbook, and using every means at your disposal to ensure that you make your saves. |
 
@@ -140,7 +140,7 @@ At tier 3, each class should continue to keep an eye out for items that boost th
 | **Ranger** | *[[Bow of Arrow Splitting\|bow of arrow splitting]]* | 16,525–24,250 gp | If you chose Aim as your Martial Action, doubling your PB should mitigate the effects of disadvantage on your attack against a single target. Filling a 30-foot-radius area with arrows is likely to be your favorite tactic for a while. |
 | **Rogue** | *[[Sword of Sharpness\|sword of sharpness]]* | 60,000 gp | Although this sword doesn’t maximize your Sneak Attack damage, the extra 4d6 slashing damage on a natural 20 (plus a chance to lop off a limb) makes you especially effective in combat. |
 | **Sorcerer** | *[[Cloak of Meditation\|cloak of meditation]]* | 30,000 gp | Topping off your sorcery points with a short rest helps keep you in the action. |
-| **Theurge** | *[[Robe of Stars\|robe of stars]]* | 50,500 gp | Casting a 5th-circle *magic missile* up to six times per day is very useful, but the ability to visit the Astral Plane (and return to the exact spot you left from) comes into play at these levels much more frequently. |
+| **Theurge** | *[[Robe of Stars\|robe of stars]]* | 50,500 gp | Casting a 5th-circle *[[1st-Circle Spells#Magic Missile\|magic missile]]* up to six times per day is very useful, but the ability to visit the Astral Plane (and return to the exact spot you left from) comes into play at these levels much more frequently. |
 |  | *[[Draconic Staff\|draconic staff]]* | 82,090 gp | Whatever the dragon type, its versatility is hard to beat. |
 | **Vanguard** | *[[Beachhead Banner\|beachhead banner]]* | 50,000 gp | Traveling to other planes, even temporarily, can solve a lot of strategic problems. For example, moving a fight with an outsider to its home plane virtually ensures it can’t return to trouble you later. |
 | **Warlock** | *[[Book of Baleful Bargains\|book of baleful bargains]]* | 25,000 gp | Having an obedient Undead at your beck and call is most helpful in early tier 3, but it stays useful for quite a while. |
@@ -156,7 +156,7 @@ As in every tier, each class should be on the lookout for items that boost abili
 | Class | Magic Item | Price | Why It Helps |
 |---|---|---|---|
 | **Barbarian** | *[[Belt of Giant Strength\|belt of storm giant strength]]* | 80,000 gp | A +9 bonus to your STR makes your rages truly devastating |
-| **Bard** | *[[Crimson Scepter\|crimson scepter]]* | 200,000 gp | While not strictly tied to your class, bards are one of only three classes that can attune to this potent weapon. Focus on the Crimson Strike and Voidstorm properties, because the Unspeakable Utterance leaves creatures temporarily deafened, which interferes with many Bardic Performance abilities. |
+| **Bard** | *[[Crimson Scepter\|crimson scepter]]* | 200,000 gp | While not strictly tied to your class, bards are one of only three classes that can attune to this potent weapon. Focus on the Crimson Strike and Voidstorm properties, because the Unspeakable Utterance leaves creatures temporarily [[Conditions#Deafened\|deafened]], which interferes with many Bardic Performance abilities. |
 | **Cleric** | *[[Cloak of the Far Traveler\|cloak of the far traveler]]* | 120,000 gp | As a healer, you’ll often be the target of opponents’ spells. The trick here is to set things up so that you’re the only target. |
 | **Druid** | *[[Avian Staff\|avian staff]]* | 120,000 gp | Your connection to nature makes this an obvious choice for you. |
 | **Fighter** | *[[Ring of Spell Turning\|ring of spell turning]]* | 100,000 gp | You’re often targeted by spells, so it makes sense to have advantage on saves, as well as a chance to bounce spells back at a caster. |
@@ -164,7 +164,7 @@ As in every tier, each class should be on the lookout for items that boost abili
 | **Monk** | *[[Staff of Thunder and Lightning\|staff of thunder and lightning]]* | 120,000 gp | Even without the +2 bonus to attack rolls, you’ll be able to hit with the melee attacks the Lightning and Thunder properties require. Your mobility will also make you very effective at lining up either the Lightning Strike or Thunderclap properties. |
 | **Paladin** | *[[Holy Avenger\|holy avenger]]* | 200,000 gp | This is your go-to weapon as a paladin, and by the time you can afford to buy one, the radius of the advantage on saves effect should be up to 30 feet. |
 | **Ranger** | *[[Rod of Security\|rod of security]]* | 100,000 gp | If the tide of battle turns against you and your allies, the ability to bivouac for up to 200 days while you heal up and recover your spell slots is a big plus. |
-| **Rogue** | *[[Ring of Invisibility\|ring of invisibility]]* | 101,000 gp | Becoming invisible at will should never be underestimated, especially because having advantage is key to your most effective attacks. |
+| **Rogue** | *[[Ring of Invisibility\|ring of invisibility]]* | 101,000 gp | Becoming [[Conditions#Invisible\|invisible]] at will should never be underestimated, especially because having advantage is key to your most effective attacks. |
 | **Sorcerer** | *[[Staff of Power\|staff of power]]* | 125,000 gp | This staff is the centerpiece of your arcane arsenal. |
 | **Theurge** | *[[Helm of Brilliance\|helm of brilliance]]* | 120,000 gp | Try to keep at least one of each gem in the helm, so as not to lose any of the properties. Be sure to pair this item with something that gives you advantage on saves against fire damage. |
 | **Vanguard** | *[[Starry Half Plate\|starry half-plate]]* | 100,000 gp | This armor has obvious advantages for any hero in heavy armor, but the ability to destroy enemy weapons (or deal damage to unarmed foes who attack you) plays into your need to carefully manage your actions for the benefit of your allies. |

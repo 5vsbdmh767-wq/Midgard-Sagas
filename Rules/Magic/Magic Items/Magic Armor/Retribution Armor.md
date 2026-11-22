@@ -11,7 +11,7 @@ Etchings of flames adorn this breastplate, which is wrapped in chains of red gol
 
 - You have resistance to necrotic damage, and you are immune to poison damage.
 
-- You can’t be [[Conditions#Charmed|charmed]] or [[Conditions#Poisoned|poisoned]], and you don’t suffer from exhaustion.
+- You can’t be [[Conditions#Charmed|charmed]] or [[Conditions#Poisoned|poisoned]], and you don’t suffer from [[Conditions#Exhaustion|exhaustion]].
 
 - You have darkvision out to a range of 60 feet.
 

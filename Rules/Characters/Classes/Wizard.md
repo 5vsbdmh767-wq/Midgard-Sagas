@@ -208,7 +208,7 @@ Your commitment to the wizard’s path grants you a powerful new ability. Choose
 
 - **Arcane Arsenal.** You can cast each of the prepared spells from your [[#Rote Spell|Rote Spell]] feature once at the spell’s lowest possible circle without expending a spell slot. Once you cast one of your rote spells in this way, you can’t use this feature again for that particular spell until you finish a long rest.
 
-- **Mystic Vision.** While your [[#Magic Sense|Magic Sense]] feature is active, you can see invisible creatures and objects, and you can see in nonmagical and magical darkness as if it were bright light.
+- **Mystic Vision.** While your [[#Magic Sense|Magic Sense]] feature is active, you can see [[Conditions#Invisible|invisible]] creatures and objects, and you can see in nonmagical and magical darkness as if it were bright light.
 
 - **Rite of the Ritualist.** When you learn a new ritual as part of gaining a level of wizard, you can choose it from any source of magic. In addition, you can now copy ritual spells from any source of magic into your spellbook. Any rituals gained in this way count as Arcane spells for you.
 
@@ -236,7 +236,7 @@ If you want to cast any of your rote spells at a higher circle, you must expend 
 
 Your commitment to the wizard’s path grants you a powerful new ability. You gain one of the following epic boons:
 
-- **Arcane Confluence.** As long as you aren’t incapacitated, you can’t be affected or damaged by spells of 4th circle or lower unless you choose to be.
+- **Arcane Confluence.** As long as you aren’t [[Conditions#Incapacitated|incapacitated]], you can’t be affected or damaged by spells of 4th circle or lower unless you choose to be.
 
 - **Archmage.** When you cast a spell of 1st circle or higher and that spell expends an Arcane spell slot, you can choose to roll a d10. If the number rolled is higher than the circle of the expended spell slot, you automatically recover that slot. For example, if you expend a 1st-circle spell slot, a result of 2 or higher on the d10 means that you recover that 1st-circle spell slot. Once you successfully recover a spell slot in this way, you can’t use this feature again until you complete a short rest.
 
@@ -301,7 +301,7 @@ Each time you miss a spell attack roll and for each creature that succeeds on a 
 
 As a reaction when a creature that you can see and hear casts a spell from the Arcane source list, you can attempt to memorize it. Make an INT (Arcana) check with a DC of 10 + the spell’s circle. On a success, you can cast that spell as though you have it prepared until you finish a short or long rest.
 
-You can attempt to copy a spell you currently have memorized into your spellbook. On a failure, the memorized spell is lost. You can have only one spell memorized in this way at a time, and each time you memorize a new spell, it replaces the previous one. If you are knocked unconscious or are incapacitated, any spell you have memorized is lost.
+You can attempt to copy a spell you currently have memorized into your spellbook. On a failure, the memorized spell is lost. You can have only one spell memorized in this way at a time, and each time you memorize a new spell, it replaces the previous one. If you are knocked [[Conditions#Unconscious|unconscious]] or are incapacitated, any spell you have memorized is lost.
 
 When you reach 15th level, you can have up to two spells memorized at one time. If you memorize a new one, the oldest one is lost.
 
@@ -616,7 +616,7 @@ Your studies have exposed you to the forbidden knowledge of the Void, secrets th
 
 - You gain darkvision out to a range of 60 feet. If you already have darkvision, its range is extended by 30 feet.
 
-- You have advantage on saves made to resist gaining levels of exhaustion. You have advantage on saves and ability checks made to resist accruing levels of void taint (see **Chapter 5**).
+- You have advantage on saves made to resist gaining levels of [[Conditions#Exhaustion|exhaustion]]. You have advantage on saves and ability checks made to resist accruing levels of void taint (see **Chapter 5**).
 
 ### Rebuke from Beyond
 

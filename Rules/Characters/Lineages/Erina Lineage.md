@@ -29,7 +29,7 @@ Your erina character has the following hereditary traits.
 
 ***Digger.*** You have a burrowing speed equal to your walking speed, but you can't burrow through ice or rock.
 
-***Erina Resilience.*** Your ancestor's diet of snakes and poisonous insects has made most toxins little threat to you. You have advantage on saves against being poisoned, and you are resistant to poison damage.
+***Erina Resilience.*** Your ancestor's diet of snakes and poisonous insects has made most toxins little threat to you. You have advantage on saves against being [[Conditions#Poisoned|poisoned]], and you are resistant to poison damage.
 
 ***Heightened Senses.*** You have advantage on Perception checks that rely on sight or hearing.
 
@@ -57,7 +57,7 @@ Your spiritfarer erina character has the following hereditary traits.
 
 ***Quills.*** Your spines are longer and more potent than other erinas'. When you hit a creature within 5 feet of you with a melee attack, it takes an extra 1d6 piercing damage.
 
-***Sharp Instincts.*** You can't be surprised, unless you are incapacitated by something other than natural sleep.
+***Sharp Instincts.*** You can't be [[Conditions#Surprised|surprised]], unless you are [[Conditions#Incapacitated|incapacitated]] by something other than natural sleep.
 
 ***Spirit Tongue.*** You know the *[[Cantrips#Message|message]]* cantrip. When you reach 3rd level, you can cast the *[[1st-Circle Spells#Charm|charm]]* spell with this trait, targeting only Undead, and when you reach 5th level, the *[[2nd-Circle Spells#Enthrall|enthrall]]* spell. You can cast each of these spells once without a spell slot, regaining the ability to do so when you finish a long rest. WIS is your spellcasting ability for these spells.
 

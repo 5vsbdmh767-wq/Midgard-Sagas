@@ -75,7 +75,7 @@ At sea in a fantasy world, strange weather joins the ordinary changes of wind an
 |---|---|---|
 | 1 | Auroral maelstrom | Northern lights descend in writhing streams and stir anger among the crew. |
 | 2 | Snowfire storm | During a blizzard at sea, the sky turns red, and the snowflakes burn like cold fire for 1d10 minutes. For each minute, the GM makes a +10 ranged attack against the ship. On a hit, the ship takes 3d6 bludgeoning damage and 1d6 fire damage. The fire damage ignores the ship's damage threshold and sets the ship on fire. Putting out the flames takes 2 minutes and a DC 10 DEX check from at least three people. |
-| 3 | Black mist of Niflheim | Strange poisonous wisps rise from the sea to lie on the waves in a green miasma. Make a single DC 11 CON save for the whole crew, with a +3 bonus. On a failure, all NPCs in the crew suffer two levels of exhaustion, both of which end when they finish a long rest. |
+| 3 | Black mist of Niflheim | Strange poisonous wisps rise from the sea to lie on the waves in a green miasma. Make a single DC 11 CON save for the whole crew, with a +3 bonus. On a failure, all NPCs in the crew suffer two levels of [[Conditions#Exhaustion\|exhaustion]], both of which end when they finish a long rest. |
 | 4 | Hurricane | The crew member at the helm must make three DC 20 STR (Athletics) or WIS (Survival) checks. The ship loses one-third of its hit points and one NPC crew member for each failed check. |
 | 5 | [[Thor]]'s fury | A violent storm hammers the ship with lightning and strong wind. The ship, the crew, and all creatures on deck take 4d6 lightning damage. Make a single DC 15 DEX save for all creatures on deck, with a +3 bonus; a success halves the damage. A successful DC 15 STR (Athletics) or WIS (Survival) check by the crew member at the helm halves the damage to the ship. |
 | 6 | Rain of [[Boreas (North Wind)\|Boreas]] | Ice falls from the sky in a strong wind. Anyone on deck takes 1d6 bludgeoning damage, halved on a successful DC 13 DEX save. The crew sees this as a bad omen. |
@@ -113,7 +113,7 @@ A ship damaged in combat, whether by weapons, spells, or collisions, can suffer 
 
 ### Targeting Crew and Casualties
 
-Ship weapons aren't usually aimed at enemy sailors, since the ship is a much easier target, but sailors can be hurt as collateral damage. When an attack scores a critical hit, besides rolling the damage dice twice, use the Disable Station shipboard action to find where the ship was hit. Roll a d6 for the number of crew members in that area who are unconscious and dying. Unless a character or NPC with medical skill or healing magic acts to save them, 75 percent of them die in 1d4 rounds. A character in the area takes half the attack's damage from flying shrapnel, or none with a successful DEX save against a DC equal to the enemy gunner's attack roll.
+Ship weapons aren't usually aimed at enemy sailors, since the ship is a much easier target, but sailors can be hurt as collateral damage. When an attack scores a critical hit, besides rolling the damage dice twice, use the Disable Station shipboard action to find where the ship was hit. Roll a d6 for the number of crew members in that area who are [[Conditions#Unconscious|unconscious]] and dying. Unless a character or NPC with medical skill or healing magic acts to save them, 75 percent of them die in 1d4 rounds. A character in the area takes half the attack's damage from flying shrapnel, or none with a successful DEX save against a DC equal to the enemy gunner's attack roll.
 
 ## Actions During Ship Combat
 

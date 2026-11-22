@@ -163,7 +163,7 @@ publish: true
 > **Ability Check:** DC 10 Intelligence check
 > **Properties:** fluid, poisonous
 >
-> You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a **DC 10 Constitution saving throw** or take **1d4 poison damage**. Once applied, the poison retains potency for 1 minute before drying.
+> You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the [[Conditions#Poisoned|poisoned]] weapon or ammunition must make a **DC 10 Constitution saving throw** or take **1d4 poison damage**. Once applied, the poison retains potency for 1 minute before drying.
 
 ---
 
@@ -225,7 +225,7 @@ publish: true
 > **Ability Check:** DC 15 Intelligence check
 > **Properties:** fluid, poisonous
 >
-> This poison is typically made only by the drow. A creature subjected to this poison must succeed on a **DC 13 Constitution saving throw** or be poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also unconscious while poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+> This poison is typically made only by the drow. A creature subjected to this poison must succeed on a **DC 13 Constitution saving throw** or be poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also [[Conditions#Unconscious|unconscious]] while poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
 
 ---
 
@@ -245,7 +245,7 @@ publish: true
 > **Ability Check:** DC 20 Intelligence check
 > **Properties:** fluid, poisonous
 >
-> A creature subjected to this poison must succeed on a **DC 15 Constitution saving throw** or become poisoned for 1 hour. The poisoned creature is blinded.
+> A creature subjected to this poison must succeed on a **DC 15 Constitution saving throw** or become poisoned for 1 hour. The poisoned creature is [[Conditions#Blinded|blinded]].
 
 > [!abstract] **Essence of Ether**
 > *Alchemy [Alkahest] — Artisan* · **1 hour** · **300 gp**
@@ -307,7 +307,7 @@ publish: true
 > **Ability Check:** DC 25 Intelligence check
 > **Properties:** fluid, poisonous
 >
-> This poison must be harvested from a dead or incapacitated purple worm. A creature subjected to this poison must make a **DC 19 Constitution saving throw**, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+> This poison must be harvested from a dead or [[Conditions#Incapacitated|incapacitated]] purple worm. A creature subjected to this poison must make a **DC 19 Constitution saving throw**, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 
 > [!abstract] **Midnight Tears**
 > *Alchemy [Alkahest] — Master* · **500 hours** · **17,500 gp**
@@ -348,7 +348,7 @@ If the item is of lower rank than you, or you have ample time to reattempt, the 
 | Resonant | Noise draws nearby creatures |
 | Sharp | 1d6 piercing damage |
 | Staining | Auto-fail to hide attempt |
-| Stupefying | Stunned until long rest |
+| Stupefying | [[Conditions#Stunned\|Stunned]] until long rest |
 | Volatile | 1d6 force damage |
 
 ---

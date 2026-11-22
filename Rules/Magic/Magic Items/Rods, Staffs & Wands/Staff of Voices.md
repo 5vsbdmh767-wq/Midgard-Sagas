@@ -5,7 +5,7 @@ publish: true
 
 *Staff, [[Using Magic Items#Rarity|Rare]] 120,070 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Bard]], [[Cleric]], [[Druid]], [[Warlock]], or [[Wizard]])*
 
-The length of this wooden staff is carved with images of mouths whispering, speaking, and screaming. This staff can be wielded as a magic quarterstaff. While holding this staff, you can’t be [[Conditions#Deafened|deafened]], and you can act normally in areas where sound is prevented, such as in the area of a *[[2nd-Circle Spells#Silence|silence]]* spell. Any creature that is not deafened can hear your voice clearly from up to 1,000 feet away if you wish them to hear it.
+The length of this wooden staff is carved with images of mouths whispering, speaking, and screaming. This staff can be wielded as a magic quarterstaff. While holding this staff, you can’t be [[Conditions#Deafened|deafened]], and you can act normally in areas where sound is prevented, such as in the area of a *[[2nd-Circle Spells#Silence|silence]]* spell. Any creature that is not [[Conditions#Deafened|deafened]] can hear your voice clearly from up to 1,000 feet away if you wish them to hear it.
 
 The staff has 10 charges for the following properties. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the mouths carved into the staff give a collective sigh and close, and the staff becomes a nonmagical quarterstaff.
 

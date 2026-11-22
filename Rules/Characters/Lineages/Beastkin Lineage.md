@@ -29,7 +29,7 @@ Your beastkin character has the following hereditary traits.
 
 - ***Avian.*** Leathery, feathery, or gossamer wings sprout from your back or connect to your outstretched arms. You have a flying speed equal to your walking speed. You can’t fly while wearing medium or heavy armor. Carrying a heavy load or a creature of your size or larger while flying reduces your speed by half.
 
-- ***Agile***. Sharp claws, cloven hooves, robust limbs, reversed joints, or suction pads on your hands and feet allow you to scrabble up trees, rock faces, and uneven surfaces with ease. You have a climbing speed equal to your walking speed. In addition, you have advantage on saves made to avoid being knocked prone.
+- ***Agile***. Sharp claws, cloven hooves, robust limbs, reversed joints, or suction pads on your hands and feet allow you to scrabble up trees, rock faces, and uneven surfaces with ease. You have a climbing speed equal to your walking speed. In addition, you have advantage on saves made to avoid being knocked [[Conditions#Prone|prone]].
 
 - ***Aquatic.*** Oily fur, scales, fins, webbed hands and feet, or long, gangly limbs are common for your people. You have a swimming speed equal to your walking speed. You can hold your breath for up to 20 minutes.
 
@@ -43,7 +43,7 @@ Fossorial and quillback are additional options you can choose when selecting a [
 
 ***Natural Adaptation.*** You have inherited one of the following traits, determined by what kind of animal characteristics you want your character to have:
 
-- **Fossorial.** You have stout limbs ideal for digging and a flexible skeleton that allows you to navigate tight spaces. You have a burrowing speed of 20 feet which you can use to move through earth, sand, mud, or ice (not solid rock). In addition, you have advantage on checks or saves against being restrained, and you can move through areas as small as 2-1/2 square feet (one-quarter of a space) without squeezing.
+- **Fossorial.** You have stout limbs ideal for digging and a flexible skeleton that allows you to navigate tight spaces. You have a burrowing speed of 20 feet which you can use to move through earth, sand, mud, or ice (not solid rock). In addition, you have advantage on checks or saves against being [[Conditions#Restrained|restrained]], and you can move through areas as small as 2-1/2 square feet (one-quarter of a space) without squeezing.
 
 - **Quillback**. Your skin is covered with sharp quills, spines, or spikes that protect you from predators. You can use your quills to lash back at those who seek your harm. When a creature within 5 feet hits you with a melee attack, you can use your reaction to make an unarmed strike with your quills, dealing 1d6 + your STR or DEX modifier (choose when you attack) piercing damage on a hit. In addition, when you are grappling a creature or while a creature is grappling you, the creature takes 1d4 piercing damage at the start of your turn.
 

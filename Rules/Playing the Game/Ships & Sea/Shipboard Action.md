@@ -38,7 +38,7 @@ half for this turn.
 **Action Point:** 2
 **Crew Position:** Gunner
 
-The gunner fires to disable stations on the enemy vessel. This attack is made with disadvantage. If the attack hits, instead of doing damage to the hull, one of the stations is damaged according to the ==Disable Station Effects== table. 1d6 crew members in that area are unconscious and dying. Characters in the area take half the damage unless they succeed on a DEX saving throw with a DC equal to the enemy gunner’s roll to hit, in which case they take one-quarter of the damage done by the attack.
+The gunner fires to disable stations on the enemy vessel. This attack is made with disadvantage. If the attack hits, instead of doing damage to the hull, one of the stations is damaged according to the ==Disable Station Effects== table. 1d6 crew members in that area are [[Conditions#Unconscious|unconscious]] and dying. Characters in the area take half the damage unless they succeed on a DEX saving throw with a DC equal to the enemy gunner’s roll to hit, in which case they take one-quarter of the damage done by the attack.
 
 ###### ==Disable Station Effects==
 
@@ -72,13 +72,13 @@ The helmsman makes an INT (Water Vehicles) check opposed by the enemy helmsman t
 **Action Points:** 2
 **Crew Position:** Master of Tops
 
-The master of tops uses their action to adjust the sails and gain a burst of speed. The ship may Dash this turn. If the ship is powered by oars, the rowers (make one roll for the group) must succeed on DC 12 CON saving throw or gain a level of exhaustion. 
+The master of tops uses their action to adjust the sails and gain a burst of speed. The ship may Dash this turn. If the ship is powered by oars, the rowers (make one roll for the group) must succeed on DC 12 CON saving throw or gain a level of [[Conditions#Exhaustion|exhaustion]]. 
 
 #### Grapple
 **Action Points:** 2
 **Crew Position:** Boatswain
 
-The boatswain leads a number of crew in throwing grappling hooks onto an enemy vessel within 5 feet and tying the ships together. While tied, neither ship may move or maneuver. This action requires a successful DC 13 CHA (Intimidation or Persuasion) check and a number of crewmembers equal to one per 10-ft. length of the enemy ship. It takes an additional round to complete for every two crew members below the required number. If the check fails, the action fails, and the other ship may move normally. Jumping from one grappled ship to another requires a successful DC 10 STR (Athletics) check. If this check is failed by 5 or more, the sailor falls into the water
+The boatswain leads a number of crew in throwing grappling hooks onto an enemy vessel within 5 feet and tying the ships together. While tied, neither ship may move or maneuver. This action requires a successful DC 13 CHA (Intimidation or Persuasion) check and a number of crewmembers equal to one per 10-ft. length of the enemy ship. It takes an additional round to complete for every two crew members below the required number. If the check fails, the action fails, and the other ship may move normally. Jumping from one [[Conditions#Grappled|grappled]] ship to another requires a successful DC 10 STR (Athletics) check. If this check is failed by 5 or more, the sailor falls into the water
 
 #### Hold Her Steady
 **Action Points:** 1

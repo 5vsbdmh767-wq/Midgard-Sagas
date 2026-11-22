@@ -5,7 +5,7 @@ Dhampirs are the improbable children of vampires and humans. People who interact
 
 For this reason, lone dhampirs without a community of peers to support them favor large, cosmopolitan settlements where they can maintain many acquaintances without causing too much of a disturbance. Such dhampirs who don’t live adventurous lives gravitate toward work that they can do in the evening or at night and that allows regular casual contact with the public.
 
-As the children of humans, dhampirs run the range of human height, though they tend to be lean, often appearing thin or undernourished. Their hair and skin tones similarly run the human range, though their hair tends to be vibrant in color while their skin is paler than that of a typical human. Dhampirs are prone to sunburn. They favor hats and head coverings, and they wear clothing that leaves little flesh exposed. Many even take to wearing gloves during the day. Even if not ostentatious, dhampirs generally prefer to wear finely made clothing that is kept in good repair.
+As the children of humans, dhampirs run the range of human height, though they tend to be lean, often appearing thin or undernourished. Their hair and skin tones similarly run the human range, though their hair tends to be vibrant in color while their skin is paler than that of a typical human. Dhampirs are [[Conditions#Prone|prone]] to sunburn. They favor hats and head coverings, and they wear clothing that leaves little flesh exposed. Many even take to wearing gloves during the day. Even if not ostentatious, dhampirs generally prefer to wear finely made clothing that is kept in good repair.
 
 For who they are in Midgard, see [[Dhampir]]. Common heritages: [[Heritages#Conflicted Heritage|Conflicted]], [[Heritages#Cosmopolitan Heritage|Cosmopolitan]], [[Heritages#Sponsored Heritage|Sponsored]], [[Heritages#Supplicant Heritage|Supplicant]].
 
@@ -25,7 +25,7 @@ Your dhampir character has the following hereditary traits.
 
 ***Darkvision.*** You have darkvision to a range of 60 feet. While in sunlight, you have disadvantage on WIS (Perception) checks when perceiving by sight.
 
-***Hybrid Humanoid.*** You are a Humanoid, but your vampiric blood gives you traits in common with Undead. You have advantage on saves against being poisoned and advantage on checks made to resist suffering levels of exhaustion.
+***Hybrid Humanoid.*** You are a Humanoid, but your vampiric blood gives you traits in common with Undead. You have advantage on saves against being [[Conditions#Poisoned|poisoned]] and advantage on checks made to resist suffering levels of [[Conditions#Exhaustion|exhaustion]].
 
 ## Midgard Dhampir
 
@@ -51,7 +51,7 @@ Your dhampir character has the following hereditary traits.
 
 ***Darkvision.*** You have darkvision to a range of 60 feet.
 
-***Dark Thirst.*** You have short fangs that serve as a natural weapon. You can bite with your fangs as an unarmed strike, but you can do so only against an incapacitated creature or a creature you have grappled. Your bite deals 1 piercing damage, and if your target has blood and isn’t a Construct or Undead, you can feed from it as part of your attack. Your feeding deals necrotic damage equal to your CHA modifier (minimum of 1), and you gain temporary hit points equal to the necrotic damage dealt. Once you gain temporary hit points with this trait, you can’t do so again until you finish a short or long rest.
+***Dark Thirst.*** You have short fangs that serve as a natural weapon. You can bite with your fangs as an unarmed strike, but you can do so only against an [[Conditions#Incapacitated|incapacitated]] creature or a creature you have [[Conditions#Grappled|grappled]]. Your bite deals 1 piercing damage, and if your target has blood and isn’t a Construct or Undead, you can feed from it as part of your attack. Your feeding deals necrotic damage equal to your CHA modifier (minimum of 1), and you gain temporary hit points equal to the necrotic damage dealt. Once you gain temporary hit points with this trait, you can’t do so again until you finish a short or long rest.
 
 ***Vampiric Resilience.*** You have advantage on saves against disease, and you have resistance to necrotic damage.
 

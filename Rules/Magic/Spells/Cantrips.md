@@ -135,7 +135,7 @@ This spell’s effectiveness improves when you reach certain levels. At 5th leve
 
 *You attack a creature’s mind and deafen it.*
 
-You speak a word of Void Speech toward a creature you can see within range. If the target can hear you, it must succeed on a WIS save or take 1d6 psychic damage and be deafened for 1 minute. A creature deafened in this way can still hear Void Speech. At the end of each of its turns, the deafened creature can make another WIS save, ending the effect on itself on a success.
+You speak a word of Void Speech toward a creature you can see within range. If the target can hear you, it must succeed on a WIS save or take 1d6 psychic damage and be [[Conditions#Deafened|deafened]] for 1 minute. A creature deafened in this way can still hear Void Speech. At the end of each of its turns, the deafened creature can make another WIS save, ending the effect on itself on a success.
 
 This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
@@ -173,7 +173,7 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 *You unleash a cloud of dander, inducing sneezing and coughing for those caught in it.*
 
-You throw a ball of allergy-causing fluff up to 90 feet. It explodes in a 10-foot-radius cloud centered on a point you choose. Each creature in the area must succeed on a CON save or be poisoned until the end of its next turn.
+You throw a ball of allergy-causing fluff up to 90 feet. It explodes in a 10-foot-radius cloud centered on a point you choose. Each creature in the area must succeed on a CON save or be [[Conditions#Poisoned|poisoned]] until the end of its next turn.
 
 The explosion’s radius increases to 20 feet when you reach 5th level, 30 feet at 11th level, and 40 feet at 17th level.
 
@@ -273,7 +273,7 @@ This spell’s damage increases by 1d12 when you reach 5th level (2d12), 11th le
 
 *You cause an instrument to play a haunting tune that controls Beasts.*
 
-An instrument that you hold floats into the air and plays a strange, haunting melody. The instrument stays in your space and follows you as you move. All Beasts within range must succeed on a WIS save or be charmed. While charmed in this way, a target only stands still and listens to the music. If attacked by a hostile creature, the target does defend itself, however. If a target creature takes damage, the charmed effect ends. Any Beast that enters or starts its turn in the area of effect must save against the spell’s effects.
+An instrument that you hold floats into the air and plays a strange, haunting melody. The instrument stays in your space and follows you as you move. All Beasts within range must succeed on a WIS save or be [[Conditions#Charmed|charmed]]. While charmed in this way, a target only stands still and listens to the music. If attacked by a hostile creature, the target does defend itself, however. If a target creature takes damage, the charmed effect ends. Any Beast that enters or starts its turn in the area of effect must save against the spell’s effects.
 
 As a bonus action, you can change the melody, altering its effect as follows.
 
@@ -919,7 +919,7 @@ You touch a plant, and it regains 1d4 hit points. Alternatively, you can cure it
 
 *You stand an ally to its feet.*
 
-You bring a conscious ally that you can see within range to its feet, ending the prone condition on it. If the target is already standing, it has advantage on its next save within 1 minute against effects that cause the paralyzed, prone, restrained, or stunned conditions.
+You bring a conscious ally that you can see within range to its feet, ending the [[Conditions#Prone|prone]] condition on it. If the target is already standing, it has advantage on its next save within 1 minute against effects that cause the [[Conditions#Paralyzed|paralyzed]], prone, [[Conditions#Restrained|restrained]], or [[Conditions#Stunned|stunned]] conditions.
 
 ## Vicious Mockery
 

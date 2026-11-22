@@ -220,7 +220,7 @@ If your deity intervenes, you can’t use this feature again for 1 week. Otherwi
 
 Your commitment to the cleric’s path grants you a powerful new ability. Choose one of the following heroic boons:
 
-- **Gift of Consecration.** You are now immune to disease, poison damage, and the poisoned condition. If you die, your body is instantly preserved as per the *[[2nd-Circle Spells#Gentle Repose|gentle repose]]* spell for up to a year and a day.
+- **Gift of Consecration.** You are now immune to disease, poison damage, and the [[Conditions#Poisoned|poisoned]] condition. If you die, your body is instantly preserved as per the *[[2nd-Circle Spells#Gentle Repose|gentle repose]]* spell for up to a year and a day.
 
 - **Gift of Guidance.** Whenever you make an ability check with a skill, tool, or vehicle you are proficient with, you can use your WIS modifier to calculate the check result instead of whatever ability modifier would normally apply.
 
@@ -306,7 +306,7 @@ You gain the following Channel Divinity option.
 
 #### Channel Divinity: Animate Item
 
-As an action, you present your holy symbol and channel the power of creation to temporarily animate one Large or smaller nonmagical item you can see within 60 feet of you. You can’t target an item that is being worn, carried, or wielded. If you target an item that is securely attached to a surface or larger item (like a chain bolted to a wall), the animated item is considered restrained until freed. The item remains animated for 1 hour, until it is reduced to 0 hit points, until you die, or until you use this feature again.
+As an action, you present your holy symbol and channel the power of creation to temporarily animate one Large or smaller nonmagical item you can see within 60 feet of you. You can’t target an item that is being worn, carried, or wielded. If you target an item that is securely attached to a surface or larger item (like a chain bolted to a wall), the animated item is considered [[Conditions#Restrained|restrained]] until freed. The item remains animated for 1 hour, until it is reduced to 0 hit points, until you die, or until you use this feature again.
 
 The animated item is friendly to you and your companions and obeys your commands. See this creature’s statistics in the **animated item** stat block.
 
@@ -328,7 +328,7 @@ In combat, the animated item shares your initiative, but it takes its turn immed
 >
 > ***Construct Nature.*** The animated item doesn’t require air, food, drink, or sleep.
 >
-> ***Construct Resilience.*** The animated item is immune to poison and psychic damage, and it is immune to exhaustion and the charmed, frightened, paralyzed, petrified, and poisoned conditions.
+> ***Construct Resilience.*** The animated item is immune to poison and psychic damage, and it is immune to [[Conditions#Exhaustion|exhaustion]] and the [[Conditions#Charmed|charmed]], [[Conditions#Frightened|frightened]], [[Conditions#Paralyzed|paralyzed]], [[Conditions#Petrified|petrified]], and poisoned conditions.
 >
 > ***Immutable Form.*** The animated servant is immune to any spell or effect that would alter its form.
 >
@@ -420,7 +420,7 @@ As an action, you present your holy symbol and speak a prayer to infuse the area
 - **Ward.** Targets inside the circle have advantage on saves against being charmed, frightened, or possessed by creatures of the specified types. If a creature is already affected by one of the listed conditions when it enters the circle’s area, it has advantage on checks to end the ongoing effect.
 - **Weaken.** Creatures of the specified types have disadvantage on attacks made against targets within the circle’s area.
 
-The effect ends after 1 minute, after you choose to end it (no action required), or after you fall unconscious. You can have only one Sanctified Circle at a time, so if you use this feature while already having an active circle, the first circle automatically ends.
+The effect ends after 1 minute, after you choose to end it (no action required), or after you fall [[Conditions#Unconscious|unconscious]]. You can have only one Sanctified Circle at a time, so if you use this feature while already having an active circle, the first circle automatically ends.
 
 ### Cursebreaker Spells
 
@@ -687,7 +687,7 @@ You can use your Divine Intervention feature to perfectly recall any information
 
 **Creature.** You instantly learn the creature’s current and maximum HP, its resistances and vulnerabilities, any magical effects currently affecting it, any languages it speaks or understands, and where it has been for the past 24 hours. For 1 hour, you have advantage on attack rolls and skill checks made against that creature and the creature has disadvantage on attack rolls and skill checks against you.
 
-**Location.** You witness an instantaneous vision, in perfect clarity, of any events that transpired in the location in the past month. You can ask your GM up to 5 questions about the location or any event that transpired there and your GM must answer honestly. You can attempt a DC 20 WIS check to also see any events that transpired in the location for the past 100 years. On a failed check, you are instead incapacitated for 1 hour as you are overwhelmed by the unbearable unfurling of time.
+**Location.** You witness an instantaneous vision, in perfect clarity, of any events that transpired in the location in the past month. You can ask your GM up to 5 questions about the location or any event that transpired there and your GM must answer honestly. You can attempt a DC 20 WIS check to also see any events that transpired in the location for the past 100 years. On a failed check, you are instead [[Conditions#Incapacitated|incapacitated]] for 1 hour as you are overwhelmed by the unbearable unfurling of time.
 
 **Object.** You instantly learn all the object’s properties, any command words it has, where the object has been over the past year, and any magical effects, including curses, currently affecting the item. You have advantage on checks made to interact with the object for 24 hours. If the item is magical, you can attempt a DC 20 WIS check to either instantly attune to the item or break the item’s attunement to a creature other than you. On a failed check, you take 8d6 points of psychic damage.
 
@@ -751,7 +751,7 @@ The Preserve Life effect of your Channel Divinity feature can now affect any cre
 
 - Cure all diseases affecting the target.
 
-- End one of the following conditions affecting the target: blinded, deafened, paralyzed, or poisoned.
+- End one of the following conditions affecting the target: [[Conditions#Blinded|blinded]], [[Conditions#Deafened|deafened]], paralyzed, or poisoned.
 
 - Neutralize all poisons affecting the target.
 
@@ -841,7 +841,7 @@ In addition, when you use your Overwhelming Flash feature against a creature, th
 
 - The creature suffers a −10 penalty to WIS (Perception) checks for 10 minutes.
 
-- The target can’t benefit from being invisible for 1 minute. A *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell ends this effect. A creature can suffer only one curse at a time. If the creature starts and ends its turn in magical darkness, a Lux Malediction curse afflicting it ends.
+- The target can’t benefit from being [[Conditions#Invisible|invisible]] for 1 minute. A *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell ends this effect. A creature can suffer only one curse at a time. If the creature starts and ends its turn in magical darkness, a Lux Malediction curse afflicting it ends.
 
 ### Luminous Shroud
 

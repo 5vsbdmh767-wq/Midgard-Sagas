@@ -13,7 +13,7 @@ This salve is created by burning bark from a rare ebon birch tree then mixing th
 
 - Beak. The creature is immune to being [[Conditions#Charmed|charmed]] and can’t be scried upon for 1 hour.
 
-- Claw. The creature can’t be surprised for 1 hour.
+- Claw. The creature can’t be [[Conditions#Surprised|surprised]] for 1 hour.
 
 - Hoof. The creature’s remains are prevented from rising or being animated as an undead for 24 hours.
 

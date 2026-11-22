@@ -123,7 +123,7 @@ Sacred energy radiates out from you in a 30-foot radius, suppressing the power o
 
 You create three phantasmal grizzly bears in a 20-foot cube within range. Until the spell ends, you can use a bonus action to move the cube up to 40 feet.
 
-When the cube appears, each enemy in the area must make an INT save. On a failed save, a creature takes 4d8 psychic damage and is frightened until the end of its next turn. On a successful save, a creature takes half as much damage and is not frightened. A creature also makes this save when the spell’s area moves into its space and when a creature enters the area or ends its turn there. A creature makes this save only once per turn.
+When the cube appears, each enemy in the area must make an INT save. On a failed save, a creature takes 4d8 psychic damage and is [[Conditions#Frightened|frightened]] until the end of its next turn. On a successful save, a creature takes half as much damage and is not frightened. A creature also makes this save when the spell’s area moves into its space and when a creature enters the area or ends its turn there. A creature makes this save only once per turn.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 6th circle or higher, you increase the size of the cube by 20-feet, the number of phantasmal bears by two, and the damage by 2d8 for each slot above 5th.
 
@@ -161,7 +161,7 @@ You touch another willing creature and bind your fates together until the spell 
 
 *You create a convincing illusion of your dead body when you take potentially fatal damage.*
 
-With a gasp and loud proclamation, you seem to fall dead to the ground. Instead of being reduced to 0 Hit Points, you are reduced to a number of Hit Points equal to your spellcasting ability modifier. At the same time, you become invisible, and an illusion of your dead body appears, lying in the space where your body would have fallen.
+With a gasp and loud proclamation, you seem to fall dead to the ground. Instead of being reduced to 0 Hit Points, you are reduced to a number of Hit Points equal to your spellcasting ability modifier. At the same time, you become [[Conditions#Invisible|invisible]], and an illusion of your dead body appears, lying in the space where your body would have fallen.
 
 If a creature takes an action to examine your illusory body, the creature can determine it is an illusion with a successful INT (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
@@ -205,7 +205,7 @@ Using this magic requires a sacrifice from the caster. After casting this spell,
 
 You affect existing clouds or create a 10-foot tall, 60-foot radius bank of clouds, centered on a point you can see up to 100 feet directly above you. The spell fails if the space can’t accommodate the cloud.
 
-When you cast the spell, choose a point you can see within range. A 10-foot-radius section of cloud becomes stonelike and falls to the ground below. Each creature in the area below the cloud must make a DEX save. On a failure, a creature takes 10d6 bludgeoning damage and falls prone. On a success, it takes half as much damage and doesn’t fall prone. The fallen section of the cloud dissipates immediately after hitting the ground. On each of your turns until the spell ends, you can use your action to cause another chunk of cloud to fall, targeting any area beneath it.
+When you cast the spell, choose a point you can see within range. A 10-foot-radius section of cloud becomes stonelike and falls to the ground below. Each creature in the area below the cloud must make a DEX save. On a failure, a creature takes 10d6 bludgeoning damage and falls [[Conditions#Prone|prone]]. On a success, it takes half as much damage and doesn’t fall prone. The fallen section of the cloud dissipates immediately after hitting the ground. On each of your turns until the spell ends, you can use your action to cause another chunk of cloud to fall, targeting any area beneath it.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 6th circle or higher, the radius of the falling cloud increases by 5 feet for each slot above 5th.
 
@@ -349,7 +349,7 @@ At the end of each of the target’s turns, it must make a CON save. After faili
 
 Since this spell induces a natural disease in its target, any effect that removes or suppresses a disease’s effects apply to it.
 
-**Blinding Sickness.** Pain grips the creature’s mind, and its eyes turn milky white. The creature has disadvantage on WIS checks and WIS saves and is blinded.
+**Blinding Sickness.** Pain grips the creature’s mind, and its eyes turn milky white. The creature has disadvantage on WIS checks and WIS saves and is [[Conditions#Blinded|blinded]].
 
 **Filth Fever.** A raging fever sweeps through the creature’s body. The creature has disadvantage on STR checks, STR saves, and attack rolls that use STR.
 
@@ -359,7 +359,7 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 **Seizure.** The creature is overcome with shaking. The creature has disadvantage on DEX checks, DEX saves, and attack rolls that use DEX.
 
-**Slimy Doom.** The creature begins to bleed uncontrollably. The creature has disadvantage on CON checks and CON saves. In addition, when the creature takes damage, it is stunned until the end of its next turn.
+**Slimy Doom.** The creature begins to bleed uncontrollably. The creature has disadvantage on CON checks and CON saves. In addition, when the creature takes damage, it is [[Conditions#Stunned|stunned]] until the end of its next turn.
 
 ## Create Construct
 
@@ -399,7 +399,7 @@ The Construct is an ally to you and your companions for the duration. In combat,
 
 *Great abyssal, black, and barbed wings sprout from the target’s back.*
 
-A willing creature you touch sprouts leathery, barbed wings. It gains a flying speed of 60 feet and the ability to hover for the duration. When the target takes the Attack action, it can attack with its wings against a target within 10 feet of it. On a hit, the attack deals 4d8 necrotic damage and the target it must succeed on a CON save or become poisoned until the end of its next turn. When this spell ends, the wings vanish in a puff of smoke. If the spell target is in the air, it falls to the ground.
+A willing creature you touch sprouts leathery, barbed wings. It gains a flying speed of 60 feet and the ability to hover for the duration. When the target takes the Attack action, it can attack with its wings against a target within 10 feet of it. On a hit, the attack deals 4d8 necrotic damage and the target it must succeed on a CON save or become [[Conditions#Poisoned|poisoned]] until the end of its next turn. When this spell ends, the wings vanish in a puff of smoke. If the spell target is in the air, it falls to the ground.
 
 ## Detonate Metal
 
@@ -439,7 +439,7 @@ Shimmering energy surrounds and protects you from certain types of creatures: Ce
 
 You can end the spell early by using either of the following special functions.
 
-**Break Enchantment.** As your action, you touch a creature you can reach that is charmed, frightened, or possessed by one of the listed creature types. The creature you touch is no longer charmed, frightened, or possessed by such creatures.
+**Break Enchantment.** As your action, you touch a creature you can reach that is [[Conditions#Charmed|charmed]], frightened, or possessed by one of the listed creature types. The creature you touch is no longer charmed, frightened, or possessed by such creatures.
 
 **Dismissal.** As your action, make a melee spell attack against a creature of one of the listed types you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a CHA save or be sent back to its home plane (if it isn’t there already) or a different plane deemed appropriate by the GM.
 
@@ -579,7 +579,7 @@ A vertical column of divine fire roars down from the heavens in a location you s
 
 *You freeze creatures in blocks of ice.*
 
-You call the frigid heart of winter onto a point you can see within range. Each creature within 10 feet of that point must make a DEX save. On a failure, a creature takes 8d6 cold damage and is encased in a block of ice until freed. On a success, a creature takes half the damage and isn’t encased. A creature encased in a block of ice is restrained, can’t breathe, and can’t take any actions other than to try to break free from the ice. To break free, the creature must take an action and succeed on a STR save. If the ice block has taken fire damage since the start of the encased creature’s last turn, the creature has advantage on this save.
+You call the frigid heart of winter onto a point you can see within range. Each creature within 10 feet of that point must make a DEX save. On a failure, a creature takes 8d6 cold damage and is encased in a block of ice until freed. On a success, a creature takes half the damage and isn’t encased. A creature encased in a block of ice is [[Conditions#Restrained|restrained]], can’t breathe, and can’t take any actions other than to try to break free from the ice. To break free, the creature must take an action and succeed on a STR save. If the ice block has taken fire damage since the start of the encased creature’s last turn, the creature has advantage on this save.
 
 Alternatively, the ice encasing a creature can be attacked and destroyed by those outside of it. An ice block has AC 13 and 27 HP, and it’s vulnerable to fire damage and immune to cold, poison, and psychic damage. Reducing an ice block to 0 HP destroys it and frees the encased creature.
 
@@ -599,7 +599,7 @@ Alternatively, the ice encasing a creature can be attacked and destroyed by thos
 
 *You paralyze a creature.*
 
-Choose any creature that you can see within range. The target must succeed on a WIS save or be paralyzed for the duration. At the end of each of its turns, an affected target can repeat the WIS save, ending the effect on itself on a success. This spell has no effect on Undead.
+Choose any creature that you can see within range. The target must succeed on a WIS save or be [[Conditions#Paralyzed|paralyzed]] for the duration. At the end of each of its turns, an affected target can repeat the WIS save, ending the effect on itself on a success. This spell has no effect on Undead.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 6th circle or higher, you can target one additional creature for each slot above 5th. The creatures must be within 30 feet of each other when you target them.
 
@@ -615,11 +615,11 @@ Choose any creature that you can see within range. The target must succeed on a 
 
 **Duration:** Instantaneous
 
-*Your touch alleviates exhaustion or ends a magical curse, condition, or other ailment.*
+*Your touch alleviates [[Conditions#Exhaustion|exhaustion]] or ends a magical curse, condition, or other ailment.*
 
 You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target’s exhaustion level by one or end one of the following effects on the target:
 
-- One effect that charmed or petrified the target
+- One effect that charmed or [[Conditions#Petrified|petrified]] the target
 
 - One curse, including the target’s attunement to a cursed magic item
 
@@ -805,7 +805,7 @@ You become invisible at the same time that an illusory double of you appears whe
 
 You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.
 
-You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
+You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and [[Conditions#Deafened|deafened]] in regard to your own surroundings.
 
 ## Modify Memory
 
@@ -821,7 +821,7 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 *You attempt to reshape another creature’s memories.*
 
-One creature that you can see must make a WIS save. If you are fighting the creature, it has advantage on the save. On a failed save, the target becomes charmed by you for the duration. The charmed target is incapacitated and unaware of its surroundings, though it can still hear you. If it takes any damage or is targeted by another spell, this spell ends, and none of the target’s memories are modified.
+One creature that you can see must make a WIS save. If you are fighting the creature, it has advantage on the save. On a failed save, the target becomes charmed by you for the duration. The charmed target is [[Conditions#Incapacitated|incapacitated]] and unaware of its surroundings, though it can still hear you. If it takes any damage or is targeted by another spell, this spell ends, and none of the target’s memories are modified.
 
 While this charm lasts, you can affect the target’s memory of an event that it experienced within the last 24 hours and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event, allow the target to recall the event with perfect clarity and exacting detail, change its memory of the details of the event, or create a memory of some other event.
 
@@ -959,7 +959,7 @@ The vine is an object that has AC 20 and hit points equal to your hit point maxi
 
 When you cast the spell, and on your subsequent turns, you can cause one of the following effects with it.
 
-**Bash**. As an action, the vine smashes a creature it is grappling back and forth into the ground. The grappled target must make a STR save. On a failure, the target takes 2d6 bludgeoning damage and must repeat the save. The target continues to take damage and repeat the save at the beginning of each of your turns until it successfully saves.
+**Bash**. As an action, the vine smashes a creature it is grappling back and forth into the ground. The [[Conditions#Grappled|grappled]] target must make a STR save. On a failure, the target takes 2d6 bludgeoning damage and must repeat the save. The target continues to take damage and repeat the save at the beginning of each of your turns until it successfully saves.
 
 **Ensnare**. As an action, the vine attempts to grapple a Huge or smaller creature within 15 feet of it. You use the vine’s STR score to resolve the grapple. If the target is Medium or smaller, you have advantage on the check. While the vine is grappling the target, you can use a bonus action to have the vine crush it. When you do so, the target takes bludgeoning damage equal to 2d6 + your spellcasting modifier.
 

@@ -27,7 +27,7 @@ While wearing this armor, your steps make no sound, regardless of the surface yo
 
 ***Power of the Assassin (Requires Attunement).*** As your level increases, you gain the following benefits while wearing this armor.
 
-**5th Level.** You have advantage on DEX (Stealth) checks that rely on moving silently. During your first turn, you have advantage on attack rolls against any creature that hasn’t taken a turn. Any hit you score against a surprised creature is a critical hit.
+**5th Level.** You have advantage on DEX (Stealth) checks that rely on moving silently. During your first turn, you have advantage on attack rolls against any creature that hasn’t taken a turn. Any hit you score against a [[Conditions#Surprised|surprised]] creature is a critical hit.
 
 **9th Level.** You gain a +1 bonus to AC. In addition, you can cast the *[[2nd-Circle Spells#Silence|silence]]* spell from the armor. Once used, the armor can’t be used in this way again until the next dawn.
 

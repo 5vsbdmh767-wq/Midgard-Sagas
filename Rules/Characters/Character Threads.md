@@ -125,7 +125,7 @@ When you achieve this level of milestone, you gain your choice of one of the fol
 
 When you achieve this level of milestone, you gain the following benefit.
 
-***Tenacity.*** You can resist effects that would slow your oath from being carried out. If you begin your turn with the frightened, incapacitated, paralyzed, or stunned condition, you may choose to end one of those conditions. Once you use this feature, you can’t use it again until you finish a long rest.
+***Tenacity.*** You can resist effects that would slow your oath from being carried out. If you begin your turn with the [[Conditions#Frightened|frightened]], [[Conditions#Incapacitated|incapacitated]], [[Conditions#Paralyzed|paralyzed]], or [[Conditions#Stunned|stunned]] condition, you may choose to end one of those conditions. Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### Superior Milestone Feature
 
@@ -262,7 +262,7 @@ Some of those who are Fatebound are marked from birth. Others learn of their fat
 
 ***Fatebound and Death.*** Keep in mind that having this thread may mean you can’t die before your fated time, but it doesn’t mean you will reach that point whole and healthy. While your fate is inevitable, luck alone determines your condition when and how you meet that end. Do you lead a glorious charge across the battlefield? Or are you left guarding the baggage? Has every confrontation leading up to your end prepared you to defeat your ultimate foe? Or has a lifetime of avoidance left you ill-prepared?
 
-If a Fatebound PC is killed before their time, and magical resurrection is not an option, a GM could instead choose for them to be injured in a significant way—such as the loss of a limb or eye. These injuries should not be able to be healed without high-level magic. Alternatively, perhaps they lose one of their powerful magical items instead of their lives, or they might suffer a level of Exhaustion until they reach their next milestone. The GM and player should agree on this complication.
+If a Fatebound PC is killed before their time, and magical resurrection is not an option, a GM could instead choose for them to be injured in a significant way—such as the loss of a limb or eye. These injuries should not be able to be healed without high-level magic. Alternatively, perhaps they lose one of their powerful magical items instead of their lives, or they might suffer a level of [[Conditions#Exhaustion|Exhaustion]] until they reach their next milestone. The GM and player should agree on this complication.
 
 ***Goals.*** Work with your GM to create a goal specific to your campaign or use one from the **Fatebound Goals** table. The specific nature of each milestone is dependent on the goal selected and should be agreed upon by both player and GM. Use the suggested milestone benefits described in this section or create new ones based on the rules for creating a thread.
 
@@ -453,7 +453,7 @@ When you achieve the first milestone of this thread, you gain the following bene
 
 When you achieve this level of milestone, you gain your choice of one of the following benefits.
 
-***Extreme Loyalty.*** Your dedication to your ruler protects you from the control of others. If you end your turn while charmed, you may choose to take psychic damage equal to your character level, then end that condition.
+***Extreme Loyalty.*** Your dedication to your ruler protects you from the control of others. If you end your turn while [[Conditions#Charmed|charmed]], you may choose to take psychic damage equal to your character level, then end that condition.
 
 ***Jarl’s Gift.*** To help you carry out their will, your ruler gives you your choice of one of the following uncommon magic items (or another you and your GM agree upon): *[[Bracers of Archery|bracers of archery]]*, *[[Defender Honey|defender’s honey]]*, *sentinel shield*, *[[Wand of the War Mage, +1, +2, or +3|+1 wand of the war mage]]*, or *[[Weapon, +1, +2, or +3|+1 weapon]]*.
 

@@ -19,7 +19,7 @@ Your unbound satarre character has the following hereditary traits.
 
 ***Darkvision.*** You have darkvision to a range of 60 feet.
 
-***Portal Sense.*** While in a confined space, you instinctively know the direction and distance to the nearest nonmagical way into or out of the area you are in. You also have advantage on INT (Investigation) and WIS (Perception) checks to find secret or invisible doors and magical portals.
+***Portal Sense.*** While in a confined space, you instinctively know the direction and distance to the nearest nonmagical way into or out of the area you are in. You also have advantage on INT (Investigation) and WIS (Perception) checks to find secret or [[Conditions#Invisible|invisible]] doors and magical portals.
 
 ***Unraveling Touch.*** As an action, you tear at the reality that holds a creature together. Choose a creature you can see within 30 feet. It must make a CON save (DC 8 + your PB + your CON modifier). On a failure, the creature must use its action on each of its turns to repeat the save as it struggles to hold itself together, and the effect ends when it succeeds. Once you use this trait, you can't do so again until you finish a long rest.
 

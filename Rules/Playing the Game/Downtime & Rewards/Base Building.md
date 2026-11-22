@@ -212,7 +212,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 **Downtime Activities:** None A barracks is a building, or rooms, dedicated to long-term housing for soldiers or other martial personnel. It holds three bunked cots, enough space for up to six soldiers.
 
-***High Morale.*** Soldiers housed in the barracks have advantage on saves against becoming charmed or frightened.
+***High Morale.*** Soldiers housed in the barracks have advantage on saves against becoming [[Conditions#Charmed|charmed]] or [[Conditions#Frightened|frightened]].
 
 ***Monthly Costs.*** A barracks offers comfortable lodging, food, and other amenities that appeal to skilled hirelings. For this reason, soldiers are willing to work for half their typical rate when housed in the barracks. This discount is already factored into the monthly rates listed in the soldier entry of the **Personnel** section of this chapter. You must pay each retained soldier their listed monthly rate to keep them housed in the barracks, or they abandon both your cause and your base. If your barracks are empty, it doesn’t incur any monthly costs.
 
@@ -230,7 +230,7 @@ Available base facilities are listed here in alphabetical order. The PCs might a
 
 **Downtime Activities:** None A bathhouse is a room or collection of rooms that hold baths and other spa-like amenities, such as massage tables, steam rooms, and saunas. A standard bathhouse contains one 20-foot-by-20-foot pool or four individual tubs. The bathhouse requires little maintenance, but PCs can hire servants to provide massages or other treatments, serve drinks and food, or act as general attendants to any bathhouse guests.
 
-***Relaxed and Recharged.*** A creature that spends 8 hours (can be done over the course of a long rest) relaxing in a bathhouse is cured of all levels of exhaustion. Alternatively, if a creature is suffering from a multi-day effect caused by a disease, curse, spell, or something similar, such as the penalties caused by the *[[Rituals 4th–6th Circle#Raise Dead|raise dead]]* spell, spending 8 hours in the bathhouse reduces the effect as if 2 days have passed (instead of 1).
+***Relaxed and Recharged.*** A creature that spends 8 hours (can be done over the course of a long rest) relaxing in a bathhouse is cured of all levels of [[Conditions#Exhaustion|exhaustion]]. Alternatively, if a creature is suffering from a multi-day effect caused by a disease, curse, spell, or something similar, such as the penalties caused by the *[[Rituals 4th–6th Circle#Raise Dead|raise dead]]* spell, spending 8 hours in the bathhouse reduces the effect as if 2 days have passed (instead of 1).
 
 ***Well Appointed.*** If a PC spends at least 1 hour in the bathhouse receiving a massage or other treatment from a retained servant (see **Personnel**), they gain temporary hit points equal to twice their PB. These temporary hit points last until expended or until the PC finishes their next long rest.
 
@@ -1160,7 +1160,7 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 - Creatures have advantage on saves made to resist or end the effects of a disease actively affecting them while within this facility.
 
-- If a creature spends at least 24 hours in the facility, a healer can end one of the following conditions affecting the creature: blinded, deafened, paralyzed, or poisoned.
+- If a creature spends at least 24 hours in the facility, a healer can end one of the following conditions affecting the creature: [[Conditions#Blinded|blinded]], [[Conditions#Deafened|deafened]], [[Conditions#Paralyzed|paralyzed]], or [[Conditions#Poisoned|poisoned]].
 
 - The progress of any diseases affecting a creature is halted while it remains within the infirmary under the healer’s care (though this does not cure the disease outright).
 

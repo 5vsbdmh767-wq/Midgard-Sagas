@@ -23,7 +23,7 @@ Your shadow fey character has the following hereditary traits.
 
 ***Darkvision.*** You have darkvision to a range of 60 feet.
 
-***Shadow Step.*** When in darkness, dim light, or a shadow large enough to cover your body, as an action you can cast the *misty step* spell without using a spell slot. Your spellcasting ability for this spell is WIS, INT, or CHA (choose which during character creation). You can use this trait a number of times equal to your PB and you regain all expended uses when you finish a long rest.
+***Shadow Step.*** When in darkness, dim light, or a shadow large enough to cover your body, as an action you can cast the *[[2nd-Circle Spells#Misty Step|misty step]]* spell without using a spell slot. Your spellcasting ability for this spell is WIS, INT, or CHA (choose which during character creation). You can use this trait a number of times equal to your PB and you regain all expended uses when you finish a long rest.
 
 ***Fey Whim.*** You have proficiency in Persuasion. When you finish a short or long rest, you can exchange this proficiency for Deception, and vice versa.
 

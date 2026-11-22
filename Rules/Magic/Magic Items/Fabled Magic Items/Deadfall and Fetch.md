@@ -17,7 +17,7 @@ You have a +1 bonus to attack and damage rolls made with both *Deadfall* and *Fe
 
 **9th Level.** After you take an action to make a melee weapon attack with one of these handaxes and a bonus action to make a melee weapon attack with the other one, you can make an additional attack with either handaxe (no action required).
 
-**13th Level.** *Deadfall* gains 3 charges. As an action, you can spend 1 charge and slam *Deadfall* to the ground, causing violent vibrations to spread out from you in a 30-foot cone. Creatures standing within the area of effect take 6d6 thunder damage and must make a DC 15 CON save. On a failure, affected creatures fall prone. On a success, a creature takes half as much damage and does not fall prone. *Deadfall* regains all expended charges daily at dawn. *Fetch* returns to your hand immediately after it is used to make a ranged weapon attack.
+**13th Level.** *Deadfall* gains 3 charges. As an action, you can spend 1 charge and slam *Deadfall* to the ground, causing violent vibrations to spread out from you in a 30-foot cone. Creatures standing within the area of effect take 6d6 thunder damage and must make a DC 15 CON save. On a failure, affected creatures fall [[Conditions#Prone|prone]]. On a success, a creature takes half as much damage and does not fall prone. *Deadfall* regains all expended charges daily at dawn. *Fetch* returns to your hand immediately after it is used to make a ranged weapon attack.
 
 **17th Level.** Melee weapon attacks made with *Deadfall* deal an additional 2d6 thunder damage to Constructs and Plants. Ranged weapon attacks with *Fetch* do not incur disadvantage when made within 5 feet of a hostile creature.
 

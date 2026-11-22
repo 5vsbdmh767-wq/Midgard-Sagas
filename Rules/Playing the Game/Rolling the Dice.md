@@ -353,7 +353,7 @@ Looking around for clues and making deductions based on those clues involves an 
 
 *Associated Ability: Wisdom (WIS)*
 
-A WIS (Medicine) check lets you try to stabilize an unconscious companion at 0 HP or diagnose an illness.
+A WIS (Medicine) check lets you try to stabilize an [[Conditions#Unconscious|unconscious]] companion at 0 HP or diagnose an illness.
 
 ##### Stabilize
 
@@ -413,7 +413,7 @@ The GM decides when circumstances are appropriate for hiding. When you attempt t
 
 You can’t attempt to hide from a creature that can sense you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
 
-A creature with the invisible condition (see **Appendix A: Conditions**) can always attempt to hide and has advantage on DEX (Stealth) checks to do so.
+A creature with the [[Conditions#Invisible|invisible]] condition (see **Appendix A: Conditions**) can always attempt to hide and has advantage on DEX (Stealth) checks to do so.
 
 In combat, most creatures stay alert for signs of danger, so if you come out of hiding and approach a creature, it typically detects you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a distracted creature, granting you advantage on an attack roll (see **Unseen Attackers and Targets** under **Making an Attack** in this chapter).
 

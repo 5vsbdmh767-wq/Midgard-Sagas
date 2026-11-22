@@ -19,7 +19,7 @@ This leather-bound tome smells faintly of blood and brimstone and is filled with
 
 - **Boon.** The creature is under magical protection for the next 7 days. For the duration, it can't be targeted by any divination magic or perceived through magical scrying sensors except by you, it gains a +2 bonus to AC, and it has advantage on all saves.
 
-- **Bane.** The creature is cursed for the next 7 days. For the duration, the target is vulnerable to all damage types. If it has any damage resistances, this negates those resistances. If it has any damage immunities, it instead has resistance to those damage types. In addition, each dawn for the duration, the target gains one level of exhaustion.
+- **Bane.** The creature is cursed for the next 7 days. For the duration, the target is vulnerable to all damage types. If it has any damage resistances, this negates those resistances. If it has any damage immunities, it instead has resistance to those damage types. In addition, each dawn for the duration, the target gains one level of [[Conditions#Exhaustion|exhaustion]].
 
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

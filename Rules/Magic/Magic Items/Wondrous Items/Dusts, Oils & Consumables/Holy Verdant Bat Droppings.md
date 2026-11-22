@@ -9,7 +9,7 @@ This ceramic jar, 3 inches in diameter, contains 1d4 +1 doses of a thick mixture
 
 - Cured of paralysis or petrification
 
-- Reduces exhaustion level by one
+- Reduces [[Conditions#Exhaustion|exhaustion]] level by one
 
 - Regains 50 hit points
 

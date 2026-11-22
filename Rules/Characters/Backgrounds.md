@@ -216,7 +216,7 @@ The experience between mercenary work and adventuring has a lot of overlap. An a
 
 You doggedly practiced artistic pursuits before taking up the adventuring life. Countless hours of practice, reflection, and expression altered the way you see the world, and demand for your artistic expression grew.
 
-Perhaps you began an acrobat honing your body, a shadow puppeteer hungry for monstrous material, a dour thespian in search of a patron to admire your dark performances, or a bubbly singer enraptured by the applause of strangers. No matter what form your expression has taken, you still thrive where an audience waits to be entertained, frightened, or inspired.
+Perhaps you began an acrobat honing your body, a shadow puppeteer hungry for monstrous material, a dour thespian in search of a patron to admire your dark performances, or a bubbly singer enraptured by the applause of strangers. No matter what form your expression has taken, you still thrive where an audience waits to be entertained, [[Conditions#Frightened|frightened]], or inspired.
 
 **Skill Proficiencies:** Choose two from Acrobatics, Insight, Performance, or Persuasion.
 
@@ -323,7 +323,7 @@ You are the blade of your deity, the fist of the god, and the arbiter of divine 
 | 2 | I am the standard-bearer, leading a glorious army to victory. |
 | 3 | I am the axe’s edge, hewing down the foes of my god. |
 | 4 | I am the emblazoned shield, standing firm against the strikes of the unworthy. |
-| 5 | I am the poisoned cup, delivering pain unseen. |
+| 5 | I am the [[Conditions#Poisoned\|poisoned]] cup, delivering pain unseen. |
 | 6 | I am the iron maul, crushing the wicked. |
 | 7 | I am the yew bow, the soaring arrow plunging into the heart. |
 | 8 | I am the closed fist, breaking the bones of those rebuked by the divine. |
@@ -1291,7 +1291,7 @@ Outcasts like you are familiar with the hardships adventurers face, but think ab
 
 You joined the [[Keepers of the Keys]] (see **Chapter 3**) before you began adventuring and helped the faction maintain the Labyrinth and gather knowledge on its many portals and pathways.
 
-As a portal wright, you may have been based in the Citadel of the Keys in the Smithy or the Invisible Archive, where you were charged with making *portal keys*, cataloguing reports of newly discovered portals from Keepers out in the field, or updating and annotating the faction’s extensive collection of Labyrinth maps with the latest intelligence. Alternatively, you may have played a more hands-on role, assigned to maintain the portal network and ensuring it functioned as it should. Perhaps you were assigned to a remote outpost in an unexplored part of the Labyrinth, where you accompanied Keeper expeditions to locate new portals or pathways and determine where they lead.
+As a portal wright, you may have been based in the Citadel of the Keys in the Smithy or the [[Conditions#Invisible|Invisible]] Archive, where you were charged with making *portal keys*, cataloguing reports of newly discovered portals from Keepers out in the field, or updating and annotating the faction’s extensive collection of Labyrinth maps with the latest intelligence. Alternatively, you may have played a more hands-on role, assigned to maintain the portal network and ensuring it functioned as it should. Perhaps you were assigned to a remote outpost in an unexplored part of the Labyrinth, where you accompanied Keeper expeditions to locate new portals or pathways and determine where they lead.
 
 **Skill Proficiencies:** Choose two from Arcana, History, Investigation, or Perception.
 
@@ -1392,7 +1392,7 @@ You have little choice in becoming an adventurer—after all, the songs and stor
 
 %% source: Book of Blades %%
 
-You could have come from any comfortable walk of life, but one truth has resonated in you from the start—you don’t fit in. Maybe you were raised among the halls of wealth and privilege but yearned for the thrills of the streets. Maybe you grew up among modest, hardworking folk, but the idea of one big windfall always kept you dreaming. Regardless of the exact nature of your disconnect, you’ve been a thorn in the side of your conservative peers and elders for some time. When you took to the road, it surprised few (which isn’t to say it hurt no one). Now only you hold the reins of your destiny.
+You could have come from any comfortable walk of life, but one truth has resonated in you from the start—you don’t fit in. Maybe you were raised among the halls of wealth and privilege but yearned for the thrills of the streets. Maybe you grew up among modest, hardworking folk, but the idea of one big windfall always kept you dreaming. Regardless of the exact nature of your disconnect, you’ve been a thorn in the side of your conservative peers and elders for some time. When you took to the road, it [[Conditions#Surprised|surprised]] few (which isn’t to say it hurt no one). Now only you hold the reins of your destiny.
 
 Consider your roots and your dreams. What are you running away from and what are you running toward? What aspects of the past do you find intolerable? What do you miss? What was the last straw or the first big opportunity that pulled you away? If you’ve been on the road for a while, how’s that worked out for you so far? Is it everything you dreamed of, or have you had to learn some harsh lessons in the real world?
 

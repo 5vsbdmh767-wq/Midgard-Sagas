@@ -208,7 +208,7 @@ When you cast a spell that has a duration of 1 minute or longer, you can spend 1
 
 %% source: Player's Guide 2 %%
 
-When you cast a spell that deals damage to a creature, you can spend 3 sorcery points to make the target of your spell frightened of you until the end of your next turn. If your spell affects multiple targets, you can choose only one of the targets to be frightened.
+When you cast a spell that deals damage to a creature, you can spend 3 sorcery points to make the target of your spell [[Conditions#Frightened|frightened]] of you until the end of your next turn. If your spell affects multiple targets, you can choose only one of the targets to be frightened.
 
 #### Flexible Spell
 
@@ -240,7 +240,7 @@ You can use the Relentless Spell option even if you have already used a differen
 
 #### Retain Spell
 
-When you cast a spell that requires concentration, you can spend 2 sorcery point to have advantage on any concentration checks made to maintain the spell for its duration. Your concentration isn’t automatically broken for that spell if you become incapacitated, meaning that you can still attempt concentration checks as you normally would.
+When you cast a spell that requires concentration, you can spend 2 sorcery point to have advantage on any concentration checks made to maintain the spell for its duration. Your concentration isn’t automatically broken for that spell if you become [[Conditions#Incapacitated|incapacitated]], meaning that you can still attempt concentration checks as you normally would.
 
 You can use the Retain Spell option even if you have already used a different Metamagic option during the casting of the spell.
 
@@ -395,9 +395,9 @@ When you reduce one or more creatures to 0 HP, one creature you can see within 3
 
 *7th-Level Abominable Feature*
 
-As you become more comfortable with the eldritch realities underlying your origin, your outlook and psyche change. You have advantage on saves against being charmed or frightened. As a bonus action, you can spend 1 sorcery point to become immune to one of these conditions for 1 minute.
+As you become more comfortable with the eldritch realities underlying your origin, your outlook and psyche change. You have advantage on saves against being [[Conditions#Charmed|charmed]] or frightened. As a bonus action, you can spend 1 sorcery point to become immune to one of these conditions for 1 minute.
 
-In addition, as a reaction when a creature that isn’t an Aberration tries to read your mind or contact you telepathically, you can cause a mental backlash, your alien mind sending the creature reeling. The creature must succeed on a CHA save against your spell save DC or be stunned until the end of its next turn.
+In addition, as a reaction when a creature that isn’t an Aberration tries to read your mind or contact you telepathically, you can cause a mental backlash, your alien mind sending the creature reeling. The creature must succeed on a CHA save against your spell save DC or be [[Conditions#Stunned|stunned]] until the end of its next turn.
 
 ### Beyond Death
 
@@ -411,7 +411,7 @@ Alternatively, when you are reduced to 0 HP, you can spend 3 sorcery points to g
 
 *15th-Level Abominable Feature*
 
-As an action, you can manipulate your flesh to your liking. For 1 minute or until you are knocked unconscious, you gain the following benefits:
+As an action, you can manipulate your flesh to your liking. For 1 minute or until you are knocked [[Conditions#Unconscious|unconscious]], you gain the following benefits:
 
 - As a bonus action, you can cast any Arcane transmutation spell without expending a spell slot and without needing spell components. To do so, the spell must have a casting time of 1 minute or less and be of a spell circle no higher than half your PB (rounded down). Regardless of the spell’s duration, the spell ends when this feature’s duration ends. If the spell requires concentration, you don’t need to maintain concentration on the spell for the duration.
 
@@ -523,7 +523,7 @@ You gain origin spells at the sorcerer levels listed in the **Chaos Origin Spell
 
 | d6 | Effect |
 |---|---|
-| 1 | You become invisible until the end of your next turn (see Appendix A: Conditions ). This invisibility ends early if you attack or cast a spell. |
+| 1 | You become [[Conditions#Invisible\|invisible]] until the end of your next turn (see Appendix A: Conditions ). This invisibility ends early if you attack or cast a spell. |
 | 2 | Threads of magic explode out from you, dealing 1d4 + your PB force damage to each creature within 30 feet of you of your choice. |
 | 3 | You gain a +1 bonus to AC for each hostile creature within 30 feet of you that you can see, up to a number equal to your PB, until the end of your next turn. |
 | 4 | Until the end of your next turn, you can move through creatures and objects as though they were difficult terrain. If you end your turn inside a creature or object, you take 4d10 force damage and are pushed to the nearest unoccupied space. |
@@ -587,7 +587,7 @@ When you cast a spell of 6th circle or higher, you can choose to become a condui
 | 5–6 | A mischievous and judgmental quasit named Gerknoz appears in an unoccupied space within 30 feet of you. Gerknoz remains for 1 hour or until slain and is controlled by the GM. |
 | 7–8 | The target of your spell is enlarged as if by the enlarge/reduce spell. If the spell has no target, you are enlarged instead. |
 | 9–10 | At the end of your turn, wind blasts out from you in all directions (as the gust of wind spell). |
-| 11–12 | You become as heavy as iron and are knocked prone. Until the end of your next turn, your speed is reduced to 0. A creature grappling, restraining, or carrying you must succeed on a DC 30 STR save or fall prone as well. |
+| 11–12 | You become as heavy as iron and are knocked [[Conditions#Prone\|prone]]. Until the end of your next turn, your speed is reduced to 0. A creature grappling, restraining, or carrying you must succeed on a DC 30 STR save or fall prone as well. |
 | 13–14 | You rise 30 feet into the air and hover there until the end of your next turn, at which point you fall. |
 | 15–16 | You are cloaked in shadow and reek of brimstone for 1 hour. Light sources within 5 feet of you have the range of their bright and dim light reduced by 20 feet. During this time, you have advantage on DEX (Stealth) checks and CHA (Intimidation) checks but disadvantage on CHA (Persuasion) checks. |
 | 17–18 | Inky crows appear circling around you for 1 minute. The crows release a shrill caw that gives you and each creature within 20 feet of you disadvantage on concentration checks. |
@@ -604,7 +604,7 @@ When you cast a spell of 6th circle or higher, you can choose to become a condui
 | 39–40 | A portal to a random elemental plane is ripped open in an unoccupied space within 10 feet of your spell’s target. The portal remains for 1 minute. Roll a d4: 1, Plane of Fire; 2, Plane of Air; 3, Plane of Water; 4, Plane of Earth. On initiative count 20 of each round, roll a d20. On a roll of 20, an elemental creature of the GM’s choice emerges from the portal. |
 | 41–42 | Your skin becomes translucent, showing the muscle and vein beneath. For 1 minute, you gain vulnerability to bludgeoning, piercing, and slashing damage. |
 | 43–44 | Each friendly creature within 30 feet of you can instantly choose to teleport up to 1 mile. The creature must be able to see or be familiar with the location in order to teleport there. |
-| 45–46 | One creature of your choice on the same plane as you becomes paralyzed until the end of your next turn. Creatures with legendary actions are unaffected. |
+| 45–46 | One creature of your choice on the same plane as you becomes [[Conditions#Paralyzed\|paralyzed]] until the end of your next turn. Creatures with legendary actions are unaffected. |
 | 47–48 | You and each hostile creature within 30 feet of you become stunned for 1 minute. A creature can make a CON save against your spell save DC at the end of each of its turns, ending the effect for all stunned creatures on a success. |
 | 49–50 | Until you finish a long rest, every word you utter sounds normal to you but is heard by others as incomprehensible babbling. This effect doesn’t impair your ability to cast spells. |
 | 51–52 | The sun or moon (depending on the time of day) is eclipsed for 10 minutes. For the duration, you are incorporeal and can move through creatures and objects as though they were difficult terrain. If you end your turn inside a creature or object, you take 1d10 force damage and are shunted to the nearest unoccupied space. |
@@ -843,7 +843,7 @@ You gain origin spells at the sorcerer levels listed in the Flora Origin Spells 
 
 *3rd-Level Flora Feature*
 
-When you cast a spell of 1st circle or higher, your body undergoes subtle changes, taking on more plant-like aspects. This might manifest as flowers blooming in your hair, as leaves growing along your elbows, spine, and knees, or as mycelial growths along your skin. For 1 minute, you are resistant to effects that cause exhaustion and to the paralyzed, petrified, and unconscious conditions.
+When you cast a spell of 1st circle or higher, your body undergoes subtle changes, taking on more plant-like aspects. This might manifest as flowers blooming in your hair, as leaves growing along your elbows, spine, and knees, or as mycelial growths along your skin. For 1 minute, you are resistant to effects that cause [[Conditions#Exhaustion|exhaustion]] and to the paralyzed, [[Conditions#Petrified|petrified]], and unconscious conditions.
 
 When you reach 7th level in this class, this manifestation becomes more powerful. For the duration, your speed isn't halved when you move through nonmagical or magical difficult terrain. You suffer other penalties caused by moving through difficult terrain as normal.
 
@@ -861,7 +861,7 @@ At the GM's discretion, the Plant you create with this feature can be a bramble 
 
 When you cast a spell of 1st circle or higher, you can spend one or more sorcery points to infuse the spell with the power of nature, using one of the following Metamagic options.
 
-Metamagic: Paralyzing Spell. You can spend 3 sorcery points to imbue the spell with paralyzing spores. One creature affected by the spell is paralyzed for a number of rounds equal to the spell's circle, magical spores coating it. A paralyzed creature can make a CON save against your spell save DC at the end of each of its turns, ending the condition on itself on a success. A creature immune to the poisoned condition has advantage on this save.
+Metamagic: Paralyzing Spell. You can spend 3 sorcery points to imbue the spell with paralyzing spores. One creature affected by the spell is paralyzed for a number of rounds equal to the spell's circle, magical spores coating it. A paralyzed creature can make a CON save against your spell save DC at the end of each of its turns, ending the condition on itself on a success. A creature immune to the [[Conditions#Poisoned|poisoned]] condition has advantage on this save.
 
 Metamagic: Sap Spell. You can spend 3 sorcery points to fill the spell with magical tree sap. Each creature affected by the spell has disadvantage on attack rolls until the end of its next turn, as sap clings to its limbs.
 

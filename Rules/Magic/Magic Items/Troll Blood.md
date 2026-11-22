@@ -44,10 +44,10 @@ These rules apply to the raw potions only. A troll blood potion keeps healing yo
 | 21–30 | An extra arm sprouts from your body. It can't wield weapons or hold more than 5 pounds, but it gives you advantage on STR checks and saves. It throws off your balance, giving you disadvantage on DEX checks and saves. |
 | 31–40 | You bleed heavily when hit, spraying magical blood. A creature within 5 feet that hits you with a melee attack must succeed on a DC 15 DEX save or take 1d6 necrotic damage. Damage you take is increased by 1. |
 | 41–50 | Your scent and presence draw humanoids and anger beasts. You have advantage on CHA checks when dealing with humanoids, and beasts with INT 4 or lower are hostile to you on sight. |
-| 51–60 | You grow a small second head. You have advantage on WIS (Perception) checks and on saves against being blinded, charmed, deafened, frightened, stunned and knocked unconscious, and you can't be surprised while conscious. When you miss with an attack roll, you take half the damage you would have dealt. |
+| 51–60 | You grow a small second head. You have advantage on WIS (Perception) checks and on saves against being [[Conditions#Blinded\|blinded]], [[Conditions#Charmed\|charmed]], [[Conditions#Deafened\|deafened]], [[Conditions#Frightened\|frightened]], [[Conditions#Stunned\|stunned]] and knocked [[Conditions#Unconscious\|unconscious]], and you can't be [[Conditions#Surprised\|surprised]] while conscious. When you miss with an attack roll, you take half the damage you would have dealt. |
 | 61–70 | You twitch and jerk without control. You gain a +2 bonus to AC, but on your turn you can take an action or a bonus action, not both. |
 | 71–80 | Your body reshapes for a new way of moving. You gain a burrowing or swimming speed (GM's choice) equal to your walking speed, and your speed on land is halved. |
-| 81–90 | Your blood turns toxic and you are [[Conditions#Poisoned\|poisoned]]. While poisoned this way, you are immune to disease and to poison and necrotic damage. |
+| 81–90 | Your blood turns toxic and you are [[Conditions#Poisoned\|poisoned]]. While [[Conditions#Poisoned\|poisoned]] this way, you are immune to disease and to poison and necrotic damage. |
 | 91–00 | Your body keeps regenerating slowly. You regain 3 hit points every 10 minutes while the mutation lasts. This can still trigger instant death. |
 
 

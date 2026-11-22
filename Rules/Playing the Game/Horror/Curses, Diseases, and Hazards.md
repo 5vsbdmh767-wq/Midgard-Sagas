@@ -84,7 +84,7 @@ A favorite tool of hags and vengeful druids, this curse afflicts those who handl
 
 **Trigger:** After taking at least 1 piercing damage from a certain plant (GM’s discretion)—such as taking damage from the briar growth hazard (see *Game Master’s Guide*)—a creature is cursed and targeted by its effects. The curse has no effect on Constructs, Undead, or creatures without blood.
 
-**Effects:** Painful, thorny roots slowly sprout from the target’s body, hampering movement. Each time the target finishes a long rest or deals any amount of damage to a plant or Plant creature, their speed is reduced by 5 feet. This reduction can’t be offset while the target remains cursed. If the target’s speed is reduced to 0, their body is completely encased in vines, and they suffer all the following until the curse is ended: they gain the incapacitated condition, they can’t move or speak, they become unaware of their surroundings, they automatically fail STR and DEX saves, and attacks against them have advantage. If they remain in this state for 24 consecutive hours, they die—their body destroyed.
+**Effects:** Painful, thorny roots slowly sprout from the target’s body, hampering movement. Each time the target finishes a long rest or deals any amount of damage to a plant or Plant creature, their speed is reduced by 5 feet. This reduction can’t be offset while the target remains cursed. If the target’s speed is reduced to 0, their body is completely encased in vines, and they suffer all the following until the curse is ended: they gain the [[Conditions#Incapacitated|incapacitated]] condition, they can’t move or speak, they become unaware of their surroundings, they automatically fail STR and DEX saves, and attacks against them have advantage. If they remain in this state for 24 consecutive hours, they die—their body destroyed.
 
 **Resolution:** A *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic suppresses the effects for 24 hours, and a *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell or similar magic removes the curse.
 
@@ -124,7 +124,7 @@ Alternatively, the deity or powerful creature that bestowed the curse might offe
 | 2 | You drop your weapon or spell focus and lose any additional attacks you could take this turn. |
 | 3 | You lose any of your unused actions, bonus actions, and reactions until the beginning of your next turn. |
 | 4 | You slip, causing all attacks against you to have advantage until the start of your next turn. |
-| 5 | You trip and fall prone. |
+| 5 | You trip and fall [[Conditions#Prone\|prone]]. |
 | 6 | Your attack rebounds on you, dealing the damage to you instead of your target. |
 
 ### Fitful Haunting
@@ -151,7 +151,7 @@ The moldering corpse of a long-dead noble rests amid rotting fineries while the 
 
 Creatures either within the area of a *[[Rituals 1st–3rd Circle#Magic Circle|magic circle]]* spell that is warded against Undead or under the effects of a *[[1st-Circle Spells#Protection from Evil and Good|protection from evil and good]]* spell are immune to the curse.
 
-**Effects:** The target must succeed on a DC 13 WIS save or fall to their knees in supplication, restrained until the beginning of their next turn. During that time, any Humanoid within 60 feet of the target, and that can also see them, must succeed on the same save or also fall to their knees and become cursed.
+**Effects:** The target must succeed on a DC 13 WIS save or fall to their knees in supplication, [[Conditions#Restrained|restrained]] until the beginning of their next turn. During that time, any Humanoid within 60 feet of the target, and that can also see them, must succeed on the same save or also fall to their knees and become cursed.
 
 Afterward, a target is unable to disobey orders given to them by a member of royalty (GM’s discretion) until the curse is removed.
 
@@ -189,7 +189,7 @@ This curse is often bestowed upon those who have shown an egregious lack of empa
 
 - After the fourth failure, the target’s limbs become so stiff that they cannot move. They are restrained, cannot perform the somatic gestures necessary for spellcasting, and can speak only falteringly.
 
-- After the fifth failure, the stoniness reaches the target’s heart. They are petrified.
+- After the fifth failure, the stoniness reaches the target’s heart. They are [[Conditions#Petrified|petrified]].
 
 **Resolution:** A *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell or similar magic removes the petrification, but this only returns the curse to its initial onset, so the progressive states begin anew with the next dawn. The curse can only be permanently removed when the target has made appropriate amends to the creature that cursed them—or to the creature that was being avenged.
 
@@ -245,7 +245,7 @@ Alternatively, if the target performs funeral rites on the weapon, such as a bur
 
 *Curse*
 
-This curse is typically placed on tombs, temples, and other locations sacred to something evil. Intruders might then become marked with an invisible brand that pulses like a beacon, attracting all the dead in the region.
+This curse is typically placed on tombs, temples, and other locations sacred to something evil. Intruders might then become marked with an [[Conditions#Invisible|invisible]] brand that pulses like a beacon, attracting all the dead in the region.
 
 **Trigger:** After the sacred site is sufficiently disturbed—usually by killing a particular creature within it, damaging a relic, or looting its treasures (GM’s discretion)—a creature must succeed on a DC 15 CHA save or be cursed and targeted by its effects.
 
@@ -283,7 +283,7 @@ Powerful undead and dragons—especially undead dragons—curse their hoards of 
 
 **Trigger:** After touching treasure (worth at least 10 gp) from a cursed hoard, a creature must succeed on a DC 16 WIS save or be cursed and targeted by its effects. The curse has no effect on Constructs, Dragons, or Undead.
 
-**Effects:** The target becomes sickened in the presence of a cursed hoard. When starting their turn within 10 feet of such items, they must succeed on a DC 15 CON save or be poisoned for 24 hours. While poisoned in this way, they must succeed on a DC 30 WIS save or drop all coins or treasure they carry: any equipment in their possession prior to being cursed is considered safe. They also can’t move toward the cursed hoard for 24 hours, and in some cases, this might prevent them from leaving the treasure room. At each following dawn, the DC for this WIS save is reduced by 1 until it reaches DC 10.
+**Effects:** The target becomes sickened in the presence of a cursed hoard. When starting their turn within 10 feet of such items, they must succeed on a DC 15 CON save or be [[Conditions#Poisoned|poisoned]] for 24 hours. While poisoned in this way, they must succeed on a DC 30 WIS save or drop all coins or treasure they carry: any equipment in their possession prior to being cursed is considered safe. They also can’t move toward the cursed hoard for 24 hours, and in some cases, this might prevent them from leaving the treasure room. At each following dawn, the DC for this WIS save is reduced by 1 until it reaches DC 10.
 
 **Resolution:** A *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic suppresses the effects until the next dawn. Succeeding three consecutive WIS saves removes the curse.
 
@@ -337,13 +337,13 @@ Many supernatural beings are both skilled and very willing to maliciously punish
 
 **Trigger:** After entering an area of rain caused by this curse, a creature must succeed on a DC 12 CHA save or be cursed and targeted by its effects.
 
-**Effects:** While the target is aboveground, a canopy of sad gray clouds (1-mile radius) follows them overhead. They have disadvantage on saves against being charmed.
+**Effects:** While the target is aboveground, a canopy of sad gray clouds (1-mile radius) follows them overhead. They have disadvantage on saves against being [[Conditions#Charmed|charmed]].
 
 In addition, each time the target cries, the clouds empty with a steady downpour of warm, salty rain. Each time the target begins a long rest, they must succeed on a DC 15 WIS save or become inconsolably sad and begin crying, triggering more rain to fall for the duration of the rest.
 
 **Resolution:** A *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic, if cast upon either the target or their shed tears, removes the curse.
 
-Alternatively, if the target either becomes permanently blinded or spends 6 consecutive days and nights on a different plane of existence from where they were cursed, the curse is removed. This alternative can be discovered through research with a successful DC 12 INT (Arcana or Nature) check—utilizing the [[Between Adventures#Researching|researching]] downtime activity.
+Alternatively, if the target either becomes permanently [[Conditions#Blinded|blinded]] or spends 6 consecutive days and nights on a different plane of existence from where they were cursed, the curse is removed. This alternative can be discovered through research with a successful DC 12 INT (Arcana or Nature) check—utilizing the [[Between Adventures#Researching|researching]] downtime activity.
 
 ### Watery End
 
@@ -389,9 +389,9 @@ From the blood pits of the lower planes, this disease is one of the most painful
 
 - In the first stage (roughly 1 hour after infection), the target has visible bruises and sores, and their hit point maximum is halved.
 
-- In the second stage, the soft tissue of the target’s sensory organs and throat become swollen and painful, and they become deafened and can speak only haltingly.
+- In the second stage, the soft tissue of the target’s sensory organs and throat become swollen and painful, and they become [[Conditions#Deafened|deafened]] and can speak only haltingly.
 
-- In the third stage, the target’s skin and blood vessels become fragile and easily burst. They are vulnerable to bludgeoning, piercing, and slashing damage and vulnerable to exhaustion.
+- In the third stage, the target’s skin and blood vessels become fragile and easily burst. They are vulnerable to bludgeoning, piercing, and slashing damage and vulnerable to [[Conditions#Exhaustion|exhaustion]].
 
 - The fourth and final stage is mercifully swift but painful. At the start of each of the target’s turns, their hit point maximum is reduced by 1d4. They die if this effect reduces their hit point maximum to 0.
 
@@ -439,7 +439,7 @@ Transmitted through the saliva of infected animals, this disease takes its name 
 
 - In the fourth stage, the target’s speed is halved.
 
-- In the fifth stage, the target falls unconscious and can’t be awakened. If the target fails their next disease progression save while in this stage, they are reduced to 0 HP and die.
+- In the fifth stage, the target falls [[Conditions#Unconscious|unconscious]] and can’t be awakened. If the target fails their next disease progression save while in this stage, they are reduced to 0 HP and die.
 
 **Resolution:** A *[[2nd-Circle Spells#Restoration|restoration]]* spell or similar magic allows the target to make their next disease progression save with advantage. If the target succeeds on their disease progression save while in stage one, the disease is cured.
 
@@ -569,7 +569,7 @@ Transmitted solely via the bite of an infected creature, primarily wild animals,
 
 **Effects:** The target develops a fear of water, and if they try to drink anything, they must first succeed on a DC 17 WIS save or be unable to.
 
-In addition, their swim speed (if any) is halved, and if they attempt to enter a body of water or similar liquid, they must first succeed on a DC 17 WIS save or become frightened of the water for 1 minute. If forced into contact with water while frightened of it, they take 1d6 psychic damage each round they remain in contact with it.
+In addition, their swim speed (if any) is halved, and if they attempt to enter a body of water or similar liquid, they must first succeed on a DC 17 WIS save or become [[Conditions#Frightened|frightened]] of the water for 1 minute. If forced into contact with water while frightened of it, they take 1d6 psychic damage each round they remain in contact with it.
 
 **Resolution:** A *[[2nd-Circle Spells#Restoration|restoration]]* spell or similar magic cures the disease.
 
@@ -621,7 +621,7 @@ The resting places of the forgotten dead can become infused with the anger and r
 
 The area registers vaguely as Undead for spells like *[[1st-Circle Spells#Detect Evil and Good|detect evil and good]]* and a paladin’s Divine Sense feature. Otherwise, a successful DC 14 WIS (Insight) check reveals that something feels wrong about the area but nothing more specific.
 
-**Effects:** A target must succeed on a DC 15 STR save or take 9 (2d8) bludgeoning damage and become grappled (escape DC 15) by the earth underneath, and until the grapple ends, they are also restrained. At the start of a grappled target’s turn, they take another 9 (2d8) bludgeoning damage.
+**Effects:** A target must succeed on a DC 15 STR save or take 9 (2d8) bludgeoning damage and become [[Conditions#Grappled|grappled]] (escape DC 15) by the earth underneath, and until the grapple ends, they are also restrained. At the start of a grappled target’s turn, they take another 9 (2d8) bludgeoning damage.
 
 In addition, when a target takes this damage, an Undead creature (GM’s choice) within 60 feet gains a number of temporary hit points equal to the damage.
 

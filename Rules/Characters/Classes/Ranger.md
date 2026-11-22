@@ -63,7 +63,7 @@ Your ability to deal with environmental challenges is unmatched. You gain the fo
 
 *1st, 6th, 13th, and 17th-Level Ranger Feature*
 
-When you hit a creature with an attack roll, you can mystically mark it as your favored quarry. The creature remains marked for 1 minute, until you use this feature to mark a different creature, or until you become incapacitated.
+When you hit a creature with an attack roll, you can mystically mark it as your favored quarry. The creature remains marked for 1 minute, until you use this feature to mark a different creature, or until you become [[Conditions#Incapacitated|incapacitated]].
 
 While a creature is marked (including for the attack that triggered the mark), you deal an extra 1d4 damage to it (of the same damage type as the weapon) each time you successfully hit it with a weapon attack.
 
@@ -190,7 +190,7 @@ Your physical prowess has grown. On your turn, you can make two attacks when you
 
 *6th-Level Ranger Feature*
 
-Your instincts have sharpened, granting you supernatural awareness of your quarry. While a creature marked by your Mystic Mark feature is within 60 feet of you, you know its exact location, and it can’t gain advantage on attacks against you as a result of being invisible or otherwise unseen. In addition, when you attack a marked creature within 60 feet of you, an inability to see it doesn’t impose disadvantage on your attack rolls against it.
+Your instincts have sharpened, granting you supernatural awareness of your quarry. While a creature marked by your Mystic Mark feature is within 60 feet of you, you know its exact location, and it can’t gain advantage on attacks against you as a result of being [[Conditions#Invisible|invisible]] or otherwise unseen. In addition, when you attack a marked creature within 60 feet of you, an inability to see it doesn’t impose disadvantage on your attack rolls against it.
 
 ### Stalker’s Step
 
@@ -220,13 +220,13 @@ Your commitment to the ranger’s path grants you a powerful new ability. Choose
 
 *14th-Level Ranger Feature*
 
-You have keensense (see **Special Senses** in **Chapter 6**) to a range of 10 feet. Your keensense ceases to function while you are deafened (see **Appendix A: Conditions**) or otherwise deprived of hearing.
+You have keensense (see **Special Senses** in **Chapter 6**) to a range of 10 feet. Your keensense ceases to function while you are [[Conditions#Deafened|deafened]] (see **Appendix A: Conditions**) or otherwise deprived of hearing.
 
 ### Strider
 
 *18th-Level Ranger Feature*
 
-Your movement never provokes opportunity attacks, and you have advantage on any check made to resist an effect that would cause you to become grappled, restrained, or paralyzed or that would otherwise reduce your movement speed to 0 feet (see **Appendix A: Conditions**).
+Your movement never provokes opportunity attacks, and you have advantage on any check made to resist an effect that would cause you to become [[Conditions#Grappled|grappled]], [[Conditions#Restrained|restrained]], or [[Conditions#Paralyzed|paralyzed]] or that would otherwise reduce your movement speed to 0 feet (see **Appendix A: Conditions**).
 
 ### Epic Boon
 
@@ -336,7 +336,7 @@ By mixing noxious reagents, you create a trap that sprays a 5-foot-diameter pois
 
 This trap is made by crafting a snare out of rope or natural materials that triggers when stepped in, restraining the victim in a specific location.
 
-***Improvement:*** You improve the trap so it also knocks the target prone on a failed save and pulls the victim 5 feet off the ground. You can also increase the size of the snare area to a 10-foot square by including a large net. These improvements cost an additional 1 gp.
+***Improvement:*** You improve the trap so it also knocks the target [[Conditions#Prone|prone]] on a failed save and pulls the victim 5 feet off the ground. You can also increase the size of the snare area to a 10-foot square by including a large net. These improvements cost an additional 1 gp.
 
 #### Slow Terrain Trap
 
@@ -424,7 +424,7 @@ You imbue your ammunition with primordial magic as you fire. Once on your turn, 
 
 - **Shock Shot.** The target can’t take reactions until the start of its next turn.
 
-- **Venom Shot.** The attack deals poison damage instead of its normal damage, and the target is poisoned until the end of its next turn.
+- **Venom Shot.** The attack deals poison damage instead of its normal damage, and the target is [[Conditions#Poisoned|poisoned]] until the end of its next turn.
 
 ### Arrow Dance
 
@@ -554,7 +554,7 @@ You gain ring spells at the ranger levels listed in the Grove Warden Calling Spe
 
 Your senses are attuned to the natural world around you, always noting the subtle changes in the feel of the wind, the sounds of animals, and the smell of plants. You gain a bonus to initiative rolls equal to your PB.
 
-In addition, while you are conscious and within 5 feet of vegetation such as a bush or tree or a patch of grass or fungi, you can't be surprised.
+In addition, while you are conscious and within 5 feet of vegetation such as a bush or tree or a patch of grass or fungi, you can't be [[Conditions#Surprised|surprised]].
 
 ### Land's Aid
 
@@ -580,7 +580,7 @@ The land around you comes to your aid when you are in danger, interposing rocks,
 
 *15th-Level Grove Warden Feature*
 
-If you are reduced to 0 HP while within 100 feet of natural, nonmagical vegetation, such as trees, grass, or fungi, your body is filled with nature's wrath, and you don't fall unconscious. You still make death saves and can be killed outright if you take damage from a single source equal to your hit point maximum or if you fail three death saves. This effect lasts for a number of rounds equal to half your PB or until you die, whichever occurs first. At the end of the duration, if you didn't die outright, you call unconscious, stabilize at 0 HP, and suffer one level of exhaustion.
+If you are reduced to 0 HP while within 100 feet of natural, nonmagical vegetation, such as trees, grass, or fungi, your body is filled with nature's wrath, and you don't fall [[Conditions#Unconscious|unconscious]]. You still make death saves and can be killed outright if you take damage from a single source equal to your hit point maximum or if you fail three death saves. This effect lasts for a number of rounds equal to half your PB or until you die, whichever occurs first. At the end of the duration, if you didn't die outright, you call unconscious, stabilize at 0 HP, and suffer one level of [[Conditions#Exhaustion|exhaustion]].
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
@@ -633,7 +633,7 @@ Your tenacity wears down even potent foes. When you hit a creature with a weapon
 
 As part of a long rest, you can spend time reviewing your research and preparing to face a specific type of monster.
 
-Choose a type of enemy: Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Monstrosity, Ooze, Plant, or Undead. For 24 hours, creatures of that type have disadvantage on attack rolls against you. You also have advantage on saves against being charmed, frightened, or possessed by them.
+Choose a type of enemy: Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Monstrosity, Ooze, Plant, or Undead. For 24 hours, creatures of that type have disadvantage on attack rolls against you. You also have advantage on saves against being [[Conditions#Charmed|charmed]], [[Conditions#Frightened|frightened]], or possessed by them.
 
 At the end of your next long rest, you can choose the same type of creature or a different creature type as your Favored Foe.
 
@@ -1178,11 +1178,11 @@ You gain calling spells at the ranger levels listed in the **Windsworn Calling S
 
 | Ranger Level | Spells |
 |---|---|
-| 3rd | *expeditious retreat* |
-| 5th | *blur* |
-| 9th | *wind wall* |
-| 13th | *freedom of movement* |
-| 17th | *mislead* |
+| 3rd | *[[1st-Circle Spells#Expeditious Retreat\|expeditious retreat]]* |
+| 5th | *[[2nd-Circle Spells#Blur\|blur]]* |
+| 9th | *[[3rd-Circle Spells#Wind Wall\|wind wall]]* |
+| 13th | *[[4th-Circle Spells#Freedom of Movement\|freedom of movement]]* |
+| 17th | *[[5th-Circle Spells#Mislead\|mislead]]* |
 
 ### Parry
 

@@ -7,4 +7,4 @@ Using the Attack action, you can make a special melee attack to push through the
 If you win the contest by 5 or more, you can choose to push the target 5 feet in the direction of your choice.
 
 ##### **Brick Wall.** 
-If you fail the contest by 5 or more, the target can choose to knock you prone.
+If you fail the contest by 5 or more, the target can choose to knock you [[Conditions#Prone|prone]].

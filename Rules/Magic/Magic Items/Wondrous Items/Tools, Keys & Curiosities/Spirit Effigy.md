@@ -17,7 +17,7 @@ Made as a doll, wax figure, or carving, a *spirit effigy* allows you to affect a
 
 The target creature can make a DC 13 WIS saving throw to resist. On a failure, or if the creature chooses to fail it, apply the effect you chose. On a success, the target knows that someone nearby is trying to control their actions.
 
-A creature with resistance to the [[Conditions#Charmed|charmed]] condition has advantage on this WIS save. A creature with immunity to the charmed condition can’t be affected by this item.
+A creature with resistance to the [[Conditions#Charmed|charmed]] condition has advantage on this WIS save. A creature with immunity to the [[Conditions#Charmed|charmed]] condition can’t be affected by this item.
 
 The cost for a spirit effigy depends on the creature type controlled. See the **Spirit Effigy Creature Types** table for prices.
 

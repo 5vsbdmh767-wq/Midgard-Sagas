@@ -9,9 +9,9 @@ This piece of dead, white brain coral glistens with a myriad of colors when plac
 
 ***Green.*** On a failed save, the target is transformed into a Tiny fish, such as a herring or salmon, for 1 hour. This effect works like the *[[4th-Circle Spells#Polymorph|polymorph]]* spell, except you don’t need to maintain concentration on the effect. The target can repeat the save at the end of each minute, ending the effect on itself on a success.
 
-***Yellow.*** On a failed save, the target takes 10d6 radiant damage and suffers two levels of exhaustion as its body is rapidly drained of moisture. On a successful save, the target takes half the damage and doesn’t suffer exhaustion.
+***Yellow.*** On a failed save, the target takes 10d6 radiant damage and suffers two levels of [[Conditions#Exhaustion|exhaustion]] as its body is rapidly drained of moisture. On a successful save, the target takes half the damage and doesn’t suffer exhaustion.
 
-***Blue.*** On a failed save, the target takes 10d6 cold damage and is [[Conditions#Paralyzed|paralyzed]] for 1 minute. On a successful save, the target takes half the damage and isn’t paralyzed. The paralyzed creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.
+***Blue.*** On a failed save, the target takes 10d6 cold damage and is [[Conditions#Paralyzed|paralyzed]] for 1 minute. On a successful save, the target takes half the damage and isn’t [[Conditions#Paralyzed|paralyzed]]. The paralyzed creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 
 ***Pink.*** On a failed save, the target takes 10d6 acid damage and is wracked with pain for 1 minute. On a successful save, the target takes half the damage and isn’t wracked with pain. While wracked with pain, the creature has disadvantage on ability checks, attack rolls, and saves. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 

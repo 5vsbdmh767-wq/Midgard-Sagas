@@ -17,7 +17,7 @@ These paired scimitars are each named and engraved with unique symbols. The blad
 
 ***Matched Blades (Requires Attunement).*** You must have both Clive’s cacophony and Ivor’s illumination to attune to the weapons. You attune to the two swords as if they were one item. As your level increases, you gain the following benefits while wielding theses swords.
 
-**5th Level.** When you roll a 20 on an attack roll made with either weapon, the target is [[Conditions#Deafened|deafened]] (Clive’s cacophony) or [[Conditions#Blinded|blinded]] (Ivor’s illumination) for 1 minute. A blinded or deafened creature can make a CON save (DC equal to 8 + your PB + your CHA modifier) at the end of each of its turns, ending the condition on itself on a success. In addition, you have advantage on saves against being blinded or deafened.
+**5th Level.** When you roll a 20 on an attack roll made with either weapon, the target is [[Conditions#Deafened|deafened]] (Clive’s cacophony) or [[Conditions#Blinded|blinded]] (Ivor’s illumination) for 1 minute. A [[Conditions#Blinded|blinded]] or [[Conditions#Deafened|deafened]] creature can make a CON save (DC equal to 8 + your PB + your CHA modifier) at the end of each of its turns, ending the condition on itself on a success. In addition, you have advantage on saves against being blinded or deafened.
 
 **9th Level.** The extra thunder and radiant damage you deal with each sword increases to 2d6.
 

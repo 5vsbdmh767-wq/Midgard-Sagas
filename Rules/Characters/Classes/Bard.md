@@ -158,7 +158,7 @@ You weave magic into ongoing performances to produce effects beyond spells. You 
 
 As an action, you can use your Bardic Performance feature, choosing which performance effect you create when you do so. Once active, you can continue the performance for up to 1 minute, as long as you spend a bonus action at the start of each of your subsequent turns to maintain it. You can also choose to use your Bardic Inspiration feature as part of the same bonus action required to maintain this performance.
 
-Your performance ends early if you become incapacitated, silenced, use an action to begin a new performance, or choose to end the effect (no action required by you to do so).
+Your performance ends early if you become [[Conditions#Incapacitated|incapacitated]], silenced, use an action to begin a new performance, or choose to end the effect (no action required by you to do so).
 
 You can use your Bardic Performance feature to start a new performance a number of times equal to your PB, regaining all expended uses when you finish a long rest.
 
@@ -174,7 +174,7 @@ At 2nd level you gain a special reaction while your Bardic Performance feature i
 
 #### Bardic Performance: Clarity of Thought
 
-Starting at 6th level, you gain this Bardic Performance option. While using your Bardic Performance feature, allies within 30 feet of you can’t be charmed and have advantage on saves against being frightened. If an ally within range is already charmed or frightened when you begin your performance, it has advantage on any saves it makes to end the effect as long as your performance continues.
+Starting at 6th level, you gain this Bardic Performance option. While using your Bardic Performance feature, allies within 30 feet of you can’t be [[Conditions#Charmed|charmed]] and have advantage on saves against being [[Conditions#Frightened|frightened]]. If an ally within range is already charmed or frightened when you begin your performance, it has advantage on any saves it makes to end the effect as long as your performance continues.
 
 ### Bard Subclass
 
@@ -533,7 +533,7 @@ You gain proficiency with medium armor, shields, and martial weapons.
 
 Thanks to your way with words, you gain these benefits:
 
-***Vicious Cantrip.*** You always have the *[[Cantrips#Vicious Mockery|vicious mockery]]* cantrip prepared. If you already know the *vicious mockery* cantrip, you learn a new cantrip of your choice. A creature that fails its save against your *vicious mockery* has disadvantage on the next INT, WIS, or CHA save it makes before the end of your next turn, in addition to the spell’s normal effects.
+***Vicious Cantrip.*** You always have the *[[Cantrips#Vicious Mockery|vicious mockery]]* cantrip prepared. If you already know the *[[Cantrips#Vicious Mockery|vicious mockery]]* cantrip, you learn a new cantrip of your choice. A creature that fails its save against your *[[Cantrips#Vicious Mockery|vicious mockery]]* has disadvantage on the next INT, WIS, or CHA save it makes before the end of your next turn, in addition to the spell’s normal effects.
 
 ***Flyting Master.*** You can use CHA (Performance) in place of CHA (Intimidation) or CHA (Persuasion) checks to antagonize a creature into a fight, threaten a creature to avoid a confrontation, rile or soothe the attitude of a mob, or any other situation where your skill in weaving a story or applying a cutting insult would sway an opinion.
 
@@ -565,7 +565,7 @@ Once used, you can’t use this feature again until you complete a short or long
 
 You have learned to channel the power from the Eddas, epic poems of heroes, monsters, and gods ingrained into the hearts and minds of the [[Northlanders]]. You can spend 1 minute reciting selected passages from the Eddas. When you do so, each creature of your choice (other than you) within 60 feet that can hear you gains several benefits for 1 hour.
 
-- It has resistance to poison damage and immunity to the frightened and poisoned conditions.
+- It has resistance to poison damage and immunity to the frightened and [[Conditions#Poisoned|poisoned]] conditions.
 - Its hit point maximum increases by 2d10, and it gains the same number of hit points.
 - Once per turn, when the creature makes an attack roll or save, it can add 1d4 to the roll.
 
@@ -612,7 +612,7 @@ Your performance subtly manipulates the magic sounds of spellcasting, inhibiting
 
 *3rd-Level Sound Feature*
 
-You learn how to use sound to perceive things your eyes can’t. You have keensense to a range of 10 feet, but you lose this sense while deafened. Starting at 7th level, the range increases to 15 feet and by an additional 5 feet at 11th level (20 feet), 15th level (25 feet), and 20th level (30 feet).
+You learn how to use sound to perceive things your eyes can’t. You have keensense to a range of 10 feet, but you lose this sense while [[Conditions#Deafened|deafened]]. Starting at 7th level, the range increases to 15 feet and by an additional 5 feet at 11th level (20 feet), 15th level (25 feet), and 20th level (30 feet).
 
 ### Cacophonous Burst
 

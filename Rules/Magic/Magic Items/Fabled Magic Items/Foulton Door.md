@@ -93,9 +93,9 @@ At the GM’s discretion, if the door has a quirk you want to remove, spells suc
 | 2 | The first time a creature steps through the door each day, it decreases in size by 10 percent. This effect lasts until the creature is targeted by the *[[3rd-Circle Spells#Remove Curse\|remove curse]]* spell or similar magic. |
 | 3 | If a dangerous creature with an INT of 4 or lower is within 100 feet of the destination, the door magically attracts the creature to come to the door. |
 | 4 | Travel through the door is no longer instantaneous. Each creature that steps through the door arrives at the destination 10 minutes after it stepped through the door at the origin. |
-| 5 | Stepping through the door causes vertigo and mild nausea. Each creature that steps through the door is poisoned for 1 minute. |
+| 5 | Stepping through the door causes vertigo and mild nausea. Each creature that steps through the door is [[Conditions#Poisoned\|poisoned]] for 1 minute. |
 | 6 | The door makes noise, such as creaky hinges, a dinging bell, a trumpet blast, or similar loud sound, when it is opened, which is audible within 100 feet of the door at the origin and destination locations. |
-| 7 | The door dampens sound for travelers. Each creature that steps through the door is deafened for 10 minutes. |
+| 7 | The door dampens sound for travelers. Each creature that steps through the door is [[Conditions#Deafened\|deafened]] for 10 minutes. |
 | 8 | The door brings misfortune on travelers. Each creature that steps through the door is affected by the *[[1st-Circle Spells#Bane\|bane]]* spell for 1 hour. |
 
 ### Lesser Positive Quirks
@@ -105,7 +105,7 @@ At the GM’s discretion, if the door has a quirk you want to remove, spells suc
 | 1 | When you open the door, there is a 25 percent chance the door doesn’t expend a charge. |
 | 2 | Each time a creature steps through the door, it exits the other side clean, with freshly mended and laundered clothes, neatly trimmed hair, or similar signs of cleanliness. |
 | 3 | If a dangerous creature with an INT of 4 or lower is within 100 feet of the destination, the door magically repulses the creature, discouraging it from coming within 100 feet of the door. |
-| 4 | Each creature that steps through the door can’t be frightened for 1 hour. |
+| 4 | Each creature that steps through the door can’t be [[Conditions#Frightened\|frightened]] for 1 hour. |
 | 5 | Stepping through the door invigorates travelers. Each creature that steps through the door has advantage on attack rolls and ability checks for 1 minute. |
 | 6 | Each creature that steps through the door becomes aesthetically pleasing to other creatures and has advantage on CHA checks to interact socially with other creatures for 10 minutes. |
 | 7 | The door becomes more accepting of new fragments. Any creature incorporating a fragment has advantage on the check. |
@@ -118,7 +118,7 @@ At the GM’s discretion, if the door has a quirk you want to remove, spells suc
 | 1 | The door always arrives at a dangerous location within 1 mile of the desired destination, unless the desired destination is already dangerous. |
 | 2 | Once opened, the door must remain open for its full duration. |
 | 3 | Travel through the door is no longer instantaneous. Each creature that steps through the door arrives at the destination 1 hour after it stepped through the door at the origin. This quirk replaces the lesser negative quirk that also makes the door’s travel no longer instantaneous, if the door has that quirk. |
-| 4 | Each creature that steps through the door must make a WIS save (DC equals 10 + the number of fragments in the door). On a failure, a creature arrives at the destination but is incapacitated for 1 minute. |
+| 4 | Each creature that steps through the door must make a WIS save (DC equals 10 + the number of fragments in the door). On a failure, a creature arrives at the destination but is [[Conditions#Incapacitated\|incapacitated]] for 1 minute. |
 | 5 | When the door closes, it can’t be reopened for 1 hour. |
 | 6 | When you open the door, it expends 2 charges instead of 1. |
 

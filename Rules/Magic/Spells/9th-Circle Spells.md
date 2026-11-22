@@ -113,7 +113,7 @@ The target can use its action to attempt to escape. When it does so, it makes a 
 
 *A sphere of infernal fire erupts into reality.*
 
-You conjure a manifestation of an infernal plane, unleashing an aura of dark subjugation. A sphere of hellish flames fills a 30-foot-radius sphere centered on a point you can see within range. Any creature that enters or begins its turn within the sphere takes 8d12 necrotic damage and 8d12 fire damage. It must also succeed on a CON save or suffer one level of exhaustion.
+You conjure a manifestation of an infernal plane, unleashing an aura of dark subjugation. A sphere of hellish flames fills a 30-foot-radius sphere centered on a point you can see within range. Any creature that enters or begins its turn within the sphere takes 8d12 necrotic damage and 8d12 fire damage. It must also succeed on a CON save or suffer one level of [[Conditions#Exhaustion|exhaustion]].
 
 ## Mass Heal
 
@@ -129,7 +129,7 @@ You conjure a manifestation of an infernal plane, unleashing an aura of dark sub
 
 *You heal nearby creatures for a massive amount and also end all physical afflictions affecting them.*
 
-A flood of healing energy flows from you into injured creatures around you. You restore up to 700 HP, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell has no effect on Constructs or Undead.
+A flood of healing energy flows from you into injured creatures around you. You restore up to 700 HP, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them [[Conditions#Blinded|blinded]] or [[Conditions#Deafened|deafened]]. This spell has no effect on Constructs or Undead.
 
 ## Meteor Swarm
 
@@ -179,7 +179,7 @@ You utter a word of power that can compel one creature you can see within range 
 
 *You utter a divine word that restores a creature to perfect health.*
 
-You utter a word of power that completely heals one creature you can see within range. The creature is restored to maximum hit points. In addition, any charmed, frightened, paralyzed, or stunned conditions affecting the target immediately end. This spell has no effect on Constructs or Undead.
+You utter a word of power that completely heals one creature you can see within range. The creature is restored to maximum hit points. In addition, any [[Conditions#Charmed|charmed]], [[Conditions#Frightened|frightened]], [[Conditions#Paralyzed|paralyzed]], or [[Conditions#Stunned|stunned]] conditions affecting the target immediately end. This spell has no effect on Constructs or Undead.
 
 ## Prismatic Wall
 
@@ -213,7 +213,7 @@ The wall can be destroyed, also one layer at a time, in order from red to violet
 
 **Blue.** The creature takes 10d6 cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
 
-**Indigo.** On a failed save, the creature is restrained. It must then make a CON save at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don’t need to be consecutive; keep track of both until the creature collects three of a kind. While this layer is in place, spells can’t be cast through the wall. The layer is destroyed by bright light shed by a *[[3rd-Circle Spells#Daylight|daylight]]* spell or a similar spell of equal or higher circle.
+**Indigo.** On a failed save, the creature is [[Conditions#Restrained|restrained]]. It must then make a CON save at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the [[Conditions#Petrified|petrified]] condition. The successes and failures don’t need to be consecutive; keep track of both until the creature collects three of a kind. While this layer is in place, spells can’t be cast through the wall. The layer is destroyed by bright light shed by a *[[3rd-Circle Spells#Daylight|daylight]]* spell or a similar spell of equal or higher circle.
 
 **Violet.** On a failed save, the creature is blinded. It must then make a WIS save at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the GM’s choosing and is no longer blinded. Typically, a creature that is on a plane that isn’t its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes. This layer is destroyed by a *[[3rd-Circle Spells#Dispel Magic|dispel magic]]* spell or a similar spell of equal or higher circle that can end spells and magical effects.
 
@@ -237,7 +237,7 @@ You transform into an average example of that creature, one without any class le
 
 Your game statistics are replaced by the statistics of the chosen creature, though you retain your INT, WIS, and CHA scores. You also retain all of your skill and save proficiencies. When you make an ability check or save, you can choose to use your modifiers or the creature’s (whichever is higher). You can’t use any legendary actions or lair actions of the new form.
 
-You assume the hit points and hit dice of the new form. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 HP, any excess damage carries over to your normal form. As long as the excess damage doesn’t reduce your normal form to 0 HP, you aren’t knocked unconscious.
+You assume the hit points and hit dice of the new form. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 HP, any excess damage carries over to your normal form. As long as the excess damage doesn’t reduce your normal form to 0 HP, you aren’t knocked [[Conditions#Unconscious|unconscious]].
 
 You retain the benefit of any features from your class, lineage, or other source and can use them, provided that your new form is physically capable of doing so. You can’t use any special senses you have (for example, darkvision) unless your new form also has that sense. You can only speak if the creature can normally speak.
 
@@ -261,7 +261,7 @@ During this spell’s duration, you can use your action to assume a different fo
 
 *A swirling vortex of starless void opens around you, pulling everything toward you.*
 
-A localized distortion in reality, centered on you, creates a crushing magical gravity well in a 50-foot radius. Each creature in the area, excluding you, feels an inexorable gravitational force. Creatures drop all objects held, fall prone, and become paralyzed by the overwhelming pull. Flying and levitating creatures fall immediately, taking double falling damage. A creature other than you that enters or starts its turn in the area must succeed on a STR save or suffer the same fate.
+A localized distortion in reality, centered on you, creates a crushing magical gravity well in a 50-foot radius. Each creature in the area, excluding you, feels an inexorable gravitational force. Creatures drop all objects held, fall [[Conditions#Prone|prone]], and become paralyzed by the overwhelming pull. Flying and levitating creatures fall immediately, taking double falling damage. A creature other than you that enters or starts its turn in the area must succeed on a STR save or suffer the same fate.
 
 A creature that begins its turn prone and paralyzed in the area makes a STR save. On a failure, it takes 10d6 bludgeoning damage from crushing against the floor or ground. On a success, it takes 5d6 bludgeoning damage, is not paralyzed, and can move at half speed. Ranged weapon attacks and projectile spells within the area are reduced to a normal range of 5 feet and a maximum range of 10 feet.
 
@@ -349,7 +349,7 @@ This spell has no effect on a creature with the Shapechanger tag or a creature w
 
 *You overwhelm a creature with its insignificance within the grand scheme of the [[The Labyrinth|Labyrinth]].*
 
-You fill the minds of up to three creatures you can see within range with their utter insignificance within the grand scheme of the thousands of worlds of the Labyrinth. Each target must make an INT save. On a failure, a target is stunned. On a success, a target is incapacitated until the end of its next turn. At the end of its next turn, a stunned target can repeat the save, ending the effect on itself on a success or becoming incapacitated for 1 minute on a failure. At the end of each of its turns, an incapacitated target can make another INT save, ending the spell on a success.
+You fill the minds of up to three creatures you can see within range with their utter insignificance within the grand scheme of the thousands of worlds of the Labyrinth. Each target must make an INT save. On a failure, a target is stunned. On a success, a target is [[Conditions#Incapacitated|incapacitated]] until the end of its next turn. At the end of its next turn, a stunned target can repeat the save, ending the effect on itself on a success or becoming incapacitated for 1 minute on a failure. At the end of each of its turns, an incapacitated target can make another INT save, ending the spell on a success.
 
 ## Weird
 

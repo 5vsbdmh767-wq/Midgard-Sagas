@@ -16,7 +16,7 @@ These battle tactics may be chosen by a character who has taken the Battle Tacti
 
 ### Bite and Hold Offensive
 
-**Cost:** 4 points **Activation Time:** 1 action **Range:** 10 feet **Duration:** 1 minute To pin an enemy is to make them helpless against your allies. For the duration, you have advantage on attacks against grappled targets. In addition, creatures your size or smaller that you grapple are restrained.
+**Cost:** 4 points **Activation Time:** 1 action **Range:** 10 feet **Duration:** 1 minute To pin an enemy is to make them helpless against your allies. For the duration, you have advantage on attacks against [[Conditions#Grappled|grappled]] targets. In addition, creatures your size or smaller that you grapple are [[Conditions#Restrained|restrained]].
 
 ### Clip their Wings
 
@@ -84,7 +84,7 @@ These battle tactics may be chosen by a character who has taken the Battle Tacti
 
 ### Push them Back
 
-**Cost:** 2 points **Activation Time:** 1 action **Range:** 30 feet **Duration:** Instantaneous You rally your allies into a sudden assault, breaking the enemy line and brutalizing the fallen. As part of a shove attack, choose a number of friendly creatures within range up to your PB. Each of those creatures may spend their reaction to either make a shove attack on a standing creature or to make a melee weapon attack against a prone creature.
+**Cost:** 2 points **Activation Time:** 1 action **Range:** 30 feet **Duration:** Instantaneous You rally your allies into a sudden assault, breaking the enemy line and brutalizing the fallen. As part of a shove attack, choose a number of friendly creatures within range up to your PB. Each of those creatures may spend their reaction to either make a shove attack on a standing creature or to make a melee weapon attack against a [[Conditions#Prone|prone]] creature.
 
 ### Skirmisher’s Step
 
@@ -92,7 +92,7 @@ These battle tactics may be chosen by a character who has taken the Battle Tacti
 
 ### Their Fears, Manifest
 
-**Cost:** 4 points **Activation Time:** 1 action **Range:** 30 feet **Duration:** 1 minute You drill your allies on shock-and-awe tactics. Choose a number of friendly creatures up to your PB. You and those creatures have advantage on attacks against frightened targets. Additionally, as a reaction, when a friendly creature under this tactic’s effect reduces a creature to 0 hit points, they may choose one hostile creature within range. It must succeed on a CHA save or be frightened of you until the start of your next turn.
+**Cost:** 4 points **Activation Time:** 1 action **Range:** 30 feet **Duration:** 1 minute You drill your allies on shock-and-awe tactics. Choose a number of friendly creatures up to your PB. You and those creatures have advantage on attacks against [[Conditions#Frightened|frightened]] targets. Additionally, as a reaction, when a friendly creature under this tactic’s effect reduces a creature to 0 hit points, they may choose one hostile creature within range. It must succeed on a CHA save or be frightened of you until the start of your next turn.
 
 ### Visceral Motivation
 

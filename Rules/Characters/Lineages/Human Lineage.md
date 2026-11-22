@@ -41,14 +41,14 @@ Your umbral human character has the following hereditary traits.
 
 ***Dark Infusion.*** You are resistant to cold damage.
 
-***Fade Away.*** While standing perfectly still, you can use an action to become invisible. You become visible again if you move or take an action. You can use this trait a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+***Fade Away.*** While standing perfectly still, you can use an action to become [[Conditions#Invisible|invisible]]. You become visible again if you move or take an action. You can use this trait a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
 ***Shadow Infusion.*** Shadow has changed you in one of two ways. Choose one:
 
 - ***Changeling.*** You are a human adapted to the shadows over many generations, much as the shadow fey differ from other elves. Your skin tends toward alabaster white, ebony black, or subtle grays, and you may have rudimentary horns. You can cast the *[[1st-Circle Spells#Disguise Self|disguise self]]* spell at will, without a spell slot.
 - ***Gifted.*** You drank too deeply of the shadows, too quickly, most likely through a bargain with a shadow fey, whether willing or not, as boon or bane. You may look like an ordinary umbral human, like a shadow fey, or carry anything from small marks to tails, hooves, or vestigial wings, and the change may have taken some of your memories; whatever it is, you can always see its sign. You are resistant to necrotic damage, and you have one of the following Shadow Gifts, each a benefit with a price (or work out another with your GM):
   - You have proficiency in one skill of your choice and always make checks with it at advantage. Choose a second skill; you always make checks with it at disadvantage.
-  - You no longer need to eat or breathe, and you need only 4 hours for a long rest, but you gain one level of exhaustion that can't be removed by any means.
+  - You no longer need to eat or breathe, and you need only 4 hours for a long rest, but you gain one level of [[Conditions#Exhaustion|exhaustion]] that can't be removed by any means.
   - Your walking speed is halved, and you gain a fly, swim, or climb speed equal to your new walking speed.
   - Each day at dawn, you gain temporary HP equal to your CON score, but you can no longer spend Hit Dice to heal during short rests.
 

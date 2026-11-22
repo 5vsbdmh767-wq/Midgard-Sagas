@@ -10,7 +10,7 @@ A bezoar is a hard lump of undigested matter that forms in a creature's gut. It 
 
 ***Bringing It Up Early.*** A successful DC 15 WIS (Medicine) check makes you cough up a bezoar early. A bezoar removed early recharges after it spends 24 hours outside a body.
 
-***One at a Time.*** Only one bezoar works on you at a time. While one is in your stomach, you can still eat and drink normally, but you gain no benefit from other edible magic items, such as potions, [[Fantastical Foods]] and [[Spirit Honey]], or magical food like *goodberry* or *heroes' feast*.
+***One at a Time.*** Only one bezoar works on you at a time. While one is in your stomach, you can still eat and drink normally, but you gain no benefit from other edible magic items, such as potions, [[Fantastical Foods]] and [[Spirit Honey]], or magical food like *[[1st-Circle Spells#Goodberry|goodberry]]* or *heroes' feast*.
 
 ***Owlbear Curses.*** Owlbears eat anything, so a bezoar from an owlbear has a 50 percent chance of being cursed. You can't get rid of a cursed bezoar before its time is up unless a *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell targets you first, and even then the curse returns if the bezoar is still inside you at the end of your next short or long rest. The curse ends when the bezoar comes up.
 

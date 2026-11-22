@@ -13,7 +13,7 @@ While you wield this axe, you have advantage on WIS (Animal Handling) checks.
 
 ***13th Level.*** You now gain a +2 bonus to attack and damage rolls with this weapon, instead of +1. In addition, while the axe is within 30 feet of you, you can choose to expend 1 hit die to recover hit points at the beginning of each of your turns.
 
-***17th Level.*** You now gain a +3 bonus to attack and damage rolls with this weapon, instead of +2. In addition, as an action, you can cast the *animal shapes* spell from it once until the next dawn.
+***17th Level.*** You now gain a +3 bonus to attack and damage rolls with this weapon, instead of +2. In addition, as an action, you can cast the *[[8th-Circle Spells#Animal Shapes|animal shapes]]* spell from it once until the next dawn.
 
 *A blade of razor-edged bone sprouts from this axe’s living wood grip.* Becoming the fittest is the only way to guarantee a warrior’s survival, a trait that places them in sync with the laws of nature. Warriors who embrace their inherent connection to their primal instincts often become champions of the natural world. They sometimes receive magical weapons that grow in power as the warrior’s bond to the wild deepens.
 

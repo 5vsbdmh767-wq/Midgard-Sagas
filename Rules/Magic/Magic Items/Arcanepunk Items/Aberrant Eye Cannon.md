@@ -13,7 +13,7 @@ This slimy, wiggling tentacle has a [[Conditions#Petrified|petrified]] eye of an
 
 The eye cannon regains 1d6 + 1 expended charges daily at dawn.
 
-**Overcharge.** When you expend the eye cannon’s last charge, you can overcharge the item, which has different effects, depending on the chosen property. Charm and Paralyze double the duration. Blast doubles the damage dealt. Roll a d10. The eye cannon’s petrified Aberration eye shatters on a 1, and its magical properties are inert until repaired.
+**Overcharge.** When you expend the eye cannon’s last charge, you can overcharge the item, which has different effects, depending on the chosen property. Charm and Paralyze double the duration. Blast doubles the damage dealt. Roll a d10. The eye cannon’s [[Conditions#Petrified|petrified]] Aberration eye shatters on a 1, and its magical properties are inert until repaired.
 
 **Repairing.** The eye cannon can only be repaired by finding another Aberration eye, which must then be petrified before being fitted into the eye cannon.
 

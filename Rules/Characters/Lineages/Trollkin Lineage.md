@@ -31,7 +31,7 @@ Your trollkin character has certain hereditary traits dictated by their lineage.
 
 - ***Ogre.*** Your body is powerfully built and imposing. You have advantage on ability checks and saves made to initiate and escape grapples.
 
-- ***Troll.*** You are about as large as Medium size gets, but not quite Large. You have advantage on saves against the stunned condition.
+- ***Troll.*** You are about as large as Medium size gets, but not quite Large. You have advantage on saves against the [[Conditions#Stunned|stunned]] condition.
 
 - ***Fey.*** Your features are beguiling and strange. When you make an ability check that uses CHA, you may roll a d6 and add it to the total. You can use this trait once until you finish a long rest.
 

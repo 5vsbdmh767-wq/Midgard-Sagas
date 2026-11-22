@@ -36,7 +36,7 @@ Whether their best friend is a dog, horse, hawk, or something else, the beastmas
 
 ***Heritage.*** Wildlands ***Background.*** Rustic ***Talents.*** Since you bring your own animal allies with you, Comrade is an excellent talent choice to generate Luck for you and you can use the Help action as a bonus action.
 
-***Suggestions.*** The features you receive from the Rustic background and your ranger spells all use WIS. So after DEX, make WIS your second highest ability score. In addition to your animal spirit companion, consider other animal friends you might bring along, like a warhorse or trained dog. You have advantage on Animal Handling checks to interact with animals and can cast *animal friendship*, so you are likely to be able to convince extra animal friends to help in dangerous situations. A beastmaster character rarely takes social skills.
+***Suggestions.*** The features you receive from the Rustic background and your ranger spells all use WIS. So after DEX, make WIS your second highest ability score. In addition to your animal spirit companion, consider other animal friends you might bring along, like a warhorse or trained dog. You have advantage on Animal Handling checks to interact with animals and can cast *[[1st-Circle Spells#Animal Friendship|animal friendship]]*, so you are likely to be able to convince extra animal friends to help in dangerous situations. A beastmaster character rarely takes social skills.
 
 ## Dark Dabbler
 
@@ -62,7 +62,7 @@ Bravos typically operate in bustling cities where their reputation as a skilled 
 
 ***Heritage.*** Cosmopolitan or Diaspora ***Background.*** Duelist is the obvious choice, but Artist or Outcast may also work.
 
-***Talents.*** Quick is a great choice since it lets you use a bonus action to move 5 feet away from an opponent without provoking an opportunity attack. Opportunist is a convenient choice to get in extra attacks if you can knock your rival prone.
+***Talents.*** Quick is a great choice since it lets you use a bonus action to move 5 feet away from an opponent without provoking an opportunity attack. Opportunist is a convenient choice to get in extra attacks if you can knock your rival [[Conditions#Prone|prone]].
 
 ***Suggestions.*** You want to focus on DEX over STR, especially to make sure you go win initiative to go first in combat. Consider using two weapons with the Finesse and Light weapon properties such as daggers, scimitars, or shortswords. For your Martial Action, choose Quick Strike to maximize your dueling attacks. When combined with Action Surge, this makes you especially effective at quickly blooding foes. Proficiency in Performance helps complete the Bravo picture. As you gain levels, consider adding a level or two of rogue class to gain access to the Sneak Attack and Cunning Action class features.
 
@@ -110,7 +110,7 @@ Monster hunters are heroes that specialize in hunting and destroying the enemies
 
 ***Class (Subclass).*** Ranger (Hunter) or Ranger (Peerless Scout)
 
-***Heritage.*** Anointed, Diaspora, Grove, or Slayer ***Background.*** Outcast ***Talents.*** Start with Aware. It allows you to avoid being surprised by the monsters you hunt and increases your chance of striking first.
+***Heritage.*** Anointed, Diaspora, Grove, or Slayer ***Background.*** Outcast ***Talents.*** Start with Aware. It allows you to avoid being [[Conditions#Surprised|surprised]] by the monsters you hunt and increases your chance of striking first.
 
 ***Suggestions.*** STR, DEX, WIS, and INT are all going to be useful, so monster hunters frequently end up spreading the capacity around rather than focusing heavily on one ability score. You need an edge against your foes, so abilities like being able to track your foe or set up ambushes and traps are key, all while avoiding the same from them. You want to grab disposable tricks like acid, oil, or alchemist’s fire for creatures with immunities to other weapons. Owning one or more magic weapons as you level up is also helpful, as many monsters have resistance or immunity to non-magic weapons.
 
@@ -168,7 +168,7 @@ Sometimes the most audacious rogues aren’t rogues at all. From difficult begin
 
 ***Examples.*** Conan the Barbarian (Conan stories by Robert E. Howard), Fafhrd (Fafhrd and the Gray Mouser stories by Fritz Leiber), Ragnar Lothbrok (historical)
 
-***Class (Subclass).*** Barbarian (Berserker). There is a lot of flexibility in subclass choices, but Berserker gives you Mindless Rage and Intimidating Presence which should come in handy when resisting charm, fear, and exhaustion effects when your plans go awry.
+***Class (Subclass).*** Barbarian (Berserker). There is a lot of flexibility in subclass choices, but Berserker gives you Mindless Rage and Intimidating Presence which should come in handy when resisting charm, fear, and [[Conditions#Exhaustion|exhaustion]] effects when your plans go awry.
 
 ***Heritage.*** Nomadic, Supplicant, or Wildlands. There are a number of overlaps in the skill proficiencies from these heritages and your class, so choose carefully.
 

@@ -17,7 +17,7 @@ In addition, the rod has four embedded gemstones that change color when rotated:
 
 ***Red.*** Oil coats a surface in a 20-foot square within range, making it difficult terrain. Each creature in the area must succeed on a DC 15 DEX save or fall [[Conditions#Prone|prone]]. Any creature entering or ending their turn within the area must also make the save.
 
-***Yellow.*** Acid mist fills a 10-foot cube within range. A creature in the area must make a DC 15 DEX save, taking 2d6 acid damage on a failed save, or half as much damage on a success. A creature that enters the area or ends it turn there must also succeed on a DC 15 CON save or be poisoned.
+***Yellow.*** Acid mist fills a 10-foot cube within range. A creature in the area must make a DC 15 DEX save, taking 2d6 acid damage on a failed save, or half as much damage on a success. A creature that enters the area or ends it turn there must also succeed on a DC 15 CON save or be [[Conditions#Poisoned|poisoned]].
 
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

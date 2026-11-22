@@ -19,9 +19,9 @@ Your quickstep character has the following hereditary traits.
 
 ***Darkvision.*** You have darkvision to a range of 60 feet.
 
-***Fey Ancestry.*** You have advantage on saves against being charmed, and magic can't put you to sleep.
+***Fey Ancestry.*** You have advantage on saves against being [[Conditions#Charmed|charmed]], and magic can't put you to sleep.
 
-***Startling Speed.*** When you move at least 10 feet on your turn, you can choose to give attack rolls against you disadvantage until the start of your next turn. You can't do so while incapacitated or restrained. You can use this trait a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+***Startling Speed.*** When you move at least 10 feet on your turn, you can choose to give attack rolls against you disadvantage until the start of your next turn. You can't do so while [[Conditions#Incapacitated|incapacitated]] or [[Conditions#Restrained|restrained]]. You can use this trait a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
 Suggested heritages: Umbral, Feysworn, Cosmopolitan.
 

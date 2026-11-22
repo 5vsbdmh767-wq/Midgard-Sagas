@@ -41,7 +41,7 @@ After spending the casting time tracing magical pathways within a precious gemst
 
 The target gains INT of 10 (+0) and the ability to speak one language you know. If the target is a Plant, it gains mobility, can move its limbs, roots, vines, creepers, and so forth, and gains senses similar to a human’s. Your GM chooses statistics appropriate for the awakened Plant, such as the statistics for the **awakened shrub** or the **awakened tree**.
 
-The awakened Beast or Plant is charmed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you based on how you treated it while it was charmed.
+The awakened Beast or Plant is [[Conditions#Charmed|charmed]] by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you based on how you treated it while it was charmed.
 
 ## Battle Blessing
 
@@ -71,7 +71,7 @@ You confer divine blessings on a group of creatures, preparing them for the batt
 
 ***Powerful.*** For the entire combat, creatures have disadvantage on saves against the target’s spells.
 
-***Relentless.*** The target automatically saves against the next effect that causes it to be immobilized, paralyzed, or restrained, and it has advantage on saves against any further effects that cause those conditions.
+***Relentless.*** The target automatically saves against the next effect that causes it to be immobilized, [[Conditions#Paralyzed|paralyzed]], or [[Conditions#Restrained|restrained]], and it has advantage on saves against any further effects that cause those conditions.
 
 ***At Higher Circles.*** As you unlock higher circles, this ritual grows in potency. Once you have access to 8th-circle spell slots, each targeted creature gains 2 boons of your choice. Once you have access to 9th-circle spell slots, each creature gains three boons of your choice.
 
@@ -181,7 +181,7 @@ You instantly know up to three facts of your choice about any of the following s
 
 *You animate a corpse to do your bidding through the will of the forest.*
 
-When you cast this spell in a forest, you fasten sticks and twigs around a body. The body comes to life as a forest defender, which uses the statistics of a vine golem . The forest defender is friendly to you and your companions. Roll initiative for the forest defender, which has its own turns. It obeys any verbal or mental commands that you issue to it (no action required by you), as long as you remain within its line of sight. If you don't issue any commands to the forest defender, if you are out of its line of sight, or if you are unconscious, it defends itself from hostile creatures but otherwise takes no actions. A body sacrificed to form the forest defender is permanently destroyed and can be restored to life only by means of a true resurrection or a wish spell. You can have only one forest defender under your control at a time. If you cast this spell again, the previous forest defender crumbles to dust.
+When you cast this spell in a forest, you fasten sticks and twigs around a body. The body comes to life as a forest defender, which uses the statistics of a vine golem . The forest defender is friendly to you and your companions. Roll initiative for the forest defender, which has its own turns. It obeys any verbal or mental commands that you issue to it (no action required by you), as long as you remain within its line of sight. If you don't issue any commands to the forest defender, if you are out of its line of sight, or if you are [[Conditions#Unconscious|unconscious]], it defends itself from hostile creatures but otherwise takes no actions. A body sacrificed to form the forest defender is permanently destroyed and can be restored to life only by means of a true resurrection or a wish spell. You can have only one forest defender under your control at a time. If you cast this spell again, the previous forest defender crumbles to dust.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 9th circle, you can summon two forest defenders instead of one, and you can control up to two forest defenders at a time.
 
@@ -199,7 +199,7 @@ When you cast this spell in a forest, you fasten sticks and twigs around a body.
 
 *You contact a being from another plane to answer questions.*
 
-You mentally contact a demigod, the spirit of a long-dead sage, or some entity from another plane. Contacting this extraplanar being can strain or even break your mind. When you cast this spell, make a DC 15 INT save. On a failure, you take 6d6 psychic damage and become incapacitated until you finish a long rest. While incapacitated in this way, you can’t take actions, can’t understand what other creatures say, can’t read, and speak only in gibberish. A *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell cast on you ends this effect.
+You mentally contact a demigod, the spirit of a long-dead sage, or some entity from another plane. Contacting this extraplanar being can strain or even break your mind. When you cast this spell, make a DC 15 INT save. On a failure, you take 6d6 psychic damage and become [[Conditions#Incapacitated|incapacitated]] until you finish a long rest. While incapacitated in this way, you can’t take actions, can’t understand what other creatures say, can’t read, and speak only in gibberish. A *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell cast on you ends this effect.
 
 On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The GM answers each question with one word, such as “yes,” “no,” “maybe,” “never,” “irrelevant,” or “unclear” (if the entity doesn’t know the answer to the question). If a one-word answer would be misleading, the GM might instead offer a short phrase as an answer.
 
@@ -545,7 +545,7 @@ When you cast this spell, you can specify individuals that are unaffected by any
 
 You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of a *[[#Hallow|hallow]]* spell. The affected area is subject to the following effects.
 
-First, Celestials, Elementals, Fey, Fiends, Undead, and creatures with the Outsider tag can’t enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature charmed, frightened, or possessed by such a creature is no longer charmed, frightened, or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.
+First, Celestials, Elementals, Fey, Fiends, Undead, and creatures with the Outsider tag can’t enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature charmed, [[Conditions#Frightened|frightened]], or possessed by such a creature is no longer charmed, frightened, or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.
 
 Second, you can bind an extra effect to the area. Choose an effect from the following list, or choose an effect offered by the GM. Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific deity or leader, or creatures of a specific sort, such as orcs or trolls. When a creature that would be affected enters the spell’s area for the first time on a turn or starts its turn there, it can make a CHA save. On a success, the creature ignores the extra effect until it leaves the area.
 
@@ -609,7 +609,7 @@ The war wagon has AC 18 and 80 HP. It is immune to fire, poison, psychic, and ne
 
 While riding the war wagon, you can drive it in place of your move. The war wagon has a speed of 30 feet and a flying speed of 30 feet. For other vehicular interactions not specified here, see the [[Vehicles#War Wagon|war wagon]].
 
-If the war wagon ends its move in a space occupied by Medium or smaller creatures, all creatures sharing the space of the war wagon at the end of its movement must make a STR save. On a failure, the creatures take damage as if they had touched the war wagon, are pushed to the nearest unoccupied space, and knocked prone. On a success, the target takes half damage, is pushed to the nearest safe, unoccupied space, and is not prone.
+If the war wagon ends its move in a space occupied by Medium or smaller creatures, all creatures sharing the space of the war wagon at the end of its movement must make a STR save. On a failure, the creatures take damage as if they had touched the war wagon, are pushed to the nearest unoccupied space, and knocked [[Conditions#Prone|prone]]. On a success, the target takes half damage, is pushed to the nearest safe, unoccupied space, and is not prone.
 
 The war wagon vanishes if it is reduced to 0 HP. Riders appear in an unoccupied space adjacent to where the war wagon was. If the war wagon was in flight when it vanishes, the riders fall to the ground.
 
@@ -631,7 +631,7 @@ The war wagon vanishes if it is reduced to 0 HP. Riders appear in an unoccupied 
 
 Infernal metal plating appears around the creature you touch, like a crude form of armor. The plating resembles dark iron and sizzles as though out of the furnace, but it doesn’t harm the wearer. For the duration, the plating grants its target the following effects:
 
-- **Devilish Resilience.** The target has resistance to cold damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to fire and poison damage and to the poisoned condition.
+- **Devilish Resilience.** The target has resistance to cold damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to fire and poison damage and to the [[Conditions#Poisoned|poisoned]] condition.
 
 - **Infernal Fortitude.** The target is immune to the charmed and frightened conditions.
 
@@ -675,7 +675,7 @@ You must complete a long rest before you can cast this spell again.
 
 As part of casting this spell, choose a solid surface such as a wall or cliff face that you can see within range. You must also envision a location you have physically visited on the same plane of existence, within 100 miles of your current location.
 
-At the end of the casting, a nigh-invisible entryway appears on the targeted surface. A second entryway also appears at your chosen destination, on a surface close to the location you envisioned. Both entryways open into an extradimensional path full of labyrinthine passageways, stairs, and similar architectural features that lead to one another. Traveling along this pathway takes half the time that travel to your chosen destination would normally take and is free from hazards, monsters, or similar troubles one might encounter during standard travel. Travelers still need food, water, and supplies for sustenance.
+At the end of the casting, a nigh-[[Conditions#Invisible|invisible]] entryway appears on the targeted surface. A second entryway also appears at your chosen destination, on a surface close to the location you envisioned. Both entryways open into an extradimensional path full of labyrinthine passageways, stairs, and similar architectural features that lead to one another. Traveling along this pathway takes half the time that travel to your chosen destination would normally take and is free from hazards, monsters, or similar troubles one might encounter during standard travel. Travelers still need food, water, and supplies for sustenance.
 
 Any creature of Huge-size or smaller can enter either entryway and travel along the path for the duration. Creatures who don’t know an entryway’s exact location must first succeed on a DC 20 INT (Investigation) check to find it.
 
@@ -871,7 +871,7 @@ You create a bond among all willing, participating creatures within range. Each 
 
 - If a bonded creature is within 5 feet of a target, all other bonded creatures have advantage to attack rolls against that target.
 
-- When the possibility for surprise occurs, if one bonded creature isn’t surprised, no bonded creature within 30 feet of it is surprised. If a bonded creature rejects the bond, the spell ends immediately for it. Otherwise, the spell lasts for the duration until a bonded creature dies.
+- When the possibility for surprise occurs, if one bonded creature isn’t [[Conditions#Surprised|surprised]], no bonded creature within 30 feet of it is surprised. If a bonded creature rejects the bond, the spell ends immediately for it. Otherwise, the spell lasts for the duration until a bonded creature dies.
 
 ## Personal Time Fold
 

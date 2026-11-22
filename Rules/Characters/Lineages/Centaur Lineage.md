@@ -23,11 +23,11 @@ Your centaur character has the following hereditary traits.
 
 ***Speed.*** Your base walking speed is 40 feet.
 
-***Buck and Rear.*** You have advantage on ability checks and saving throws made to escape grapples. Once per short or long rest, when you escape a grapple from a creature that is Medium or smaller, you can also cause that creature to fall prone.
+***Buck and Rear.*** You have advantage on ability checks and saving throws made to escape grapples. Once per short or long rest, when you escape a grapple from a creature that is Medium or smaller, you can also cause that creature to fall [[Conditions#Prone|prone]].
 
 ***Humanoid Torso.*** You can wield weapons and wear armor sized for Medium creatures due to the proportions of your humanoid torso.
 
-***Hybrid Humanoid.*** Though your type is Humanoid, you have traits in common with Monstrosities. You have advantage on saves against effects that would cause you to become exhausted, and you have advantage on saves against being frightened.
+***Hybrid Humanoid.*** Though your type is Humanoid, you have traits in common with Monstrosities. You have advantage on saves against effects that would cause you to become exhausted, and you have advantage on saves against being [[Conditions#Frightened|frightened]].
 
 ***Natural Weapons.*** Your hooves can be used as natural weapons, which you can use to make unarmed strikes. When you hit with them, you deal 2d4 + STR modifier bludgeoning damage.
 

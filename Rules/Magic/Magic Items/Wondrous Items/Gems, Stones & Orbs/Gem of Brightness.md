@@ -9,7 +9,7 @@ This prism has 50 charges. While you are holding it, you can use an action to sp
 
 - The second command word expends 1 charge and causes the gem to fire a brilliant beam of light at one creature you can see within 60 feet of you. The creature must succeed on a DC 15 CON save or become [[Conditions#Blinded|blinded]] for 1 minute. The creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 
-- The third command word expends 5 charges and causes the gem to flare with blinding light in a 30-foot cone originating from it. Each creature in the cone must succeed on a DC 15 CON save or become blinded for 1 minute. When all of the gem’s charges are expended, the gem becomes a nonmagical jewel worth 50 gp.
+- The third command word expends 5 charges and causes the gem to flare with blinding light in a 30-foot cone originating from it. Each creature in the cone must succeed on a DC 15 CON save or become [[Conditions#Blinded|blinded]] for 1 minute. When all of the gem’s charges are expended, the gem becomes a nonmagical jewel worth 50 gp.
 
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

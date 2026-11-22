@@ -17,7 +17,7 @@ publish: true
 
 *You mark a creature with pain.*
 
-You choose a creature you can see within range to mark as your prey, and a ray of black energy issues forth from you. Until the spell ends, each time you deal damage to the target it must make a CHA save. On a failed save, it falls prone as its body is filled with torturous agony.
+You choose a creature you can see within range to mark as your prey, and a ray of black energy issues forth from you. Until the spell ends, each time you deal damage to the target it must make a CHA save. On a failed save, it falls [[Conditions#Prone|prone]] as its body is filled with torturous agony.
 
 ## Animal Friendship
 
@@ -33,7 +33,7 @@ You choose a creature you can see within range to mark as your prey, and a ray o
 
 *You charm a Beast or Animal for a day.*
 
-This spell lets you convince an animal that you mean it no harm. Choose a Beast or creature with the Animal tag that you can see within range. It must see and hear you. If the creature’s INT is 4 (−3) or higher, the spell fails. Otherwise, the creature must succeed on a WIS save or be charmed by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.
+This spell lets you convince an animal that you mean it no harm. Choose a Beast or creature with the Animal tag that you can see within range. It must see and hear you. If the creature’s INT is 4 (−3) or higher, the spell fails. Otherwise, the creature must succeed on a WIS save or be [[Conditions#Charmed|charmed]] by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 2nd circle or higher, you can affect one additional creature for each slot above 1st.
 
@@ -131,7 +131,7 @@ You bless up to three creatures of your choice within range. When a target makes
 
 *You transform an animal into an expert tracker.*
 
-You touch a willing Beast or creature with the Animal tag that has an INT score of 3 (−4) or lower. For the duration, the creature can make WIS (Survival) checks for tracking, using your spellcasting modifier and PB as bonuses to the roll. If the animal has heightened senses, it gains advantage on these checks for appropriate senses (scent for following by smell, or sight if visually following tracks). In addition, if the creature isn’t surprised at the beginning of combat, no other creature within 10 feet of it is surprised.
+You touch a willing Beast or creature with the Animal tag that has an INT score of 3 (−4) or lower. For the duration, the creature can make WIS (Survival) checks for tracking, using your spellcasting modifier and PB as bonuses to the roll. If the animal has heightened senses, it gains advantage on these checks for appropriate senses (scent for following by smell, or sight if visually following tracks). In addition, if the creature isn’t [[Conditions#Surprised|surprised]] at the beginning of combat, no other creature within 10 feet of it is surprised.
 
 ## Bloodhound (Margreve)
 
@@ -169,7 +169,7 @@ You touch a willing creature to grant it an enhanced sense of smell. For the dur
 
 *You greatly increase a creature’s stamina.*
 
-You cast this spell on a creature, greatly increasing its energy reserves. The target has advantage on saves against effects and spells that would cause exhaustion. If the target gains one or more levels of exhaustion from any source, the spell provides a final burst of energy, removing one level of exhaustion and ending the spell.
+You cast this spell on a creature, greatly increasing its energy reserves. The target has advantage on saves against effects and spells that would cause [[Conditions#Exhaustion|exhaustion]]. If the target gains one or more levels of exhaustion from any source, the spell provides a final burst of energy, removing one level of exhaustion and ending the spell.
 
 If cast on a creature that already suffers levels of exhaustion, the spell removes one level of exhaustion instantly but provides no other bonuses.
 
@@ -307,9 +307,9 @@ At the end of its next turn, the target must make another CON save as above. The
 
 *You blind foes with an illusory array of colorful lights.*
 
-A dazzling array of flashing, colored light springs from your hand. Roll 8d10 and total the result. This total is how many hit points of creatures this spell can affect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can’t see).
+A dazzling array of flashing, colored light springs from your hand. Roll 8d10 and total the result. This total is how many hit points of creatures this spell can affect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring [[Conditions#Unconscious|unconscious]] creatures and creatures that can’t see).
 
-Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the spell ends. Subtract each creature’s current hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
+Starting with the creature that has the lowest current hit points, each creature affected by this spell is [[Conditions#Blinded|blinded]] until the spell ends. Subtract each creature’s current hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 2nd circle or higher, roll an additional 2d10 for each slot above 1st.
 
@@ -383,7 +383,7 @@ You release a burst of sickly yellow light, which corpses within range absorb. A
 
 Undead are illuminated by and reflect the light as well, but an Undead with an INT of 4 (−3) or higher can make a CHA save, negating this effect on a success.
 
-An attack roll against an illuminated creature has advantage if the attacker can see it, and the affected creature can’t benefit from being invisible.
+An attack roll against an illuminated creature has advantage if the attacker can see it, and the affected creature can’t benefit from being [[Conditions#Invisible|invisible]].
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 2nd circle or higher, you increase the range by 5 feet for each slot above 1st.
 
@@ -445,7 +445,7 @@ When you cast this spell, choose which of the following effects to create.
 
 *You petrify plants, turning them to crumbling chalk.*
 
-When you cast this spell, all plants in a 20-foot square or a 10-foot wide, 40-foot-long line are petrified, becoming white, crumbling chalk. If the plants created difficult terrain, the area is now easily passable. This spell doesn’t affect any part of the area that is under the effects of magic, such as the *[[#Entangle|entangle]]* spell or a Leaf druid’s Sacred Grove class feature.
+When you cast this spell, all plants in a 20-foot square or a 10-foot wide, 40-foot-long line are [[Conditions#Petrified|petrified]], becoming white, crumbling chalk. If the plants created difficult terrain, the area is now easily passable. This spell doesn’t affect any part of the area that is under the effects of magic, such as the *[[#Entangle|entangle]]* spell or a Leaf druid’s Sacred Grove class feature.
 
 Alternatively, you can cast this spell on a creature with the Plant type. The creature must succeed on a CON save or have disadvantage on attacks, saves, and ability checks for a number of rounds equal to your PB.
 
@@ -699,7 +699,7 @@ You create a burst of elemental energy at a point you can see within range, wher
 
 *You create grasping vines that restrain creatures in the area.*
 
-Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain. A creature in the area when you cast the spell must succeed on a STR save or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a STR check against your spell save DC. On a success, it frees itself. When the spell ends, the conjured plants wilt away.
+Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain. A creature in the area when you cast the spell must succeed on a STR save or be [[Conditions#Restrained|restrained]] by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a STR check against your spell save DC. On a success, it frees itself. When the spell ends, the conjured plants wilt away.
 
 ## Expeditious Retreat
 
@@ -1145,7 +1145,7 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 *You touch a willing target, warding it against fear and bolstering its health.*
 
-A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
+A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being [[Conditions#Frightened|frightened]] and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 2nd circle or higher, you can target one additional creature for each slot above 1st.
 
@@ -1163,7 +1163,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 *You infect your target with uncontrollable laughter.*
 
-A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a WIS save or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an INT of 3 (−4) or lower isn’t affected by this spell.
+A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a WIS save or fall prone, becoming [[Conditions#Incapacitated|incapacitated]] and unable to stand up for the duration. A creature with an INT of 3 (−4) or lower isn’t affected by this spell.
 
 At the end of each of its turns and each time it takes damage, the target can make another WIS save, ending the spell on a success. The target has advantage on the save if it’s triggered by damage.
 

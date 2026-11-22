@@ -75,7 +75,7 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 
 You strike the ground, and a chasm splits open in a direction of your choice, in a line up to 120 feet away from you. The chasm is 10 feet wide and 1d6 × 10 feet deep. A creature in a space where the chasm opens must succeed on a DEX save or fall in. On a success, the creature moves with the chasm’s edge, ending up on one side of the chasm or the other (creature’s choice).
 
-Small structures in the path of the opening chasm that are 30 feet wide or less collapse. Larger structures suffer partial collapse, in a 30-foot line centered on the chasm. A creature within the collapse zone of a structure must make a DEX save. On a failure, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a creature to succeed on a DC 17 STR (Athletics) check to move the rubble so that a trapped creature can escape. (The GM can adjust the DC depending on the nature of the rubble.) On a successful save, the creature takes half as much damage and doesn’t fall prone or become buried.
+Small structures in the path of the opening chasm that are 30 feet wide or less collapse. Larger structures suffer partial collapse, in a 30-foot line centered on the chasm. A creature within the collapse zone of a structure must make a DEX save. On a failure, the creature takes 5d6 bludgeoning damage, is knocked [[Conditions#Prone|prone]], and is buried in the rubble, requiring a creature to succeed on a DC 17 STR (Athletics) check to move the rubble so that a trapped creature can escape. (The GM can adjust the DC depending on the nature of the rubble.) On a successful save, the creature takes half as much damage and doesn’t fall prone or become buried.
 
 The GM may rule that additional effects occur, depending on the terrain in which the spell is cast. For example, a chasm in a body of water might lower the water level, or drain it entirely, depending on its size.
 
@@ -195,13 +195,13 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 **Duration:** Concentration, up to 1 minute
 
-*You transform your eyes into wells of eldritch power; creatures you gaze upon fall unconscious, panic, or become sick.*
+*You transform your eyes into wells of eldritch power; creatures you gaze upon fall [[Conditions#Unconscious|unconscious]], panic, or become sick.*
 
 For the spell’s duration, your eyes become an inky void imbued with dread power. One creature of your choice within 60 feet of you that you can see must succeed on a WIS save or be affected by one of the following effects of your choice for the duration. On each of your turns until the spell ends, you can use your action to target another creature but can’t target a creature again if it has succeeded on a save against this casting of *[[#Eyebite|eyebite]]*.
 
 **Asleep.** The target falls unconscious. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
 
-**Panicked.** The target is frightened of you. On each of its turns, the frightened creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
+**Panicked.** The target is [[Conditions#Frightened|frightened]] of you. On each of its turns, the frightened creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
 
 **Sickened.** The target has disadvantage on attack rolls and ability checks. At the end of each of its turns, it can make another WIS save. If it succeeds, the effect ends.
 
@@ -219,9 +219,9 @@ For the spell’s duration, your eyes become an inky void imbued with dread powe
 
 *You turn a creature into stone.*
 
-You attempt to turn one creature that you can see within range into stone. If the target’s body is made of flesh, the creature must make a CON save. On a failed save, it is restrained as its flesh begins to harden. On a successful save, the creature isn’t affected.
+You attempt to turn one creature that you can see within range into stone. If the target’s body is made of flesh, the creature must make a CON save. On a failed save, it is [[Conditions#Restrained|restrained]] as its flesh begins to harden. On a successful save, the creature isn’t affected.
 
-A creature restrained by this spell must make another CON save at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and subjected to the petrified condition for the duration. The successes and failures don’t need to be consecutive; keep track of both until the target collects three of a kind.
+A creature restrained by this spell must make another CON save at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and subjected to the [[Conditions#Petrified|petrified]] condition for the duration. The successes and failures don’t need to be consecutive; keep track of both until the target collects three of a kind.
 
 If the creature is physically broken while petrified, it suffers from similar damage if it reverts to its original state, automatically dying if it can’t survive without the damaged body part (such as the head or other area of the body with vital organs).
 
@@ -289,7 +289,7 @@ A creature restrained by the hands can use its action to make a STR or DEX check
 
 *You become incorporeal.*
 
-Your body fades, as you and everything you are wearing and carrying when you cast the spell become incorporeal. Your walking speed becomes a flying speed, with the ability to hover. You can move through other creatures and items as if they were difficult terrain. You take 1d10 force damage if you end your turn inside an object. You gain resistance to acid, fire, lightning, and thunder damage, as well as bludgeoning, piercing, and slashing damage from nonmagical attacks. You are also immune to cold damage and the grappled, paralyzed, prone, and restrained conditions.
+Your body fades, as you and everything you are wearing and carrying when you cast the spell become incorporeal. Your walking speed becomes a flying speed, with the ability to hover. You can move through other creatures and items as if they were difficult terrain. You take 1d10 force damage if you end your turn inside an object. You gain resistance to acid, fire, lightning, and thunder damage, as well as bludgeoning, piercing, and slashing damage from nonmagical attacks. You are also immune to cold damage and the [[Conditions#Grappled|grappled]], [[Conditions#Paralyzed|paralyzed]], prone, and restrained conditions.
 
 While in this form, you are visible but can’t affect or be affected by items or creatures, except for items that you were wearing or carrying when the spell was cast. If you drop an item, it becomes corporeal again at the end of your turn.
 
@@ -371,7 +371,7 @@ When you cast this spell, you channel the power of Fenris, the Great Wolf, trans
 
 You can use your jaws to make a bite attack. On a hit, the target takes piercing damage equal to 4d10 plus your spellcasting ability modifier and it is grappled (escape DC equals your spell save DC).
 
-If you bite a target already grappled by you, you can choose to swallow it, and the grappled condition ends. A swallowed creature is shunted into a pocket dimension. While there, it is blinded and restrained, has total cover against attacks and other effects outside the dimension, and takes 3d12 force damage at the start of each of your turns. You can’t swallow a creature if you have already swallowed a creature using this spell.
+If you bite a target already grappled by you, you can choose to swallow it, and the grappled condition ends. A swallowed creature is shunted into a pocket dimension. While there, it is [[Conditions#Blinded|blinded]] and restrained, has total cover against attacks and other effects outside the dimension, and takes 3d12 force damage at the start of each of your turns. You can’t swallow a creature if you have already swallowed a creature using this spell.
 
 A swallowed creature can make a CON save at the end of each of its turns. On a success, you vomit the creature to the nearest unoccupied space of your choice. The same thing occurs if the spell’s duration elapses.
 
@@ -391,7 +391,7 @@ A swallowed creature can make a CON save at the end of each of its turns. On a s
 
 *You compel a creature to dance in place, hampering its attack and making it easier to hit.*
 
-Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can’t be charmed are immune to this spell.
+Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can’t be [[Conditions#Charmed|charmed]] are immune to this spell.
 
 A dancing creature must use all its movement to dance without leaving its space and has disadvantage on DEX saves and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature can make a WIS save to regain control of itself. On a successful save, the spell ends.
 
@@ -499,7 +499,7 @@ At the end of every 10 minutes you spend concentrating on the spell, you can cho
 
 You attempt to pull the soul from a Humanoid you can see within range, storing it in the container you used for the spell’s material component. If the creature has 40 HP or fewer, its soul is pulled from its body and enters the container, while its body falls into a catatonic state. The soul remains within the container until you dismiss the spell (no action needed by you) or until you use an action to crush the gem.
 
-If you crush the gem, you consume the soul and you immediately regain hit points up to your hit point maximum. In addition, any diseases afflicting you are cured, and it ends any of the following conditions affecting you: blinded, deafened, and poisoned.
+If you crush the gem, you consume the soul and you immediately regain hit points up to your hit point maximum. In addition, any diseases afflicting you are cured, and it ends any of the following conditions affecting you: blinded, [[Conditions#Deafened|deafened]], and [[Conditions#Poisoned|poisoned]].
 
 If you dismiss the spell, the soul flees from the container and attempts to return to its body. As long as the soul’s body is on the same plane of existence, the soul returns to its body instantly, and the creature awakens with 1 HP. If the soul’s body has been destroyed or if it is on another plane of existence, the soul dissipates and the body dies.
 
@@ -537,7 +537,7 @@ Until the spell ends, you can use an action on each of your turns to choose a di
 
 ***Indigo.*** The target must succeed on a CON save or begin to turn to stone and be restrained. The restrained creature must repeat the save at the end of its next turn, becoming petrified on a failure or ending the effect on itself on a success. The petrification lasts for 1 minute, or until the creature is freed by the *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell or similar magic.
 
-***Violet.*** The target must succeed on a CHA save or be banished to a harmless demiplane. While there, it is incapacitated. The target remains there for 1 minute, at which point it reappears in the space it left or in the nearest unoccupied space if that space is occupied. Once you fire an arrow, that arrow’s color disappears from the bow, and you can’t select it again for the duration of the spell. The bow vanishes early if you use all seven colors, otherwise it remains for the duration of the spell.
+***Violet.*** The target must succeed on a CHA save or be banished to a harmless demiplane. While there, it is [[Conditions#Incapacitated|incapacitated]]. The target remains there for 1 minute, at which point it reappears in the space it left or in the nearest unoccupied space if that space is occupied. Once you fire an arrow, that arrow’s color disappears from the bow, and you can’t select it again for the duration of the spell. The bow vanishes early if you use all seven colors, otherwise it remains for the duration of the spell.
 
 ## Programmed Illusion
 

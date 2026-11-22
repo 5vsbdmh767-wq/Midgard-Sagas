@@ -69,7 +69,7 @@ The damage types are provided here, with examples to help a GM assign a damage t
 
 Some creatures and objects are exceedingly difficult or easy to hurt with certain damage types.
 
-If a creature or an object has **resistance** to a damage type, damage of that type is halved against it. If a creature or an object has **vulnerability** to a damage type, damage of that type is doubled against it.
+If a creature or an object has **[[Cantrips#Resistance|resistance]]** to a damage type, damage of that type is halved against it. If a creature or an object has **vulnerability** to a damage type, damage of that type is doubled against it.
 
 Resistance and then vulnerability are applied after all other modifiers to damage. For example, a creature has resistance to bludgeoning damage and is hit by an attack that deals 25 bludgeoning damage. The creature is also within a magical aura that reduces all damage by 5. The 25 damage is first reduced by 5 and then halved, so the creature takes 10 damage.
 
@@ -113,7 +113,7 @@ A character can’t benefit from more than one long rest in a 24-hour period, an
 
 ## Dropping to 0 Hit Points
 
-When you drop to 0 HP, you either die outright or fall unconscious and are dying. These rules are primarily used during initiative in an encounter (see **Encounter Gameplay** in this chapter). In rare instances, character death can occur outside of an encounter, especially through dangers covered in the **Other Forms of Harm** section. The
+When you drop to 0 HP, you either die outright or fall [[Conditions#Unconscious|unconscious]] and are dying. These rules are primarily used during initiative in an encounter (see **Encounter Gameplay** in this chapter). In rare instances, character death can occur outside of an encounter, especially through dangers covered in the **Other Forms of Harm** section. The
 
 GM decides how these rules function in deadly situations that occur outside of initiative.
 
@@ -137,7 +137,7 @@ Successes and failures don’t need to be consecutive; keep track of both until 
 
 ### Dying
 
-If damage reduces you to 0 HP and doesn’t kill you, you are dying. **Dying** is when you are at 0 HP and must make a death save at the start of your next turn. You have the unconscious condition (see **Appendix A: Conditions**). If you gain hit points while dying, you stop dying. Your unconscious condition ends, but you are still prone.
+If damage reduces you to 0 HP and doesn’t kill you, you are dying. **Dying** is when you are at 0 HP and must make a death save at the start of your next turn. You have the unconscious condition (see **Appendix A: Conditions**). If you gain hit points while dying, you stop dying. Your unconscious condition ends, but you are still [[Conditions#Prone|prone]].
 
 ### Stable
 
@@ -159,9 +159,9 @@ While damage is the most common form of harm, other effects can bring short-term
 
 ### Conditions
 
-Many monster attacks, spells, and other dangers impose **conditions** on PCs. A condition, such as blinded, charmed, or frightened, can hinder a creature without damaging it. Depending on its source, a condition can last for a few seconds or until a magical cure is found.
+Many monster attacks, spells, and other dangers impose **conditions** on PCs. A condition, such as [[Conditions#Blinded|blinded]], [[Conditions#Charmed|charmed]], or [[Conditions#Frightened|frightened]], can hinder a creature without damaging it. Depending on its source, a condition can last for a few seconds or until a magical cure is found.
 
-The full list of conditions is available in **Appendix A: Conditions**. Pay special attention to exhaustion—that condition can outright kill a PC and is often inflicted by environmental hazards and other forms of harm covered in this chapter.
+The full list of conditions is available in **Appendix A: Conditions**. Pay special attention to [[Conditions#Exhaustion|exhaustion]]—that condition can outright kill a PC and is often inflicted by environmental hazards and other forms of harm covered in this chapter.
 
 > [!note] Forced Transformation and Consent
 > Several diseases and curses, such as the ghoul hunger disease or the curse of lycanthropy, can result in a PC transforming into a different creature under the GM’s partial or full control. When the possibility of such an effect comes up, discuss possible consequences, solutions, and outcomes with your players. Whether through charm, illusion, or lycanthropy, losing autonomy over your own PC can feel like a personal invasion. For strategies on how to safely approach this, see the **Safety Tools** section in the **Introduction**.

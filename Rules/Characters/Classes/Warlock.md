@@ -274,7 +274,7 @@ When you use your Eldritch Blast feature, add your CHA modifier to the damage ea
 
 *Prerequisite: None*
 
-While you aren’t wearing armor or wielding a shield, your AC becomes 13 + your CHA modifier. This effect is suppressed while you are unconscious (see **Appendix A: Conditions**) or in an area affected by an *[[8th-Circle Spells#Antimagic Field|antimagic field]]* spell.
+While you aren’t wearing armor or wielding a shield, your AC becomes 13 + your CHA modifier. This effect is suppressed while you are [[Conditions#Unconscious|unconscious]] (see **Appendix A: Conditions**) or in an area affected by an *[[8th-Circle Spells#Antimagic Field|antimagic field]]* spell.
 
 ### Ascendant Step
 
@@ -344,9 +344,9 @@ You can cast the *[[4th-Circle Spells#Confusion|confusion]]* spell once without 
 
 You gain the following benefits when you use your Eldritch Blast feature:
 
-- You don’t have disadvantage on ranged spell attack rolls to hit a prone target (see **Appendix A: Conditions**) if it is more than 5 feet away from you.
+- You don’t have disadvantage on ranged spell attack rolls to hit a [[Conditions#Prone|prone]] target (see **Appendix A: Conditions**) if it is more than 5 feet away from you.
 
-- You don’t have disadvantage on ranged spell attack rolls if you are within 5 feet of a hostile creature who can see you and who isn’t incapacitated.
+- You don’t have disadvantage on ranged spell attack rolls if you are within 5 feet of a hostile creature who can see you and who isn’t [[Conditions#Incapacitated|incapacitated]].
 
 ### Eldritch Sight
 
@@ -366,7 +366,7 @@ When you use your Eldritch Blast feature, you can now target creatures within 30
 
 *Prerequisite: Elder Wood Patron*
 
-When you use your Eldritch Blast feature, you can entangle one of the creatures you hit in roots, vines, and other vegetation. The creature must succeed on a DEX save or be grappled until the end of its next turn. The DC for this save and to escape this grapple is your spell save DC.
+When you use your Eldritch Blast feature, you can entangle one of the creatures you hit in roots, vines, and other vegetation. The creature must succeed on a DEX save or be [[Conditions#Grappled|grappled]] until the end of its next turn. The DC for this save and to escape this grapple is your spell save DC.
 
 ### Extinguishing Blast
 
@@ -386,7 +386,7 @@ You can cast the *[[1st-Circle Spells#False Life|false life]]* spell on yourself
 
 *Prerequisite: None*
 
-You can use your action to touch a willing Humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+You can use your action to touch a willing Humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are [[Conditions#Blinded|blinded]] and [[Conditions#Deafened|deafened]] to your own surroundings.
 
 ### Green Thumb
 
@@ -485,7 +485,7 @@ You no longer need sleep and are immune to magical effects that would cause you 
 
 *Prerequisite: 5th Level*
 
-When you are in an area of dim light, darkness, or magical darkness, you can use your action to become invisible (see **Appendix A: Conditions**) until you move or take an action or a reaction.
+When you are in an area of dim light, darkness, or magical darkness, you can use your action to become [[Conditions#Invisible|invisible]] (see **Appendix A: Conditions**) until you move or take an action or a reaction.
 
 ### Otherworldly Leap
 
@@ -946,9 +946,9 @@ Your patron’s influence subtly changes your [[#Pact Boon|Pact Boon]].
 
 *7th-Level Elemental Regent Feature*
 
-Your body changes in subtle ways in response to your patron’s magic, taking on minor elemental characteristics. Your hair might blow in an unfelt breeze, your movement might seem more fluid than your form would suggest, your muscles might feel as firm as earth, or your eyes might burn with a fiery glow. You are resistant to your patron’s element damage type, and you are resistant to the poisoned and unconscious conditions.
+Your body changes in subtle ways in response to your patron’s magic, taking on minor elemental characteristics. Your hair might blow in an unfelt breeze, your movement might seem more fluid than your form would suggest, your muscles might feel as firm as earth, or your eyes might burn with a fiery glow. You are resistant to your patron’s element damage type, and you are resistant to the [[Conditions#Poisoned|poisoned]] and unconscious conditions.
 
-Starting at 15th level, you are immune to your patron’s element damage type, and you are resistant to exhaustion and to the paralyzed and petrified conditions.
+Starting at 15th level, you are immune to your patron’s element damage type, and you are resistant to [[Conditions#Exhaustion|exhaustion]] and to the [[Conditions#Paralyzed|paralyzed]] and [[Conditions#Petrified|petrified]] conditions.
 
 **Elemental Movement**
 
@@ -1015,9 +1015,9 @@ You gain pact spells at the warlock levels listed in the **Fey Noble Pact Spells
 
 *3rd-Level Fey Noble Feature*
 
-Your patron’s power inures you to fey trickery and allows you to use some of it yourself. You are resistant to the charmed and unconscious conditions, and you have advantage on ability checks and saves to discern the truth of an illusion.
+Your patron’s power inures you to fey trickery and allows you to use some of it yourself. You are resistant to the [[Conditions#Charmed|charmed]] and unconscious conditions, and you have advantage on ability checks and saves to discern the truth of an illusion.
 
-In addition, as an action, you can take on a charming or frightening visage. Each creature within 10 feet of you must succeed on a WIS save against your spell save DC or be charmed or frightened (depending on the visage you chose) until the end of its next turn. Once you use this feature, you can’t use it again until you finish a short or long rest.
+In addition, as an action, you can take on a charming or frightening visage. Each creature within 10 feet of you must succeed on a WIS save against your spell save DC or be charmed or [[Conditions#Frightened|frightened]] (depending on the visage you chose) until the end of its next turn. Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 ### Death Ruse
 
@@ -1253,7 +1253,7 @@ Your patron's constant hunger for fear inures you to it. You are immune to being
 
 *15th-Level Hunter in Darkness Feature*
 
-When you reduce a hostile creature to 0 HP, you can use a bonus action to force each ally of that creature within 30 feet of it and that can see you to make a WIS save against your spell save DC. On a failure, a creature is frightened of you for 1 minute or until it takes any damage. If a creature is immune to being frightened, it is instead stunned until the end of its next turn. Once you use this feature, you can't use it again until you finish a short or long rest.
+When you reduce a hostile creature to 0 HP, you can use a bonus action to force each ally of that creature within 30 feet of it and that can see you to make a WIS save against your spell save DC. On a failure, a creature is frightened of you for 1 minute or until it takes any damage. If a creature is immune to being frightened, it is instead [[Conditions#Stunned|stunned]] until the end of its next turn. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Reaper
 

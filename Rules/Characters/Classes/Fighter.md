@@ -137,7 +137,7 @@ You must be wearing light armor or no armor to use this martial action. As a bon
 
 %% source: Player's Guide 2 %%
 
-*Requires Wielding a Shield* As a bonus action, you take on a defensive stance, bracing yourself with your shield. Until the start of your next turn, you have advantage on checks and saves against effects that would push or pull you, and you have advantage on checks and saves both to avoid and escape being grappled or restrained.
+*Requires Wielding a Shield* As a bonus action, you take on a defensive stance, bracing yourself with your shield. Until the start of your next turn, you have advantage on checks and saves against effects that would push or pull you, and you have advantage on checks and saves both to avoid and escape being [[Conditions#Grappled|grappled]] or [[Conditions#Restrained|restrained]].
 
 #### Wind Up
 
@@ -226,7 +226,7 @@ Your commitment to the fighter’s path grants you a powerful new ability. Choos
 
 - **Unavoidable.** When you make an attack roll against a creature and fail to hit it with the attack, you have advantage on the next attack you make against that creature before the end of your next turn.
 
-- **Unstoppable.** When you start your turn, you can choose to end one of the following conditions affecting you: blinded, charmed, frightened, incapacitated, paralyzed, or stunned. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+- **Unstoppable.** When you start your turn, you can choose to end one of the following conditions affecting you: [[Conditions#Blinded|blinded]], [[Conditions#Charmed|charmed]], [[Conditions#Frightened|frightened]], [[Conditions#Incapacitated|incapacitated]], [[Conditions#Paralyzed|paralyzed]], or [[Conditions#Stunned|stunned]]. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
 %% source: Player's Guide 2: Martial Expert, Unavoidable %%
 
@@ -657,7 +657,7 @@ As a reaction when a creature you can see targets another creature with a ranged
 
 #### Known Target
 
-When you know a creature is in a space but can’t see it, such as if it is invisible or you are blinded, and you take the attack Action against the creature, you don’t have disadvantage on your attack roll from being unable to see the target.
+When you know a creature is in a space but can’t see it, such as if it is [[Conditions#Invisible|invisible]] or you are blinded, and you take the attack Action against the creature, you don’t have disadvantage on your attack roll from being unable to see the target.
 
 #### Parting Shot
 
@@ -677,7 +677,7 @@ As a reaction when a creature within 5 feet of you moves out of that range, you 
 
 #### Toppling Shot
 
-When you score a critical hit, you can immediately force the target to make a STR save. On a failed save, the target falls prone or is pushed 5 feet away from you (your choice).
+When you score a critical hit, you can immediately force the target to make a STR save. On a failed save, the target falls [[Conditions#Prone|prone]] or is pushed 5 feet away from you (your choice).
 
 ### Keen Eye
 
@@ -759,7 +759,7 @@ Your training has prepared you for many environmental conditions. You gain the f
 
 - You gain a climbing speed or a swimming speed equal to your walking speed (choose which). If you already have both a climbing and swimming speed, increase both by 10 feet.
 
-- You suffer the effects of exhaustion as if you have one level less than you currently have (you still die if you reach 6 levels).
+- You suffer the effects of [[Conditions#Exhaustion|exhaustion]] as if you have one level less than you currently have (you still die if you reach 6 levels).
 
 - Your carrying capacity is now your STR score multiplied by 20. This is the weight (in pounds) you can carry, and you can push, drag, or lift twice that amount without suffering a reduction to your speed.
 
@@ -791,7 +791,7 @@ When you use Last Stand, choose one damage type of your choice. You become resis
 
 *15th-Level Trooper Feature*
 
-Nothing can stop you from completing your mission. When you are reduced to 0 HP but not killed outright, you can use your reaction to continue fighting. For 1 minute, having 0 HP doesn’t make you fall unconscious. You must still make death saves when you start your turn with 0 HP as normal, and you still suffer a death save failure if you take damage while you have 0 HP, as normal. You don’t die from failed death saves while this effect is active. When this effect ends, you die only if you still have 0 HP and failed at least three death saves.
+Nothing can stop you from completing your mission. When you are reduced to 0 HP but not killed outright, you can use your reaction to continue fighting. For 1 minute, having 0 HP doesn’t make you fall [[Conditions#Unconscious|unconscious]]. You must still make death saves when you start your turn with 0 HP as normal, and you still suffer a death save failure if you take damage while you have 0 HP, as normal. You don’t die from failed death saves while this effect is active. When this effect ends, you die only if you still have 0 HP and failed at least three death saves.
 
 Once you use this feature, you can’t do so again until you finish a long rest.
 

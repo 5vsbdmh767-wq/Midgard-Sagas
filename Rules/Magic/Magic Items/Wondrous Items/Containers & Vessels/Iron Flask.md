@@ -11,7 +11,7 @@ You can use an action to remove the flask’s stopper and release the creature t
 
 | d100 | Contents | d100 | Contents | d100 | Contents | d100 | Contents |
 |---|---|---|---|---|---|---|---|
-| 1–50 | Empty | 70–73 | Devil (lesser) | 84–86 | Invisible stalker | 96 | Solar |
+| 1–50 | Empty | 70–73 | Devil (lesser) | 84–86 | [[Conditions#Invisible\|Invisible]] stalker | 96 | Solar |
 | 51–66 | Demon | 74–75 | Djinni | 87–90 | Night hag | 97–99 | Succubus/incubus |
 | 67 | Deva | 76–77 | Efreeti | 91 | Planetar | 100 | Xorn |
 | 68–69 | Devil (greater) | 78–83 | Elemental (any) | 92–95 | Salamander |  |  |

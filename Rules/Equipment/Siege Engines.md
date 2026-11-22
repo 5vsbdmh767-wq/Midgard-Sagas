@@ -9,7 +9,7 @@ In the event a prolonged siege is impossible, huge machines of destruction, call
 
 ***Damage Threshold:*** In addition to AC, siege weapons have a damage threshold that represents the damage amount that must be met before the siege weapon loses hit points. If the siege weapon is hit by a single instance of damage that fails to meet its damage threshold, it instead takes no damage. A siege weapon’s damage threshold appears in parenthesis next to its AC.
 
-***Siege Weapon Resilience:*** Like most items, siege weapons are immune to poison and psychic damage and to the following conditions: blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, and unconscious. Instead of writing all those immunities in each stat block, a siege weapon that fits this standard has Siege Weapon Resilience in the Immune line of its stat block.
+***Siege Weapon Resilience:*** Like most items, siege weapons are immune to poison and psychic damage and to the following conditions: [[Conditions#Blinded|blinded]], [[Conditions#Charmed|charmed]], [[Conditions#Deafened|deafened]], [[Conditions#Exhaustion|exhaustion]], [[Conditions#Frightened|frightened]], [[Conditions#Incapacitated|incapacitated]], [[Conditions#Paralyzed|paralyzed]], [[Conditions#Petrified|petrified]], [[Conditions#Poisoned|poisoned]], [[Conditions#Prone|prone]], [[Conditions#Stunned|stunned]], and [[Conditions#Unconscious|unconscious]]. Instead of writing all those immunities in each stat block, a siege weapon that fits this standard has Siege Weapon Resilience in the Immune line of its stat block.
 
 ## Cannon
 
@@ -31,7 +31,7 @@ Firing a cannon requires two actions to load it, one action to aim it, and one a
 
 ## Forcewall Projector
 
-These purely magical siege engines operate on a similar principle to the *bead of force* magic item. A magical “boulder” of transparent force energy is loaded into a hopper and fired toward a target. Before impact, the boulder expands into an invisible wall of ten 10-foot-by-10foot panels of force energy, arranged in a predetermined pattern. This is of middling performance against structures but can devastate a massed group of soldiers.
+These purely magical siege engines operate on a similar principle to the *bead of force* magic item. A magical “boulder” of transparent force energy is loaded into a hopper and fired toward a target. Before impact, the boulder expands into an [[Conditions#Invisible|invisible]] wall of ten 10-foot-by-10foot panels of force energy, arranged in a predetermined pattern. This is of middling performance against structures but can devastate a massed group of soldiers.
 
 > [!note] Forcewall Projector
 > *Large Object*

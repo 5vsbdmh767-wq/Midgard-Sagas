@@ -31,11 +31,11 @@ Your tosculi character has the following hereditary traits.
 
 - **Detached Drone.** You toiled as a hive worker, spending your time collecting nectar, cleaning the hive, or attending to the queen. You might have a dull, muted carapace that avoids the attention of your enemies. You also gain the following:
 
-**Golden Song.** As a bonus action, you can target another creature within 10 feet of you with your loud buzzing. That creature must make a WIS save (DC 10 + your PB) or suffer one of the following conditions until the start of your next turn: charmed or deafened (choose when you use this ability). You can use this ability a number of times equal to your PB, and you regain all uses when you complete a long rest.
+**Golden Song.** As a bonus action, you can target another creature within 10 feet of you with your loud buzzing. That creature must make a WIS save (DC 10 + your PB) or suffer one of the following conditions until the start of your next turn: [[Conditions#Charmed|charmed]] or [[Conditions#Deafened|deafened]] (choose when you use this ability). You can use this ability a number of times equal to your PB, and you regain all uses when you complete a long rest.
 
 - **Roving Trooper.** You are among the hive’s greatest warriors, and your vibrantly colored carapace helps convey the real threat that you pose. You frequently find yourself far from the hive, raiding for livestock and trade goods or for living hosts for eggs. You also gain the following:
 
-**Natural Attack.** You have a serrated stinger that serves as a natural weapon that you can use to make unarmed strikes. When you hit with it, the strike deals 1d6 + your STR or DEX modifier (choose during character creation) piercing damage, instead of the bludgeoning damage normal for an unarmed strike. When you hit, you can choose to poison your target, who must make a CON save (DC 10 + your PB) or be poisoned until the start of your next turn. You can poison a creature a number of times equal to your PB, and you regain all uses when you complete a long rest.
+**Natural Attack.** You have a serrated stinger that serves as a natural weapon that you can use to make unarmed strikes. When you hit with it, the strike deals 1d6 + your STR or DEX modifier (choose during character creation) piercing damage, instead of the bludgeoning damage normal for an unarmed strike. When you hit, you can choose to poison your target, who must make a CON save (DC 10 + your PB) or be [[Conditions#Poisoned|poisoned]] until the start of your next turn. You can poison a creature a number of times equal to your PB, and you regain all uses when you complete a long rest.
 
 ---
 <small>Sources: [[Credits]].</small>

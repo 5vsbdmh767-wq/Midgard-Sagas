@@ -148,8 +148,8 @@ Many other positions can be filled on ship, but not all are needed, especially d
 | Mastery/Liability | Cost Multiplier | Property |
 |---|---|---|
 | Able Seaman | ×4 | The crew has a +1 bonus to all Water Vehicles checks. |
-| Athletic | ×2 | The crew never has to check for exhaustion for rowing during combat. |
-| Chaplain | ×5 | The crew’s base loyalty is increased by 2 and the chaplain can cast one *cure wounds* spell per day. |
+| Athletic | ×2 | The crew never has to check for [[Conditions#Exhaustion\|exhaustion]] for rowing during combat. |
+| Chaplain | ×5 | The crew’s base loyalty is increased by 2 and the chaplain can cast one *[[1st-Circle Spells#Cure Wounds\|cure wounds]]* spell per day. |
 | Charismatic Leaders | ×3 | CHA-based shipboard actions are made with advantage. |
 | Climbers | ×2 | The crew has advantage on all master of tops shipboard actions. |
 | Clumsy | ×1/2 | The crew has disadvantage on all master of tops shipboard actions. |
@@ -160,7 +160,7 @@ Many other positions can be filled on ship, but not all are needed, especially d
 | Expert Helm | ×4 | Opposed checks made to determine initiative have advantage. |
 | Fumbling | ×1/4 | Gunnery crews require an additional crewmember than normally required to fire each round. Grapple and Escape a Grapple shipboard actions have disadvantage. |
 | Inexperienced | ×1/4 | The crew has a −1 bonus to all Water Vehicles checks. |
-| Marine Training | ×6 | Crew members have +1 to melee weapon attacks and advantage on Athletics checks when jumping from one grappled ship to another. |
+| Marine Training | ×6 | Crew members have +1 to melee weapon attacks and advantage on Athletics checks when jumping from one [[Conditions#Grappled\|grappled]] ship to another. |
 | Out of Shape | ×1/4 | The crew has disadvantage on checks to avoid exhaustion from rowing during combat and on CON saves against disease. |
 | Overspecialized | ×1/4 | The ship suffers a 10-foot movement penalty for every three crew members killed or disabled for crews 20+, or every one crew member for smaller crews. |
 | Sticky Fingers | ×1/4 | The crew steals from each other. Each PC loses 2d10 gp every time they sail with the crew. |
@@ -191,7 +191,7 @@ If an enemy is in the firing arc of a weapon, generally 90° from the direction 
 
 Gunners don’t usually use ship weapons against enemy sailors. They’re too small and nimble to make that effective. That said, PCs or marines might pick their targets as normal, or sailors might be injured as collateral damage from an attack. When a gunner scores a critical hit, in addition to rolling the damage dice twice, determine the location of the ship that was hit using the Disable Station shipboard action (see **Shipboard Actions**).
 
-Roll a d6 to determine how many crew members in that area are unconscious and dying. If a PC surgeon, cleric, or similar NPC does not take action to save them, 75 percent of them die. If a PC is in the area hit, they take half the damage done by the attack from flying shrapnel. If the PC succeeds on a DEX save with a DC equal to the enemy gunner’s attack roll, they instead take no damage from shrapnel.
+Roll a d6 to determine how many crew members in that area are [[Conditions#Unconscious|unconscious]] and dying. If a PC surgeon, cleric, or similar NPC does not take action to save them, 75 percent of them die. If a PC is in the area hit, they take half the damage done by the attack from flying shrapnel. If the PC succeeds on a DEX save with a DC equal to the enemy gunner’s attack roll, they instead take no damage from shrapnel.
 
 If you desire, you can track the number of crew members at each station and require the captain to take an action to redeploy crew members to specific stations. Stations without sufficient crew have disadvantage to all checks and take an additional round to perform shipboard actions. Stations without any functioning crew can’t take actions. For a simpler system, apply a 10-foot movement penalty for every five crew members that are killed or disabled on a ship with 20 or more crew, or every two crew members on a ship with fewer than 20 crew.
 

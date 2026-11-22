@@ -37,7 +37,7 @@ Meeting a creature’s basic needs is relatively simple, but training a creature
 | Huge (or Larger) Creature with Animal Tag |  |  | 30 gp |
 | Creature Training Resolution |  |  |  |
 | Check Result |  | Resolution |  |
-|  | 1–5 6–10 11–15 16–20 21+ | You unintentionally frightened the creature or earned its ire. You can’t attempt a training check this week, and the creature’s training DC increases by 1. Your relationship with the creature hasn’t deepened. You can’t attempt a training check this week. You can attempt a training check this week. The creature’s training DC lowers by 1, and you can attempt a training check this week. The creature’s training DC lowers by 1, and you can attempt a training check with advantage this week. |  |
+|  | 1–5 6–10 11–15 16–20 21+ | You unintentionally [[Conditions#Frightened\|frightened]] the creature or earned its ire. You can’t attempt a training check this week, and the creature’s training DC increases by 1. Your relationship with the creature hasn’t deepened. You can’t attempt a training check this week. You can attempt a training check this week. The creature’s training DC lowers by 1, and you can attempt a training check this week. The creature’s training DC lowers by 1, and you can attempt a training check with advantage this week. |  |
 
 *Creature Training Benefits*
 

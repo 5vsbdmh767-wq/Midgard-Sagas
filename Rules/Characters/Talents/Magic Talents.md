@@ -101,7 +101,7 @@ You gain a kinship with serpents, granting you these benefits:
 
 - You learn the *[[1st-Circle Spells#Animal Friendship|animal friendship]]* and *[[1st-Circle Spells#Speak with Animals|speak with animals]]* spells. You can cast each spell once without a spell slot, and you regain the ability to cast it in that way when you finish a long rest. When you cast these spells without a spell slot, you may only target snakes and serpents. You can also cast these spells using any spell slots you have. When you select this talent, choose INT, WIS, or CHA as your spellcasting ability.
 
-If you choose this talent again, you can channel the fear inspired by serpents and dragons. You can use an action to force a number of creatures of your choice equal to your PB within 30 feet of you that can see you to make a WIS save (DC 8 + your PB + the spellcasting ability modifier you chose previously). On a failed save, a target becomes frightened for 1 minute. A frightened creature can repeat its save at the end of each of its turns, ending the effect on itself on a success. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+If you choose this talent again, you can channel the fear inspired by serpents and dragons. You can use an action to force a number of creatures of your choice equal to your PB within 30 feet of you that can see you to make a WIS save (DC 8 + your PB + the spellcasting ability modifier you chose previously). On a failed save, a target becomes [[Conditions#Frightened|frightened]] for 1 minute. A frightened creature can repeat its save at the end of each of its turns, ending the effect on itself on a success. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
 ## Blessing of Loki
 
@@ -207,7 +207,7 @@ You’ve become infused with the frigid, expanding nature of ice and have combin
 
 - When you cast a spell that deals cold damage, you can spend 2 Luck to reroll a number of damage dice up to your PB + 1.
 
-- As a bonus action, you can activate an aura of frost that freezes the ground in a 10-foot radius around you. The effect lasts for 1 minute and moves with you. The area within this radius counts as difficult terrain for all creatures except you. When a creature first enters the area or starts its turn in the area, it must succeed on a DEX save against your spell save DC or fall prone. You can end this effect early as a bonus action. The effect also ends early if you fall unconscious. Once you use this ability, you must finish a short or long rest before you can use it again.
+- As a bonus action, you can activate an aura of frost that freezes the ground in a 10-foot radius around you. The effect lasts for 1 minute and moves with you. The area within this radius counts as difficult terrain for all creatures except you. When a creature first enters the area or starts its turn in the area, it must succeed on a DEX save against your spell save DC or fall [[Conditions#Prone|prone]]. You can end this effect early as a bonus action. The effect also ends early if you fall [[Conditions#Unconscious|unconscious]]. Once you use this ability, you must finish a short or long rest before you can use it again.
 
 ## Combat Casting
 
@@ -229,7 +229,7 @@ Your experiences with the eldritch and supernatural have fundamentally changed y
 
 - You have advantage on checks to resist dread effects (see [[Dread Expanded]]).
 
-- You have advantage on saves against being charmed or frightened by Aberrations, Fey, Fiends, and Undead.
+- You have advantage on saves against being [[Conditions#Charmed|charmed]] or frightened by Aberrations, Fey, Fiends, and Undead.
 
 ## Elemental Savant
 
@@ -323,7 +323,7 @@ Your connection to the ancient frozen power of the [[Northlands]] grants you the
 
 Something has bestowed a gift of visions upon you. At the start of your turn, you can attempt to have a vision by rolling a d20 and adding your PB. If the result is 15 or lower, no vision appears. If the result is 16 or higher, you can cast the *[[Rituals 1st–3rd Circle#Clairvoyance|clairvoyance]]* ritual as an action without material components. You can activate this ritual a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
-A creature viewed via the ritual is an individual you know, an individual discussing you or a matter important to you, or an individual who intends to harm you or someone important to you. A location viewed is never empty or irrelevant. You are incapacitated for the duration of the ritual.
+A creature viewed via the ritual is an individual you know, an individual discussing you or a matter important to you, or an individual who intends to harm you or someone important to you. A location viewed is never empty or irrelevant. You are [[Conditions#Incapacitated|incapacitated]] for the duration of the ritual.
 
 Alternatively, the GM can propose a vision with this feature. In this instance, you still use your action, but you neither cast a ritual nor expend a use. You have final say on allowing the GM to pursue this option.
 
@@ -351,7 +351,7 @@ Your cold spells carry the strength of Fimbulwinter. Whenever you deal cold dama
 
 - The creature has disadvantage on DEX checks for 1 minute as a terrible cold numbs its body.
 
-- The creature is coated in ice and is restrained. It can take an action to make a DEX save (DC equal to your spell save DC), freeing itself on a success. If the creature takes at least 10 points of bludgeoning or fire damage, it is also freed.
+- The creature is coated in ice and is [[Conditions#Restrained|restrained]]. It can take an action to make a DEX save (DC equal to your spell save DC), freeing itself on a success. If the creature takes at least 10 points of bludgeoning or fire damage, it is also freed.
 
 - The creature has vulnerability to cold damage for 1 minute. It can make a CON save (DC equal to your spell save DC) at the end of each of its turns, ending this effect on itself on a success.
 
@@ -369,7 +369,7 @@ You’ve mastered the *[[Cantrips#Light|light]]* cantrip, granting you the follo
 
 - You can choose to make the light created by the cantrip visible only to creatures of your choice within 30 feet of you when you cast the spell. The maximum number of creatures you can affect in this way is equal to your PB.
 
-- When you cast *light, you can* attempt to blind a creature within 5 feet of your target. The creature must succeed on a CON save versus your spell DC or be blinded until the end of its next turn. You can use this feature a number of times equal to your PB, and you recover expended uses when you finish a long rest.
+- When you cast *light, you can* attempt to blind a creature within 5 feet of your target. The creature must succeed on a CON save versus your spell DC or be [[Conditions#Blinded|blinded]] until the end of its next turn. You can use this feature a number of times equal to your PB, and you recover expended uses when you finish a long rest.
 
 ## Lightning Mastery
 
@@ -379,7 +379,7 @@ You’ve mastered the *[[Cantrips#Light|light]]* cantrip, granting you the follo
 
 Your lightning spells are laced with extra power. Whenever you deal lightning damage to a creature with a spell of at least 1st circle, you can choose one of the following additional effects:
 
-- The creature is stunned until the end of your next turn.
+- The creature is [[Conditions#Stunned|stunned]] until the end of your next turn.
 
 - The creature takes half of the lightning damage it initially took again at the beginning of its next turn. It can make a CON save against your spell save DC, negating this additional damage on a success.
 
@@ -407,7 +407,7 @@ You’ve become attuned to the crash of lightning and have funneled this knowled
 
 You’ve mastered the *[[Cantrips#Mage Hand|mage hand]]* cantrip, granting you the following benefits when you cast it:
 
-- When you cast *mage hand, y*ou can now use either an action or a bonus action to control the cantrip’s hand. Casting it no longer requires verbal or somatic components, and you can choose to make the cantrip’s hand invisible.
+- When you cast *mage hand, y*ou can now use either an action or a bonus action to control the cantrip’s hand. Casting it no longer requires verbal or somatic components, and you can choose to make the cantrip’s hand [[Conditions#Invisible|invisible]].
 
 - You can create a number of hands with a single casting, up to half your PB (rounded down). You can simultaneously control all the hands created by the cantrip with your action or bonus action.
 
@@ -433,7 +433,7 @@ Through rigid mental exercise, you have fortified yourself against mind-altering
 
 - Once per short rest, when you fail an INT, WIS, or CHA save, you can choose to reroll the save and take the new result.
 
-- When you start your turn charmed, frightened, paralyzed, or stunned, you gain 1 Luck.
+- When you start your turn charmed, frightened, [[Conditions#Paralyzed|paralyzed]], or stunned, you gain 1 Luck.
 
 ## Moon-Touched
 

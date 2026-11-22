@@ -20,7 +20,7 @@ Safety tools are a set of rules and practices meant to ensure that everyone cont
 
 The concept of emotional bleed refers to when a PC’s emotions cross over to the player, or vice-versa. Roleplaying games allow us to step into someone else’s shoes and craft a story for them, and while some folks can easily maintain the division between their own feelings and their PC’s, other folks might experience bleed more regularly—and intense roleplaying or huge plot moments can make it more challenging to keep them separate.
 
-Emotional bleed is neither inherently good nor bad. However, some players might need extra time to process the unexpected emotions it can elicit. The bleed also means a player’s emotions can unconsciously influence their PC’s actions. If a player had a particularly bad day, for example, their PC might be either more brusque or more prone to outbursts than usual. Allowing space to process this bleed, particularly in horror, helps keep everyone at the table comfortable and enjoying the game.
+Emotional bleed is neither inherently good nor bad. However, some players might need extra time to process the unexpected emotions it can elicit. The bleed also means a player’s emotions can unconsciously influence their PC’s actions. If a player had a particularly bad day, for example, their PC might be either more brusque or more [[Conditions#Prone|prone]] to outbursts than usual. Allowing space to process this bleed, particularly in horror, helps keep everyone at the table comfortable and enjoying the game.
 
 ### Table Rules
 

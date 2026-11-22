@@ -164,7 +164,7 @@ Your physical prowess has grown. On your turn, you can make two attacks when you
 
 *5th-Level Monk Feature*
 
-You can interfere with the flow of energy in an opponent’s body. Once per turn, when you successfully hit another creature with an unarmed strike or monk weapon, you can spend 1 technique point to attempt to stun your foe. When you do so, the target takes damage from your attack as normal and then it must succeed on a CON save or be stunned until the end of your next turn. Each time a stunned target takes damage, it can repeat the save, ending the stunned effect on a success.
+You can interfere with the flow of energy in an opponent’s body. Once per turn, when you successfully hit another creature with an unarmed strike or monk weapon, you can spend 1 technique point to attempt to stun your foe. When you do so, the target takes damage from your attack as normal and then it must succeed on a CON save or be [[Conditions#Stunned|stunned]] until the end of your next turn. Each time a stunned target takes damage, it can repeat the save, ending the stunned effect on a success.
 
 ### Empowered Strikes
 
@@ -194,9 +194,9 @@ While you aren’t wearing armor or wielding a shield, you gain the following be
 
 Your commitment to the monk’s path grants you a powerful new ability. Choose one of the following heroic boons:
 
-- **Purity of Body.** Your mastery of the energy flowing through your body makes you immune to disease, poison damage, and the poisoned condition. In addition, when you are reduced to 0 HP but not killed outright, you can instantly reset your hit point total to your current number of technique points. You can’t recover hit points in this way again until you finish a long rest.
+- **Purity of Body.** Your mastery of the energy flowing through your body makes you immune to disease, poison damage, and the [[Conditions#Poisoned|poisoned]] condition. In addition, when you are reduced to 0 HP but not killed outright, you can instantly reset your hit point total to your current number of technique points. You can’t recover hit points in this way again until you finish a long rest.
 
-- **Purity of Mind.** The clearness of your mind gives you advantage on Wisdom saves. As a bonus action, you can end one effect on yourself that is causing you to be charmed or frightened.
+- **Purity of Mind.** The clearness of your mind gives you advantage on Wisdom saves. As a bonus action, you can end one effect on yourself that is causing you to be [[Conditions#Charmed|charmed]] or [[Conditions#Frightened|frightened]].
 
 - **Superior Deflection.** Your continued martial arts training allows you to deflect all manner of attacks. As a reaction when you are hit by a melee or ranged attack, you can reduce the damage you take from the attack by 1d10 + your DEX modifier + your monk level. If you reduce the damage to 0, you can redirect the force of the attack as long as you have at least one hand free. If you redirect the attack in this way, you can force one creature you can see within 60 feet of you to succeed on a DEX save against your technique save DC or take force damage equal to your martial arts die + your DEX modifier.
 
@@ -208,7 +208,7 @@ Your commitment to the monk’s path grants you a powerful new ability. Choose o
 
 *13th-Level Monk Feature*
 
-As an action, you can expend 2 technique points to become proficient in one language, skill, tool, or weapon of your choice until you are incapacitated or use this feature again.
+As an action, you can expend 2 technique points to become proficient in one language, skill, tool, or weapon of your choice until you are [[Conditions#Incapacitated|incapacitated]] or use this feature again.
 
 ### Diamond Soul
 
@@ -232,7 +232,7 @@ Your spirit sustains you, body and mind. You gain the following benefits:
 
 *18th-Level Monk Feature*
 
-You can use your action to spend 4 technique points to become invisible for 1 minute (see **Appendix A: Conditions**). During that time, you also have resistance to all damage but force damage. In addition, you can spend 8 technique points to cast the *[[Rituals 7th–9th Circle#Astral Projection|astral projection]]* spell as an action (ignoring the standard casting time), without needing material components. When you do so, you can’t take any other creatures with you.
+You can use your action to spend 4 technique points to become [[Conditions#Invisible|invisible]] for 1 minute (see **Appendix A: Conditions**). During that time, you also have resistance to all damage but force damage. In addition, you can spend 8 technique points to cast the *[[Rituals 7th–9th Circle#Astral Projection|astral projection]]* spell as an action (ignoring the standard casting time), without needing material components. When you do so, you can’t take any other creatures with you.
 
 ### Epic Boon
 
@@ -292,7 +292,7 @@ Some martial arts forms focus primarily on self-defense rather than offense. Mon
 
 You can choose an additional form at 5th, 10th, and 16th level.
 
-***Bear to the Ground (10th Level Required).*** When a creature moves more than 5 feet and then makes an attack against you, you can use your reaction to spend 2 technique points to attempt to interrupt its attack and use its momentum against it. The creature must make a DEX save. On a failure, its attack misses, and it lands prone in an unoccupied space of your choice within 5 feet of you.
+***Bear to the Ground (10th Level Required).*** When a creature moves more than 5 feet and then makes an attack against you, you can use your reaction to spend 2 technique points to attempt to interrupt its attack and use its momentum against it. The creature must make a DEX save. On a failure, its attack misses, and it lands [[Conditions#Prone|prone]] in an unoccupied space of your choice within 5 feet of you.
 
 ***Quick Step.*** When a creature moves within 5 feet of you, you can use your reaction to spent 1 technique point to move 10 feet in the direction of your choice. This does not provoke opportunity attacks.
 
@@ -342,7 +342,7 @@ You can use this feature a number of times equal to your WIS modifier, and you r
 
 *3rd-Level Affliction Eater Feature*
 
-When a creature within 30 feet of you is reduced to 0 HP, you can spend 2 technique points to stay its death. The target is unconscious but stable, or you can choose for it to regain hit points equal to one roll of your martial arts die + your WIS modifier and become conscious. If the target was hostile toward you before it was reduced to 0 HP, you have advantage on CHA checks to interact with it for the next 24 hours, as it understands you spared its life.
+When a creature within 30 feet of you is reduced to 0 HP, you can spend 2 technique points to stay its death. The target is [[Conditions#Unconscious|unconscious]] but stable, or you can choose for it to regain hit points equal to one roll of your martial arts die + your WIS modifier and become conscious. If the target was hostile toward you before it was reduced to 0 HP, you have advantage on CHA checks to interact with it for the next 24 hours, as it understands you spared its life.
 
 ### Intercedence
 
@@ -530,7 +530,7 @@ Elemental words are divided into earth, flame, water, or wind (see Element Speak
 
 #### Stone Cage
 
-*Earth, 2 Technique Points* As a bonus action, you can spend 2 technique points to cause spires of stone to erupt around one creature that you can see within 120 feet of you that is within 30 feet of the ground. The target must make a STR save or be restrained by stone spires for 1 minute. The restrained creature can use its action to make a STR check against your technique save DC, freeing itself on a success.
+*Earth, 2 Technique Points* As a bonus action, you can spend 2 technique points to cause spires of stone to erupt around one creature that you can see within 120 feet of you that is within 30 feet of the ground. The target must make a STR save or be [[Conditions#Restrained|restrained]] by stone spires for 1 minute. The restrained creature can use its action to make a STR check against your technique save DC, freeing itself on a success.
 
 #### Sweeping Flame
 
@@ -682,7 +682,7 @@ When you first summon the dark flames, choose one of the following properties:
 
 With 1 minute of quiet meditation (which can be done as part of a rest), you fill the eyes of a willing creature, including yourself, with inky black shadow. Until that creature finishes a long rest, it can see in dim light, darkness, and magical darkness as if it were bright light, to a distance of 60 feet. You can have this effect active on only one creature at a time. %% errata 2025-05-29 %%
 
-At 7th level, the target can see invisible creatures. At 11th level, the target can't be blinded.
+At 7th level, the target can see invisible creatures. At 11th level, the target can't be [[Conditions#Blinded|blinded]].
 
 ### Grace of Umbra
 
@@ -761,7 +761,7 @@ You have learned the way of war, so you may better walk the world in peace. As a
 
 As an action, you can make a single unarmed strike against a creature. On a hit, you can spend 4 technique points to fill that creature with potentially lethal vibrations that last for a number of days equal to your monk level.
 
-For the duration, so long as you and the target are on the same plane, you can use an action to end the vibrations, ripping the creature apart. When you do, the target must make a CON save. On a failure, the target takes force damage equal to 5 × your monk level and is paralyzed until the end of your next turn. On a success, the target is stunned for 1 minute, and at the end of each of their turns, and each time they take damage, the target can repeat the save, ending the effect on a success. A target that fails the save by 5 or more instantly dies.
+For the duration, so long as you and the target are on the same plane, you can use an action to end the vibrations, ripping the creature apart. When you do, the target must make a CON save. On a failure, the target takes force damage equal to 5 × your monk level and is [[Conditions#Paralyzed|paralyzed]] until the end of your next turn. On a success, the target is stunned for 1 minute, and at the end of each of their turns, and each time they take damage, the target can repeat the save, ending the effect on a success. A target that fails the save by 5 or more instantly dies.
 
 Each time you use this feature after the first, the technique cost to use it increases by 2. When you finish a long rest, the cost resets. This feature can affect only one target at a time.
 
@@ -880,7 +880,7 @@ You can extend your soul to cleanse yourself and those around you. At the end of
 
 - Charmed
 
-- Deafened
+- [[Conditions#Deafened|Deafened]]
 
 - Paralyzed
 

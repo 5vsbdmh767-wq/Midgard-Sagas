@@ -29,7 +29,7 @@ Your elemental scion character has the following hereditary traits.
 
 ***Darkvision.*** You have darkvision to a range of 60 feet.
 
-***Hybrid Humanoid.*** Your Humanoid body is suffused with a reservoir of raw elemental energy, making you primarily a Humanoid, but you have traits in common with Elementals. You are resistant to poison damage and one of the following damage types based on which Natural Adaption trait you choose: acid (earthborn), fire (fireborn), cold (waterborn), or lightning (windborn). In addition, you have advantage on saves against being paralyzed, petrified, or poisoned.
+***Hybrid Humanoid.*** Your Humanoid body is suffused with a reservoir of raw elemental energy, making you primarily a Humanoid, but you have traits in common with Elementals. You are resistant to poison damage and one of the following damage types based on which Natural Adaption trait you choose: acid (earthborn), fire (fireborn), cold (waterborn), or lightning (windborn). In addition, you have advantage on saves against being [[Conditions#Paralyzed|paralyzed]], [[Conditions#Petrified|petrified]], or [[Conditions#Poisoned|poisoned]].
 
 ***Natural Adaptation.*** You have inherited one set of the following unique traits, determined by the nature of the elemental forces that shaped you:
 

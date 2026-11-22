@@ -5,7 +5,7 @@ publish: true
 
 *Wondrous Item, [[Using Magic Items#Rarity|Rare]] 8,800 gp*
 
-This golden ankh is about 12 inches long and has 5 charges. While holding the ankh by the loop, you can expend 1 charge as an action to fire a beam of brilliant sunlight in a 5-foot-wide, 60-foot-line from the end. Each creature caught in the line must make a DC 15 CON save. On a failed save, a creature takes 5d8 radiant damage and is [[Conditions#Blinded|blinded]] until the end of your next turn. On a successful save, it takes half damage and isn’t blinded. Undead have disadvantage on this save. The ankh regains 1d4 + 1 expended charges daily at dawn.
+This golden ankh is about 12 inches long and has 5 charges. While holding the ankh by the loop, you can expend 1 charge as an action to fire a beam of brilliant sunlight in a 5-foot-wide, 60-foot-line from the end. Each creature caught in the line must make a DC 15 CON save. On a failed save, a creature takes 5d8 radiant damage and is [[Conditions#Blinded|blinded]] until the end of your next turn. On a successful save, it takes half damage and isn’t [[Conditions#Blinded|blinded]]. Undead have disadvantage on this save. The ankh regains 1d4 + 1 expended charges daily at dawn.
 
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

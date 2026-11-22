@@ -27,7 +27,7 @@ Your smallfolk character has the following hereditary traits.
 
 - ***Gnomish.*** Your ancestors made their homes underground or in dark woodlands, providing you with darkvision to a range of 60 feet. In addition, you learn the *[[Cantrips#Minor Illusion|minor illusion]]* cantrip. Choose whether INT, WIS, or CHA is your spellcasting ability for this spell during character creation.
 
-- ***Halfling***. Your ancestors made their homes on the surface, displaying outsized pluck to drive back hostile wildlife and monsters. You have advantage on saves against being charmed or frightened.
+- ***Halfling***. Your ancestors made their homes on the surface, displaying outsized pluck to drive back hostile wildlife and monsters. You have advantage on saves against being [[Conditions#Charmed|charmed]] or [[Conditions#Frightened|frightened]].
 
 ## Wyrd Gnome
 

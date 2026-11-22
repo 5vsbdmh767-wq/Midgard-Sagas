@@ -94,7 +94,7 @@ You start with two banner effects: Banner of Mercy and Black Flag. You gain a ne
 
 As an action, while engaged in encounter gameplay (while in initiative order), you can plant a War Banner in an unoccupied space within 5 feet of you, choosing which banner effect you create when you do so. Once placed, the banner remains active for 1 minute. While active, the banner can’t be moved from its space, physically interacted with, or damaged by any means. Creatures can freely move through the banner’s space without impediment. The banner can’t be targeted by spells or effects, and it doesn’t count as any kind of item for the purposes of targeting.
 
-The banner disappears and any of its active effects end early if you become incapacitated, use an action to place a new banner, move more than 120 feet away from the banner, or choose to end the effect (no action required).
+The banner disappears and any of its active effects end early if you become [[Conditions#Incapacitated|incapacitated]], use an action to place a new banner, move more than 120 feet away from the banner, or choose to end the effect (no action required).
 
 You can use your War Banner feature to create a banner a number of times equal to your PB, regaining all expended uses when you finish a long rest. You can’t have more than one banner active at any one time. If you create a second banner while the first is still active, the first banner disappears.
 
@@ -174,13 +174,13 @@ You can now use up to two different stratagems on your turn.
 
 Your commitment to the vanguard’s path grants you a powerful new ability. Choose one of the following heroic boons:
 
-- **Battle Standard.** When initiative is rolled, you can use your War Banner feature to place a banner within 5 feet of your starting position without expending a use of the feature. You can’t use this ability if you are surprised.
+- **Battle Standard.** When initiative is rolled, you can use your War Banner feature to place a banner within 5 feet of your starting position without expending a use of the feature. You can’t use this ability if you are [[Conditions#Surprised|surprised]].
 
 - **Combat Ingenuity.** Learn two additional stratagems (see Stratagems feature) of your choice. These don’t count against your total stratagems known. When you gain a level in vanguard, you can choose to replace these stratagems as you would any other.
 
 - **Force of Personality.** Whenever you make an ability check with a skill, tool, or vehicle that you are proficient with, you can use your CHA modifier to calculate the check result instead of whatever ability modifier would normally apply.
 
-- **Unwavering Resolve.** When you roll an ability check or save to avoid becoming frightened or charmed, you can treat a roll of 9 or less as if you had rolled a 10 on the die. You gain the same benefit on checks made to end ongoing effects of the same types.
+- **Unwavering Resolve.** When you roll an ability check or save to avoid becoming [[Conditions#Frightened|frightened]] or [[Conditions#Charmed|charmed]], you can treat a roll of 9 or less as if you had rolled a 10 on the die. You gain the same benefit on checks made to end ongoing effects of the same types.
 
 ### Valiant Commander
 
@@ -282,7 +282,7 @@ Action) You command allies to surround a foe to prevent it from escaping. When y
 
 #### Tactical Reposition (
 
-Bonus Action) You switch positions with one willing creature that you can see within 10 feet of you. This movement doesn’t provoke opportunity attacks and doesn’t count against your available movement for the turn. To target a creature with this stratagem, neither you nor your target can be grappled, restrained, or otherwise unable to move.
+Bonus Action) You switch positions with one willing creature that you can see within 10 feet of you. This movement doesn’t provoke opportunity attacks and doesn’t count against your available movement for the turn. To target a creature with this stratagem, neither you nor your target can be [[Conditions#Grappled|grappled]], [[Conditions#Restrained|restrained]], or otherwise unable to move.
 
 ## Vanguard Subclasses
 

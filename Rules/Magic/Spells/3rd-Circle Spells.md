@@ -91,7 +91,7 @@ While in the watery form, the target can’t talk or manipulate objects. Any obj
 
 You gain snake-like fangs, giving you a melee bite attack that deals 1d4 + your DEX or STR modifier (your choice) piercing damage plus 4d6 poison damage on a hit. The target of your bite attack can make a CON save, taking half as much poison damage on a success.
 
-As a bonus action, you can spit venom at a target within 20 feet as a ranged weapon attack. On a hit, the target must succeed on a CON save or be poisoned and blinded for 1 minute. At the end of each of its turns, a poisoned target can repeat the CON save, ending the effect on itself on a success.
+As a bonus action, you can spit venom at a target within 20 feet as a ranged weapon attack. On a hit, the target must succeed on a CON save or be [[Conditions#Poisoned|poisoned]] and [[Conditions#Blinded|blinded]] for 1 minute. At the end of each of its turns, a poisoned target can repeat the CON save, ending the effect on itself on a success.
 
 ## Aura of Bane
 
@@ -225,7 +225,7 @@ You touch the corpse of a creature that isn't Undead or a Construct and consume 
 
 *You infuse your attack with necrotic energy.*
 
-The target takes an extra 3d8 necrotic damage from the attack, and it must succeed on a CON save or gain one level of exhaustion until the spell ends.
+The target takes an extra 3d8 necrotic damage from the attack, and it must succeed on a CON save or gain one level of [[Conditions#Exhaustion|exhaustion]] until the spell ends.
 
 At the end of each of its turns, the target repeats its save. On a success, it removes all exhaustion caused by this spell. On a failure, it gains one level of exhaustion.
 
@@ -293,7 +293,7 @@ At the end of each of your turns, the column’s height is reduced by 5 feet. Th
 
 *You inspire avarice in a foe, which covets an object of your choice.*
 
-This spell twists the target creature’s perceptions, inflaming its greed. You choose an object you can see when you cast this spell. The target must succeed on a WIS save or be compelled to try to take that item for itself for the duration. It will try to steal the item if possible, and if it is unable to, it will fight the item’s current holder. If the target is able to claim the object, it will flee from all other creatures to jealously guard it until the spell ends. If the target is immune to the charmed condition, it automatically succeeds on its save.
+This spell twists the target creature’s perceptions, inflaming its greed. You choose an object you can see when you cast this spell. The target must succeed on a WIS save or be compelled to try to take that item for itself for the duration. It will try to steal the item if possible, and if it is unable to, it will fight the item’s current holder. If the target is able to claim the object, it will flee from all other creatures to jealously guard it until the spell ends. If the target is immune to the [[Conditions#Charmed|charmed]] condition, it automatically succeeds on its save.
 
 ## Conjure Animals
 
@@ -395,7 +395,7 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 
 *You instill a devastating fear of canines in your target.*
 
-Choose a creature that you can see within range. The target must succeed on a WIS save or develop an overriding fear of canids, such as dogs, wolves, foxes, and worgs. For the duration, the first time the target sees a canid, the target must succeed on a WIS save or be frightened of that canid until the end of its next turn. Each time the target sees a different canid, it must make the save. In addition, the target has disadvantage on ability checks and attack rolls while a canid is within 10 feet of it.
+Choose a creature that you can see within range. The target must succeed on a WIS save or develop an overriding fear of canids, such as dogs, wolves, foxes, and worgs. For the duration, the first time the target sees a canid, the target must succeed on a WIS save or be [[Conditions#Frightened|frightened]] of that canid until the end of its next turn. Each time the target sees a different canid, it must make the save. In addition, the target has disadvantage on ability checks and attack rolls while a canid is within 10 feet of it.
 
 ***At Higher Circles.*** When you cast this spell using certain higher-circle spell slots, the duration changes: 24 hours with a 5th-circle slot, 1 month with a 7th-circle slot, and until dispelled with a spell slot of 8th circle or higher.
 
@@ -455,7 +455,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd ci
 
 Choose a manufactured metal object such as a metal weapon or a suit of armor that lacks the Natural Materials property that you can see within range. You cause the object to discharge electricity. Any creature touching the object takes 3d8 lightning damage when you cast the spell. An unattended object arcs electricity out to one creature of your choice within 5 feet of it, and that creature must succeed on a CON save or take 1d8 lightning damage. Until the spell ends, you can use a bonus action on subsequent turns to deal this damage.
 
-If a creature is holding or wearing the object and takes damage from it, the creature must succeed on a CON save or drop the object. If it doesn’t drop the object, the creature is stunned until the start of its next turn and can take only an action or bonus action during its next turn.
+If a creature is holding or wearing the object and takes damage from it, the creature must succeed on a CON save or drop the object. If it doesn’t drop the object, the creature is [[Conditions#Stunned|stunned]] until the start of its next turn and can take only an action or bonus action during its next turn.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 4th circle or higher, the damage for the direct contact increases by 1d8 for each slot above 3rd. The arc’s range increases by 5 feet, and its damage increases by 1d8 for every two slots above 3rd.
 
@@ -477,7 +477,7 @@ If a creature is holding or wearing the object and takes damage from it, the cre
 
 You channel elements directly from the Elemental Planes, fusing them to your body to manifest in the Material Plane. Choose one of the following elemental fusions. Each fusion effect is available while your body is fused to that element, as an action. As a bonus action, you can end one fusion effect and begin another. The effects last for the duration.
 
-***Earth Fusion.*** Your arms become living stone. You can make a melee spell attack against a creature within 5 feet. On a hit, the target takes 4d6 bludgeoning damage and must succeed on a STR save or be knocked prone.
+***Earth Fusion.*** Your arms become living stone. You can make a melee spell attack against a creature within 5 feet. On a hit, the target takes 4d6 bludgeoning damage and must succeed on a STR save or be knocked [[Conditions#Prone|prone]].
 
 ***Fire Fusion.*** Your arms burst into flames that don’t harm you. You can make a ranged spell attack against a creature within 30 feet. On a hit, the target takes 4d6 fire damage and must succeed on a CON save or ignite, taking 1d6 fire damage at the start of each turn. A creature can use its action to extinguish the flames.
 
@@ -641,7 +641,7 @@ When a creature moves into or within the area, it takes 2d4 cold damage for ever
 
 You transform a willing creature you touch, along with everything it’s wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 HP. An incorporeal creature isn’t affected.
 
-While in this form, the target’s only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to damage from nonmagical attacks, and it has advantage on STR, DEX, and CON saves. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can’t fall and remains hovering in the air even when stunned or otherwise incapacitated.
+While in this form, the target’s only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to damage from nonmagical attacks, and it has advantage on STR, DEX, and CON saves. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can’t fall and remains hovering in the air even when stunned or otherwise [[Conditions#Incapacitated|incapacitated]].
 
 While in the form of a misty cloud, the target can’t talk or manipulate objects, and any objects it was carrying or holding can’t be dropped, used, or otherwise interacted with. The target can’t attack or cast spells.
 
@@ -663,7 +663,7 @@ While in the form of a misty cloud, the target can’t talk or manipulate object
 
 Two half-circles of enormous teeth erupt from the ground and slam together to crush a creature of your choice within 90 feet.
 
-The target becomes grappled (escape DC equals your spell save DC). At the beginning of each of its turns, the grappled creature takes 2d10 bludgeoning damage. If the target escapes, the spell ends.
+The target becomes [[Conditions#Grappled|grappled]] (escape DC equals your spell save DC). At the beginning of each of its turns, the grappled creature takes 2d10 bludgeoning damage. If the target escapes, the spell ends.
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 5th or 6th circle, the damage increases to 3d10. When you cast this spell using a spell slot of 7th or 8th circle, the damage increases to 5d8. When you cast this using a spell slot of 9th circle, the damage increases to 6d8.
 
@@ -1009,7 +1009,7 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a half-m
 
 **Duration:** Concentration, up to 1 minute
 
-*You create an invisible doorway between points within eyesight.*
+*You create an [[Conditions#Invisible|invisible]] doorway between points within eyesight.*
 
 As a bonus action, choose two unoccupied spaces you can see within 60 feet of you. An invisible and intangible pocket portal appears at each point. A Large or smaller creature who steps onto the space with the portal can choose to remain in the same space or use their movement to move to any space adjacent to the other portal. Stepping through a portal doesn’t provoke attacks of opportunity.
 
@@ -1069,7 +1069,7 @@ You touch a creature, creating a visible rune etched into its skin. The creature
 
 You create a 20-foot-diameter circle of loosely-packed toadstools that spew sickly white spores and ooze a tarry substance. At the start of each of your turns, each creature within the circle must make a CON save. A creature takes 2d8 necrotic damage on a failed save, or half as much damage on a successful one.
 
-If a creature attempts to pass through the ring of toadstools, such as to leave or enter the ring, the toadstools release a cloud of spores, and the creature must make a CON save. On a failure, the creature takes 2d8 poison damage and is poisoned for 1 minute and paralyzed until the end of its next turn. On a success, the creature takes half as much damage and isn't poisoned or paralyzed. A poisoned creature can repeat the CON save at the end of each of its turns, ending the poisoned condition on itself on a success.
+If a creature attempts to pass through the ring of toadstools, such as to leave or enter the ring, the toadstools release a cloud of spores, and the creature must make a CON save. On a failure, the creature takes 2d8 poison damage and is poisoned for 1 minute and [[Conditions#Paralyzed|paralyzed]] until the end of its next turn. On a success, the creature takes half as much damage and isn't poisoned or paralyzed. A poisoned creature can repeat the CON save at the end of each of its turns, ending the poisoned condition on itself on a success.
 
 A creature can fly in or out of the ring without triggering the effect of passing through the ring, provided it flies at least 10 feet above the toadstools.
 
@@ -1249,7 +1249,7 @@ Plants might be able to perform other tasks on your behalf, at the GM’s discre
 
 If a Plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.
 
-This spell can cause the plants created by the *[[1st-Circle Spells#Entangle|entangle]]* spell to release a restrained creature.
+This spell can cause the plants created by the *[[1st-Circle Spells#Entangle|entangle]]* spell to release a [[Conditions#Restrained|restrained]] creature.
 
 ## Spirit Guardians
 

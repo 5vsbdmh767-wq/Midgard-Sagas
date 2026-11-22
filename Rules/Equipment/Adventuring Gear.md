@@ -243,7 +243,7 @@ This section describes items that have special rules or require further explanat
 
 ### General Gear
 
-***Ball Bearings.*** As an action, you can spill these tiny metal balls from their pouch to cover a level, square area, 10 feet on a side. A creature moving in this area must succeed on a DC 10 DEX save or fall prone. A creature moving in the area at half speed doesn’t need to make the save.
+***Ball Bearings.*** As an action, you can spill these tiny metal balls from their pouch to cover a level, square area, 10 feet on a side. A creature moving in this area must succeed on a DC 10 DEX save or fall [[Conditions#Prone|prone]]. A creature moving in the area at half speed doesn’t need to make the save.
 
 ***Block and Tackle.*** This is a set of pulleys with a cable threaded through them and a hook to attach to items. A block and tackle allows you to hoist up to four times the weight you can normally lift.
 
@@ -273,7 +273,7 @@ This section describes items that have special rules or require further explanat
 
 You must successfully grapple a creature to effectively use a garrote. Instead of making a STR (Athletics) check for the grapple, you can make a DEX (Thieves’ Tools) check. You have disadvantage on the check if you are sensed by your target. While attempting to garrote a target, attackers have advantage to hit you and you have disadvantage on DEX saves.
 
-Grappled creatures begin suffocating immediately, having no time to draw breath. See [[Life and Death#Suffocating|Suffocating]].
+[[Conditions#Grappled|Grappled]] creatures begin suffocating immediately, having no time to draw breath. See [[Life and Death#Suffocating|Suffocating]].
 
 ***Healer’s Kit.*** This kit is a leather pouch containing bandages, salves, and splints. The kit has 10 uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 HP without needing to make a WIS (Medicine) check.
 
@@ -297,7 +297,7 @@ Grappled creatures begin suffocating immediately, having no time to draw breath.
 
 ***Mess Kit.*** This tin box contains a cup and simple cutlery. The box clamps together; one side can be used as a cooking pan and the other as a plate or shallow bowl.
 
-***Net.*** As an action, you can throw a net at a Large or smaller creature within 15 feet of you. Make a ranged attack against the creature, treating the net as an improvised weapon. On a hit, the target is restrained until it is freed. A creature can use its action to make a DC 10 STR (Athletics) check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
+***Net.*** As an action, you can throw a net at a Large or smaller creature within 15 feet of you. Make a ranged attack against the creature, treating the net as an improvised weapon. On a hit, the target is [[Conditions#Restrained|restrained]] until it is freed. A creature can use its action to make a DC 10 STR (Athletics) check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
 
 ***Net, Silk.*** A silk net is a lighter, more durable variant of a standard net. As an action, you can throw it at a Medium or smaller creature within 15 feet of you. Make a ranged attack against the target, treating the net as an improvised weapon. On a hit, the target is restrained until it is freed. As an action, a creature can free itself or another creature within 5 feet of it with a successful DC 14 STR (Athletics) check. Dealing 10 slashing damage to the net (AC 12) also frees the creature without harming it, ending the effect, and destroying the net. %% source: Player's Guide 2 %%
 
@@ -359,9 +359,9 @@ When the jelly is exposed to air, it explodes, dealing 4d4 fire damage to everyt
 
 ***Ether.*** Ether and similar alchemical substances are designed to knock out a target. Industrious souls proficient with alchemist tools can craft bottles of ether with a successful DC 13 INT (Alchemist Tools) check. %% source: Book of Blades %%
 
-To use ether, you must take an action to douse a rag in the contents of a vial. The fumes fade quickly and lose effectiveness after 1 minute. During this time, you must succeed in grappling a creature that breathes, who then must make a DC 13 CON save over a number of turns. As long as you maintain the grapple, the creature must make a new CON save at the start of each of your turns. Creatures who are surprised during the grapple attempt have disadvantage on the save.
+To use ether, you must take an action to douse a rag in the contents of a vial. The fumes fade quickly and lose effectiveness after 1 minute. During this time, you must succeed in grappling a creature that breathes, who then must make a DC 13 CON save over a number of turns. As long as you maintain the grapple, the creature must make a new CON save at the start of each of your turns. Creatures who are [[Conditions#Surprised|surprised]] during the grapple attempt have disadvantage on the save.
 
-Once a creature accumulates 3 failures, it falls unconscious for 1 hour or until it takes damage. If a save fails by 5 or more, treat it as two failures toward the total. After three successes, the ether has no effect.
+Once a creature accumulates 3 failures, it falls [[Conditions#Unconscious|unconscious]] for 1 hour or until it takes damage. If a save fails by 5 or more, treat it as two failures toward the total. After three successes, the ether has no effect.
 
 ***Everflame Torch.*** When lit, this item shines light as a normal torch, but it burns with a heatless flame that can’t be extinguished. This flame is traditionally blue, but alchemists can produce a variety of signature colors. These torches are typically sold with a cloth hood to cover the light as needed, and their heatless properties allow them to be safely handled and stowed in a pack with other items. Despite its name, an everflame torch’s light starts to dim after burning continuously for a year. A creature proficient with alchemist tools can restore a torch to full functionality, typically for half the initial cost of the torch. ***Hand Trebuchet*** The metal pocket of this handheld trebuchet can be loaded with a small container of acid, alchemist’s fire, holy water, or similar substance. While wielding the trebuchet, as a Use an Object action, you can make a ranged weapon attack against a target within 60 feet (or up to 240 feet with disadvantage), treating the hand trebuchet as an improvised weapon. On a hit, the target is then subjected to that substance’s effect. %% source: Player's Guide 2 %%
 
@@ -373,7 +373,7 @@ Once a creature accumulates 3 failures, it falls unconscious for 1 hour or until
 
 Making your own flash powder requires care. Failing the craft check consumes all the raw materials. Failing the craft check by 5 or more also causes a small explosion. Each creature within 5 feet, including the crafter, must make a DC 15 DEX save, taking 3d4 fire damage on a failed save, or half as much on a successful one. (This explosion does not ignite flammable objects.) %% source: Trade Secrets %%
 
-***Ghoulsfoil Lotion.*** This sickly-smelling lotion can be applied to a creature’s joints and muscles to remove the paralyzed condition. This process requires a DC 10 WIS (Medicine) check, and it takes one round to properly work it into the creature’s skin.
+***Ghoulsfoil Lotion.*** This sickly-smelling lotion can be applied to a creature’s joints and muscles to remove the [[Conditions#Paralyzed|paralyzed]] condition. This process requires a DC 10 WIS (Medicine) check, and it takes one round to properly work it into the creature’s skin.
 
 Ghoulsfoil lotion wears off after an hour, but during that time, the creature has advantage on CON saves to avoid being paralyzed again. %% source: Trade Secrets %%
 
@@ -466,7 +466,7 @@ The smell might hide a creature from animals, but it is unpleasantly pungent to 
 
 In smaller, diluted doses, however, monk’s hood, also known as wolfsbane, can be given twice daily to a humanoid suffering the initial effects of lycanthropy, to allow the victim to make one last save at the end of its 30-day pre-transformation period. If this save succeeds, the humanoid does not transform. (See the **Curse of Lycanthropy** sidebar in *Monster Vault*.) %% source: Trade Secrets %%
 
-***Poison, Basic (Injury).*** You can use the poison in this vial to coat one weapon or up to three pieces of ammunition that deal piercing or slashing damage. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must succeed on a DC 10 CON save or take 1d4 poison damage (in addition to the weapon’s normal damage). Once applied, the poison retains potency for 1 minute before drying.
+***Poison, Basic (Injury).*** You can use the poison in this vial to coat one weapon or up to three pieces of ammunition that deal piercing or slashing damage. Applying the poison takes an action. A creature hit by the [[Conditions#Poisoned|poisoned]] weapon or ammunition must succeed on a DC 10 CON save or take 1d4 poison damage (in addition to the weapon’s normal damage). Once applied, the poison retains potency for 1 minute before drying.
 
 ***Poison, Essence of Ether (Inhaled).*** A creature subjected to this poison must succeed on a DC 15 CON save or be poisoned for 8 hours. The poisoned creature is unconscious.
 

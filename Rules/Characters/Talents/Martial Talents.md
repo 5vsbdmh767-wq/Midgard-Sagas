@@ -11,7 +11,7 @@ Your experience with armor allows you to weather mighty onslaughts. While you ar
 
 - Your AC increases by 1.
 
-- You have advantage on saves to avoid being pulled, shoved, or knocked prone.
+- You have advantage on saves to avoid being pulled, shoved, or knocked [[Conditions#Prone|prone]].
 
 ## Armor Training
 
@@ -83,7 +83,7 @@ You can utter a furious roar. You gain these benefits:
 
 - You gain proficiency in the Intimidation skill.
 
-- You can use a bonus action to release a frightening battle cry. Roll a CHA (Intimidation) check. One creature of your choice that can hear you within 30 feet of you must make a WIS save with a DC equal to your CHA (Intimidation) check result or be frightened for 1d4 rounds. The target can make a new save at the end of each of its turns to end the effect. Once you’ve used this ability you can’t use it again until you’ve completed a short rest. At higher levels, you can target an additional number of creatures with this ability. At 9th level, you can target two creatures. At 15th level, you can target three creatures, and the range of this ability increases to 60 feet.
+- You can use a bonus action to release a frightening battle cry. Roll a CHA (Intimidation) check. One creature of your choice that can hear you within 30 feet of you must make a WIS save with a DC equal to your CHA (Intimidation) check result or be [[Conditions#Frightened|frightened]] for 1d4 rounds. The target can make a new save at the end of each of its turns to end the effect. Once you’ve used this ability you can’t use it again until you’ve completed a short rest. At higher levels, you can target an additional number of creatures with this ability. At 9th level, you can target two creatures. At 15th level, you can target three creatures, and the range of this ability increases to 60 feet.
 
 ## Battle Tactician
 
@@ -135,7 +135,7 @@ You have the hardened edge of ice. You gain these benefits:
 
 You inherited a touch of the ferocity of a berserker ancestor. You gain these benefits:
 
-- When your hit points are reduced to half your usual maximum, you can use a bonus action to enter a frenzied state. While in this fury, your melee weapon attacks deal extra damage equal to your PB, and you don’t become unconscious when you are reduced to 0 HP (though you still make death saves as normal). Your Berserker Fury lasts for 1 minute or until you end it (no action required), or if you are incapacitated. You can use this feature a number of times equal to your PB and you regain all expended uses when you finish a long rest.
+- When your hit points are reduced to half your usual maximum, you can use a bonus action to enter a frenzied state. While in this fury, your melee weapon attacks deal extra damage equal to your PB, and you don’t become [[Conditions#Unconscious|unconscious]] when you are reduced to 0 HP (though you still make death saves as normal). Your Berserker Fury lasts for 1 minute or until you end it (no action required), or if you are [[Conditions#Incapacitated|incapacitated]]. You can use this feature a number of times equal to your PB and you regain all expended uses when you finish a long rest.
 
 ## Bloodied Resilience
 
@@ -283,7 +283,7 @@ You mastered techniques that allow you to efficiently fight barehanded. You gain
 
 - You gain proficiency with improvised weapons. While wielding an improvised weapon with one hand, the weapon deals a minimum of 1d8 + STR modifier damage. While wielding an improvised weapon with two hands, the weapon deals a minimum of 1d10 + STR modifier damage.
 
-- You have advantage on ability checks made to initiate or escape a grapple. When you start your turn grappled with or restrained by a creature within 5 feet of you, that creature takes bludgeoning damage equal to your STR modifier.
+- You have advantage on ability checks made to initiate or escape a grapple. When you start your turn [[Conditions#Grappled|grappled]] with or [[Conditions#Restrained|restrained]] by a creature within 5 feet of you, that creature takes bludgeoning damage equal to your STR modifier.
 
 ## Hard to Kill
 
@@ -403,7 +403,7 @@ You’ve fortified yourself against physically debilitating effects. You gain th
 
 - Once per turn, when you fail a STR or CON save, you can expend one of your hit dice to reroll the save. You must take the new result.
 
-- When you start your turn blinded, deafened, restrained, or poisoned, you gain 1 Luck.
+- When you start your turn [[Conditions#Blinded|blinded]], [[Conditions#Deafened|deafened]], restrained, or [[Conditions#Poisoned|poisoned]], you gain 1 Luck.
 
 - You have advantage on checks and saves to avoid being knocked prone, pulled, or pushed.
 
@@ -531,7 +531,7 @@ You’ve learned new techniques for using a shield. You gain these benefits:
 
 Your knowledge of tactics allows you to know the precise time to strike, and you gain these benefits:
 
-- You have advantage on checks to avoid being surprised.
+- You have advantage on checks to avoid being [[Conditions#Surprised|surprised]].
 
 - As a reaction immediately after you take damage from a melee attack, you can move 10 feet. This movement doesn’t provoke opportunity attacks.
 
@@ -589,7 +589,7 @@ You have mastered the use of ranged weapons to disable your foe from a distance.
 
 - You score a critical hit on a d20 roll of 19 or 20 with your chosen weapon.
 - When you score a critical hit with your chosen weapon, you can choose to forgo dealing damage and stun the target until the end of the target's next turn instead.
-- When you hit a stunned creature with your chosen weapon, you can roll one additional weapon damage die for damage.
+- When you hit a [[Conditions#Stunned|stunned]] creature with your chosen weapon, you can roll one additional weapon damage die for damage.
 
 You can select this talent multiple times, selecting a different weapon each time.
 

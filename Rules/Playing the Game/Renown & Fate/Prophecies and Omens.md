@@ -84,7 +84,7 @@ Each blessing or warning gives the character a game effect when the reading is f
 | 3 | Your AC increases by +2 until the start of your next turn. | Reduce your AC by 2 until the start of your next turn. |
 | 4 | You ignore difficult terrain for 1 hour. | For 1 hour, every foot you travel in difficult terrain costs you 2 extra feet of movement (instead of 1). |
 | 5 | You gain temporary HP equal to your PB plus your character level. | A nearby foe gains temporary HP equal to your PB plus your character level. |
-| 6 | You cast *[[1st-Circle Spells#Shield\|shield]]* without expending a spell slot. | A nearby foe casts *shield* as a reaction. |
+| 6 | You cast *[[1st-Circle Spells#Shield\|shield]]* without expending a spell slot. | A nearby foe casts *[[1st-Circle Spells#Shield\|shield]]* as a reaction. |
 | 7 | You can immediately reroll your next failed skill check, but you must use the new result. | You must immediately reroll your next successful skill check and use the new result. |
 | 8 | You have advantage on your next initiative check. | You have disadvantage on your next initiative check. |
 
@@ -226,7 +226,7 @@ These samples show how players can read triggers in different ways. Some of thei
 
 *When the stars hide their faces, quench the wound-brand to strike like Sleipnir.*
 
-***Benefit.*** If you do so, once in the next 24 hours you can use an action to move up to twice your speed and make a melee attack. This movement doesn't provoke opportunity attacks. If you hit a creature, it is pushed 10 feet away from you and has the prone condition.
+***Benefit.*** If you do so, once in the next 24 hours you can use an action to move up to twice your speed and make a melee attack. This movement doesn't provoke opportunity attacks. If you hit a creature, it is pushed 10 feet away from you and has the [[Conditions#Prone|prone]] condition.
 
 ***Possible Interpretations.***
 
@@ -237,11 +237,11 @@ These samples show how players can read triggers in different ways. Some of thei
 
 *When the light speaks in screams, don't answer the call with wyrd-craft, or suffer [[Thor]]'s fate.*
 
-***Consequence.*** If you cast a spell before the end of your next turn, you have the poisoned condition for 1d4 rounds. While poisoned this way, your thoughts are muddled, and you can cast only cantrips.
+***Consequence.*** If you cast a spell before the end of your next turn, you have the [[Conditions#Poisoned|poisoned]] condition for 1d4 rounds. While poisoned this way, your thoughts are muddled, and you can cast only cantrips.
 
 ***Possible Interpretations.***
 
-- The light speaking in screams could be something like a *fireball*, bright and causing screams of pain, or a glowing foe who is yelling.
+- The light speaking in screams could be something like a *[[3rd-Circle Spells#Fireball|fireball]]*, bright and causing screams of pain, or a glowing foe who is yelling.
 - The warning against answering with wyrd-craft plainly means spellcasting, but a player could decide it means an enchanted weapon, so the warning would be not to attack the "screaming light."
 
 ### Dire Prophetic Warning

@@ -154,7 +154,7 @@ These are made as light, medium, or heavy armor; the cost and weight are added t
 
 ***Winged Armor.*** This armor can be made light, medium, or heavy and is generally only made for Humanoids. The armor isn’t winged itself but is rather built for warriors who have wings and adjustable for different wing sizes. A non-winged character would feel less protected in winged armor with two large holes in the back.
 
-In addition to allowing winged Humanoids to wear armor, winged armor is built to help fliers stabilize when they’re hit in midair. When an attack or effect would cause you to fall prone in midair, you have advantage on saves against that effect.
+In addition to allowing winged Humanoids to wear armor, winged armor is built to help fliers stabilize when they’re hit in midair. When an attack or effect would cause you to fall [[Conditions#Prone|prone]] in midair, you have advantage on saves against that effect.
 
 ### Shields
 
@@ -166,7 +166,7 @@ A shield is handheld armor that is wielded instead of worn. This means their AC 
 
 ***Lantern Shield.*** Attached to this buckler is a lightweight lantern. It can be lit like any other lantern by mundane or magical means. The lantern swings from the shield, shedding bright light in a 10-foot radius and dim light for an additional 20 feet. %% source: Book of Blades %%
 
-As a bonus action while the lantern is lit, you can swing your shield toward an opponent within 5 feet of you in an attempt to blind them with the light. Your opponent must succeed on a DC 13 CON save or be blinded until the start of its next turn.
+As a bonus action while the lantern is lit, you can swing your shield toward an opponent within 5 feet of you in an attempt to blind them with the light. Your opponent must succeed on a DC 13 CON save or be [[Conditions#Blinded|blinded]] until the start of its next turn.
 
 ***Leather Shield.*** Shields made of leather are common among groups without access to metal working. Cured leather is stretched over a light wooden frame that includes a simple grip. They are light weight but offer limited protection against metal armaments. %% source: Trade Secrets %%
 

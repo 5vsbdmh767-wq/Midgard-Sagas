@@ -25,11 +25,11 @@ Your dryad character has the following hereditary traits.
 
 ***Darkvision.*** You have darkvision to a range of 60 feet.
 
-***Fey Resilience.*** You have advantage on saves against being charmed and knocked unconscious.
+***Fey Resilience.*** You have advantage on saves against being [[Conditions#Charmed|charmed]] and knocked [[Conditions#Unconscious|unconscious]].
 
 ***Forest Heart.***  If your heart tree stands in your homeland, you can’t die. If killed, your body decomposes into compost within 10 days, and your spirit returns to your tree. You emerge from your tree, fully rested and recovered after 1d20 years. Spells that return you to life, such as *resurrection*, can cause you to emerge before your recovery time elapses. You can’t be returned to life by the *reincarnate* spell.
 
-***Natural Magic.***  Your innate connection to the natural world gives you an affinity with plants and animals. You know the *druidcraft* cantrip. In addition, you can understand and verbally communicate with Beasts and Plants. This works like the *speak with animals* spell, except it also applies to Plants.
+***Natural Magic.***  Your innate connection to the natural world gives you an affinity with plants and animals. You know the *[[Cantrips#Druidcraft|druidcraft]]* cantrip. In addition, you can understand and verbally communicate with Beasts and Plants. This works like the *[[1st-Circle Spells#Speak with Animals|speak with animals]]* spell, except it also applies to Plants.
 
 ***Tree Step.***  You can use 15 feet of your movement to step into one living tree within your reach and materialize into an unoccupied space within 5 feet of a second living tree within 60 feet of the first tree. Both trees must be Large or larger. You can use this feature a number of times per day equal to your PB. You regain all expended uses when you finish a long rest.
 

@@ -67,7 +67,7 @@ While crawling, you move at half speed—each foot of movement costs 1 extra foo
 
 Several factors determine how far and how high a creature can jump.
 
-***Long Jump.*** When you make a long jump, you can cover a number of feet up to half your walking speed if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only a quarter of your walking speed. Either way, each foot you clear on the jump costs 1 foot of movement. This rule assumes that the height of your jump doesn’t matter, such as a jump across a stream or chasm. At the GM’s option, you must succeed on a DC 10 STR (Athletics) check to clear a low obstacle (no taller than a quarter of the jump’s distance), such as a hedge or low wall. Otherwise, you hit it. When you attempt to land in difficult terrain, you must succeed on a DC 10 DEX (Acrobatics) check to land on your feet. Otherwise, you land prone.
+***Long Jump.*** When you make a long jump, you can cover a number of feet up to half your walking speed if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only a quarter of your walking speed. Either way, each foot you clear on the jump costs 1 foot of movement. This rule assumes that the height of your jump doesn’t matter, such as a jump across a stream or chasm. At the GM’s option, you must succeed on a DC 10 STR (Athletics) check to clear a low obstacle (no taller than a quarter of the jump’s distance), such as a hedge or low wall. Otherwise, you hit it. When you attempt to land in difficult terrain, you must succeed on a DC 10 DEX (Acrobatics) check to land on your feet. Otherwise, you land [[Conditions#Prone|prone]].
 
 ***High Jump.*** When you make a high jump, you leap into the air a number of feet equal to 3 + your STR modifier if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs 1 foot of movement. At the GM’s discretion, you might be able to make a STR (Athletics) check to jump higher than you normally can.
 
@@ -95,7 +95,7 @@ If a flying creature is knocked prone (see **Appendix A: Conditions**), has its 
 
 #### Pulling and Pushing
 
-Some effects such as a roper’s Reel bonus action or an ogre using a shove attack can pull or push you away from the source. A creature that has grappled you might also drag you with it during its move (see **Grappling** under **Special Melee Attacks** in this chapter).
+Some effects such as a roper’s Reel bonus action or an ogre using a shove attack can pull or push you away from the source. A creature that has [[Conditions#Grappled|grappled]] you might also drag you with it during its move (see **Grappling** under **Special Melee Attacks** in this chapter).
 
 ### Traveling
 
@@ -105,7 +105,7 @@ Traveling is the method of movement used when creatures journey across great dis
 
 While traveling, the party collectively decides if they move at a fast, normal, or slow pace. Consult the **Travel Pace** table to find how far a group can move in a period of time for their pace, and whether traveling at the pace has any benefits or penalties. For example, a fast pace makes travelers less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully. Note that the **Travel Pace** table assumes a party is moving through normal terrain. If a party is traveling through difficult terrain, the distance they can travel is halved.
 
-***Forced March.*** A standard travel pace assumes that you travel for 8 hours in a day. You can push beyond that limit at the risk of exhaustion. For each additional hour of travel beyond 8 hours, you cover the distance shown in the Hour column for your pace, and each character must make a CON save at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed save, a character suffers one level of exhaustion (see **Appendix A: Conditions**).
+***Forced March.*** A standard travel pace assumes that you travel for 8 hours in a day. You can push beyond that limit at the risk of [[Conditions#Exhaustion|exhaustion]]. For each additional hour of travel beyond 8 hours, you cover the distance shown in the Hour column for your pace, and each character must make a CON save at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed save, a character suffers one level of exhaustion (see **Appendix A: Conditions**).
 
 ***Mounts and Vehicles.*** For short time spans (up to 1 hour), many animals move much faster than Humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is rare except in densely populated areas. Characters in wagons, carriages, or other land vehicles choose a pace on the table as normal. Characters in a waterborne vessel are limited to the speed of the vessel, and they don’t suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel up to 24 hours per day. Special mounts, such as a pegasus or griffon, or special vehicles allow you to travel even more swiftly. For more details see **Mounts** and **Vehicles** in **Chapter 5**.
 
@@ -207,7 +207,7 @@ In a **lightly obscured** area, such as dim light, patchy fog, or moderate folia
 
 #### Heavily Obscured
 
-In a **heavily obscured** area, such as darkness, opaque fog, or dense foliage, a creature effectively suffers from the blinded condition (see **Appendix A: Conditions**) when trying to see something in that area. A blinded creature can’t see and automatically fails any ability check that requires sight. Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
+In a **heavily obscured** area, such as darkness, opaque fog, or dense foliage, a creature effectively suffers from the [[Conditions#Blinded|blinded]] condition (see **Appendix A: Conditions**) when trying to see something in that area. A blinded creature can’t see and automatically fails any ability check that requires sight. Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
 
 ### Special Senses
 
@@ -227,7 +227,7 @@ A creature with tremorsense can detect and pinpoint the source of vibrations whe
 
 #### Truesight
 
-A creature with truesight can see in dim light, darkness, and magical darkness as if it were bright light. It also sees creatures and objects with the invisible condition (see **Appendix A: Conditions**), it automatically detects visual illusions and succeed on saves against them, and it perceives the true form of a creature with the Shapechanger tag or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane within truesight range.
+A creature with truesight can see in dim light, darkness, and magical darkness as if it were bright light. It also sees creatures and objects with the [[Conditions#Invisible|invisible]] condition (see **Appendix A: Conditions**), it automatically detects visual illusions and succeed on saves against them, and it perceives the true form of a creature with the Shapechanger tag or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane within truesight range.
 
 ---
 <small>Includes material from the Black Flag Reference Document 1.2 by Kobold Press, available at koboldpress.com/Black-Flag-Roleplaying, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode). All sources: [[Credits]].</small>

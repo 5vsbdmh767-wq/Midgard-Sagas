@@ -22,17 +22,17 @@ Your hexen PC has the following traits.
 
 ***Hag Magic.*** You learn one Wyrd cantrip of your choice, and you can cast the *[[1st-Circle Spells#Disguise Self|disguise self]]* spell without needing to spend a spell slot or use components. Your spell attack bonus and spell save DC for these are determined by your INT, WIS, or CHA modifier (your choice during character creation).
 
-***Hybrid Humanoid.*** You are a Humanoid, but your hag ancestry gives you traits in common with Fey. You have advantage on saves against being charmed and against effects that would cause you to fall unconscious.
+***Hybrid Humanoid.*** You are a Humanoid, but your hag ancestry gives you traits in common with Fey. You have advantage on saves against being [[Conditions#Charmed|charmed]] and against effects that would cause you to fall [[Conditions#Unconscious|unconscious]].
 
 ***Natural Adaptation.*** You have inherited one set of the following unique traits, determined by the type of hag that shaped you:
 
-- ***Ambush Hag.*** You have advantage on saves against the poisoned condition. You also gain a climbing speed equal to your walking speed and can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+- ***Ambush Hag.*** You have advantage on saves against the [[Conditions#Poisoned|poisoned]] condition. You also gain a climbing speed equal to your walking speed and can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-- ***Green Hag.*** As an action, you can turn invisible for up to 1 minute, along with any equipment you are wearing or wielding. This invisibility ends early if you attack or cast a spell or if your concentration ends (as if concentrating on a spell). You can use this ability a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+- ***Green Hag.*** As an action, you can turn [[Conditions#Invisible|invisible]] for up to 1 minute, along with any equipment you are wearing or wielding. This invisibility ends early if you attack or cast a spell or if your concentration ends (as if concentrating on a spell). You can use this ability a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
 - ***Night Hag.*** You learn one additional Wyrd cantrip of your choice as part of your Hag Magic feature. You also have advantage on saves against spells and other magical effects.
 
-- ***Sea Hag.*** You have advantage on saves against the frightened condition. You also have a swim speed equal to your walking speed and can breathe air and water.
+- ***Sea Hag.*** You have advantage on saves against the [[Conditions#Frightened|frightened]] condition. You also have a swim speed equal to your walking speed and can breathe air and water.
 
 ---
 <small>Sources: [[Credits]].</small>

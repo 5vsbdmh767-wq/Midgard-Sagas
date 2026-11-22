@@ -14,9 +14,9 @@ Once airborne, each dragon head emits a blast of elemental energy appropriate to
 | d4 | Effect |
 |---|---|
 | 1 | **Red.** The target takes 1d6 fire damage and combustible materials on the target ignite, doing 1d4 fire damage each turn until it is put out. |
-| 2 | **White.** The target takes 1d6 cold damage and is restrained until the start of your next turn. |
-| 3 | **Blue.** The target takes 1d6 lightning damage and is paralyzed until the start of your next turn. |
-| 4 | **Black.** The target takes 1d6 acid damage and is poisoned until the start of your next turn. |
+| 2 | **White.** The target takes 1d6 cold damage and is [[Conditions#Restrained\|restrained]] until the start of your next turn. |
+| 3 | **Blue.** The target takes 1d6 lightning damage and is [[Conditions#Paralyzed\|paralyzed]] until the start of your next turn. |
+| 4 | **Black.** The target takes 1d6 acid damage and is [[Conditions#Poisoned\|poisoned]] until the start of your next turn. |
 
 After the attack, the spinner flies up to 60 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet.
 

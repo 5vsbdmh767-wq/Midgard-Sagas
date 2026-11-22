@@ -298,7 +298,7 @@ You imbue an item with defensive foresight. While holding it in one hand, you ca
 
 - **Darkvision.** You gain darkvision out to a range of 30 feet.
 
-- **Invisi-Vision.** You can see invisible creatures and items as if they were visible. You are also aware of any creatures within 30 feet of you or if any creatures come within 30 feet of you, regardless of lighting conditions.
+- **Invisi-Vision.** You can see [[Conditions#Invisible|invisible]] creatures and items as if they were visible. You are also aware of any creatures within 30 feet of you or if any creatures come within 30 feet of you, regardless of lighting conditions.
 
 - **Magic Vision.** You gain the benefits of the *[[1st-Circle Spells#Detect Magic|detect magic]]* spell within 30 feet of you.
 
@@ -506,7 +506,7 @@ You imbue an item with the ability to absorb a Small or smaller object, storing 
 
 *Item Requirement: Armor or Jewelry*
 
-You imbue an item with the ability to protect the wearer from dangerous environments. While wearing the item, the user can breathe normally in any environment, does not need to eat, and has advantage on saves to avoid exhaustion.
+You imbue an item with the ability to protect the wearer from dangerous environments. While wearing the item, the user can breathe normally in any environment, does not need to eat, and has advantage on saves to avoid [[Conditions#Exhaustion|exhaustion]].
 
 ***At Higher Levels.*** Once you reach 15th level in the mechanist class, the item grants immunity to exhaustion.
 
@@ -586,7 +586,7 @@ You imbue an item so that one of its effects (your choice) triggers after a set 
 
 You create a small clockwork device as a focus for your clockwork abilities. This device always keeps perfect time on the Material Plane. While holding your timepiece in one hand, you gain the following:
 
-- ***Spellcasting.*** The timepiece can be used as an arcane focus for the spells that you learn from this subclass. You learn the spells *pendulum* and *hold* and can cast them using your timepiece without expending spell slots. Once you cast a spell with your timepiece, you must finish a long rest before you can cast a spell with it again. INT is your spellcasting ability. Your INT modifier determines the save DC or the attack modifier for your timepiece spells:
+- ***Spellcasting.*** The timepiece can be used as an arcane focus for the spells that you learn from this subclass. You learn the spells *[[1st-Circle Spells#Pendulum|pendulum]]* and *[[2nd-Circle Spells#Hold|hold]]* and can cast them using your timepiece without expending spell slots. Once you cast a spell with your timepiece, you must finish a long rest before you can cast a spell with it again. INT is your spellcasting ability. Your INT modifier determines the save DC or the attack modifier for your timepiece spells:
 
 - **Spell save DC** = 8 + your PB + your INT modifier
 - **Spell attack modifier** = your PB + your INT modifier 
@@ -600,7 +600,7 @@ You add more intricate clockworks to your timepiece, improving and expanding its
 
 - ***Forewarned.*** While holding your timepiece in one hand, add your INT modifier to initiative rolls.
 
-- ***Spellcasting.*** Add *haste* and *slow* to the list of spells that you can cast with your timepiece without expending spell slots. You can now use your timepiece to cast any spell gained from this subclass two times until you finish a long rest.
+- ***Spellcasting.*** Add *[[3rd-Circle Spells#Haste|haste]]* and *[[3rd-Circle Spells#Slow|slow]]* to the list of spells that you can cast with your timepiece without expending spell slots. You can now use your timepiece to cast any spell gained from this subclass two times until you finish a long rest.
 
 - ***Extra Time.*** You expand your mastery over time. You can gain an additional bonus action on your turn. You must finish a short or long rest before you can use this feature again.
 
@@ -612,7 +612,7 @@ You freeze a moment of time inside a clockwork cog the size of a button. Creatin
 
 You can place the stasis trap where a creature might step on it or throw it as a ranged attack with a range of 30 feet. Seeing a hidden stasis trap requires a successful WIS (Perception) check with a DC equal to your spell save DC.
 
-When a creature steps on, touches, or is hit by a stasis trap, it must succeed on a CON save equal to your spell save DC or be paralyzed for 1 minute. At the end of each of the target’s turns, it can repeat the save, ending the effect on itself on a success. If the creature fails its CON save at the end of its turn, it suffers a secondary effect chosen by you when the stasis trap was created:
+When a creature steps on, touches, or is hit by a stasis trap, it must succeed on a CON save equal to your spell save DC or be [[Conditions#Paralyzed|paralyzed]] for 1 minute. At the end of each of the target’s turns, it can repeat the save, ending the effect on itself on a success. If the creature fails its CON save at the end of its turn, it suffers a secondary effect chosen by you when the stasis trap was created:
 
 - The target takes 1d6 + your INT modifier force damage.
 
@@ -628,7 +628,7 @@ You achieve mastery over your timepiece and expand its abilities even further. Y
 
 - ***Accelerated Attacks.*** Your attacks move faster and hit harder. Your melee and ranged weapon attacks deal an extra 2d6 force damage.
 
-- ***Spellcasting.*** Add *foresight* and *time stop* to your list of spells that you can cast using your timepiece.
+- ***Spellcasting.*** Add *foresight* and *[[9th-Circle Spells#Time Stop|time stop]]* to your list of spells that you can cast using your timepiece.
 
 - ***Saved Time.*** You fully master time between seconds.
 
@@ -693,7 +693,7 @@ You learn to upgrade your Auguring Device feature, which gains the following add
 
 - While holding the device, you can spend 10 minutes communing with the device to learn details about current or future events or to learn the direction to a specific creature or object. These effects work like the *[[Rituals 4th–6th Circle#Divination|divination]]* or *[[Rituals 1st–3rd Circle#Locate|locate]]* spells, except the device serves as the material component and isn’t consumed by the spell. When you reach 11th-level in the mechanist class, you can use the **At Higher Circles** aspect of the *[[Rituals 1st–3rd Circle#Locate|locate]]* spell when using this aspect of the auguring device. You can use this aspect of the device a number of times equal to your PB, but this doesn’t prevent you from risking no answer, as detailed in the *[[Rituals 4th–6th Circle#Divination|divination]]* spell. You regain all expended uses when you finish a long rest.
 
-- While holding the device, you can’t be surprised, for it clicks and whirs warnings of danger.
+- While holding the device, you can’t be [[Conditions#Surprised|surprised]], for it clicks and whirs warnings of danger.
 
 ### Improved Divining
 
@@ -855,7 +855,7 @@ You can modify grenades a number of times equal to your PB, and you regain all e
 
 ***Dispersal Grenade.*** When you hit a creature with a dispersal grenade, the target takes only half your typical arcane grenade damage, and each creature within 10 feet of the target must succeed on a DEX save or take the same amount of damage.
 
-***Flash Grenade.*** You don’t make an attack roll when you throw a flash grenade, and it doesn’t deal damage. Instead, you throw the grenade at a point you can see within 30 feet of you. Each creature within 10 feet of that point must succeed on a CON save or be blinded for 1 minute. A creature blinded by a flash grenade can repeat the save at the end of each of its turns, ending the effect on itself on a success.
+***Flash Grenade.*** You don’t make an attack roll when you throw a flash grenade, and it doesn’t deal damage. Instead, you throw the grenade at a point you can see within 30 feet of you. Each creature within 10 feet of that point must succeed on a CON save or be [[Conditions#Blinded|blinded]] for 1 minute. A creature blinded by a flash grenade can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 
 ***Kinetic Grenade.*** When you hit a Large or smaller creature with a kinetic grenade, the target takes the grenade’s standard damage and must succeed on a STR save or be pushed in a single direction of your choice up to a number of feet equal to 10 × your PB.
 
@@ -905,13 +905,13 @@ Your experiments with your Arcane Grenades feature lead you to more powerful mod
 
 - **Kinetic Grenade.** The pushing power of this grenade is enhanced and can now push Huge or smaller creatures. If the target fails the save, it takes an extra 1d6 force damage for every 10 feet it is pushed. If the target succeeds on the save, it is pushed only half the distance and doesn’t take the extra force damage.
 
-- **Smoke Grenade.** The smoke produced by this grenade becomes noxious. A creature that starts its turn in the smoke must succeed on a CON save or take poison damage equal to twice your PB and be poisoned until it starts its turn outside of the smoke.
+- **Smoke Grenade.** The smoke produced by this grenade becomes noxious. A creature that starts its turn in the smoke must succeed on a CON save or take poison damage equal to twice your PB and be [[Conditions#Poisoned|poisoned]] until it starts its turn outside of the smoke.
 
 In addition, you learn to create the following new modifications, which are available to you whenever you could modify a grenade.
 
 ***Elemental Grenade.*** An elemental grenade is filled with the energy of one element of your choice: acid, cold, fire, lightning, or thunder. You don’t make an attack roll when you throw an elemental grenade, and it doesn’t deal standard damage. Instead, you throw the grenade at a point you can see within 30 feet of you. Each creature within 15 feet of that point must make a DEX save. On a failure, a creature takes a number of d6s equal to your PB of damage of the type you chose and then becomes vulnerable to that damage type until the end of its next turn. On a success, a creature takes half the damage and isn’t vulnerable. If the creature is normally resistant to that damage type, it instead loses that resistance. A creature immune to that damage type remains immune to it.
 
-***Phrenic Grenade.*** You infuse the grenade with psychic energy that shrieks into the minds of those nearby. When you hit a creature with a phrenic grenade, the target takes psychic damage instead of force damage, and the target and each creature within 10 feet of the target must succeed on a WIS save or be frightened of you for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.
+***Phrenic Grenade.*** You infuse the grenade with psychic energy that shrieks into the minds of those nearby. When you hit a creature with a phrenic grenade, the target takes psychic damage instead of force damage, and the target and each creature within 10 feet of the target must succeed on a WIS save or be [[Conditions#Frightened|frightened]] of you for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 
 ### Superior Firepower
 
@@ -1167,7 +1167,7 @@ You learn a ritual that allows you to create a clockwork construct to fight alon
 >
 > ***Construct Nature.*** The clockwork companion doesn’t require air, food, drink, or sleep.
 >
-> ***Construct Resilience.*** The clockwork companion is immune to poison and psychic damage, and it is immune to exhaustion and the charmed, frightened, paralyzed, petrified, and poisoned conditions.
+> ***Construct Resilience.*** The clockwork companion is immune to poison and psychic damage, and it is immune to exhaustion and the [[Conditions#Charmed|charmed]], frightened, paralyzed, [[Conditions#Petrified|petrified]], and poisoned conditions.
 >
 > ***Immutable Form.*** The clockwork companion is immune to any spell or effect that would alter its form.
 >
@@ -1235,7 +1235,7 @@ You can now select any of the following clockwork companion modifications in add
 
 *15th-Level Tinker Feature*
 
-While your clockwork companion is conscious and within 30 feet of you, you can use a bonus action to utter a command word that sends your companion into a vicious overdrive state. The overdrive state lasts for 1 minute or until your companion is reduced to 0 HP. At the end of 1 minute, the companion becomes incapacitated until you spend 1 hour repairing it (can be done as part of a short or long rest). The companion can’t enter an overdrive state again until it finishes a long rest.
+While your clockwork companion is conscious and within 30 feet of you, you can use a bonus action to utter a command word that sends your companion into a vicious overdrive state. The overdrive state lasts for 1 minute or until your companion is reduced to 0 HP. At the end of 1 minute, the companion becomes [[Conditions#Incapacitated|incapacitated]] until you spend 1 hour repairing it (can be done as part of a short or long rest). The companion can’t enter an overdrive state again until it finishes a long rest.
 
 While in an overdrive state, the clockwork companion gains the following:
 
@@ -1274,7 +1274,7 @@ You gain the following unique effect for your Augment feature. This effect can�
 
 *or Held* You imbue an item with the ability to emit sound. As an action while touching the item, you can activate it. As part of this same action, you can throw the item to a point you can see within 30 feet of you. The item can be activated a number of times equal to your PB, and you regain all expended uses when you finish a long rest. The activated item can produce only one of its effects, which you choose when you activate it.
 
-***Disruptive Noise.*** The object emits a sudden, disruptive noise, such as a high-pitched beep, a long whistle, or similar sudden, startling sound. Each creature within 10 feet of the item must succeed on a WIS save or be deafened until the end of its next turn. Any target concentrating on a spell or similar effect must also make a CON save against your augment save DC or lose concentration.
+***Disruptive Noise.*** The object emits a sudden, disruptive noise, such as a high-pitched beep, a long whistle, or similar sudden, startling sound. Each creature within 10 feet of the item must succeed on a WIS save or be [[Conditions#Deafened|deafened]] until the end of its next turn. Any target concentrating on a spell or similar effect must also make a CON save against your augment save DC or lose concentration.
 
 ***Master’s Voice.*** For 1 minute, you can speak through the item and hear sounds near the item as if you were in its space. When you speak through the item in this way, you can’t use your speech to activate magic items with command words, cast spells with verbal components, or similar. If this augment is on a toy, the toy can activate it at any distance from you, provided you are both on the same plane of existence, and you instantly become mentally aware that it has been activated.
 

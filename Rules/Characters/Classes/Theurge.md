@@ -98,7 +98,7 @@ At 1st level, you know one cantrip of your choice from the Arcane spell list, on
 
 You learn how to craft a libram, which is a Tiny magical object that contains your spells. However, a theurge’s libram is more than just a mere spellbook, it is a physical manifestation of a theurge’s power and a mystic reservoir of the esoteric knowledge unlocked over the course of their magical studies.
 
-Creating a libram forges a bond between it and the theurge that transcends physical reality. The process stamps the theurge’s soul with a mystic symbol that forever tethers the libram to its creator. This symbol is typically invisible to those with normal sight, but it is visible upon the theurge’s skin when viewed with magical sight—or it might become visible when the theurge casts their spells. The exact appearance and placement of this mark is up to you, but traditionally, it appears as a golden third eye on the theurge’s brow.
+Creating a libram forges a bond between it and the theurge that transcends physical reality. The process stamps the theurge’s soul with a mystic symbol that forever tethers the libram to its creator. This symbol is typically [[Conditions#Invisible|invisible]] to those with normal sight, but it is visible upon the theurge’s skin when viewed with magical sight—or it might become visible when the theurge casts their spells. The exact appearance and placement of this mark is up to you, but traditionally, it appears as a golden third eye on the theurge’s brow.
 
 ***Libram’s Appearance.*** Your libram is a unique vessel for recording spells and other information. Most resemble books stamped with a theurge’s personal symbol, but they can also take the form of scrolls, inscribed tablets, or similar objects that can be easily held. The exact appearance of a libram is a reflection of the theurge who created it, so the details are ultimately up to you.
 
@@ -212,7 +212,7 @@ You can simultaneously maintain two spells that require concentration. One spell
 
 While concentrating on two spells in this way, you must make a CON save (DC 10 + the highest-circle spell cast) to maintain concentration on these spells at the start of each of your turns. If you fail this save, both spells immediately end.
 
-In addition, while concentrating on two spells, you have disadvantage on CON saves to maintain concentration whenever you take damage or suffer another effect that would potentially break concentration (this disadvantage doesn’t apply to the CON saves you make at the start of each of your turns). Anything that causes you to lose concentration, including being incapacitated or killed, causes you to lose both spells.
+In addition, while concentrating on two spells, you have disadvantage on CON saves to maintain concentration whenever you take damage or suffer another effect that would potentially break concentration (this disadvantage doesn’t apply to the CON saves you make at the start of each of your turns). Anything that causes you to lose concentration, including being [[Conditions#Incapacitated|incapacitated]] or killed, causes you to lose both spells.
 
 ### Heroic Boon
 
@@ -344,7 +344,7 @@ As a bonus action, you can inscribe your symbol upon a willing creature within 5
 
 While a creature marked with this symbol is within 120 feet of you, you can target it with spells that have a range of touch, regardless of the distance between you and the creature.
 
-As an action while the symbol is active, you can see through the target’s eyes, hear what it hears, and perceive what it perceives via any of its senses. You are blinded and deafened while using the target’s senses in this way. As an action, you can resume the use of your own senses or perceive through the senses of a different creature marked with your symbol.
+As an action while the symbol is active, you can see through the target’s eyes, hear what it hears, and perceive what it perceives via any of its senses. You are [[Conditions#Blinded|blinded]] and [[Conditions#Deafened|deafened]] while using the target’s senses in this way. As an action, you can resume the use of your own senses or perceive through the senses of a different creature marked with your symbol.
 
 At 3rd level, you can have one symbol active at a time, but the number of active symbols you can maintain increases as you gain levels in the theurge class, becoming two at 7th level, three at 11th level, and four at 15th level. If you already have the maximum number of symbols active, and you use this feature again, one active symbol effect immediately ends (your choice).
 

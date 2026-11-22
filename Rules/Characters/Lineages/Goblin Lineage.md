@@ -79,7 +79,7 @@ Your shadow goblin character has the following hereditary traits.
 
 ***Stink Eye.*** As an action, you can make a combination of rude gestures and sounds to distract one creature you can see within 30 feet. If the target can see and hear you, it must make a CHA save (DC 8 + your PB + your CHA modifier). On a failure, it has disadvantage on the next ability check, attack roll, or save it makes before the start of your next turn. You can use this trait a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
-***Unseelie Blessing.*** You have advantage on saves against being charmed, and magic can't put you to sleep.
+***Unseelie Blessing.*** You have advantage on saves against being [[Conditions#Charmed|charmed]], and magic can't put you to sleep.
 
 Suggested heritages: Umbral, Cosmopolitan, Joymonger.
 

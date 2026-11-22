@@ -149,7 +149,7 @@ Extracting magical essence from creatures precludes multiple characters working 
 | 25+ | Extract ounces of materia equal to the creature’s CR × 10. |
 
 > [!note] Constructs and Undead
-> Refining prima materia from creatures requires that the creature be dead before the extraction process begins. However, Undead are by definition not dead, and Constructs are usually animate, rather than strictly alive. Extracting prima materia from these sorts of creatures requires destroying or somehow rendering them incapacitated. (It also helps if they are unable to move.) This means that Constructs or Undead that are immune to the incapacitated condition must be reduced to 0 HP prior to extracting their magical essence.
+> Refining prima materia from creatures requires that the creature be dead before the extraction process begins. However, Undead are by definition not dead, and Constructs are usually animate, rather than strictly alive. Extracting prima materia from these sorts of creatures requires destroying or somehow rendering them [[Conditions#Incapacitated|incapacitated]]. (It also helps if they are unable to move.) This means that Constructs or Undead that are immune to the incapacitated condition must be reduced to 0 HP prior to extracting their magical essence.
 
 > [!note] Which Creatures Contain Prima Materia?
 > [!note] > Exactly what creature might contain prima materia, in all of the many worlds of fantasy, is ultimately a call for the GM. As a guideline, consider whether the description of a creature’s type mentions that it is native to another plane and whether the creature is described magical in nature. Here’s a non-exhaustive list of creatures and creature types that might well contain prima materia:

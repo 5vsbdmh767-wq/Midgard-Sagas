@@ -17,7 +17,7 @@ publish: true
 
 This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 200-foot cube. Then specify a kind of intelligent creature, such as red dragons, goblins, or vampires. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose antipathy or sympathy as the aura’s effect.
 
-**Antipathy.** The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a WIS save or become frightened. The creature remains frightened while it can see the target or is within 60 feet of it. While frightened by the target, the creature must use its movement to move to the nearest safe spot from which it can’t see the target. If the creature moves more than 60 feet from the target and can’t see it, the creature is no longer frightened, but the creature becomes frightened again if it regains sight of the target or moves within 60 feet of it.
+**Antipathy.** The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a WIS save or become [[Conditions#Frightened|frightened]]. The creature remains frightened while it can see the target or is within 60 feet of it. While frightened by the target, the creature must use its movement to move to the nearest safe spot from which it can’t see the target. If the creature moves more than 60 feet from the target and can’t see it, the creature is no longer frightened, but the creature becomes frightened again if it regains sight of the target or moves within 60 feet of it.
 
 **Sympathy.** The enchantment causes the specified creatures to feel an intense urge to approach the target while within 60 feet of it or able to see it. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a WIS save or use its movement on each of its turns to enter the area or move within reach of the target. When the creature has done so, it can’t willingly move away from the target.
 
@@ -81,7 +81,7 @@ The spell is permanent until either the creature dies or is targeted by a *[[3rd
 
 *You place yourself and several others into a deep sleep and transport your consciousnesses into the Astral Plane.*
 
-You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is unconscious and in a state of suspended animation; it doesn’t need food or air and doesn’t age.
+You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is [[Conditions#Unconscious|unconscious]] and in a state of suspended animation; it doesn’t need food or air and doesn’t age.
 
 Your astral body resembles your mortal form in almost every way, replicating your game statistics and possessions. The principal difference is the addition of a silvery cord that extends from between your shoulder blades and trails behind you, fading to invisibility after 1 foot. This cord is your tether to your material body. As long as the tether remains intact, you can find your way home. If the cord is cut—something that can happen only when an effect specifically states that it does—your soul and body are separated, killing you instantly.
 
@@ -236,7 +236,7 @@ You sign a contract using your own blood as ink. The magic of the ritual shapes 
 | 2 | Barbed Chains. Infernal chains erupt from your forearms, granting you a reach of 15 feet with your unarmed strikes. You can attempt to grapple a creature on a hit as a bonus action. |
 | 3 | Hellish Mien. Your face alters into one of the scales, horns, black eyes, and sharpened fangs. You are immune to fire damage. Any creature that starts its turn within 5 feet of you takes 3d6 fire damage. |
 | 4 | Infernal Command. Your head and hands glow red‑hot. You have advantage on WIS (Insight) and CHA (Intimidation) checks, and you can detect lies spoken to you. |
-| 5 | Vertical Eyeslits. Your pupils narrow into slits, becoming deceitful and cunning. You gain an advantage on CHA (Persuasion) checks and INT (Investigation) ability checks, and you can see invisible creatures and objects as though they were visible. |
+| 5 | Vertical Eyeslits. Your pupils narrow into slits, becoming deceitful and cunning. You gain an advantage on CHA (Persuasion) checks and INT (Investigation) ability checks, and you can see [[Conditions#Invisible\|invisible]] creatures and objects as though they were visible. |
 | 6 | Voice of Temptation. Your voice becomes a seductive whisper, capable of weaving intricate lies. You gain advantage on CHA (Deception) checks and the ability to cast the *[[2nd-Circle Spells#Suggestion\|suggestion]]* spell (spell save DC equal to your own) once during the duration. |
 
 ***At Higher Circles.*** When you cast this spell using a spell slot of 8th circle or higher, you gain an additional devilish form for each circle you have access to above 7th.
@@ -255,7 +255,7 @@ You sign a contract using your own blood as ink. The magic of the ritual shapes 
 
 *Your touch gives a creature the power to see into the future, increasing its reaction time and making it harder to hit.*
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can’t be surprised and has advantage on attack rolls, ability checks, and saves. In addition, other creatures have disadvantage on attack rolls against the target for the duration.
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can’t be [[Conditions#Surprised|surprised]] and has advantage on attack rolls, ability checks, and saves. In addition, other creatures have disadvantage on attack rolls against the target for the duration.
 
 This spell immediately ends if you cast it again before its duration ends.
 
@@ -407,7 +407,7 @@ When you cast the spell, you choose one of the following forms of imprisonment.
 
 **Burial.** The target is entombed far beneath the earth in a sphere of magical force that is just large enough to contain the target. Nothing can pass through the sphere, nor can any creature teleport or use planar travel to get into or out of it. The special component for this version of the spell is a small mithral orb.
 
-**Chaining.** Heavy chains, firmly rooted in the ground, hold the target in place. The target is restrained until the spell ends, and it can’t move or be moved by any means until then.
+**Chaining.** Heavy chains, firmly rooted in the ground, hold the target in place. The target is [[Conditions#Restrained|restrained]] until the spell ends, and it can’t move or be moved by any means until then.
 
 The special component for this version of the spell is a fine chain of precious metal.
 
@@ -499,11 +499,11 @@ Creatures with truesight can see through the illusion to the terrain’s true fo
 
 You call down the music of the very cosmos, which echoes out from you in a 60-foot radius for the duration. When you cast the spell, you designate one of the following effects. As a bonus action, you can change the effect. A creature who can’t hear is immune to this spell.
 
-***Cacophonia.*** One creature of your choice that starts its turn in the area must make a CON save. On a failure, the creature takes 4d8 psychic damage and is stunned until the start of its next turn. On a success, a creature takes half as much damage and isn’t stunned.
+***Cacophonia.*** One creature of your choice that starts its turn in the area must make a CON save. On a failure, the creature takes 4d8 psychic damage and is [[Conditions#Stunned|stunned]] until the start of its next turn. On a success, a creature takes half as much damage and isn’t stunned.
 
 ***Discordia.*** One creature of your choice that starts its turn in the area must make a WIS save. On a failure, the creature must use its action to target one of its allies with an attack or spell or it takes 4d4 psychic damage and can’t take any other actions that turn.
 
-***Harmonia.*** Each friendly creature of your choice in the area has advantage on attack rolls against a chosen target as long as at least one of the friendly creature’s allies is within 5 feet of the target and the ally isn’t incapacitated.
+***Harmonia.*** Each friendly creature of your choice in the area has advantage on attack rolls against a chosen target as long as at least one of the friendly creature’s allies is within 5 feet of the target and the ally isn’t [[Conditions#Incapacitated|incapacitated]].
 
 ***Melodia.*** Each friendly creature of your choice in the area gains 2d10 temporary hit points at the start of its turn.
 
@@ -577,7 +577,7 @@ Magic such as a *lesser *[[2nd-Circle Spells#Restoration|restoration]]** spell c
 
 | Stage |   | Symptoms |
 |---|---|---|
-|  | 1 2 3 4 5 6 | A constellation-like rash appears on the creature’s skin. The creature has a headache, and the rash spreads. The creature gains one level of exhaustion. The creature becomes disoriented and experiences memory issues. It has disadvantage on INT checks. The creature becomes clumsy and uncoordinated. It gains one level of exhaustion and has disadvantage on DEX checks. The creature’s extremities turn black and stiff. It gains one level of exhaustion. The creature dies. |
+|  | 1 2 3 4 5 6 | A constellation-like rash appears on the creature’s skin. The creature has a headache, and the rash spreads. The creature gains one level of [[Conditions#Exhaustion\|exhaustion]]. The creature becomes disoriented and experiences memory issues. It has disadvantage on INT checks. The creature becomes clumsy and uncoordinated. It gains one level of exhaustion and has disadvantage on DEX checks. The creature’s extremities turn black and stiff. It gains one level of exhaustion. The creature dies. |
 
 ## Porcine Indulgence
 
@@ -653,7 +653,7 @@ Casting this spell to restore life to a creature that has been dead for one year
 
 **Range:** Self (1-mile radius)
 
-**Components:** V, S, M (handful of grave dirt and a piece of petrified wood)
+**Components:** V, S, M (handful of grave dirt and a piece of [[Conditions#Petrified|petrified]] wood)
 
 **Duration:** 24 hours
 

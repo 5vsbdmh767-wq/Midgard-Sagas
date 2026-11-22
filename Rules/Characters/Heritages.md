@@ -190,7 +190,7 @@ Some aerobats claim they feel a constant breeze on their skin or that clouds fol
 
 The first aerobats came from communities of fearlessly curious goblins and smallfolk, but all lineages are numbered among the aerobats. Avian beastkin are heavily represented in the heritage.
 
-***Descender.*** You can cast the *feather fall* spell without requiring material components. Once you cast it, you must finish a long rest before you can cast it again. Your spellcasting ability for this spell is INT, WIS, or CHA (choose which during character creation).
+***Descender.*** You can cast the *[[1st-Circle Spells#Feather Fall|feather fall]]* spell without requiring material components. Once you cast it, you must finish a long rest before you can cast it again. Your spellcasting ability for this spell is INT, WIS, or CHA (choose which during character creation).
 
 ***Natural Pilot.***  You have proficiency with either navigator’s tools or vehicles (air).
 
@@ -222,9 +222,9 @@ As rugged as the terrain they inhabit, badlander heritage characters feel they c
 
 This heritage was originally cultivated by gnolls. As other humanoids moved into these regions, either in a concerted effort to settle the arid landscape, or just to get away from civilization, they looked to the gnolls for survival secrets. Now there are as many badlander heritage characters of other lineages as there are gnolls, a fact which makes some of the original badlanders howl. Depending on the temperament of a given badlander conclave, they are as likely to let newcomers to the badlands figure out how to survive on their own as they are to assist them.
 
-***Extreme Endurance.*** You are inured to the rigors of hard living. You have advantage on CON saves against exhaustion. When you finish a short or long rest, you can reduce your exhaustion level by one.
+***Extreme Endurance.*** You are inured to the rigors of hard living. You have advantage on CON saves against [[Conditions#Exhaustion|exhaustion]]. When you finish a short or long rest, you can reduce your exhaustion level by one.
 
-***Iron Guts.*** You can subsist on spoiled food and drink. You have advantage on saves against being poisoned.
+***Iron Guts.*** You can subsist on spoiled food and drink. You have advantage on saves against being [[Conditions#Poisoned|poisoned]].
 
 ***Scrub Survivors.*** You have proficiency with herbalist tools. If you have herbalist tools, you can make WIS (Herbalist Tools) checks in place of WIS (Medicine) checks. When you and your allies expend hit dice to regain hit points during a short rest, you can make a DC 12 WIS (Herbalist Tools) check during that rest. On a success, you and a number of creatures up to your PB that expended hit dice regain 1 additional hit point per hit die expended.
 
@@ -240,7 +240,7 @@ Most members of the Boatwrights follow the river god [[Charun]] (see **Chapter 6
 
 ***River Folk.*** You have a swimming speed equal to your walking speed, and you can hold your breath for up to 10 minutes.
 
-***Styx Born.*** You have proficiency with water vehicles. A lifetime aboard boats also gives you advantage on DEX checks and saves made to avoid being knocked prone.
+***Styx Born.*** You have proficiency with water vehicles. A lifetime aboard boats also gives you advantage on DEX checks and saves made to avoid being knocked [[Conditions#Prone|prone]].
 
 ***Languages.*** You know Common and one additional language of your choice. Typical Boatwright characters choose Infernal.
 
@@ -290,7 +290,7 @@ For those who come of age in such communities, safety is a priority. They learn 
 
 Cosmopolitan characters are citizens of the world whose values, interests, and ideas are influenced by exposure to many different peoples and cultures. Creatures of this heritage hail from major cities populated by people from many different parts of the world. Alternatively, it could mean you spent your formative years moving from place to place, immersing yourself in the customs and traditions of each community you lived with.
 
-***Street Smarts.*** While in a city or other urban environment, you have advantage on ability checks made to avoid getting lost and checks made to find a particular kind of business or other destination open to the public. In addition, while you are in such environments, you can’t be surprised unless you are asleep or otherwise incapacitated.
+***Street Smarts.*** While in a city or other urban environment, you have advantage on ability checks made to avoid getting lost and checks made to find a particular kind of business or other destination open to the public. In addition, while you are in such environments, you can’t be [[Conditions#Surprised|surprised]] unless you are asleep or otherwise [[Conditions#Incapacitated|incapacitated]].
 
 ***Worldly Wisdom.*** You have proficiency with the History skill. When you make a check related to understanding the purpose or significance of a building, rite, or object from a culture you aren’t familiar with, you can add your PB to the roll. If you have proficiency in a relevant skill or tool, double your PB for the roll.
 
@@ -399,7 +399,7 @@ Adventuring is an admirable trade within diaspora communities, allowing members 
 
 ***Preserved Traditions.*** You gain proficiency with the History skill. You also gain proficiency with one type of martial weapon of your choice (see **Weapons** in **Chapter 5**).
 
-***Timeless Resolve.*** When you or an allied creature within 5 feet of you makes a save against becoming frightened, you and the ally have advantage on the save.
+***Timeless Resolve.*** When you or an allied creature within 5 feet of you makes a save against becoming [[Conditions#Frightened|frightened]], you and the ally have advantage on the save.
 
 ***Languages.*** You know Common and one additional language of your choice. Many diaspora communities learn the languages most common to soldiers, mercenaries, and traders near the area in which they reside, most often Orcish or Dwarven.
 
@@ -449,7 +449,7 @@ No strangers to magic, feysworn people use it as a form of self-expression more 
 
 Feysworn community characters often choose to adventure because of their relationship to the fey. You might have rejected your community, adopting the dangerous itinerant lifestyle to escape your obligations. Alternatively, you might have been instructed to adventure by fey leadership, perhaps as an envoy-at-large for archfey beyond the reach of their home. In the end, wherever you are, the fair folk will come to you, and you are expected to honor your oath when they do.
 
-***Accustomed to Trickery.*** You know the *[[Cantrips#Prestidigitation|prestidigitation]]* cantrip. Choose whether you use INT, WIS, or CHA as your spellcasting modifier. You also have advantage on saves against being charmed. If you fail a save against being charmed, you can gain 2 Luck instead of 1.
+***Accustomed to Trickery.*** You know the *[[Cantrips#Prestidigitation|prestidigitation]]* cantrip. Choose whether you use INT, WIS, or CHA as your spellcasting modifier. You also have advantage on saves against being [[Conditions#Charmed|charmed]]. If you fail a save against being charmed, you can gain 2 Luck instead of 1.
 
 ***Enchanting Call.*** You have learned how to beguile others. You can use your action to target one creature by speaking a word of power. The creature must succeed on a CHA save (DC 10 + your PB) or be charmed by you until the end of your next turn. Alternatively, as part of the same action you can spend 2 Luck to attempt to impose the frightened condition (the Luck is only lost if the target is successfully frightened). Once you use this ability, you can’t use it again until you finish a short or long rest.
 
@@ -747,7 +747,7 @@ From a young age, mud runners are taught to survive in their mucky environment. 
 
 Some mud runner communities habitually ambush swamp travelers and present them as tribute to local dominant monsters such as black dragons. While these settlements have earned the distrust of their neighbors, they represent only a small percentage of mud runners as a whole.
 
-***Death Roll.*** Watching the reptiles of the swamp has taught you how to control your prey. When you have grappled a creature, you have advantage on unarmed strikes you make against it, and your target has disadvantage on attacks it makes against you. When you move a grappled creature of your size or smaller, your speed is not halved.
+***Death Roll.*** Watching the reptiles of the swamp has taught you how to control your prey. When you have [[Conditions#Grappled|grappled]] a creature, you have advantage on unarmed strikes you make against it, and your target has disadvantage on attacks it makes against you. When you move a grappled creature of your size or smaller, your speed is not halved.
 
 ***Predator.*** You have proficiency in either the Stealth or Survival skill.
 
@@ -1151,7 +1151,7 @@ Wastelander heritage characters have been raised to survive in hostile, magicall
 
 Wastelanders credit the goblin gods for adapting their bodies to the environment. They believe in themselves, but they also believe divine powers watch over them, protecting them from the worst rigors of the wastes. Characters of this heritage tend to know the stories of their gods and delight in telling the tales over a shared meal.
 
-All wastelander heritage characters are marked by the magic that suffuses the wastes, which mutates their bodies in some way. Many of the mutations they are blessed with are invisible to the eye. Craggy, rough-hewn features are common, however, and wastelanders often have lank or patchy hair.
+All wastelander heritage characters are marked by the magic that suffuses the wastes, which mutates their bodies in some way. Many of the mutations they are blessed with are [[Conditions#Invisible|invisible]] to the eye. Craggy, rough-hewn features are common, however, and wastelanders often have lank or patchy hair.
 
 ***Beneficial Mutation.*** Your life in a magical wasteland has caused your body to mutate. Choose a mutation from the **Wastelander Mutations** table or roll a d6 to randomly determine your mutation.
 

@@ -42,7 +42,7 @@ A vehicle’s movement is measured in feet and miles per hour. The speed in feet
 
 ### Vulnerabilities, Resistances, And Immunities
 
-Like creatures, vehicles can be vulnerable, resistant, and immune to certain damage types or conditions. Like most items, vehicles are immune to poison and psychic damage, and the following conditions: blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, and unconscious. Instead of writing all those immunities out in each stat block, a vehicle that fits this standard has **Vehicle Resilience** in the Immune line of its stat block.
+Like creatures, vehicles can be vulnerable, resistant, and immune to certain damage types or conditions. Like most items, vehicles are immune to poison and psychic damage, and the following conditions: [[Conditions#Blinded|blinded]], [[Conditions#Charmed|charmed]], [[Conditions#Deafened|deafened]], [[Conditions#Exhaustion|exhaustion]], [[Conditions#Frightened|frightened]], [[Conditions#Incapacitated|incapacitated]], [[Conditions#Paralyzed|paralyzed]], [[Conditions#Petrified|petrified]], [[Conditions#Poisoned|poisoned]], [[Conditions#Prone|prone]], [[Conditions#Stunned|stunned]], and [[Conditions#Unconscious|unconscious]]. Instead of writing all those immunities out in each stat block, a vehicle that fits this standard has **Vehicle Resilience** in the Immune line of its stat block.
 
 ### Initiative
 
@@ -154,7 +154,7 @@ Astral galleons are the magical counterpart to the merchant galleys of the high 
 > |---|---|---|---|---|---|
 > | +7 | −3 | +5 | — | — | — |
 >
-> ***Planar Vessel.*** The entirety of the astral galleon is surrounded by an invisible magical barrier. The crew can control the ambient pressure, temperature, gravity, moisture, and breathable air levels inside the barrier, allowing creatures and objects aboard the vessel to exist comfortably in spite of environmental conditions. Creatures in this barrier are also protected from ambient magical effects like shadow corruption and void taint.
+> ***Planar Vessel.*** The entirety of the astral galleon is surrounded by an [[Conditions#Invisible|invisible]] magical barrier. The crew can control the ambient pressure, temperature, gravity, moisture, and breathable air levels inside the barrier, allowing creatures and objects aboard the vessel to exist comfortably in spite of environmental conditions. Creatures in this barrier are also protected from ambient magical effects like shadow corruption and void taint.
 >
 > ***Energy Sails.*** The astral galleon’s speed is unaffected by wind conditions. When traveling in the Void, space, or similar environments, the galleon’s magical sails allow it to magically sail on solar winds as if they were water.
 >

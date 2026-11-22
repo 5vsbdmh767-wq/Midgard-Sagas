@@ -27,7 +27,7 @@ Your alseid character has the following hereditary traits.
 
 ***Heightened Senses.*** You have advantage on Perception checks that rely on sight or hearing. You can see through lightly obscured areas normally and areas of dim light as if it were bright light.
 
-***Hybrid Humanoid.*** Though your type is Humanoid, you have traits in common with Monstrosities. You have advantage on saves against effects that would cause you to become exhausted, and you have advantage on saves against being frightened.
+***Hybrid Humanoid.*** Though your type is Humanoid, you have traits in common with Monstrosities. You have advantage on saves against effects that would cause you to become exhausted, and you have advantage on saves against being [[Conditions#Frightened|frightened]].
 
 ***Light Hooves.*** You have advantage on DEX (Stealth) checks. In addition, your steps leave no tracks, unless you choose for them to do so.
 

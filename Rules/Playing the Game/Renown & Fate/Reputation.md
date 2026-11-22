@@ -66,7 +66,7 @@ Tell the GM what your character plans to do, and be descriptive and dramatic: th
 
 ***Challenge Types.*** As part of the narrative, you choose the challenge type: Low, Medium, High, or Epic. You must meet the threshold prerequisite for the type. If the GM rules your narrative sounds like a higher type than you qualify for, you may have to scale it back.
 
-- ***Low Challenge (DC 10).*** A heroic action or dramatic moment that affects the immediate situation or a small group of people. It might turn the tide of a small battle, impress a local lord, or rally a frightened village.
+- ***Low Challenge (DC 10).*** A heroic action or dramatic moment that affects the immediate situation or a small group of people. It might turn the tide of a small battle, impress a local lord, or rally a [[Conditions#Frightened|frightened]] village.
 - ***Medium Challenge (DC 12).*** A major feat that changes what a whole town, settlement, or faction does next. It can reshape relationships, affect regional politics, or change the course of a local conflict.
 - ***High Challenge (DC 14).*** A feat that reshapes the destiny of a region, kingdom, or major power, permanently shifting politics, military balance, or magical forces.
 - ***Epic Challenge (DC 16).*** Mythic events that echo across nations, planes, and generations, worthy of legend and saga, and that may change the course of the world.
@@ -101,7 +101,7 @@ If the offender doesn't publicly apologize within three days, a duel called a ho
 
 ***Holmganga Shields.*** These are thinner than battle shields and break when their wielder is hit by an attack dealing 15 or more damage. A critical hit always breaks one. Breaking a shield or throwing it down ends a "round" of fighting and allows a brief rest (no more than a minute) to catch one's breath. The fight ends only when one combatant flees or can't continue.
 
-***The Duel.*** By tradition a holmganga ends when one fighter is knocked unconscious. In game terms, when you reduce your foe to 0 hit points with a melee attack, you instead reduce them to 1 hit point and give them the unconscious condition. Deaths do happen in duels over serious matters, such as deciding a jarldom or ending a long feud. Killing an opponent in a holmganga isn't dishonorable unless the reason for the duel was minor.
+***The Duel.*** By tradition a holmganga ends when one fighter is knocked [[Conditions#Unconscious|unconscious]]. In game terms, when you reduce your foe to 0 hit points with a melee attack, you instead reduce them to 1 hit point and give them the unconscious condition. Deaths do happen in duels over serious matters, such as deciding a jarldom or ending a long feud. Killing an opponent in a holmganga isn't dishonorable unless the reason for the duel was minor.
 
 Honorable folk of every profession are expected to duel when necessary. If a duel is badly mismatched, a champion can fight in someone's place, or the defender can petition the local althing to declare it unfair. Anyone who fails to show up is branded a *nithingr* (coward) and an outlaw for a year or two.
 

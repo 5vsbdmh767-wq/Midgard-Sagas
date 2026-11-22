@@ -31,9 +31,9 @@ When the sword appears, you make two melee spell attacks with the blade, each on
 
 **Duration:** Concentration, up to 1 minute
 
-*A blinding light reveals invisible creatures, strips away illusions, and shows true forms.*
+*A blinding light reveals [[Conditions#Invisible|invisible]] creatures, strips away illusions, and shows true forms.*
 
-You release a blazing, blue-white light in a 40-foot radius around you. All hostile creatures in the area must make a DEX save. On a failure, a creature is blinded until the end of its next turn and is outlined in a colored light of your choice. It sheds dim light in a 10-foot radius for the duration, and attack rolls against an outlined creature that an attacker can see have advantage.
+You release a blazing, blue-white light in a 40-foot radius around you. All hostile creatures in the area must make a DEX save. On a failure, a creature is [[Conditions#Blinded|blinded]] until the end of its next turn and is outlined in a colored light of your choice. It sheds dim light in a 10-foot radius for the duration, and attack rolls against an outlined creature that an attacker can see have advantage.
 
 All illusion spells of 7th circle or lower in the radius are automatically dispelled. If a target is in a form other than its true form (such as a doppelganger, or a creature under the effects of the *[[4th-Circle Spells#Polymorph|polymorph]]* spell), make an ability check using your spellcasting ability. The DC equals 10 + the spell’s circle or the creature’s CR, if it is an innate ability. On a successful check, the target reverts to its normal form and can’t change shape again until the spell ends.
 
@@ -143,11 +143,11 @@ You can cast this spell again on the same target before the duration ends, exten
 
 You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a CHA save. On a failed save, a creature suffers an effect based on its current hit points:
 
-- 50 HP or fewer: deafened for 1 minute
+- 50 HP or fewer: [[Conditions#Deafened|deafened]] for 1 minute
 
 - 40 HP or fewer: deafened and blinded for 10 minutes
 
-- 30 HP or fewer: blinded, deafened, and stunned for 1 hour
+- 30 HP or fewer: blinded, deafened, and [[Conditions#Stunned|stunned]] for 1 hour
 
 - 20 HP or fewer: killed instantly Regardless of its current hit points, a Celestial, an Elemental, a Fey, or a Fiend that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to your current plane for 24 hours by any means short of a *[[9th-Circle Spells#Wish|wish]]* spell.
 
@@ -213,7 +213,7 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 *You create a gravity well around a creature, pulling others closer to it.*
 
-You form a mild gravity well around a Large or smaller creature you can see within range. Each creature within 20 feet of that target must succeed on a STR save or be pulled to within 10 feet of the target and be restrained.
+You form a mild gravity well around a Large or smaller creature you can see within range. Each creature within 20 feet of that target must succeed on a STR save or be pulled to within 10 feet of the target and be [[Conditions#Restrained|restrained]].
 
 For the duration, the area within 10 feet of the target is difficult terrain for all creatures except the target, and a creature that enters a space within 10 feet of the target for the first time on a turn or starts its turn there must succeed on a STR save or take 2d10 bludgeoning damage and be restrained.
 
@@ -301,13 +301,13 @@ This spell can’t be dispelled by *[[3rd-Circle Spells#Dispel Magic|dispel magi
 
 You stir the air to create four whirlwinds on the ground at points you can see within range. Each whirlwind is a 5-foot-radius, 30-foot-tall cylinder of swirling air centered on that point. The whirlwinds last for the duration of the spell.
 
-Each creature that enters a space occupied by a whirlwind for the first time on a turn (including when the whirlwinds first appear) or starts its turn in a space occupied by a whirlwind must make a STR save. On a failed save, a Large or smaller creature takes 4d10 bludgeoning damage and is thrown up to 60 feet in a random direction and knocked prone. On a failed save, a Huge or larger creature takes the bludgeoning damage and is not thrown but is restrained until the beginning of its next turn. On a successful save, creatures of any size take only half as much damage and are pushed out of the whirlwind into a random unoccupied space within 5 feet of the whirlwind.
+Each creature that enters a space occupied by a whirlwind for the first time on a turn (including when the whirlwinds first appear) or starts its turn in a space occupied by a whirlwind must make a STR save. On a failed save, a Large or smaller creature takes 4d10 bludgeoning damage and is thrown up to 60 feet in a random direction and knocked [[Conditions#Prone|prone]]. On a failed save, a Huge or larger creature takes the bludgeoning damage and is not thrown but is restrained until the beginning of its next turn. On a successful save, creatures of any size take only half as much damage and are pushed out of the whirlwind into a random unoccupied space within 5 feet of the whirlwind.
 
 If a thrown creature strikes a solid surface, it takes 1d6 bludgeoning damage for every 10 feet it is thrown. If the creature is thrown at another creature, the hit creature must succeed on a DEX save against your spell save DC or take the same damage as the thrown creature and be knocked prone. If a thrown creature is thrown into another whirlwind, it is then thrown from the new whirlwind up to 60 feet again in a random direction.
 
 At the start of each of your turns after the whirlwinds first appear, you can use your action to control them, moving each one up to 30 feet in a direction you choose. If you can’t use your action or choose not to use your action to control the whirlwinds, each whirlwind moves up to 30 feet in a random direction, potentially affecting you along with any other creatures it encounters. If multiple whirlwinds would end their turn in the same space or overlapping spaces, one whirlwind moves to the space, and the other moves to the nearest adjacent space not occupied by a whirlwind.
 
-You can use an action to end the spell early, which causes the whirlwinds to disappear. The spell also ends early if you are incapacitated or die.
+You can use an action to end the spell early, which causes the whirlwinds to disappear. The spell also ends early if you are [[Conditions#Incapacitated|incapacitated]] or die.
 
 ## Lurid Nightmares
 
@@ -369,7 +369,7 @@ Once you successfully cast this spell, it can’t be ended short of a *[[9th-Cir
 
 When you or an ally would drop to 0 HP, you can cast this spell as a reaction. A pearly, magical shell instantly springs up around the target. The shell has AC 19 and 50 HP, and is immune to acid, lightning, fire, psychic, and bludgeoning, slashing, and piercing damage. The target creature takes no damage until the shell is destroyed.
 
-While inside the shell, the creature is immune to falling damage and exhaustion and is protected from suffocation, environmental extremes, and harmful gasses with a supply of pure, breathable air. At the beginning of each of its turns while inside the shell, the target gains 1d8 + your spellcasting modifier hit points, until it is at half its maximum hit points. Then the spell ends.
+While inside the shell, the creature is immune to falling damage and [[Conditions#Exhaustion|exhaustion]] and is protected from suffocation, environmental extremes, and harmful gasses with a supply of pure, breathable air. At the beginning of each of its turns while inside the shell, the target gains 1d8 + your spellcasting modifier hit points, until it is at half its maximum hit points. Then the spell ends.
 
 Allies can pass through the shell, allowing them to cast spells on the target, offer potions, or otherwise provide aid. The target can take no actions while in the shell but can choose to end the spell effect on its turn. You can also end the spell on another creature as a bonus action.
 
@@ -389,7 +389,7 @@ Allies can pass through the shell, allowing them to cast spells on the target, o
 
 *You petrify a creature with eldritch chains.*
 
-You wrap chains of eldritch energy around a creature that you can see within range. The target must make a CON save. On a failure, the target takes 10d10 necrotic damage and suffers the first stage of becoming petrified. On a success, the target takes half the damage, and it suffers no further effects of this spell.
+You wrap chains of eldritch energy around a creature that you can see within range. The target must make a CON save. On a failure, the target takes 10d10 necrotic damage and suffers the first stage of becoming [[Conditions#Petrified|petrified]]. On a success, the target takes half the damage, and it suffers no further effects of this spell.
 
 For the duration, the target must repeat the save at the start of each of its turns. It has disadvantage on this save if it has taken necrotic damage from a source other than this spell since the start of its previous turn. The creature’s petrification stage increases by 1 on a failure or reduces by 1 on a success:
 
@@ -540,7 +540,7 @@ The leviathan is an ally to you and your allies. In combat, the creature shares 
 > **Hit Points** 70 + 10 for each spell slot circle above 7th
 > **Speed** 10 ft.; swim 50 ft.
 > **Perception** 12; **Stealth** 10
-> **Immune** charmed, exhaustion, frightened, poisoned
+> **Immune** [[Conditions#Charmed|charmed]], exhaustion, [[Conditions#Frightened|frightened]], [[Conditions#Poisoned|poisoned]]
 > **Senses** darkvision 60 ft., Passive Perception 12
 > **Languages** Understands the languages you know
 >

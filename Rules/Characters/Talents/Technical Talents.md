@@ -49,7 +49,7 @@ You have exceptional situational awareness. When you select this talent, you gai
 
 - When you roll for initiative, treat any d20 roll of 9 or lower as though you rolled a 10.
 
-- As long as you are conscious, you can’t be affected by the surprised condition.
+- As long as you are conscious, you can’t be affected by the [[Conditions#Surprised|surprised]] condition.
 
 - Hidden creatures don’t have advantage on attack rolls made against you.
 
@@ -221,7 +221,7 @@ You are conditioned to withstand bodily strain. You gain these benefits:
 
 - You gain proficiency in the Athletics skill if you don’t already have it.
 
-- You have advantage on saves made to prevent exhaustion.
+- You have advantage on saves made to prevent [[Conditions#Exhaustion|exhaustion]].
 
 - Once per day, you can recover from 1 level of exhaustion after a short rest. In addition, a long rest removes 2 levels of exhaustion (instead of 1).
 
@@ -271,7 +271,7 @@ You gain the following benefits.
 
 - You may either gain proficiency with an additional set of tools or gain advantage on ability checks with a single set of tools with which you are already proficient.
 
-- While in combat, you can use a bonus action to craft one piece of gear with a value of 5 gp or less provided you have the tools associated with that item, have proficiency with those tools, and are not incapacitated. The item lasts until the end of your next turn, or until you craft an additional item, at which point it falls apart.
+- While in combat, you can use a bonus action to craft one piece of gear with a value of 5 gp or less provided you have the tools associated with that item, have proficiency with those tools, and are not [[Conditions#Incapacitated|incapacitated]]. The item lasts until the end of your next turn, or until you craft an additional item, at which point it falls apart.
 
 - You can craft an item as detailed in the Crafter talent when you finish a short rest instead of a long rest. The item lasts until you use this option of the talent again, or you start a long rest, whichever comes first, at which point the item falls apart.
 
@@ -316,8 +316,8 @@ You are an accomplished jumper. You gain these benefits:
 Your time in forests has made you familiar with the ways and dangers of the forest and its inhabitants. You gain these benefits:
 
 - You have advantage on any ability check you make related to climbing or swimming.
-- You are resistant to the poisoned condition, and you can discern if a plant or fungal growth is safe to eat.
-- You have advantage on checks and saves to avoid being grappled or restrained or to escape being grappled or restrained, provided you are being grappled or restrained by nonmagical vegetation or a Beast or Monstrosity's feature, such as a giant frog's Bite or a spider's Web.
+- You are resistant to the [[Conditions#Poisoned|poisoned]] condition, and you can discern if a plant or fungal growth is safe to eat.
+- You have advantage on checks and saves to avoid being [[Conditions#Grappled|grappled]] or [[Conditions#Restrained|restrained]] or to escape being grappled or restrained, provided you are being grappled or restrained by nonmagical vegetation or a Beast or Monstrosity's feature, such as a giant frog's Bite or a spider's Web.
 
 ## Friend of the Fey
 
@@ -327,7 +327,7 @@ Your exposure to fey has taught you how to get by in their circles and the dange
 
 - You learn the Sylvan language.
 - When you converse with a Fey or a creature that understands Sylvan, you have advantage on a single CHA check made to influence or interact with that creature. Once you use this feature, you can't do so again until you finish a long rest.
-- When you make a save against being charmed or frightened, you can choose to have advantage on the save. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
+- When you make a save against being [[Conditions#Charmed|charmed]] or [[Conditions#Frightened|frightened]], you can choose to have advantage on the save. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
 ## Friend of the Forest
 
@@ -361,7 +361,7 @@ You have a knack for perceiving beyond the mere physical world, granting you the
 
 - As an action, you can see into the Ethereal Plane for 1 minute. You can use this feature a number of times equal to your PB, and you regain all expended uses when you finish a long rest.
 
-- During your turn (no action required), you can open your senses to detect the presence of invisible creatures and objects within 10 feet of you, though you do not know their precise location.
+- During your turn (no action required), you can open your senses to detect the presence of [[Conditions#Invisible|invisible]] creatures and objects within 10 feet of you, though you do not know their precise location.
 
 ## Hard Target
 

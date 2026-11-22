@@ -35,7 +35,7 @@ A clockwork extension replaces the existing part of the gearforged equipping it.
 
 ***Hidden Compartment.*** The storage compartment concealed in this extension can hide two objects of Tiny size or smaller. You can access the compartment with a Use an Object action. Anyone searching for a hidden compartment can find it with a successful DC 15 WIS (Perception) check.
 
-***Horned Helm.*** Modeled after the horns of a minotaur, this extension allow you to perform a gore action. After moving at least half your speed in a straight line toward a target, you can make a melee weapon attack using the horned helm as a natural weapon. On a hit, the target takes 2d6 piercing damage and must succeed on a STR save with a DC equal to 8 + your PB + your STR modifier or be knocked prone.
+***Horned Helm.*** Modeled after the horns of a minotaur, this extension allow you to perform a gore action. After moving at least half your speed in a straight line toward a target, you can make a melee weapon attack using the horned helm as a natural weapon. On a hit, the target takes 2d6 piercing damage and must succeed on a STR save with a DC equal to 8 + your PB + your STR modifier or be knocked [[Conditions#Prone|prone]].
 
 ***Leaper Legs.*** You have advantage on all STR (Athletics) checks made for running or jumping. While adjacent to a wall, you can take a bonus action to jump up to 15 feet from the wall and sail over enemies that are up to one size larger than you without provoking opportunity attacks.
 
@@ -54,7 +54,7 @@ A clockwork extension replaces the existing part of the gearforged equipping it.
 | 5 | A cable line snaps from pressure and whips around; anyone within 10 feet must succeed on a DC 12 DEX save or be knocked prone. |
 | 6 | Steam bursts from a side compartment, filling a 30-foot radius with thick smoke. The area is heavily obscured. |
 | 7 | Metal bolts holding whirling sawblades in place snap. The spinning blades shoot forward. Anyone caught in a 20-foot line in front of the blade takes 2d6 slashing damage. |
-| 8 | A popping sound is followed by a leak of oil. Treat a 10-foot square as though it is under the effects of the *grease* spell until cleaned. |
+| 8 | A popping sound is followed by a leak of oil. Treat a 10-foot square as though it is under the effects of the *[[1st-Circle Spells#Grease\|grease]]* spell until cleaned. |
 | 9 | Steam hisses from a vent, whistling at an ear-piercing pitch, causing disadvantage on all spell concentration checks. |
 | 10 | Sparks fly, igniting anything flammable nearby. The hair of any creature within 10 feet stands on end. |
 | 11 | Rusty gears grind to a halt. If the device has a movement speed, it is 0 until repaired. |
@@ -72,7 +72,7 @@ A clockwork extension replaces the existing part of the gearforged equipping it.
 
 - **Thieves’ Tools.** The fingers of this extension unfurl into a variety of delicate instruments. The hand on this arm now functions as thieves’ tools.
 
-- **Assassin Dagger.** A poisoned dagger appears from the palm of this hand. You can use it as a dagger that deals an additional 1d4 poison damage on a successful attack.
+- **Assassin Dagger.** A [[Conditions#Poisoned|poisoned]] dagger appears from the palm of this hand. You can use it as a dagger that deals an additional 1d4 poison damage on a successful attack.
 
 - **Snatch and Grab.** The hand of this extension is connected to a 60-foot retractable cable in the arm.
 

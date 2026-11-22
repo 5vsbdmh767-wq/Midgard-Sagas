@@ -22,7 +22,7 @@ Unless otherwise noted, the effects of *skintaker cloaks* stack with the effects
 | Hawk | 6,000 gp | +1 | You gain a flying speed of 40 ft. for up to 1 hour until you finish a long rest. |
 | Lizard | 5,000 gp | +2 | You can move on vertical surfaces while leaving your hands free, for up to 1 hour until you finish a long rest. |
 | Turtle | 5,000 gp | +1 | If you don’t move on your turn, you gain an additional +3 bonus to AC until the start of your next turn. |
-| Wolf | 6,000 gp | +3 | As a bonus action, you can growl at a creature you can see within 30 ft. The target must succeed on a DC 13 WIS save or be frightened until the end of its next turn. |
+| Wolf | 6,000 gp | +3 | As a bonus action, you can growl at a creature you can see within 30 ft. The target must succeed on a DC 13 WIS save or be [[Conditions#Frightened\|frightened]] until the end of its next turn. |
 | **Very Rare** |  |  |  |
 | Crane | 12,000 gp | +1 | You gain a flying speed of 40 ft. for up to 1 hour until you finish a long rest. In addition, you can make an unarmed strike as a bonus attack. This is a kick that deals 1d8 + your STR modifier. |
 | Ram | 12,000 gp | +1 | As a bonus action, you can unleash a terrifying scream that frightens creatures within 10 feet of you. Each creature in the area must succeed on a DC 13 WIS save or be frightened until the end of its next turn. |

@@ -29,15 +29,15 @@ While wearing light or no armor, you gain a +1 bonus to AC. Once per turn, you c
 
 *Prerequisite: 10th Level*
 
-Your reputation precedes you, driving fear into the heart of lesser enemies. Creatures and Units with a CR of 5 or lower that target you with an attack or harmful spell must first succeed on a DC 16 WIS save or lose the attack or spell. A creature that fails its save by 5 or more is frightened of you for 1 minute.
+Your reputation precedes you, driving fear into the heart of lesser enemies. Creatures and Units with a CR of 5 or lower that target you with an attack or harmful spell must first succeed on a DC 16 WIS save or lose the attack or spell. A creature that fails its save by 5 or more is [[Conditions#Frightened|frightened]] of you for 1 minute.
 
 ## Fell Rider
 
 *Prerequisite: Proficiency in Animal Handling*
 
-Atop your mount, you are unstoppable. While you are mounted and aren’t incapacitated, you gain the following benefits:
+Atop your mount, you are unstoppable. While you are mounted and aren’t [[Conditions#Incapacitated|incapacitated]], you gain the following benefits:
 
-- You can ride your mount through the space of any creature smaller than your mount. That creature must succeed on a DC 15 STR save or be knocked prone.
+- You can ride your mount through the space of any creature smaller than your mount. That creature must succeed on a DC 15 STR save or be knocked [[Conditions#Prone|prone]].
 
 - When you hit a creature with a weapon attack, each creature within 5 feet of the target takes damage equal to your STR modifier (minimum 1).
 

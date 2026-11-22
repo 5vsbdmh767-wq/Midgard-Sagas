@@ -25,7 +25,7 @@ Your gearforged character has the following traits.
 
 ***Constructed Vitality.*** You don’t need to eat, drink, or breathe, and you don’t sleep the way most creatures do. Instead, you enter a dormant state for 6 hours a day, where you resemble a statue and remain semiconscious. While in this state, you have disadvantage on WIS (Perception) checks. After resting in this way, you gain the same benefit that other creatures do from 8 hours of sleep.
 
-***Hybrid Humanoid.*** Your Humanoid soul inhabits a machine, making you primarily a Humanoid. However, your constructed body gives you traits in common with Constructs. You are immune to disease, and you are resistant to poison damage. In addition, you have advantage on saves against being paralyzed, petrified, or poisoned.
+***Hybrid Humanoid.*** Your Humanoid soul inhabits a machine, making you primarily a Humanoid. However, your constructed body gives you traits in common with Constructs. You are immune to disease, and you are resistant to poison damage. In addition, you have advantage on saves against being [[Conditions#Paralyzed|paralyzed]], [[Conditions#Petrified|petrified]], or [[Conditions#Poisoned|poisoned]].
 
 ***Machine Speech.*** You can speak and understand Machine Speech, a mechanical language of clicks, beeps, and clacks spoken primarily by gearforged and mechadrons.
 

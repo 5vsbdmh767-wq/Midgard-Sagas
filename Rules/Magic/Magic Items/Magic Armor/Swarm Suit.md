@@ -9,7 +9,7 @@ This armor has stitching all over it, giving the impression that it could fall t
 
 The armor has 3 charges and regains 1d3 expended charges daily at dawn. While wearing it, as an action, you can expend 1 charge to discorporate your body into hundreds of discrete chunks, becoming a swarm for 1 hour. As a swarm, you gain the following abilities:
 
-- You are immune to the [[Conditions#Grappled|grappled]], [[Conditions#Paralyzed|paralyzed]], [[Conditions#Petrified|petrified]], prone, [[Conditions#Restrained|restrained]], and [[Conditions#Stunned|stunned]] conditions.
+- You are immune to the [[Conditions#Grappled|grappled]], [[Conditions#Paralyzed|paralyzed]], [[Conditions#Petrified|petrified]], [[Conditions#Prone|prone]], [[Conditions#Restrained|restrained]], and [[Conditions#Stunned|stunned]] conditions.
 
 - You are resistant to bludgeoning, piercing, and slashing damage.
 

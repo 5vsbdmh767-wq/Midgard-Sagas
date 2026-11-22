@@ -13,7 +13,7 @@ A stone has AC 24 and 10 HP, and it is resistant to all damage. It is considered
 
 ***Agility (Very Rare, 30,000 gp).*** Your DEX score increases by 2, to a maximum of 20, while this deep red sphere orbits your head.
 
-***Awareness (Rare, 4,000 gp).*** You can’t be surprised while this dark blue rhomboid orbits your head.
+***Awareness (Rare, 4,000 gp).*** You can’t be [[Conditions#Surprised|surprised]] while this dark blue rhomboid orbits your head.
 
 ***Fortitude (Very Rare, 30,000 gp).*** Your CON score increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.
 

@@ -45,10 +45,10 @@ Dread can be short-term, long-term, or indefinite. Simple horrors typically impo
 | d10 | Effect on Target (Lasts 1d10 Minutes) |
 |---|---|
 | 1 | *Distracting Thirst.* Until you use one or more actions to consume at least 1 gallon of liquid (approximately two waterskins’ worth), you can’t make attacks or cast spells. |
-| 2 | *Drained.* You gain one level of exhaustion. At the end of your turn, if you are within 30 feet of the source of your dread, you must succeed on a CON save or gain an additional level of exhaustion (to a maximum of three total levels from this dread): the DC is 13, or GM’s discretion, based on effect severity for the situation. |
-| 3 | *Floored.* You immediately fall prone and can’t stand up, but you can crawl and take other actions as normal. |
+| 2 | *Drained.* You gain one level of [[Conditions#Exhaustion\|exhaustion]]. At the end of your turn, if you are within 30 feet of the source of your dread, you must succeed on a CON save or gain an additional level of exhaustion (to a maximum of three total levels from this dread): the DC is 13, or GM’s discretion, based on effect severity for the situation. |
+| 3 | *Floored.* You immediately fall [[Conditions#Prone\|prone]] and can’t stand up, but you can crawl and take other actions as normal. |
 | 4 | *Hallucinations.* You must use your action each turn to attack an imaginary enemy that’s always within 5 feet. |
-| 5 | *Overwhelmed Senses.* Beyond a 10-foot radius, you are effectively blinded and deafened. |
+| 5 | *Overwhelmed Senses.* Beyond a 10-foot radius, you are effectively [[Conditions#Blinded\|blinded]] and [[Conditions#Deafened\|deafened]]. |
 | 6 | *Seeing Red.* You must use your action each turn to make a spell/weapon attack against a hostile creature. In the absence of an eligible target, you spend each turn attacking nearby objects and structures. |
 | 7 | *Seizing Up.* You have disadvantage on STR and DEX checks. |
 | 8 | *Shaky Grip.* You drop any held items and are unable to pick anything up or effectively manipulate anything with your hands. |
@@ -62,10 +62,10 @@ Dread can be short-term, long-term, or indefinite. Simple horrors typically impo
 | 1 | *Aversion.* If a spellcaster, you lose the ability to cast one spell you know or have prepared (GM’s choice or random), and a prepared spell lost in this fashion can’t be replaced by another spell for the duration. If not a spellcaster, you lose proficiency with either your preferred weapon or the last weapon you wielded (GM’s choice). |
 | 2 | *Disconnected.* You are unable to attune to magic items and immediately lose any existing attunement. |
 | 3 | *Feeling Trapped.* You feel strangled by armor or heavy clothing and have disadvantage on all checks while wearing any form of armor (except shields). This disadvantage is also imposed by any spells or magic items modifying your AC, such as *[[1st-Circle Spells#Mage Armor\|mage armor]]* or a *ring of protection*. |
-| 4 | *Fixated.* You become obsessed with the source of your dread, either unwilling to move away from it or ceaselessly seeking it out. If the source is a creature, you are charmed by it (for the duration or until it damages you). If the source is an object, you spend your movement and actions attempting to possess it. |
+| 4 | *Fixated.* You become obsessed with the source of your dread, either unwilling to move away from it or ceaselessly seeking it out. If the source is a creature, you are [[Conditions#Charmed\|charmed]] by it (for the duration or until it damages you). If the source is an object, you spend your movement and actions attempting to possess it. |
 | 5 | *Lasting Scar.* Roll for a different long-term dread: you gain that dread plus one indefinite dread. (Roll on the **Indefinite Dread** table or choose something appropriate.) |
-| 6 | *Nervous Noise.* You hum, whistle, or otherwise make similar repetitive noises when under pressure, making you automatically fail any check made to hide, sneak, or otherwise escape notice. Creatures within 60 feet of you can’t be surprised. |
-| 7 | *On Edge.* You can’t be surprised while conscious and have disadvantage on any save made to avoid being frightened or gaining dread. |
+| 6 | *Nervous Noise.* You hum, whistle, or otherwise make similar repetitive noises when under pressure, making you automatically fail any check made to hide, sneak, or otherwise escape notice. Creatures within 60 feet of you can’t be [[Conditions#Surprised\|surprised]]. |
+| 7 | *On Edge.* You can’t be surprised while conscious and have disadvantage on any save made to avoid being [[Conditions#Frightened\|frightened]] or gaining dread. |
 | 8 | *Restless.* You are unable to spend hit dice or recover hit points via short or long rests. |
 | 9 | *Suggestible.* You have advantage on saves to avoid being frightened, and you have disadvantage on saves to avoid being charmed or gaining dread. |
 | 10 | *Unfocused.* You have disadvantage on any CON saves to maintain concentration. In addition, if a spell requiring your concentration is active at the end of your turn (including the turn you cast it), you must make a DC 10 CON save to maintain your concentration. If you also take damage that round, make just one save but use the higher DC. (Roll for a different long-term dread if not a spellcaster or choose something appropriate.) |

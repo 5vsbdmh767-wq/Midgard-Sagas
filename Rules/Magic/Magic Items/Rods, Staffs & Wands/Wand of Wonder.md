@@ -15,7 +15,7 @@ If the effect causes you to cast a spell from the wand, the spell’s save DC is
 |---|---|
 | 01–05 | You cast slow. |
 | 06–10 | You cast faerie fire. |
-| 11–15 | You are stunned until the start of your next turn, believing something awesome just happened. |
+| 11–15 | You are [[Conditions#Stunned\|stunned]] until the start of your next turn, believing something awesome just happened. |
 | 16–20 | You cast gust of wind. |
 | 21–25 | You cast detect thoughts on the target you chose. If you didn’t target a creature, you instead take 1d6 psychic damage. |
 | 26–30 | You cast stinking cloud. |
@@ -32,9 +32,9 @@ If the effect causes you to cast a spell from the wand, the spell’s save DC is
 | 80–84 | You cast invisibility on yourself. |
 | 85–87 | Leaves grow from the target. If you chose a point in space as the target, leaves sprout from the creature nearest to that point. Unless they are picked off, the leaves turn brown and fall off after 24 hours. |
 | 88–90 | A stream of 1d4 × 10 gems, each worth 1 gp, shoots from the wand’s tip in a line 30 feet long and 5 feet wide. Each gem deals 1 bludgeoning damage, and the total damage of the gems is divided equally among all creatures in the line. |
-| 91–95 | A burst of colorful shimmering light extends from you in a 30-foot radius. You and each creature in the area that can see must succeed on a DC 15 CON save or become blinded for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. |
+| 91–95 | A burst of colorful shimmering light extends from you in a 30-foot radius. You and each creature in the area that can see must succeed on a DC 15 CON save or become [[Conditions#Blinded\|blinded]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. |
 | 96–97 | The target’s skin turns blue for 1d10 days. If you chose a point in space, the creature nearest to that point is affected. |
-| 98–100 | If you targeted a creature, it must make a DC 15 CON save. If you didn’t target a creature, you become the target and must make the save. If the save fails by 5 or more, the target is instantly petrified. On any other failed save, the target is restrained and begins to turn to stone. While restrained in this way, the target must repeat the save at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the target is freed by the greater restoration spell or similar magic. |
+| 98–100 | If you targeted a creature, it must make a DC 15 CON save. If you didn’t target a creature, you become the target and must make the save. If the save fails by 5 or more, the target is instantly [[Conditions#Petrified\|petrified]]. On any other failed save, the target is [[Conditions#Restrained\|restrained]] and begins to turn to stone. While restrained in this way, the target must repeat the save at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the target is freed by the greater restoration spell or similar magic. |
 
 If an effect covers an area, you must center the spell on and include the target. If an effect has multiple possible subjects, the GM randomly determines which ones are affected.
 

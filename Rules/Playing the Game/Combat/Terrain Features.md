@@ -38,7 +38,7 @@ If it weren’t for the violent swings in temperature, the ever‑shifting topog
 
 ### Mirage
 
-*In the deep desert, anything that disrupts the endless sea of dunes can trick exhausted minds.* When a creature spends a short rest in a 10-foot-square patch of desert terrain that interrupts the endless dunes, they can set up the conditions for a mirage. A player must describe the mirage to the GM and what effect it has on a fooled viewer. Afterward, a creature within 50 feet of the mirage that sees it and does not realize its illusory nature must succeed on a DC 16 WIS save or be subject to the command of the creature that made it. It acts like the *command* spell, but the command must relate to the mirage. For instance, if the mirage is a pond of water, then the one‑word command can be “Drink!”
+*In the deep desert, anything that disrupts the endless sea of dunes can trick exhausted minds.* When a creature spends a short rest in a 10-foot-square patch of desert terrain that interrupts the endless dunes, they can set up the conditions for a mirage. A player must describe the mirage to the GM and what effect it has on a fooled viewer. Afterward, a creature within 50 feet of the mirage that sees it and does not realize its illusory nature must succeed on a DC 16 WIS save or be subject to the command of the creature that made it. It acts like the *[[1st-Circle Spells#Command|command]]* spell, but the command must relate to the mirage. For instance, if the mirage is a pond of water, then the one‑word command can be “Drink!”
 
 ### Cactus Patch
 
@@ -48,17 +48,17 @@ If it weren’t for the violent swings in temperature, the ever‑shifting topog
 
 *Stories tell of predatory creatures that shun all forms of light and live deep beneath the surface of the desert. They are drawn by the steady rhythm of creatures walking.* As a bonus action, a creature can make a DC 15 INT (Nature) or WIS (Survival) check. On a success, it can identify a hidden sand squid and intuit how to entice it to attack another target—by creating rhythmic sound on the ground near the target.
 
-The targeted creature must succeed on a DC 17 DEX save or be knocked prone and become grappled by one of the sand squid’s tentacles. As an action on its turn, a grappled creature can make a DC 17 STR (Athletics) or DEX (Acrobatics) check (target chooses) to escape. If it fails, it can repeat the save at the end of its turn. On a second failed save, the creature remains prone and becomes restrained. On a third failed save, the creature is dragged beneath the sands and begins suffocating.
+The targeted creature must succeed on a DC 17 DEX save or be knocked [[Conditions#Prone|prone]] and become [[Conditions#Grappled|grappled]] by one of the sand squid’s tentacles. As an action on its turn, a grappled creature can make a DC 17 STR (Athletics) or DEX (Acrobatics) check (target chooses) to escape. If it fails, it can repeat the save at the end of its turn. On a second failed save, the creature remains prone and becomes [[Conditions#Restrained|restrained]]. On a third failed save, the creature is dragged beneath the sands and begins suffocating.
 
 ### Bleached Skull of the Tyrant
 
-*The empty eye sockets of this massive skull hold your gaze, penetrating your soul with ancient animus.* This Large skull retains residual power from whatever came before. As a bonus action, a creature can make a DC 19 INT (Religion) or WIS (Insight) check to identify the nature of the skull. On a success, while adjacent to the skull, it can activate the skull’s gaze as an action. The gaze radiates in a 25-foot cone for 1 minute. Each creature in the cone must succeed on a DC 18 WIS save or be frightened until the end of its next turn. A creature that fails by 10 or more is stunned until the end of its next turn.
+*The empty eye sockets of this massive skull hold your gaze, penetrating your soul with ancient animus.* This Large skull retains residual power from whatever came before. As a bonus action, a creature can make a DC 19 INT (Religion) or WIS (Insight) check to identify the nature of the skull. On a success, while adjacent to the skull, it can activate the skull’s gaze as an action. The gaze radiates in a 25-foot cone for 1 minute. Each creature in the cone must succeed on a DC 18 WIS save or be [[Conditions#Frightened|frightened]] until the end of its next turn. A creature that fails by 10 or more is [[Conditions#Stunned|stunned]] until the end of its next turn.
 
 ### Acid Ponds
 
 *Yellow ponds of roiling sulfur dot the landscape. Any debris that falls in immediately bubbles and hisses.* A creature that falls (or gets shoved) into this sulfurous liquid must succeed on a DC 15 CON save for its nonmagical weapons and armor. Wooden weapons roll the save with disadvantage. On a failure, the weapons take a cumulative −1 to attack and damage rolls and armor takes a cumulative −1 to AC. Any piece of equipment that is reduced to −5 is destroyed. A creature that starts a round in the acid pond takes 2 (1d4) acid damage, and its weapons and armor must repeat the previous save.
 
-Spells that affect water (e.g. *shape water*, *destroy water*, *control water*) function on the acid ponds and puddles as they would on normal water except sulfurous water can’t be created or replicated using magic.
+Spells that affect water (e.g. *shape water*, *destroy water*, *[[4th-Circle Spells#Control Water|control water]]*) function on the acid ponds and puddles as they would on normal water except sulfurous water can’t be created or replicated using magic.
 
 ### Gas Pocket
 
@@ -81,7 +81,7 @@ In the shadows beneath the leafy canopy, the forest is an ever-changing vertical
 
 ### Whipping Thorn Branch
 
-*The tiny nettles and spiky needles on this supple branch are notorious for getting in the eyes of any creature foolish enough to carelessly rush through the bushes.* As an action, a character adjacent to this thorny tree can pull a branch so that it whips another creature that is also adjacent to the tree. The character whipping the branch makes a STR (Athletics), INT (Nature), or WIS (Survival) check (attacker’s choice) contested by the target creature’s DEX (Acrobatics) check. On a success, the target takes 2 (1d4) damage. In addition, the target is blinded and can move at only half speed until the end of its next turn.
+*The tiny nettles and spiky needles on this supple branch are notorious for getting in the eyes of any creature foolish enough to carelessly rush through the bushes.* As an action, a character adjacent to this thorny tree can pull a branch so that it whips another creature that is also adjacent to the tree. The character whipping the branch makes a STR (Athletics), INT (Nature), or WIS (Survival) check (attacker’s choice) contested by the target creature’s DEX (Acrobatics) check. On a success, the target takes 2 (1d4) damage. In addition, the target is [[Conditions#Blinded|blinded]] and can move at only half speed until the end of its next turn.
 
 ### Climbing Tree
 
@@ -110,7 +110,7 @@ Mountainous terrain threatens danger wherever you look—false footing, looming 
 ### Whistling Stones
 
 *A strange rock formation with horizontal holes creates a
- strangled sound. Perhaps adjusting them by removing built up debris or simply repositioning them could change the nature of the sounds created.* As an action, a creature can make a DC 15 INT (Nature) or a WIS (Survival) check to adjust the stones so that they whistle. If the creature is proficient in any musical instrument, they can roll the check with advantage. On a success, when the wind howls, the stones whistle and vibrate so loudly that all creatures within a 20-foot radius of the stones are deafened and can’t cast spells with verbal components.
+ strangled sound. Perhaps adjusting them by removing built up debris or simply repositioning them could change the nature of the sounds created.* As an action, a creature can make a DC 15 INT (Nature) or a WIS (Survival) check to adjust the stones so that they whistle. If the creature is proficient in any musical instrument, they can roll the check with advantage. On a success, when the wind howls, the stones whistle and vibrate so loudly that all creatures within a 20-foot radius of the stones are [[Conditions#Deafened|deafened]] and can’t cast spells with verbal components.
 
 Once the stones are whistling, a creature can make a successful DC 15 INT (Nature) or a WIS (Survival) check to stop them from making noise.
 
@@ -190,7 +190,7 @@ The deep cold of the tundra impedes thought. But pain means you can still feel y
 
 ### Subzero Gusts
 
-*A faint whistling of the wind going through the trees and across the rime-covered landscape always precedes the terrible icy blasts, capable of freezing the blood in one’s veins.* A 10-foot-wide line of subzero air howls across the tundra. Creatures that enter the path of the subzero gusts must succeed on a DC 15 CON save or lose 15 feet of speed, which is cumulative with other effects. If the creature is wet or has taken cold damage this turn, the save is made with disadvantage. If a creature’s speed is reduced to 0 and they fail a CON save against the wind, they receive one level of exhaustion. The creature’s speed returns to normal once it has completed a short rest in a warm place.
+*A faint whistling of the wind going through the trees and across the rime-covered landscape always precedes the terrible icy blasts, capable of freezing the blood in one’s veins.* A 10-foot-wide line of subzero air howls across the tundra. Creatures that enter the path of the subzero gusts must succeed on a DC 15 CON save or lose 15 feet of speed, which is cumulative with other effects. If the creature is wet or has taken cold damage this turn, the save is made with disadvantage. If a creature’s speed is reduced to 0 and they fail a CON save against the wind, they receive one level of [[Conditions#Exhaustion|exhaustion]]. The creature’s speed returns to normal once it has completed a short rest in a warm place.
 
 ### Ice Geyser
 
@@ -204,7 +204,7 @@ A creature can perturb the geyser (for example by throwing something into it) to
 
 ### Icicle Lens
 
-*Hanging sheets of preternaturally clear ice can focus light. Even the light of a torch could become dazzlingly bright if used in conjunction with one of these ice sheets.* As an action, a creature with a light source (such as a torch or a *light* spell) can attempt to angle the light and/or the ice sheet to blind another creature within 30 feet of it. The target must succeed on a DC 16 CON save or be blinded until the end of its next turn.
+*Hanging sheets of preternaturally clear ice can focus light. Even the light of a torch could become dazzlingly bright if used in conjunction with one of these ice sheets.* As an action, a creature with a light source (such as a torch or a *[[Cantrips#Light|light]]* spell) can attempt to angle the light and/or the ice sheet to blind another creature within 30 feet of it. The target must succeed on a DC 16 CON save or be blinded until the end of its next turn.
 
 ### Powder Snow Drift
 
@@ -212,7 +212,7 @@ A creature can perturb the geyser (for example by throwing something into it) to
 
 ### Frozen Tree
 
-*Cruel winter has allowed the snow and ice to permeate even the heartwood of this ancient tree. The ice has spread to every limb, branch, and leaf. Even a small cut could result in sharing the fate of this frozen sentinel of the forest.* As an action, a creature can strike the tree. The tree shatters in a 15-foot cone in the direction of the blow. A creature in the cone must make a successful DC 15 CON save or take 4 (1d8) cold damage and 4 (1d8) slashing damage and reduce their speed by half. A creature that fails the save must make another DC 15 CON save at the end of its turn. On a failure, its speed is reduced to 0 and it must make another save at the end of its next turn. On a success, its speed returns to normal. If the creature’s speed is 0 and it fails the subsequent CON save, it is petrified in ice.
+*Cruel winter has allowed the snow and ice to permeate even the heartwood of this ancient tree. The ice has spread to every limb, branch, and leaf. Even a small cut could result in sharing the fate of this frozen sentinel of the forest.* As an action, a creature can strike the tree. The tree shatters in a 15-foot cone in the direction of the blow. A creature in the cone must make a successful DC 15 CON save or take 4 (1d8) cold damage and 4 (1d8) slashing damage and reduce their speed by half. A creature that fails the save must make another DC 15 CON save at the end of its turn. On a failure, its speed is reduced to 0 and it must make another save at the end of its next turn. On a success, its speed returns to normal. If the creature’s speed is 0 and it fails the subsequent CON save, it is [[Conditions#Petrified|petrified]] in ice.
 
 ## Cavern
 
@@ -238,7 +238,7 @@ Creatures restrained by the web can use an action to make a DC 14 STR (Athletics
 
 ### Chimerical Fungus
 
-*A three-“headed” fungus blooms out of cracks in the stone. Wispy spore clusters roll off the fungus even from the languid air currents down here.* As a bonus action, a creature can smash a 5-foot patch of fungus to discharge its spores on a target within 5 feet, including itself. The triggering creature chooses one effect of the spores: *calm emotions* (as the 2nd-circle Divine spell) with a DC 16 CON save, *faerie fire* (as the 1st-circle Wyrd spell) with a DC 16 DEX save, or *hideous laughter* (as the 1st‑circle Arcane spell) with a DC 16 WIS save. Each of these effects lasts for 1 minute, or until the creature either makes the save at the end of its turn or uses an action to remove the spores.
+*A three-“headed” fungus blooms out of cracks in the stone. Wispy spore clusters roll off the fungus even from the languid air currents down here.* As a bonus action, a creature can smash a 5-foot patch of fungus to discharge its spores on a target within 5 feet, including itself. The triggering creature chooses one effect of the spores: *[[2nd-Circle Spells#Calm Emotions|calm emotions]]* (as the 2nd-circle Divine spell) with a DC 16 CON save, *[[1st-Circle Spells#Faerie Fire|faerie fire]]* (as the 1st-circle Wyrd spell) with a DC 16 DEX save, or *[[1st-Circle Spells#Hideous Laughter|hideous laughter]]* (as the 1st‑circle Arcane spell) with a DC 16 WIS save. Each of these effects lasts for 1 minute, or until the creature either makes the save at the end of its turn or uses an action to remove the spores.
 
 ### Confounding Tunnels
 

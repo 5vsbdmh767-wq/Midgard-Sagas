@@ -7,7 +7,7 @@ publish: true
 
 This golden pendant is inset with a small mirror on both its front and back. While you wear it, you are immune to the [[Conditions#Petrified|petrified]] condition.
 
-If you use your action to place the periapt around the neck of a creature that is petrified, it removes the petrified condition from the creature. If the periapt is instead placed around the neck of a creature in the process of becoming petrified, the creature automatically succeeds on any saves against the petrification effect. Once used, the item can’t be used again until the next dawn.
+If you use your action to place the periapt around the neck of a creature that is [[Conditions#Petrified|petrified]], it removes the petrified condition from the creature. If the periapt is instead placed around the neck of a creature in the process of becoming petrified, the creature automatically succeeds on any saves against the petrification effect. Once used, the item can’t be used again until the next dawn.
 
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

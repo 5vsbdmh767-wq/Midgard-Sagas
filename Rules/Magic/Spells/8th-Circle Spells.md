@@ -17,7 +17,7 @@ publish: true
 
 Your magic turns others into animals. Choose any number of willing creatures that you can see within range. You transform each target into the form of a Large or smaller Beast or creature with the Animal tag with a CR 4 or lower. On subsequent turns, you can use your action to transform affected creatures into new forms.
 
-The transformation lasts for the duration for each target or until the target drops to 0 HP or dies. You can choose a different form for each target. A target’s game statistics are replaced by the statistics of the chosen form, though the target retains its personality and INT, WIS, and CHA scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 HP, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to 0 HP, it isn’t knocked unconscious. The creature is limited in the actions it can perform by the nature of its new form, and it can’t speak or cast spells.
+The transformation lasts for the duration for each target or until the target drops to 0 HP or dies. You can choose a different form for each target. A target’s game statistics are replaced by the statistics of the chosen form, though the target retains its personality and INT, WIS, and CHA scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 HP, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to 0 HP, it isn’t knocked [[Conditions#Unconscious|unconscious]]. The creature is limited in the actions it can perform by the nature of its new form, and it can’t speak or cast spells.
 
 The target’s gear melds into the new form. The target can’t activate, wield, or otherwise benefit from any of its equipment.
 
@@ -35,7 +35,7 @@ The target’s gear melds into the new form. The target can’t activate, wield,
 
 *You weave a sphere around you that suppresses all magic.*
 
-A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can’t be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.
+A 10-foot-radius [[Conditions#Invisible|invisible]] sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can’t be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.
 
 Spells and other magical effects, except those created by an artifact or a deity, are suppressed in the sphere and can’t protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn’t function, but the time it spends suppressed counts against its duration.
 
@@ -151,7 +151,7 @@ Choose a Humanoid you can see within range. The target must succeed on a CON sav
 
 *You emit a horrible, deafening sound.*
 
-You open your mouth and emit a terrible shriek that is audible up to 1 mile away. Verbal communication is impossible in a 50-foot radius of you. Creatures are deafened while within the spell’s radius, and until the end of their next turn if they leave the area. Spells with verbal components can’t be cast within the area of effect. Creatures concentrating on spells are at disadvantage on concentration checks within the spell’s radius. Each creature that starts its turn in the area must succeed on a CON save or be permanently deafened.
+You open your mouth and emit a terrible shriek that is audible up to 1 mile away. Verbal communication is impossible in a 50-foot radius of you. Creatures are [[Conditions#Deafened|deafened]] while within the spell’s radius, and until the end of their next turn if they leave the area. Spells with verbal components can’t be cast within the area of effect. Creatures concentrating on spells are at disadvantage on concentration checks within the spell’s radius. Each creature that starts its turn in the area must succeed on a CON save or be permanently deafened.
 
 A creature with a body composed of crystal, glass, or stone must make a CON save if it enters or starts its turn in the radius. On a failure, it takes 5d10 thunder damage or half as much damage on a success. Structures and unattended objects of similar composition take 5d10 thunder damage at the start of your turn for the duration.
 
@@ -175,7 +175,7 @@ While you are concentrating on this spell, you can’t cast any other spell with
 
 You conjure a shadowy mass that moves in a direction you choose. The shadows occupy up to three 10-foot cubes within range. They have a speed of 20 feet and move each round at the end of your turn, ignoring difficult terrain. The shadowy mass can move up, down, and across vertical surfaces and upside down along ceilings.
 
-If the shadows move into a space occupied by a creature, the creature must make a CON save. On a failure, the creature takes 6d6 necrotic damage and is restrained. On a success, the creature takes half as much damage and isn’t restrained. Any creature that starts its turn in a shadowy mass must make a CON save, taking 6d6 necrotic damage on a failure or half as much damage on a success.
+If the shadows move into a space occupied by a creature, the creature must make a CON save. On a failure, the creature takes 6d6 necrotic damage and is [[Conditions#Restrained|restrained]]. On a success, the creature takes half as much damage and isn’t restrained. Any creature that starts its turn in a shadowy mass must make a CON save, taking 6d6 necrotic damage on a failure or half as much damage on a success.
 
 A restrained creature moves with the shadows on its turn and remains restrained as long as the darkness occupies even part of its space. During its turn, a creature can make a STR check against your spell save DC to free a restrained creature.
 
@@ -217,7 +217,7 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 
 *You use a pair of gigantic rocks to smite all in the path between them.*
 
-When you cast this spell, two Huge boulders (each 15 feet × 15 feet) appear in unoccupied spaces within range and up to 40 feet apart from each other. The boulders immediately crash together at the center point between them. Each creature in the boulders’ paths must make a DEX save. On a failure, the creature takes 10d12 bludgeoning damage and a Huge or smaller creature is stunned for 1 minute. On a success, the creature takes half as much damage and a Huge or smaller creature is stunned for 1 round. A stunned creature can make a CON save at the end of each of its turns, ending the effect on itself on a success. Objects and structures in the path take double damage from a boulder. If a boulder doesn’t destroy a structure with this damage, the boulder ends its movement.
+When you cast this spell, two Huge boulders (each 15 feet × 15 feet) appear in unoccupied spaces within range and up to 40 feet apart from each other. The boulders immediately crash together at the center point between them. Each creature in the boulders’ paths must make a DEX save. On a failure, the creature takes 10d12 bludgeoning damage and a Huge or smaller creature is [[Conditions#Stunned|stunned]] for 1 minute. On a success, the creature takes half as much damage and a Huge or smaller creature is stunned for 1 round. A stunned creature can make a CON save at the end of each of its turns, ending the effect on itself on a success. Objects and structures in the path take double damage from a boulder. If a boulder doesn’t destroy a structure with this damage, the boulder ends its movement.
 
 ***At Higher Circles.*** When you cast this spell using a 9th circle spell slot, the distance between the boulders increases to 60 feet and the boulders increase to Gargantuan size (each 20 feet × 20 feet). They deal 15d12 bludgeoning damage and can stun Gargantuan creatures.
 
@@ -239,7 +239,7 @@ You create a seismic disturbance at a point on the ground that you can see withi
 
 The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a CON save. On a failed save, the creature’s concentration is broken.
 
-When you cast this spell and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make a DEX save. On a failed save, the creature is knocked prone.
+When you cast this spell and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make a DEX save. On a failed save, the creature is knocked [[Conditions#Prone|prone]].
 
 This spell can have additional effects depending on the terrain in the area, as determined by the GM.
 
@@ -335,7 +335,7 @@ Muttering Void Speech, you force images of terror and the nullity of the Void in
 
 *You charm a creature, establishing a mental link and allowing you control of their actions.*
 
-You attempt to beguile any creature that you can see within range. This spell has no effect on creatures immune to the charmed condition. The target must succeed on a WIS save or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the save.
+You attempt to beguile any creature that you can see within range. This spell has no effect on creatures immune to the [[Conditions#Charmed|charmed]] condition. The target must succeed on a WIS save or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the save.
 
 While the creature is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as “attack that creature,” “run over there,” or “fetch that object.” If the creature completes the order and doesn’t receive further direction from you, it defends and preserves itself to the best of its ability.
 
@@ -361,7 +361,7 @@ Each time the target takes damage, it makes a new WIS save against the spell, en
 
 *You emit a holy aura that protects allies standing near you and blinds profane creatures that attack them.*
 
-Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saves, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a Fiend or an Undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a CON save or be blinded until the spell ends.
+Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saves, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a Fiend or an Undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a CON save or be [[Conditions#Blinded|blinded]] until the spell ends.
 
 ## Incendiary Cloud
 
@@ -499,7 +499,7 @@ This growth overtakes structures and objects, dealing 8d6 bludgeoning damage to 
 
 *Your enemies get a brief glimpse of the vast unknown, overwhelming their mortal minds.*
 
-You grant selected targets the momentary ability to see beyond the mortal realms into the vast chaos beyond, overwhelming their comprehension. All creatures you choose within 60 feet of you (except for Aberrations, Celestials, Elementals, Fiends, and creatures with the Outsider tag, which are unaffected by this spell) must make a WIS save. On a failure, a creature takes 8d10 psychic damage and is incapacitated for 1 minute. In addition, a creature is overwhelmed: it can’t understand what other creatures say, can’t read, speaks only in gibberish, and moves erratically. On a success, a creature takes half as much damage, isn’t incapacitated, and is not overwhelmed. An overwhelmed creature can make a WIS save at the end of its turn. On a success, it ends the effects on itself.
+You grant selected targets the momentary ability to see beyond the mortal realms into the vast chaos beyond, overwhelming their comprehension. All creatures you choose within 60 feet of you (except for Aberrations, Celestials, Elementals, Fiends, and creatures with the Outsider tag, which are unaffected by this spell) must make a WIS save. On a failure, a creature takes 8d10 psychic damage and is [[Conditions#Incapacitated|incapacitated]] for 1 minute. In addition, a creature is overwhelmed: it can’t understand what other creatures say, can’t read, speaks only in gibberish, and moves erratically. On a success, a creature takes half as much damage, isn’t incapacitated, and is not overwhelmed. An overwhelmed creature can make a WIS save at the end of its turn. On a success, it ends the effects on itself.
 
 ## Power Word Petrify
 
@@ -517,7 +517,7 @@ You grant selected targets the momentary ability to see beyond the mortal realms
 
 *You utter a word that turns a creature to stone.*
 
-You speak a word of power that can petrify one creature you can see within range instantly. If the target has 80 HP or fewer, it is petrified. Otherwise, the spell has no effect.
+You speak a word of power that can petrify one creature you can see within range instantly. If the target has 80 HP or fewer, it is [[Conditions#Petrified|petrified]]. Otherwise, the spell has no effect.
 
 ## Power Word Stun
 

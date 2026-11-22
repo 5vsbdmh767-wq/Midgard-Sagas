@@ -168,7 +168,7 @@ Drink as an action; lasts 1 hour. Roll 1d4 times on the random change table (rer
 **Alchemy [Apothecary] — Apprentice** | Time: 6 hrs | Value: 20 gp | DC: 10 WIS | Tools: Herbalism kit
 **Ingredients:** Water *(fluid)*, Medicinal — Fuzzplug *(unique)*
 **Properties:** Fluid
-Apply waxy brown ointment to ears at start of a long rest. After the rest, **creature is no longer deafened**. No effect on natural/birth deafness.
+Apply waxy brown ointment to ears at start of a long rest. After the rest, **creature is no longer [[Conditions#Deafened|deafened]]**. No effect on natural/birth deafness.
 
 ---
 
@@ -176,7 +176,7 @@ Apply waxy brown ointment to ears at start of a long rest. After the rest, **cre
 **Alchemy [Tincturer] — Apprentice** | Time: 100 hrs | Value: 300 gp | DC: 10 WIS | Tools: Alchemist's supplies
 **Ingredients:** Potion of Motion *(fluid)*, Stimulant
 **Properties:** Fluid
-Blue, fizzy elixir. Drink as action; lasts 1 minute. Creature can take the **Dash action as a bonus action** each turn. After wearing off: 1 level of exhaustion; movement cannot be magically enhanced until long rest.
+Blue, fizzy elixir. Drink as action; lasts 1 minute. Creature can take the **Dash action as a bonus action** each turn. After wearing off: 1 level of [[Conditions#Exhaustion|exhaustion]]; movement cannot be magically enhanced until long rest.
 
 ---
 
@@ -184,7 +184,7 @@ Blue, fizzy elixir. Drink as action; lasts 1 minute. Creature can take the **Das
 **Alchemy [Apothecary] — Apprentice** | Time: 6 hrs | Value: 20 gp | DC: 10 WIS | Tools: Herbalism kit
 **Ingredients:** Water *(fluid)*, Medicinal — Eyebright *(unique)*
 **Properties:** Fluid
-Sticky yellow ointment applied to eyes at start of long rest. After rest, **creature is no longer blinded**. No effect on natural/birth blindness.
+Sticky yellow ointment applied to eyes at start of long rest. After rest, **creature is no longer [[Conditions#Blinded|blinded]]**. No effect on natural/birth blindness.
 
 ---
 
@@ -321,7 +321,7 @@ Throw up to 20 ft. On hit, **3d4 cold damage** at start of target's turns. DC 15
 **Alchemy [Alkahest] — Expert** | Time: 15 hrs | Value: 150 gp | DC: 15 INT | Tools: Poisoner's kit
 **Ingredients:** Poison, Basic *(fluid, poisonous)*, Toxin *(poisonous)*
 **Properties:** Fluid, poisonous
-DC 10 CON save. Fail: **6 (1d12) poison damage** + poisoned for 24 hours. Success: half damage, not poisoned.
+DC 10 CON save. Fail: **6 (1d12) poison damage** + [[Conditions#Poisoned|poisoned]] for 24 hours. Success: half damage, not poisoned.
 
 ---
 
@@ -329,7 +329,7 @@ DC 10 CON save. Fail: **6 (1d12) poison damage** + poisoned for 24 hours. Succes
 **Alchemy [Alkahest] — Expert** | Time: 20 hrs | Value: 200 gp | DC: 25 INT | Tools: Poisoner's kit
 **Ingredients:** Water *(fluid)*, Toxin — Crawler Mucus *(poisonous, unique)*
 **Properties:** Fluid, poisonous
-Must be harvested from dead/incapacitated crawler. DC 13 CON save. Fail: **poisoned for 1 minute and paralyzed**. Repeatable at end of each turn.
+Must be harvested from dead/incapacitated crawler. DC 13 CON save. Fail: **poisoned for 1 minute and [[Conditions#Paralyzed|paralyzed]]**. Repeatable at end of each turn.
 
 ---
 
@@ -337,7 +337,7 @@ Must be harvested from dead/incapacitated crawler. DC 13 CON save. Fail: **poiso
 **Alchemy [Alkahest] — Expert** | Time: 20 hrs | Value: 200 gp | DC: 15 INT | Tools: Poisoner's kit
 **Ingredients:** Water *(fluid)*, Animal Essence
 **Properties:** Fluid, poisonous
-DC 13 CON save. Fail: **poisoned for 1 hour**. If fail by 5+: also **unconscious while poisoned** (wakes on damage or if shaken awake).
+DC 13 CON save. Fail: **poisoned for 1 hour**. If fail by 5+: also **[[Conditions#Unconscious|unconscious]] while poisoned** (wakes on damage or if shaken awake).
 
 ---
 
@@ -345,7 +345,7 @@ DC 13 CON save. Fail: **poisoned for 1 hour**. If fail by 5+: also **unconscious
 **Alchemy [Tincturer] — Expert** | Time: 18 hrs | Value: 175 gp | DC: 15 INT | Tools: Alchemist's supplies
 **Ingredients:** Sand *(fluid)*, Elemental Source, Hex of Arcana *(delicate)*
 **Properties:** None
-Throw dust into the air (action): you and each creature/object within 10 ft become **invisible for 2d4 minutes**. Invisibility ends if creature attacks or casts a spell.
+Throw dust into the air (action): you and each creature/object within 10 ft become **[[Conditions#Invisible|invisible]] for 2d4 minutes**. Invisibility ends if creature attacks or casts a spell.
 
 ---
 
@@ -361,7 +361,7 @@ Packet contains 1d6+4 pinches. Sprinkle a pinch over water (action): turns a **1
 **Alchemy [Alkahest] — Expert** | Time: 18 hrs | Value: 175 gp | DC: 15 INT | Tools: Alchemist's supplies
 **Ingredients:** Sand *(fluid)*, Toxin *(poisonous)*, Hex of Arcana *(delicate)*
 **Properties:** None
-Throw a handful into air (action): you and each breathing creature within 30 ft make DC 15 CON save or be **unable to breathe and sneezing uncontrollably (incapacitated + suffocating)**. Repeatable save at end of each turn. *Lesser restoration* also ends effect.
+Throw a handful into air (action): you and each breathing creature within 30 ft make DC 15 CON save or be **unable to breathe and sneezing uncontrollably ([[Conditions#Incapacitated|incapacitated]] + suffocating)**. Repeatable save at end of each turn. *Lesser restoration* also ends effect.
 
 ---
 
@@ -377,7 +377,7 @@ Remove stopper (action): pours cloud of thick smoke in a **60-ft radius (heavily
 **Alchemy [Tincturer] — Expert** | Time: 35 hrs | Value: 350 gp | DC: 15 INT | Tools: Alchemist's supplies
 **Ingredients:** Water *(fluid)*, Hex of Affliction *(delicate)*, Creature Essence — Cockatrice Spit *(unique)*
 **Properties:** Fluid
-Hurl blue gelatin at an ooze within 30 ft (ranged spell attack). On hit, DC 15 CON save or **ooze is petrified**. Repeatable at end of each turn. No effect on non-oozes.
+Hurl blue gelatin at an ooze within 30 ft (ranged spell attack). On hit, DC 15 CON save or **ooze is [[Conditions#Petrified|petrified]]**. Repeatable at end of each turn. No effect on non-oozes.
 
 ---
 
@@ -385,7 +385,7 @@ Hurl blue gelatin at an ooze within 30 ft (ranged spell attack). On hit, DC 15 C
 **Alchemy [Tincturer] — Expert** | Time: 18 hrs | Value: 175 gp | DC: 15 WIS | Tools: Alchemist's supplies
 **Ingredients:** Oil *(flammable, fluid)*, Hide
 **Properties:** Fluid
-Apply to Medium or smaller creature (10 min). Creature gains effect of **freedom of movement** for 8 hours. See 5e SRD.
+Apply to Medium or smaller creature (10 min). Creature gains effect of **[[4th-Circle Spells#Freedom of Movement|freedom of movement]]** for 8 hours. See 5e SRD.
 
 ---
 
@@ -393,7 +393,7 @@ Apply to Medium or smaller creature (10 min). Creature gains effect of **freedom
 **Alchemy [Tincturer] — Expert** | Time: 18 hrs | Value: 175 gp | DC: 15 WIS | Tools: Poisoner's kit
 **Ingredients:** Perfume *(fluid)*, Intoxicant *(stupefying)*
 **Properties:** Fluid
-Next creature seen within 10 minutes after drinking: drinker becomes **charmed by that creature for 1 hour**. If species/gender normally attracted to, regards as true love.
+Next creature seen within 10 minutes after drinking: drinker becomes **[[Conditions#Charmed|charmed]] by that creature for 1 hour**. If species/gender normally attracted to, regards as true love.
 
 ---
 
@@ -401,7 +401,7 @@ Next creature seen within 10 minutes after drinking: drinker becomes **charmed b
 **Alchemy [Tincturer] — Expert** | Time: 18 hrs | Value: 175 gp | DC: 15 WIS | Tools: Alchemist's supplies
 **Ingredients:** Alcohol *(flammable, fluid)*, Intoxicant *(stupefying)*
 **Properties:** Fluid
-Can cast **animal friendship** (save DC 13) at will for 1 hour after drinking.
+Can cast **[[1st-Circle Spells#Animal Friendship|animal friendship]]** (save DC 13) at will for 1 hour after drinking.
 
 ---
 
@@ -585,7 +585,7 @@ Silver liquid. Drink as action; lasts 1 hour. **Advantage on ability checks to p
 **Alchemy [Alkahest, Tincturer] — Expert** | Time: 18 hrs | Value: 175 gp | DC: 15 INT | Tools: Alchemist's supplies
 **Ingredients:** Water *(fluid)*, Intoxicant *(stupefying)*
 **Properties:** Fluid, poisonous
-DC 11 CON save. Fail: **poisoned for 1 hour**; poisoned creature **can't knowingly speak a lie** (as *zone of truth*).
+DC 11 CON save. Fail: **poisoned for 1 hour**; poisoned creature **can't knowingly speak a lie** (as *[[2nd-Circle Spells#Zone of Truth|zone of truth]]*).
 
 ---
 
@@ -610,7 +610,7 @@ DC 15 CON save. Fail: **poisoned for 8 hours + unconscious**. Wakes if damaged.
 **Alchemy [Alkahest] — Artisan** | Time: 12 hrs | Value: 250 gp | DC: 20 INT | Tools: Alchemist's supplies
 **Ingredients:** Alchemist's Fire *(volatile)*, Alcohol *(flammable, fluid)*
 **Properties:** Fluid, volatile
-Jet-black liquid. Throw up to 30 ft. 10-ft radius on impact: DC 15 DEX save. Fail: **21 (6d6) force damage + knocked prone**. Success: half, not prone.
+Jet-black liquid. Throw up to 30 ft. 10-ft radius on impact: DC 15 DEX save. Fail: **21 (6d6) force damage + knocked [[Conditions#Prone|prone]]**. Success: half, not prone.
 
 ---
 
@@ -626,7 +626,7 @@ Throw up to 30 ft. 10-ft radius on impact: DC 15 CON save. Fail: **15 (6d4) radi
 **Alchemy [Alkahest] — Artisan** | Time: 12 hrs | Value: 250 gp | DC: 20 INT | Tools: Alchemist's supplies
 **Ingredients:** Acid *(corrosive, fluid)*, Glue *(fluid)*
 **Properties:** Fluid, corrosive
-Viscous fluid. Throw up to 30 ft, creates **20-ft radius difficult terrain**. Each creature must DC 15 STR save or **grappled by the gloop**. Grappled: 5 (2d4) acid damage at start of turn. Repeatable STR save to escape each turn.
+Viscous fluid. Throw up to 30 ft, creates **20-ft radius difficult terrain**. Each creature must DC 15 STR save or **[[Conditions#Grappled|grappled]] by the gloop**. Grappled: 5 (2d4) acid damage at start of turn. Repeatable STR save to escape each turn.
 
 ---
 
@@ -650,7 +650,7 @@ Found in 1d4 pots with a brush. **Create three-dimensional objects by painting t
 **Alchemy [Tincturer] — Artisan** | Time: 250 hrs | Value: 5,500 gp | DC: 20 WIS | Tools: Alchemist's supplies
 **Ingredients:** Oil *(flammable, fluid)*, Elemental Source *(volatile)*
 **Properties:** Fluid
-Beads of cloudy gray oil. Apply to Medium or smaller creature (10 min). Creature gains **effect of *etherealness* for 1 hour**.
+Beads of cloudy gray oil. Apply to Medium or smaller creature (10 min). Creature gains **effect of *[[7th-Circle Spells#Etherealness|etherealness]]* for 1 hour**.
 
 ---
 
@@ -706,7 +706,7 @@ Transparent liquid with fire giant nail sliver. **STR score changes to 25 for 1 
 **Alchemy [Tincturer] — Artisan** | Time: 250 hrs | Value: 5,500 gp | DC: 20 WIS | Tools: Alchemist's supplies
 **Ingredients:** Alteration Ointment *(fluid)*, Elemental Source *(volatile)*
 **Properties:** Fluid
-Foggy container. Gain the **effect of *gaseous form* for 1 hour** (no concentration required). End as bonus action.
+Foggy container. Gain the **effect of *[[3rd-Circle Spells#Gaseous Form|gaseous form]]* for 1 hour** (no concentration required). End as bonus action.
 
 ---
 
@@ -730,7 +730,7 @@ Drink as action; lasts 1 minute. **Advantage on saves to resist blinded, charmed
 **Alchemy [Apothecary] — Artisan** | Time: 250 hrs | Value: 5,500 gp | DC: 20 WIS | Tools: Herbalism kit
 **Ingredients:** Water *(fluid)*, Bone
 **Properties:** Fluid
-Blue bubbling liquid. **10 temporary hit points for 1 hour** + under **effect of *bless*** (no concentration) for 1 hour.
+Blue bubbling liquid. **10 temporary hit points for 1 hour** + under **effect of *[[1st-Circle Spells#Bless|bless]]*** (no concentration) for 1 hour.
 
 ---
 
@@ -746,7 +746,7 @@ Dense purple liquid. Gain effect of **detect thoughts (save DC 13)**.
 **Alchemy [Apothecary, Tincturer] — Artisan** | Time: 250 hrs | Value: 5,500 gp | DC: 20 WIS | Tools: Herbalism kit
 **Ingredients:** Medicinal, Stimulant
 **Properties:** Fluid
-Silvery liquid. Drink as action; lasts 1 hour. **Immune to psychic damage, emotion-sensing, thought-reading, divination spells, and charmed condition**. Even foils *wish*.
+Silvery liquid. Drink as action; lasts 1 hour. **Immune to psychic damage, emotion-sensing, thought-reading, divination spells, and charmed condition**. Even foils *[[9th-Circle Spells#Wish|wish]]*.
 
 ---
 
@@ -803,7 +803,7 @@ DC 13 CON save. Fail: **10 (3d6) poison damage**; must repeat save at start of e
 **Alchemy [Tincturer] — Master** | Time: 500 hrs | Value: 17,500 gp | DC: 25 WIS | Tools: Alchemist's supplies, heat source
 **Ingredients:** Candle, Monster Essence — Alignment *(unique)*, Charm of Improvement *(delicate)*
 **Properties:** None
-Dedicated to a deity; shares that deity's alignment (detectable with *detect evil and good*). See 5e SRD.
+Dedicated to a deity; shares that deity's alignment (detectable with *[[1st-Circle Spells#Detect Evil and Good|detect evil and good]]*). See 5e SRD.
 *Note: Creating one dedicated to an evil deity is typically banned/restricted.*
 
 ---
@@ -820,7 +820,7 @@ DC 20 CON save. Fail: **gain a level of exhaustion**.
 **Alchemy [Alkahest] — Master** | Time: 15 hrs | Value: 500 gp | DC: 25 INT | Tools: Alchemist's supplies
 **Ingredients:** Oil *(flammable, fluid)*, Monster Essence — Medusa Eye *(unique)*
 **Properties:** Fluid
-Throw up to 20 ft (improvised weapon attack). On hit: DC 20 CON save. Fail by 5+: **instantly petrified**. Other fails: **restrained**; must repeat save at end of next turn (petrified on fail, effect ends on success). Lasts until *greater restoration* or similar.
+Throw up to 20 ft (improvised weapon attack). On hit: DC 20 CON save. Fail by 5+: **instantly petrified**. Other fails: **[[Conditions#Restrained|restrained]]**; must repeat save at end of next turn (petrified on fail, effect ends on success). Lasts until *[[5th-Circle Spells#Greater Restoration|greater restoration]]* or similar.
 
 ---
 
@@ -892,7 +892,7 @@ Bubbling golden liquid. Drink as action; lasts 1 minute. Whenever making an atta
 **Alchemy [Tincturer] — Master** | Time: 500 hrs | Value: 17,500 gp | DC: 25 WIS | Tools: Alchemist's supplies
 **Ingredients:** Potion of Motion *(fluid)*, Stimulant
 **Properties:** Fluid
-Yellow fluid streaked with black. Gain **effect of *haste* for 1 minute** (no concentration required).
+Yellow fluid streaked with black. Gain **effect of *[[3rd-Circle Spells#Haste|haste]]* for 1 minute** (no concentration required).
 
 ---
 
