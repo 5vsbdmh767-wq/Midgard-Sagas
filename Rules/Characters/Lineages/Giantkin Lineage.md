@@ -3,9 +3,9 @@ publish: true
 ---
 The skalds don't admit to knowing stories of the first giantkin, but few giantkin care about or dwell on their origin. Descended from giants and smaller lineages in equal measure, they know they must walk their own path in lands where some look upon their ancestry with disfavor. Actions alone will forge their legacy.
 
-[[Giantkin]] primarily inhabit communities on the fringes of giant-held territories like [[The Bleak Expanse]], [[Thursrike]], and [[Jotunheim]], or else in and around human or dwarf settlements such as Björnrike or [[Jomsborg]].
+[[Giantkin]] primarily inhabit communities on the fringes of giant-held territories like [[The Bleak Expanse]], [[Thursrike]], and [[Jotunheim]], or else in and around human or dwarf settlements such as [[Björnrike]] or [[Jomsborg]].
 
-True giants place giantkin at the bottom of their social structure, viewing them as only a slight step above the smaller lineages. Human and dwarven communities make use of giantkin's great strength and other advantages, but many distrust them and their obvious connection to giants. These conflicting attitudes ironically mean giantkin spread throughout the Northlands, even in frigid regions they would otherwise find distasteful, to find their place in the world.
+True giants place giantkin at the bottom of their social structure, viewing them as only a slight step above the smaller lineages. Human and dwarven communities make use of giantkin's great strength and other advantages, but many distrust them and their obvious connection to giants. These conflicting attitudes ironically mean giantkin spread throughout the [[Northlands]], even in frigid regions they would otherwise find distasteful, to find their place in the world.
 
 Today, giantkin are a true lineage, producing children of their own who take on traits from either parent.
 

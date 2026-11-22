@@ -29,7 +29,7 @@ Your elf character has the following hereditary traits.
 
 %% source: Northlands Worldbook %%
 
-Millennia ago, elves were created in the Vanir War between the gods. Most were driven out of their original Northland territories by the dwarves, forced to move south and join their kin before the Great Retreat. The elven communities remaining in the Northlands are generally isolationist, choosing to inhabit the farthest reaches of the Bleak Expanse or to hide themselves away from view with powerful magic. Ages of seclusion have subtly influenced the native elven populations of the North, granting them certain kinds of magic.
+Millennia ago, elves were created in the Vanir War between the gods. Most were driven out of their original Northland territories by the dwarves, forced to move south and join their kin before the Great Retreat. The elven communities remaining in the [[Northlands]] are generally isolationist, choosing to inhabit the farthest reaches of the [[The Bleak Expanse|Bleak Expanse]] or to hide themselves away from view with powerful magic. Ages of seclusion have subtly influenced the native elven populations of the North, granting them certain kinds of magic.
 
 ### Alfar (Hidden Elves)
 
@@ -164,7 +164,7 @@ Common heritages: [[Heritages#Seafarer Heritage|Seafarer]], [[Heritages#Watersid
 
 Star elves are a variant elf lineage. The star elves claim to be the first elves, the blessed descendants of the children of [[Solana]] and [[Sabateus]]. Their pride in their divine ancestors means they can seem aloof or even arrogant to others.
 
-Both Celestia and Sunhome have large star elf populations, often affiliated with the [[Concord of Stars]] faction. There are significant numbers living in the Summerlands, and star elves can also be found throughout the Labyrinth, particularly on worlds with lofty mountain peaks or wide-open spaces with a clear view of the sunrise and the night sky, allowing them to pay homage to their deities at dawn and at midnight.
+Both Celestia and Sunhome have large star elf populations, often affiliated with the [[Concord of Stars]] faction. There are significant numbers living in the Summerlands, and star elves can also be found throughout the [[The Labyrinth|Labyrinth]], particularly on worlds with lofty mountain peaks or wide-open spaces with a clear view of the sunrise and the night sky, allowing them to pay homage to their deities at dawn and at midnight.
 
 Star elves have pale, tanned, or brown skin with a golden sheen, and blonde or silver hair. Eyes are usually gold, green, or silver. They have the slender physique of other elves but have developed broad, rounded chests from living at high altitudes.
 

@@ -39,7 +39,7 @@ Your erina character has the following hereditary traits.
 
 %% source: Book of Ebon Tides (a 5th Edition book; converted for this wiki following Converting 5e Material) %%
 
-The shadow fey brought the erina to the Shadow Realm as servitors, and the hedgehog folk quickly adapted to its dark forests and underground warrens. Their love of exploring and their unrivaled burrowing have tunneled them into many strange places, including the mortal world. Most have settled around the plateau of the Queen's Wood and the Silver Hills, but bands of explorers, naturalists, and wilderness guides keep underground camps across the realm. The shadow fey are not pleased by their wanderlust, nor by their open habit of helping travelers in and out of the realm through their underground shadow roads, but for now find it easier to ignore. Spiritfarer erina, changed by generations in shadow, have an innate knack for speaking with the spirit world.
+The shadow fey brought the erina to the [[The Shadow Realm|Shadow Realm]] as servitors, and the hedgehog folk quickly adapted to its dark forests and underground warrens. Their love of exploring and their unrivaled burrowing have tunneled them into many strange places, including the mortal world. Most have settled around the plateau of the Queen's Wood and the Silver Hills, but bands of explorers, naturalists, and wilderness guides keep underground camps across the realm. The shadow fey are not pleased by their wanderlust, nor by their open habit of helping travelers in and out of the realm through their underground shadow roads, but for now find it easier to ignore. Spiritfarer erina, changed by generations in shadow, have an innate knack for speaking with the spirit world.
 
 ### Spiritfarer Erina Lineage Traits
 

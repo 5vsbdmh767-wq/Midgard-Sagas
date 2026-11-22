@@ -77,7 +77,7 @@ Multiple instances of resistance or vulnerability that affect the same damage ty
 
 ## Healing
 
-Unless it results in death, damage isn’t permanent. Rest can restore a creature’s hit points, and magical methods such as a *[[1st-Circle Spells#Cure Wounds|cure wounds]]* spell or a *[[Potions#Potion of Healing|potion of healing]]* can remove damage in an instant.
+Unless it results in death, damage isn’t permanent. Rest can restore a creature’s hit points, and magical methods such as a *[[1st-Circle Spells#Cure Wounds|cure wounds]]* spell or a *[[Potion of Healing|potion of healing]]* can remove damage in an instant.
 
 When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a druid heals a ranger for 8 HP. If the ranger has 14 current hit points and has a hit point maximum of 20, the ranger regains only 6 HP, not 8.
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-[[Werekin]] are the descendants of shapechangers, and they can assume the forms of both animals and humanoids. A werekin might have a bloodline bearing the blessing of an animal lord or possess a remnant of lycanthropy passed down through their blood. In the cold of the Northlands, perhaps due to the influence of [[Fenris]], most werekin tend to be lupine, but a werekin's animal ancestry can derive from other existing lycanthrope lineages, such as bears, boars, rats, and even arctic foxes.
+[[Werekin]] are the descendants of shapechangers, and they can assume the forms of both animals and humanoids. A werekin might have a bloodline bearing the blessing of an animal lord or possess a remnant of lycanthropy passed down through their blood. In the cold of the [[Northlands]], perhaps due to the influence of [[Fenris]], most werekin tend to be lupine, but a werekin's animal ancestry can derive from other existing lycanthrope lineages, such as bears, boars, rats, and even arctic foxes.
 
 While human-appearing in most respects, a werekin's features have aspects reflecting their bestial ancestry. This can include sharp teeth, pointed ears, larger eyes, hair or bristles on their limbs or face, and so forth. Though a werekin's ancestors possessed the ability to fully change their form, a werekin can instead assume a bestial aspect, channeling the predatory nature of a beast without altering their physical form. In many cases, this aspect shows itself by a change in posture and poise, though some werekin do show subtle signs of a physical change—a yellowing of the eyes, lengthening nails or canines, or sudden hair growth.
 

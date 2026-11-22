@@ -93,7 +93,7 @@ publish: true
 
 ### ✦ Apprentice — Apothecary
 
-**Recipe List:** Blessed Brew ✦ · Ear Tonic ✦ · Eyebright Essence ✦ · Healing Draught ✦ · Potion of Healing · Purifying Potion ✦
+**Recipe List:** Blessed Brew ✦ · Ear Tonic ✦ · Eyebright Essence ✦ · Healing Draught ✦ · [[Potion of Healing]] · Purifying Potion ✦
 
 > [!abstract] **Potion of Healing**
 > *Alchemy [Apothecary] — Apprentice* · **8 hours** · **50 gp**
@@ -155,7 +155,7 @@ publish: true
 
 ### ✦ Expert — Apothecary
 
-**Recipe List:** Potion of Barkskin ✦ · Potion of Healing (Greater) · Potion of Health ✦ · Potion of Poison ⊘ · Potion of Resistance · Potion of Water Breathing · Regenerative Ointment ✦ · Restorative Ointment ✦
+**Recipe List:** Potion of Barkskin ✦ · Potion of Healing (Greater) · Potion of Health ✦ · Potion of Poison ⊘ · [[Potion of Resistance]] · [[Potion of Water Breathing]] · Regenerative Ointment ✦ · [[Restorative Ointment]] ✦
 
 > [!abstract] **Potion of Healing, Greater**
 > *Alchemy [Apothecary] — Expert* · **20 hours** · **200 gp**
@@ -231,7 +231,7 @@ publish: true
 
 ### ✦ Artisan — Apothecary
 
-**Recipe List:** Potion of Clairvoyance · Potion of Healing (Superior) · Potion of Heroism · Potion of Mind Reading ⊘ · Potion of Peace ✦ · Potion of Replenishment ✦ · Potion of Stoneskin ✦ · Potion of Vigour ✦ · Regenerative Ointment (Greater) ✦
+**Recipe List:** [[Potion of Clairvoyance]] · Potion of Healing (Superior) · [[Potion of Heroism]] · [[Potion of Mind Reading]] ⊘ · Potion of Peace ✦ · Potion of Replenishment ✦ · Potion of Stoneskin ✦ · Potion of Vigour ✦ · Regenerative Ointment (Greater) ✦
 
 > [!abstract] **Potion of Healing, Superior**
 > *Alchemy [Apothecary] — Artisan* · **120 hours** · **2,000 gp**

@@ -1034,7 +1034,7 @@ Available base personnel types are listed here in alphabetical order. The PCs mi
 
 ***Chosen Source.*** When an arcanist is first hired, you must decide which magic source is the focus of their study: Arcane, Divine, Primordial, or Wyrd. This choice determines which spell list they have access to for crafting purposes.
 
-***Scroll Making.*** If allowed by the GM and assigned to a scriptorium (see **Facilities**), an arcanist can use the scroll making downtime activity (see *Game Master’s Guide*) to craft *spell scrolls* requested by the PCs. The spells an arcanist can make into scrolls are determined by their chosen source, and the highest circle of *[[Wondrous Items A–L#Spell Scroll|spell scroll]]* they can craft is listed in the **Arcanist Upgrade** table. Note that arcanists can craft scrolls from standard spells or ritual spells.
+***Scroll Making.*** If allowed by the GM and assigned to a scriptorium (see **Facilities**), an arcanist can use the scroll making downtime activity (see *Game Master’s Guide*) to craft *spell scrolls* requested by the PCs. The spells an arcanist can make into scrolls are determined by their chosen source, and the highest circle of *[[Spell Scroll|spell scroll]]* they can craft is listed in the **Arcanist Upgrade** table. Note that arcanists can craft scrolls from standard spells or ritual spells.
 
 ***Training.*** A retained arcanist counts as a willing instructor for PCs using the [[Between Adventures#Training|training]] downtime activity to gain proficiency in the Arcana skill or learn a magic talent.
 

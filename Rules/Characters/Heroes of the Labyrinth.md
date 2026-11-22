@@ -26,7 +26,7 @@ The Labyrinth is the great maze of roads and portals that links Midgard to the o
   - New warlock [[Warlock#Eldritch Invocations|eldritch invocations]]
 - **Spells and rituals:** in the [[Spells]] and [[Rituals]] lists with all the others
 - **Magic styles:** [[Magic Styles]], themed spell lists for clockwork, dream, illumination, portal, void, and ward magic
-- **Magic items:** in the [[Magic Items]] lists, plus three [[Fabled Magic Items#Bright Fey Weapons|bright fey weapons]]
+- **Magic items:** in the [[Magic Items]] lists, plus three [[Bright Fey Weapons|bright fey weapons]]
 - **Vehicles:** six vehicles on the [[Vehicles#The Labyrinth|Vehicles]] page
 
 Some of these options refer to void taint and dread, which your GM tracks.

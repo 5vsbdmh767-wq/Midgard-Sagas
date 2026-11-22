@@ -25,7 +25,7 @@ Your human character has the following hereditary traits.
 
 %% source: Book of Ebon Tides (a 5th Edition book; converted for this wiki following Converting 5e Material) %%
 
-The Shadow Realm twists those who live in it. Umbral humans are not simply humans corrupted by shadow but humans slowly changed by it over generations, until they are inured to it. Some descend from humans stolen to serve the shadow fey, others from humans who strayed onto a shadow road and never found their way home. Others still are the survivors of shadow fey experiments with shadow's effects on mortals, done to punish, to make better servants, or just for fun. Umbral humans take the names of the communities they grow up in, often a blend of mortal and shadow customs (Abradal, Analinda, Breck, Cloria, Dalid, Haggar, Helgamet, Korim, Linnet, Masoosh, Nuriam, Obrax, Soffy, Woldemar).
+[[The Shadow Realm]] twists those who live in it. Umbral humans are not simply humans corrupted by shadow but humans slowly changed by it over generations, until they are inured to it. Some descend from humans stolen to serve the shadow fey, others from humans who strayed onto a shadow road and never found their way home. Others still are the survivors of shadow fey experiments with shadow's effects on mortals, done to punish, to make better servants, or just for fun. Umbral humans take the names of the communities they grow up in, often a blend of mortal and shadow customs (Abradal, Analinda, Breck, Cloria, Dalid, Haggar, Helgamet, Korim, Linnet, Masoosh, Nuriam, Obrax, Soffy, Woldemar).
 
 ### Umbral Human Lineage Traits
 

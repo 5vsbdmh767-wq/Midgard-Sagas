@@ -22,7 +22,7 @@ Before setting this number, double-check if your item meets anything listed in t
 
 - Wishes.
 
-***Example:*** As an example, let’s walk through the pricing of the *[[Wondrous Items M–Z#Winged Boots|winged boots]]*. The boots are an uncommon magic item, but it enables flight, which is one of the pricing exceptions listed. So, we start the pricing process as if the *[[Wondrous Items M–Z#Winged Boots|winged boots]]* are a rare magic item (one step higher than uncommon), giving us a starting value of 2,000 gp.
+***Example:*** As an example, let’s walk through the pricing of the *[[Winged Boots|winged boots]]*. The boots are an uncommon magic item, but it enables flight, which is one of the pricing exceptions listed. So, we start the pricing process as if the *[[Winged Boots|winged boots]]* are a rare magic item (one step higher than uncommon), giving us a starting value of 2,000 gp.
 
 *Permanent Pricing by Rarity*
 
@@ -40,25 +40,25 @@ Before setting this number, double-check if your item meets anything listed in t
 
 Read your item’s description and decide whether its primary utility is during combat. Combat-based items might have other uses, but their primary function is to help you win fights or keep you from getting attacked. If the item is primarily combat-oriented, double the starting value. If the item is not, leave your value the same and move on to the next step. If you are unsure whether or not the item has clear utility in combat, lean on the side of yes.
 
-***Example:*** The *[[Wondrous Items M–Z#Winged Boots|winged boots]]* have obvious utility in combat, granting a flying speed that allows the user to travel around the field of battle. So, we double our starting value, bringing us to 4,000 gp.
+***Example:*** The *[[Winged Boots|winged boots]]* have obvious utility in combat, granting a flying speed that allows the user to travel around the field of battle. So, we double our starting value, bringing us to 4,000 gp.
 
 ## Step 3: Check Effect Duration
 
 Refer to your item’s description once again, taking note of the duration of the item’s effect. If the item grants you a magical benefit indefinitely as long as you possess it or grants you a benefit that lasts for longer than 1 minute once activated, double the value of the item. If an item’s effect is instantaneous or lasts exactly 1 minute or less, leave your value the same and move to the next step.
 
-***Example:*** The *[[Wondrous Items M–Z#Winged Boots|winged boots]]* grant a benefit that lasts longer than 1 minute, so we double our current value, bringing us to 8,000 gp.
+***Example:*** The *[[Winged Boots|winged boots]]* grant a benefit that lasts longer than 1 minute, so we double our current value, bringing us to 8,000 gp.
 
 ## Step 4: Confirm Number of Potential Targets
 
 Refer to your item’s description and take note of how many creatures can be affected by the item at any one time (also considering any spells it allows you to cast). If the item can simultaneously affect or conjure two or more creatures, double the item’s value. If the item can only affect one creature at a time, leave your value the same and move to the next step.
 
-***Example:*** The *[[Wondrous Items M–Z#Winged Boots|winged boots]]* can only be worn by one creature at a time, which means we leave our value at 8,000 gp.
+***Example:*** The *[[Winged Boots|winged boots]]* can only be worn by one creature at a time, which means we leave our value at 8,000 gp.
 
 ## Step 5: Consider Spell Circle
 
 If the magic item allows you to cast one or more spells, identify the highest-circle spell (at its base spell slot value). Multiply the spell slot circle of the highest-circle spell available by 10 and add that number to the item’s total value. Alternatively, if the item allows you to spend charges to produce one or more effects that are not specifically spells, increase the item’s value by 10 percent of its current value (through step 4). If your magic item can’t cast spells and doesn’t have charge-based effects, leave your value the same.
 
-***Example:*** The *[[Wondrous Items M–Z#Winged Boots|winged boots]]* don’t allow the user to cast any spells or utilize charges, so we don’t need to make any more adjustments. Their final base value is 8,000 gp.
+***Example:*** The *[[Winged Boots|winged boots]]* don’t allow the user to cast any spells or utilize charges, so we don’t need to make any more adjustments. Their final base value is 8,000 gp.
 
 ## Items by Rarity
 
@@ -68,18 +68,18 @@ If the magic item allows you to cast one or more spells, identify the highest-ci
 
 | Rarity | Magic Item | Rarity | Magic Item |
 |---|---|---|---|
-| Common | Worry Toy | Rare | Groundbound Ammunition (DC 15) |
-| Uncommon | Action Stirge | Rare | Potion of Courage |
-| Uncommon | Arrow of Accuracy | Rare | Potion of Locomotion |
-| Uncommon | Chalk of Warding | Rare | Potion of Puissance |
-| Uncommon | Dart of Silence | Rare | Potion of Readiness |
-| Uncommon | Groundbound Ammunition (DC 13) | Rare | Potion of Replication |
-| Uncommon | Key of Secure Lodging | Rare | Shattersphere (DC 15) |
-| Uncommon | Pillow of Somnolence | Very Rare | Cockatrice Egg |
-| Uncommon | Potion of Hardiness | Very Rare | Groundbound Ammunition (DC 17) |
-| Uncommon | Potion of Knowledge | Very Rare | Shattersphere (DC 17) |
-| Uncommon | Stunning Shrike | Legendary | Shattersphere (DC 19) |
-| Rare | Arrow of Multiplication |  |  |
+| Common | [[Worry Toy]] | Rare | [[Groundbound Ammunition]] (DC 15) |
+| Uncommon | [[Action Stirge]] | Rare | [[Potion of Courage]] |
+| Uncommon | [[Arrow of Accuracy]] | Rare | [[Potion of Locomotion]] |
+| Uncommon | [[Chalk of Warding]] | Rare | [[Potion of Puissance]] |
+| Uncommon | [[Dart of Silence]] | Rare | [[Potion of Readiness]] |
+| Uncommon | Groundbound Ammunition (DC 13) | Rare | [[Potion of Replication]] |
+| Uncommon | [[Key of Secure Lodging]] | Rare | Shattersphere (DC 15) |
+| Uncommon | [[Pillow of Somnolence]] | Very Rare | [[Cockatrice Egg]] |
+| Uncommon | [[Potion of Hardiness]] | Very Rare | Groundbound Ammunition (DC 17) |
+| Uncommon | [[Potion of Knowledge]] | Very Rare | Shattersphere (DC 17) |
+| Uncommon | [[Stunning Shrike]] | Legendary | Shattersphere (DC 19) |
+| Rare | [[Arrow of Multiplication]] |  |  |
 
 *Random Potions*
 
@@ -102,50 +102,50 @@ If the magic item allows you to cast one or more spells, identify the highest-ci
 
 | Rarity | Magic Item | Rarity | Magic Item |
 |---|---|---|---|
-| Common | Caterwauling Box | Rare | [[Minotaurs\|Minotaur]] Charm |
-| Uncommon | Adaptive Boots | Rare | Night Blade |
-| Uncommon | Amulet of Woodland Creatures | Rare | Periapt of Proof Against Petrification |
-| Uncommon | Bracers of Throwing | Rare | Reciprocating Armor |
-| Uncommon | Coin of Wandering Luck | Rare | Reverberating Hammer |
-| Uncommon | Countercharm Charm | Rare | Ring of Reduction |
-| Uncommon | Dashing Boots | Rare | Rod of Repulsion |
-| Uncommon | Key of Keys | Rare | Rod of Solutions |
-| Uncommon | Merfolk Belt | Rare | Safety Goblet |
-| Uncommon | Monkey Charm | Rare | Shovel of Treasure Finding |
-| Uncommon | Poisoner’s Sickle | Rare | Spyhole Rings |
-| Uncommon | Quick-Up Boots | Rare | Staff of the Righteous |
-| Uncommon | Reunion Charm | Rare | Staff of the Simian |
-| Uncommon | Sail of Smooth Travels | Rare | Swarm Suit |
-| Uncommon | Speaking Shards | Rare | Trowel of Shaping |
-| Uncommon | Thaumatrope of Illusion | Rare | Valendra’s Voluminous Sheath |
-| Uncommon | Vertiginous Helm | Rare | Veil of Charms and Frights |
-| Uncommon | Vial of Cloudstuff | Rare | Verdant Armor |
-| Rare | Amulet of Amity | Rare | Void Scythe |
-| Rare | Avian Staff | Rare | Wand of Creeping Vines |
-| Rare | Axe of Shredding (+1) | Rare | Weapon of Wealth |
-| Rare | Bloodlink Blade | Very Rare | Alkazinian’s Flask of Wonders |
-| Rare | Brick of Walling | Very Rare | Armor of Thorns |
-| Rare | Catskin Cloak | Very Rare | Axe of Shredding (+2) |
-| Rare | Cloak of Irrelevance | Very Rare | Bagpipes of Mesmerism |
-| Rare | Cloud Hookah | Very Rare | Bow of Arrow Splitting |
-| Rare | Conductor’s Wand | Very Rare | Caliginous Cowl |
-| Rare | Cymbals of Tumult | Very Rare | Draconic Staff |
-| Rare | Figurine of Wondrous Power, Aventurine Shark | Very Rare | Mirror of Appearance Stealing |
+| Common | [[Caterwauling Box]] | Rare | [[Minotaurs\|Minotaur]] Charm |
+| Uncommon | [[Adaptive Boots]] | Rare | [[Night Blade]] |
+| Uncommon | [[Amulet of Woodland Creatures]] | Rare | [[Periapt of Proof Against Petrification]] |
+| Uncommon | [[Bracers of Throwing]] | Rare | [[Reciprocating Armor]] |
+| Uncommon | [[Coin of Wandering Luck]] | Rare | [[Reverberating Hammer]] |
+| Uncommon | [[Countercharm Charm]] | Rare | [[Ring of Reduction]] |
+| Uncommon | [[Dashing Boots]] | Rare | [[Rod of Repulsion]] |
+| Uncommon | [[Key of Keys]] | Rare | [[Rod of Solutions]] |
+| Uncommon | [[Merfolk Belt]] | Rare | [[Safety Goblet]] |
+| Uncommon | [[Monkey Charm]] | Rare | [[Shovel of Treasure Finding]] |
+| Uncommon | [[Poisoner’s Sickle]] | Rare | [[Spyhole Rings]] |
+| Uncommon | [[Quick-Up Boots]] | Rare | [[Staff of the Righteous]] |
+| Uncommon | [[Reunion Charm]] | Rare | [[Staff of the Simian]] |
+| Uncommon | [[Sail of Smooth Travels]] | Rare | [[Swarm Suit]] |
+| Uncommon | [[Speaking Shards]] | Rare | [[Trowel of Shaping]] |
+| Uncommon | [[Thaumatrope of Illusion]] | Rare | [[Valendra’s Voluminous Sheath]] |
+| Uncommon | [[Vertiginous Helm]] | Rare | [[Veil of Charms and Frights]] |
+| Uncommon | [[Vial of Cloudstuff]] | Rare | [[Verdant Armor]] |
+| Rare | [[Amulet of Amity]] | Rare | [[Void Scythe]] |
+| Rare | [[Avian Staff]] | Rare | [[Wand of Creeping Vines]] |
+| Rare | [[Axe of Shredding]] (+1) | Rare | [[Weapon of Wealth]] |
+| Rare | [[Bloodlink Blade]] | Very Rare | [[Alkazinian’s Flask of Wonders]] |
+| Rare | [[Brick of Walling]] | Very Rare | [[Armor of Thorns]] |
+| Rare | [[Catskin Cloak]] | Very Rare | Axe of Shredding (+2) |
+| Rare | [[Cloak of Irrelevance]] | Very Rare | [[Bagpipes of Mesmerism]] |
+| Rare | [[Cloud Hookah]] | Very Rare | [[Bow of Arrow Splitting]] |
+| Rare | [[Conductor’s Wand]] | Very Rare | [[Caliginous Cowl]] |
+| Rare | [[Cymbals of Tumult]] | Very Rare | [[Draconic Staff]] |
+| Rare | [[Figurine of Wondrous Power]], Aventurine Shark | Very Rare | [[Mirror of Appearance Stealing]] |
 | Rare | Figurine of Wondrous Power, Citrine Snake | Very Rare | Mockingblade |
-| Rare | Figurine of Wondrous Power, Garnet Badger | Very Rare | Seafoam Trident |
-| Rare | Figurine of Wondrous Power, Malachite Baboon | Very Rare | Seismic Maul |
+| Rare | Figurine of Wondrous Power, Garnet Badger | Very Rare | [[Seafoam Trident]] |
+| Rare | Figurine of Wondrous Power, Malachite Baboon | Very Rare | [[Seismic Maul]] |
 | Rare | Figurine of Wondrous Power, Pink Tourmaline Pony | Legendary | Axe of Shredding (+3) |
-| Rare | Figurine of Wondrous Power, Rose Quartz Leopards | Legendary | Portable Caravan |
+| Rare | Figurine of Wondrous Power, Rose Quartz Leopards | Legendary | [[Portable Caravan]] |
 | Rare | Figurine of Wondrous Power, Tourmaline Axe Beak | Fabled | Arbiter |
-| Rare | Flicker Glaive | Fabled | Battlebrew Medallion |
-| Rare | Flourishing Blade | Fabled | Dragonblood Vial |
-| Rare | Gem of Image Storing | Fabled | Dreadnought Plate |
-| Rare | Giant-Headed Flail | Fabled | Helm of the Medusa |
-| Rare | Impaling Weapon | Fabled | Mayhem |
-| Rare | Insta-Pit | Fabled | Bracers of Holy Fury |
-| Rare | Jester Scepter | Fabled | Chrono Glass |
-| Rare | Lyre of Rumbling | Fabled | Elemental Ring Blade |
-| Rare | Meteoric Sling | Fabled | Staff of the Toad King |
+| Rare | [[Flicker Glaive]] | Fabled | [[Battlebrew Medallion]] |
+| Rare | [[Flourishing Blade]] | Fabled | [[Dragonblood Vial]] |
+| Rare | [[Gem of Image Storing]] | Fabled | [[Dreadnought Plate]] |
+| Rare | [[Giant-Headed Flail]] | Fabled | [[Helm of the Medusa]] |
+| Rare | [[Impaling Weapon]] | Fabled | Mayhem |
+| Rare | Insta-Pit | Fabled | [[Bracers of Holy Fury]] |
+| Rare | [[Jester Scepter]] | Fabled | [[Chrono Glass]] |
+| Rare | [[Lyre of Rumbling]] | Fabled | [[Elemental Ring Blade]] |
+| Rare | [[Meteoric Sling]] | Fabled | [[Staff of the Toad King]] |
 
 *Axe of Shredding Rarity*
 

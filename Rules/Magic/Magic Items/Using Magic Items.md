@@ -72,7 +72,7 @@ Without becoming attuned to an item that requires attunement, a creature gains o
 
 Attuning to an item requires a creature to spend one hour focused on only that item while being in physical contact with it. This process can occur as part of a short or long rest. If the process is interrupted, the attunement attempt fails. Otherwise, at the end of the hour, the creature gains an intuitive understanding of how to activate the magical properties of the item, including any necessary command words.
 
-An item can be attuned to only one creature at a time, and a creature can be attuned to no more than a number of items equal to its proficiency bonus (PB) at any one time. If a creature attempts to attune to an additional item, its attunement to one item of their choice immediately ends. In addition, a creature can’t attune to more than one of the same item. For example, a creature can’t attune to more than one *[[Rings#Ring of Protection|ring of protection]]* at a time.
+An item can be attuned to only one creature at a time, and a creature can be attuned to no more than a number of items equal to its proficiency bonus (PB) at any one time. If a creature attempts to attune to an additional item, its attunement to one item of their choice immediately ends. In addition, a creature can’t attune to more than one of the same item. For example, a creature can’t attune to more than one *[[Ring of Protection|ring of protection]]* at a time.
 
 A creature’s attunement to an item ends if the creature no longer satisfies the prerequisites for attunement, if the item has been more than 100 feet away for at least 24 hours, if the creature dies, or if another creature attunes to the item. A creature can also voluntarily end attunement to an item at any time as an action—unless the item is cursed.
 
@@ -86,7 +86,7 @@ Nearly anything can be a magic item, and some items are clearly magical just fro
 
 Casting the *[[Rituals 1st–3rd Circle#Identify|identify]]* spell is the quickest and easiest way to learn about an unidentified magic item’s nature and function. Alternatively, any PC can learn an item’s properties if they spend 1 hour focusing on the item while in direct contact with it—which can be done as part of a short or long rest. At the end of the hour, the PC learns all the item’s properties and how to use them.
 
-An adventurer can use some properties of a magic item without identifying it first. Using a magic item might reveal hints about the item’s nature. For example, a PC wearing *[[Wondrous Items A–L#Boots of Elvenkind|boots of elvenkind]]* is likely to notice their steps make no noise. This allows a PC to guess an item’s benefits even before it’s properly identified.
+An adventurer can use some properties of a magic item without identifying it first. Using a magic item might reveal hints about the item’s nature. For example, a PC wearing *[[Boots of Elvenkind|boots of elvenkind]]* is likely to notice their steps make no noise. This allows a PC to guess an item’s benefits even before it’s properly identified.
 
 ## Equipping Magic Items
 

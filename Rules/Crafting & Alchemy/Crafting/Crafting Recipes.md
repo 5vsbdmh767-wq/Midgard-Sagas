@@ -220,8 +220,8 @@ publish: true
 |---|---|---|---|---|---|---|
 | Backpack | Weaver's tools | 4 hrs | 2 gp | 15 | DEX | Cloth, String |
 | Barding (Template) | Weaver's tools | 4× base | 4× base | 15 | DEX | Cloth, Armor (any) |
-| Boots of Elvenkind | Weaver's tools | varies | varies | 15 | DEX | Boots, Animal Essence — Cat Paws *(unique)* |
-| Cloak of Elvenkind | Weaver's tools | varies | varies | 15 | DEX | Cloak, Animal Essence *(unique)* |
+| [[Boots of Elvenkind]] | Weaver's tools | varies | varies | 15 | DEX | Boots, Animal Essence — Cat Paws *(unique)* |
+| [[Cloak of Elvenkind]] | Weaver's tools | varies | varies | 15 | DEX | Cloak, Animal Essence *(unique)* |
 | Clothes, Traveler's | Leatherworker's/weaver's tools | 2 hrs | 2 gp | 15 | DEX | Cloth, Boots, Leather |
 | Padded Armor | Weaver's tools | 10 hrs | 5 gp | 15 | DEX | Cloth, Buckles |
 | Saddlebags | Weaver's tools | 4 hrs | 4 gp | 15 | DEX | Cloth, Buckles |
@@ -271,11 +271,11 @@ publish: true
 |---|---|---|---|---|---|---|
 | Ammunition +2 | Smith's tools, forge | varies | varies | 20 | varies | Metal - Iron *(unique)*, Ward of Accuracy *(delicate)* |
 | Armor +2 | Smith's tools, forge | varies | varies | 20 | STR | Metal - Iron *(unique)*, Ward of Protection *(delicate)* |
-| Belt of Dwarvenkind | Smith's tools, forge | varies | varies | 20 | STR | Buckles *(unique)*, Rune *(unique)* |
+| [[Belt of Dwarvenkind]] | Smith's tools, forge | varies | varies | 20 | STR | Buckles *(unique)*, Rune *(unique)* |
 | Breastplate | Smith's tools, forge | 10 hrs | 400 gp | 20 | STR | Metal - Iron *(unique)*, Leather |
 | Chain Mail | Smith's tools, forge | 20 hrs | 75 gp | 20 | STR | Metal - Iron *(unique)*, Leather, Buckles |
-| Dragon Scale Mail | Leatherworker's tools | 800 hrs | 35,000 gp | 20 | DEX | Monster Essence — Dragon Scales *(unique)*, Leather, Buckles |
-| Dwarven Plate | Smith's tools, forge | 800 hrs | 35,000 gp | 20 | STR | Metal - Iron *(unique)*, Ward of Protection, Buckles |
+| [[Dragon Scale Mail]] | Leatherworker's tools | 800 hrs | 35,000 gp | 20 | DEX | Monster Essence — Dragon Scales *(unique)*, Leather, Buckles |
+| [[Dwarven Plate]] | Smith's tools, forge | 800 hrs | 35,000 gp | 20 | STR | Metal - Iron *(unique)*, Ward of Protection, Buckles |
 | Glaive | Smith's tools, forge | 1 hr | 20 gp | 20 | STR | Blade *(sharp)*, Shaft |
 | Greataxe | Smith's tools, forge | 1 hr | 30 gp | 20 | STR | Axehead, Shaft, Spikes |
 | Greatsword | Smith's tools, forge | 1 hr | 50 gp | 20 | DEX | Blade *(sharp)*, Leather |

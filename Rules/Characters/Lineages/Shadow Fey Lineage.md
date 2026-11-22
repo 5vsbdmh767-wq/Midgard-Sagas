@@ -1,11 +1,11 @@
 ---
 publish: true
 ---
-Shadow fey stalk the Shadow Realm and encroach on the mortal world where the barriers between the planes are thin. While they resemble elves physically, shadow fey have horns that range from subtle nubs to large protrusions. They are physically beautiful, but their mentalities combine temperaments common to both elves and goblins, shifting between benign and cruel with little notice.
+Shadow fey stalk the [[The Shadow Realm|Shadow Realm]] and encroach on the mortal world where the barriers between the planes are thin. While they resemble elves physically, shadow fey have horns that range from subtle nubs to large protrusions. They are physically beautiful, but their mentalities combine temperaments common to both elves and goblins, shifting between benign and cruel with little notice.
 
 Despite their fickle whims and darker proclivities, the shadow fey are not inherently good or evil. Instead, much like their fey cousins, they are content pursuing their own desires for seemingly alien reasons. While they never make their goals known, they are endlessly patient, preferring slow and subtle plans that overtake their enemies without anyone noticing.
 
-Shadow fey in the mortal world of Midgard often hail from places that mingle with the borders of the Shadow Realm, such as [[Castle Shadowcrag]] or the Margreve. Courts from the Shadow Realm sometimes send delegations to the material plane. The most notable of these is the Winter’s Kiss Embassy in Zobeck.
+Shadow fey in the mortal world of Midgard often hail from places that mingle with the borders of the Shadow Realm, such as [[Castle Shadowcrag]] or the [[The Margreve|Margreve]]. Courts from the Shadow Realm sometimes send delegations to the material plane. The most notable of these is the Winter’s Kiss Embassy in [[Zobeck]].
 
 For who they are in Midgard, see [[Shadow Fey]]. Common heritages: [[Heritages#Shadow Court Heritage|Shadow Court]], [[Heritages#Supplicant Heritage|Supplicant]].
 

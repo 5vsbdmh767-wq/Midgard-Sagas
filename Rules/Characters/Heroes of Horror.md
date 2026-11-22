@@ -172,11 +172,11 @@ A tragedy occurred, and you were the only one to make it out alive. To determine
 
 | Type | Items |
 |---|---|
-| [[Potions]] | [[Potions#Draught of Clear Thought\|Draught of Clear Thought]], [[Potions#Draught of False Death\|Draught of False Death]], [[Potions#Draught of Imperception\|Draught of Imperception]], [[Potions#Draught of Mind Shielding\|Draught of Mind Shielding]], [[Potions#Quicksilver Draught\|Quicksilver Draught]] |
-| [[Magic Weapons\|Weapons]] | [[Magic Weapons#Ammunition of True Death\|Ammunition of True Death]], [[Magic Weapons#Balefire Bow\|Balefire Bow]], [[Magic Weapons#Lycanthrope Slayer\|Lycanthrope Slayer]], [[Magic Weapons#Slayer’s Blade\|Slayer’s Blade]] |
-| [[Rods, Staffs & Wands\|Wands]] | [[Rods, Staffs & Wands#Wand of Spell Stealing\|Wand of Spell Stealing]] |
-| Wondrous Items | [[Wondrous Items A–L#Alluring Perfume\|Alluring Perfume]], [[Wondrous Items A–L#Book of Curses\|Book of Curses]], [[Wondrous Items A–L#Dark Carousel\|Dark Carousel]], [[Wondrous Items A–L#Haunted Doll\|Haunted Doll]], [[Wondrous Items A–L#Kerchief of Weeping\|Kerchief of Weeping]], [[Wondrous Items M–Z#Mask of the Red Death\|Mask of the Red Death]], [[Wondrous Items M–Z#Necklace of Teeth\|Necklace of Teeth]], [[Wondrous Items M–Z#Shadow Oracle Deck\|Shadow Oracle Deck]], [[Wondrous Items M–Z#Spirit Stick\|Spirit Stick]] |
-| [[Fabled Magic Items\|Fabled Items]] | [[Fabled Magic Items#Monster Hunter’s Crossbow\|Monster Hunter’s Crossbow]], [[Fabled Magic Items#Shroud of Shadows\|Shroud of Shadows]], [[Fabled Magic Items#Witch Light\|Witch Light]] |
+| [[Potions]] | [[Draught of Clear Thought]], [[Draught of False Death]], [[Draught of Imperception]], [[Draught of Mind Shielding]], [[Quicksilver Draught]] |
+| [[Magic Weapons\|Weapons]] | [[Ammunition of True Death]], [[Balefire Bow]], [[Lycanthrope Slayer]], [[Slayer’s Blade]] |
+| [[Rods, Staffs & Wands\|Wands]] | [[Wand of Spell Stealing]] |
+| Wondrous Items | [[Alluring Perfume]], [[Book of Curses]], [[Dark Carousel]], [[Haunted Doll]], [[Kerchief of Weeping]], [[Mask of the Red Death]], [[Necklace of Teeth]], [[Shadow Oracle Deck]], [[Spirit Stick]] |
+| [[Fabled Magic Items\|Fabled Items]] | [[Monster Hunter’s Crossbow]], [[Shroud of Shadows]], [[Witch Light]] |
 
 ## Campaign Rules
 

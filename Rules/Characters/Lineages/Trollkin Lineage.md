@@ -7,7 +7,7 @@ Trollkin skin tones range from green to brown, giving them a superficial similar
 
 As a result of their ancestry and appearance, trollkin are often met with skepticism and sometimes fear. This reputation leads trollkin to form close-knit communities, preferring isolation from larger civilization. In the wilds outside of urban life, trollkin live in tribes, hunting and raiding to survive. These trollkin often venerate their ancestors with tattoos. Some even brand their flesh to show their dedication, since only fire or acid can scar their bodies.
 
-In Midgard, trollkin gather in [[Trollheim]] within crude halls, adopting the customs of the Northlands. These tribes establish themselves as ruthless marauders and mercenaries who conduct raids on the Northland’s isolated farmsteads. Trollkin raiding parties mar the Northlands as they attempt to secure land and resources to make a home for themselves and their kin in defiance of their neighbors.
+In Midgard, trollkin gather in [[Trollheim]] within crude halls, adopting the customs of the [[Northlands]]. These tribes establish themselves as ruthless marauders and mercenaries who conduct raids on the Northland’s isolated farmsteads. Trollkin raiding parties mar the Northlands as they attempt to secure land and resources to make a home for themselves and their kin in defiance of their neighbors.
 
 For who they are in Midgard, see [[Trollkin]]. Common heritages: [[Heritages#Tribe Keeper Heritage|Tribe Keeper]].
 

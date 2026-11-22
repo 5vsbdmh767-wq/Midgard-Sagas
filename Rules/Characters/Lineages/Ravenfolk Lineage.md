@@ -31,7 +31,7 @@ Your ravenfolk character has the following hereditary traits.
 
 %% source: Book of Ebon Tides (a 5th Edition book; converted for this wiki following Converting 5e Material) %%
 
-A growing number of ravenfolk have joined a mystery cult in the Shadow Realm, the Seekers of the Sublime, drawn by a mysterious psychic song. Some say the cult is new, others that it is ancient and only now reviving. Their numbers are still few, but more arrive along the shadow roads from the mortal world all the time, waiting for the unknown singer to reveal their purpose. The network keeps its mission secret, but it has not yet turned against the other peoples of shadow. Sublime ravenfolk lean toward stability and connection more than their mortal-world cousins, trusting their path to the song. Like other ravenfolk, they use evocative borrowed names among other peoples, such as Starshadow, Moonglow, or Rainshimmer.
+A growing number of ravenfolk have joined a mystery cult in the [[The Shadow Realm|Shadow Realm]], the Seekers of the Sublime, drawn by a mysterious psychic song. Some say the cult is new, others that it is ancient and only now reviving. Their numbers are still few, but more arrive along the shadow roads from the mortal world all the time, waiting for the unknown singer to reveal their purpose. The network keeps its mission secret, but it has not yet turned against the other peoples of shadow. Sublime ravenfolk lean toward stability and connection more than their mortal-world cousins, trusting their path to the song. Like other ravenfolk, they use evocative borrowed names among other peoples, such as Starshadow, Moonglow, or Rainshimmer.
 
 ### Sublime Ravenfolk Lineage Traits
 

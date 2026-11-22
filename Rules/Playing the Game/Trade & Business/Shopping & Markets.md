@@ -15,11 +15,11 @@ When you set out to shop as a downtime activity, select one of the following opt
 
 ***Bargains.*** Sometimes, adventurers want to get the best deal, or maybe they’re looking for a bulk discount on consumable items, like potions, ammunition, or scrolls. Use this option when you know exactly what you want but are willing to try a few more shops to get the best value.
 
-***Browsing.*** Some merchants have out-of-place treasures in their stock that are worth more than they know: an ornate ceremonial sword that’s a *[[Magic Weapons#Holy Avenger|holy avenger]]*; an *[[Wondrous Items A–L#Amulet of Health|amulet of health]]* in a pile of costume jewelry; *[[Wondrous Items M–Z#Slippers of Spider Climbing|slippers of spider climbing]]* that are tucked in the pockets of a second-hand robe. A savvy PC, perhaps with *[[1st-Circle Spells#Detect Magic|detect magic]]* at their disposal, could walk into a shop with a couple hundred pieces of gold, and stroll out with a *[[Wondrous Items A–L#Bag of Holding|bag of holding]]*. Use this option when you don’t have anything specific in mind; they just want to browse for a deal that’s just too good to pass up.
+***Browsing.*** Some merchants have out-of-place treasures in their stock that are worth more than they know: an ornate ceremonial sword that’s a *[[Holy Avenger|holy avenger]]*; an *[[Amulet of Health|amulet of health]]* in a pile of costume jewelry; *[[Slippers of Spider Climbing|slippers of spider climbing]]* that are tucked in the pockets of a second-hand robe. A savvy PC, perhaps with *[[1st-Circle Spells#Detect Magic|detect magic]]* at their disposal, could walk into a shop with a couple hundred pieces of gold, and stroll out with a *[[Bag of Holding|bag of holding]]*. Use this option when you don’t have anything specific in mind; they just want to browse for a deal that’s just too good to pass up.
 
 The GM can choose an item to find from within the ranges established by the **Settlement Economy Limits** table, or randomly determine something, such as by rolling on the **Random Magic Item** tables in the *Game Master’s Guide*.
 
-Note, however, that because powerful items can easily unbalance a campaign, choose the out-of-place item carefully or even put limits on its capabilities (such as the *[[Wondrous Items A–L#Bag of Beans|bag of beans]]* having only 1d4 beans left in it).
+Note, however, that because powerful items can easily unbalance a campaign, choose the out-of-place item carefully or even put limits on its capabilities (such as the *[[Bag of Beans|bag of beans]]* having only 1d4 beans left in it).
 
 ***Time.*** To shop, you must spend at least 1 hour of downtime visiting local markets and businesses in a settlement.
 
@@ -80,7 +80,7 @@ The kinds of goods adventurers purchase tend to be available all week long. But 
 | Shields | Daily | Daily | Daily |
 | Simple Weapons | Daily | Daily | Daily |
 | Martial Weapons | Weekly | Daily | Daily |
-| Adventuring Gear (up to 25 gp) | Daily | Daily | Daily |
+| [[Adventuring Gear]] (up to 25 gp) | Daily | Daily | Daily |
 | Adventuring Gear (26−50 gp) | Weekly | Daily | Daily |
 | Adventuring Gear (51−100 gp) | Biweekly | Weekly | Daily |
 | Adventuring Gear (100 gp and above) | Monthly | Weekly | Daily |

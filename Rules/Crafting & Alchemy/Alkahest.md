@@ -170,7 +170,7 @@ publish: true
 ### ✦ Expert — Alkahest
 *Received upon reaching Expert rank. Careful Process ability also unlocked.*
 
-**Recipe List:** Alkahest's Flame ✦ · Alkahest's Ice ✦ · Assassin's Blood ⊘ · Crawler Mucus · Drow Poison · Dust of Sneezing and Choking · Potion of Poison ⊘ · Serpent Venom · Truth Serum · Wyvern Poison
+**Recipe List:** Alkahest's Flame ✦ · Alkahest's Ice ✦ · Assassin's Blood ⊘ · Crawler Mucus · Drow Poison · [[Dust of Sneezing and Choking]] · Potion of Poison ⊘ · Serpent Venom · Truth Serum · Wyvern Poison
 
 > [!abstract] **Alkahest's Flame ✦**
 > *Alchemy [Alkahest] — Expert* · **10 hours** · **100 gp**
@@ -265,7 +265,7 @@ publish: true
 
 ### ✦ Master — Alkahest
 
-**Recipe List:** Burnt Othur Fumes ⊘ · Liquid Fatigue ✦ · Medusa's Essence ✦ · Midnight Tears · Oil of Sharpness · Purple Worm Poison ⊘ · Torpor
+**Recipe List:** Burnt Othur Fumes ⊘ · Liquid Fatigue ✦ · Medusa's Essence ✦ · Midnight Tears · [[Oil of Sharpness]] · Purple Worm Poison ⊘ · Torpor
 
 > [!warning] **Burnt Othur Fumes ⊘ (Banned)**
 > *Alchemy [Alkahest] — Master* · **15 hours** · **500 gp**

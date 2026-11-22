@@ -288,7 +288,7 @@ You imbue an item with defensive foresight. While holding it in one hand, you ca
 
 *Item Requirement: Item that Requires a Roll to Determine*
 
-*an Effect* You imbue an item with the ability to generate more favorable random effects. While rolling dice to determine the effect produced by the augmented item, you can roll the dice twice and choose which result you want to use. If you roll the same result on both rolls, you can ignore the result and choose which effect occurs from any of the listed possibilities. This augment affects die rolls like the d8 used to determine the creature resulting from a *[[Wondrous Items A–L#Bag of Tricks|bag of tricks]]* or the d100 used to determine the effect of a *[[Rods, Staffs & Wands#Wand of Wonder|wand of wonder]]*. This augment doesn’t affect ability checks, attack rolls, or saves made with the item.
+*an Effect* You imbue an item with the ability to generate more favorable random effects. While rolling dice to determine the effect produced by the augmented item, you can roll the dice twice and choose which result you want to use. If you roll the same result on both rolls, you can ignore the result and choose which effect occurs from any of the listed possibilities. This augment affects die rolls like the d8 used to determine the creature resulting from a *[[Bag of Tricks|bag of tricks]]* or the d100 used to determine the effect of a *[[Wand of Wonder|wand of wonder]]*. This augment doesn’t affect ability checks, attack rolls, or saves made with the item.
 
 ### Detecting
 

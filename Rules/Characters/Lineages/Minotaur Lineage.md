@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-As the first people to discover the Labyrinth and learn how to navigate its pathways centuries ago, minotaurs are found throughout the [[Worlds of the Labyrinth|Ten Thousand Worlds]], particularly on the worlds of the Old Ring and on Midgard, where there are numerous connections to the Great Maze.
+As the first people to discover the [[The Labyrinth|Labyrinth]] and learn how to navigate its pathways centuries ago, minotaurs are found throughout the [[Worlds of the Labyrinth|Ten Thousand Worlds]], particularly on the worlds of the [[Old Ring]] and on Midgard, where there are numerous connections to the Great Maze.
 
 [[Minotaurs]] are imposing and powerful, with a reputation for ferocity that borders on monstrous. They display their achievements proudly by decorating their horns with engraved sigils and designs. If one is versed in minotaur custom, one can tell at a glance the achievements and prowess of a minotaur by examining the decoration on their horns. A minotaur who loses part or all of a horn suffers considerable stigma and must strive to prove their worth. Sometimes a “brokehorn” (a fighting insult to any minotaur) who manages to achieve great deeds earns the gift of having the missing horn magically restored by a temple. Beware any minotaur that willingly gives up or chooses not to restore a lost horn, for this is one of the Labyrinth’s most driven and dangerous creatures.
 

@@ -133,7 +133,7 @@ Useful equipment that isn’t armor or weapons is called Adventuring Gear. The *
 | Harmony root | 1 gp | — |
 | Hounds’ baffle | 5 sp | 1 lb. |
 | Kobold’s kiss | 1 sp | — |
-| Monk’s hood | 1 sp | — |
+| [[Monk]]’s hood | 1 sp | — |
 | Perfume (vial) | 5 gp | — |
 | Poison, basic (vial) | 5 gp | — |
 | Poison, essence of ether (vial) | 300 gp | — |
@@ -301,7 +301,7 @@ Grappled creatures begin suffocating immediately, having no time to draw breath.
 
 ***Net, Silk.*** A silk net is a lighter, more durable variant of a standard net. As an action, you can throw it at a Medium or smaller creature within 15 feet of you. Make a ranged attack against the target, treating the net as an improvised weapon. On a hit, the target is restrained until it is freed. As an action, a creature can free itself or another creature within 5 feet of it with a successful DC 14 STR (Athletics) check. Dealing 10 slashing damage to the net (AC 12) also frees the creature without harming it, ending the effect, and destroying the net. %% source: Player's Guide 2 %%
 
-***Potion of Healing.*** A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action. For more information about this item, see *[[Potions#Potion of Healing|potion of healing]]* in the **Magic Item Descriptions** section in this chapter.
+***Potion of Healing.*** A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action. For more information about this item, see *[[Potion of Healing|potion of healing]]* in the **Magic Item Descriptions** section in this chapter.
 
 ***Quiver.*** A quiver can hold up to 20 arrows or 20 crossbow bolts.
 

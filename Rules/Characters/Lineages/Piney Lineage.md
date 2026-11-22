@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-Many villages scattered through the Margreve Forest are home to an elusive lineage of Humanoids known as the pineys. They follow a code known by most as "the [[The Old Ways|Old Ways]]," but for them, these rules of the forest are as natural as the leaves growing on the boughs above.
+Many villages scattered through the [[The Margreve|Margreve Forest]] are home to an elusive lineage of Humanoids known as the pineys. They follow a code known by most as "the [[The Old Ways|Old Ways]]," but for them, these rules of the forest are as natural as the leaves growing on the boughs above.
 
 While the pineys were once human, their bodies have been changed by the magic of the great forest over many generations. When a piney leaves the Margreve Forest, the forest's influence fades but never fully disappears. Their too-long limbs and blank inchoate eyes suggest a fey influence, but their kind is mostly known for strange plant-like qualities to their skin, hair, and nails. Though these plant-like aspects manifest in different ways for each piney, all pineys appear genderless, the forest's power removing differences between male and female in favor of plant features. When two pineys want to reproduce, they do so via spores, typically shed from their bark-like skin or leaf-like hair.
 

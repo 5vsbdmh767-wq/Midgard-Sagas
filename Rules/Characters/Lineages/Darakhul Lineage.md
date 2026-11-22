@@ -7,7 +7,7 @@ Darakhul can rarely exist openly in societies of the living, where their nature 
 
 However, darakhul rarely choose to become what they are, so the true challenge is finding how to live with their transformation and the endless hunger that comes with it. Whether a darakhul chooses to accept their new powers and hungers and whether they fight their daily hungers to retain a semblance of their old selves are the questions that truly determine their survival.
 
-For the darakhul of Midgard, see [[The Darakhul Imperium]], and for those of the Shadow Realm, see [[Peoples of Shadow#Darakhul|Peoples of Shadow]].
+For the darakhul of Midgard, see [[The Darakhul Imperium]], and for those of the [[The Shadow Realm|Shadow Realm]], see [[Peoples of Shadow#Darakhul|Peoples of Shadow]].
 
 %% source: Night Hunters %%
 

@@ -196,7 +196,7 @@ When you first gain this feature, you learn how to create two implements of your
 
 #### Oracle’s Aid
 
-*Item Requirement: Deck of Cards, Runestones, or Crystal Ball* You bind a spirit of prophecy into a deck of cards, set of runestones, crystal ball, or similar fortune-telling device.
+*Item Requirement: Deck of Cards, Runestones, or [[Crystal Ball]]* You bind a spirit of prophecy into a deck of cards, set of runestones, crystal ball, or similar fortune-telling device.
 
 ***Secret of Prophecy.*** When you first learn how to create this implement, you have advantage on initiative rolls, and you gain a bonus to AC equal to half your PB (rounded down). You lose this bonus to your AC while you are incapacitated.
 

@@ -9,7 +9,7 @@ For who they are in Midgard, see [[Bearfolk]]. Common heritages: [[Heritages#Cot
 
 ## Bearfolk in Midgard
 
-[[Bearfolk]] in Midgard are wide-ranging in their wandering and settling. While most hail from the cold climates of the [[Northlands]], standing against both the challenging environment and fearsome neighbors, many bearfolk families inhabit the Margreve Forest and the cities of Midgard. Several families of bearfolk have even carved out a small nation of light in the [[The Shadow Realm|Shadow Realm]], bringing the healing power of moonlight to that twilit realm.
+[[Bearfolk]] in Midgard are wide-ranging in their wandering and settling. While most hail from the cold climates of the [[Northlands]], standing against both the challenging environment and fearsome neighbors, many bearfolk families inhabit the [[The Margreve|Margreve Forest]] and the cities of Midgard. Several families of bearfolk have even carved out a small nation of light in the [[The Shadow Realm|Shadow Realm]], bringing the healing power of moonlight to that twilit realm.
 
 ## Bearfolk Lineage Traits
 

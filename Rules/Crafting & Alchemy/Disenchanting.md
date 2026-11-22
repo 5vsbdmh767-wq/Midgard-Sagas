@@ -16,9 +16,9 @@ The most efficient use of prima materia is to supplement the use of a PC’s own
 
 Note that this stacks with the 1-for-1 increase afforded by spending Luck. Because prima materia is a more abundant resource than Luck, however, spending prima materia in this way can’t improve any one check result by more than one step of success.
 
-For example, a wizard is attempting to create a *[[Magic Weapons#Dancing Sword|dancing sword]]*—a Very Rare magic item, requiring 25 weeks of crafting. She has access to 30 ounces of materia.
+For example, a wizard is attempting to create a *[[Dancing Sword|dancing sword]]*—a Very Rare magic item, requiring 25 weeks of crafting. She has access to 30 ounces of materia.
 
-At the end of the first week, the wizard makes an INT (Arcana) check with a result of 13. Ordinarily, this would mean a week of progress toward crafting the *[[Magic Weapons#Dancing Sword|dancing sword]]*. Instead, she decides to spend 6 ounces of prima materia to change the 13 to a 16, giving her two weeks of progress instead.
+At the end of the first week, the wizard makes an INT (Arcana) check with a result of 13. Ordinarily, this would mean a week of progress toward crafting the *[[Dancing Sword|dancing sword]]*. Instead, she decides to spend 6 ounces of prima materia to change the 13 to a 16, giving her two weeks of progress instead.
 
 Having improved the result by one step, she can’t improve her result any more for now. She saves the rest of her materia for future crafting checks.
 
@@ -28,7 +28,7 @@ Numerous magic items have charges that deplete and then return over time. The re
 
 Materia gives you a chance to speed up the recharge rate. If the magic item rolls a die to determine recharges, you can use 2 ounces of prima materia to roll the recharge die twice. You must use the higher result.
 
-For example, at dawn, a sorcerer’s *[[Rods, Staffs & Wands#Wand of Magic Missiles|wand of magic missiles]]* ordinarily regains 1d6 + 1 charges. He used six charges yesterday, and he’s pretty sure he’ll need it today too, so he’ll use prima materia to help the wand regain charge. The player rolls 1d6 + 1 twice, resulting in a 2 and a 4. He must take the higher result, so the wand regains 4 charges for a total of 5. Maybe that will be enough.
+For example, at dawn, a sorcerer’s *[[Wand of Magic Missiles|wand of magic missiles]]* ordinarily regains 1d6 + 1 charges. He used six charges yesterday, and he’s pretty sure he’ll need it today too, so he’ll use prima materia to help the wand regain charge. The player rolls 1d6 + 1 twice, resulting in a 2 and a 4. He must take the higher result, so the wand regains 4 charges for a total of 5. Maybe that will be enough.
 
 #### Overcharging with Prima Materia
 

@@ -13,7 +13,7 @@ For who they are in Midgard, see [[Alseid]]. Common heritages: [[Heritages#Fores
 
 ## Horns as Status Symbol
 
-In the Margreve Forest, horns are a symbol of status and power among the alseid. No 14-point imperial alseid are known to exist, but many tribes in the Margreve Forest are governed by princes with 13 points, indicating that they've done a great service to the forest on at least three occasions. Because antlers signify status, alseid don't fight with them the way deer do. Cutting an alseid's antlers is one of the direst punishments an alseid can receive, and an alseid with shorn antlers is typically an exile from its people.
+In the [[The Margreve|Margreve Forest]], horns are a symbol of status and power among the alseid. No 14-point imperial alseid are known to exist, but many tribes in the Margreve Forest are governed by princes with 13 points, indicating that they've done a great service to the forest on at least three occasions. Because antlers signify status, alseid don't fight with them the way deer do. Cutting an alseid's antlers is one of the direst punishments an alseid can receive, and an alseid with shorn antlers is typically an exile from its people.
 
 ## Alseid Lineage Traits
 

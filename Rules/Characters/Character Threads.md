@@ -455,7 +455,7 @@ When you achieve this level of milestone, you gain your choice of one of the fol
 
 ***Extreme Loyalty.*** Your dedication to your ruler protects you from the control of others. If you end your turn while charmed, you may choose to take psychic damage equal to your character level, then end that condition.
 
-***Jarl’s Gift.*** To help you carry out their will, your ruler gives you your choice of one of the following uncommon magic items (or another you and your GM agree upon): *[[Wondrous Items A–L#Bracers of Archery|bracers of archery]]*, *[[Potions#Defender Honey|defender’s honey]]*, *sentinel shield*, *[[Rods, Staffs & Wands#Wand of the War Mage, +1, +2, or +3|+1 wand of the war mage]]*, or *[[Magic Weapons#Weapon, +1, +2, or +3|+1 weapon]]*.
+***Jarl’s Gift.*** To help you carry out their will, your ruler gives you your choice of one of the following uncommon magic items (or another you and your GM agree upon): *[[Bracers of Archery|bracers of archery]]*, *[[Defender Honey|defender’s honey]]*, *sentinel shield*, *[[Wand of the War Mage, +1, +2, or +3|+1 wand of the war mage]]*, or *[[Weapon, +1, +2, or +3|+1 weapon]]*.
 
 ### Greater Milestone Feature
 
@@ -469,7 +469,7 @@ Once you use this feature, you can’t use it again for 7 days.
 
 When you achieve this level of milestone, you gain the following benefit.
 
-***Grand Reward.*** The completion of this milestone earns you a powerful reward. Work with your GM to determine an appropriate very rare magic item, such as one of the following: *[[Magic Weapons#Weapon, +1, +2, or +3|+3 weapon]]*, *[[Magic Weapons#Dancing Sword|dancing sword]]*, *[[Magic Weapons#Oathbow|oathbow]]*, *[[Rods, Staffs & Wands#Staff of Thunder and Lightning|staff of thunder and lightning]]*, or *[[Wondrous Items A–L#Horn of the Hrimthursar|horn of the Hrimthursalr]]*.
+***Grand Reward.*** The completion of this milestone earns you a powerful reward. Work with your GM to determine an appropriate very rare magic item, such as one of the following: *[[Weapon, +1, +2, or +3|+3 weapon]]*, *[[Dancing Sword|dancing sword]]*, *[[Oathbow|oathbow]]*, *[[Staff of Thunder and Lightning|staff of thunder and lightning]]*, or *[[Horn of the Hrimthursar|horn of the Hrimthursalr]]*.
 
 ---
 <small>Sources: [[Credits]].</small>

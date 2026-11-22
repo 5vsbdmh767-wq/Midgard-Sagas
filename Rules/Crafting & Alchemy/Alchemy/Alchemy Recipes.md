@@ -527,7 +527,7 @@ Sage-green liquid. Drink as action; lasts 1 hour. **Advantage on WIS checks**.
 
 ### Potion of Poison (Banned)
 **Alchemy [Alkahest, Apothecary] — Expert** | Time: 18 hrs | Value: 175 gp | DC: 15 WIS | Tools: Poisoner's kit
-**Ingredients:** Potion of Healing *(fluid)*, Toxins *(poisonous)*
+**Ingredients:** [[Potion of Healing]] *(fluid)*, Toxins *(poisonous)*
 **Properties:** Fluid, poisonous
 Looks, smells, and tastes like a potion of healing (*identify* reveals true nature). On drink: **3d6 poison damage** + DC 13 CON save or poisoned. Start of each turn while poisoned: 3d6 poison damage. End of each turn: repeatable save (damage decreases by 1d6 per success until 0).
 

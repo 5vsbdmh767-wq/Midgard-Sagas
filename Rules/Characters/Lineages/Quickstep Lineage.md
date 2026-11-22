@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-Quicksteps came to the Shadow Realm with the shadow fey as their servitors, and like the shadow fey they are naturally resilient to its corruption. They love finery and feel at home amid the riches of court, and their gift for speed suits two favorite shadow fey pastimes, sabotage and dueling. They are rarely found outside the fey courts but thrive in many of them, above all the [[Court of Midnight Teeth]] and the [[Court of Winter's Love]]. Like most fey, though, they have a streak of wanderlust, and they make skilled, efficient adventurers.
+Quicksteps came to the [[The Shadow Realm|Shadow Realm]] with the shadow fey as their servitors, and like the shadow fey they are naturally resilient to its corruption. They love finery and feel at home amid the riches of court, and their gift for speed suits two favorite shadow fey pastimes, sabotage and dueling. They are rarely found outside the fey courts but thrive in many of them, above all the [[Court of Midnight Teeth]] and the [[Court of Winter's Love]]. Like most fey, though, they have a streak of wanderlust, and they make skilled, efficient adventurers.
 
 Quicksteps choose flashy, memorable names that sound good announced before a duel, such as Birch, Bolt, Crimson, Dandy, Double Time, Echo, Glory, Hotspur, Indigo, Starburst, or Zephyr.
 

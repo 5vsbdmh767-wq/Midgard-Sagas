@@ -4,14 +4,17 @@ publish: true
 - [[Using Magic Items]]
 - [[Magic Item Pricing]]
 
+## All Magic Items
+- [[Magic Items A–Z]]
+- [[Magic Items by Rarity]]
+
 ## Magic Items by Type
 - [[Magic Armor]]
 - [[Magic Weapons]]
 - [[Potions]]
 - [[Rings]]
 - [[Rods, Staffs & Wands]]
-- [[Wondrous Items A–L]]
-- [[Wondrous Items M–Z]]
+- [[Wondrous Items]]
 - [[Magic Tattoos]]
 - [[Fabled Magic Items]]
 - [[Arcanepunk Items]]

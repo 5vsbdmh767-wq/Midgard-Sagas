@@ -29,7 +29,7 @@ Your dwarf character has the following hereditary traits.
 
 %% source: Northlands Worldbook %%
 
-Dwarves are one of the most prolific humanoid species of the Northlands, perhaps second only to humans themselves. Dwarves in the Northlands take on many roles, from hard-working wheat farmers to outstanding metal and leather crafters. Environment and circumstance have subtly transformed dwarves over the centuries and grant them different traits.
+Dwarves are one of the most prolific humanoid species of the [[Northlands]], perhaps second only to humans themselves. Dwarves in the Northlands take on many roles, from hard-working wheat farmers to outstanding metal and leather crafters. Environment and circumstance have subtly transformed dwarves over the centuries and grant them different traits.
 
 A lesser known dwarven lineage is the Baudsmidr dwarf. These dwarves are sometimes called "ring dwarves" by outsiders for their knack with crafting magical rings. Long ago, [[Gullveig]], an obscure deity of magic and gold, lived for a time among an isolated community of dwarves, teaching them the divine art of binding magical runes into precious metals. Though this brought the dwarves great renown and power, it also led to jealousy and greed from others.
 
@@ -117,7 +117,7 @@ Your fjord dwarf has the following hereditary traits.
 
 Midnight dwarves are a variant dwarf lineage, descendants of a clan of dwarves who were exposed to the corruption of the Void.
 
-Many centuries ago, a powerful clan of dwarves ruled a vast subterranean realm of magnificent halls and chambers, and hundreds of miles of tunnels and mines. As they expanded the boundaries of their kingdom ever deeper, the dwarves’ excavations uncovered a rift to the Void. Although the dwarves acted quickly to seal off the fissure and collapse the surrounding caverns, the damage was already done. The corrupting power of the Void infected the population, affecting body and mind. Most succumbed to the Void and perished, but those who were resilient enough survived to become the first midnight dwarves. Now scattered throughout the Labyrinth, midnight dwarves can withstand some of the effects of the Void and live on worlds that others would find uncomfortable.
+Many centuries ago, a powerful clan of dwarves ruled a vast subterranean realm of magnificent halls and chambers, and hundreds of miles of tunnels and mines. As they expanded the boundaries of their kingdom ever deeper, the dwarves’ excavations uncovered a rift to the Void. Although the dwarves acted quickly to seal off the fissure and collapse the surrounding caverns, the damage was already done. The corrupting power of the Void infected the population, affecting body and mind. Most succumbed to the Void and perished, but those who were resilient enough survived to become the first midnight dwarves. Now scattered throughout the [[The Labyrinth|Labyrinth]], midnight dwarves can withstand some of the effects of the Void and live on worlds that others would find uncomfortable.
 
 Midnight dwarves are typically thinner and more barrel‑chested than many of their dwarf cousins. Their skin is very fair or pale, while their hair and beards are black or dark brown. Midnight dwarves often have cauliflower ears, and their bodies are covered in strange dark marks which they incorporate into tattoos of tentacles and other void motifs.
 

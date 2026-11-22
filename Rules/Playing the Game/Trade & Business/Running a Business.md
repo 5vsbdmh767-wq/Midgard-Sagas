@@ -294,7 +294,7 @@ Stake represents how much inventory and money you have on hand at the start of y
 
 A character running a business might want to add loot from their adventures to their inventory, selling it to the end consumer themselves, rather than taking it to a middle-man. In cases like this, you can take items out of your possessions and add half of their gp value to their Stake. You can only do this during downtime spent running a business.
 
-This effectively turns the item into a number. For example, if a PC adds a *[[Magic Weapons#Trident of Fish Command|trident of fish command]]* to her inventory, she no longer has the trident. It’s now a 1,020 gp increase to her Stake.
+This effectively turns the item into a number. For example, if a PC adds a *[[Trident of Fish Command|trident of fish command]]* to her inventory, she no longer has the trident. It’s now a 1,020 gp increase to her Stake.
 
 ### Converting Inventory to Items
 
@@ -302,9 +302,9 @@ If a character can convert items to inventory, it stands to reason that they can
 
 To do this, the PC must have enough gp in their Stake to cover the cost of the item or items in question. However, because this is their own stock, they can subtract half of the item’s gp value from their Stake.
 
-To use the previous example, a PC running a business would need to have a Stake of at least 2,040 gp to convert a portion of their inventory into a *[[Magic Weapons#Trident of Fish Command|trident of fish command]]*. After doing so, she has the trident, and her Stake is reduced by 1,020 gp.
+To use the previous example, a PC running a business would need to have a Stake of at least 2,040 gp to convert a portion of their inventory into a *[[Trident of Fish Command|trident of fish command]]*. After doing so, she has the trident, and her Stake is reduced by 1,020 gp.
 
-The GM can decide that some very rare or unique items aren’t available in this way. (*[[Magic Weapons#Holy Avenger|Holy avengers]]* are hard to come by.) See [[#What’s in Stock?]] for a more detailed system to determine what is or isn’t available.
+The GM can decide that some very rare or unique items aren’t available in this way. (*[[Holy Avenger|Holy avengers]]* are hard to come by.) See [[#What’s in Stock?]] for a more detailed system to determine what is or isn’t available.
 
 #### What’s in Stock?
 

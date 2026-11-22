@@ -22,7 +22,7 @@ targets = {k: v for k, v in names.items() if k not in EXCLUDE and not k[0].islow
 keys = sorted(targets, key=len, reverse=True)
 pat = re.compile(r"(?<![\w\[|#/-])(" + "|".join(re.escape(k) for k in keys) + r")(?![\w\]-])(?!'s\w)")
 NOLINK = ["Witch Tree", "Wormwood Forest", "Pale Witch", "Rogue's Court", "Court Sorcerer", "Goblin Court", "Collegium Elemental", "Misto Tilla", "Trickster's Road", "or just Keepers", "Keepers serve", "Emperor Loki", "Master of Shades", "The Hunter in Darkness", "Scribes, and Dreamers", "Keepers of the Tides", "Holy Keepers", "Witch lights", "Dominion Orb", "Bard's Chronology", "Cults and ancient powers", "Skadi's Sisters", "Skadi's Sons", "Skadi's Daughters", "Warlock's trumpetblossoms", "Labyrinth of Carreult", "Salzby Armorers", "Bloodsworn Oaths", "Moaning Monk", "Monk's Harbor", "Book of Ebon Tides", "Northlands Worldbook", "Labyrinth Worldbook", "Midgard Worldbook", "Tales of the Old Margreve", "Labyrinth Options", "Crossroads Souk", "Margreve Knights", "Harbingers of the Yawning Void", "Loki's Bridge", "making that choice: Fenris", "Naval Combat in Chapter 7", "Dead Druid's Run", "Tamasheq Climb", "Sun Witch", "Singing Warlock", "(optional, Northlands)", "Cults rise", "Silver Witch", "on the North Wind", "Goblin sharks"]
-PROTECT = re.compile("|".join(re.escape(x) for x in NOLINK) + "|" + r"\*\*\*[^*\n]+\*\*\*|\*\*[^*\n]+\*\*|!?\[\[[^\]]*\]\]|\[[^\]]*\]\([^)]*\)|`[^`]*`|https?://\S+|<[^>]+>")
+PROTECT = re.compile("|".join(re.escape(x) for x in NOLINK) + "|" + r"%%.*?%%|\*\*\*[^*\n]+\*\*\*|\*\*[^*\n]+\*\*|!?\[\[[^\]]*\]\]|\[[^\]]*\]\([^)]*\)|`[^`]*`|https?://\S+|<[^>]+>")
 total = 0; per = {}; LOG = []
 for dp, dn, fn in os.walk(V):
     rel = os.path.relpath(dp, V)

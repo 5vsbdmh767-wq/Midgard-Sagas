@@ -41,7 +41,7 @@ Your shade character has the following hereditary traits.
 
 %% source: Book of Ebon Tides (a 5th Edition book; converted for this wiki following Converting 5e Material) %%
 
-The [[The Ever River|River Styx]] winds through the Shadow Realm full of mindless shades that live only to devour the memories of anyone they can drown. A few of the shades bound there keep their minds but struggle every day to remember who they were. Unlike the shades of the mortal world, Stygian shades come out of the water with almost no memory of their former lives, and the drive to find what was lost propels them. Few know their own names; those who rediscover them use them with pride, and the rest try on name after name looking for one that feels familiar. See [[Shades]].
+The [[The Ever River|River Styx]] winds through the [[The Shadow Realm|Shadow Realm]] full of mindless shades that live only to devour the memories of anyone they can drown. A few of the shades bound there keep their minds but struggle every day to remember who they were. Unlike the shades of the mortal world, Stygian shades come out of the water with almost no memory of their former lives, and the drive to find what was lost propels them. Few know their own names; those who rediscover them use them with pride, and the rest try on name after name looking for one that feels familiar. See [[Shades]].
 
 ### Stygian Shade Lineage Traits
 
