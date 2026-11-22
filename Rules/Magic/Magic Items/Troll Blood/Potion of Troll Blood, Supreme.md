@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Legendary]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Legendary]] 2,500 gp*
 
 When you drink this potion, you regain 8 hit points at the start of each of your turns. After it has restored 80 hit points, the potion’s effects end.
 

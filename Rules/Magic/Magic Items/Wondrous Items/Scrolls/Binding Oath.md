@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Scroll, [[Using Magic Items#Rarity|Very Rare]] ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Cleric]] or [[Paladin]])* %% price pending %%
+*Scroll, [[Using Magic Items#Rarity|Very Rare]] 60,000 gp ([[Using Magic Items#Attunement|Requires Attunement]] by a [[Cleric]] or [[Paladin]])*
 
 This lengthy scroll is the testimony of a pious individual’s adherence to their faith. The author has emphatically rewritten these claims many times, and its two slim, metal rollers are wrapped in yards of parchment. When you attune to the item, you rewrite certain passages to align with your own religious views.
 

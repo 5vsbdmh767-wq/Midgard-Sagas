@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Very Rare]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Very Rare]] 650 gp*
 
 This potion is steeped using a blossom that grows only in the moonlight. When you drink this potion, your shadow corruption (see Midgard Worldbook) is reduced by three levels. If you aren’t using the Midgard setting, you gain the effect of the *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell instead.
 

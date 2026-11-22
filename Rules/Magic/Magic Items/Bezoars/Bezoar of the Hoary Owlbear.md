@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 650 gp*
 
 While this bezoar sits in your stomach, you have resistance to cold damage, and you can tolerate temperatures as low as -50 degrees Fahrenheit. In addition, your speed increases by 5 feet.
 

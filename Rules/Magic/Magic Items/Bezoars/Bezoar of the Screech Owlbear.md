@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 650 gp*
 
 While this bezoar sits in your stomach, you are immune to the [[Conditions#Blinded|blinded]] and [[Conditions#Deafened|deafened]] conditions. In addition, you can communicate with beasts. This works like the *[[1st-Circle Spells#Speak with Animals|speak with animals]]* spell, except it lasts until you expel the bezoar.
 

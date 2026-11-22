@@ -9,7 +9,7 @@ This tome contains information and incantations necessary to make a vine golem. 
 
 To create a vine golem, you must spend 20 days working without interruption with the manual at hand and resting no more than 8 hours per day. You must also use powders made from rare plants and crushed gems worth 30,000 gp to create the vine golem, all of which are consumed in the process. Once you finish creating the vine golem, the book decays into ash.
 
-The golem becomes animate when the ashes of the manualare sprinkled on it. It is under your control, and it understands and obeys your spoken commands.
+The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands.
 
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

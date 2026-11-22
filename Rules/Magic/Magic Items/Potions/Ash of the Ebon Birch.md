@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Uncommon]] 200 gp*
 
 This salve is created by burning bark from a rare ebon birch tree then mixing that ash with oil and animal blood to create a cerise pigment used to paint yourself
 

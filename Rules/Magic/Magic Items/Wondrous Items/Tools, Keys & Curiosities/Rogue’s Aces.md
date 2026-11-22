@@ -5,7 +5,7 @@ publish: true
 
 *Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
 
-These four, colorful parchment cards have long bailed the daring out of hazardous situations. You can use an action to flip a card face-up, activating it. Acard is destroyed after it activates.
+These four, colorful parchment cards have long bailed the daring out of hazardous situations. You can use an action to flip a card face-up, activating it. A card is destroyed after it activates.
 
 ***Ace of Pentacles.*** The pentacles suit represents wealth and treasure. When you activate this card, you cast the *[[2nd-Circle Spells#Knock|knock]]* spell from it on an object you can see within 60 feet of you. In addition, you have advantage on DEX checks to pick locks using thieves’ tools for the next 24 hours.
 

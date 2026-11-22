@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, Rarity Varies* %% price pending %%
+*Potion, Rarity Varies 100 gp (orb) or 350 gp (explosive)*
 
 Originally fashioned in the laboratory of the archmage Lugax for his good natured but often roguish friend, Kennich, these spherical ceramic containers are the size of a large human fist. Arcane sigils decorate each orb, detailing its properties to those capable of reading the sigils. The magic-infused chemicals in each orb must be briefly exposed to air before being thrown to activate them. A metal rod sits in the cork of each orb, allowing you to quickly twist open the container before throwing it.
 

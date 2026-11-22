@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Common]] 10 gp*
 
 This spiced carrot has an earthy, floral flavor and a satisfying crunch. When you consume this food, you have advantage on WIS (Perception) checks that rely on sight for 1 hour.
 

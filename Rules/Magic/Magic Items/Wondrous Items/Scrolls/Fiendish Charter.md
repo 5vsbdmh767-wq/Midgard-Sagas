@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Scroll, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Scroll, [[Using Magic Items#Rarity|Rare]] 650 gp*
 
 This long scroll bears the mark of a powerful creature of the Lower Planes, whether an archduke of Hell, a demon lord of the Abyss, or some other powerful fiend or evil deity. When you use an action to present this scroll to a fiend whose Challenge Rating is equal to or less than your level, the binding powers of the scroll compel it to listen to you. You can then attempt to strike a bargain with the fiend, negotiating a service from it in exchange for a reward. The fiend is under no compulsion to strike the bargain; it is compelled only to parley long enough for you to present a bargain and allow for negotiations. If you or your allies attack or otherwise attempt to harm the fiend, the truce is broken, and the creature can act normally. If the fiend refuses the offer, it is free to take any actions it wishes.
 

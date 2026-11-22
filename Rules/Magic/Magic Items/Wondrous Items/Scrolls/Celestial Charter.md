@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Scroll, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Scroll, [[Using Magic Items#Rarity|Rare]] 650 gp*
 
 This long, beautifully illuminated scroll bears the mark of a powerful entity of good, whether an archangel, saint, or a good deity. When you use an action to present this scroll to a celestial whose
 

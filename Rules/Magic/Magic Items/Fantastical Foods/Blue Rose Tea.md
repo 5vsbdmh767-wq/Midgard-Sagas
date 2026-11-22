@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Uncommon]] 350 gp*
 
 The petals of the blue rose can be brewed into a tea. When you consume a dose of this tea, you get a glimpse into the future. This effect works like the *[[Rituals 4th–6th Circle#Divination|divination]]* spell, except the answer comes to you in visions rather than from a deity or its servants, and you can aska single question concerning a specific goal, event, or activity to occur within 14 days.
 

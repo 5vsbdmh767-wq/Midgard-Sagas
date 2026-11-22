@@ -16,13 +16,13 @@ Spirit honey is ordinary honey made by ordinary bees that feed on poisonous or m
 
 | Item | Type | Rarity | Attunement | Price |
 |---|---|---|---|---|
-| [[Honey of Ancient Meadows]] | Potion | Rare | — | pending |
-| [[Honey of Dead Fields]] | Potion | Uncommon | — | pending |
-| [[Honey of Gloomy Flowers]] | Potion | Rare | — | pending |
-| [[Honey of Planar Flora]] | Potion | Very Rare | — | pending |
-| [[Honey of the Hungry Flower]] | Potion | Uncommon | — | pending |
-| [[Honey of the Master Vine]] | Potion | Rare | — | pending |
-| [[Honey of Warped Wildflowers]] | Potion | Very Rare | — | pending |
+| [[Honey of Ancient Meadows]] | Potion | Rare | — | 650 gp |
+| [[Honey of Dead Fields]] | Potion | Uncommon | — | 200 gp |
+| [[Honey of Gloomy Flowers]] | Potion | Rare | — | 350 gp |
+| [[Honey of Planar Flora]] | Potion | Very Rare | — | 650 gp |
+| [[Honey of the Hungry Flower]] | Potion | Uncommon | — | 100 gp |
+| [[Honey of the Master Vine]] | Potion | Rare | — | 650 gp |
+| [[Honey of Warped Wildflowers]] | Potion | Very Rare | — | 2,500 gp |
 
 ---
 <small>Sources: [[Credits]].</small>

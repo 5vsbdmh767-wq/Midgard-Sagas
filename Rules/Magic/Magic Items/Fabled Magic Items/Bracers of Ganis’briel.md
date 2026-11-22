@@ -21,7 +21,7 @@ While wearing these bracers, you have proficiency with the longbow and shortbow.
 
 ***Master Archer (Requires Attunement).*** As your level increases, you gain the following benefits while wearing these bracers.
 
-**5th Level.** When you make your first attack on your turn, you have advantage on the attack roll if you make the attack with a longbow or shortbow. If you roll a 20 for the attack roll, this property ceases to function until you roll a1 for an attack roll or until you finish a short rest.
+**5th Level.** When you make your first attack on your turn, you have advantage on the attack roll if you make the attack with a longbow or shortbow. If you roll a 20 for the attack roll, this property ceases to function until you roll a 1 for an attack roll or until you finish a short rest.
 
 **9th Level.** You gain a +1 bonus to attack and damage rolls on ranged attacks made with longbows and shortbows. In addition, your ranged attacks ignore half cover and three-quarters cover, and you don’t have disadvantage when attacking at long range.
 

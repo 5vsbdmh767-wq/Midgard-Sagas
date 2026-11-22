@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Uncommon]] 200 gp*
 
 This spirit honey is made from flowers that bloom in undead-filled graveyards, on battlefields, and in other areas filled with undead or that are ripe grounds for creating undead. When you consume this honey, you have resistance to necrotic damage for the duration. In addition, when you roll a 20 on an attack roll made with a melee weapon against a creature that isn’t a construct or undead, you regain hit points equal to half the damage dealt.
 

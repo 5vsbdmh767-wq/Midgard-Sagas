@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Uncommon]] 200 gp*
 
 This luminous green concoction creates an undead servant. If you spend 1 minute anointing the corpse of a Small or Medium humanoid, this arcane solution imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a zombie under your control (the GM has the zombie’s statistics).
 

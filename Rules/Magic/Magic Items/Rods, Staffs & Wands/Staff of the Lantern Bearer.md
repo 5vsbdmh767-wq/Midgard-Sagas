@@ -11,7 +11,7 @@ An iron hook is affixed to the top of this plain, wooden staff. While holding th
 
 - The lantern’s flame can’t be extinguished by wind or water.
 
-- Ifyouarea spellcaster, you can use the staff as a spellcasting focus. When you cast a spell that deals fire or radiant damage while using this staff as your spellcasting focus, you gain a +1 bonus to the spell’s attack roll, or the spell’s save DC increases by 1 (your choice).
+- If you are a spellcaster, you can use the staff as a spellcasting focus. When you cast a spell that deals fire or radiant damage while using this staff as your spellcasting focus, you gain a +1 bonus to the spell’s attack roll, or the spell’s save DC increases by 1 (your choice).
 
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

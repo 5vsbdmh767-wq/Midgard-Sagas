@@ -19,16 +19,16 @@ A bezoar is a hard lump of undigested matter that forms in a creature's gut. It 
 
 | Item | Type | Rarity | Attunement | Price |
 |---|---|---|---|---|
-| [[Bezoar of the Behir]] | Wondrous Item | Rare | — | pending |
-| [[Bezoar of the Bespectacled Owlbear]] | Wondrous Item | Uncommon | — | pending |
-| [[Bezoar of the Chimera]] | Wondrous Item | Uncommon | — | pending |
-| [[Bezoar of the Cockatrice]] | Wondrous Item | Common | — | pending |
-| [[Bezoar of the Dire Owlbear]] | Wondrous Item | Very Rare | — | pending |
-| [[Bezoar of the Great Horned Owlbear]] | Wondrous Item | Rare | — | pending |
-| [[Bezoar of the Hippogriff]] | Wondrous Item | Rare | — | pending |
-| [[Bezoar of the Hoary Owlbear]] | Wondrous Item | Rare | — | pending |
-| [[Bezoar of the Manticore]] | Wondrous Item | Rare | — | pending |
-| [[Bezoar of the Screech Owlbear]] | Wondrous Item | Rare | — | pending |
+| [[Bezoar of the Behir]] | Wondrous Item | Rare | — | 650 gp |
+| [[Bezoar of the Bespectacled Owlbear]] | Wondrous Item | Uncommon | — | 200 gp |
+| [[Bezoar of the Chimera]] | Wondrous Item | Uncommon | — | 200 gp |
+| [[Bezoar of the Cockatrice]] | Wondrous Item | Common | — | 50 gp |
+| [[Bezoar of the Dire Owlbear]] | Wondrous Item | Very Rare | — | 5,000 gp |
+| [[Bezoar of the Great Horned Owlbear]] | Wondrous Item | Rare | — | 650 gp |
+| [[Bezoar of the Hippogriff]] | Wondrous Item | Rare | — | 650 gp |
+| [[Bezoar of the Hoary Owlbear]] | Wondrous Item | Rare | — | 650 gp |
+| [[Bezoar of the Manticore]] | Wondrous Item | Rare | — | 650 gp |
+| [[Bezoar of the Screech Owlbear]] | Wondrous Item | Rare | — | 650 gp |
 
 ---
 <small>Sources: [[Credits]].</small>

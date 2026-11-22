@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Uncommon]] 200 gp*
 
 While this bezoar sits in your stomach, you have advantage on saves against poison, and you have immunity to the [[Conditions#Poisoned|poisoned]] condition. In addition, you can’t be surprised while you are conscious.
 

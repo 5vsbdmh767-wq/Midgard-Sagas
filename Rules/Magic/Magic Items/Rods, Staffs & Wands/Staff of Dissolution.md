@@ -9,7 +9,7 @@ A gray crystal floats in the crook of this twisted staff. The crystal breaks int
 
 The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: *[[4th-Circle Spells#Blight|blight]]* (4 charges), *[[6th-Circle Spells#Disintegrate|disintegrate]]* (6 charges), or *[[2nd-Circle Spells#Shatter|shatter]]* (2 charges).
 
-The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll adzo. On a 1, the staff crumbles to dust.
+The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff crumbles to dust.
 
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Rare]] 175 gp*
 
 This elixir looks, smells, and tastes like a potion of heroism; however, it is actually a poisonous elixir masked by illusion magic. An identify spell reveals its true nature.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Rare]] 650 gp*
 
 This spirit honey is made from flowers found in ancient magical forests and meadows that have seen little to no humanoid traffic or influence. When you consume this honey, you are immune to the [[Conditions#Charmed|charmed]] condition, and you have advantage on CHA checks to interact socially with fey for the duration. In addition, you have blindsight out to a range of 30 feet while you are in contact with bare ground or plant life.
 

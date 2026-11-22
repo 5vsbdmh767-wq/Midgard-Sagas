@@ -23,7 +23,7 @@ While wearing this amulet, you can cast the *[[Cantrips#Spare the Dying|spare th
 
 ***Healer’s Helper (Requires Attunement).*** As your level increases, you gain the following benefits while wearing the amulet.
 
-**5th Level.** You can use Channel Divinity one additional time between rests. In addition, when you cast a spell that restores hit points and roll a1 on the die, you can reroll the die. You must use the new roll, even if the new roll is a1.
+**5th Level.** You can use Channel Divinity one additional time between rests. In addition, when you cast a spell that restores hit points and roll a 1 on the die, you can reroll the die. You must use the new roll, even if the new roll is a 1.
 
 **9th Level.** By praying with up to two creatures for 1 minute, you can magically bind the creatures to you. Whenever you use a spell of 1st circle or higher that restores hit points to a bound creature, the spell’s range is doubled. If the spell’s range is normally Touch, it is 30 feet if the target is a bound creature. You don’t have to see or hear a bound creature to restore hit points to it.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, Rarity Varies* %% price pending %%
+*Potion, Rarity Varies 200 gp (murderous) or 350 gp (mindshatter) or 1,500 gp (sloughide)*
 
 These brass and crystal cylinders are 6 inches long with 1-inch diameters. Each cylinder has a funnel on one end and a wooden plunger on the other end. You can use an action to quickly press the plunger, expelling the cylinder’s contents out through the funnel in a 30-foot line that is 5 feet wide. Once its contents are expelled, a cylinder is destroyed, and there is a 25 percent chance you are also subjected to the bombard’s effects as if you were caught in the line.
 

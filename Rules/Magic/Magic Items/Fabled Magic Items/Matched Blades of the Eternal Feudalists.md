@@ -21,7 +21,7 @@ These paired scimitars are each named and engraved with unique symbols. The blad
 
 **9th Level.** The extra thunder and radiant damage you deal with each sword increases to 2d6.
 
-**13th Level.** When you roll a20 on an attack roll made with either weapon, each creature within 10 feet of the target is also deafened (Clive’s cacophony) or blinded (Ivor’s illumination) for 1 minute. A blinded or deafened creature can make a CON save (DC equal to 8 + your PB + your CHA modifier) at the end of each of its turns, ending the condition on itself on a success. In addition, you have immunity to the blinded and deafened conditions.
+**13th Level.** When you roll a 20 on an attack roll made with either weapon, each creature within 10 feet of the target is also deafened (Clive’s cacophony) or blinded (Ivor’s illumination) for 1 minute. A blinded or deafened creature can make a CON save (DC equal to 8 + your PB + your CHA modifier) at the end of each of its turns, ending the condition on itself on a success. In addition, you have immunity to the blinded and deafened conditions.
 
 **17th Level.** When you hit a target with either weapon, the target must succeed on a CON save (DC equal to 8 + your PB + your CHA modifier) or be deafened (Clive’s cacophony) or blinded (Ivor’s illumination) for 1 minute. In addition, when you roll a 20 on an attack roll made with either weapon against a target that is already deafened or blinded, the target becomes blinded and deafened permanently. This blindness and deafness can be ended only by a heal or *[[9th-Circle Spells#Wish|wish]]* spell.
 

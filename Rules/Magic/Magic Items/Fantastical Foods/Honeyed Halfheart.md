@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Uncommon]] 100 gp*
 
 This small cake in the shape of a heart permeates the air with the scent of honey, roasted nuts, and sun-warmed berries. It doesn't rot in your backpack, remaining fresh and delicious until you consume it. The cake has two portions. You can use an action to split and eat one portion of the cake. When you split the cake, the cake’s honeyed smell clings to you, and you gain a +2 bonus to CHA checks to interact socially with humanoids for 24 hours. Eating one portion of the cake provides enough nourishment to sustain a creature for one day.
 

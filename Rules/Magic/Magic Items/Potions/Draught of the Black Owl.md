@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Common]] 100 gp*
 
 When you drink this potion, you transform into a black-feathered owl for 1 hour. This effect works like the *[[4th-Circle Spells#Polymorph|polymorph]]* spell, except you can take only the form of an owl. While you are in the form of an owl, you retain your INT, WIS, and CHA scores.
 

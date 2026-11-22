@@ -11,9 +11,9 @@ Creatures who sleep within the pavilion are immune to spells and other magical e
 
 Creatures who take a long rest in the pavilion, and who sleep for at least half that time, have shared dreams of future events. Though unclear upon waking, these premonitions sit in the backs of the creatures’ minds for the next 24 hours. Before the duration ends, a creature can call on the premonitions, expending them and immediately gaining one of the following benefits.
 
-- Ifyouare surprised during combat, you can choose instead to not be surprised.
+- If you are surprised during combat, you can choose instead to not be surprised.
 
-- Ifyouare not surprised at the beginning of combat, you have advantage on the initiative roll.
+- If you are not surprised at the beginning of combat, you have advantage on the initiative roll.
 
 - You have advantage on a single attack roll, ability check, or save.
 

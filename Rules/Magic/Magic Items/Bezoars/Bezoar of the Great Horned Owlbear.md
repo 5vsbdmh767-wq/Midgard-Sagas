@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Rare]] 650 gp*
 
 While this bezoar sits in your stomach, you are immune to the [[Conditions#Charmed|charmed]] and [[Conditions#Frightened|frightened]] conditions. In addition, creatures must be at least two sizes larger than you to grapple you.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Uncommon]] 100 gp*
 
 This spirit honey is made from the nectar of carnivorous plants and plant creatures. When you consume this honey, you have advantage on DEX (Stealth) checks as long as you remain motionless. In addition, when you would regain hit points from the rolling of one or more dice, you regain the highest number possible for each die.
 

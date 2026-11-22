@@ -7,9 +7,9 @@ publish: true
 
 The petals of this cerulean flower can be prepared into a compote and consumed. A single flower can make 3 doses. When you consume a dose, your INT, WIS, and CHA scores are reduced by 1 each. This reduction lasts until you finish a long rest. You can consume up to three doses as part of casting a spell, and you can choose to affect your spell with one of the following options for each dose you consumed:
 
-- Ifthe spell is of the abjuration school, increase the save DC by 2.
+- If the spell is of the abjuration school, increase the save DC by 2.
 
-- Ifthe spell has more powerful effects when cast at a higher level, treat the spell’s effects as if you had cast the spell at one slot level higher than the spell slot you used.
+- If the spell has more powerful effects when cast at a higher level, treat the spell’s effects as if you had cast the spell at one slot level higher than the spell slot you used.
 
 - The spell is affected by one of the following metamagic options, even if you aren’t a sorcerer:
 
@@ -19,7 +19,7 @@ In addition, consuming blue rose gives you some protection against spells. When 
 
 - You have advantage on the save against the spell ifit is a spell of the abjuration school.
 
-Ifthe spell is cownterspell or dispel magic, the DC increases by 2 to interrupt your spellcasting or to end a magic effect on you. You can use this reaction a number of times equal to the number of doses you consumed.
+If the spell is counterspell or dispel magic, the DC increases by 2 to interrupt your spellcasting or to end a magic effect on you. You can use this reaction a number of times equal to the number of doses you consumed.
 
 ***Blue Rose Addiction.*** Blue rose is a highly addictive substance. You must succeed on a DC 13 CON save each time you consume a dose of it or become addicted. It takes 1d4 days for blue rose addiction’s symptoms to manifest in a creature. Symptoms include fatigue and nausea. You suffer one level of exhaustion, and you regain only half the normal number of hit points from spending Hit Dice and no hit points from finishing a long rest.
 

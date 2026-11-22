@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Rare]] 350 gp*
 
 This spicy mead is brewed from royal hives and shimmers with a rose-gold hue. When you drink this mead, your CHA score increases to 20 for 8 hours. The mead has no effect on you if your CHA score is already equal to or greater than 20.
 

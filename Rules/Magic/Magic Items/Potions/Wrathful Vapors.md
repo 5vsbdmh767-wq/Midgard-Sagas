@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Uncommon]] 200 gp*
 
 Roiling vapors of red, orange, and black swirl in a frenzy of color inside a sealed glass bottle. As an action, you can open the bottle and empty its contents within 5 feet of you or throw the bottle up to 20 feet, shattering it on impact. If you throw it, make a ranged attack against a creature or object, treating the bottle as an improvised weapon.
 

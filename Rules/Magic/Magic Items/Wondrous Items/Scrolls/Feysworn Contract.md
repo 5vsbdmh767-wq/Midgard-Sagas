@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Scroll, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Scroll, [[Using Magic Items#Rarity|Rare]] 650 gp*
 
 This long scroll is written in flowing Elvish, the words flickering with a pale witchlight, and marked with the seal of a powerful fey or a fey lord or lady. When you use an action to present this scroll to a fey whose Challenge Rating is equal to or less than your level, the binding powers of the scroll compel it to listen to you. You can then attempt to strike a bargain with the fey, negotiating a service from it in exchange for a reward. The fey is under no compulsion to strike the bargain; it is compelled only to parley long enough for you to present a bargain and allow for negotiations. If you or your allies attack or otherwise attempt to harm the fey, the truce is broken, and the creature can act normally. If the fey refuses the offer, it is free to take any actions it wishes.
 

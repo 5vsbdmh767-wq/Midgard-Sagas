@@ -19,7 +19,7 @@ While wielding this sword, you can use an action to speak a command word, causin
 
 **5th Level.** Your attack rolls with this magic weapon score a critical hit on a roll of 19 or 20.
 
-**9th Level.** You gain a +1 bonus to attack and damage rolls with this sword. In addition, you have advantage on the first attack roll you make each turn with this sword. If you roll a 19 or 20 for the attack roll, this property ceases to function until you roll a1 or until you finish a short rest.
+**9th Level.** You gain a +1 bonus to attack and damage rolls with this sword. In addition, you have advantage on the first attack roll you make each turn with this sword. If you roll a 19 or 20 for the attack roll, this property ceases to function until you roll a 1 or until you finish a short rest.
 
 **13th Level.** You now gain a +2 bonus to attack and damage rolls with this sword, instead of +1. In addition, if you score a critical hit with this sword, you roll the damage dice three times, instead of twice.
 

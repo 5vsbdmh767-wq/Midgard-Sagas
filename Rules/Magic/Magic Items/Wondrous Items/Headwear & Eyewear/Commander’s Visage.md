@@ -11,9 +11,7 @@ This golden mask resembles a stern face, glowering at the world. While wearing t
 
 ***Conscription.*** You can use an action to expend 2 of its charges to conscript one humanoid within 60 feet of you that can see the mask. This conscription works like the *[[5th-Circle Spells#Dominate|dominate]]* spell, except it lasts 1 minute, requiring no concentration. You can have only one humanoid conscripted at a time. If you conscript another, the effect on the previous target ends.
 
-***Unsettling Glower.*** When a creature that can see the mask makes a melee attack against you, you can use your reaction to spend 1 charge to force the target to
-
-N thake a DC 15 WIS save. On a failure, the creature must choose a new target or lose the attack.
+***Unsettling Glower.*** When a creature that can see the mask makes a melee attack against you, you can use your reaction to spend 1 charge to force the target to make a DC 15 WIS save. On a failure, the creature must choose a new target or lose the attack.
 
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

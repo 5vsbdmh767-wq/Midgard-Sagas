@@ -55,10 +55,10 @@ These rules apply to the raw potions only. A troll blood potion keeps healing yo
 
 | Item | Type | Rarity | Attunement | Price |
 |---|---|---|---|---|
-| [[Potion of Troll Blood]] | Potion | Uncommon | — | pending |
-| [[Potion of Troll Blood, Greater]] | Potion | Rare | — | pending |
-| [[Potion of Troll Blood, Superior]] | Potion | Very Rare | — | pending |
-| [[Potion of Troll Blood, Supreme]] | Potion | Legendary | — | pending |
+| [[Potion of Troll Blood]] | Potion | Uncommon | — | 100 gp |
+| [[Potion of Troll Blood, Greater]] | Potion | Rare | — | 350 gp |
+| [[Potion of Troll Blood, Superior]] | Potion | Very Rare | — | 1,500 gp |
+| [[Potion of Troll Blood, Supreme]] | Potion | Legendary | — | 2,500 gp |
 
 ---
 <small>Sources: [[Credits]].</small>

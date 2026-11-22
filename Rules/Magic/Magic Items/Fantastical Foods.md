@@ -17,31 +17,31 @@ A [[Bezoars|bezoar]] in your stomach stops these foods from working.
 
 | Item | Type | Rarity | Attunement | Price |
 |---|---|---|---|---|
-| [[Blue Rose Tea]] | Potion | Uncommon | — | pending |
-| [[Broth of Bolstering]] | Potion | Common | — | pending |
-| [[Broth of Needful Fortitude]] | Potion | Very Rare | — | pending |
-| [[Candied Spider]] | Potion | Uncommon | — | pending |
-| [[Cloud and Mist Immortality Tea]] | Potion | Legendary | — | pending |
-| [[Companion’s Broth]] | Potion | Common | — | pending |
-| [[Dire Bacon]] | Potion | Uncommon | — | pending |
-| [[Dragonbone Broth]] | Potion | Rare | — | pending |
-| [[Dragonfire Pepper]] | Potion | Uncommon | — | pending |
-| [[Electric Eel Sushi]] | Potion | Rare | — | pending |
-| [[Gnomesalt Taffy]] | Potion | Uncommon | — | pending |
-| [[Golden Dawn]] | Potion | Uncommon | — | pending |
-| [[Honeyed Halfheart]] | Potion | Uncommon | — | pending |
-| [[Maiden’s Tears]] | Potion | Rare | — | pending |
-| [[Mincemeat Pie]] | Potion | Rare | — | pending |
-| [[Pickled Aboleth Brain]] | Potion | Very Rare | — | pending |
-| [[Purified Phoenix Tear]] | Potion | Legendary | — | pending |
-| [[Queen Bee]] | Potion | Rare | — | pending |
-| [[Roast Bean Juice]] | Potion | Uncommon | — | pending |
-| [[Saffron-Dusted Carrot]] | Potion | Common | — | pending |
-| [[Scarlet Mead]] | Potion | Rare | — | pending |
-| [[Seven-Flavored Tea of Forgetfulness]] | Potion | Very Rare | — | pending |
-| [[Sweet Subjects]] | Potion | Rare | — | pending |
-| [[Wafer of Warmth]] | Potion | Uncommon | — | pending |
-| [[Winter Coat]] | Potion | Uncommon | — | pending |
+| [[Blue Rose Tea]] | Potion | Uncommon | — | 350 gp |
+| [[Broth of Bolstering]] | Potion | Common | — | 10 gp |
+| [[Broth of Needful Fortitude]] | Potion | Very Rare | — | 1,500 gp |
+| [[Candied Spider]] | Potion | Uncommon | — | 100 gp |
+| [[Cloud and Mist Immortality Tea]] | Potion | Legendary | — | 10,500 gp |
+| [[Companion’s Broth]] | Potion | Common | — | 50 gp |
+| [[Dire Bacon]] | Potion | Uncommon | — | 100 gp |
+| [[Dragonbone Broth]] | Potion | Rare | — | 350 gp |
+| [[Dragonfire Pepper]] | Potion | Uncommon | — | 200 gp |
+| [[Electric Eel Sushi]] | Potion | Rare | — | 350 gp |
+| [[Gnomesalt Taffy]] | Potion | Uncommon | — | 100 gp |
+| [[Golden Dawn]] | Potion | Uncommon | — | 100 gp |
+| [[Honeyed Halfheart]] | Potion | Uncommon | — | 100 gp |
+| [[Maiden’s Tears]] | Potion | Rare | — | 350 gp |
+| [[Mincemeat Pie]] | Potion | Rare | — | 350 gp |
+| [[Pickled Aboleth Brain]] | Potion | Very Rare | — | 1,500 gp |
+| [[Purified Phoenix Tear]] | Potion | Legendary | — | 350 gp |
+| [[Queen Bee]] | Potion | Rare | — | 350 gp |
+| [[Roast Bean Juice]] | Potion | Uncommon | — | 100 gp |
+| [[Saffron-Dusted Carrot]] | Potion | Common | — | 10 gp |
+| [[Scarlet Mead]] | Potion | Rare | — | 350 gp |
+| [[Seven-Flavored Tea of Forgetfulness]] | Potion | Very Rare | — | 650 gp |
+| [[Sweet Subjects]] | Potion | Rare | — | 350 gp |
+| [[Wafer of Warmth]] | Potion | Uncommon | — | 100 gp |
+| [[Winter Coat]] | Potion | Uncommon | — | 100 gp |
 
 ---
 <small>Sources: [[Credits]].</small>

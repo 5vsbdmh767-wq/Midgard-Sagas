@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Rare]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Rare]] 350 gp*
 
 This pungent perfume has a woodsy and slightly musky scent. As an action, you can splash or spray the contents of this vial on yourself or another creature within 5 feet of you. For 1 minute, the perfumed creature attracts nearby humanoids and beasts.
 

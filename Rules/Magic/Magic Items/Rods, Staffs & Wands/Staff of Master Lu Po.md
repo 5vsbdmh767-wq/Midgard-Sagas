@@ -7,7 +7,7 @@ publish: true
 
 This plain-looking, wooden staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
 
-The staff has 12 charges and regains 1d6 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff retains its +1 bonus to attack and damage rolls, loses all other properties, and the next time you roll a 20 on an attack roll using the staff, it explodes, dealing an extra 6d6 force damage to the target then is destroyed. On a 20, the staff regains 1dro +2 charges.
+The staff has 12 charges and regains 1d6 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff retains its +1 bonus to attack and damage rolls, loses all other properties, and the next time you roll a 20 on an attack roll using the staff, it explodes, dealing an extra 6d6 force damage to the target then is destroyed. On a 20, the staff regains 1d10 +2 charges.
 
 Some of the staff’s properties require the target make a save to resist or lessen the property’s effects. The save DC is equal to 8 + your PB + your WIS modifier.
 

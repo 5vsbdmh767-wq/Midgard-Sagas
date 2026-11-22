@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Scroll, [[Using Magic Items#Rarity|Uncommon]] (Least), Rare (Lesser), Very Rare (Greater)* %% price pending %%
+*Scroll, [[Using Magic Items#Rarity|Uncommon]] (Least), Rare (Lesser), Very Rare (Greater) 200 gp (least) or 650 gp (lesser) or 1,500 gp (greater)*
 
 By using an action to recite the incantation inscribed on this scroll, you can conjure a creature to assist you, chosen by the GM or determined by rolling a d8 and consulting the appropriate table. Once the creature appears, the scroll crumbles to dust and is destroyed. The creature vanishes after 8 hours or when it is reduced to 0 hit points.
 

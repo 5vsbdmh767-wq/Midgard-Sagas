@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Uncommon]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Uncommon]] 100 gp*
 
 Sometimes known as weedkiller oil, this greasy amber fluid contains the crushed husks of dozens of locusts. One vial of the oily substance can coat one weapon or up to 5 pieces of ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item deals an extra 1d6 necrotic damage to plants or plant creatures on a successful hit.
 

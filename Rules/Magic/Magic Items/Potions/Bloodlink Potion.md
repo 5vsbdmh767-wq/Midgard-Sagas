@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Common]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Common]] 50 gp*
 
 When you and another willing creature each drink at least half this potion, your life energies are linked for 1 hour.
 

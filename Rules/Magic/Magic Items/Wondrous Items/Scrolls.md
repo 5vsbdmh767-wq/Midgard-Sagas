@@ -12,17 +12,17 @@ Some scrolls are contracts, such as the [[Aberrant Agreement|aberrant agreement]
 
 | Item | Type | Rarity | Attunement | Price |
 |---|---|---|---|---|
-| [[Aberrant Agreement]] | Scroll | Rare | — | pending |
-| [[Binding Oath]] | Scroll | Very Rare | by a [[Cleric]] or [[Paladin]] | pending |
-| [[Blasphemous Writ]] | Scroll | Uncommon | — | pending |
-| [[Celestial Charter]] | Scroll | Rare | — | pending |
-| [[Feysworn Contract]] | Scroll | Rare | — | pending |
-| [[Fiendish Charter]] | Scroll | Rare | — | pending |
-| [[Pact Paper]] | Scroll | Rare | — | pending |
-| [[Scroll of Conjuring]] | Scroll | Rarity Varies | — | pending |
-| [[Scroll of Fabrication]] | Scroll | Uncommon | — | pending |
-| [[Scroll of Treasure Finding]] | Scroll | Uncommon | — | pending |
-| [[Scrolls of Correspondence]] | Scroll | Common | — | pending |
+| [[Aberrant Agreement]] | Scroll | Rare | — | 650 gp |
+| [[Binding Oath]] | Scroll | Very Rare | by a [[Cleric]] or [[Paladin]] | 60,000 gp |
+| [[Blasphemous Writ]] | Scroll | Uncommon | — | 100 gp |
+| [[Celestial Charter]] | Scroll | Rare | — | 650 gp |
+| [[Feysworn Contract]] | Scroll | Rare | — | 650 gp |
+| [[Fiendish Charter]] | Scroll | Rare | — | 650 gp |
+| [[Pact Paper]] | Scroll | Rare | — | 650 gp |
+| [[Scroll of Conjuring]] | Scroll | Rarity Varies | — | 200 gp |
+| [[Scroll of Fabrication]] | Scroll | Uncommon | — | 1,000 gp |
+| [[Scroll of Treasure Finding]] | Scroll | Uncommon | — | 1,000 gp |
+| [[Scrolls of Correspondence]] | Scroll | Common | — | 50 gp |
 | [[Spell Scroll]] | Scroll | Rarity Varies | — | Price Varies |
 
 ---

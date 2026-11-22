@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]]* %% price pending %%
+*Wondrous Item, [[Using Magic Items#Rarity|Very Rare]] 5,000 gp*
 
 While this bezoar sits in your stomach, you are immune to exhaustion and curses (except a curse tied to this bezoar). Whenever you make an opportunity attack, you can make two attacks.
 

@@ -3,7 +3,7 @@ publish: true
 ---
 %% source: Vault of Magic %%
 
-*Potion, [[Using Magic Items#Rarity|Legendary]]* %% price pending %%
+*Potion, [[Using Magic Items#Rarity|Legendary]] 10,500 gp*
 
 The first time you drink this tea, you are reduced to 0 hit points, regardless of any magical effects or protections, and you are dying. Make death saves as normal. If you survive, you awaken with all of your hit points and 60 years younger. For example, an 80-year-old would awaken in the body of a 20-year-old. If you were not at least 60 years old, you awaken in the body of a newborn. You retain all your knowledge in any case.
 

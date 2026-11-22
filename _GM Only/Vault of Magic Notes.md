@@ -122,3 +122,12 @@ More spells not on the wiki yet (from the wondrous chapter): *cloak of shadow*, 
   - Stray characters removed from Ashwood Wand, Crystal Staff and Bear Paws.
 - **Type lines:** 88 older item pages (mostly core items: potions, rings, wands, wondrous items) had the type line and first sentence run together, with no links. Each type line is now on its own line, with rarity and attunement linked like the other pages. No wording changed.
 - **Left alone:** Big Dipper lists *hold* twice (5 charges and 2 charges). The book had *hold monster* and *hold person*, which are one spell in Tales of the Valiant. Staff of Power does the same, so I matched it.
+
+## Pricing: Potions & Scrolls (22 Nov 2026)
+
+- All 122 pages from this chapter are priced: potions, fantastical foods, spirit honey, bezoars, troll blood and scrolls. The working is in `_GM Only/Magic Item Prices, Potions & Scrolls.md`.
+- **One-use items are priced by the spell they copy**, the way the official potions are. That's why some very rare or legendary drinks are cheap (Potent Cure-All is 650 gp, priced like *greater restoration*). Items with no matching spell are priced by rarity, so Draught of Ambrosia, Extract of Dual-Mindedness and Cloud and Mist Immortality Tea are 10,500 gp each.
+- **Bezoars** last for days, so they're at the top of each rarity range. A cursed owlbear bezoar sells at half, per the house rule.
+- **Troll blood** matches the healing potion of the same rarity. The legendary one heals more than any healing potion, so I put it one row higher (2,500 gp).
+- **Reusable scrolls** (Binding Oath, Scroll of Fabrication, Scroll of Treasure Finding, Scrolls of Correspondence) are priced as permanent items. Binding Oath comes out at 60,000 gp.
+- **Scan fixes found while reading:** Black Dragon Oil was missing its dose count (5 ounces, checked against the page). A second sweep for garbled words fixed typos on 73 Vault of Magic pages, things like "adzo" for "a d20", "1dio" for "1d10", "Ifthe" for "If the", "I minute" for "1 minute", and three dropped numbers (Gnawing Spear's 5 feet, Living Juggernaut's DC 15, Ensnaring Ammunition's AC 10), each checked against the page. Armor of the Ngobou's type line said "Bide" instead of "Hide". Bezoar of the Cockatrice and Potion of Troll Blood, Superior also had stray characters.
