@@ -10,7 +10,7 @@ OLD = re.compile(r'^\[\[Crafting Magic Items\|Made with\]\]: .*\n\n', re.M)
 def line(e):
     w = e['made_with']
     if w == 'NOCRAFT':
-        return LINK + "can't be crafted."
+        return LINK + "can't be crafted; " + e.get('why', '') + '.'
     if w == 'NONE':
         r = re.sub(r',? per its own text$', '', e['flag'])
         return LINK + 'no monster parts; ' + r + '.'

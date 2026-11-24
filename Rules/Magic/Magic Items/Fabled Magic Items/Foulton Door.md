@@ -133,7 +133,7 @@ At the GM’s discretion, if the door has a quirk you want to remove, spells suc
 | 5 | The Fragment Power of the fragment you incorporated into the door when you received this quirk becomes more potent. The fragment’s numerical power is doubled. For example, if the fragment’s power increases the distance the door can travel by 100 miles, it increases that distance by 200 miles instead. |
 | 6 | Each creature that steps through the door regains 2d6 hit points. When a creature regains hit points in this way, it can’t regain hit points by stepping through the door again until it finishes a short or long rest. |
 
-[[Crafting Magic Items|Made with]]: can't be crafted.
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
 
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

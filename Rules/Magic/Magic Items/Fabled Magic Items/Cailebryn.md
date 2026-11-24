@@ -25,7 +25,7 @@ While wielding this sword, you can use an action to speak a command word, causin
 
 **17th Level.** You now gain a +3 bonus to attack and damage rolls with this sword, instead of +2. In addition, if your target has resistance to slashing damage, it doesn’t have resistance to the slashing damage from this sword. If your target has immunity to slashing damage, its immunity instead becomes resistance to the slashing damage from this sword.
 
-[[Crafting Magic Items|Made with]]: can't be crafted.
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
 
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

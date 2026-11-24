@@ -33,7 +33,7 @@ While holding this skull, you can use an action to speak a command word, causing
 
 **17th Level.** You can use an action to expend 1 of the skull’s charges to emit a flash of golden light from the skull. Each undead within 30 feet of the skull that are neither good nor evil must make a CON save (using your spell save DC), taking 6d6 radiant damage on a failed save, or half as much damage on a successful one. Evil undead take 8d6 radiant damage instead of 6d6.
 
-[[Crafting Magic Items|Made with]]: can't be crafted.
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
 
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

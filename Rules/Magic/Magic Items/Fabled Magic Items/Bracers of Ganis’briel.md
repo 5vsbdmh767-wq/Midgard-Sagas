@@ -31,7 +31,7 @@ You can’t create a new arrow of giant slaying until the next dawn, and you can
 
 **17th Level.** You now gain a +3 bonus to attack and damage rolls on ranged attacks made with longbows and shortbows, instead of +2. In addition, when you roll a 20 on a ranged attack roll with a longbow or shortbow, you roll the damage dice three times, instead of twice.
 
-[[Crafting Magic Items|Made with]]: can't be crafted.
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
 
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

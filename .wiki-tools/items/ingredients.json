@@ -14,8 +14,8 @@
  "Rules/Magic/Magic Items/Fantastical Foods/Broth of Needful Fortitude.md": {
   "item": "Broth of Needful Fortitude",
   "rarity": "Very Rare",
-  "made_with": "Eternal’s Humor · undead bone",
-  "flag": "Text says it's brewed from humanoid flesh and bone, which the harvesting rules treat as evil and unusable. Listed undead parts instead."
+  "made_with": "humanoid flesh · humanoid bone",
+  "flag": "Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted."
  },
  "Rules/Magic/Magic Items/Fantastical Foods/Candied Spider.md": {
   "item": "Candied Spider",
@@ -1502,8 +1502,8 @@
  "Rules/Magic/Magic Items/Magic Armor/Blood-Soaked Hide.md": {
   "item": "Blood-Soaked Hide",
   "rarity": "Very Rare",
-  "made_with": "Abnormal Leather · Hardened Blood · Frenzying Oil",
-  "flag": "Text says it's tanned humanoid skins, which the harvesting rules treat as evil and unusable. Listed monster parts instead."
+  "made_with": "tanned humanoid skins · Hardened Blood · Frenzying Oil",
+  "flag": "Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted."
  },
  "Rules/Magic/Magic Items/Magic Armor/Bloodprice Armor.md": {
   "item": "Bloodprice Armor",
@@ -1760,8 +1760,9 @@
  "Rules/Magic/Magic Items/Magic Armor/Void-Touched Buckler.md": {
   "item": "Void-Touched Buckler",
   "rarity": "Very Rare",
-  "made_with": "Void Essence · Throat Scales (void dragon) · Abnormal Leather",
-  "flag": "Text gives an accidental origin (it sat beside a tear into the Void for decades). Listed what a crafter would use instead."
+  "made_with": "NOCRAFT",
+  "flag": "Uncraftable (GM, 24 Nov): it became what it is by accident, beside a tear into the Void.",
+  "why": "it became what it is by accident, beside a tear into the Void"
  },
  "Rules/Magic/Magic Items/Magic Armor/Warlock’s Aegis.md": {
   "item": "Warlock’s Aegis",
@@ -2061,13 +2062,14 @@
   "item": "Anuraag’s Crucible",
   "rarity": "Artifact",
   "made_with": "NOCRAFT",
-  "flag": "An artifact; can't be crafted."
+  "flag": "Uncraftable (GM, 24 Nov): it's an artifact.",
+  "why": "it's an artifact"
  },
  "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Baba Yaga’s Cinderskull.md": {
   "item": "Baba Yaga’s Cinderskull",
   "rarity": "Rare",
-  "made_with": "Primordial Tar · Corpse Wax",
-  "flag": "The item only says a white, dry skull. In the folk tale her fence skulls are human (my reading), so I left the skull out; these give the heat and light."
+  "made_with": "a white, dry skull · Primordial Tar",
+  "flag": "Kept as written (GM, 24 Nov): the text says only a white, dry skull. In the folk tale her fence skulls are human (my reading, not the item's)."
  },
  "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Bed of Spikes.md": {
   "item": "Bed of Spikes",
@@ -2120,8 +2122,9 @@
  "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Clockwork Hare.md": {
   "item": "Clockwork Hare",
   "rarity": "Legendary",
-  "made_with": "Whirling Gizmo · Chronomatic Gear · Celestial Blood",
-  "flag": "Text says it's a god's gift. Listed what a crafter would need; you may rule it can't be made."
+  "made_with": "NOCRAFT",
+  "flag": "Uncraftable (GM, 24 Nov): it's a god's gift.",
+  "why": "it's a god's gift"
  },
  "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Clockwork Mynah Bird.md": {
   "item": "Clockwork Mynah Bird",
@@ -2469,7 +2472,7 @@
   "item": "Centaur Wrist-Wraps",
   "rarity": "Uncommon",
   "made_with": "Everwatchful Eyes",
-  "flag": "Text credits centaur shamans. If your table counts centaurs as Humanoids for harvesting, keep centaur parts out of it."
+  "flag": ""
  },
  "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Cinch of the Wolfmother.md": {
   "item": "Cinch of the Wolfmother",
@@ -2978,8 +2981,8 @@
  "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Corpsehunter’s Medallion.md": {
   "item": "Corpsehunter’s Medallion",
   "rarity": "Rare",
-  "made_with": "Eternal’s Humor · grave rat skulls",
-  "flag": "Text offers grave rat skulls or the bones of the ignoble dead. The second is humanoid bone, which the harvesting rules rule out, so only the rats are listed."
+  "made_with": "grave rat skulls or bones of the ignoble dead · Eternal’s Humor",
+  "flag": "Kept as written (GM, 24 Nov): grave rat skulls or the bones of the ignoble dead. The rat version can be crafted; the humanoid-bone version normally can't."
  },
  "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Dread Scarab.md": {
   "item": "Dread Scarab",
@@ -3068,8 +3071,8 @@
  "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Oracle Charm.md": {
   "item": "Oracle Charm",
   "rarity": "Common",
-  "made_with": "Visionary Flesh",
-  "flag": "Text says it's a human finger bone, which the harvesting rules rule out. Listed a monster part instead."
+  "made_with": "a human finger bone",
+  "flag": "Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted."
  },
  "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Ouroboros Amulet.md": {
   "item": "Ouroboros Amulet",
@@ -3104,8 +3107,9 @@
  "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Talisman of the Snow Queen.md": {
   "item": "Talisman of the Snow Queen",
   "rarity": "Very Rare",
-  "made_with": "Fey Tongue · Ice Heart · Thick Hide",
-  "flag": "Text says the Snow Queen grants these. Listed what a crafter would need; you may rule only she can make them."
+  "made_with": "NOCRAFT",
+  "flag": "Uncraftable (GM, 24 Nov): only the Snow Queen grants them.",
+  "why": "only the Snow Queen grants them"
  },
  "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Talking Torches.md": {
   "item": "Talking Torches",
@@ -3158,8 +3162,8 @@
  "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Book of Ebon Tides.md": {
   "item": "Book of Ebon Tides",
   "rarity": "Very Rare",
-  "made_with": "Shadowporting Blood · Gloompetal · Scroll Parchment",
-  "flag": "Text says it's bound in shadow goblin hide. If your table counts shadow goblins as Humanoids, leave that out; these cover the magic."
+  "made_with": "shadow goblin hide · Shadowporting Blood · Gloompetal",
+  "flag": "Kept as written (GM, 24 Nov): shadow goblin hide. If your table counts shadow goblins as Humanoids, it normally can't be crafted."
  },
  "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Book of Eibon.md": {
   "item": "Book of Eibon",
@@ -3518,8 +3522,8 @@
  "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Burning Skull.md": {
   "item": "Burning Skull",
   "rarity": "Very Rare",
-  "made_with": "Unliving Claw · Fiendish Oil · Spectral Essence",
-  "flag": "Text says the skull is human, which the harvesting rules rule out. Listed monster parts instead."
+  "made_with": "a misshapen human skull · Fiendish Oil · Spectral Essence",
+  "flag": "Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted."
  },
  "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Case of Preservation.md": {
   "item": "Case of Preservation",
@@ -4028,8 +4032,8 @@
  "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Craven’s Heart.md": {
   "item": "Craven’s Heart",
   "rarity": "Uncommon",
-  "made_with": "Fearful Eyedrops",
-  "flag": "Text says it's a dried humanoid heart, which the harvesting rules rule out. Listed a monster part instead."
+  "made_with": "a humanoid heart, taken from someone who died in terror",
+  "flag": "Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted."
  },
  "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Deepchill Orb.md": {
   "item": "Deepchill Orb",
@@ -4310,8 +4314,8 @@
  "Rules/Magic/Magic Items/Magic Weapons/Bone Whip.md": {
   "item": "Bone Whip",
   "rarity": "Very Rare",
-  "made_with": "Unliving Claw · Living Tendril · Bizarre Cartilage",
-  "flag": "Text says it's humanoid vertebrae and skin, which the harvesting rules rule out. Listed monster parts instead."
+  "made_with": "humanoid vertebrae and femur · tanned humanoid skin · Unliving Claw",
+  "flag": "Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted."
  },
  "Rules/Magic/Magic Items/Magic Weapons/Bonebreaker Mace.md": {
   "item": "Bonebreaker Mace",
@@ -4376,8 +4380,8 @@
  "Rules/Magic/Magic Items/Magic Weapons/Consuming Rod.md": {
   "item": "Consuming Rod",
   "rarity": "Very Rare",
-  "made_with": "Unliving Claw · ghoul fangs · Eternal’s Humor",
-  "flag": "Text says it's carved from a humanoid femur, which the harvesting rules rule out. Listed monster parts instead."
+  "made_with": "humanoid femur · ghoul fangs · Eternal’s Humor",
+  "flag": "Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted."
  },
  "Rules/Magic/Magic Items/Magic Weapons/Crimson Starfall Arrow.md": {
   "item": "Crimson Starfall Arrow",
@@ -4929,168 +4933,196 @@
   "item": "Assassin’s Chain",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Battlecaster’s Armor.md": {
   "item": "Battlecaster’s Armor",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Blood Moon Orb.md": {
   "item": "Blood Moon Orb",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Bracers of Ganis’briel.md": {
   "item": "Bracers of Ganis’briel",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Cailebryn.md": {
   "item": "Cailebryn",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Champion’s Plate.md": {
   "item": "Champion’s Plate",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Fire Shield of Rathume.md": {
   "item": "Fire Shield of Rathume",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Foulton Door.md": {
   "item": "Foulton Door",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Gauntlets of the Arcane Fist.md": {
   "item": "Gauntlets of the Arcane Fist",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Golden Griffon Shield.md": {
   "item": "Golden Griffon Shield",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Grinning Skull.md": {
   "item": "Grinning Skull",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Healer’s Hand Amulet.md": {
   "item": "Healer’s Hand Amulet",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Helm of Velamish.md": {
   "item": "Helm of Velamish",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Kelgror’s Hammer.md": {
   "item": "Kelgror’s Hammer",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Mage Hunter’s Armor.md": {
   "item": "Mage Hunter’s Armor",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Markum’s Glaive.md": {
   "item": "Markum’s Glaive",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Matched Blades of the Eternal Feudalists.md": {
   "item": "Matched Blades of the Eternal Feudalists",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Oak Heart Figurine.md": {
   "item": "Oak Heart Figurine",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Raurrick’s Axe.md": {
   "item": "Raurrick’s Axe",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Red Bulette’s Hide.md": {
   "item": "Red Bulette’s Hide",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Sacred Mountain Armor.md": {
   "item": "Sacred Mountain Armor",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Scorpion Sting Scimitar.md": {
   "item": "Scorpion Sting Scimitar",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Sovereign’s Scepter.md": {
   "item": "Sovereign’s Scepter",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Trickster’s Boots.md": {
   "item": "Trickster’s Boots",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Uthariel’s Diadem.md": {
   "item": "Uthariel’s Diadem",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Vrithmytrix’s Bane.md": {
   "item": "Vrithmytrix’s Bane",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Wanderer’s Book.md": {
   "item": "Wanderer’s Book",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  },
  "Rules/Magic/Magic Items/Fabled Magic Items/Wolf’s Howl Ring.md": {
   "item": "Wolf’s Howl Ring",
   "rarity": "Fabled",
   "made_with": "NOCRAFT",
-  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting.",
+  "why": "fabled items are beyond mortal crafting"
  }
 }

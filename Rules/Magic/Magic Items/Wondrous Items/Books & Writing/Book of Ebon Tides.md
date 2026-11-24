@@ -41,7 +41,7 @@ Deities, fey lords and ladies, archdevils, demon lords, and other powerful ruler
 > [!note] The Book in Midgard
 > An elvish princess of the Court of Silver Words wrote this book to record what she understood of shadow and how to master it. Playful illusions move across every page, bringing its capital letters and decorations to life. The sable elves of the Plane of Shadow know it as a famous work, and it opens for any elfmarked or sable elf. %% paraphrased sidebar %%
 
-[[Crafting Magic Items|Made with]]: Shadowporting Blood · Gloompetal · Scroll Parchment
+[[Crafting Magic Items|Made with]]: shadow goblin hide · Shadowporting Blood · Gloompetal
 
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

@@ -37,7 +37,7 @@ Once it has been used to become an awakened tree, the figurine can’t be used i
 
 **17th Level.** When you use the figurine’s 9th-level property, the figurine now becomes a treant instead of an awakened tree. In addition, the treant has resistance to fire damage, instead of vulnerability to it.
 
-[[Crafting Magic Items|Made with]]: can't be crafted.
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
 
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

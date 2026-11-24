@@ -9,7 +9,7 @@ Gifted by a deity of time and clockwork, these simple-seeming trinkets portend s
 
 The field ends early if an affected creature attacks, touches, alters, or has any other physical or magical impact on a creature, or an object being worn or carried by a creature, that is frozen in time. When the field ends, the figurine turns into a nonmagical, living white hare that goes bounding off into the distance, never to be seen again.
 
-[[Crafting Magic Items|Made with]]: Whirling Gizmo · Chronomatic Gear · Celestial Blood
+[[Crafting Magic Items|Made with]]: can't be crafted; it's a god's gift.
 
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

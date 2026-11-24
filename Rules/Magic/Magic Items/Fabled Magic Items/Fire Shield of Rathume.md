@@ -35,7 +35,7 @@ Yj shield. Once used, the shield can’t be used in this way again until the nex
 
 **17th Level.** You now gain a +3 bonus to AC, instead of +2. This bonus is in addition to the shield’s normal bonus to AC. In addition, you have resistance to nonmagical bludgeoning, piercing, and slashing damage, and you can use an action to make yourself immune to nonmagical bludgeoning, piercing, and slashing damage for 10 minutes or until you are no longer wielding this shield. Once used, the shield can't be used in this way again until the next dawn.
 
-[[Crafting Magic Items|Made with]]: can't be crafted.
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
 
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

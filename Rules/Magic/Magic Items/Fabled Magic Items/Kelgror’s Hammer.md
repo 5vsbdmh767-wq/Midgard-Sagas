@@ -33,7 +33,7 @@ In addition, Kelgror’s spirit awakens within the hammer, and the hammer become
 
 **17th Level.** You now gain a +3 bonus to attack and damage rolls with this hammer, instead of +2. In addition, you can use an action to cast the *[[7th-Circle Spells#Etherealness|etherealness]]* spell from the hammer. The spell lasts for 10 minutes or until you use an action to end the spell. Once used, the hammer can't be used in this way again until the next dawn.
 
-[[Crafting Magic Items|Made with]]: can't be crafted.
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
 
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

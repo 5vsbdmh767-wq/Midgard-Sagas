@@ -9,7 +9,7 @@ Warm to the touch, this white, dry skull radiates dim, orange light from its eye
 
 ***Scorching Skull.*** While holding the skull, you can use an action to cast a 3rd-circle scorching ray from it. When you make the spell’s attacks, you do so with an attack bonus of +7. The skull can’t be used in this way again until the next dawn.
 
-[[Crafting Magic Items|Made with]]: Primordial Tar · Corpse Wax
+[[Crafting Magic Items|Made with]]: a white, dry skull · Primordial Tar
 
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

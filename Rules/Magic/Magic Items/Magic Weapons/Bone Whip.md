@@ -9,7 +9,7 @@ This whip is constructed of humanoid vertebrae with their edges magically sharpe
 
 You can use an action to cause fiendish energy to coat the whip. For 1 minute, you gain 5 temporary hit points the first time you hit a creature on each turn. In addition, when you deal damage to a creature with this weapon, the creature must succeed on a DC 17 CON save or its hit point maximum is reduced by an amount equal to the damage dealt. This reduction lasts until the creature finishes a long rest. Once used, this property of the whip can’t be used again until the next dawn.
 
-[[Crafting Magic Items|Made with]]: Unliving Claw · Living Tendril · Bizarre Cartilage
+[[Crafting Magic Items|Made with]]: humanoid vertebrae and femur · tanned humanoid skin · Unliving Claw
 
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

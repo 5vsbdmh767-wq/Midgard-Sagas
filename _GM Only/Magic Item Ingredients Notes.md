@@ -11,29 +11,28 @@ Notes on the "Made with" lines added to every *Vault of Magic* item page on 24 N
 - [[Credits]]: added the *Field Guide to Monster Harvesting*, volumes 1 and 2.
 - Every ingredient choice is mine, matched to what the item does and checked by script: named materials exist in the Field Guide, ingredient counts match rarity (consumables one fewer), and the main ingredient can come from a creature at the rarity's floor. Where it can't, the item is flagged below.
 - The data lives in `.wiki-tools/items/ingredients.json` and `.wiki-tools/items/ingredients.py` writes the lines. To change an item, edit its entry in the JSON and rerun the script; it replaces the old line rather than adding a second one.
-- 29 items can't be crafted: the 28 fabled items (the core rules put fabled items beyond mortal crafting) and [[Anuraag’s Crucible]] (an artifact).
+- 32 items can't be crafted: the 28 fabled items (the core rules put fabled items beyond mortal crafting), [[Anuraag’s Crucible]] (an artifact), and the three given-not-made items below.
 
 ## Humanoid parts in the item text
 
-The harvesting rules treat harvesting Humanoids as evil and the parts as unusable. These items say they are made from Humanoid parts (or might be). I listed monster parts instead; say if you want it the other way.
+**Ruled 24 Nov: kept as written.** These items name humanoid parts. The harvesting rules make those parts unusable, so players normally can't craft them, but the items stay as they are.
 
 | Item | Rarity | Note |
 |---|---|---|
-| [[Baba Yaga’s Cinderskull]] | Rare | The item only says a white, dry skull. In the folk tale her fence skulls are human (my reading), so I left the skull out; these give the heat and light. |
-| [[Blood-Soaked Hide]] | Very Rare | Text says it's tanned humanoid skins, which the harvesting rules treat as evil and unusable. Listed monster parts instead. |
-| [[Bone Whip]] | Very Rare | Text says it's humanoid vertebrae and skin, which the harvesting rules rule out. Listed monster parts instead. |
-| [[Book of Ebon Tides]] | Very Rare | Text says it's bound in shadow goblin hide. If your table counts shadow goblins as Humanoids, leave that out; these cover the magic. |
-| [[Broth of Needful Fortitude]] | Very Rare | Text says it's brewed from humanoid flesh and bone, which the harvesting rules treat as evil and unusable. Listed undead parts instead. |
-| [[Burning Skull]] | Very Rare | Text says the skull is human, which the harvesting rules rule out. Listed monster parts instead. |
-| [[Centaur Wrist-Wraps]] | Uncommon | Text credits centaur shamans. If your table counts centaurs as Humanoids for harvesting, keep centaur parts out of it. |
-| [[Consuming Rod]] | Very Rare | Text says it's carved from a humanoid femur, which the harvesting rules rule out. Listed monster parts instead. |
-| [[Corpsehunter’s Medallion]] | Rare | Text offers grave rat skulls or the bones of the ignoble dead. The second is humanoid bone, which the harvesting rules rule out, so only the rats are listed. |
-| [[Craven’s Heart]] | Uncommon | Text says it's a dried humanoid heart, which the harvesting rules rule out. Listed a monster part instead. |
-| [[Oracle Charm]] | Common | Text says it's a human finger bone, which the harvesting rules rule out. Listed a monster part instead. |
+| [[Baba Yaga’s Cinderskull]] | Rare | Kept as written (GM, 24 Nov): the text says only a white, dry skull. In the folk tale her fence skulls are human (my reading, not the item's). |
+| [[Blood-Soaked Hide]] | Very Rare | Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted. |
+| [[Bone Whip]] | Very Rare | Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted. |
+| [[Book of Ebon Tides]] | Very Rare | Kept as written (GM, 24 Nov): shadow goblin hide. If your table counts shadow goblins as Humanoids, it normally can't be crafted. |
+| [[Broth of Needful Fortitude]] | Very Rare | Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted. |
+| [[Burning Skull]] | Very Rare | Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted. |
+| [[Consuming Rod]] | Very Rare | Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted. |
+| [[Corpsehunter’s Medallion]] | Rare | Kept as written (GM, 24 Nov): grave rat skulls or the bones of the ignoble dead. The rat version can be crafted; the humanoid-bone version normally can't. |
+| [[Craven’s Heart]] | Uncommon | Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted. |
+| [[Oracle Charm]] | Common | Humanoid parts, kept as written (GM, 24 Nov). The harvesting rules make these parts unusable, so this normally can't be crafted. |
 
 ## Named source under the floor
 
-The item text names its own source, and that creature is too weak for the item's rarity. I kept the named source because the item is built on it. Options: let these stand as exceptions, or swap in a stronger main ingredient.
+**Ruled 24 Nov: named sources are honored**, even under the floor.
 
 | Item | Rarity | Note |
 |---|---|---|
@@ -64,7 +63,7 @@ The item text names its own source, and that creature is too weak for the item's
 
 ## Named source, CR not in your books
 
-The item names a creature whose CR I couldn't confirm from Monster Vault or the Field Guide tables.
+The item names a creature whose CR I couldn't confirm from Monster Vault or the Field Guide tables. **Bryant to confirm.** Named sources are honored either way, so this only matters for your own sense of each item.
 
 | Item | Rarity | Note |
 |---|---|---|
@@ -79,15 +78,15 @@ The item names a creature whose CR I couldn't confirm from Monster Vault or the 
 | [[Pact Paper]] | Rare | Text says it's made from a pact drake's cast-off scales. Check the pact drake's CR against the Rare floor; kept because the item is built on it. |
 | [[White Ape Hide]] | Very Rare | Text says it's made from a white ape. Check its CR against the Very Rare floor; kept because the item is built on it. |
 
-## Odd origins
+## Given, not made
 
-The item text says it was given, not made. I listed what a crafter would need anyway.
+**Ruled 24 Nov: uncraftable**, like artifacts and fabled items.
 
 | Item | Rarity | Note |
 |---|---|---|
-| [[Clockwork Hare]] | Legendary | Text says it's a god's gift. Listed what a crafter would need; you may rule it can't be made. |
-| [[Talisman of the Snow Queen]] | Very Rare | Text says the Snow Queen grants these. Listed what a crafter would need; you may rule only she can make them. |
-| [[Void-Touched Buckler]] | Very Rare | Text gives an accidental origin (it sat beside a tear into the Void for decades). Listed what a crafter would use instead. |
+| [[Clockwork Hare]] | Legendary | Uncraftable (GM, 24 Nov): it's a god's gift. |
+| [[Talisman of the Snow Queen]] | Very Rare | Uncraftable (GM, 24 Nov): only the Snow Queen grants them. |
+| [[Void-Touched Buckler]] | Very Rare | Uncraftable (GM, 24 Nov): it became what it is by accident, beside a tear into the Void. |
 
 ## No monster parts
 
@@ -95,15 +94,15 @@ These say they're made from something that isn't a monster. Their line says so i
 
 | Item | Rarity | Note |
 |---|---|---|
-| [[Blue Rose Tea]] | Uncommon | Brewed from blue rose petals, per its own text. |
-| [[Blue Rose]] | Rare | It's the blue rose itself, a flower. |
-| [[Breathing Reed]] | Common | It's a magic river reed. |
-| [[Honey of Ancient Meadows]] | Rare | Spirit honey from flowers in ancient meadows, per its own text. |
-| [[Honey of Dead Fields]] | Uncommon | Spirit honey from graveyard and battlefield flowers, per its own text. |
-| [[Honey of Gloomy Flowers]] | Rare | Spirit honey from Shadow Realm flowers, per its own text. |
-| [[Honey of Warped Wildflowers]] | Very Rare | Spirit honey from magic-warped wildflowers, per its own text. |
-| [[Memory Philter]] | Rare | It's a mortal's memory, traded to the fey. |
-| [[White Dandelion]] | Common | It's a magic flower. |
+| [[Blue Rose Tea]] | Uncommon | brewed from blue rose petals, per its own text |
+| [[Blue Rose]] | Rare | it's the blue rose itself, a flower |
+| [[Breathing Reed]] | Common | it's a magic river reed |
+| [[Honey of Ancient Meadows]] | Rare | spirit honey from flowers in ancient meadows, per its own text |
+| [[Honey of Dead Fields]] | Uncommon | spirit honey from graveyard and battlefield flowers, per its own text |
+| [[Honey of Gloomy Flowers]] | Rare | spirit honey from Shadow Realm flowers, per its own text |
+| [[Honey of Warped Wildflowers]] | Very Rare | spirit honey from magic-warped wildflowers, per its own text |
+| [[Memory Philter]] | Rare | it's a mortal's memory, traded to the fey |
+| [[White Dandelion]] | Common | it's a magic flower |
 
 ## Other notes
 

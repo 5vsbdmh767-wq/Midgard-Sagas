@@ -27,7 +27,7 @@ While wielding this scimitar, you can use an action to create one dose of basic 
 
 **17th Level.** You gain a +3 bonus to attack and damage rolls with this scimitar, instead of +2. In addition, you can expend 2 charges as an action to create one dose of any contact or injury poison. The poison can coat the blade for 1 minute or be collected in a vial (your choice). If collected in a vial, the poison lasts for 8 hours or until used to coat a blade.
 
-[[Crafting Magic Items|Made with]]: can't be crafted.
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
 
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

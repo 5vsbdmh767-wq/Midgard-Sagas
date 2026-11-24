@@ -35,7 +35,7 @@ While wearing this armor, your steps make no sound, regardless of the surface yo
 
 **17th Level.** You now gain a +3 bonus to AC, instead of +2. In addition, when you successfully hit a creature that is surprised, it must make a CON save (DC 8 + your DEX modifier + your PB). On a failed save, double the damage of your attack against the creature.
 
-[[Crafting Magic Items|Made with]]: can't be crafted.
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
 
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

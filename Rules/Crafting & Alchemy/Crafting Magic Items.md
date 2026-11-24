@@ -27,8 +27,10 @@ Some items come in versions of different rarity. Their pages list the ingredient
 - A capitalized name is a specific harvested material, such as Voltaic Organ or Abnormal Leather. Each comes from a particular kind of creature and has uses of its own.
 - A plain description, such as *dragon bone* or *Fey hair*, means any harvest of that kind from a fitting creature.
 - A creature or place in brackets narrows it down, as in *Elemental Gemstone (fire)*.
+- When an item's own description says what it's made from, that source is honored, even if the creature is weaker than the table above asks for.
+- Some items are made from humanoid parts. Harvesting people is an evil act and those parts can't be used, so these items normally can't be crafted.
 - A few items are made from something that isn't a monster, such as a flower or a traded memory. Their line says so.
-- Artifacts and fabled items can't be crafted.
+- Artifacts, fabled items and items that were given rather than made can't be crafted. Their line says why.
 
 ## Who Can Work Them
 

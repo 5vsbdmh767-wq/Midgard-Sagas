@@ -33,7 +33,7 @@ While wearing this mithral breastplate, you have advantage on CON saves that you
 
 **17th Level.** You now gain a +3 bonus to AC, instead of +2. You have resistance to force damage. In addition, you can use an action to make yourself immune to force damage for 10 minutes. Once used, this property can’t be used again until the next dawn.
 
-[[Crafting Magic Items|Made with]]: can't be crafted.
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
 
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

@@ -31,7 +31,7 @@ While holding the orb, you have darkvision out to a range of 60 feet. If you alr
 
 **17th Level.** You can use an action to detect magical pathways and portals, such as the presence of the *[[Rituals 4th–6th Circle#Teleportation Circle|teleportation circle]]* or *[[9th-Circle Spells#Gate|gate]]* spells or the presence of natural fonts of magic like ley lines, within 120 feet of you. Detected portals are visible to you, and you can point out their locations to others. By spending 1 minute concentrating on a portal detected by the orb, you can sense the physical conditions around its destination. Once used, the orb can’t be used in this way again until the next dawn.
 
-[[Crafting Magic Items|Made with]]: can't be crafted.
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
 
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

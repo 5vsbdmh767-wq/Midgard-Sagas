@@ -7,7 +7,7 @@ publish: true
 
 This amulet is made from the skulls of grave rats or from scrimshawed bones of the ignoble dead. While wearing it, you have resistance to necrotic damage.
 
-[[Crafting Magic Items|Made with]]: Eternal’s Humor · grave rat skulls
+[[Crafting Magic Items|Made with]]: grave rat skulls or bones of the ignoble dead · Eternal’s Humor
 
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
