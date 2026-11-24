@@ -11,6 +11,8 @@ This soot-colored steel buckle has an exploding flame etched into its surface. I
 
 ***Illuminate.*** As an action, you can expend 1 or more of the buckle’s charges to cause the buckle to shed light. It sheds warm, bright light in a 10-foot radius for each charge expended and dim light for an additional 10 feet for each charge expended. The light lasts for 1 hour or until you extinguish it (no action required).
 
+[[Crafting Magic Items|Made with]]: Angelic Oil · Eruptive Sac · Stone-Eating Acid
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

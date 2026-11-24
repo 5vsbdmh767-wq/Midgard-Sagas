@@ -17,6 +17,8 @@ This wide leather girdle has many sewn-in pouches and holsters that hold an asso
 
 Each container magically replenishes each day at dawn, if you are wearing the girdle. All the potions and alchemical substances produced by the girdle lose their properties if they’re transferred to another container before being used. %% alchemist’s ice and swarm repellent come from another Kobold Press book and aren’t on the wiki yet %%
 
+[[Crafting Magic Items|Made with]]: Eruptive Sac · Acrid Slag · Astralsupial Pouch
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

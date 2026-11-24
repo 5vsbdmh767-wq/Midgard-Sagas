@@ -9,6 +9,8 @@ This thin bone rod is topped with the carved figurine of an albatross in flight.
 
 The rod regains 1d4 + 1 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the rod crumbles to dust and is destroyed, and you must succeed on a DC 15 WIS save or be cursed for 1 minute as if you had been the target of the rod’s power.
 
+[[Crafting Magic Items|Made with]]: bone from a sea monster · Lock of Hag (sea hag)
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

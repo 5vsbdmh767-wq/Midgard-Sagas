@@ -9,6 +9,8 @@ This plain, wooden staff has 5 charges and regains 1d4 + 1 expended charges dail
 
 When you increase a spell’s level using the staff, the spell casts as if you used a spell slot of a higher circle, but you don’t expend that higher-level spell slot. You can’t use the magic of this staff to increase a spell to a slot level higher than the highest spell circle you can cast. For example, if you are a 7th-level wizard, and you cast *[[1st-Circle Spells#Magic Missile|magic missile]]*, expending a 2nd-circle spell slot, you can expend 3 of the staff’s charges to cast the spell as a 4th-circle spell, but you can’t expend 5 of the staff’s charges to cast the spell as a 5th-circle spell since you can’t cast 5th-circle spells.
 
+[[Crafting Magic Items|Made with]]: Void Essence
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

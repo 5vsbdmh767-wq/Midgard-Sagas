@@ -12,6 +12,8 @@ When you roll a 20 on an attack roll made with this weapon, the target becomes [
 > [!note] Faustin the Drunkard
 > A cruel moneylender turned zealot made this club. After a hangover he took as divine punishment, he blamed all the world’s ills on drink, became a cleric, and set his thugs on taverns and brewers. He is long dead, but his club still turns up and causes trouble. %% source: Vault of Magic (paraphrased sidebar) %%
 
+[[Crafting Magic Items|Made with]]: Poison Coil
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

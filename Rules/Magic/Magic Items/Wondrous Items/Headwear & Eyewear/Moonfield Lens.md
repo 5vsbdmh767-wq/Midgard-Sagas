@@ -11,6 +11,8 @@ This lens is rainbow-hued and protected by a sturdy leather case. It has 4 charg
 
 - True Path. For 1 hour, you automatically succeed on all WIS (Survival) checks to navigate in the wild. If you are underground, you automatically know the most direct route to reach the surface.
 
+[[Crafting Magic Items|Made with]]: eye of a seer · Moon Drake Saliva · Telescopic Eyes
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

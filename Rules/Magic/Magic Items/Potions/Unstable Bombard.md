@@ -13,6 +13,8 @@ These brass and crystal cylinders are 6 inches long with 1-inch diameters. Each 
 
 ***Sloughide Bombard (Very Rare).*** A clear, gelatinous substance fills this canister. Each creature in the line of this substance must make a DC 17 CON save. On a failure, a creature takes 6d6 acid damage and is [[Conditions#Paralyzed|paralyzed]] for 1 minute. On a success, a creature takes half the damage and isn’t [[Conditions#Paralyzed|paralyzed]]. While paralyzed, the creature takes 2d6 acid damage at the start of each of its turns. A paralyzed creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 
+[[Crafting Magic Items|Made with]]: Eruptive Sac · Void Essence · Otherworldly Slime. Use as many as the version's rarity calls for.
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

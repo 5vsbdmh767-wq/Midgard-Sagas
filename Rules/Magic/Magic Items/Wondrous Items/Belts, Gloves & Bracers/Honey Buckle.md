@@ -13,6 +13,8 @@ While wearing this bear head-shaped belt buckle, you can use an action to cast *
 
 ***White Honey Buckle (Very Rare).*** When you use this belt buckle to cast *[[4th-Circle Spells#Polymorph|polymorph]]* on yourself, you transform into a polar bear.
 
+[[Crafting Magic Items|Made with]]: Animal Lord Essence (bear) · Thick Hide · bear claws. Use as many as the version's rarity calls for.
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

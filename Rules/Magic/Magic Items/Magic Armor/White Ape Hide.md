@@ -13,6 +13,8 @@ This armor was made from the remains of a white ape that fell in battle. While w
 
 ***White Ape’s Wasting.*** When you hit a creature with a melee weapon attack, you can choose to imbue the weapon with disease. The target must succeed on a DC 15 CON save or become infected with the arcane wasting disease. It takes 1d6 days for arcane wasting’s symptoms to manifest in an infected creature, which include forgetfulness and minor delirium. At the end of each long rest, the infected creature must succeed on a DC 15 CON save or its INT and WIS scores are each reduced by 1d3. The creature dies if this reduces either score to 0. Otherwise, the reduction lasts until the creature finishes a long rest after the disease is cured. The creature recovers from the disease by making two consecutive successful saves. The lesser restoration spell cures the disease if the spellcaster succeeds on a DC 15 spellcasting check. Once used, this property of the armor can’t be used again until 7 days have passed.
 
+[[Crafting Magic Items|Made with]]: white ape hide · Colossal Tendon · Bizarre Cartilage
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

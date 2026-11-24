@@ -9,6 +9,8 @@ This spear has an ivory haft, and tiny snowflakes occasionally fall from its tip
 
 You can use an action to transform the spear into a pair of snow skis. While wearing the snow skis, you have a walking speed of 40 feet when you walk across snow or ice, and you can walk across icy surfaces without needing to make an ability check. You can use a bonus action to transform the skis back into the spear. While the spear is transformed into a pair of skis, you can’t make attacks with it.
 
+[[Crafting Magic Items|Made with]]: Throat Scales (white dragon) · Ice Heart · mammoth ivory
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

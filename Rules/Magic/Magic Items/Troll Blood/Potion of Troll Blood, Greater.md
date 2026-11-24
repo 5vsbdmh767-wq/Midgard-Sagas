@@ -9,6 +9,8 @@ When drink this potion, you regain 3 hit points at the start of each of your tur
 
 ***Mutations.*** This potion can cause up to 2 minor mutations.
 
+[[Crafting Magic Items|Made with]]: troll blood
+
 Part of [[Troll Blood]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

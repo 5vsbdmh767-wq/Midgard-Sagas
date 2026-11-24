@@ -7,6 +7,8 @@ publish: true
 
 For 1 hour after you drink this potion, you can move across icy surfaces without needing to make an ability check, and difficult terrain composed of ice or snow doesn’t cost you extra movement. This sparkling blue liquid contains tiny snowflakes that disappear when shaken.
 
+[[Crafting Magic Items|Made with]]: foot pads of an ice-dwelling creature
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

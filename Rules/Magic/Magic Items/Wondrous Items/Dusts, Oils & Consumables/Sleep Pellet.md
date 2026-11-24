@@ -11,6 +11,8 @@ Alternatively, you can use an action to swallow the pellet harmlessly. Once befo
 
 An unconscious creature awakens if it takes damage or if another creature uses an action to wake it.
 
+[[Crafting Magic Items|Made with]]: sleep-musk gland
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

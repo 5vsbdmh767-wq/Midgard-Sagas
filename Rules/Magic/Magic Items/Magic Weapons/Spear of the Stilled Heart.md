@@ -11,6 +11,8 @@ The spear has 3 charges, and it regains all expended charges daily at dusk. When
 
 ***Curse.*** This spear is cursed, and becoming attuned to it extends the curse to you until you are targeted by the *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic. As long as you remain cursed, you are unwilling to part with the spear, keeping it within reach at all times. When you expend a charge from the spear, you must succeed on a DC 12 CON save or become sensitive to bright light and distracted by a thirst for blood for 1d4 hours. If you are already suffering from this effect when you fail the save, increase the duration by 1d4. hours. For the duration, you have disadvantage on WIS and INT checks.
 
+[[Crafting Magic Items|Made with]]: Unliving Claw · Eternal’s Humor · Teratoid Bark
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

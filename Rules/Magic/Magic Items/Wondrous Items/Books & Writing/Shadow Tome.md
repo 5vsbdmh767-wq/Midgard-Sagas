@@ -9,6 +9,8 @@ This unassuming book possesses powerful illusory magics. When you write on its p
 
 Most shadow tomes already contain text, and it is rare to find one filled with blank pages. When you first attune to the book, you can choose to keep or remove the book’s previous contents.
 
+[[Crafting Magic Items|Made with]]: Shadowporting Blood · Gloompetal
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

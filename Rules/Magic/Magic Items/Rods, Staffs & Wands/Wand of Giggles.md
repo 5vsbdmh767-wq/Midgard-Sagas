@@ -9,6 +9,8 @@ This wand is tipped with a feather. The wand has 3 charges. While holding it, yo
 
 The wand regains all expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand transforms into a *[[Wand of Tears|wand of tears]]*.
 
+[[Crafting Magic Items|Made with]]: Laughing Fruit
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -13,6 +13,8 @@ You can place a small keepsake of a creature, such as a miniature portrait, a lo
 
 ***Reminiscence.*** If the locket contains a keepsake from a dead creature, you can use it to manifest their spirit and speak with them while holding or wearing the locket. This works like the *[[Rituals 1st–3rd Circle#Speak with Dead|speak with dead]]* spell, but the spirit’s answers are typically less cryptic and more helpful. Once used, this property can’t be used again until 7 days have passed.
 
+[[Crafting Magic Items|Made with]]: Imitative Vocal Cords
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

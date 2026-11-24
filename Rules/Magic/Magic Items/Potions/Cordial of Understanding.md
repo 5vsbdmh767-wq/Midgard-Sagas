@@ -9,6 +9,8 @@ When you drink this tangy, violet liquid, your mind opens to new forms of commun
 
 This potion’s magic can also apply to non-verbal languages, such as a hand signal-based or dance-based language, so long as you spend 1 minute watching it being used and have the appropriate anatomy and limbs to communicate in the language.
 
+[[Crafting Magic Items|Made with]]: Fey Tongue
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

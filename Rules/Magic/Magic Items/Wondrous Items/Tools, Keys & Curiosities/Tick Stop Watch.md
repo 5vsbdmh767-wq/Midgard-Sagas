@@ -9,6 +9,8 @@ While holding this silver pocketwatch, you can use an action to magically stop a
 
 The pocketwatch must be wound at least once every 24 hours, just like a normal pocketwatch, or its magic ceases to function. If left unwound for 24 hours, the watch loses its magic, but the power returns 24 hours after the next time it is wound.
 
+[[Crafting Magic Items|Made with]]: Chronomatic Gear · Magnetizing Agent
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

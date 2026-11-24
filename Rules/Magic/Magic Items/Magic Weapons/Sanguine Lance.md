@@ -11,6 +11,8 @@ When you hit a creature that has blood with this lance, the target takes an extr
 
 ***Curse.*** This lance is cursed, and becoming attuned to it extends the curse to you. Each day, as long as you remain cursed, you have disadvantage on CON saves until you draw blood from another creature with the lance. Once the lance has done damage to another creature or its surface has been in contact with the blood of another creature, this effect of the curse is suppressed until the next dawn.
 
+[[Crafting Magic Items|Made with]]: vampire blood
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

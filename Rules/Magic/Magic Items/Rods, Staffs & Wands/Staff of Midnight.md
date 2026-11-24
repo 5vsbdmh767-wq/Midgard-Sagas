@@ -11,6 +11,8 @@ This staff has 10 charges. While holding the staff, you can use an action to exp
 
 The staff regains 1d6 + 4 expended charges daily at dusk. If you expend the last charge, roll a d20. On a 1, the staff crumbles to dark powder and is destroyed.
 
+[[Crafting Magic Items|Made with]]: Devil’s Eyes · Shadowporting Blood · Gloompetal
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

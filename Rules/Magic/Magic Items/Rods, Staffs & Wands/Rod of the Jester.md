@@ -13,6 +13,8 @@ This wooden rod is decorated with colorful scarves and topped with a carving of 
 
 ***Slapstick.*** You can use an action to swing the rod in the direction of a creature within 5 feet of you. The target must succeed on a DC 15 DEX save or be pushed up to 5 feet away from you and knocked [[Conditions#Prone|prone]]. If the target fails the save by 5 or more, it is also [[Conditions#Stunned|stunned]] until the end of its next turn.
 
+[[Crafting Magic Items|Made with]]: Laughing Fruit · Celebrant Goo
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

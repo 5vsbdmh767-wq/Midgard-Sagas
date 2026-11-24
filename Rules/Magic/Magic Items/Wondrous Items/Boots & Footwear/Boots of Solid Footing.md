@@ -9,6 +9,8 @@ A thick, rubbery sole covers the bottoms and sides of these stout leather boots.
 
 When the boots’ property has been used for a total of 1 minute, the magic ceases to function until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Anchoring Root
+
 Part of [[Boots & Footwear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

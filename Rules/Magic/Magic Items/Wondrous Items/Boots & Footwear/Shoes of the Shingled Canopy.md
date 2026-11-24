@@ -9,6 +9,8 @@ These well-made, black leather shoes have brass buckles shaped like chimneys. Wh
 
 In addition, while falling, you can use a reaction to cast the *[[1st-Circle Spells#Feather Fall|feather fall]]* spell by holding your nose. The shoes can’t be used this way again until the next dusk.
 
+[[Crafting Magic Items|Made with]]: Gripping Spikes
+
 Part of [[Boots & Footwear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

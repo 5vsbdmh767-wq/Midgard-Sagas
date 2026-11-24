@@ -9,6 +9,8 @@ This blade seems to flicker in and out of existence but always strikes true. You
 
 As an action while holding this sword or as a reaction when you deal damage to a creature with it, you can turn incorporeal until the start of your next turn. While incorporeal, you can move through other creatures and objects as if they were difficult terrain. You take 1d10 force damage if you end your turn inside an object.
 
+[[Crafting Magic Items|Made with]]: Spectral Essence · Angelic Oil
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

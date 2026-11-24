@@ -9,6 +9,8 @@ Sometimes known as weedkiller oil, this greasy amber fluid contains the crushed 
 
 The oil can also be applied directly to a willing, [[Conditions#Restrained|restrained]], or immobile plant or plant creature. In this case, the substance deals 4d6 necrotic damage, which is enough to kill most ordinary plant life smaller than a large tree.
 
+[[Crafting Magic Items|Made with]]: Acrid Slag
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

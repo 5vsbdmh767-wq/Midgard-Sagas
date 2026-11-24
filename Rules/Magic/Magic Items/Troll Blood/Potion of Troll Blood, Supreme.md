@@ -9,6 +9,8 @@ When you drink this potion, you regain 8 hit points at the start of each of your
 
 ***Mutations.*** This potion can cause up to 1d4 minor mutations and 2 major mutations.
 
+[[Crafting Magic Items|Made with]]: troll blood · Troll Heart
+
 Part of [[Troll Blood]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

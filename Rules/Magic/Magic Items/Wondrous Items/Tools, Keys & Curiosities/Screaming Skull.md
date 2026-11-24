@@ -9,6 +9,8 @@ This skull looks like a normal animal or humanoid skull. You can use an action t
 
 The skull has AC 13 and 5 hit points. If destroyed while active, it releases a burst of necromantic energy. Each creature within 5 feet of the skull must succeed on a DC 11 WIS save or be [[Conditions#Frightened|frightened]] until the end of its next turn.
 
+[[Crafting Magic Items|Made with]]: animal skull
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -13,6 +13,8 @@ The trident has 3 charges for the following other properties. It regains 1d3 exp
 
 Yearn for the Tide. When you hit a creature with a melee attack using the trident, you can use a bonus action to expend 1 charge to force the target to make a DC 17 WIS save. On a failure, the target must spend its next turn leaping into the nearest body of water and swimming toward the bottom. A creature that can breathe underwater automatically succeeds on the save. If no water is in the target’s line of sight, the target automatically succeeds on the save.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (water) · Regenerative Coral · gills of an aquatic creature
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

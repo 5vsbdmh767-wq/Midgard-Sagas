@@ -11,6 +11,8 @@ While you are within 120 feet of the illusion and can see it, you can use an act
 
 The illusion lasts until the card is moved or the illusion is dispelled. When the illusion ends, the card’s face becomes blank, and the card becomes nonmagical.
 
+[[Crafting Magic Items|Made with]]: shapechanger blood
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

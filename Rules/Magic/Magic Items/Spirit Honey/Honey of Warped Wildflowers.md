@@ -9,6 +9,8 @@ This spirit honey is made from wildflowers growing in an area warped by magic, s
 
 ***Insight.*** At the end of the spirit honey’s duration, the terrain in an area up to 1 mile square around you changes to your liking. This works like the *[[Rituals 7th–9th Circle#Mirage Arcane|mirage arcane]]* spell, except its duration is a number of days equal to the number of hours you spent under the effects of this spirit honey.
 
+[[Crafting Magic Items|Made with]]: no monster parts; spirit honey from magic-warped wildflowers.
+
 Part of [[Spirit Honey]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

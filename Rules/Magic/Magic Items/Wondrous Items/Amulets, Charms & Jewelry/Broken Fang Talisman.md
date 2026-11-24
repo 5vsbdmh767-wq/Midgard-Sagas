@@ -7,6 +7,8 @@ publish: true
 
 This talisman is a piece of burnished copper, shaped into a curved fang with a large crack through the middle. While wearing the talisman, you can use an action to cast the encrypt/ decrypt spell. The talisman can’t be used this way again until 1 hour has passed.
 
+[[Crafting Magic Items|Made with]]: Spell-Empowered Ink
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

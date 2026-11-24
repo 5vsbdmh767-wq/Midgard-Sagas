@@ -9,6 +9,8 @@ This plate armor was magically crafted from plates of interlocking stone. Tiny r
 
 The fire spreads around corners and ignites flammable objects in the area that aren’t being worn or carried.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (fire) · gargoyle stone
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -7,6 +7,8 @@ publish: true
 
 This armor makes you difficult to manipulate both mentally and physically. While wearing this armor, you have advantage on saves against being [[Conditions#Charmed|charmed]] or [[Conditions#Frightened|frightened]], and you have advantage on ability checks and saves against spells and effects that would move you against your will.
 
+[[Crafting Magic Items|Made with]]: Anchoring Root
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

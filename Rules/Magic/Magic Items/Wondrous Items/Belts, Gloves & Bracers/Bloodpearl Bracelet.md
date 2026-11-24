@@ -35,6 +35,8 @@ Once all three pearls have been used, the bracelet can’t be used again until t
 | 5 | Blood ooze | 6 | 24 (7d6) |
 | 6 | Ruby ooze | 6 | 24 (7d6) |
 
+[[Crafting Magic Items|Made with]]: Scavenger Jelly · Acrid Slag · Slippery Slime. Use as many as the version's rarity calls for.
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ This goat mask with long, curving horns is carved from dark wood and framed in g
 
 In addition, you can gaze through the eyes of the mask at one target you can see within 30 feet of you. The target must succeed on a DC 17 WIS save or be affected as though it failed a save against the *[[4th-Circle Spells#Confusion|confusion]]* spell. The confusion effect lasts for 1 minute. Once used, this property of the mask can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: horns of a fiend · goat hair · Frenzying Oil
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

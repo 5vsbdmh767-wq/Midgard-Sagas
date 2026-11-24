@@ -13,6 +13,8 @@ The staff has 10 charges for the following properties. It regains 1d6 + 4 expend
 
 ***Serpent Form.*** While holding the staff, you can use an action cast *[[4th-Circle Spells#Polymorph|polymorph]]* on yourself, transforming into a serpent or snake that has a challenge rating of 2 or lower. While you are in the form of a serpent, you retain your INT, WIS, and CHA scores. You can remain in serpent form for up to 1 minute, and you can revert to your normal form as an action. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: serpent venom · Bezoar
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

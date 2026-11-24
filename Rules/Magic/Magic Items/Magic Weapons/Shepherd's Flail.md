@@ -11,6 +11,8 @@ The handle of this simple flail is made of smooth lotus wood. The three thresher
 
 The flail also has 5 charges. When you reduce a humanoid to 0 hit points with an attack from this weapon, you can expend 1 charge. If you do so, the humanoid stabilizes, regains 1 hit point, and is [[Conditions#Charmed|charmed]] by you for 24 hours. While [[Conditions#Charmed|charmed]] in this way, the humanoid regards you as its trusted leader, but it otherwise retains its statistics and regains hit points as normal. If harmed by you or your companions, or commanded to do something contrary to its nature, the target ceases to be charmed in this way. The flail regains 1d4 +1 expended charges daily at dawn.
 
+[[Crafting Magic Items|Made with]]: Animal Lord Essence · Celestial Blood · Fey Tongue
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

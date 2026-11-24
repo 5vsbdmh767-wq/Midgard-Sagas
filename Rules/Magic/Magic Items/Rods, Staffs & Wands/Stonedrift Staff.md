@@ -17,6 +17,8 @@ The staff has 10 charges for the following properties. It regains 1d6 + 4 expend
 
 ***Stone Glide.*** If the staff has at least 1 charge, you have a burrowing speed equal to your walking speed, and you can burrow through earth and stone while holding this staff. While doing so, you don’t disturb the material you move through.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (earth) · Teratoid Bark · Stone-Eating Acid
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

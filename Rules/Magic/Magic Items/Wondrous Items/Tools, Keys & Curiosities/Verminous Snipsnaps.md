@@ -11,6 +11,8 @@ You can use an action to remove the stopper, which releases the spinning blades 
 
 You can use a bonus action to speak the command word, returning the blades to the jar. Otherwise, the knives and scissors remain in that space indefinitely.
 
+[[Crafting Magic Items|Made with]]: Whirling Gizmo
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

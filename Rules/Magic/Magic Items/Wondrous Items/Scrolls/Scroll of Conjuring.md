@@ -52,6 +52,8 @@ Alternately, you can command the creature to perform a single task, which it wil
 
 %% creature sources in the book: Tome of Beasts, Tome of Beasts 2, Creature Codex; Monster Vault has many of them %%
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Scroll Parchment. Use as many as the version's rarity calls for.
+
 Part of [[Scrolls]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ When you wear this burgundy face covering, it transforms your face into a shark-
 
 ***Curse.*** The mask is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the mask, wearing it at all times. If you haven’t used the mask’s bite to damage a creature in the past 24 hours, the mask compels you to bite out a chunk of your flesh. You take 2d6 necrotic damage, and your hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the curse is removed. If your hit point maximum is reduced to 0 as a result of this curse, you die, transform into a devil shark, and teleport to the nearest open body of water.
 
+[[Crafting Magic Items|Made with]]: Fiend Vellum · shark teeth
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

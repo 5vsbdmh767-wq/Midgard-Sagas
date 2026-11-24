@@ -17,6 +17,8 @@ The rod can hold up to 6 charges, but it has 0 charges when you first attune to 
 
 ***Shocking Strike.*** When you hit with a melee attack using the rod, you can expend 1 charge to deal an extra 3d8 lightning damage to the target. You have advantage on the attack roll if the target is wearing armor made of metal.
 
+[[Crafting Magic Items|Made with]]: Throat Scales (blue dragon) · Voltaic Organ · Conductive Blood
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

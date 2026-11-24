@@ -13,6 +13,8 @@ One half of this staff is crafted of white ash and capped in gold, while the oth
 
 ***Spells.*** While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: *[[Rituals 1st–3rd Circle#Augury|augury]]* (2 charges), *[[1st-Circle Spells#Bane|bane]]* (1 charge), *[[1st-Circle Spells#Bless|bless]]* (1 charge), *[[3rd-Circle Spells#Remove Curse|remove curse]]* (3 charges), or *[[Rituals 4th–6th Circle#Divination|divination]]* (4 charges). You can also use an action to cast the *[[Cantrips#Guidance|guidance]]* spell from the staff without using any charges.
 
+[[Crafting Magic Items|Made with]]: eye of a creature that sees fate · Barbel of Misfortune · Ritual Bone
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

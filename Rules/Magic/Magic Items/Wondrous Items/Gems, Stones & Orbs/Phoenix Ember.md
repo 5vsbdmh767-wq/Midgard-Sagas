@@ -11,6 +11,8 @@ This egg-shaped red and black stone is hot to the touch. An ancient, fossilized 
 
 ***Spells.*** The stone has 3 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it: *[[3rd-Circle Spells#Revivify|revivify]]* (1 charge), *[[Rituals 4th–6th Circle#Raise Dead|raise dead]]* (2 charges), or *[[Rituals 7th–9th Circle#Resurrection|resurrection]]* (3 charges, the spell functions as long as some bit of the target’s body remains, even just ashes or dust). If you expend the last charge, roll a d20. On a 1, the stone shatters into searing fragments, and a firebird arises from the ashes. On any other roll, the stone regains 1d3 charges.
 
+[[Crafting Magic Items|Made with]]: fossilized phoenix egg · Phoenix Feather · Celestial Blood
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

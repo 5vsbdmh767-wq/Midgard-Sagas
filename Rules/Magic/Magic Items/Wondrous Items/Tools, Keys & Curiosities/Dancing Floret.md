@@ -13,6 +13,8 @@ The floret has 3 charges for the following other properties. The floret regains 
 
 ***Serrated Twirl.*** You can use an action and expend 1 charge to command the floret to fling an arcing swirl of serrated leaves. Each creature within 10 feet of you must make a DC 15 DEX save, taking 4d6 slashing damage on a failed save, or half as much damage on a successful one.
 
+[[Crafting Magic Items|Made with]]: Primeval Sap · Mandrake Root
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

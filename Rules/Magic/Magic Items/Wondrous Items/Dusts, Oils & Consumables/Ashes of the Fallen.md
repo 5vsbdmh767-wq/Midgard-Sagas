@@ -11,6 +11,8 @@ You can use an action to throw the dust in a 15-foot cone. Each spellcaster in t
 
 A cursed spellcaster must make a DC 15 WIS save each time it casts a spell. On a success, the spell is cast normally. On a failure, the spellcaster casts a different, randomly chosen spell of the same level or lower from among the spellcaster’s prepared or known spells. If the spellcaster has no suitable spells available, no spell is cast.
 
+[[Crafting Magic Items|Made with]]: ashes of a slain celestial
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

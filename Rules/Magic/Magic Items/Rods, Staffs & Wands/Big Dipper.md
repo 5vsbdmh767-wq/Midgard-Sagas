@@ -11,6 +11,8 @@ This wooden rod is topped with a ridged ball. The rod has 7 charges for the foll
 
 ***Sticky Stick.*** While holding the rod, you can use your reaction to expend 1 charge and magically stick it to any surface. Until you use an action to end the effect, the rod remains stuck. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall.
 
+[[Crafting Magic Items|Made with]]: Adhesive Slime · Demonic Thread
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

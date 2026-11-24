@@ -11,6 +11,8 @@ If a dragon takes damage from the horn’s shriek, the horn has a 20 percent cha
 
 Once you use the horn, it can’t be used again until the next dawn. If you kill a dragon while holding or carrying the horn, you regain use of the horn.
 
+[[Crafting Magic Items|Made with]]: Spectral Essence · dragon scales · Breath Pouch
+
 Part of [[Instruments]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

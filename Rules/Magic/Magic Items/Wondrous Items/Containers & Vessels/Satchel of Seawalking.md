@@ -11,6 +11,8 @@ If you toss the salt into an occupied space, the water congeals briefly then dis
 
 Once five handfuls of the salt have been pulled from the satchel, the satchel can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Particulate Hide
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

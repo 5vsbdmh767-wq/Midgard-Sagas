@@ -11,6 +11,8 @@ You gain a +1 bonus to attack and damage rolls made with this weapon, which deal
 
 ***Darkness.*** While carrying this axe, you can use an action to cast the *[[2nd-Circle Spells#Darkness|darkness]]* spell from it. Once used, this property can’t be used again until the next sunset.
 
+[[Crafting Magic Items|Made with]]: Shadowporting Blood · Teratoid Bark
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

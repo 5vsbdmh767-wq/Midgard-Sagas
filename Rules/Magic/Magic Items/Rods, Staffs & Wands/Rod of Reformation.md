@@ -17,6 +17,8 @@ If the creature is willingly transformed, such as a druid using Wild Shape, you 
 
 ***Reconstruct Form.*** While holding the rod, you can use an action to expend 5 charges to reconstruct the form of a creature or object that has been disintegrated, burned to ash, or similarly destroyed. An item is completely restored to its original state. A creature’s body is fully restored to the state it was in before it was destroyed. The creature isn’t restored to life, but this reconstruction of its form allows the creature to be restored to life by spells that require the body to be present, such as raise dead.
 
+[[Crafting Magic Items|Made with]]: Chaos Nullifier · Huecambra Gem
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

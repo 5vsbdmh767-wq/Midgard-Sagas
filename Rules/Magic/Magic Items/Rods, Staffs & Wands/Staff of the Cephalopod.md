@@ -13,6 +13,8 @@ This staff has 10 charges for the following properties. It regains 1d6 + 4 expen
 
 ***Ink Cloud.*** While holding this staff, you can use an action and expend 1 charge to cause an inky, black cloud to spread out in a 30-foot radius from you. The cloud can form in or out of water. The cloud remains for 10 minutes, making the area heavily obscured for creatures other than you. The cloud moves with you, remaining centered on you. A wind of at least 10 miles per hour or a steady current (if underwater) disperses the cloud and ends the effect.
 
+[[Crafting Magic Items|Made with]]: Cephalopod Ink · Extraordinary Limb · Flippers
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

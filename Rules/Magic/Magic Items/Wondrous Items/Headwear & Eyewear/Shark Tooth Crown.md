@@ -9,6 +9,8 @@ Shark’s teeth of varying sizes adorn this simple leather headband. The teeth p
 
 In addition, you can use a bonus action to cast the *[[1st-Circle Spells#Command|command]]* spell (save DC 15) from the crown. If the target is a beast with an INT of 3 or lower that can breathe water, it automatically fails the save. The headband can’t be used this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: teeth of a sea monster · shark teeth
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ On the turn it is activated, you can use a bonus action to magically travel from
 
 A creature magically traveling from one end of the cable to the other doesn’t provoke opportunity attacks. You can retract the cable by using a bonus action to speak the command word a second time.
 
+[[Crafting Magic Items|Made with]]: Stone-Eating Acid
+
 Part of [[Mounts, Vehicles & Travel]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ This curious jade rod is tipped with a knob of crimson crystal that glows and sh
 
 A desiccated creature is reduced to a withered corpse, but everything it is wearing and carrying is unaffected. The creature can be restored to life only by means of a true resurrection or a *[[9th-Circle Spells#Wish|wish]]* spell. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Devil’s Eyes · Fiendish Oil
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

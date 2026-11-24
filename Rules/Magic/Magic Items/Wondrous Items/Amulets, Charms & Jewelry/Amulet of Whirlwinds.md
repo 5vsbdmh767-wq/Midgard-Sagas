@@ -13,6 +13,8 @@ A creature within 5 feet of the whirlwind can pull a creature out of it by takin
 
 When all of the amulet’s charges are expended, the amulet becomes a nonmagical piece of jewelry worth 50 gp.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (air) · roc feathers
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ When you drink this potion, you transform into a black-feathered owl for 1 hour.
 
 If you are a druid with the Wild Shape feature, you can transform into a giant owl instead. Drinking this potion doesn’t expend a use of Wild Shape.
 
+[[Crafting Magic Items|Made with]]: black owl feathers
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

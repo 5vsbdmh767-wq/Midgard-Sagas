@@ -9,6 +9,8 @@ While you are attuned to and wearing this ring of polished, white chalcedony, yo
 
 While wearing the ring and suffering exhaustion, you can use an action to expend 1 or more charges from the ring to reduce your exhaustion level. Your exhaustion level is reduced by 1 for each charge you expend.
 
+[[Crafting Magic Items|Made with]]: Troll Heart
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

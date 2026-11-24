@@ -9,6 +9,8 @@ This well-crafted cap appears to be standard wear for academics. Embroidered on 
 
 While wearing the hat, you have advantage on all INT and WIS checks. If you are proficient in an INT or WIS-based skill, you double your PB for the skill.
 
+[[Crafting Magic Items|Made with]]: gynosphinx brain · Aberrant Brain
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

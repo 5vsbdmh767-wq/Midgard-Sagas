@@ -11,6 +11,8 @@ To create a vine golem, you must spend 20 days working without interruption with
 
 The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Primeval Sap · Scroll Parchment
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

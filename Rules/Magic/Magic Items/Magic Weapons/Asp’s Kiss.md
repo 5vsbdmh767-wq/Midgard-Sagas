@@ -11,6 +11,8 @@ You can use an action to cause indigo poison to coat the blades of this sword. T
 
 The target dies if this effect reduces its hit point maximum to 0. The sword can’t be used this way again until the next dawn. When you kill a creature with this weapon, it sheds a single, blue tear as it takes its last breath.
 
+[[Crafting Magic Items|Made with]]: Throat Scales (ancient green dragon) · serpent venom · a blue-sheened fang
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

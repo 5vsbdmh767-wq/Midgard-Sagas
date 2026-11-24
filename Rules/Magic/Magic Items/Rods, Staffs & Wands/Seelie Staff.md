@@ -16,6 +16,8 @@ The staff has 10 charges for the following properties. The staff regains 1d6 + 4
 > [!note] Seelie Staff in Midgard
 > Elves and fey treat the bearer of a seelie staff as an envoy or defender of the Summer Court of [[Silendora]], with respect and some fear. They assume the court gave it to you. If they learn otherwise, they may try to take it back for their masters, or report the thief so justice can follow later. %% source: Vault of Magic (paraphrased sidebar) %%
 
+[[Crafting Magic Items|Made with]]: Fey Tongue · Fey hair
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

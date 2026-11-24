@@ -9,6 +9,8 @@ This staff of gnarled, rotted wood ends in a hooked curvature like a twisted she
 
 The staff regains 1d6 + 4 expended charges daily at dusk. If you expend the last charge, roll a d20. On a 1, the staff turns to live maggots and is destroyed.
 
+[[Crafting Magic Items|Made with]]: Unliving Claw · Lock of Hag
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

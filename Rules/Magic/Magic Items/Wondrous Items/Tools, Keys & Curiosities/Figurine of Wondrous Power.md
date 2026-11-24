@@ -83,6 +83,8 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ***Violet Octopoid (Rare, 8,000 gp).*** A disturbing statuette carved in purple sugilite, the tentacled, violet octopoid can become an ambulatory, amphibious giant octopus for up to 6 hours. Use the statistics of a giant octopus, except it has 100 hit points and can make two tentacle attacks each turn. Once it has been used, it can’t be used again until 3 days have passed. If you speak the command word in Void Speech, the octopus has an INT score of 9 and can make three tentacle attacks each turn.
 
+[[Crafting Magic Items|Made with]]: a part of the beast the figurine becomes · Creator’s Essence. Use as many as the version's rarity calls for.
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ This short, metal rod is engraved with arcane runes and images of open hands. Th
 
 While holding the rod, you can use an action to expend 1 of its charges and target an object within 30 feet of you that isn’t being worn or carried. If the object weighs no more than 25 pounds, it floats to your open hand. If you have no hands free, the object sticks to the tip of the rod until the end of your next turn or until you remove it as a bonus action.
 
+[[Crafting Magic Items|Made with]]: Magnetizing Agent
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

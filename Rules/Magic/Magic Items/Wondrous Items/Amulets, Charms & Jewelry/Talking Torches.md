@@ -9,6 +9,8 @@ These heavy iron and wood torches are typically found in pairs or sets of four. 
 
 While holding or carrying the torch, you can communicate telepathically with any creature holding or carrying one of the torches bound to your torch, as long as both torches are lit and within 5 miles of each other.
 
+[[Crafting Magic Items|Made with]]: Imitative Vocal Cords · Illuminating Essence
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

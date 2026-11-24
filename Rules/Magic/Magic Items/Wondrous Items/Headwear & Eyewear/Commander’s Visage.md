@@ -13,6 +13,8 @@ This golden mask resembles a stern face, glowering at the world. While wearing t
 
 ***Unsettling Glower.*** When a creature that can see the mask makes a melee attack against you, you can use your reaction to spend 1 charge to force the target to make a DC 15 WIS save. On a failure, the creature must choose a new target or lose the attack.
 
+[[Crafting Magic Items|Made with]]: Infernal Tears · Idolatrous Heart · Resonant Trunk
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

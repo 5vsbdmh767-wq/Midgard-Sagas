@@ -13,6 +13,8 @@ You can use the *clockwork mynah bird* to relay sounds and conversations it has 
 
 The *clockwork mynah bird* has an AC of 14, 5 hit points, and a flying speed of 50 feet.
 
+[[Crafting Magic Items|Made with]]: Imitative Vocal Cords · Whirling Gizmo
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

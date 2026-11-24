@@ -11,6 +11,8 @@ You gain a +2 bonus to attack and damage rolls made with this weapon. The weapon
 
 The first time you use this weapon to kill a creature that has an INT score of 5 or higher, you begin having nightmares and disturbing visions that disrupt your rest. Each time you complete a long rest, you must make a WIS save. The DC equals 10 + the total number of creatures with INT 5 or higher that you’ve reduced to 0 hit points with this weapon. On a failure, you gain no benefits from that long rest, and you gain one level of [[Conditions#Exhaustion|exhaustion]].
 
+[[Crafting Magic Items|Made with]]: Fearful Eyedrops · Unliving Claw
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

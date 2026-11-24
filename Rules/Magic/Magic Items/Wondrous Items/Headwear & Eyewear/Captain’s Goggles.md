@@ -7,6 +7,8 @@ publish: true
 
 These copper and glass goggles are prized by air and sea captains across the world. The goggles are designed to repel water and never fog. After attuning to the goggles, your name (or preferred moniker) appears on the side of the goggles. While wearing the goggles, you can’t suffer from [[Conditions#Exhaustion|exhaustion]].
 
+[[Crafting Magic Items|Made with]]: Telescopic Eyes · Everwatchful Eyes
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

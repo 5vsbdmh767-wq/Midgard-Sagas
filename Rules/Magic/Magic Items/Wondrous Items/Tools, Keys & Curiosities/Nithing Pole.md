@@ -13,6 +13,8 @@ The DC for the target’s WIS save is 15. If the save is successful, the pole re
 
 The effect of the curse is set when the pole is created, and the curse lasts 8 hours without requiring concentration. The pole becomes nonmagical once it has laid its curse on its intended target. An untriggered and forgotten nithing pole remains dangerous for centuries.
 
+[[Crafting Magic Items|Made with]]: Lock of Hag · horse skull and hide
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

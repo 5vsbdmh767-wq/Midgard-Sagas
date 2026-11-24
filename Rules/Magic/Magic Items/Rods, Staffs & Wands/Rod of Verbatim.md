@@ -9,6 +9,8 @@ Tiny runic script covers much of this thin brass rod. While holding the rod, you
 
 Once used, the rod can’t be used again until 1 hour has passed.
 
+[[Crafting Magic Items|Made with]]: Fey Tongue
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

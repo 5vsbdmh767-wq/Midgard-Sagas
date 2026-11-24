@@ -9,6 +9,8 @@ This armor bears gold or brass symbols of sunlight and sun deities and never tar
 
 As an action, you can speak a command word to gain the effect of a *[[1st-Circle Spells#Protection from Evil and Good|protection from evil and good]]* spell for 1 minute (no concentration required). While the spell is active, if you are reduced to 0 hit points, you drop to 1 hit point instead. Once you use this property, it can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · Eternal’s Humor · Abnormal Leather
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

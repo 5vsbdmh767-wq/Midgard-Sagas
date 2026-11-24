@@ -15,6 +15,8 @@ These fierce yet regal war masks are made by shamans in the cold northern mounta
 
 ***Winter Wolf (Rare).*** Carved in the likeness of a winter wolf, this white mask is cool to the touch. While wearing it, you have resistance to cold damage. In addition, you can use an action to exhale freezing air in a 15-foot cone. Each creature in the area must make a DC 15 DEX save, taking 3d8 cold damage on a failed save, or half as much damage on a successful one. This mask can’t be used this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: parts of the creature the mask depicts · Thick Hide · Colossal Tendon. Use as many as the version's rarity calls for.
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

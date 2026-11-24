@@ -9,6 +9,8 @@ This spirit honey is created using nectar produced by planar flora and is infuse
 
 ***Insight.*** At the end of the spirit honey’s duration, you can contact a planar entity and ask it questions. This works like the *[[Rituals 4th–6th Circle#Contact Other Plane|contact other plane]]* spell, except you automatically succeed on the INT save caused by the mental strain of contact with the extraplanar intelligence.
 
+[[Crafting Magic Items|Made with]]: planar flora nectar · Primeval Sap
+
 Part of [[Spirit Honey]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

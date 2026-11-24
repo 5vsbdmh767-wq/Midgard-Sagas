@@ -19,6 +19,8 @@ In addition, while you are attuned to the book, the spells written in it count a
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action. Once used, this property of the book can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · Illuminating Essence · Celestial Blood
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

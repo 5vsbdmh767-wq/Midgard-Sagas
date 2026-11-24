@@ -9,6 +9,8 @@ Created by village elders for druidic scouts to better traverse and survey the p
 
 While wearing this cloak, you can use an action to cast the *[[5th-Circle Spells#Tree Stride|tree stride]]* spell on yourself at will, except trees need not be living in order to pass through them.
 
+[[Crafting Magic Items|Made with]]: Teratoid Bark · Primeval Sap
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

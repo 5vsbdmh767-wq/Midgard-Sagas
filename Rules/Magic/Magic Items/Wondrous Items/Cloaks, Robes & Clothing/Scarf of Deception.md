@@ -9,6 +9,8 @@ While wearing this scarf, you appear different to everyone who looks upon you fo
 
 If a creature studies you for 1 minute, it can make a DC 15 WIS (Perception) check. On a success, it perceives your real form.
 
+[[Crafting Magic Items|Made with]]: Photoadaptive Hide · shapechanger blood
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -20,6 +20,8 @@ This strangely-shaped item resembles a melted wand or a strange growth chipped f
 | 9 | The target must succeed on a DC 15 WIS save or become enthralled with its own feet or limbs until the end of its next turn. While enthralled, the target is [[Conditions#Incapacitated\|incapacitated]]. |
 | 10 | A giant ray of force springs out of the *frungilator* and toward the target. Each creature in a line that is 5 feet wide between you and the target must make a DC 16 DEX save, taking 4d12 force damage on a failed save, or half as much damage on a successful one. |
 
+[[Crafting Magic Items|Made with]]: Void Essence
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

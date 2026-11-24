@@ -9,6 +9,8 @@ This thick and rough armor is made from the hide of a ngobou, an aggressive, ox-
 
 ***Ngobou Charge.*** If you move at least 20 feet straight toward a creature and then hit it with a melee weapon attack on the same turn, the target must succeed on a DC 15 STR save or be knocked [[Conditions#Prone|prone]]. Elephants have disadvantage on this save. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: ngobou hide · Trampling Hoof (ngobou)
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

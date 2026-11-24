@@ -13,6 +13,8 @@ An iron hook is affixed to the top of this plain, wooden staff. While holding th
 
 - If you are a spellcaster, you can use the staff as a spellcasting focus. When you cast a spell that deals fire or radiant damage while using this staff as your spellcasting focus, you gain a +1 bonus to the spell’s attack roll, or the spell’s save DC increases by 1 (your choice).
 
+[[Crafting Magic Items|Made with]]: Illuminating Essence
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

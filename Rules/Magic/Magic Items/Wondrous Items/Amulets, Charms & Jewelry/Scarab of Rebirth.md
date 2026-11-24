@@ -15,6 +15,8 @@ This coin-sized figurine of a scarab is crafted from an unidentifiable blue-gray
 
 - If you die, you return to life with half your maximum hit points at the start of your next turn. The scarab can’t return you to life if you were beheaded, disintegrated, crushed, or similar full-body destruction. Afterwards, the scarab exits your body and goes dormant. It can’t be used again until 14 days have passed.
 
+[[Crafting Magic Items|Made with]]: Whirling Gizmo · Phoenix Feather
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

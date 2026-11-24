@@ -9,6 +9,8 @@ The lenses of these combination fleshy and plantlike goggles extend a few inches
 
 When you fail a save against being [[Conditions#Blinded|blinded]], you can use a reaction to call on the power within the goggles. If you do so, you succeed on the save instead. The goggles can’t be used this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Scavenger Jelly
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

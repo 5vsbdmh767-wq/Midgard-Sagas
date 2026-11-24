@@ -9,6 +9,8 @@ The interior of this simple, black cloak looks like white sailcloth. While weari
 
 ***Sailcloth.*** While on the deck or roof of a vehicle powered by wind, you can use an action to spread this cloak out behind you to catch the wind as if it were an actual sail, increasing the movement speed of the vehicle by 30 feet. The cloak continues to function as a sail as long as you maintain concentration. If you leave the vehicle, this effect ends immediately.
 
+[[Crafting Magic Items|Made with]]: roc feathers
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

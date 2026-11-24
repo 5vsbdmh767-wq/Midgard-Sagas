@@ -11,6 +11,8 @@ At the end of each long rest, choose one of the following damage types: acid, co
 
 When you are targeted by an effect that deals damage of the type you chose, you can use your reaction to gain resistance to that damage until the start of your next turn. You have advantage on your attack rolls, as detailed above, then the coat’s magic ceases to function until you finish a long rest.
 
+[[Crafting Magic Items|Made with]]: Insectoid Carapace · Primeval Sap
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

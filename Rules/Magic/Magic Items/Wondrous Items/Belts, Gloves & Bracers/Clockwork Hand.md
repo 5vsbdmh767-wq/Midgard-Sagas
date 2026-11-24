@@ -7,6 +7,8 @@ publish: true
 
 A beautiful work of articulate brass, this prosthetic clockwork hand (or hands) can’t be worn if you have both of your hands. While wearing this hand, you gain a +2 bonus to damage with melee weapon attacks made with this hand or weapons wielded in this hand.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

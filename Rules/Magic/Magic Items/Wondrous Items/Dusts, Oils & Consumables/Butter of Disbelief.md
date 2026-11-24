@@ -9,6 +9,8 @@ This stick of magical butter is carved with arcane runes and never melts or spoi
 
 The butter regains all expended charges daily at dawn. If you expend the last charge, the butter disappears.
 
+[[Crafting Magic Items|Made with]]: Slippery Slime
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -13,6 +13,8 @@ If the bead absorbs 50 hit points or more, it explodes and is destroyed. Each cr
 
 If you are holding the bead, you can use a bonus action to determine if the bead is below or above half its maximum stored hit points. If you hold and study the bead over the course of 1 hour, which can be done during a short rest, you know exactly how many hit points are stored in the bead.
 
+[[Crafting Magic Items|Made with]]: heart of a blood-drinking creature
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

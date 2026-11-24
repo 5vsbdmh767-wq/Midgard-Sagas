@@ -11,6 +11,8 @@ Placing an item in the sea chest follows the normal rules for interacting with o
 
 If the chest is destroyed, its contents are lost forever, though an artifact that was inside always turns up again, somewhere. If a *[[Bag of Holding|bag of holding]]*, portable hole, or similar object is placed within the chest, that item and the contents of the chest are immediately destroyed, and the magic of the chest is disrupted for one day, after which the chest resumes functioning as normal.
 
+[[Crafting Magic Items|Made with]]: Breath Pouch · Astralsupial Pouch
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

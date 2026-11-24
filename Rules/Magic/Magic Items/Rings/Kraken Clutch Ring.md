@@ -9,6 +9,8 @@ This green copper ring is etched with the image of a kraken with splayed tentacl
 
 While wearing this ring, you can expend 1 or more of its charges to cast one of the following spells from it, using spell save DC 15: *[[4th-Circle Spells#Black Tentacles|black tentacles]]* (2 charges), *[[3rd-Circle Spells#Call Lightning|call lightning]]* (1 charge), or *[[Rituals 7th–9th Circle#Control Weather|control weather]]* (4 charges).
 
+[[Crafting Magic Items|Made with]]: Cephalopod Ink (kraken) · Extraordinary Limb · Flippers
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

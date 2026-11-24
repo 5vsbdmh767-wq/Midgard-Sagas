@@ -15,6 +15,8 @@ Carved from a curious black stone of unknown origin, this small totem is fashion
 
 ***Otherworldly Whispers.*** You have a 10 percent chance each day at dusk of taking 2d4 psychic damage and becoming [[Conditions#Incapacitated|incapacitated]] by fear for 1 minute as terrifying, otherworldly whispers fill your mind.
 
+[[Crafting Magic Items|Made with]]: Void Essence
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

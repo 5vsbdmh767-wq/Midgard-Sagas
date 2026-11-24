@@ -9,6 +9,8 @@ This black iron armband bristles with long, needle-sharp iron thorns. When you a
 
 While wearing the band, after you roll a save but before the GM reveals if the roll is a success or failure, you can use your reaction to expend one Hit Die. Roll the die, and add the number rolled to your save.
 
+[[Crafting Magic Items|Made with]]: Hardened Blood · Throwing Spine
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

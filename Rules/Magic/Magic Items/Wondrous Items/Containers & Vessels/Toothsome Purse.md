@@ -11,6 +11,8 @@ If the purse is lifted entirely from you, the purse continues to bite at the thi
 
 The purse attacks only if it is attuned to a creature. A purse that isn’t attuned to a creature lies dormant and doesn’t attack.
 
+[[Crafting Magic Items|Made with]]: predator fangs
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

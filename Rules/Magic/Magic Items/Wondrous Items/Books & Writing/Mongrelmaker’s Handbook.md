@@ -25,6 +25,8 @@ With the rituals contained in this book, you can combine two or more animals int
 | Manticore | 24 hours | 2,000 gp | A lion, a porcupine, and a giant bat |
 | Owlbear | 24 hours | 2,000 gp | A brown bear and a giant eagle |
 
+[[Crafting Magic Items|Made with]]: Animal Lord Essence · Bizarre Cartilage · Scroll Parchment
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

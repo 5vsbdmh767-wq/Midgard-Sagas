@@ -29,6 +29,8 @@ While wearing this armor and mounted, your melee weapon attack rolls score a cri
 
 **17th Level.** You now gain a +3 bonus to AC, instead of +2. In addition, you can use an action to make yourself immune to nonmagical bludgeoning, piercing, and slashing damage for 10 minutes or until you are no longer wearing this armor. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

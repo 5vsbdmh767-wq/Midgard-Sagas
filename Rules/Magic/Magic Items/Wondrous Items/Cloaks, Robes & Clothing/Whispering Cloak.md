@@ -9,6 +9,8 @@ This cloak is made of black, brown, and white bat pelts sewn together. While wea
 
 This effect lasts up to 1 hour. Deduct time spent in shadow form in increments of 1 minute from the total time. After it has been used for 1 hour, the cloak can’t be used in this way again until the next dusk, when its time limit resets. Pulling the hood up or down requires an action.
 
+[[Crafting Magic Items|Made with]]: Shadowporting Blood · giant bat pelts
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

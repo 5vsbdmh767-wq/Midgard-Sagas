@@ -9,6 +9,8 @@ This cap is a simple, blue silk hat with a goose feather trim. While wearing thi
 
 In addition, when a creature attacks you while within 30 feet of you, it is illuminated and sheds red-hued dim light in a 50-foot radius until the end of its next turn. Any attack roll against an illuminated creature has advantage if the attacker can see it.
 
+[[Crafting Magic Items|Made with]]: Extraordinary Limb · Gripping Spikes · Energy-Converting Module
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

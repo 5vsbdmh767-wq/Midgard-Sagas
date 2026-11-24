@@ -9,6 +9,8 @@ This golden pocketwatch has 3 charges and regains 1d3 expended charges daily at 
 
 If the pendant is destroyed (AC 14, 15 hit points) while it has 3 charges, the creature that broke it gains the effects of the *[[9th-Circle Spells#Time Stop|time stop]]* spell.
 
+[[Crafting Magic Items|Made with]]: Whirling Gizmo · Chronomatic Gear · Trampling Hoof
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

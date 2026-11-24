@@ -9,6 +9,8 @@ This leathery mass of dried meat was once a humanoid heart, taken from an indivi
 
 The heart can be attacked and destroyed (AC 11; hp 3; resistance to bludgeoning damage). If the heart is destroyed before the end if its duration, each creature within 30 feet of the heart must succeed on a DC 15 WIS save or be [[Conditions#Frightened|frightened]] for 1 minute.
 
+[[Crafting Magic Items|Made with]]: Fearful Eyedrops
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

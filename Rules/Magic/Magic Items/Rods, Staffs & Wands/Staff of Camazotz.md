@@ -9,6 +9,8 @@ This staff of [[Conditions#Petrified|petrified]] wood is topped with a stylized 
 
 While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: *[[2nd-Circle Spells#Darkness|darkness]]* (2 charges), *[[5th-Circle Spells#Dominate|dominate]]* (8 charges), or *[[5th-Circle Spells#Flame Strike|flame strike]]* (5 charges).
 
+[[Crafting Magic Items|Made with]]: Unliving Claw (vampire) · giant bat wing · Shadowporting Blood
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

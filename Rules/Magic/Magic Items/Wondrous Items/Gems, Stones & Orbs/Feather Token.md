@@ -51,6 +51,8 @@ The following are additional feather token options:
 
 ***Jackdaw’s Dart (Common, 50 gp).*** This black feather is shaped like a dart. While holding it, you can use an action to throw it at a creature you can see within 30 feet of you. As it flies, the feather transforms into a blot of black ink. The target must succeed on a DC 11 DEX save or the feather leaves a black mark of misfortune on it. The target has disadvantage on its next ability check, attack roll, or save then the mark disappears. A *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell ends the mark early.
 
+[[Crafting Magic Items|Made with]]: roc feathers
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

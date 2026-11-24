@@ -9,6 +9,8 @@ This magic scimitar is empowered by your movements. For every 10 feet you move b
 
 In addition, if you use the Dash action and move within 5 feet of a creature, you can attack that creature as a bonus action. On a hit, the target takes an extra 2d6 slashing damage.
 
+[[Crafting Magic Items|Made with]]: Whirling Gizmo · Trampling Hoof
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ This small bauble consists of a flat crescent, which binds a small disc that fre
 
 ***Recall Magic.*** While holding this bauble, you can use an action to spin the disc and regain one expended 1st-circle spell slot. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (fire)
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

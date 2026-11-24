@@ -11,6 +11,8 @@ You gain a +2 bonus on attack and damage rolls made with this magic weapon. When
 
 As a bonus action, you can increase the distance creatures are pushed to 20 feet for 1 minute. If the creature strikes a solid object before the movement is complete, it takes 1d6 bludgeoning damage for every 10 feet traveled. Once used, this property of the crossbow can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Shadowporting Blood · Fiendish Oil · Gloompetal
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

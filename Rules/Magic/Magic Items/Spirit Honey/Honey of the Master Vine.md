@@ -9,6 +9,8 @@ This spirit honey is made from poisonous vines and other poisonous, strangling p
 
 ***Insight.*** At the end of the spirit honey’s duration, you briefly become one with nature and gain knowledge of the surrounding territory. This works like the *[[Rituals 4th–6th Circle#Commune with Nature|commune with nature]]* spell, except you can learn up to five facts about the area instead of three.
 
+[[Crafting Magic Items|Made with]]: Poison Coil
+
 Part of [[Spirit Honey]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

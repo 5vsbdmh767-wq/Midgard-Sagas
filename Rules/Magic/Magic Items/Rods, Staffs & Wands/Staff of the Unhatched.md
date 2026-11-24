@@ -13,6 +13,8 @@ The staff has 5 charges for the following properties. It regains 1d4 + 1 expende
 
 ***Spells.*** While holding the staff, you can use an action to expend 1 charge to cast *[[1st-Circle Spells#Bane|bane]]* or *[[1st-Circle Spells#Protection from Evil and Good|protection from evil and good]]* from it using your spell save DC. You can also use an action to cast one of the following spells from the staff without using any charges, using your spell save DC and spellcasting ability: *[[Cantrips#Grave Touch|grave touch]]* or *[[Cantrips#Minor Illusion|minor illusion]]*.
 
+[[Crafting Magic Items|Made with]]: an unhatched dragon's skull
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

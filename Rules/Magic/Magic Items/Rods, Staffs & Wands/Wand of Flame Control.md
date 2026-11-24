@@ -15,6 +15,8 @@ In addition, while holding the wand, you can use an action to expend 1 of its ch
 
 - Cause a single flame to burn brighter, doubling the range of the light it sheds but halving its duration. The wand regains all expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand bursts into flames and burns to ash in seconds.
 
+[[Crafting Magic Items|Made with]]: Poisonous Pitch
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

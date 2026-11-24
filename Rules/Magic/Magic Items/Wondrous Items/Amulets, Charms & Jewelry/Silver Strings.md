@@ -9,6 +9,8 @@ These silver wires magically adjust to fit any stringed instrument, making its s
 
 ***Magical Melody.*** When you use the instrument as an arcane focus to cast a spell, each target has disadvantage on its save against the spell. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Resonant Trunk
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

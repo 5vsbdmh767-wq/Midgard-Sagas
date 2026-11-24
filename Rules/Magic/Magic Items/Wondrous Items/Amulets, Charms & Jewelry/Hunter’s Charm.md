@@ -9,6 +9,8 @@ This small fetish is made out of bones, feathers, and semi-precious gems. Typica
 
 While wearing or carrying this charm, you have a bonus to attack and damage rolls made against your favored enemies. The bonus is determined by the charm’s rarity.
 
+[[Crafting Magic Items|Made with]]: Animal Lord Essence · bone from the favored enemy · Everwatchful Eyes. Use as many as the version's rarity calls for.
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

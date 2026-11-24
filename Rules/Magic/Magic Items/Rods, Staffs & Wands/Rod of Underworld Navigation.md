@@ -9,6 +9,8 @@ This finely carved rod is decorated with gold and small dragon scales. While und
 
 As an action while underground and holding this rod, you can use the *[[Rituals 4th–6th Circle#Find the Path|find the path]]* spell to find the shortest, most direct physical route to a location you are familiar with on the surface. Once used, the *[[Rituals 4th–6th Circle#Find the Path|find the path]]* property can’t be used again until 3 days have passed.
 
+[[Crafting Magic Items|Made with]]: brain of a burrowing creature · Minotaur Brain
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

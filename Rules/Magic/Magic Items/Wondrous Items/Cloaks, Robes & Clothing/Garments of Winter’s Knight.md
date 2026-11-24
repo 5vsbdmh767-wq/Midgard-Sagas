@@ -17,6 +17,8 @@ This white-and-blue outfit is designed in the style of fey nobility and maximize
 
 ***Curse.*** This item is cursed, and becoming attuned to it extends the curse to you until you are targeted by the *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic; removing the outfit fails to end the curse. As long as you remain cursed, you are unwilling to part with the outfit. While cursed, all fey creatures not in service to the faerie queen of winter are hostile toward you.
 
+[[Crafting Magic Items|Made with]]: Fey Tongue · Thick Hide · Ice Heart
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

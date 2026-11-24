@@ -9,6 +9,8 @@ This stern-faced mask is crafted of silver. While wearing the mask, your gaze ca
 
 ***Instruments of Law.*** If you are also attuned to and wielding a *[[Rod of the Disciplinarian|rod of the disciplinarian]]*, the mask’s save DC increases to 16. If you are attuned to and wearing a signet of the Magister, the mask’s range increases to 40 feet.
 
+[[Crafting Magic Items|Made with]]: Demonic Thread · basilisk eye
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

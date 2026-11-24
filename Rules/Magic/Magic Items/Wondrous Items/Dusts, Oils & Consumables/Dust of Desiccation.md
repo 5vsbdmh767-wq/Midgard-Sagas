@@ -9,6 +9,8 @@ This small packet contains soot-like dust. There is enough of it for one use. Wh
 
 Alternatively, you can use an action to throw the dust into the air, affecting yourself and each creature within 30 feet of you with the dust.
 
+[[Crafting Magic Items|Made with]]: Unliving Claw
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

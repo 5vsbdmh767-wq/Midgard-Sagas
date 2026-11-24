@@ -9,6 +9,8 @@ This silken scarf is a more powerful version of the commoner’s veneer. When in
 
 In addition, while wearing the scarf, you can use modify memory on a humanoid you have successfully persuaded in the last 24 hours. The scarf can’t be used this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Fragrance Gland
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

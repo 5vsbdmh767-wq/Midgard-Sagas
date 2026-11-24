@@ -9,6 +9,8 @@ Forged by creatures with firsthand knowledge of what lies between the stars, thi
 
 You can use an action to cause the blade to ripple for 1 minute. While the blade is rippling, each creature that takes psychic damage from the dagger must succeed on a DC 15 CHA save or become [[Conditions#Frightened|frightened]] of you for 1 minute. A [[Conditions#Frightened|frightened]] creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. The dagger can’t be used this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Void Essence · Otherworldly Slime · Aberrant Brain
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

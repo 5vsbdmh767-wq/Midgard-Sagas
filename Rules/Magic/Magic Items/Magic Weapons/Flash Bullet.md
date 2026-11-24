@@ -7,6 +7,8 @@ publish: true
 
 When you hit a creature with a ranged attack using this shiny, polished stone, it releases a sudden flash of bright light. The target takes damage as normal and must succeed on a DC 11 CON save or be [[Conditions#Blinded|blinded]] until the end of its next turn. Creatures with the Sunlight Sensitivity trait have disadvantage on this save.
 
+[[Crafting Magic Items|Made with]]: Searsprite Essence
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

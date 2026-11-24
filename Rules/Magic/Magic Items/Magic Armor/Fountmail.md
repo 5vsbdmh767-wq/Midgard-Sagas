@@ -13,6 +13,8 @@ This armor is a dazzling white suit of chain mail with an alabaster-colored stee
 
 - You have resistance to necrotic damage.
 
+[[Crafting Magic Items|Made with]]: Celestial Blood · Abnormal Leather · Celestial Feather
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

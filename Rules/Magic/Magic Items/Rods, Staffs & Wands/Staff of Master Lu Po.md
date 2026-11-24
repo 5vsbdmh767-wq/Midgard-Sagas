@@ -27,6 +27,8 @@ Gate to the Hell of Being Roasted Alive. While holding the staff, you can use an
 
 ***Vaulting Leap of the Clouds.*** If you are holding the staff and it has at least 1 charge, you can cast the *[[1st-Circle Spells#Longstrider|longstrider]]* spell from it as a bonus action at will without using any charges, but you can target only yourself when you do so.
 
+[[Crafting Magic Items|Made with]]: Colossal Tendon · Wicked Bone · Elemental Gemstone
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

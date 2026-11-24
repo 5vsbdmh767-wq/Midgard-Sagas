@@ -24,6 +24,8 @@ This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. Whil
 
 ***Black (Very Rare).*** If you use your reaction to expend 1 charge from the ring, you can use counterspell on any spell of any level. If the spell is 4th circle or higher, you make the ability check with a +7 bonus. If you do so, you lose hit points equal to 5 times the spell’s circle. You lose these hit points whether or not your counterspell is effective.
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · Countersong Fibers · Magebane Tooth. Use as many as the version's rarity calls for.
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

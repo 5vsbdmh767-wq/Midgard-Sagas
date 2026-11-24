@@ -29,6 +29,8 @@ When a creature within 5 feet of you casts a spell while you are wearing this ar
 
 **17th Level.** You now gain a +3 bonus to AC, instead of +2. In addition, if you rollazoona save against a spell that targets only you and the spell is 7th circle or lower, the spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

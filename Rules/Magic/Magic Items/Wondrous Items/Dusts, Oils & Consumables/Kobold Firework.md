@@ -21,6 +21,8 @@ These small pouches and cylinders are filled with magical powders and reagents, 
 
 ***Snake Fountain (Rare).*** This short, wide cylinder is red, yellow, and black with a scale motif, and it produces snakes made of ash for 1 minute. It starts producing snakes on the round after you throw it. The firework creates 1 poisonous snake each round. The snakes are friendly to you and your companions. Roll initiative for the snakes as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. The snakes remain for 10 minutes, until you dismiss them as a bonus action, or until they are doused with at least 1 gallon of water.
 
+[[Crafting Magic Items|Made with]]: Eruptive Sac · Searsprite Essence · Resonant Trunk. Use as many as the version's rarity calls for.
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

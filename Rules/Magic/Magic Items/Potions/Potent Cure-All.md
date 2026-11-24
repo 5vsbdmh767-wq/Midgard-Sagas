@@ -7,6 +7,8 @@ publish: true
 
 The milky liquid in this bottle shimmers when agitated, as small, glittering particles swirl within it. When you drink this potion, it reduces your [[Conditions#Exhaustion|exhaustion]] level by one, removes any reduction to one of your ability scores, removes the [[Conditions#Blinded|blinded]], [[Conditions#Deafened|deafened]], [[Conditions#Paralyzed|paralyzed]], and [[Conditions#Poisoned|poisoned]] conditions, and cures you of any diseases currently afflicting you.
 
+[[Crafting Magic Items|Made with]]: Celestial Blood · Unicorn Horn
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

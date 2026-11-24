@@ -9,6 +9,8 @@ This red and white flag adorned with a white anchor is made of velvet that never
 
 While this flag is mounted on a ship, the captain and its allies have advantage on saves against being [[Conditions#Charmed|charmed]] or [[Conditions#Frightened|frightened]]. In addition, when the captain is reduced to 0 hit points while on the ship where this flag flies, each ally of the captain has advantage on its attack rolls until the end of its next turn.
 
+[[Crafting Magic Items|Made with]]: roc feathers · blood from a creature that can't be frightened
+
 Part of [[Banners]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -17,6 +17,8 @@ In addition, while attuned to the ring, your hair grows thick and abundant. Your
 
 - Your gain a powerful build and count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
+[[Crafting Magic Items|Made with]]: Colossal Tendon · fossilized honey
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

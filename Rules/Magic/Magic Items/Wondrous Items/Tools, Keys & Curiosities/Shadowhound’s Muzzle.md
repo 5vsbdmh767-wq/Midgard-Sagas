@@ -11,6 +11,8 @@ If the shadow canine is reduced to 0 hit points, the canine reverts to its origi
 
 Once used, the muzzle can’t be used to transform a canine again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Shadowporting Blood
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

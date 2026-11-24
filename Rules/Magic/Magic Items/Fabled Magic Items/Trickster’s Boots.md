@@ -27,6 +27,8 @@ While you wear these boots, your steps make no sound, regardless of the surface 
 
 **17th Level.** You can turn [[Conditions#Invisible|invisible]] as an action. Anything you are wearing or carrying is [[Conditions#Invisible|invisible]] with you. You remain invisible until the boots are removed, until you attack or cast a spell, or until you use a bonus action to become visible again.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

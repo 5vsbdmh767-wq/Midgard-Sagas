@@ -16,6 +16,8 @@ The staff has 10 charges for the following properties. The staff regains 1d6 + 4
 > [!note] Unseelie Staff in Midgard
 > Elves and fey treat the bearer of an unseelie staff as a representative of the moonlit courts of the [[Shadow Fey|shadow fey]], with respect and some fear. They assume the court gave it to you. If they learn otherwise, they may try to take it back for their masters, or report the thief so justice can follow later. %% source: Vault of Magic (paraphrased sidebar) %%
 
+[[Crafting Magic Items|Made with]]: Fey Tongue · Shadowporting Blood
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ While wearing this amulet, you can’t be [[Conditions#Frightened|frightened]] a
 
 ***Curse.*** This amulet is cursed and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the amulet, wearing it at all times. You are cursed until targeted by the *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic. While cursed, you attract the attention of cultists and devils tied to the golden god. Each time you finish a long rest, roll a d20. On an 18-20, followers of the golden god find you before your next long rest and try to kill you to take the amulet from you. The followers are minor cultists and devils at first and progressively get more powerful each time they appear. The golden god never appears as a result of this amulet’s curse. The GM determines what kind of followers attack you and in what quantities.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · Devil’s Eyes · Idolatrous Heart
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

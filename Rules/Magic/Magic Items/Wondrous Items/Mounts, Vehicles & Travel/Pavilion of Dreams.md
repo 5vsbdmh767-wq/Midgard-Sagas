@@ -23,6 +23,8 @@ Creatures who take a long rest in the pavilion, and who sleep for at least half 
 
 - When an enemy uses the Disengage action, you can use a reaction to move up to your speed toward that enemy. Once used, the pavilion can’t be used again until the next dusk.
 
+[[Crafting Magic Items|Made with]]: silk from a Fey · Fey hair · Astralsupial Pouch
+
 Part of [[Mounts, Vehicles & Travel]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

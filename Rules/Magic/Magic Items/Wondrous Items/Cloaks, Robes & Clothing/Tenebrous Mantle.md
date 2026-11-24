@@ -15,6 +15,8 @@ This black cloak appears to be made of pure shadow and shrouds you in darkness. 
 
 - You can use an action to cast the *[[4th-Circle Spells#Black Tentacles|black tentacles]]* or living shadows spell from it. The cloak can’t be used this way again until the following dusk.
 
+[[Crafting Magic Items|Made with]]: Devil’s Eyes · Shadowporting Blood · Eternal’s Humor
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

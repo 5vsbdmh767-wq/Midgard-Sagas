@@ -33,6 +33,8 @@ Once the shabti has been used, it can’t be used again until 5 days have passed
 
 ***Warrior Shabti (Rare).*** This shabti wields a spear and carries a shield, increasing its AC by 2. This shabti has the animated armor’s Multiattack and Slam actions, except the shabti’s Slam attack deals piercing damage instead of the bludgeoning damage normal for the animated armor’s Slam attack. This shabti can understand and carry out fairly complex commands, such as standing watch while you and your companions rest or guarding a room and letting only specific creatures in or out. The shabti follows you and acts as directed for up to 8 hours or until it is reduced to 0 hit points, at which point it returns to statuette form. Once the shabti has been used, it can’t be used again until 5 days have passed.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Eternal’s Humor (mummy). Use as many as the version's rarity calls for.
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -13,6 +13,8 @@ Each glove is actually comprised of three, black ivory rings (typically fitting 
 
 - You can use an action to become a living shadow for 1 minute. For the duration, you can move through a space as narrow as 1 inch wide without squeezing, and you can take the Hide action as a bonus action while you are in dim light or darkness. Once used, this property of the gloves can’t be used again until the next nightfall.
 
+[[Crafting Magic Items|Made with]]: Shadowporting Blood · Gloompetal · Spectral Essence
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

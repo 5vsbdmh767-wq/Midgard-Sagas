@@ -9,6 +9,8 @@ This ink is favored by merchants for eye-catching banners and by toy makers for 
 
 One pot can be used to fill 25 pages of a book or a similar total area for larger banners.
 
+[[Crafting Magic Items|Made with]]: Spell-Empowered Ink
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -15,6 +15,8 @@ At the end of the duration, the wireframe creature or swarm reverts to its staff
 
 When a wireframe creature or swarm becomes the staff again, this property of the staff can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Whirling Gizmo
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

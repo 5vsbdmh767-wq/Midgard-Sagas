@@ -7,6 +7,8 @@ publish: true
 
 While holding this magic weapon, you can use an action to transform it into a tattoo on the palm of your hand. You can use a bonus action to transform the tattoo back into a weapon.
 
+[[Crafting Magic Items|Made with]]: Photoadaptive Hide
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

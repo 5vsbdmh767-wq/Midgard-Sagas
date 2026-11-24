@@ -9,6 +9,8 @@ This polished brass ring has 3 charges. While wearing the ring, you are inspired
 
 The ring regains all expended charges daily at dawn. In addition, if you fail on a roll boosted by the ring, and you failed the roll by only 1, the ring regains 1 expended charge, as its magic recognizes a valiant effort.
 
+[[Crafting Magic Items|Made with]]: Frenzying Oil
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

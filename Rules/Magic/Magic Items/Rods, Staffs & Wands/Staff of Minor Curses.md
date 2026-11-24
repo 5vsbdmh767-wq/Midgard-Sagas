@@ -9,6 +9,8 @@ This twisted, wooden staff has 10 charges. While holding it, you can use an acti
 
 The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff dissolves into a cloud of noxious gas, and you are targeted with a minor curse of the GM’s choice.
 
+[[Crafting Magic Items|Made with]]: Lock of Hag
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

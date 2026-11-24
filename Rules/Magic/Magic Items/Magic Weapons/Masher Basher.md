@@ -9,6 +9,8 @@ A favored weapon of hill giants, this greatclub appears to be little more than a
 
 When you roll a 20 on an attack roll made with this weapon, the target is [[Conditions#Stunned|stunned]] until the end of its next turn.
 
+[[Crafting Magic Items|Made with]]: Colossal Tendon (a giant)
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

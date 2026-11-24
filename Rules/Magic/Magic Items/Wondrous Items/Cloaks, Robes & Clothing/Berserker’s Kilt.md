@@ -13,6 +13,8 @@ This kilt is made from bear, elk, or wolf fur. While wearing this kilt, your Una
 
 ***Wolf Fur (Uncommon).*** This kilt empowers your rage with the speed of a wolf. While raging, your walking speed increases by 10 feet.
 
+[[Crafting Magic Items|Made with]]: fur of the kilt's animal (wolf, elk or bear) · Frenzying Oil · Thick Hide. Use as many as the version's rarity calls for.
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

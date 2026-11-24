@@ -35,6 +35,8 @@ While holding this scepter, a critical hit against you becomes a normal hit. Onc
 
 **17th Level.** You now gain a +3 bonus to AC, instead of +2. When you use your reaction to counter a spell, you can now counter a spell of up to 7th level. In addition, if both ruby eye buttons are active and can be pressed, you can use an action to press both buttons and force the lion’s head to roar. Each creature of your choice within 60 feet of you must succeed on a DC 17 CON save or be [[Conditions#Deafened|deafened]] for 1 minute. A [[Conditions#Deafened|deafened]] creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. All active ruby eye buttons then become inactive and can’t be pressed again until the next dawn or until you recharge them with the scepter’s 13th level feature.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ While wearing this mask, you can use its teeth to make unarmed strikes. When you
 
 ***Curse.*** This mask is cursed. Becoming attuned to it and wearing it extends the curse to you. While cursed, you can’t remove the mask unless you are targeted by the *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell. In addition, you have disadvantage on attack rolls with weapons other than the mask’s teeth. If you finish a long rest and haven’t used the mask’s teeth to deal damage to a creature since your previous long rest, you gain the Incorporeal Movement trait until you damage a creature with the mask’s teeth. The Incorporeal Movement trait allows you to move through creatures and solid objects as if they were difficult terrain, but you take 1d10 force damage if you end your turn inside an object. Each hour you have the Incorporeal Movement trait, you have a 10 percent chance of encountering a hungry fleshspurned attracted to your plight.
 
+[[Crafting Magic Items|Made with]]: Spectral Essence · Fleshspurned Saliva
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

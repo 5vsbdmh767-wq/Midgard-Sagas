@@ -9,6 +9,8 @@ This glass vessel looks like an ordinary inkpot. A quill fashioned from an ostri
 
 If the inkpot is found as treasure, there is a 50 percent chance it contains a bookkeeper. An *[[Rituals 1st–3rd Circle#Identify|identify]]* spell reveals if a bookkeeper is inside the inkpot before using the inkpot’s ink.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

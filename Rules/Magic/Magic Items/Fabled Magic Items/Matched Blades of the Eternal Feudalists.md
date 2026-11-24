@@ -25,6 +25,8 @@ These paired scimitars are each named and engraved with unique symbols. The blad
 
 **17th Level.** When you hit a target with either weapon, the target must succeed on a CON save (DC equal to 8 + your PB + your CHA modifier) or be deafened (Clive’s cacophony) or blinded (Ivor’s illumination) for 1 minute. In addition, when you roll a 20 on an attack roll made with either weapon against a target that is already deafened or blinded, the target becomes blinded and deafened permanently. This blindness and deafness can be ended only by a heal or *[[9th-Circle Spells#Wish|wish]]* spell.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

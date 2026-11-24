@@ -9,6 +9,8 @@ Fashioned out of oak, this wand appears heavily stained by an unknown liquid. Th
 
 While holding the wand, you can use an action and expend 1 or more of its charges to transform nonmagical liquid, such as blood, apple juice, or water, into an alcoholic beverage. For each charge you expend, you transform up to 1 gallon of nonmagical liquid into an equal amount of beer, wine, or other spirit. The alcohol transforms back into its original form if it hasn’t been consumed within 24 hours of being transformed.
 
+[[Crafting Magic Items|Made with]]: spore sac from a fungal Plant
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

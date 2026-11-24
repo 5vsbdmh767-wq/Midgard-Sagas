@@ -15,6 +15,8 @@ If you are reduced to 0 hit points while attuned to the belt and fail two death 
 
 If the wolf is targeted by a *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell, then you are reborn when the wolf dies, just as the wolf was born when you died. However, if the curse remains after the wolf dies, you remain dead.
 
+[[Crafting Magic Items|Made with]]: dire wolf intestines
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

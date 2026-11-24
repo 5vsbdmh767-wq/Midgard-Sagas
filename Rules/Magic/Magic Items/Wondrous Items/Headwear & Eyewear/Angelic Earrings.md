@@ -9,6 +9,8 @@ These earrings feature platinum loops from which hang bronzed claws from a chamr
 
 If you cast *[[1st-Circle Spells#Detect Evil and Good|detect evil and good]]* while wearing these earrings, the range increases to 60 feet, and the spell lasts 10 minutes without requiring concentration.
 
+[[Crafting Magic Items|Made with]]: chamrosh claws, freely given
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

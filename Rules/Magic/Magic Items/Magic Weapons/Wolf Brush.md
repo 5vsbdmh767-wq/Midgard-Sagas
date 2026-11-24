@@ -15,6 +15,8 @@ The weapon has 10 charges for the following other properties. The weapon regains
 
 ***Spiked Wall.*** While wielding this weapon, you can use an action to expend 6 charges to cast the *[[6th-Circle Spells#Wall of Thorns|wall of thorns]]* spell (save DC 17) from it.
 
+[[Crafting Magic Items|Made with]]: Spectral Essence · Colossal Tendon · Wicked Bone
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

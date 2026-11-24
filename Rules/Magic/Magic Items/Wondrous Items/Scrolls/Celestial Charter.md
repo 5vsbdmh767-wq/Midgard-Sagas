@@ -9,6 +9,8 @@ This long, beautifully illuminated scroll bears the mark of a powerful entity of
 
 Should you and the celestial reach an agreement that is satisfactory to both parties, you must sign the charter and have the celestial do likewise (or make its mark, if it has no form of writing). The writing on the scroll changes to reflect the terms of the agreement struck. The magic of the charter holds both you and the celestial to the agreement until its service is rendered and the reward paid, at which point the scroll vanishes in a bright flash of light. A celestial typically attempts to fulfill its end of the bargain as best it can, and it is angry if you exploit any loopholes or literal interpretations to your advantage. If either party breaks the bargain, that creature immediately takes 10d6 radiant damage, and the charter is destroyed, ending the contract.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather
+
 Part of [[Scrolls]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -13,6 +13,8 @@ On your turn, you can mentally command each snake if it is within 60 feet of you
 
 If a snake is reduced to 0 hit points, it dies, reverts to its bracer form, and can’t be commanded to become a snake again until 2 days have passed. If a snake reverts to bracer form before losing all its hit points, it regains all of them and can’t be commanded to become a snake again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: serpent skin
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

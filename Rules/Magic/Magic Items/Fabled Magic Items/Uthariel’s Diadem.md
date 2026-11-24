@@ -35,6 +35,8 @@ While wearing this diadem, you have advantage on WIS (Insight) and CHA (Persuasi
 
 **17th Level.** You now gain a +3 bonus to AC and saves, instead of +2. In addition, you can use an action to cast the *[[Rituals 7th–9th Circle#Foresight|foresight]]* spell from the diadem. Once used, the diadem can’t be used in this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

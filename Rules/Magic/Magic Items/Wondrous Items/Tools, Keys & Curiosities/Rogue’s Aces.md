@@ -15,6 +15,8 @@ These four, colorful parchment cards have long bailed the daring out of hazardou
 
 ***Ace of Swords.*** The swords suit represents war and power. When you activate this card, you cast the *[[2nd-Circle Spells#Enlarge/Reduce|enlarge/reduce]]* spell (save DC 15) from it. In addition, you have advantage on CHA (Intimidation) checks for the next 24 hours.
 
+[[Crafting Magic Items|Made with]]: heart of a lucky creature · Gluckshund Heart
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

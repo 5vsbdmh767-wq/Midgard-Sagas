@@ -11,6 +11,8 @@ This smoothly polished wooden wand is perfectly balanced in the hand. Its grip i
 
 ***Synchronize.*** While holding the wand, you can use an action to expend 1 charge to choose one creature you can see who has not taken its turn this round. That creature takes its next turn immediately after yours regardless of its turn in the Initiative order. An unwilling creature that succeeds on a DC 15 WIS save is unaffected.
 
+[[Crafting Magic Items|Made with]]: Chronomatic Gear · Resonant Trunk
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

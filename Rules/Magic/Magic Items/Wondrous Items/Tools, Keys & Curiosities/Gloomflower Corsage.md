@@ -15,6 +15,8 @@ While wearing the flower, you can use an action to speak one of three command wo
 
 - When you speak the third command word, your form shifts and shimmers. For 1 minute, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn’t rely on sight, as with blindsight, or can see through illusions, as with truesight. Each time you use the flower, one of its petals curls in on itself. You can’t use the flower if all of its petals are curled. The flower uncurls 1d6 petals daily at dusk.
 
+[[Crafting Magic Items|Made with]]: Gloompetal · Shadowporting Blood · Celestial Feather
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

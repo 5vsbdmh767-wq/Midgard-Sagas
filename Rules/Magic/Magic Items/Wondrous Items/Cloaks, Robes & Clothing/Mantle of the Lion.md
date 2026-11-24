@@ -9,6 +9,8 @@ This splendid lion pelt is designed to be worn across the shoulders with the paw
 
 In addition, if you move at least 20 feet straight toward a creature and then hit it with a melee attack on the same turn, that creature must succeed on a DC 15 STR save or be knocked [[Conditions#Prone|prone]]. If a creature is knocked [[Conditions#Prone|prone]] in this way, you can make an attack with the mantle’s bite against the prone creature as a bonus action.
 
+[[Crafting Magic Items|Made with]]: Animal Lord Essence (lion) · lion pelt
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

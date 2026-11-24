@@ -11,6 +11,8 @@ A *trick shot mirror* is a round, steel-framed hand mirror with no handle, but i
 
 ***Spellbending Trick Shot Mirror (Rare).*** While holding the mirror and casting a spell that forms a line, you can expend 1 or more of the mirror’s charges to focus part of the spell into the mirror and change the angle of the line. Choose one space along the line. The line bends at a 90-degree angle in the space in the direction of your choice. This bend doesn’t extend the length of the line, but it could redirect the line in such away as to hit a creature previously not within the line’s area of effect. For each charge you expend, you can bend the line in an additional space.
 
+[[Crafting Magic Items|Made with]]: Energy-Converting Module · Elemental Gemstone. Use as many as the version's rarity calls for.
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

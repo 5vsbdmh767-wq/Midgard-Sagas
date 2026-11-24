@@ -11,6 +11,8 @@ While you wear the gloves, you can unlock any nonmagical lock within the attuned
 
 As an action, you can snap your fingers and every nonmagical portal within 30 feet of you immediately closes and locks (if possible) as long as it is unobstructed. (Obstructed portals remain open.) Once used, this property of the gloves can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Multitool Component
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

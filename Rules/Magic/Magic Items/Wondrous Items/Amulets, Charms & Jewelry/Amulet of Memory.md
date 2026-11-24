@@ -15,6 +15,8 @@ If you die while wearing the amulet, it preserves you. Your body is affected by 
 
 Attuning to an *amulet of memory* removes any prior memories stored in it.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain · Minotaur Brain
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

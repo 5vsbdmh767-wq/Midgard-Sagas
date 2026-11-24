@@ -11,6 +11,8 @@ Made from stout oak with steel bands and bits of chain running its entire length
 
 ***Unbound.*** While holding the staff, you can use your reaction to expend 1 charge and gain advantage on a save you make to avoid being [[Conditions#Paralyzed|paralyzed]] or [[Conditions#Restrained|restrained]].
 
+[[Crafting Magic Items|Made with]]: Demonic Thread · Adhesive Slime
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

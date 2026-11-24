@@ -9,6 +9,8 @@ The iron scales of this armor have a green-tinged iridescence. While wearing thi
 
 If you move at least 20 feet straight toward a creature and then hit it with a melee weapon attack on the same turn, you can use a bonus action to imbue the hit with some of the armor’s petrifying magic. The target must make a DC 15 CON save. On a failed save, the target begins to turn to stone and is [[Conditions#Restrained|restrained]]. The [[Conditions#Restrained|restrained]] target must repeat the save at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is [[Conditions#Petrified|petrified]] until freed by the *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell or other magic. The armor can’t be used this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Abnormal Leather · gorgon scales · Trampling Hoof
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

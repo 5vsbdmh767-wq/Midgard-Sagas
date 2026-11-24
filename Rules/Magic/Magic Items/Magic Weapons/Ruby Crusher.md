@@ -11,6 +11,8 @@ You can use a bonus action to speak this magic weapon’s command word, causing 
 
 When you hit a Large or larger creature with this greatclub, the creature must succeed on a DC 17 CON save or be pushed up to 30 feet away from you. If the creature strikes a solid object, such as a door or wall, during this movement, it and the object take 1d6 bludgeoning damage for each 10 feet the creature traveled before hitting the object.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (fire) · Throat Scales (red dragon) · manticore hide
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

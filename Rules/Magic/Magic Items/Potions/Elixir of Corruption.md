@@ -9,6 +9,8 @@ This elixir looks, smells, and tastes like a potion of heroism; however, it is a
 
 If you drink it, you must succeed on a DC 15 CON save or be corrupted by the diabolical power within the elixir for 1 week. While corrupted, you lose immunity to diseases, poison damage, and the [[Conditions#Poisoned|poisoned]] condition. If you aren’t normally immune to poison damage, you instead have vulnerability to poison damage while corrupted. The corruption can be removed with greater restoration or similar magic.
 
+[[Crafting Magic Items|Made with]]: Infernal Tears
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

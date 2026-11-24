@@ -11,6 +11,8 @@ This elaborate lantern is covered in simple glyphs, and its glass panels are int
 
 ***Cards Panel.*** If you open one panel depicting the woman with cards, the vision is of an event that might happen within the next 1 year. If you open both, the vision is of an event that might happen within the next 10 years.
 
+[[Crafting Magic Items|Made with]]: Illuminating Essence · Visionary Flesh
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ This scholar’s cap is covered in bright stitched runes, and the interior is ro
 
 ***Void Calls to Void.*** When you cast a spell from the cap while within 1 mile of a creature that understands Void Speech, the creature immediately knows your name, location, and general appearance.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

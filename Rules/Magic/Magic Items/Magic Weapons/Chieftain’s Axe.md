@@ -11,6 +11,8 @@ Furs conceal the worn runes lining the haft of this oversized, silver-headed bat
 
 ***Bearfolk Belonging.*** If you aren’t a bearfolk, bearfolk who see you carrying the chieftain’s axe are immediately hostile. In addition, you have disadvantage on CHA checks to influence bearfolk. However, if you turn the axe over to bearfolk, provided you haven’t used the axe against bearfolk to their knowledge, they become friendly and, at the GM’s discretion, might provide aid to you and your allies.
 
+[[Crafting Magic Items|Made with]]: Colossal Tendon · Idolatrous Heart · Resonant Trunk
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -25,6 +25,8 @@ At the end of each long rest, you must make a DC 13 CON save. On a failed save, 
 
 If a successful save reduces your level of exhaustion below 1, you recover from the addiction. A *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell or similar magic ends the addiction and its effects. Consuming at least one dose of blue rose again halts the effects of the addiction for 2 days, at which point you can consume another dose of blue rose to halt it again or the effects of the addiction continue as normal.
 
+[[Crafting Magic Items|Made with]]: no monster parts; it's the blue rose itself, a flower.
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

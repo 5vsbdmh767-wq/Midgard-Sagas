@@ -9,6 +9,8 @@ This piece of chalk glitters in the light, as if infused with particles of mica 
 
 Each time you use the chalk, roll a d20. On a roll of 1, the magic malfunctions and connects you to a random door similar to the one you pictured within the same range, though it might be a door you have never seen before. The chalk becomes nonmagical when you use the last charge.
 
+[[Crafting Magic Items|Made with]]: Teleport Tracer
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

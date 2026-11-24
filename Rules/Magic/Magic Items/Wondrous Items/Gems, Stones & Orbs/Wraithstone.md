@@ -19,6 +19,8 @@ As a bonus action, you can expend 1 charge to cause one of the following effects
 
 - WIS of the Wilds. You have advantage on WIS (Animal Handling) and WIS (Survival) checks for 1 minute.
 
+[[Crafting Magic Items|Made with]]: Spectral Essence
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ Multi-colored streaks of light occasionally flash through the clear liquid in th
 
 Alternatively, you can apply the contents of the vial to a plant creature within 5 feet of you. For 1 hour, the target gains 2d10 temporary hit points, and it gains the “enlarge” effect of the enlarge/reduce spell (no concentration required).
 
+[[Crafting Magic Items|Made with]]: Primeval Sap
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

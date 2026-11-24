@@ -11,6 +11,8 @@ While you wear the fangs, a successful DC 9 DEX (Sleight of Hand) checks conceal
 
 ***Poisoned Bite.*** You can use an action to cause the fangs to fill with a green poison. The poison remains active for 1 minute or until an attack using these fangs hits a creature. That creature must succeed on a DC 13 CON save or take 2d4 poison damage and become [[Conditions#Poisoned|poisoned]] until the end of its next turn. The fangs can’t be used this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Aching Venom
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

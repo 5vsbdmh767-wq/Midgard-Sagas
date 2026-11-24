@@ -15,6 +15,8 @@ These thick-soled leather sandals offer comfortable and safe passage across shif
 
 - You leave no tracks or other traces of your passage through sandy terrain.
 
+[[Crafting Magic Items|Made with]]: Camouflaged Hide (desert) · giant scorpion stinger · Anchoring Root
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

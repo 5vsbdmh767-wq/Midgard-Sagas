@@ -9,6 +9,8 @@ Woven from the hair of celestials and fiends, this shimmering iridescent net can
 
 The net has immunity to damage dealt by the bound creature, but another creature can deal 20 slashing damage to the net and free the bound creature, ending the effect. The net has AC 15 and 30 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the net drops to 0 hit points, it is destroyed.
 
+[[Crafting Magic Items|Made with]]: celestial hair · fiend hair
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

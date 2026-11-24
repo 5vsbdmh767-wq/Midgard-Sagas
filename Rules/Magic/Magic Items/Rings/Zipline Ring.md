@@ -11,6 +11,8 @@ While the zipline is active, you remain suspended within 5 feet of the line, flo
 
 When the zipline has been active for a total of 1 minute, the ring’s magic ceases to function until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Living Tendril
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

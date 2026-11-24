@@ -11,6 +11,8 @@ The tome is a spellbook that contains the following spells, all of them spells o
 
 While attuned to the book, you can reference it whenever you make an INT check to recall information about any aspect of evil or the occult, such as lore about Great Old Ones, mythos creatures, or the cults that worship them. When doing so, your PB for that check is doubled.
 
+[[Crafting Magic Items|Made with]]: Void Essence · Aberrant Brain · Idolatrous Heart
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

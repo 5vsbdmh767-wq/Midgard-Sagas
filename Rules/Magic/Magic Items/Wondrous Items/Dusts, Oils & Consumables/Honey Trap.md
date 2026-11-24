@@ -11,6 +11,8 @@ While holding the jar, you can use an action to expend 1 charge to hurl a glob o
 
 A creature [[Conditions#Restrained|restrained]] by the honey can use an action to make a DC 15 STR (Athletics) or DEX (Acrobatics) check (target’s choice). On a success, the creature is no longer restrained by the honey.
 
+[[Crafting Magic Items|Made with]]: Adhesive Slime · royal jelly from a giant hive queen
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

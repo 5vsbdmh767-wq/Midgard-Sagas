@@ -9,6 +9,8 @@ This thin, curved blade has a bell guard shaped like a curled, golden leaf. You 
 
 You can use an action to cast the *[[2nd-Circle Spells#Barkskin|barkskin]]* spell on yourself for 1 hour, requiring no concentration. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · Teratoid Bark
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

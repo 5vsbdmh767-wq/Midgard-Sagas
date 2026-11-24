@@ -31,6 +31,8 @@ While wearing this amulet, you can cast the *[[Cantrips#Spare the Dying|spare th
 
 **17th Level.** You can now bind yourself to up to four creatures, instead of three, and you can bind to creatures as an action, instead of as a 1-minute prayer. In addition, when you use a spell of 1st circle or higher to restore hit points to a bound creature, the creature regains additional hit points equal to your level (minimum of 1).
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

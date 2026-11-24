@@ -16,6 +16,8 @@ Alternatively, if you spend 10 minutes anointing the rod with a flask of holy wa
 > [!note] Roots of the World Tree
 > These rods are cut from the roots of living [[Yggdrasil|World Trees]]. The trees’ guardians carry them or give them to heroes who help the trees. A rod cut from a corrupted or destroyed World Tree is cursed: its divinations may lie, or its blood anointing may send the wielder into an uncontrolled berserker rage. %% source: Vault of Magic (paraphrased sidebar) %%
 
+[[Crafting Magic Items|Made with]]: Anchoring Root
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

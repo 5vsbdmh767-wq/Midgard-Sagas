@@ -9,6 +9,8 @@ You can use a bonus action to speak this magic weapon's command word, causing th
 
 ***Acid Arc.*** While holding the weapon, you can use an action to swing it in a wide arc, spraying acid in a 15-foot cone. Each creature in the cone must make a DC 15 DEX save, taking 4d6 acid damage on a failed save, or half as much damage on a successful one. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Acrid Slag · Stone-Eating Acid
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

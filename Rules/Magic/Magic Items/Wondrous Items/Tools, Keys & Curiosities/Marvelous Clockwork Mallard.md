@@ -15,6 +15,8 @@ This intricate clockwork recreation of a Tiny duck is fashioned of brass and tin
 
 ***Quack.*** The mallard quacks loudly and constantly for up to 10 minutes or until you command it to stop as a bonus action. This quack is audible up to 600 feet away. This property can be used no more than once per hour.
 
+[[Crafting Magic Items|Made with]]: Whirling Gizmo · Creator’s Essence
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

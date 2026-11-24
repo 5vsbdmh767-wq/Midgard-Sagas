@@ -9,6 +9,8 @@ This slim, slightly curved blade has a ghostly sheen and a wickedly sharp edge. 
 
 When a creature takes psychic damage from the sword, you can choose to have the creature make a DC 15 WIS save. On a failure, you take 2d6 psychic damage, and the creature is [[Conditions#Stunned|stunned]] until the end of its next turn. Once used, this feature of the sword shouldn’t be used again until the next dawn. Each time it is used before then, the psychic damage you take increases by 2d6.
 
+[[Crafting Magic Items|Made with]]: Spectral Essence · Lock of Hag (sea hag) · Forgetful Horn
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

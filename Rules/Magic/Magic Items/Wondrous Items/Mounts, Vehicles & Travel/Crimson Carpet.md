@@ -9,6 +9,8 @@ This rolled bundle of red felt is 3-feet long and 1-foot wide, and it weighs 10 
 
 The carpet remains unrolled until you use an action to repeat the command word, causing it to roll up again. When you do so, the carpet can’t be unrolled again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Colossal Tendon
+
 Part of [[Mounts, Vehicles & Travel]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

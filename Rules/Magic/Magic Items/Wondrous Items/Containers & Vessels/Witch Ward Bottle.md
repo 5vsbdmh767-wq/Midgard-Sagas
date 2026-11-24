@@ -9,6 +9,8 @@ This small pottery jug contains an odd assortment of pins, needles, and rosemary
 
 If a protected creature fails its save against a spell with a duration other than instantaneous, that creature can choose to succeed instead. Doing so immediately drains the jug’s magic, and it shatters.
 
+[[Crafting Magic Items|Made with]]: Hag’s Blood
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

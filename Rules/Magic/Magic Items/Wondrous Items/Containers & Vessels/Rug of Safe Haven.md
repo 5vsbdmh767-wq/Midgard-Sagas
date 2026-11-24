@@ -11,6 +11,8 @@ The extradimensional space can be reached by lifting a corner of the rug and ste
 
 The rug can’t be used this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Breath Pouch
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

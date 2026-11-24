@@ -9,6 +9,8 @@ This wand is adorned with gold and silver inlay and topped with a faceted crysta
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand turns to lead and becomes nonmagical.
 
+[[Crafting Magic Items|Made with]]: Treasure-Sensitive Nose · dragon scale
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

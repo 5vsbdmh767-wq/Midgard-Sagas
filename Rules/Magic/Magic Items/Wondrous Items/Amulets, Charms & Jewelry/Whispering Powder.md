@@ -9,6 +9,8 @@ A paper envelope contains enough of this fine dust for one use. You can use an a
 
 The powder’s creator dictates the manner of sounds produced. The first creature to enter the affected spaces sets off the alarm, consuming the powder’s magic. Otherwise, the effect lasts as long the powder coats the area.
 
+[[Crafting Magic Items|Made with]]: Clacking Mandibles
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

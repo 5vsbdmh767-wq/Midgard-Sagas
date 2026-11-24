@@ -7,6 +7,8 @@ publish: true
 
 While wearing this hairy, black and white armor, you have a burrowing speed of 20 feet, and you have advantage on WIS (Perception) checks that rely on smell.
 
+[[Crafting Magic Items|Made with]]: giant badger hide
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

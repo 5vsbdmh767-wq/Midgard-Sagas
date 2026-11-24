@@ -11,6 +11,8 @@ While wearing this gray garment, you have a +5 bonus to your passive WIS (Percep
 
 ***Shrink.*** While wearing this cloak, you can use a bonus action to shrink in size as if you gained the “reduce” effect of the *[[2nd-Circle Spells#Enlarge/Reduce|enlarge/reduce]]* spell until the end of your next turn. Once used, this property of the cloak can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Animal Lord Essence (rat) · rat whiskers
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

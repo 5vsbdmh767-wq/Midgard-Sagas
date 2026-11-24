@@ -13,6 +13,8 @@ Mold and mushrooms coat this gnarled wooden staff. The staff has 10 charges for 
 
 ***Spore Cloud.*** While holding the staff, you can use an action to expend 3 charges to release a cloud of spores in a 20-foot radius from you. The spores remain for 1 minute, making the area lightly obscured for creatures other than you. The cloud moves with you, remaining centered on you. When a creature, other than you, enters the cloud of spores for the first time on a turn or starts its turn there, that creature must succeed on a DC 15 CON save or take 1d6 poison damage and become [[Conditions#Poisoned|poisoned]] until the start of its next turn. A wind of at least 10 miles per hour disperses the spores and ends the effect.
 
+[[Crafting Magic Items|Made with]]: Poison Coil · Spore Packet
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

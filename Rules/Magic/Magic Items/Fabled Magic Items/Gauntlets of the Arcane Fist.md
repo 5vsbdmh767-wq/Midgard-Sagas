@@ -29,6 +29,8 @@ While wearing these gauntlets, your STR score is 19. The gauntlets have no effec
 
 **17th Level.** While charged with arcane energy, your unarmed strikes now deal an extra 2d4 force damage on a hit. In addition, when using the *[[5th-Circle Spells#Arcane Hand|arcane hand]]* property of the gauntlets, the damage from the clenched fist option increases to 8d8 and the damage from the grasping hand option increases to 6d6.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

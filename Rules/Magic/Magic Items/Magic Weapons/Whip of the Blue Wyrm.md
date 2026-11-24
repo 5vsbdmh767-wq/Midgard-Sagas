@@ -9,6 +9,8 @@ Used by the half-dragon taskmasters of a long-forgotten empire, these whips drew
 
 You can use a bonus action to speak this whip's command word, which sends arcing bolts of lightning down the length of the whip. While lightning arcs down the whip, it deals an extra 1d6 lightning damage to any target it hits. The lightning lasts until you use a bonus action to speak the command word again or until you drop or stow the whip.
 
+[[Crafting Magic Items|Made with]]: blue dragon tail scales · Throat Scales (blue dragon) · Voltaic Organ. Use as many as the version's rarity calls for.
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ You can use a bonus action to toss the coin up to 20 feet. When the coin lands, 
 
 The devil is friendly to you and your companions. Roll initiative for the devil, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the devil, it defends itself from hostile creatures but otherwise takes no actions. If you are reduced to 0 hit points and the devil is still alive, it moves to your body and uses its action to grab your soul. You must succeed on a DC 15 CHA save or the devil steals your soul and you die. If the devil fails to grab your soul, it vanishes as if slain. If the devil grabs your soul, it uses its next action to transport itself back to the Hells, disappearing in a flash of brimstone. If the devil returns to the Hells with your soul, its coin doesn’t reappear, and you can be restored to life only by means of a true resurrection or *[[9th-Circle Spells#Wish|wish]]* spell.
 
+[[Crafting Magic Items|Made with]]: Infernal Tears · Treasure-Sensitive Nose · Fiend Vellum
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

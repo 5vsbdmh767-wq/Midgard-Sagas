@@ -11,6 +11,8 @@ In addition, while holding this orb, you can use an action to speak its command 
 
 ***Curse.*** This orb is cursed, a fact that is revealed only when an *[[Rituals 1st–3rd Circle#Identify|identify]]* spell is cast on the orb or you attune to it. Attuning to the orb curses you until you are targeted by the *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic. As long as you remain cursed, you are unwilling to part with the orb, keeping it on your person at all times. While cursed, your shadow seems abnormally gaunt and sometimes moves of its own volition as though alive. As a result, you have disadvantage on CHA (Performance) and CHA (Persuasion) checks.
 
+[[Crafting Magic Items|Made with]]: Celestial Blood
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ This wand of [[Conditions#Petrified|petrified]] wood has 7 charges. While holdin
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand shatters and is destroyed.
 
+[[Crafting Magic Items|Made with]]: Acrid Slag · Poison Coil
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ This brightly-colored shortsword is kept in a wooden scabbard with eternally blo
 
 A creature damaged by the blade must succeed on a DC 15 CHA save or be [[Conditions#Charmed|charmed]] by you until the end of its next turn. A creature can’t be [[Conditions#Charmed|charmed]] this way more than once every 24 hours.
 
+[[Crafting Magic Items|Made with]]: Primeval Sap · Fragrance Gland
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

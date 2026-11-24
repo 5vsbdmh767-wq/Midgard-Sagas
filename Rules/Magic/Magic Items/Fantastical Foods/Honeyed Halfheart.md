@@ -9,6 +9,8 @@ This small cake in the shape of a heart permeates the air with the scent of hone
 
 When you eat one portion of the cake, you can share the other portion with another creature that knows at least one language. If that creature eats the other portion within 1 hour of you eating your portion, the cake creates a magical bond between the two of you that allows you both to communicate via a secret language for the next 24 hours. You can choose whether this secret language is verbal or non-verbal, and the two of you must be able to see or smell (if non-verbal) or hear (if verbal) each other to communicate.
 
+[[Crafting Magic Items|Made with]]: Fey Tongue
+
 Part of [[Fantastical Foods]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

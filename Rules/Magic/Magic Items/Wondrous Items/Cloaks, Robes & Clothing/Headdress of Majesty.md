@@ -11,6 +11,8 @@ This elaborate headpiece is adorned with small gemstones and thin strips of gold
 
 ***Enchanting Sovereign.*** When you cast an enchantment spell while wearing the headdress, you can use a bonus action to expend 1 of its charges to strengthen the spell. While the spell is strengthened, each target has disadvantage on the save. If you are also attuned to and holding a *[[Scepter of Majesty|scepter of majesty]]*, the save DC of the strengthened spell increases by 1.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain · Celestial Feather
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

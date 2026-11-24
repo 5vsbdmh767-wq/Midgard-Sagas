@@ -9,6 +9,8 @@ This cloak is decorated with the spotted white and brown pattern of a barn owl�
 
 You can use the cloak to fly for up to 4 hours, all at once or in several shorter flights, each one using a minimum of 1 minute from the duration. If you are flying when the duration expires, you descend at a rate of 30 feet per round until you land. The cloak regains 2 hours of flying capability for every 12 hours it isn’t in use.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · owl feathers
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

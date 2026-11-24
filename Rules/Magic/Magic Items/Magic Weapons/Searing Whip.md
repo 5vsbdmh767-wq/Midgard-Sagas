@@ -11,6 +11,8 @@ The whip has 3 charges, and it regains 1d3 expended charges daily at dawn or whe
 
 If the attack hits, that creature and each creature in a line that is 5 feet wide between you and the target takes damage as if hit by this whip. All of this damage is radiant. If the target is undead, you have advantage on the attack roll.
 
+[[Crafting Magic Items|Made with]]: Luminous Scale · Living Tendril
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

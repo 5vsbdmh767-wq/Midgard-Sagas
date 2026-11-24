@@ -11,6 +11,8 @@ Aside from a minor difference in size, these simple golden hoops are identical t
 
 ***Large Hoop.*** While you are hidden, you can use an action to expend this hoop’s charge to conceal your presence from nearby creatures. Choose a point you can see within 120 feet of you. Each creature within 10 feet of that point has disadvantage on WIS (Perception) checks to see, hear, and smell you for 1 minute. This effect ends early if you are no longer hidden.
 
+[[Crafting Magic Items|Made with]]: Imitative Vocal Cords · Angel Ear Wax
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

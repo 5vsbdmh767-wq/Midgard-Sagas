@@ -9,6 +9,8 @@ This whip is braided from leather tanned from the hides of a dozen different, da
 
 When you roll a 20 on the attack roll made with this weapon and the target is a beast, the beast must succeed on a DC 15 WIS save or become [[Conditions#Charmed|charmed]] or [[Conditions#Frightened|frightened]] (your choice) for 1 minute. If the creature is [[Conditions#Charmed|charmed]], it understands and obeys one-word commands, such as “attack,” “approach,” “stay,” or similar. If it is charmed and understands a language, it obeys any command you give it in that language. The charmed or [[Conditions#Frightened|frightened]] creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 
+[[Crafting Magic Items|Made with]]: Animal Lord Essence · hides of a dozen dangerous beasts
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

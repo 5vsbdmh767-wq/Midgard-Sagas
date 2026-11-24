@@ -13,6 +13,8 @@ A creature that starts its turn in your space must succeed on a DC 15 CON save o
 
 Once used, you can’t use this property of the armor again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Abnormal Leather · Hardened Blood · Frenzying Oil
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -7,6 +7,8 @@ publish: true
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. While you wield the axe, you have advantage on STR (Athletics) checks to shove a creature, and you can shove a creature up to two sizes larger than you.
 
+[[Crafting Magic Items|Made with]]: Trampling Hoof · Colossal Tendon
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

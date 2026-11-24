@@ -9,6 +9,8 @@ This small, foot-long anvil is engraved with images of jewelry in various stages
 
 If you use the anvil while making any check with jeweler’s tools or tinker’s tools, you can double your PB. If your PB is already doubled, you have advantage on the check instead.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (fire)
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

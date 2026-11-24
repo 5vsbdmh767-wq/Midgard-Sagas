@@ -9,6 +9,8 @@ This heavy iron lock bears a stout, pitted key permanently fixed in the keyhole.
 
 Any container or portal weighing more than 30 pounds or [[Conditions#Restrained|restrained]] in any way (latched, bolted, tied, or the like) automatically resists this effect.
 
+[[Crafting Magic Items|Made with]]: Living Lockpick
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

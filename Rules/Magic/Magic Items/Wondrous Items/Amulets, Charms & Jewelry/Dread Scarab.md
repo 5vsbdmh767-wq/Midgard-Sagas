@@ -13,6 +13,8 @@ The abdomen of this beetle-shaped brooch is decorated with the grim semblance of
 
 ***Curse.*** This scarab is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the scarab, keeping it within reach at all times. While cursed by this brooch, you are sensitive to sunlight and celestial creatures within 1 mile of you are aware of the scarab and seek to destroy it. While in sunlight, you have disadvantage on attack rolls, as well as on WIS (Perception) checks that rely on sight.
 
+[[Crafting Magic Items|Made with]]: Demonic Thread · Insectoid Carapace · Unliving Claw
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

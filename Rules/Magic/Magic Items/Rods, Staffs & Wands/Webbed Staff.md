@@ -11,6 +11,8 @@ This staff is carved of ebony and wrapped in a net of silver wire. While holding
 
 ***Web Shot.*** While holding the staff, you can use an action to expend 1 of its charges to shoot a wad of webbing at a target you can see within 60 feet of you. Make a ranged spell attack, using your spellcasting ability. On a hit, the target is [[Conditions#Restrained|restrained]] by webbing. As an action, the [[Conditions#Restrained|restrained]] target can make a STR check against your spell save DC, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 
+[[Crafting Magic Items|Made with]]: Gripping Spikes · giant spider silk
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

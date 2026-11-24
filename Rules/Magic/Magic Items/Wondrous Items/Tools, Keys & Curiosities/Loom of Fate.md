@@ -9,6 +9,8 @@ If you spend 1 hour weaving on this portable loom, roll a d20 and record the num
 
 Once you have used the loom 3 times, the fabric is complete, and the loom is no longer magical. The fabric becomes a shifting tapestry that represents the events where you used the loom’s power to alter fate.
 
+[[Crafting Magic Items|Made with]]: eye of a creature that sees fate · Barbel of Misfortune
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

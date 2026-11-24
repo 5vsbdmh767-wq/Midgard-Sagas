@@ -21,6 +21,8 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 | 11 to 20 ft. away | 6 × the number of charges in the staff |
 | 21 to 30 ft. away | 4 × the number of charges in the staff |
 
+[[Crafting Magic Items|Made with]]: Throat Scales (white dragon) · Breath Pouch · Ice Heart
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

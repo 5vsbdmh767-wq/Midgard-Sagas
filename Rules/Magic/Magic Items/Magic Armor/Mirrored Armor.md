@@ -7,6 +7,8 @@ publish: true
 
 This metal armor is always polished to a mirror sheen, highly reflective, and can’t be dulled. If a creature has an action or trait that requires it to gaze at you to affect you, such as a basilisk’s Petrifying Gaze or a lich’s Frightening Gaze, it sees its reflection in the armor and is also affected by the gaze.
 
+[[Crafting Magic Items|Made with]]: Huecambra Gem
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ If the vessel is empty, you can use an action to remove the stopper and cast the
 
 You can use an action to remove the vessel’s stopper and release the elemental the vessel contains. Once released, the elemental acts in accordance with its normal disposition and alignment.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (air) · Demonic Thread
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

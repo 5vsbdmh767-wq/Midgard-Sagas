@@ -7,6 +7,8 @@ publish: true
 
 When you summon a creature with a conjuration spell while wearing this ring, the creature gains a +1 bonus to attack and damage rolls and 1d4 + 4 temporary hit points.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Elemental Gemstone
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

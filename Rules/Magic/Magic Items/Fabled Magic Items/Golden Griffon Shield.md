@@ -29,6 +29,8 @@ While wielding this shield, you can use an action to speak a command word, causi
 
 **17th Level.** You now gain a +3 bonus to AC, instead of +2. This bonus is in addition to the shield’s normal bonus to AC. In addition, you can use an action to call forth ghostly griffons to protect you. They fly around you to a distance of 15 feet for up to 10 minutes. You can designate any number of creatures you can see to be unaffected by these ghostly griffons. An affected creature’s speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a WIS save (DC equal to 8 + your PB + your WIS modifier). On a failed save, the creature takes 6d8 radiant damage. On a successful save, the creature takes half as much damage. You can’t summon these ghostly griffons again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

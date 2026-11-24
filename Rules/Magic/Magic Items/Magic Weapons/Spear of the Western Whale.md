@@ -9,6 +9,8 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. Fash
 
 When thrown in a westerly direction, the spear deals an extra 2d6 cold damage to the target.
 
+[[Crafting Magic Items|Made with]]: bone from a sea monster · Flippers · Cephalopod Ink
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

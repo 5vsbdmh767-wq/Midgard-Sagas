@@ -13,6 +13,8 @@ While holding or carrying the rod, you have advantage on WIS (Perception) and WI
 
 ***Spells.*** You can use an action to cast one of the following spells from the rod: daylight, lesser restoration, or shield of faith. Once you cast a spell with this rod, you can’t cast that spell again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · Angelic Oil · Celestial Blood
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

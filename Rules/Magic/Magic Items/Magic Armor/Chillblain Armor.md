@@ -9,6 +9,8 @@ This armor is forged from overlapping blue steel plates or blue rings and has a 
 
 ***Curse.*** This armor is cursed, a fact that is revealed only when an *[[Rituals 1st–3rd Circle#Identify|identify]]* spell is cast on the armor or you attune to it. Attuning to the armor curses you until you are targeted by the *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic; removing the armor fails to end the curse. While cursed, you have vulnerability to fire damage. If you are hit by a critical hit that deals fire damage while wearing this armor, the armor shatters into useless fragments.
 
+[[Crafting Magic Items|Made with]]: Throat Scales (white dragon) · Thick Hide · Ice Splinter
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

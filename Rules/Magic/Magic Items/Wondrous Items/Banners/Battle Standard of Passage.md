@@ -9,6 +9,8 @@ This battle standard hangs from a 4-foot-long pole and bears the colors and hera
 
 The standard stops waving and the effect ends after 10 minutes, or when a creature uses an action to pull the pole from the ground. The standard can’t be used this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Anchoring Root
+
 Part of [[Banners]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

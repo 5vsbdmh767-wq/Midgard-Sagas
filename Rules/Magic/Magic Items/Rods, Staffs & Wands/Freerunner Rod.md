@@ -15,6 +15,8 @@ The rod has 10 charges, and it regains 1d6 + 4 expended charges daily at dawn. I
 
 ***Forbidden Actions.*** If you burn or inflict fire damage to grasslands or if you kill a grasslands beast without you and your allies eating at least half of its flesh, the rod’s magic ceases to work for you, and you can never attune to this rod again.
 
+[[Crafting Magic Items|Made with]]: Primeval Sap · Camouflaged Hide (grassland) · Anchoring Root
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

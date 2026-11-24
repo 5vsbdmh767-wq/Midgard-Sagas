@@ -11,6 +11,8 @@ Several eagle feathers line the top of this long, thin staff. The staff has 10 c
 
 ***Spells.*** While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: conjure animals (2 giant eagles only, 3 charges), fly (3 charges), or *[[2nd-Circle Spells#Gust of Wind|gust of wind]]* (2 charges).
 
+[[Crafting Magic Items|Made with]]: roc feathers · giant eagle feathers
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

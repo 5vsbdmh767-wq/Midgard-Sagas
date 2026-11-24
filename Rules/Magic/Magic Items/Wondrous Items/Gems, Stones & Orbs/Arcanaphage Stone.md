@@ -11,6 +11,8 @@ Similar to the rocks found in a bird’s gizzard, this smooth stone helps an arc
 
 ***Magic Expulsion.*** You can use an action to throw the stone up to 60 feet. The stone explodes on impact and is destroyed. Each creature within 5 feet per Absorption score of where the stone landed must make a DC 15 DEX save, taking 1d6 force damage per Absorption score on a failed save, or half as much damage on a successful one.
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · arcanaphage gizzard stone
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ This book has a black leather cover with silver bindings and a silver front plat
 
 ***Void Rearrangement.*** You can spend 1 minute reading a complicated passage in Void Speech from this book to rearrange reality to your will. State your general intention when you make the pronouncement (“strike down my enemies,” “repair the damage the dragon did to me,” etc.). The GM decides the form this alteration of reality takes, but the effect of any wizard, cleric, or Void magic spell is appropriate. When the effect occurs, you suffer 5d10 necrotic damage, and you can’t use this ability again for 7 days.
 
+[[Crafting Magic Items|Made with]]: Void Essence · Aberrant Brain · Magic-Absorbing Organ
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

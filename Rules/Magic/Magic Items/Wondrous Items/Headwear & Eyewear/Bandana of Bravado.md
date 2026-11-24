@@ -7,6 +7,8 @@ publish: true
 
 While wearing this bright red bandana, you have advantage on CHA (Intimidation) checks and on saves against being [[Conditions#Frightened|frightened]].
 
+[[Crafting Magic Items|Made with]]: Idolatrous Heart
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

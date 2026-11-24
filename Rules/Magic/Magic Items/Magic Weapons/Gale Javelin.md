@@ -11,6 +11,8 @@ In addition, if this ranged weapon attack hits, the target must make a DC 13 STR
 
 The javelin’s property can’t be used again until the next dawn. In the meantime, it can still be used as a magic weapon.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (air)
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

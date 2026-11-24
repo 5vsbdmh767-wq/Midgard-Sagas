@@ -11,6 +11,8 @@ This round metal shield is painted bright blue with swirling white lines across 
 
 ***Sanctuary.*** You can use a bonus action to cast the *[[1st-Circle Spells#Sanctuary|sanctuary]]* spell (save DC 13) from the shield. This spell protects you from only water elementals and other creatures composed of water. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (air) · roc feathers · Bottled Lightning
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

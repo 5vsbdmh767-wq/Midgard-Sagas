@@ -7,6 +7,8 @@ publish: true
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. While holding the dagger, you have advantage on saves against being [[Conditions#Frightened|frightened]].
 
+[[Crafting Magic Items|Made with]]: Idolatrous Heart
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

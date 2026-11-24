@@ -9,6 +9,8 @@ This linen bandage is yellowed and worn with age. You can use an action to wrap 
 
 While the target is within 60 feet of you and the bandage’s magic is active, you can use an action to trigger the bandage, and the target regains 2d4 hit points. The bandage becomes inactive after it has restored 15 hit points to a creature or when 1 hour has passed. Once the bandage becomes inactive, it can’t be used again until the next dawn. You can be attuned to only one farhealing bandage at a time.
 
+[[Crafting Magic Items|Made with]]: Celestial Blood
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

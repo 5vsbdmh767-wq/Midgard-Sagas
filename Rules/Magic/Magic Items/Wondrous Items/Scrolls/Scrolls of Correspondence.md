@@ -9,6 +9,8 @@ These vellum scrolls always come in pairs. Anything written on one scroll also a
 
 While holding one of the scrolls, you can use an action to tap it three times with a quill and speak a command word, causing both scrolls to go blank. If one of the scrolls in the pair is destroyed, the other scroll becomes nonmagical.
 
+[[Crafting Magic Items|Made with]]: Ward’s Quills
+
 Part of [[Scrolls]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

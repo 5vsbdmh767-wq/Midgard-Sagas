@@ -15,6 +15,8 @@ The staff has 10 charges for the following properties. It regains 1d6 + 4 expend
 
 ***Spells.*** While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: *[[Rituals 1st–3rd Circle#Augury|augury]]* (2 charges), *[[2nd-Circle Spells#Barkskin|barkskin]]* (2 charges), *[[4th-Circle Spells#Confusion|confusion]]* (4 charges), *[[1st-Circle Spells#Entangle|entangle]]* (1 charge), or *[[4th-Circle Spells#Wall of Fire|wall of fire]]* (4 charges).
 
+[[Crafting Magic Items|Made with]]: eye of a fiend · Idolatrous Heart · blood-sap from a Plant
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

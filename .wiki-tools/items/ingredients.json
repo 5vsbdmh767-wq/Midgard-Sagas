@@ -1,0 +1,5096 @@
+{
+ "Rules/Magic/Magic Items/Fantastical Foods/Blue Rose Tea.md": {
+  "item": "Blue Rose Tea",
+  "rarity": "Uncommon",
+  "made_with": "NONE",
+  "flag": "brewed from blue rose petals, per its own text"
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Broth of Bolstering.md": {
+  "item": "Broth of Bolstering",
+  "rarity": "Common",
+  "made_with": "Bezoar",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Broth of Needful Fortitude.md": {
+  "item": "Broth of Needful Fortitude",
+  "rarity": "Very Rare",
+  "made_with": "Eternal’s Humor · undead bone",
+  "flag": "Text says it's brewed from humanoid flesh and bone, which the harvesting rules treat as evil and unusable. Listed undead parts instead."
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Candied Spider.md": {
+  "item": "Candied Spider",
+  "rarity": "Uncommon",
+  "made_with": "Gripping Spikes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Cloud and Mist Immortality Tea.md": {
+  "item": "Cloud and Mist Immortality Tea",
+  "rarity": "Legendary",
+  "made_with": "Celestial Blood · Phoenix Feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Companion’s Broth.md": {
+  "item": "Companion’s Broth",
+  "rarity": "Common",
+  "made_with": "beast bone marrow",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Dire Bacon.md": {
+  "item": "Dire Bacon",
+  "rarity": "Uncommon",
+  "made_with": "giant boar meat",
+  "flag": "Text names a giant boar (CR 2), under the Uncommon floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Dragonbone Broth.md": {
+  "item": "Dragonbone Broth",
+  "rarity": "Rare",
+  "made_with": "dragon bone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Dragonfire Pepper.md": {
+  "item": "Dragonfire Pepper",
+  "rarity": "Uncommon",
+  "made_with": "Breath Pouch (a fire-breathing dragon)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Electric Eel Sushi.md": {
+  "item": "Electric Eel Sushi",
+  "rarity": "Rare",
+  "made_with": "Voltaic Organ",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Gnomesalt Taffy.md": {
+  "item": "Gnomesalt Taffy",
+  "rarity": "Uncommon",
+  "made_with": "Extraordinary Limb",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Golden Dawn.md": {
+  "item": "Golden Dawn",
+  "rarity": "Uncommon",
+  "made_with": "Celestial Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Honeyed Halfheart.md": {
+  "item": "Honeyed Halfheart",
+  "rarity": "Uncommon",
+  "made_with": "Fey Tongue",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Maiden’s Tears.md": {
+  "item": "Maiden’s Tears",
+  "rarity": "Rare",
+  "made_with": "Celestial Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Mincemeat Pie.md": {
+  "item": "Mincemeat Pie",
+  "rarity": "Rare",
+  "made_with": "heart of a predator",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Pickled Aboleth Brain.md": {
+  "item": "Pickled Aboleth Brain",
+  "rarity": "Very Rare",
+  "made_with": "Aberrant Brain (aboleth) · Otherworldly Slime (aboleth)",
+  "flag": "Text names an aboleth (Harvest DC 14), under the Very Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Purified Phoenix Tear.md": {
+  "item": "Purified Phoenix Tear",
+  "rarity": "Legendary",
+  "made_with": "phoenix tears · Celestial Blood",
+  "flag": "Text names a phoenix (Harvest DC 15), under the Legendary floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Queen Bee.md": {
+  "item": "Queen Bee",
+  "rarity": "Rare",
+  "made_with": "royal jelly from a giant hive queen",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Roast Bean Juice.md": {
+  "item": "Roast Bean Juice",
+  "rarity": "Uncommon",
+  "made_with": "blood from a creature that never sleeps",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Saffron-Dusted Carrot.md": {
+  "item": "Saffron-Dusted Carrot",
+  "rarity": "Common",
+  "made_with": "hawk or eagle eyes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Scarlet Mead.md": {
+  "item": "Scarlet Mead",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone (fire)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Seven-Flavored Tea of Forgetfulness.md": {
+  "item": "Seven-Flavored Tea of Forgetfulness",
+  "rarity": "Very Rare",
+  "made_with": "Infernal Tears · Forgetful Horn",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Sweet Subjects.md": {
+  "item": "Sweet Subjects",
+  "rarity": "Rare",
+  "made_with": "Animal Lord Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Wafer of Warmth.md": {
+  "item": "Wafer of Warmth",
+  "rarity": "Uncommon",
+  "made_with": "salamander blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fantastical Foods/Winter Coat.md": {
+  "item": "Winter Coat",
+  "rarity": "Uncommon",
+  "made_with": "mammoth or polar bear fur",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Bezoars/Bezoar of the Behir.md": {
+  "item": "Bezoar of the Behir",
+  "rarity": "Rare",
+  "made_with": "Bezoar (behir) · Voltaic Organ (behir)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Bezoars/Bezoar of the Bespectacled Owlbear.md": {
+  "item": "Bezoar of the Bespectacled Owlbear",
+  "rarity": "Uncommon",
+  "made_with": "Bezoar (bespectacled owlbear)",
+  "flag": "The bezoar is the item, so the bespectacled owlbear is the source. Check its CR against the Uncommon floor (an ordinary owlbear is CR 3). Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Bezoars/Bezoar of the Chimera.md": {
+  "item": "Bezoar of the Chimera",
+  "rarity": "Uncommon",
+  "made_with": "Bezoar (chimera)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Bezoars/Bezoar of the Cockatrice.md": {
+  "item": "Bezoar of the Cockatrice",
+  "rarity": "Common",
+  "made_with": "Bezoar (cockatrice)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Bezoars/Bezoar of the Dire Owlbear.md": {
+  "item": "Bezoar of the Dire Owlbear",
+  "rarity": "Very Rare",
+  "made_with": "Bezoar (dire owlbear) · Hag’s Blood · Frenzying Oil",
+  "flag": "The bezoar is the item, so the dire owlbear is the source. A dire owlbear (Harvest DC 13) is under the Very Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Bezoars/Bezoar of the Great Horned Owlbear.md": {
+  "item": "Bezoar of the Great Horned Owlbear",
+  "rarity": "Rare",
+  "made_with": "Bezoar (great horned owlbear) · Colossal Tendon",
+  "flag": "The bezoar is the item, so the great horned owlbear is the source. Check its CR against the Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Bezoars/Bezoar of the Hippogriff.md": {
+  "item": "Bezoar of the Hippogriff",
+  "rarity": "Rare",
+  "made_with": "Bezoar (hippogriff) · hippogriff feathers",
+  "flag": "The bezoar is the item, so the hippogriff is the source. A hippogriff is far under the Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Bezoars/Bezoar of the Hoary Owlbear.md": {
+  "item": "Bezoar of the Hoary Owlbear",
+  "rarity": "Rare",
+  "made_with": "Bezoar (hoary owlbear) · Thick Hide",
+  "flag": "The bezoar is the item, so the hoary owlbear is the source. Check its CR against the Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Bezoars/Bezoar of the Manticore.md": {
+  "item": "Bezoar of the Manticore",
+  "rarity": "Rare",
+  "made_with": "Bezoar (manticore) · Throwing Spine (manticore)",
+  "flag": "The bezoar is the item, so the manticore is the source. A manticore (Harvest DC 12) is under the Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Bezoars/Bezoar of the Screech Owlbear.md": {
+  "item": "Bezoar of the Screech Owlbear",
+  "rarity": "Rare",
+  "made_with": "Bezoar (screech owlbear) · Fey Tongue",
+  "flag": "The bezoar is the item, so the screech owlbear is the source. Check its CR against the Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Ashwood Wand.md": {
+  "item": "Ashwood Wand",
+  "rarity": "Common",
+  "made_with": "fire beetle gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Big Dipper.md": {
+  "item": "Big Dipper",
+  "rarity": "Rare",
+  "made_with": "Adhesive Slime · Demonic Thread",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Blacktooth.md": {
+  "item": "Blacktooth",
+  "rarity": "Legendary",
+  "made_with": "Celestial Feather · Illuminating Essence · black ivory tusk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Brass Clockwork Staff.md": {
+  "item": "Brass Clockwork Staff",
+  "rarity": "Rare",
+  "made_with": "Creator’s Essence · Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Crook of the Flock.md": {
+  "item": "Crook of the Flock",
+  "rarity": "Very Rare",
+  "made_with": "Animal Lord Essence · Fey Tongue · ram horn",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Crystal Staff.md": {
+  "item": "Crystal Staff",
+  "rarity": "Very Rare",
+  "made_with": "Scintillating Hide · Elemental Gemstone · Aberrant Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Devil's Barb.md": {
+  "item": "Devil's Barb",
+  "rarity": "Rare",
+  "made_with": "barbed devil quill · Fiendish Oil (cold)",
+  "flag": "Text names a barbed devil's quill (CR 5), under the Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Eldritch Rod.md": {
+  "item": "Eldritch Rod",
+  "rarity": "Uncommon",
+  "made_with": "Extraordinary Limb (a tentacled Aberration)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Elk Horn Rod.md": {
+  "item": "Elk Horn Rod",
+  "rarity": "Rare",
+  "made_with": "organ from a creature with Magic Resistance · elk or reindeer horn",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Freerunner Rod.md": {
+  "item": "Freerunner Rod",
+  "rarity": "Very Rare",
+  "made_with": "Primeval Sap · Camouflaged Hide (grassland) · Anchoring Root",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Frungilator.md": {
+  "item": "Frungilator",
+  "rarity": "Uncommon",
+  "made_with": "Void Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Ghoulbane Rod.md": {
+  "item": "Ghoulbane Rod",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · Unliving Claw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Glass Wand of Leng.md": {
+  "item": "Glass Wand of Leng",
+  "rarity": "Rare",
+  "made_with": "Broodpact Paste · Imitative Vocal Cords",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Gremlin’s Paw.md": {
+  "item": "Gremlin’s Paw",
+  "rarity": "Rare",
+  "made_with": "Lock of Hag · gremlin forearm and claw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Hazelwood Wand.md": {
+  "item": "Hazelwood Wand",
+  "rarity": "Common",
+  "made_with": "Primeval Sap",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Howling Rod.md": {
+  "item": "Howling Rod",
+  "rarity": "Rare",
+  "made_with": "Spectral Essence · wolf fangs",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Lightning Rod.md": {
+  "item": "Lightning Rod",
+  "rarity": "Very Rare",
+  "made_with": "Throat Scales (blue dragon) · Voltaic Organ · Conductive Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Oakwood Wand.md": {
+  "item": "Oakwood Wand",
+  "rarity": "Common",
+  "made_with": "Teratoid Bark",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Blade Bending.md": {
+  "item": "Rod of Blade Bending",
+  "rarity": "Rare",
+  "made_with": "Bizarre Cartilage · Insectoid Carapace",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Bubbles.md": {
+  "item": "Rod of Bubbles",
+  "rarity": "Rare",
+  "made_with": "gas bladder from an aquatic Monstrosity · Slippery Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Conveyance.md": {
+  "item": "Rod of Conveyance",
+  "rarity": "Uncommon",
+  "made_with": "Trampling Hoof",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Deflection.md": {
+  "item": "Rod of Deflection",
+  "rarity": "Rare",
+  "made_with": "Energy-Converting Module · Magnetizing Agent",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Ghastly Might.md": {
+  "item": "Rod of Ghastly Might",
+  "rarity": "Legendary",
+  "made_with": "Demonic Thread · Unliving Claw · Eternal’s Humor",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Hellish Grounding.md": {
+  "item": "Rod of Hellish Grounding",
+  "rarity": "Rare",
+  "made_with": "Devil’s Eyes · Fiendish Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Icicles.md": {
+  "item": "Rod of Icicles",
+  "rarity": "Rare",
+  "made_with": "Breath Pouch (a cold-breathing dragon) · Ice Splinter",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Reformation.md": {
+  "item": "Rod of Reformation",
+  "rarity": "Rare",
+  "made_with": "Chaos Nullifier · Huecambra Gem",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Repossession.md": {
+  "item": "Rod of Repossession",
+  "rarity": "Common",
+  "made_with": "Magnetizing Agent",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Sacrificial Blessing.md": {
+  "item": "Rod of Sacrificial Blessing",
+  "rarity": "Rare",
+  "made_with": "Celestial Blood · Ward’s Quills",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Sanguine Mastery.md": {
+  "item": "Rod of Sanguine Mastery",
+  "rarity": "Very Rare",
+  "made_with": "heart of a blood-drinking creature · Frenzying Oil · ram skull",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Swarming Skulls.md": {
+  "item": "Rod of Swarming Skulls",
+  "rarity": "Rare",
+  "made_with": "Unliving Claw · Spectral Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Thorns.md": {
+  "item": "Rod of Thorns",
+  "rarity": "Rare",
+  "made_with": "Teratoid Bark · Throwing Spine",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Underworld Navigation.md": {
+  "item": "Rod of Underworld Navigation",
+  "rarity": "Rare",
+  "made_with": "brain of a burrowing creature · Minotaur Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Vapor.md": {
+  "item": "Rod of Vapor",
+  "rarity": "Common",
+  "made_with": "Shrouding Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Verbatim.md": {
+  "item": "Rod of Verbatim",
+  "rarity": "Common",
+  "made_with": "Fey Tongue",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of Warning.md": {
+  "item": "Rod of Warning",
+  "rarity": "Common",
+  "made_with": "eyes of a keen-sighted creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of the Disciplinarian.md": {
+  "item": "Rod of the Disciplinarian",
+  "rarity": "Uncommon",
+  "made_with": "Aberrant Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of the Infernal Realms.md": {
+  "item": "Rod of the Infernal Realms",
+  "rarity": "Very Rare",
+  "made_with": "Devil’s Eyes · Fiendish Oil · demon or devil hand",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of the Jester.md": {
+  "item": "Rod of the Jester",
+  "rarity": "Rare",
+  "made_with": "Laughing Fruit · Celebrant Goo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of the Mariner.md": {
+  "item": "Rod of the Mariner",
+  "rarity": "Rare",
+  "made_with": "bone from a sea monster · Lock of Hag (sea hag)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Rod of the Wastes.md": {
+  "item": "Rod of the Wastes",
+  "rarity": "Legendary",
+  "made_with": "Celestial Feather · Angelic Oil · Celestial Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Root of the World Tree.md": {
+  "item": "Root of the World Tree",
+  "rarity": "Uncommon",
+  "made_with": "Anchoring Root",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Scepter of Majesty.md": {
+  "item": "Scepter of Majesty",
+  "rarity": "Rare",
+  "made_with": "Aberrant Brain · Alpha Fish Scale",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Seelie Staff.md": {
+  "item": "Seelie Staff",
+  "rarity": "Rare",
+  "made_with": "Fey Tongue · Fey hair",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Serpent Staff.md": {
+  "item": "Serpent Staff",
+  "rarity": "Rare",
+  "made_with": "serpent venom · Bezoar",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Soldra’s Staff.md": {
+  "item": "Soldra’s Staff",
+  "rarity": "Uncommon",
+  "made_with": "silver dragon claw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Spider Staff.md": {
+  "item": "Spider Staff",
+  "rarity": "Rare",
+  "made_with": "Gripping Spikes · giant spider silk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Splinter Staff.md": {
+  "item": "Splinter Staff",
+  "rarity": "Uncommon",
+  "made_with": "Throwing Spine",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Binding.md": {
+  "item": "Staff of Binding",
+  "rarity": "Rare",
+  "made_with": "Demonic Thread · Adhesive Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Camazotz.md": {
+  "item": "Staff of Camazotz",
+  "rarity": "Very Rare",
+  "made_with": "Unliving Claw (vampire) · giant bat wing · Shadowporting Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Channeling.md": {
+  "item": "Staff of Channeling",
+  "rarity": "Uncommon",
+  "made_with": "Void Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Desolation.md": {
+  "item": "Staff of Desolation",
+  "rarity": "Very Rare",
+  "made_with": "Besieging Plating · Stone-Eating Acid · Rusting Antennae",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Dissolution.md": {
+  "item": "Staff of Dissolution",
+  "rarity": "Very Rare",
+  "made_with": "Eternal’s Humor · Acrid Slag · Stone-Eating Acid",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Fate.md": {
+  "item": "Staff of Fate",
+  "rarity": "Very Rare",
+  "made_with": "eye of a creature that sees fate · Barbel of Misfortune · Ritual Bone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Feathers.md": {
+  "item": "Staff of Feathers",
+  "rarity": "Rare",
+  "made_with": "roc feathers · giant eagle feathers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Giantkin.md": {
+  "item": "Staff of Giantkin",
+  "rarity": "Rare",
+  "made_with": "Primordial Humor · Colossal Tendon",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Ice and Fire.md": {
+  "item": "Staff of Ice and Fire",
+  "rarity": "Very Rare",
+  "made_with": "Throat Scales (red dragon) · Throat Scales (white dragon) · Elemental Gemstone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Master Lu Po.md": {
+  "item": "Staff of Master Lu Po",
+  "rarity": "Legendary",
+  "made_with": "Colossal Tendon · Wicked Bone · Elemental Gemstone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Midnight.md": {
+  "item": "Staff of Midnight",
+  "rarity": "Very Rare",
+  "made_with": "Devil’s Eyes · Shadowporting Blood · Gloompetal",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Minor Curses.md": {
+  "item": "Staff of Minor Curses",
+  "rarity": "Common",
+  "made_with": "Lock of Hag",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Parzelon.md": {
+  "item": "Staff of Parzelon",
+  "rarity": "Legendary",
+  "made_with": "Devil’s Eyes · Fiendish Oil · Infernal Tears",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Portals.md": {
+  "item": "Staff of Portals",
+  "rarity": "Very Rare",
+  "made_with": "blood of a plane-walking creature · Teleport Tracer · Shadowporting Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Scrying.md": {
+  "item": "Staff of Scrying",
+  "rarity": "Rare",
+  "made_with": "gynosphinx eye · Everwatchful Eyes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Spores.md": {
+  "item": "Staff of Spores",
+  "rarity": "Rare",
+  "made_with": "Poison Coil · Spore Packet",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Thorns.md": {
+  "item": "Staff of Thorns",
+  "rarity": "Very Rare",
+  "made_with": "Primeval Sap · Teratoid Bark · Throwing Spine",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Voices.md": {
+  "item": "Staff of Voices",
+  "rarity": "Rare",
+  "made_with": "Imitative Vocal Cords · Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of Winter and Ice.md": {
+  "item": "Staff of Winter and Ice",
+  "rarity": "Legendary",
+  "made_with": "Throat Scales (white dragon) · Breath Pouch · Ice Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of the Armada.md": {
+  "item": "Staff of the Armada",
+  "rarity": "Rare",
+  "made_with": "bone from a sea monster · galleon mast",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of the Artisan.md": {
+  "item": "Staff of the Artisan",
+  "rarity": "Rare",
+  "made_with": "Creator’s Essence · Multitool Component",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of the Cephalopod.md": {
+  "item": "Staff of the Cephalopod",
+  "rarity": "Very Rare",
+  "made_with": "Cephalopod Ink · Extraordinary Limb · Flippers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of the Four Winds.md": {
+  "item": "Staff of the Four Winds",
+  "rarity": "Very Rare",
+  "made_with": "Elemental Gemstone (air) · Bottled Lightning · roc feathers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of the Lantern Bearer.md": {
+  "item": "Staff of the Lantern Bearer",
+  "rarity": "Uncommon",
+  "made_with": "Illuminating Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of the Peaks.md": {
+  "item": "Staff of the Peaks",
+  "rarity": "Legendary",
+  "made_with": "Elemental Gemstone (earth) · roc feathers · Colossal Tendon",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of the Scion.md": {
+  "item": "Staff of the Scion",
+  "rarity": "Very Rare",
+  "made_with": "eye of a fiend · Idolatrous Heart · blood-sap from a Plant",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of the Treant.md": {
+  "item": "Staff of the Treant",
+  "rarity": "Very Rare",
+  "made_with": "Primeval Sap · Teratoid Bark · Anchoring Root",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of the Unhatched.md": {
+  "item": "Staff of the Unhatched",
+  "rarity": "Uncommon",
+  "made_with": "an unhatched dragon's skull",
+  "flag": "Text names an unhatched dragon's skull, which has no CR. Treated as meeting the floor."
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Staff of the White Necromancer.md": {
+  "item": "Staff of the White Necromancer",
+  "rarity": "Very Rare",
+  "made_with": "Eternal’s Humor · Celestial Blood · undead bone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Stone Staff.md": {
+  "item": "Stone Staff",
+  "rarity": "Very Rare",
+  "made_with": "Elemental Gemstone (earth) · Stone-Eating Acid · gargoyle stone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Stonedrift Staff.md": {
+  "item": "Stonedrift Staff",
+  "rarity": "Legendary",
+  "made_with": "Elemental Gemstone (earth) · Teratoid Bark · Stone-Eating Acid",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Stygian Crook.md": {
+  "item": "Stygian Crook",
+  "rarity": "Rare",
+  "made_with": "Unliving Claw · Lock of Hag",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Umbral Staff.md": {
+  "item": "Umbral Staff",
+  "rarity": "Legendary",
+  "made_with": "Devil’s Eyes · Shadowporting Blood · Gloompetal",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Unseelie Staff.md": {
+  "item": "Unseelie Staff",
+  "rarity": "Rare",
+  "made_with": "Fey Tongue · Shadowporting Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Accompaniment.md": {
+  "item": "Wand of Accompaniment",
+  "rarity": "Very Rare",
+  "made_with": "throat of a magical singer · Imitative Vocal Cords · Shadhavar Horn",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Air Glyphs.md": {
+  "item": "Wand of Air Glyphs",
+  "rarity": "Common",
+  "made_with": "glow gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Bristles.md": {
+  "item": "Wand of Bristles",
+  "rarity": "Rare",
+  "made_with": "Throwing Spine · giant boar bristles",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Depth Detection.md": {
+  "item": "Wand of Depth Detection",
+  "rarity": "Common",
+  "made_with": "fish swim bladder",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Direction.md": {
+  "item": "Wand of Direction",
+  "rarity": "Common",
+  "made_with": "Minotaur Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Drowning.md": {
+  "item": "Wand of Drowning",
+  "rarity": "Very Rare",
+  "made_with": "lungs of a sea monster · Water-Absorbing Organ · large fish bones",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Extinguishing.md": {
+  "item": "Wand of Extinguishing",
+  "rarity": "Common",
+  "made_with": "blood from a cold-dwelling creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Fermentation.md": {
+  "item": "Wand of Fermentation",
+  "rarity": "Uncommon",
+  "made_with": "spore sac from a fungal Plant",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Flame Control.md": {
+  "item": "Wand of Flame Control",
+  "rarity": "Common",
+  "made_with": "Poisonous Pitch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Giggles.md": {
+  "item": "Wand of Giggles",
+  "rarity": "Common",
+  "made_with": "Laughing Fruit",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Guidance.md": {
+  "item": "Wand of Guidance",
+  "rarity": "Common",
+  "made_with": "Celestial Feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Harrowing.md": {
+  "item": "Wand of Harrowing",
+  "rarity": "Rare",
+  "made_with": "Unliving Claw · Hag’s Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Ignition.md": {
+  "item": "Wand of Ignition",
+  "rarity": "Common",
+  "made_with": "Eruptive Sac (fire)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Plant Destruction.md": {
+  "item": "Wand of Plant Destruction",
+  "rarity": "Rare",
+  "made_with": "Acrid Slag · Poison Coil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Relieved Burdens.md": {
+  "item": "Wand of Relieved Burdens",
+  "rarity": "Uncommon",
+  "made_with": "Bezoar",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Resistance.md": {
+  "item": "Wand of Resistance",
+  "rarity": "Common",
+  "made_with": "Huecambra Gem",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Revealing.md": {
+  "item": "Wand of Revealing",
+  "rarity": "Uncommon",
+  "made_with": "Photoadaptive Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Tears.md": {
+  "item": "Wand of Tears",
+  "rarity": "Common",
+  "made_with": "Fearful Eyedrops",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Treasure Finding.md": {
+  "item": "Wand of Treasure Finding",
+  "rarity": "Rare",
+  "made_with": "Treasure-Sensitive Nose · dragon scale",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Vapors.md": {
+  "item": "Wand of Vapors",
+  "rarity": "Rare",
+  "made_with": "Stench Gland · Shrouding Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of Windows.md": {
+  "item": "Wand of Windows",
+  "rarity": "Common",
+  "made_with": "Telescopic Eyes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Wand of the Timekeeper.md": {
+  "item": "Wand of the Timekeeper",
+  "rarity": "Rare",
+  "made_with": "Chronomatic Gear · Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rods, Staffs & Wands/Webbed Staff.md": {
+  "item": "Webbed Staff",
+  "rarity": "Rare",
+  "made_with": "Gripping Spikes · giant spider silk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Brazen Band.md": {
+  "item": "Brazen Band",
+  "rarity": "Uncommon",
+  "made_with": "Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Clockwork Rogue Ring.md": {
+  "item": "Clockwork Rogue Ring",
+  "rarity": "Uncommon",
+  "made_with": "Living Lockpick",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Death’s Mirror.md": {
+  "item": "Death’s Mirror",
+  "rarity": "Uncommon",
+  "made_with": "Eternal’s Humor",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Glamour Rings.md": {
+  "item": "Glamour Rings",
+  "rarity": "Uncommon",
+  "made_with": "shapechanger blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Kraken Clutch Ring.md": {
+  "item": "Kraken Clutch Ring",
+  "rarity": "Very Rare",
+  "made_with": "Cephalopod Ink (kraken) · Extraordinary Limb · Flippers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Recondite Shield.md": {
+  "item": "Recondite Shield",
+  "rarity": "Uncommon",
+  "made_with": "Abnormal Leather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Arcane Adjustment.md": {
+  "item": "Ring of Arcane Adjustment",
+  "rarity": "Uncommon",
+  "made_with": "Aberrant Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Bravado.md": {
+  "item": "Ring of Bravado",
+  "rarity": "Uncommon",
+  "made_with": "Frenzying Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Deceiver’s Warning.md": {
+  "item": "Ring of Deceiver’s Warning",
+  "rarity": "Common",
+  "made_with": "doppelganger eye",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Dragon’s Discernment.md": {
+  "item": "Ring of Dragon’s Discernment",
+  "rarity": "Uncommon",
+  "made_with": "dragon eye",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Featherweight Weapons.md": {
+  "item": "Ring of Featherweight Weapons",
+  "rarity": "Uncommon",
+  "made_with": "Colossal Tendon",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Giant Mingling.md": {
+  "item": "Ring of Giant Mingling",
+  "rarity": "Rare",
+  "made_with": "Primordial Humor · shapechanger blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Hoarded Life.md": {
+  "item": "Ring of Hoarded Life",
+  "rarity": "Uncommon",
+  "made_with": "Troll Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Imperious Command.md": {
+  "item": "Ring of Imperious Command",
+  "rarity": "Rare",
+  "made_with": "Resonant Trunk · Aberrant Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Light’s Comfort.md": {
+  "item": "Ring of Light’s Comfort",
+  "rarity": "Uncommon",
+  "made_with": "Illuminating Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Night’s Solace.md": {
+  "item": "Ring of Night’s Solace",
+  "rarity": "Uncommon",
+  "made_with": "eyes of a creature with Sunlight Sensitivity, not a Humanoid",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Powerful Summons.md": {
+  "item": "Ring of Powerful Summons",
+  "rarity": "Rare",
+  "made_with": "Creator’s Essence · Elemental Gemstone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Remembrance.md": {
+  "item": "Ring of Remembrance",
+  "rarity": "Common",
+  "made_with": "Minotaur Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Sealing.md": {
+  "item": "Ring of Sealing",
+  "rarity": "Very Rare",
+  "made_with": "Demonic Thread · Living Tendril · Extraordinary Limb",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Shadows.md": {
+  "item": "Ring of Shadows",
+  "rarity": "Common",
+  "made_with": "Shadowporting Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Small Mercies.md": {
+  "item": "Ring of Small Mercies",
+  "rarity": "Common",
+  "made_with": "Celestial Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Spell Negation.md": {
+  "item": "Ring of Spell Negation",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Magic-Absorbing Organ · Countersong Fibers · Magebane Tooth",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Stored Vitality.md": {
+  "item": "Ring of Stored Vitality",
+  "rarity": "Uncommon",
+  "made_with": "Troll Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of Ursa.md": {
+  "item": "Ring of Ursa",
+  "rarity": "Rare",
+  "made_with": "Colossal Tendon · fossilized honey",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of the Dolphin.md": {
+  "item": "Ring of the Dolphin",
+  "rarity": "Uncommon",
+  "made_with": "Flippers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of the Frog.md": {
+  "item": "Ring of the Frog",
+  "rarity": "Uncommon",
+  "made_with": "legs of a leaping creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of the Frost Knight.md": {
+  "item": "Ring of the Frost Knight",
+  "rarity": "Rare",
+  "made_with": "Thick Hide · Ice Splinter",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of the Grove’s Guardian.md": {
+  "item": "Ring of the Grove’s Guardian",
+  "rarity": "Rare",
+  "made_with": "Primeval Sap · Anchoring Root",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of the Jarl.md": {
+  "item": "Ring of the Jarl",
+  "rarity": "Rare",
+  "made_with": "Primordial Humor (a cold-dwelling giant) · Thick Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Ring of the Water Dancer.md": {
+  "item": "Ring of the Water Dancer",
+  "rarity": "Rare",
+  "made_with": "Regenerative Coral · Flippers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Rowdy’s Ring.md": {
+  "item": "Rowdy’s Ring",
+  "rarity": "Uncommon",
+  "made_with": "Bizarre Cartilage",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Second Wind.md": {
+  "item": "Second Wind",
+  "rarity": "Common",
+  "made_with": "lungs of a diving beast",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Shimmer Ring.md": {
+  "item": "Shimmer Ring",
+  "rarity": "Rare",
+  "made_with": "Scintillating Hide · Illuminating Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Signet of the Magister.md": {
+  "item": "Signet of the Magister",
+  "rarity": "Rare",
+  "made_with": "Aberrant Brain · Angel Ear Wax",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Slatelight Ring.md": {
+  "item": "Slatelight Ring",
+  "rarity": "Rare",
+  "made_with": "Devil’s Eyes · glow gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Umbral Band.md": {
+  "item": "Umbral Band",
+  "rarity": "Uncommon",
+  "made_with": "Shadowporting Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Wolfbite Ring.md": {
+  "item": "Wolfbite Ring",
+  "rarity": "Rare",
+  "made_with": "Frenzying Oil · wolf fangs",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Rings/Zipline Ring.md": {
+  "item": "Zipline Ring",
+  "rarity": "Uncommon",
+  "made_with": "Living Tendril",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Ash of the Ebon Birch.md": {
+  "item": "Ash of the Ebon Birch",
+  "rarity": "Uncommon",
+  "made_with": "Fiendish Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Black Dragon Oil.md": {
+  "item": "Black Dragon Oil",
+  "rarity": "Rare",
+  "made_with": "black dragon essence",
+  "flag": "Text says it's a black dragon boiled in its own acid; any black dragon of young age or older meets the floor."
+ },
+ "Rules/Magic/Magic Items/Potions/Bloodlink Potion.md": {
+  "item": "Bloodlink Potion",
+  "rarity": "Common",
+  "made_with": "Ward’s Quills",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Brain Juice.md": {
+  "item": "Brain Juice",
+  "rarity": "Very Rare",
+  "made_with": "Aberrant Brain · Aberrant Brain (a second spellcaster)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Catalyst Oil.md": {
+  "item": "Catalyst Oil",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Cleaning Concoction.md": {
+  "item": "Cleaning Concoction",
+  "rarity": "Common",
+  "made_with": "gelatinous cube jelly",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Cordial of Understanding.md": {
+  "item": "Cordial of Understanding",
+  "rarity": "Common",
+  "made_with": "Fey Tongue",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Courtesan’s Allure.md": {
+  "item": "Courtesan’s Allure",
+  "rarity": "Uncommon",
+  "made_with": "Fragrance Gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Draught of Ambrosia.md": {
+  "item": "Draught of Ambrosia",
+  "rarity": "Legendary",
+  "made_with": "Celestial Blood · Unicorn Horn",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Draught of the Black Owl.md": {
+  "item": "Draught of the Black Owl",
+  "rarity": "Common",
+  "made_with": "black owl feathers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Efficacious Eyewash.md": {
+  "item": "Efficacious Eyewash",
+  "rarity": "Uncommon",
+  "made_with": "Illuminating Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Elixir of Corruption.md": {
+  "item": "Elixir of Corruption",
+  "rarity": "Rare",
+  "made_with": "Infernal Tears",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Elixir of Deep Slumber.md": {
+  "item": "Elixir of Deep Slumber",
+  "rarity": "Uncommon",
+  "made_with": "sleep-musk gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Elixir of Focus.md": {
+  "item": "Elixir of Focus",
+  "rarity": "Common",
+  "made_with": "Aberrant Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Elixir of Mimicry.md": {
+  "item": "Elixir of Mimicry",
+  "rarity": "Common",
+  "made_with": "Imitative Vocal Cords",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Elixir of Oracular Delirium.md": {
+  "item": "Elixir of Oracular Delirium",
+  "rarity": "Common",
+  "made_with": "Visionary Flesh",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Elixir of Spike Skin.md": {
+  "item": "Elixir of Spike Skin",
+  "rarity": "Rare",
+  "made_with": "Throwing Spine",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Elixir of Wakefulness.md": {
+  "item": "Elixir of Wakefulness",
+  "rarity": "Uncommon",
+  "made_with": "blood from a creature that never sleeps",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Elixir of the Clear Mind.md": {
+  "item": "Elixir of the Clear Mind",
+  "rarity": "Rare",
+  "made_with": "Chaos Nullifier",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Elixir of the Deep.md": {
+  "item": "Elixir of the Deep",
+  "rarity": "Rare",
+  "made_with": "gills of an aquatic creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Extract of Dual-Mindedness.md": {
+  "item": "Extract of Dual-Mindedness",
+  "rarity": "Legendary",
+  "made_with": "ettin brain · Aberrant Brain",
+  "flag": "Text says it's distilled from a two-headed giant of genius intellect. An ettin is the nearest (CR 4), far under the Legendary floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Potions/Ghoulbane Oil.md": {
+  "item": "Ghoulbane Oil",
+  "rarity": "Very Rare",
+  "made_with": "Angelic Oil · ghoul claw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Grave Reagent.md": {
+  "item": "Grave Reagent",
+  "rarity": "Uncommon",
+  "made_with": "Drudge Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Hardening Polish.md": {
+  "item": "Hardening Polish",
+  "rarity": "Uncommon",
+  "made_with": "Rending Claws",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Hewer’s Draught.md": {
+  "item": "Hewer’s Draught",
+  "rarity": "Uncommon",
+  "made_with": "Frenzying Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Interplanar Paint.md": {
+  "item": "Interplanar Paint",
+  "rarity": "Legendary",
+  "made_with": "Void Essence · Teleport Tracer",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Ironskin Oil.md": {
+  "item": "Ironskin Oil",
+  "rarity": "Uncommon",
+  "made_with": "Hardened Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Liquid Courage.md": {
+  "item": "Liquid Courage",
+  "rarity": "Common",
+  "made_with": "Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Liquid Shadow.md": {
+  "item": "Liquid Shadow",
+  "rarity": "Uncommon",
+  "made_with": "Shadowporting Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Locksmith’s Oil.md": {
+  "item": "Locksmith’s Oil",
+  "rarity": "Common",
+  "made_with": "Living Lockpick",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Luring Perfume.md": {
+  "item": "Luring Perfume",
+  "rarity": "Rare",
+  "made_with": "Fragrance Gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Odorless Oil.md": {
+  "item": "Odorless Oil",
+  "rarity": "Uncommon",
+  "made_with": "scent gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Oil of Concussion.md": {
+  "item": "Oil of Concussion",
+  "rarity": "Common",
+  "made_with": "Wicked Bone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Oil of Defoliation.md": {
+  "item": "Oil of Defoliation",
+  "rarity": "Uncommon",
+  "made_with": "Acrid Slag",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Oil of Extreme Bludgeoning.md": {
+  "item": "Oil of Extreme Bludgeoning",
+  "rarity": "Rare",
+  "made_with": "Angelic Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Oil of Numbing.md": {
+  "item": "Oil of Numbing",
+  "rarity": "Common",
+  "made_with": "Paralyzing Dust",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Oil of Sharpening.md": {
+  "item": "Oil of Sharpening",
+  "rarity": "Common",
+  "made_with": "Wicked Bone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Orb of Obfuscation.md": {
+  "item": "Orb of Obfuscation",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Cephalopod Ink · Eruptive Sac",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Philter of Luck.md": {
+  "item": "Philter of Luck",
+  "rarity": "Uncommon",
+  "made_with": "heart of a lucky creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potent Cure-All.md": {
+  "item": "Potent Cure-All",
+  "rarity": "Legendary",
+  "made_with": "Celestial Blood · Unicorn Horn",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Air Breathing.md": {
+  "item": "Potion of Air Breathing",
+  "rarity": "Uncommon",
+  "made_with": "lungs of an amphibious creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Bad Taste.md": {
+  "item": "Potion of Bad Taste",
+  "rarity": "Common",
+  "made_with": "Stench Gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Bouncing.md": {
+  "item": "Potion of Bouncing",
+  "rarity": "Uncommon",
+  "made_with": "Bizarre Cartilage",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Buoyancy.md": {
+  "item": "Potion of Buoyancy",
+  "rarity": "Common",
+  "made_with": "fish swim bladder",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Dire Cleansing.md": {
+  "item": "Potion of Dire Cleansing",
+  "rarity": "Uncommon",
+  "made_with": "Bezoar",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Ebbing Strength.md": {
+  "item": "Potion of Ebbing Strength",
+  "rarity": "Uncommon",
+  "made_with": "Primordial Humor",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Effulgence.md": {
+  "item": "Potion of Effulgence",
+  "rarity": "Common",
+  "made_with": "Searsprite Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Empowering Truth.md": {
+  "item": "Potion of Empowering Truth",
+  "rarity": "Rare",
+  "made_with": "Angel Ear Wax",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Freezing Fog.md": {
+  "item": "Potion of Freezing Fog",
+  "rarity": "Uncommon",
+  "made_with": "Shrouding Hide (a cold creature)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Malleability.md": {
+  "item": "Potion of Malleability",
+  "rarity": "Uncommon",
+  "made_with": "Slippery Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Sand Form.md": {
+  "item": "Potion of Sand Form",
+  "rarity": "Very Rare",
+  "made_with": "Spectral Essence · Particulate Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Skating.md": {
+  "item": "Potion of Skating",
+  "rarity": "Common",
+  "made_with": "foot pads of an ice-dwelling creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Transparency.md": {
+  "item": "Potion of Transparency",
+  "rarity": "Common",
+  "made_with": "Photoadaptive Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Potion of Worg Form.md": {
+  "item": "Potion of Worg Form",
+  "rarity": "Rare",
+  "made_with": "worg hair",
+  "flag": "Text says worg hair floats in it. A worg is far under the Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Potions/Rainbow Extract.md": {
+  "item": "Rainbow Extract",
+  "rarity": "Common",
+  "made_with": "Scintillating Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Royal Jelly.md": {
+  "item": "Royal Jelly",
+  "rarity": "Uncommon",
+  "made_with": "pheromones from a giant hive queen",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Tincture of Moonlit Blossom.md": {
+  "item": "Tincture of Moonlit Blossom",
+  "rarity": "Very Rare",
+  "made_with": "Celestial Blood · Moon Drake Saliva",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Tonic for the Troubled Mind.md": {
+  "item": "Tonic for the Troubled Mind",
+  "rarity": "Common",
+  "made_with": "Chaos Nullifier",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Tonic of Blandness.md": {
+  "item": "Tonic of Blandness",
+  "rarity": "Common",
+  "made_with": "otyugh gut",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Trollsblood Elixir.md": {
+  "item": "Trollsblood Elixir",
+  "rarity": "Very Rare",
+  "made_with": "Troll Heart · troll blood",
+  "flag": "No troll in your books reaches the Very Rare floor, but a troll is plainly the source."
+ },
+ "Rules/Magic/Magic Items/Potions/Unstable Bombard.md": {
+  "item": "Unstable Bombard",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Eruptive Sac · Void Essence · Otherworldly Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Verdant Elixir.md": {
+  "item": "Verdant Elixir",
+  "rarity": "Uncommon",
+  "made_with": "Primeval Sap",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Wisp of the Void.md": {
+  "item": "Wisp of the Void",
+  "rarity": "Uncommon",
+  "made_with": "Void Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Witch’s Brew.md": {
+  "item": "Witch’s Brew",
+  "rarity": "Uncommon",
+  "made_with": "Hag’s Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Potions/Wrathful Vapors.md": {
+  "item": "Wrathful Vapors",
+  "rarity": "Uncommon",
+  "made_with": "Eruptive Sac",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Agile Armor.md": {
+  "item": "Agile Armor",
+  "rarity": "Common",
+  "made_with": "Bizarre Cartilage",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Animated Chain Mail.md": {
+  "item": "Animated Chain Mail",
+  "rarity": "Rare",
+  "made_with": "Extraordinary Limb · Gripping Spikes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Armor of Cushioning.md": {
+  "item": "Armor of Cushioning",
+  "rarity": "Uncommon",
+  "made_with": "Bizarre Cartilage",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Armor of Spite.md": {
+  "item": "Armor of Spite",
+  "rarity": "Rare",
+  "made_with": "Fiend Vellum · Fiendish Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Armor of Warding.md": {
+  "item": "Armor of Warding",
+  "rarity": "Uncommon",
+  "made_with": "claws, feathers or scales of the creature type it wards against",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Armor of the Leaf.md": {
+  "item": "Armor of the Leaf",
+  "rarity": "Uncommon",
+  "made_with": "Camouflaged Hide (forest)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Armor of the Ngobou.md": {
+  "item": "Armor of the Ngobou",
+  "rarity": "Rare",
+  "made_with": "ngobou hide · Trampling Hoof (ngobou)",
+  "flag": "Text names a ngobou. Check its CR against the Rare floor; kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Badger Hide.md": {
+  "item": "Badger Hide",
+  "rarity": "Uncommon",
+  "made_with": "giant badger hide",
+  "flag": "Text says badger hide. A giant badger is far under the Uncommon floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Blood-Soaked Hide.md": {
+  "item": "Blood-Soaked Hide",
+  "rarity": "Very Rare",
+  "made_with": "Abnormal Leather · Hardened Blood · Frenzying Oil",
+  "flag": "Text says it's tanned humanoid skins, which the harvesting rules treat as evil and unusable. Listed monster parts instead."
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Bloodprice Armor.md": {
+  "item": "Bloodprice Armor",
+  "rarity": "Legendary",
+  "made_with": "Abnormal Leather · Hardened Blood · Ward’s Quills",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Brawn Armor.md": {
+  "item": "Brawn Armor",
+  "rarity": "Rare",
+  "made_with": "ancient grizzly bear hide · Colossal Tendon",
+  "flag": "Text says the hide of an ancient grizzly bear. Your books have no such creature; a CR 9+ bear-kind beast or monstrosity would fit."
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Brazen Bulwark.md": {
+  "item": "Brazen Bulwark",
+  "rarity": "Rare",
+  "made_with": "Besieging Plating · Abnormal Leather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Cephalopod Breastplate.md": {
+  "item": "Cephalopod Breastplate",
+  "rarity": "Rare",
+  "made_with": "Abnormal Leather · Cephalopod Ink",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Chillblain Armor.md": {
+  "item": "Chillblain Armor",
+  "rarity": "Very Rare",
+  "made_with": "Throat Scales (white dragon) · Thick Hide · Ice Splinter",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Commander's Plate.md": {
+  "item": "Commander's Plate",
+  "rarity": "Uncommon",
+  "made_with": "Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Crocodile Armor.md": {
+  "item": "Crocodile Armor",
+  "rarity": "Rare",
+  "made_with": "giant crocodile hide · Flippers",
+  "flag": "Text says crocodile skin. A giant crocodile (Harvest DC 13) is under the Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Crusader’s Shield.md": {
+  "item": "Crusader’s Shield",
+  "rarity": "Common",
+  "made_with": "Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Encouraging Armor.md": {
+  "item": "Encouraging Armor",
+  "rarity": "Very Rare",
+  "made_with": "Abnormal Leather · Idolatrous Heart · Celestial Feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Fellforged Armor.md": {
+  "item": "Fellforged Armor",
+  "rarity": "Very Rare",
+  "made_with": "Creator’s Essence · Eternal’s Humor · Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Fountmail.md": {
+  "item": "Fountmail",
+  "rarity": "Legendary",
+  "made_with": "Celestial Blood · Abnormal Leather · Celestial Feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Ghost Barding.md": {
+  "item": "Ghost Barding",
+  "rarity": "Uncommon",
+  "made_with": "Spectral Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Gorgon Scale.md": {
+  "item": "Gorgon Scale",
+  "rarity": "Very Rare",
+  "made_with": "Abnormal Leather · gorgon scales · Trampling Hoof",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Grasping Shield.md": {
+  "item": "Grasping Shield",
+  "rarity": "Uncommon",
+  "made_with": "Extraordinary Limb",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Grave Ward Armor.md": {
+  "item": "Grave Ward Armor",
+  "rarity": "Very Rare",
+  "made_with": "Celestial Feather · Eternal’s Humor · Abnormal Leather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Grim Escutcheon.md": {
+  "item": "Grim Escutcheon",
+  "rarity": "Uncommon",
+  "made_with": "Unliving Claw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Hellfire Armor.md": {
+  "item": "Hellfire Armor",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Fiendish Oil · Fiend Vellum · Infernal Tears",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Larkmail.md": {
+  "item": "Larkmail",
+  "rarity": "Rare",
+  "made_with": "Imitative Vocal Cords · lark feathers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Living Juggernaut.md": {
+  "item": "Living Juggernaut",
+  "rarity": "Rare",
+  "made_with": "Trampling Hoof · Besieging Plating",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Mail of the Sword Master.md": {
+  "item": "Mail of the Sword Master",
+  "rarity": "Uncommon",
+  "made_with": "Insectoid Carapace",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Meteoric Plate.md": {
+  "item": "Meteoric Plate",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone (fire) · gargoyle stone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Mirrored Armor.md": {
+  "item": "Mirrored Armor",
+  "rarity": "Uncommon",
+  "made_with": "Huecambra Gem",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Muffled Armor.md": {
+  "item": "Muffled Armor",
+  "rarity": "Common",
+  "made_with": "Camouflaged Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Primordial Scale.md": {
+  "item": "Primordial Scale",
+  "rarity": "Uncommon",
+  "made_with": "scales of a great subterranean beast",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Retribution Armor.md": {
+  "item": "Retribution Armor",
+  "rarity": "Very Rare",
+  "made_with": "Fiendish Oil · Abnormal Leather · Demonic Thread",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Rust Monster Shell.md": {
+  "item": "Rust Monster Shell",
+  "rarity": "Rare",
+  "made_with": "rust monster shell · Rusting Antennae",
+  "flag": "Text says rust monster shell. A rust monster is far under the Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Sand Suit.md": {
+  "item": "Sand Suit",
+  "rarity": "Very Rare",
+  "made_with": "Demonic Thread · Elemental Gemstone (earth) · Spectral Essence",
+  "flag": "Text says it's made from the treated body of a destroyed apaxrusl. That body is the base; these go on top."
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Serpent’s Scales.md": {
+  "item": "Serpent’s Scales",
+  "rarity": "Rare",
+  "made_with": "Abnormal Leather · giant snake skin",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Sharkskin Vest.md": {
+  "item": "Sharkskin Vest",
+  "rarity": "Rare",
+  "made_with": "Abnormal Leather · shark skin",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Shield of Gnawing.md": {
+  "item": "Shield of Gnawing",
+  "rarity": "Rare",
+  "made_with": "Frenzying Oil · Bizarre Cartilage",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Shield of Missile Reversal.md": {
+  "item": "Shield of Missile Reversal",
+  "rarity": "Rare",
+  "made_with": "Energy-Converting Module · Magnetizing Agent",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Shield of the Fallen.md": {
+  "item": "Shield of the Fallen",
+  "rarity": "Common",
+  "made_with": "Celestial Feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Slick Cuirass.md": {
+  "item": "Slick Cuirass",
+  "rarity": "Common",
+  "made_with": "Slippery Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Smoking Plate of Heithmir.md": {
+  "item": "Smoking Plate of Heithmir",
+  "rarity": "Legendary",
+  "made_with": "Throat Scales (white dragon) · Shrouding Hide · Flame Haze",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Spearbiter.md": {
+  "item": "Spearbiter",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Rending Claws · Metal-Crushing Beak",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Steadfast Splint.md": {
+  "item": "Steadfast Splint",
+  "rarity": "Uncommon",
+  "made_with": "Anchoring Root",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Swarmfoe Suit.md": {
+  "item": "Swarmfoe Suit",
+  "rarity": "Uncommon",
+  "made_with": "dragon scales",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Tarian Graddfeydd Ddraig.md": {
+  "item": "Tarian Graddfeydd Ddraig",
+  "rarity": "Very Rare",
+  "made_with": "Throat Scales (a dragon killed by shadow magic) · Insectoid Carapace · dragon wyrmling scales",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Troll Skin Armor.md": {
+  "item": "Troll Skin Armor",
+  "rarity": "Rare",
+  "made_with": "troll skin · Troll Heart",
+  "flag": "Text says troll skin. A troll (Harvest DC 13) is under the Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Undine Plate.md": {
+  "item": "Undine Plate",
+  "rarity": "Rare",
+  "made_with": "Flippers · Regenerative Coral",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Verses of Vengeance.md": {
+  "item": "Verses of Vengeance",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · Scroll Parchment",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Vestments of the Bleak Shinobi.md": {
+  "item": "Vestments of the Bleak Shinobi",
+  "rarity": "Uncommon",
+  "made_with": "Shadowporting Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Void-Touched Buckler.md": {
+  "item": "Void-Touched Buckler",
+  "rarity": "Very Rare",
+  "made_with": "Void Essence · Throat Scales (void dragon) · Abnormal Leather",
+  "flag": "Text gives an accidental origin (it sat beside a tear into the Void for decades). Listed what a crafter would use instead."
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Warlock’s Aegis.md": {
+  "item": "Warlock’s Aegis",
+  "rarity": "Rare",
+  "made_with": "Fiend Vellum · Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Wave Chain Mail.md": {
+  "item": "Wave Chain Mail",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone (water) · Slippery Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/White Ape Hide.md": {
+  "item": "White Ape Hide",
+  "rarity": "Very Rare",
+  "made_with": "white ape hide · Colossal Tendon · Bizarre Cartilage",
+  "flag": "Text says it's made from a white ape. Check its CR against the Very Rare floor; kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Witch Hunter’s Armor.md": {
+  "item": "Witch Hunter’s Armor",
+  "rarity": "Rare",
+  "made_with": "Magic-Absorbing Organ · Hag’s Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Armor/Zephyr Shield.md": {
+  "item": "Zephyr Shield",
+  "rarity": "Very Rare",
+  "made_with": "Elemental Gemstone (air) · roc feathers · Bottled Lightning",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Angelic Earrings.md": {
+  "item": "Angelic Earrings",
+  "rarity": "Uncommon",
+  "made_with": "chamrosh claws, freely given",
+  "flag": "Text says chamrosh claws, freely given. Check the chamrosh's CR against the Uncommon floor; kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Bandana of Brachiation.md": {
+  "item": "Bandana of Brachiation",
+  "rarity": "Uncommon",
+  "made_with": "Gripping Spikes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Bandana of Bravado.md": {
+  "item": "Bandana of Bravado",
+  "rarity": "Uncommon",
+  "made_with": "Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Brotherhood of Fezzes.md": {
+  "item": "Brotherhood of Fezzes",
+  "rarity": "Uncommon",
+  "made_with": "hair from a creature with a hive mind",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Cap of Thorns.md": {
+  "item": "Cap of Thorns",
+  "rarity": "Very Rare",
+  "made_with": "Primeval Sap · Teratoid Bark · Hardened Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Captain’s Goggles.md": {
+  "item": "Captain’s Goggles",
+  "rarity": "Rare",
+  "made_with": "Telescopic Eyes · Everwatchful Eyes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Circlet of Persuasion.md": {
+  "item": "Circlet of Persuasion",
+  "rarity": "Uncommon",
+  "made_with": "Aberrant Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Clarifying Goggles.md": {
+  "item": "Clarifying Goggles",
+  "rarity": "Uncommon",
+  "made_with": "Telescopic Eyes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Commander’s Helm.md": {
+  "item": "Commander’s Helm",
+  "rarity": "Common",
+  "made_with": "Illuminating Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Commander’s Visage.md": {
+  "item": "Commander’s Visage",
+  "rarity": "Very Rare",
+  "made_with": "Infernal Tears · Idolatrous Heart · Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Crown of the Pharaoh.md": {
+  "item": "Crown of the Pharaoh",
+  "rarity": "Legendary",
+  "made_with": "Aberrant Brain · gynosphinx brain · Eternal’s Humor (mummy)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Devil Shark Mask.md": {
+  "item": "Devil Shark Mask",
+  "rarity": "Rare",
+  "made_with": "Fiend Vellum · shark teeth",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Earrings of the Agent.md": {
+  "item": "Earrings of the Agent",
+  "rarity": "Rare",
+  "made_with": "Imitative Vocal Cords · Angel Ear Wax",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Earrings of the Eclipse.md": {
+  "item": "Earrings of the Eclipse",
+  "rarity": "Uncommon",
+  "made_with": "Photoadaptive Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Earrings of the Storm Oyster.md": {
+  "item": "Earrings of the Storm Oyster",
+  "rarity": "Very Rare",
+  "made_with": "Voltaic Organ · Conductive Blood · storm oyster pearls",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Eyes of the Outer Dark.md": {
+  "item": "Eyes of the Outer Dark",
+  "rarity": "Very Rare",
+  "made_with": "Void Essence · Devil’s Eyes · Aberrant Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Eyes of the Portal Masters.md": {
+  "item": "Eyes of the Portal Masters",
+  "rarity": "Rare",
+  "made_with": "Teleport Tracer · Apkallu Lenses",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Fanged Mask.md": {
+  "item": "Fanged Mask",
+  "rarity": "Uncommon",
+  "made_with": "predator fangs",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Fear-Eater’s Mask.md": {
+  "item": "Fear-Eater’s Mask",
+  "rarity": "Uncommon",
+  "made_with": "Fearful Eyedrops",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Fleshspurned Mask.md": {
+  "item": "Fleshspurned Mask",
+  "rarity": "Rare",
+  "made_with": "Spectral Essence · Fleshspurned Saliva",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Goggles of Firesight.md": {
+  "item": "Goggles of Firesight",
+  "rarity": "Uncommon",
+  "made_with": "Scavenger Jelly",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Goggles of Shade.md": {
+  "item": "Goggles of Shade",
+  "rarity": "Uncommon",
+  "made_with": "eyes of a creature with Sunlight Sensitivity, not a Humanoid",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Grasping Cap.md": {
+  "item": "Grasping Cap",
+  "rarity": "Legendary",
+  "made_with": "Extraordinary Limb · Gripping Spikes · Energy-Converting Module",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Hair Pick of Protection.md": {
+  "item": "Hair Pick of Protection",
+  "rarity": "Very Rare",
+  "made_with": "Celestial Feather · Huecambra Gem · Hardened Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Hat of Mental Acuity.md": {
+  "item": "Hat of Mental Acuity",
+  "rarity": "Rare",
+  "made_with": "gynosphinx brain · Aberrant Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Headrest of the Cattle Queens.md": {
+  "item": "Headrest of the Cattle Queens",
+  "rarity": "Uncommon",
+  "made_with": "Bezoar (from an ungulate)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Helm of the Slashing Fin.md": {
+  "item": "Helm of the Slashing Fin",
+  "rarity": "Uncommon",
+  "made_with": "Flippers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Justicar’s Mask.md": {
+  "item": "Justicar’s Mask",
+  "rarity": "Rare",
+  "made_with": "Demonic Thread · basilisk eye",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Keffiyeh of Serendipitous Escape.md": {
+  "item": "Keffiyeh of Serendipitous Escape",
+  "rarity": "Very Rare",
+  "made_with": "Elemental Gemstone (air) · roc feathers · Shrouding Hide (desert)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Linguist’s Cap.md": {
+  "item": "Linguist’s Cap",
+  "rarity": "Common",
+  "made_with": "Fey Tongue",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Lucky Eyepatch.md": {
+  "item": "Lucky Eyepatch",
+  "rarity": "Uncommon",
+  "made_with": "heart of a lucky creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Lupine Crown.md": {
+  "item": "Lupine Crown",
+  "rarity": "Rare",
+  "made_with": "Camouflaged Hide (forest) · deer antlers and fox hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Mask of the Leaping Gazelle.md": {
+  "item": "Mask of the Leaping Gazelle",
+  "rarity": "Uncommon",
+  "made_with": "Trampling Hoof (a fleet hooved creature)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Mask of the War Chief.md": {
+  "item": "Mask of the War Chief",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: parts of the creature the mask depicts · Thick Hide · Colossal Tendon",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Mayhem Mask.md": {
+  "item": "Mayhem Mask",
+  "rarity": "Very Rare",
+  "made_with": "horns of a fiend · goat hair · Frenzying Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Moonfield Lens.md": {
+  "item": "Moonfield Lens",
+  "rarity": "Very Rare",
+  "made_with": "eye of a seer · Moon Drake Saliva · Telescopic Eyes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Oculi of the Ancestor.md": {
+  "item": "Oculi of the Ancestor",
+  "rarity": "Rare",
+  "made_with": "Spectral Essence · Everwatchful Eyes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Oni Mask.md": {
+  "item": "Oni Mask",
+  "rarity": "Rare",
+  "made_with": "Fiend Vellum · oni horn",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Shark Tooth Crown.md": {
+  "item": "Shark Tooth Crown",
+  "rarity": "Rare",
+  "made_with": "teeth of a sea monster · shark teeth",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Skullcap of Deep Wisdom.md": {
+  "item": "Skullcap of Deep Wisdom",
+  "rarity": "Uncommon",
+  "made_with": "Aberrant Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Headwear & Eyewear/Swashing Plumage.md": {
+  "item": "Swashing Plumage",
+  "rarity": "Uncommon",
+  "made_with": "Scarlet Feathers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Accursed Idol.md": {
+  "item": "Accursed Idol",
+  "rarity": "Uncommon",
+  "made_with": "Void Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Alchemical Lantern.md": {
+  "item": "Alchemical Lantern",
+  "rarity": "Uncommon",
+  "made_with": "Eruptive Sac (fire)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Animated Abacus.md": {
+  "item": "Animated Abacus",
+  "rarity": "Common",
+  "made_with": "Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Anuraag’s Crucible.md": {
+  "item": "Anuraag’s Crucible",
+  "rarity": "Artifact",
+  "made_with": "NOCRAFT",
+  "flag": "An artifact; can't be crafted."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Baba Yaga’s Cinderskull.md": {
+  "item": "Baba Yaga’s Cinderskull",
+  "rarity": "Rare",
+  "made_with": "Primordial Tar · Corpse Wax",
+  "flag": "The item only says a white, dry skull. In the folk tale her fence skulls are human (my reading), so I left the skull out; these give the heat and light."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Bed of Spikes.md": {
+  "item": "Bed of Spikes",
+  "rarity": "Rare",
+  "made_with": "Throwing Spine · Teratoid Bark",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Blinding Lantern.md": {
+  "item": "Blinding Lantern",
+  "rarity": "Uncommon",
+  "made_with": "Illuminating Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Blue Rose.md": {
+  "item": "Blue Rose",
+  "rarity": "Rare",
+  "made_with": "NONE",
+  "flag": "it's the blue rose itself, a flower"
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Brass Snake Ball.md": {
+  "item": "Brass Snake Ball",
+  "rarity": "Rare",
+  "made_with": "Creator’s Essence · Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Breathing Reed.md": {
+  "item": "Breathing Reed",
+  "rarity": "Common",
+  "made_with": "NONE",
+  "flag": "it's a magic river reed"
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Burglar’s Lock and Key.md": {
+  "item": "Burglar’s Lock and Key",
+  "rarity": "Uncommon",
+  "made_with": "Living Lockpick",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Chronomancer’s Pocket Clock.md": {
+  "item": "Chronomancer’s Pocket Clock",
+  "rarity": "Very Rare",
+  "made_with": "Whirling Gizmo · Chronomatic Gear · Trampling Hoof",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Clacking Teeth.md": {
+  "item": "Clacking Teeth",
+  "rarity": "Rare",
+  "made_with": "Spectral Essence · fleshspurned jaw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Clockwork Hare.md": {
+  "item": "Clockwork Hare",
+  "rarity": "Legendary",
+  "made_with": "Whirling Gizmo · Chronomatic Gear · Celestial Blood",
+  "flag": "Text says it's a god's gift. Listed what a crafter would need; you may rule it can't be made."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Clockwork Mynah Bird.md": {
+  "item": "Clockwork Mynah Bird",
+  "rarity": "Rare",
+  "made_with": "Imitative Vocal Cords · Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Dancing Caltrops.md": {
+  "item": "Dancing Caltrops",
+  "rarity": "Common",
+  "made_with": "Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Dancing Floret.md": {
+  "item": "Dancing Floret",
+  "rarity": "Rare",
+  "made_with": "Primeval Sap · Mandrake Root",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Decoy Card.md": {
+  "item": "Decoy Card",
+  "rarity": "Uncommon",
+  "made_with": "shapechanger blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Devilish Doubloon.md": {
+  "item": "Devilish Doubloon",
+  "rarity": "Very Rare",
+  "made_with": "Infernal Tears · Treasure-Sensitive Nose · Fiend Vellum",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Distracting Doubloon.md": {
+  "item": "Distracting Doubloon",
+  "rarity": "Common",
+  "made_with": "Searsprite Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Eye of the Golden God.md": {
+  "item": "Eye of the Golden God",
+  "rarity": "Legendary",
+  "made_with": "Celestial Feather · Devil’s Eyes · Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Farhealing Bandages.md": {
+  "item": "Farhealing Bandages",
+  "rarity": "Uncommon",
+  "made_with": "Celestial Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Figurine of Wondrous Power.md": {
+  "item": "Figurine of Wondrous Power",
+  "rarity": "Rarity by Figurine",
+  "made_with": "VARIES: a part of the beast the figurine becomes · Creator’s Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Frostfire Lantern.md": {
+  "item": "Frostfire Lantern",
+  "rarity": "Very Rare",
+  "made_with": "Illuminating Essence · Ice Heart · Fiendish Oil (cold)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Ghoul Light.md": {
+  "item": "Ghoul Light",
+  "rarity": "Very Rare",
+  "made_with": "Celestial Feather · ghoul claw · Bezoar",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Gloomflower Corsage.md": {
+  "item": "Gloomflower Corsage",
+  "rarity": "Very Rare",
+  "made_with": "Gloompetal · Shadowporting Blood · Celestial Feather",
+  "flag": "Text names a gloomflower. No gloomflower in your books reaches the Very Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Hammer of Decrees.md": {
+  "item": "Hammer of Decrees",
+  "rarity": "Rare",
+  "made_with": "Rending Claws · Multitool Component",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Hangman’s Noose.md": {
+  "item": "Hangman’s Noose",
+  "rarity": "Rare",
+  "made_with": "Demonic Thread · Spectral Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Lantern of Auspex.md": {
+  "item": "Lantern of Auspex",
+  "rarity": "Rare",
+  "made_with": "Illuminating Essence · Visionary Flesh",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Lantern of Judgment.md": {
+  "item": "Lantern of Judgment",
+  "rarity": "Very Rare",
+  "made_with": "Celestial Feather · Angel Ear Wax · Illuminating Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Lantern of Selective Illumination.md": {
+  "item": "Lantern of Selective Illumination",
+  "rarity": "Common",
+  "made_with": "Illuminating Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Lifeblood Gear.md": {
+  "item": "Lifeblood Gear",
+  "rarity": "Common",
+  "made_with": "Creator’s Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Loom of Fate.md": {
+  "item": "Loom of Fate",
+  "rarity": "Rare",
+  "made_with": "eye of a creature that sees fate · Barbel of Misfortune",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Marvelous Clockwork Mallard.md": {
+  "item": "Marvelous Clockwork Mallard",
+  "rarity": "Rare",
+  "made_with": "Whirling Gizmo · Creator’s Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Master Angler’s Tackle.md": {
+  "item": "Master Angler’s Tackle",
+  "rarity": "Common",
+  "made_with": "Sensitive Whisker",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Mirror of Eavesdropping.md": {
+  "item": "Mirror of Eavesdropping",
+  "rarity": "Rare",
+  "made_with": "Imitative Vocal Cords · Everwatchful Eyes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Mnemonic Fob.md": {
+  "item": "Mnemonic Fob",
+  "rarity": "Uncommon",
+  "made_with": "Elemental Gemstone (fire)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Monkey’s Paw of Fortune.md": {
+  "item": "Monkey’s Paw of Fortune",
+  "rarity": "Very Rare",
+  "made_with": "paw of a trickster creature · monkey's paw · Barbel of Misfortune",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Nithing Pole.md": {
+  "item": "Nithing Pole",
+  "rarity": "Rare",
+  "made_with": "Lock of Hag · horse skull and hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Phase Mirror.md": {
+  "item": "Phase Mirror",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Teleport Tracer · Photoadaptive Hide · Spectral Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Plumb of the Elements.md": {
+  "item": "Plumb of the Elements",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone · Elemental Gemstone (a second element)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Pocket Spark.md": {
+  "item": "Pocket Spark",
+  "rarity": "Common",
+  "made_with": "fire beetle gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Primal Doom.md": {
+  "item": "Primal Doom",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Infernal Tears · Frenzying Oil · Fearful Eyedrops",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Quick-Change Mirror.md": {
+  "item": "Quick-Change Mirror",
+  "rarity": "Uncommon",
+  "made_with": "shapechanger blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Rogue’s Aces.md": {
+  "item": "Rogue’s Aces",
+  "rarity": "Rare",
+  "made_with": "heart of a lucky creature · Gluckshund Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Sanctuary Shell.md": {
+  "item": "Sanctuary Shell",
+  "rarity": "Uncommon",
+  "made_with": "Regenerative Coral",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Scent Sponge.md": {
+  "item": "Scent Sponge",
+  "rarity": "Uncommon",
+  "made_with": "Fragrance Gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Scorpion Feet.md": {
+  "item": "Scorpion Feet",
+  "rarity": "Legendary",
+  "made_with": "Camouflaged Hide (desert) · giant scorpion stinger · Anchoring Root",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Scoundrel’s Gambit.md": {
+  "item": "Scoundrel’s Gambit",
+  "rarity": "Uncommon",
+  "made_with": "Angelic Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Screaming Skull.md": {
+  "item": "Screaming Skull",
+  "rarity": "Common",
+  "made_with": "animal skull",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Scrimshaw Parrot.md": {
+  "item": "Scrimshaw Parrot",
+  "rarity": "Rare",
+  "made_with": "Everwatchful Eyes · whalebone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Sentinel Portrait.md": {
+  "item": "Sentinel Portrait",
+  "rarity": "Uncommon",
+  "made_with": "ink from an extraplanar creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Servile Shabti.md": {
+  "item": "Servile Shabti",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Creator’s Essence · Eternal’s Humor (mummy)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Shadowhound’s Muzzle.md": {
+  "item": "Shadowhound’s Muzzle",
+  "rarity": "Uncommon",
+  "made_with": "Shadowporting Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Sheeshah of Revelations.md": {
+  "item": "Sheeshah of Revelations",
+  "rarity": "Rare",
+  "made_with": "eye of a creature that sees fate · Visionary Flesh",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Skeleton Key.md": {
+  "item": "Skeleton Key",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Living Lockpick · Unliving Claw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Spyglass of Summoning.md": {
+  "item": "Spyglass of Summoning",
+  "rarity": "Rare",
+  "made_with": "Telescopic Eyes · Creator’s Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Storyteller’s Pipe.md": {
+  "item": "Storyteller’s Pipe",
+  "rarity": "Rare",
+  "made_with": "Shrouding Hide · Imitative Vocal Cords",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Tick Stop Watch.md": {
+  "item": "Tick Stop Watch",
+  "rarity": "Rare",
+  "made_with": "Chronomatic Gear · Magnetizing Agent",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Trick Shot Mirror.md": {
+  "item": "Trick Shot Mirror",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Energy-Converting Module · Elemental Gemstone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Umbral Lantern.md": {
+  "item": "Umbral Lantern",
+  "rarity": "Rare",
+  "made_with": "Shadowporting Blood · Cephalopod Ink",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Venomous Fangs.md": {
+  "item": "Venomous Fangs",
+  "rarity": "Uncommon",
+  "made_with": "Aching Venom",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Tools, Keys & Curiosities/Verminous Snipsnaps.md": {
+  "item": "Verminous Snipsnaps",
+  "rarity": "Uncommon",
+  "made_with": "Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Aurochs Bracers.md": {
+  "item": "Aurochs Bracers",
+  "rarity": "Uncommon",
+  "made_with": "Colossal Tendon",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Band of Iron Thorns.md": {
+  "item": "Band of Iron Thorns",
+  "rarity": "Rare",
+  "made_with": "Hardened Blood · Throwing Spine",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Bands of Restraint.md": {
+  "item": "Bands of Restraint",
+  "rarity": "Uncommon",
+  "made_with": "Demonic Thread",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Bear Paws.md": {
+  "item": "Bear Paws",
+  "rarity": "Uncommon",
+  "made_with": "Adhesive Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Belt of the Wilds.md": {
+  "item": "Belt of the Wilds",
+  "rarity": "Uncommon",
+  "made_with": "Animal Lord Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Bloodpearl Bracelet.md": {
+  "item": "Bloodpearl Bracelet",
+  "rarity": "Uncommon",
+  "made_with": "VARIES: Scavenger Jelly · Acrid Slag · Slippery Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Brawler’s Leather.md": {
+  "item": "Brawler’s Leather",
+  "rarity": "Common",
+  "made_with": "hide from a beast that mauls",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Buckle of Blasting.md": {
+  "item": "Buckle of Blasting",
+  "rarity": "Legendary",
+  "made_with": "Angelic Oil · Eruptive Sac · Stone-Eating Acid",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Centaur Wrist-Wraps.md": {
+  "item": "Centaur Wrist-Wraps",
+  "rarity": "Uncommon",
+  "made_with": "Everwatchful Eyes",
+  "flag": "Text credits centaur shamans. If your table counts centaurs as Humanoids for harvesting, keep centaur parts out of it."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Cinch of the Wolfmother.md": {
+  "item": "Cinch of the Wolfmother",
+  "rarity": "Uncommon",
+  "made_with": "dire wolf intestines",
+  "flag": "Text says dire wolf intestines. A dire wolf is far under the Uncommon floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Clockwork Gauntlet.md": {
+  "item": "Clockwork Gauntlet",
+  "rarity": "Uncommon",
+  "made_with": "Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Clockwork Hand.md": {
+  "item": "Clockwork Hand",
+  "rarity": "Uncommon",
+  "made_with": "Creator’s Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Crab Gloves.md": {
+  "item": "Crab Gloves",
+  "rarity": "Uncommon",
+  "made_with": "Insectoid Carapace",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Elemental Wraps.md": {
+  "item": "Elemental Wraps",
+  "rarity": "Very Rare",
+  "made_with": "Elemental Gemstone · Throat Scales · Primordial Tar",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Fulminar Bracers.md": {
+  "item": "Fulminar Bracers",
+  "rarity": "Very Rare",
+  "made_with": "Voltaic Organ · Elemental Gemstone (fulminar) · Conductive Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Girdle of Traveling Alchemy.md": {
+  "item": "Girdle of Traveling Alchemy",
+  "rarity": "Very Rare",
+  "made_with": "Eruptive Sac · Acrid Slag · Astralsupial Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Gloves of the Magister.md": {
+  "item": "Gloves of the Magister",
+  "rarity": "Rare",
+  "made_with": "Magic-Absorbing Organ · Aberrant Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Gloves of the Walking Shade.md": {
+  "item": "Gloves of the Walking Shade",
+  "rarity": "Very Rare",
+  "made_with": "Shadowporting Blood · Gloompetal · Spectral Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Honey Buckle.md": {
+  "item": "Honey Buckle",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Animal Lord Essence (bear) · Thick Hide · bear claws",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Last Chance Quiver.md": {
+  "item": "Last Chance Quiver",
+  "rarity": "Common",
+  "made_with": "Astralsupial Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Octopus Bracers.md": {
+  "item": "Octopus Bracers",
+  "rarity": "Uncommon",
+  "made_with": "Extraordinary Limb",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Radiant Bracers.md": {
+  "item": "Radiant Bracers",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · Eternal’s Humor",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Resolute Bracer.md": {
+  "item": "Resolute Bracer",
+  "rarity": "Uncommon",
+  "made_with": "Breath Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Selket’s Bracer.md": {
+  "item": "Selket’s Bracer",
+  "rarity": "Very Rare",
+  "made_with": "stinger of a scorpion-kind creature · Bezoar · Scorpion’s Elixirs",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Seneschal’s Gloves.md": {
+  "item": "Seneschal’s Gloves",
+  "rarity": "Rare",
+  "made_with": "Creator’s Essence · Multitool Component",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Serpentine Bracers.md": {
+  "item": "Serpentine Bracers",
+  "rarity": "Uncommon",
+  "made_with": "serpent skin",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Stonechewer Gauntlets.md": {
+  "item": "Stonechewer Gauntlets",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone (earth) · Rending Claws",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Swolbold Wraps.md": {
+  "item": "Swolbold Wraps",
+  "rarity": "Rare",
+  "made_with": "Colossal Tendon · Primordial Humor",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Belts, Gloves & Bracers/Throttler’s Gauntlets.md": {
+  "item": "Throttler’s Gauntlets",
+  "rarity": "Uncommon",
+  "made_with": "Aphasic Plasm",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Broom of Sweeping.md": {
+  "item": "Broom of Sweeping",
+  "rarity": "Common",
+  "made_with": "Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Celestial Sextant.md": {
+  "item": "Celestial Sextant",
+  "rarity": "Uncommon",
+  "made_with": "Celestial Feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Collar of Beast Armor.md": {
+  "item": "Collar of Beast Armor",
+  "rarity": "Uncommon",
+  "made_with": "Thick Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Crimson Carpet.md": {
+  "item": "Crimson Carpet",
+  "rarity": "Uncommon",
+  "made_with": "Colossal Tendon",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Figurehead of Prowess.md": {
+  "item": "Figurehead of Prowess",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: parts of the creature the figurehead depicts · Besieging Plating · Flippers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Gazebo of Shade and Shelter.md": {
+  "item": "Gazebo of Shade and Shelter",
+  "rarity": "Rare",
+  "made_with": "Creator’s Essence · Shrouding Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Parasol of Temperate Weather.md": {
+  "item": "Parasol of Temperate Weather",
+  "rarity": "Uncommon",
+  "made_with": "Primordial Tar",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Pavilion of Dreams.md": {
+  "item": "Pavilion of Dreams",
+  "rarity": "Very Rare",
+  "made_with": "silk from a Fey · Fey hair · Astralsupial Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Pocket Oasis.md": {
+  "item": "Pocket Oasis",
+  "rarity": "Very Rare",
+  "made_with": "Elemental Gemstone (water) · Astralsupial Pouch · Primeval Sap",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Prospecting Compass.md": {
+  "item": "Prospecting Compass",
+  "rarity": "Common",
+  "made_with": "Treasure-Sensitive Nose",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Relocation Cable.md": {
+  "item": "Relocation Cable",
+  "rarity": "Uncommon",
+  "made_with": "Stone-Eating Acid",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Saddle of the Cavalry Casters.md": {
+  "item": "Saddle of the Cavalry Casters",
+  "rarity": "Uncommon",
+  "made_with": "Trampling Hoof",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Signaling Compass.md": {
+  "item": "Signaling Compass",
+  "rarity": "Uncommon",
+  "made_with": "Magnetizing Agent",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Silvered Oar.md": {
+  "item": "Silvered Oar",
+  "rarity": "Rare",
+  "made_with": "Flippers · Fey hair",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Mounts, Vehicles & Travel/Song-Saddle of the Khan.md": {
+  "item": "Song-Saddle of the Khan",
+  "rarity": "Rare",
+  "made_with": "Trampling Hoof · Imitative Vocal Cords",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Apron of the Eager Artisan.md": {
+  "item": "Apron of the Eager Artisan",
+  "rarity": "Common",
+  "made_with": "Multitool Component",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Berserker’s Kilt.md": {
+  "item": "Berserker’s Kilt",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: fur of the kilt's animal (wolf, elk or bear) · Frenzying Oil · Thick Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Cape of Targeting.md": {
+  "item": "Cape of Targeting",
+  "rarity": "Rare",
+  "made_with": "Scintillating Hide · Abnormal Leather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Cloak of Coagulation.md": {
+  "item": "Cloak of Coagulation",
+  "rarity": "Uncommon",
+  "made_with": "Hardened Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Cloak of Petals.md": {
+  "item": "Cloak of Petals",
+  "rarity": "Uncommon",
+  "made_with": "Camouflaged Hide (flowering meadow)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Cloak of Sails.md": {
+  "item": "Cloak of Sails",
+  "rarity": "Uncommon",
+  "made_with": "roc feathers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Cloak of Squirrels.md": {
+  "item": "Cloak of Squirrels",
+  "rarity": "Rare",
+  "made_with": "Animal Lord Essence (squirrel) · squirrel fur",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Cloak of Wicked Wings.md": {
+  "item": "Cloak of Wicked Wings",
+  "rarity": "Uncommon",
+  "made_with": "bat wings from a bat-like Monstrosity",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Cloak of the Bearfolk.md": {
+  "item": "Cloak of the Bearfolk",
+  "rarity": "Uncommon",
+  "made_with": "Thick Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Cloak of the Eel.md": {
+  "item": "Cloak of the Eel",
+  "rarity": "Uncommon",
+  "made_with": "Voltaic Organ",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Cloak of the Empire.md": {
+  "item": "Cloak of the Empire",
+  "rarity": "Uncommon",
+  "made_with": "Abnormal Leather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Cloak of the Inconspicuous Rake.md": {
+  "item": "Cloak of the Inconspicuous Rake",
+  "rarity": "Uncommon",
+  "made_with": "Forgetful Horn",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Cloak of the Ram.md": {
+  "item": "Cloak of the Ram",
+  "rarity": "Uncommon",
+  "made_with": "Trampling Hoof",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Cloak of the Rat.md": {
+  "item": "Cloak of the Rat",
+  "rarity": "Rare",
+  "made_with": "Animal Lord Essence (rat) · rat whiskers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Clockwork Spider Cloak.md": {
+  "item": "Clockwork Spider Cloak",
+  "rarity": "Rare",
+  "made_with": "Gripping Spikes · Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Crawling Cloak.md": {
+  "item": "Crawling Cloak",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Extraordinary Limb · Living Tendril",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Eagle Cape.md": {
+  "item": "Eagle Cape",
+  "rarity": "Very Rare",
+  "made_with": "Celestial Feather · giant eagle feathers · roc feathers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Garments of Winter’s Knight.md": {
+  "item": "Garments of Winter’s Knight",
+  "rarity": "Legendary",
+  "made_with": "Fey Tongue · Thick Hide · Ice Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Gliding Cloak.md": {
+  "item": "Gliding Cloak",
+  "rarity": "Uncommon",
+  "made_with": "wing membrane of a gliding creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Grasping Cloak.md": {
+  "item": "Grasping Cloak",
+  "rarity": "Very Rare",
+  "made_with": "Extraordinary Limb · Living Tendril · Adhesive Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Green Mantle.md": {
+  "item": "Green Mantle",
+  "rarity": "Very Rare",
+  "made_with": "Primeval Sap · Anchoring Root · Teratoid Bark",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Headdress of Majesty.md": {
+  "item": "Headdress of Majesty",
+  "rarity": "Rare",
+  "made_with": "Aberrant Brain · Celestial Feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Headscarf of the Oasis.md": {
+  "item": "Headscarf of the Oasis",
+  "rarity": "Uncommon",
+  "made_with": "Shrouding Hide (desert)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Leonino Wings.md": {
+  "item": "Leonino Wings",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · owl feathers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Magma Mantle.md": {
+  "item": "Magma Mantle",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone (fire) · Primordial Tar",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Mantle of Blood Vengeance.md": {
+  "item": "Mantle of Blood Vengeance",
+  "rarity": "Uncommon",
+  "made_with": "Hardened Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Mantle of the Forest Lord.md": {
+  "item": "Mantle of the Forest Lord",
+  "rarity": "Rare",
+  "made_with": "Teratoid Bark · Primeval Sap",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Mantle of the Lion.md": {
+  "item": "Mantle of the Lion",
+  "rarity": "Rare",
+  "made_with": "Animal Lord Essence (lion) · lion pelt",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Mantle of the Void.md": {
+  "item": "Mantle of the Void",
+  "rarity": "Rare",
+  "made_with": "Void Essence · Magic-Absorbing Organ",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Prayer Mat.md": {
+  "item": "Prayer Mat",
+  "rarity": "Uncommon",
+  "made_with": "Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Revenant’s Shawl.md": {
+  "item": "Revenant’s Shawl",
+  "rarity": "Uncommon",
+  "made_with": "Eternal’s Humor",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Scarf of Deception.md": {
+  "item": "Scarf of Deception",
+  "rarity": "Rare",
+  "made_with": "Photoadaptive Hide · shapechanger blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Scout’s Coat.md": {
+  "item": "Scout’s Coat",
+  "rarity": "Common",
+  "made_with": "Thick Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Shifting Shirt.md": {
+  "item": "Shifting Shirt",
+  "rarity": "Uncommon",
+  "made_with": "Scintillating Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Smuggler’s Coat.md": {
+  "item": "Smuggler’s Coat",
+  "rarity": "Very Rare",
+  "made_with": "Breath Pouch · Astralsupial Pouch · Photoadaptive Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Tailor’s Clasp.md": {
+  "item": "Tailor’s Clasp",
+  "rarity": "Common",
+  "made_with": "giant spider silk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Tenebrous Mantle.md": {
+  "item": "Tenebrous Mantle",
+  "rarity": "Legendary",
+  "made_with": "Devil’s Eyes · Shadowporting Blood · Eternal’s Humor",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Vengeful Coat.md": {
+  "item": "Vengeful Coat",
+  "rarity": "Rare",
+  "made_with": "Insectoid Carapace · Primeval Sap",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Cloaks, Robes & Clothing/Whispering Cloak.md": {
+  "item": "Whispering Cloak",
+  "rarity": "Rare",
+  "made_with": "Shadowporting Blood · giant bat pelts",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Amulet of Memory.md": {
+  "item": "Amulet of Memory",
+  "rarity": "Rare",
+  "made_with": "Aberrant Brain · Minotaur Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Amulet of Sustaining Health.md": {
+  "item": "Amulet of Sustaining Health",
+  "rarity": "Uncommon",
+  "made_with": "Troll Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Amulet of Whirlwinds.md": {
+  "item": "Amulet of Whirlwinds",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone (air) · roc feathers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Amulet of the Oracle.md": {
+  "item": "Amulet of the Oracle",
+  "rarity": "Rare",
+  "made_with": "eye of a creature that sees fate · Celestial Feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Ankh of Aten.md": {
+  "item": "Ankh of Aten",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · Searsprite Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Bead of Exsanguination.md": {
+  "item": "Bead of Exsanguination",
+  "rarity": "Rare",
+  "made_with": "heart of a blood-drinking creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Blood Mark.md": {
+  "item": "Blood Mark",
+  "rarity": "Uncommon",
+  "made_with": "vampire blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Braid Whip Clasp.md": {
+  "item": "Braid Whip Clasp",
+  "rarity": "Uncommon",
+  "made_with": "Living Tendril",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Broken Fang Talisman.md": {
+  "item": "Broken Fang Talisman",
+  "rarity": "Common",
+  "made_with": "Spell-Empowered Ink",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Clockwork Pendant.md": {
+  "item": "Clockwork Pendant",
+  "rarity": "Rare",
+  "made_with": "Chronomatic Gear · Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Corpsehunter’s Medallion.md": {
+  "item": "Corpsehunter’s Medallion",
+  "rarity": "Rare",
+  "made_with": "Eternal’s Humor · grave rat skulls",
+  "flag": "Text offers grave rat skulls or the bones of the ignoble dead. The second is humanoid bone, which the harvesting rules rule out, so only the rats are listed."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Dread Scarab.md": {
+  "item": "Dread Scarab",
+  "rarity": "Very Rare",
+  "made_with": "Demonic Thread · Insectoid Carapace · Unliving Claw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Eye of Horus.md": {
+  "item": "Eye of Horus",
+  "rarity": "Uncommon",
+  "made_with": "Apkallu Lenses",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Ferryman’s Coins.md": {
+  "item": "Ferryman’s Coins",
+  "rarity": "Common",
+  "made_with": "Spirit Acid",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Flood Charm.md": {
+  "item": "Flood Charm",
+  "rarity": "Common",
+  "made_with": "fish swim bladder",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Fly Whisk of Authority.md": {
+  "item": "Fly Whisk of Authority",
+  "rarity": "Uncommon",
+  "made_with": "lion or griffon tail hair",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Hallowed Effigy.md": {
+  "item": "Hallowed Effigy",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · woodland beast bones",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Hunter’s Charm.md": {
+  "item": "Hunter’s Charm",
+  "rarity": "Common",
+  "made_with": "VARIES: Animal Lord Essence · bone from the favored enemy · Everwatchful Eyes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Locket of Dragon Vitality.md": {
+  "item": "Locket of Dragon Vitality",
+  "rarity": "Very Rare",
+  "made_with": "heart of an ancient dragon · Throat Scales · Colossal Tendon",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Locket of Remembrance.md": {
+  "item": "Locket of Remembrance",
+  "rarity": "Uncommon",
+  "made_with": "Imitative Vocal Cords",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Lucky Charm of the Monkey King.md": {
+  "item": "Lucky Charm of the Monkey King",
+  "rarity": "Common",
+  "made_with": "Gluckshund Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Lucky Coin.md": {
+  "item": "Lucky Coin",
+  "rarity": "Common",
+  "made_with": "Gluckshund Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Medal of Valor.md": {
+  "item": "Medal of Valor",
+  "rarity": "Uncommon",
+  "made_with": "Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Mender’s Mark.md": {
+  "item": "Mender’s Mark",
+  "rarity": "Uncommon",
+  "made_with": "Celestial Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Neutralizing Bead.md": {
+  "item": "Neutralizing Bead",
+  "rarity": "Uncommon",
+  "made_with": "Bezoar",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Oracle Charm.md": {
+  "item": "Oracle Charm",
+  "rarity": "Common",
+  "made_with": "Visionary Flesh",
+  "flag": "Text says it's a human finger bone, which the harvesting rules rule out. Listed a monster part instead."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Ouroboros Amulet.md": {
+  "item": "Ouroboros Amulet",
+  "rarity": "Uncommon",
+  "made_with": "Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Periapt of Eldritch Knowledge.md": {
+  "item": "Periapt of Eldritch Knowledge",
+  "rarity": "Uncommon",
+  "made_with": "Scroll Parchment",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Periapt of Proof Against Lies.md": {
+  "item": "Periapt of Proof Against Lies",
+  "rarity": "Rare",
+  "made_with": "Angel Ear Wax · pact drake horn",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Scarab of Rebirth.md": {
+  "item": "Scarab of Rebirth",
+  "rarity": "Rare",
+  "made_with": "Whirling Gizmo · Phoenix Feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Silver Strings.md": {
+  "item": "Silver Strings",
+  "rarity": "Uncommon",
+  "made_with": "Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Talisman of the Snow Queen.md": {
+  "item": "Talisman of the Snow Queen",
+  "rarity": "Very Rare",
+  "made_with": "Fey Tongue · Ice Heart · Thick Hide",
+  "flag": "Text says the Snow Queen grants these. Listed what a crafter would need; you may rule only she can make them."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Talking Torches.md": {
+  "item": "Talking Torches",
+  "rarity": "Rare",
+  "made_with": "Imitative Vocal Cords · Illuminating Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Torc of the Comet.md": {
+  "item": "Torc of the Comet",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · Thick Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Unerring Dowsing Rod.md": {
+  "item": "Unerring Dowsing Rod",
+  "rarity": "Rare",
+  "made_with": "Anchoring Root · Water-Absorbing Organ",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Warding Icon.md": {
+  "item": "Warding Icon",
+  "rarity": "Common",
+  "made_with": "Angel Ear Wax",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Whispering Powder.md": {
+  "item": "Whispering Powder",
+  "rarity": "Common",
+  "made_with": "Clacking Mandibles",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Amulets, Charms & Jewelry/Ziphian Eye Amulet.md": {
+  "item": "Ziphian Eye Amulet",
+  "rarity": "Rare",
+  "made_with": "Everwatchful Eyes · ziphius eye",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Almanac of Common Wisdom.md": {
+  "item": "Almanac of Common Wisdom",
+  "rarity": "Common",
+  "made_with": "Excavator Eye",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Book Shroud.md": {
+  "item": "Book Shroud",
+  "rarity": "Uncommon",
+  "made_with": "Photoadaptive Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Book of Ebon Tides.md": {
+  "item": "Book of Ebon Tides",
+  "rarity": "Very Rare",
+  "made_with": "Shadowporting Blood · Gloompetal · Scroll Parchment",
+  "flag": "Text says it's bound in shadow goblin hide. If your table counts shadow goblins as Humanoids, leave that out; these cover the magic."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Book of Eibon.md": {
+  "item": "Book of Eibon",
+  "rarity": "Legendary",
+  "made_with": "Void Essence · Eternal’s Humor · Scroll Parchment",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Bookkeeper Inkpot.md": {
+  "item": "Bookkeeper Inkpot",
+  "rarity": "Uncommon",
+  "made_with": "Creator’s Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Bookmark of Eldritch Insight.md": {
+  "item": "Bookmark of Eldritch Insight",
+  "rarity": "Common",
+  "made_with": "Void Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Cataloguing Book.md": {
+  "item": "Cataloguing Book",
+  "rarity": "Rare",
+  "made_with": "Aberrant Brain · Excavator Eye",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Dancing Ink.md": {
+  "item": "Dancing Ink",
+  "rarity": "Common",
+  "made_with": "Spell-Empowered Ink",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Dastardly Quill and Parchment.md": {
+  "item": "Dastardly Quill and Parchment",
+  "rarity": "Rare",
+  "made_with": "Teleport Tracer · Ward’s Quills",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Grifter’s Deck.md": {
+  "item": "Grifter’s Deck",
+  "rarity": "Common",
+  "made_with": "Gluckshund Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Handy Scroll Quiver.md": {
+  "item": "Handy Scroll Quiver",
+  "rarity": "Common",
+  "made_with": "Astralsupial Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Language Pyramid.md": {
+  "item": "Language Pyramid",
+  "rarity": "Rare",
+  "made_with": "Fey Tongue · Imitative Vocal Cords",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Manual of Exercise.md": {
+  "item": "Manual of Exercise",
+  "rarity": "Rare",
+  "made_with": "Colossal Tendon · Scroll Parchment",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Manual of Vine Golems.md": {
+  "item": "Manual of Vine Golems",
+  "rarity": "Very Rare",
+  "made_with": "Creator’s Essence · Primeval Sap · Scroll Parchment",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Manual of the Lesser Golem.md": {
+  "item": "Manual of the Lesser Golem",
+  "rarity": "Rare",
+  "made_with": "Creator’s Essence · Scroll Parchment",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Mapping Ink.md": {
+  "item": "Mapping Ink",
+  "rarity": "Uncommon",
+  "made_with": "Minotaur Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Mongrelmaker’s Handbook.md": {
+  "item": "Mongrelmaker’s Handbook",
+  "rarity": "Very Rare",
+  "made_with": "Animal Lord Essence · Bizarre Cartilage · Scroll Parchment",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Mug of Merry Drinking.md": {
+  "item": "Mug of Merry Drinking",
+  "rarity": "Common",
+  "made_with": "Warming Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Nameless Cults.md": {
+  "item": "Nameless Cults",
+  "rarity": "Legendary",
+  "made_with": "Void Essence · Aberrant Brain · Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Necromantic Ink.md": {
+  "item": "Necromantic Ink",
+  "rarity": "Rare",
+  "made_with": "Drudge Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Nullifier’s Lexicon.md": {
+  "item": "Nullifier’s Lexicon",
+  "rarity": "Very Rare",
+  "made_with": "Void Essence · Aberrant Brain · Magic-Absorbing Organ",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Quill of Scribing.md": {
+  "item": "Quill of Scribing",
+  "rarity": "Common",
+  "made_with": "griffon or hippogriff feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Radiant Libram.md": {
+  "item": "Radiant Libram",
+  "rarity": "Legendary",
+  "made_with": "Celestial Feather · Illuminating Essence · Celestial Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Recording Book.md": {
+  "item": "Recording Book",
+  "rarity": "Uncommon",
+  "made_with": "Imitative Vocal Cords",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Shadow Tome.md": {
+  "item": "Shadow Tome",
+  "rarity": "Rare",
+  "made_with": "Shadowporting Blood · Gloompetal",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Sturdy Scroll Tube.md": {
+  "item": "Sturdy Scroll Tube",
+  "rarity": "Common",
+  "made_with": "Abnormal Leather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Talking Tablets.md": {
+  "item": "Talking Tablets",
+  "rarity": "Uncommon",
+  "made_with": "Teleport Tracer",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Books & Writing/Tome of Knowledge.md": {
+  "item": "Tome of Knowledge",
+  "rarity": "Rare",
+  "made_with": "Aberrant Brain · Scroll Parchment",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Scrolls/Aberrant Agreement.md": {
+  "item": "Aberrant Agreement",
+  "rarity": "Rare",
+  "made_with": "Aberrant Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Scrolls/Binding Oath.md": {
+  "item": "Binding Oath",
+  "rarity": "Very Rare",
+  "made_with": "Celestial Feather · Scroll Parchment",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Scrolls/Blasphemous Writ.md": {
+  "item": "Blasphemous Writ",
+  "rarity": "Uncommon",
+  "made_with": "Fiend Vellum",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Scrolls/Celestial Charter.md": {
+  "item": "Celestial Charter",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Scrolls/Feysworn Contract.md": {
+  "item": "Feysworn Contract",
+  "rarity": "Rare",
+  "made_with": "Fey Tongue",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Scrolls/Fiendish Charter.md": {
+  "item": "Fiendish Charter",
+  "rarity": "Rare",
+  "made_with": "Fiend Vellum",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Scrolls/Pact Paper.md": {
+  "item": "Pact Paper",
+  "rarity": "Rare",
+  "made_with": "pact drake scales",
+  "flag": "Text says it's made from a pact drake's cast-off scales. Check the pact drake's CR against the Rare floor; kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Scrolls/Scroll of Conjuring.md": {
+  "item": "Scroll of Conjuring",
+  "rarity": "Uncommon",
+  "made_with": "VARIES: Creator’s Essence · Scroll Parchment",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Scrolls/Scroll of Fabrication.md": {
+  "item": "Scroll of Fabrication",
+  "rarity": "Uncommon",
+  "made_with": "Creator’s Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Scrolls/Scroll of Treasure Finding.md": {
+  "item": "Scroll of Treasure Finding",
+  "rarity": "Uncommon",
+  "made_with": "Treasure-Sensitive Nose",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Scrolls/Scrolls of Correspondence.md": {
+  "item": "Scrolls of Correspondence",
+  "rarity": "Common",
+  "made_with": "Ward’s Quills",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Baleful Wardrums.md": {
+  "item": "Baleful Wardrums",
+  "rarity": "Uncommon",
+  "made_with": "Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Briarthorn Bracers.md": {
+  "item": "Briarthorn Bracers",
+  "rarity": "Uncommon",
+  "made_with": "Teratoid Bark",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Clamor Bell.md": {
+  "item": "Clamor Bell",
+  "rarity": "Common",
+  "made_with": "Clacking Mandibles",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Communal Flute.md": {
+  "item": "Communal Flute",
+  "rarity": "Rare",
+  "made_with": "Eternal’s Humor · Imitative Vocal Cords",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Ghost Dragon Horn.md": {
+  "item": "Ghost Dragon Horn",
+  "rarity": "Very Rare",
+  "made_with": "Spectral Essence · dragon scales · Breath Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Harmonizing Instrument.md": {
+  "item": "Harmonizing Instrument",
+  "rarity": "Rare",
+  "made_with": "Resonant Trunk · Imitative Vocal Cords",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Minor Minstrel.md": {
+  "item": "Minor Minstrel",
+  "rarity": "Common",
+  "made_with": "Imitative Vocal Cords",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Pipes of Madness.md": {
+  "item": "Pipes of Madness",
+  "rarity": "Rare",
+  "made_with": "Aberrant Brain · Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Shrutinandan Sitar.md": {
+  "item": "Shrutinandan Sitar",
+  "rarity": "Very Rare",
+  "made_with": "Aberrant Brain · Resonant Trunk · Imitative Vocal Cords",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Skald’s Harp.md": {
+  "item": "Skald’s Harp",
+  "rarity": "Rare",
+  "made_with": "Resonant Trunk · troll or dragon bone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Spell Disruptor Horn.md": {
+  "item": "Spell Disruptor Horn",
+  "rarity": "Rare",
+  "made_with": "Magic-Absorbing Organ · spellhound throat",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Stolen Thunder.md": {
+  "item": "Stolen Thunder",
+  "rarity": "Legendary",
+  "made_with": "Voltaic Organ · Resonant Trunk · mammoth skin",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Thunderous Kazoo.md": {
+  "item": "Thunderous Kazoo",
+  "rarity": "Uncommon",
+  "made_with": "Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Instruments/Vielle of Weirding and Warding.md": {
+  "item": "Vielle of Weirding and Warding",
+  "rarity": "Rare",
+  "made_with": "Aberrant Brain · Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Alembic of Unmaking.md": {
+  "item": "Alembic of Unmaking",
+  "rarity": "Very Rare",
+  "made_with": "Magic-Absorbing Organ · Acrid Slag · Stone-Eating Acid",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Bag of Traps.md": {
+  "item": "Bag of Traps",
+  "rarity": "Rare",
+  "made_with": "Whirling Gizmo · Astralsupial Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Black Phial.md": {
+  "item": "Black Phial",
+  "rarity": "Uncommon",
+  "made_with": "vampire blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Blessed Pauper’s Purse.md": {
+  "item": "Blessed Pauper’s Purse",
+  "rarity": "Common",
+  "made_with": "Astralsupial Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Bloodwhisper Cauldron.md": {
+  "item": "Bloodwhisper Cauldron",
+  "rarity": "Very Rare",
+  "made_with": "heart of a blood-drinking creature · Hag’s Blood · Hardened Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Bottled Boat.md": {
+  "item": "Bottled Boat",
+  "rarity": "Uncommon",
+  "made_with": "Breath Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Bountiful Cauldron.md": {
+  "item": "Bountiful Cauldron",
+  "rarity": "Common",
+  "made_with": "giant's stomach lining",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Box of Secrets.md": {
+  "item": "Box of Secrets",
+  "rarity": "Rare",
+  "made_with": "Photoadaptive Hide · Astralsupial Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Bubbling Retort.md": {
+  "item": "Bubbling Retort",
+  "rarity": "Uncommon",
+  "made_with": "gas bladder from an aquatic Monstrosity",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Burning Skull.md": {
+  "item": "Burning Skull",
+  "rarity": "Very Rare",
+  "made_with": "Unliving Claw · Fiendish Oil · Spectral Essence",
+  "flag": "Text says the skull is human, which the harvesting rules rule out. Listed monster parts instead."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Case of Preservation.md": {
+  "item": "Case of Preservation",
+  "rarity": "Common",
+  "made_with": "Breath Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Censer of Dark Shadows.md": {
+  "item": "Censer of Dark Shadows",
+  "rarity": "Uncommon",
+  "made_with": "Shadowporting Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Chalice of Forbidden Ecstasies.md": {
+  "item": "Chalice of Forbidden Ecstasies",
+  "rarity": "Uncommon",
+  "made_with": "vampire blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Coffer of Memory.md": {
+  "item": "Coffer of Memory",
+  "rarity": "Rare",
+  "made_with": "Aberrant Brain · Minotaur Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Djinn Vessel.md": {
+  "item": "Djinn Vessel",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone (air) · Demonic Thread",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Everflowing Bowl.md": {
+  "item": "Everflowing Bowl",
+  "rarity": "Uncommon",
+  "made_with": "Water-Absorbing Organ",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Flask of Epiphanies.md": {
+  "item": "Flask of Epiphanies",
+  "rarity": "Legendary",
+  "made_with": "Aberrant Brain · Visionary Flesh · Drouk’s Draught",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Healthful Honeypot.md": {
+  "item": "Healthful Honeypot",
+  "rarity": "Very Rare",
+  "made_with": "Celestial Blood · Troll Heart · royal jelly from a giant hive queen",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Honeypot of Awakening.md": {
+  "item": "Honeypot of Awakening",
+  "rarity": "Uncommon",
+  "made_with": "Acrid Slag",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Jungle Mess Kit.md": {
+  "item": "Jungle Mess Kit",
+  "rarity": "Uncommon",
+  "made_with": "Bezoar",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Matryoshka Dolls.md": {
+  "item": "Matryoshka Dolls",
+  "rarity": "Rare",
+  "made_with": "Creator’s Essence · Astralsupial Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Mock Box.md": {
+  "item": "Mock Box",
+  "rarity": "Uncommon",
+  "made_with": "Laughing Fruit",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Ogre’s Pot.md": {
+  "item": "Ogre’s Pot",
+  "rarity": "Rare",
+  "made_with": "Acrid Slag · ogre's stomach",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Plunderer’s Sea Chest.md": {
+  "item": "Plunderer’s Sea Chest",
+  "rarity": "Rare",
+  "made_with": "Breath Pouch · Astralsupial Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Rug of Safe Haven.md": {
+  "item": "Rug of Safe Haven",
+  "rarity": "Uncommon",
+  "made_with": "Breath Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Satchel of Seawalking.md": {
+  "item": "Satchel of Seawalking",
+  "rarity": "Uncommon",
+  "made_with": "Particulate Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Smuggler’s Bag.md": {
+  "item": "Smuggler’s Bag",
+  "rarity": "Common",
+  "made_with": "Astralsupial Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Snake Basket.md": {
+  "item": "Snake Basket",
+  "rarity": "Rare",
+  "made_with": "Animal Lord Essence (snake) · serpent venom",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Soul Bond Chalice.md": {
+  "item": "Soul Bond Chalice",
+  "rarity": "Very Rare",
+  "made_with": "Celestial Blood · Celestial Feather · raven feathers from a Fey",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Spice Box Spoon.md": {
+  "item": "Spice Box Spoon",
+  "rarity": "Common",
+  "made_with": "Fragrance Gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Spice Box of Zest.md": {
+  "item": "Spice Box of Zest",
+  "rarity": "Very Rare",
+  "made_with": "Celestial Blood · Fragrance Gland · Mandrake Root",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Teapot of Soothing.md": {
+  "item": "Teapot of Soothing",
+  "rarity": "Rare",
+  "made_with": "Celestial Blood · Warming Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Thornish Nocturnal.md": {
+  "item": "Thornish Nocturnal",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · Telescopic Eyes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Toothsome Purse.md": {
+  "item": "Toothsome Purse",
+  "rarity": "Uncommon",
+  "made_with": "predator fangs",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Vessel of Deadly Venoms.md": {
+  "item": "Vessel of Deadly Venoms",
+  "rarity": "Rare",
+  "made_with": "Poison Coil · serpent venom",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Vial of Sunlight.md": {
+  "item": "Vial of Sunlight",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · Searsprite Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Vigilant Mug.md": {
+  "item": "Vigilant Mug",
+  "rarity": "Common",
+  "made_with": "imp eyes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Containers & Vessels/Witch Ward Bottle.md": {
+  "item": "Witch Ward Bottle",
+  "rarity": "Uncommon",
+  "made_with": "Hag’s Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Boots & Footwear/Boots of Pouncing.md": {
+  "item": "Boots of Pouncing",
+  "rarity": "Rare",
+  "made_with": "Trampling Hoof · albino death weasel fur",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Boots & Footwear/Boots of Quaking.md": {
+  "item": "Boots of Quaking",
+  "rarity": "Very Rare",
+  "made_with": "Elemental Gemstone (earth) · Trampling Hoof · Colossal Tendon",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Boots & Footwear/Boots of Solid Footing.md": {
+  "item": "Boots of Solid Footing",
+  "rarity": "Uncommon",
+  "made_with": "Anchoring Root",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Boots & Footwear/Boots of the Grandmother.md": {
+  "item": "Boots of the Grandmother",
+  "rarity": "Rare",
+  "made_with": "Photoadaptive Hide · Hag’s Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Boots & Footwear/Boots of the Swift Striker.md": {
+  "item": "Boots of the Swift Striker",
+  "rarity": "Rare",
+  "made_with": "Trampling Hoof · Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Boots & Footwear/Comfy Slippers.md": {
+  "item": "Comfy Slippers",
+  "rarity": "Common",
+  "made_with": "Warming Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Boots & Footwear/Deserter’s Boots.md": {
+  "item": "Deserter’s Boots",
+  "rarity": "Rare",
+  "made_with": "Trampling Hoof · Forgetful Horn",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Boots & Footwear/Sandals of Sand Skating.md": {
+  "item": "Sandals of Sand Skating",
+  "rarity": "Uncommon",
+  "made_with": "Slippery Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Boots & Footwear/Sandals of the Desert Wanderer.md": {
+  "item": "Sandals of the Desert Wanderer",
+  "rarity": "Uncommon",
+  "made_with": "Throat Scales (brass dragon)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Boots & Footwear/Shoes of the Shingled Canopy.md": {
+  "item": "Shoes of the Shingled Canopy",
+  "rarity": "Uncommon",
+  "made_with": "Gripping Spikes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Boots & Footwear/Slippers of the Cat.md": {
+  "item": "Slippers of the Cat",
+  "rarity": "Uncommon",
+  "made_with": "paw pads of a great cat",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Boots & Footwear/Three-Section Boots.md": {
+  "item": "Three-Section Boots",
+  "rarity": "Uncommon",
+  "made_with": "Elemental Gemstone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Boots & Footwear/Windwalker Boots.md": {
+  "item": "Windwalker Boots",
+  "rarity": "Uncommon",
+  "made_with": "Elemental Gemstone (air)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Air Seed.md": {
+  "item": "Air Seed",
+  "rarity": "Uncommon",
+  "made_with": "Elemental Gemstone (air)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Alabaster Salt Shaker.md": {
+  "item": "Alabaster Salt Shaker",
+  "rarity": "Rare",
+  "made_with": "Particulate Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Ashes of the Fallen.md": {
+  "item": "Ashes of the Fallen",
+  "rarity": "Rare",
+  "made_with": "ashes of a slain celestial",
+  "flag": "Text says it's the powdered remains of a celestial. The harvesting rules let a table treat sacred creatures as off-limits; your call whether celestials are."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Butter of Disbelief.md": {
+  "item": "Butter of Disbelief",
+  "rarity": "Uncommon",
+  "made_with": "Slippery Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Candle of Communion.md": {
+  "item": "Candle of Communion",
+  "rarity": "Uncommon",
+  "made_with": "Spectral Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Candle of Summoning.md": {
+  "item": "Candle of Summoning",
+  "rarity": "Uncommon",
+  "made_with": "Creator’s Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Candle of Visions.md": {
+  "item": "Candle of Visions",
+  "rarity": "Common",
+  "made_with": "Visionary Flesh",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Chalk of Exodus.md": {
+  "item": "Chalk of Exodus",
+  "rarity": "Uncommon",
+  "made_with": "Teleport Tracer",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Chamrosh Salve.md": {
+  "item": "Chamrosh Salve",
+  "rarity": "Rare",
+  "made_with": "Celestial Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Charlatan’s Veneer.md": {
+  "item": "Charlatan’s Veneer",
+  "rarity": "Uncommon",
+  "made_with": "Fragrance Gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Commoner’s Veneer.md": {
+  "item": "Commoner’s Veneer",
+  "rarity": "Common",
+  "made_with": "Photoadaptive Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Doppelganger Ointment.md": {
+  "item": "Doppelganger Ointment",
+  "rarity": "Rare",
+  "made_with": "shapechanger blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Dust of Desiccation.md": {
+  "item": "Dust of Desiccation",
+  "rarity": "Rare",
+  "made_with": "Unliving Claw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Dust of Muffling.md": {
+  "item": "Dust of Muffling",
+  "rarity": "Common",
+  "made_with": "owl feathers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Dust of the Dead.md": {
+  "item": "Dust of the Dead",
+  "rarity": "Uncommon",
+  "made_with": "Eternal’s Humor",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Frost Pellet.md": {
+  "item": "Frost Pellet",
+  "rarity": "Rare",
+  "made_with": "devil shark stomach lining",
+  "flag": "Text says it's made from a devil shark's stomach lining. Check the devil shark's CR against the Rare floor; kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Granny Wax.md": {
+  "item": "Granny Wax",
+  "rarity": "Uncommon",
+  "made_with": "Hag’s Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Gritless Grease.md": {
+  "item": "Gritless Grease",
+  "rarity": "Uncommon",
+  "made_with": "Slippery Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Hallucinatory Dust.md": {
+  "item": "Hallucinatory Dust",
+  "rarity": "Rare",
+  "made_with": "Gloompetal",
+  "flag": "Text says gloomflower pollen. No gloomflower in your books reaches the Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Holy Verdant Bat Droppings.md": {
+  "item": "Holy Verdant Bat Droppings",
+  "rarity": "Rare",
+  "made_with": "verdant bat guano",
+  "flag": "Text says green bat guano gathered by derro. The bats are far under the Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Honey Trap.md": {
+  "item": "Honey Trap",
+  "rarity": "Rare",
+  "made_with": "Adhesive Slime · royal jelly from a giant hive queen",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Incense of Recovery.md": {
+  "item": "Incense of Recovery",
+  "rarity": "Rare",
+  "made_with": "Fragrance Gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Kobold Firework.md": {
+  "item": "Kobold Firework",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Eruptive Sac · Searsprite Essence · Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Memory Philter.md": {
+  "item": "Memory Philter",
+  "rarity": "Rare",
+  "made_with": "NONE",
+  "flag": "it's a mortal's memory, traded to the fey"
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Radiance Bomb.md": {
+  "item": "Radiance Bomb",
+  "rarity": "Uncommon",
+  "made_with": "Celestial Feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Rope Seed.md": {
+  "item": "Rope Seed",
+  "rarity": "Common",
+  "made_with": "Living Tendril",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Scalehide Cream.md": {
+  "item": "Scalehide Cream",
+  "rarity": "Rare",
+  "made_with": "Abnormal Leather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Sleep Pellet.md": {
+  "item": "Sleep Pellet",
+  "rarity": "Uncommon",
+  "made_with": "sleep-musk gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Spider Grenade.md": {
+  "item": "Spider Grenade",
+  "rarity": "Uncommon",
+  "made_with": "Paralytic Silk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Tactile Unguent.md": {
+  "item": "Tactile Unguent",
+  "rarity": "Common",
+  "made_with": "Sensitive Whisker",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Timeworn Timepiece.md": {
+  "item": "Timeworn Timepiece",
+  "rarity": "Rare",
+  "made_with": "Chronomatic Gear · Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Umber Beans.md": {
+  "item": "Umber Beans",
+  "rarity": "Uncommon",
+  "made_with": "Creator’s Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/Wayfarer’s Candle.md": {
+  "item": "Wayfarer’s Candle",
+  "rarity": "Common",
+  "made_with": "Illuminating Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Dusts, Oils & Consumables/White Dandelion.md": {
+  "item": "White Dandelion",
+  "rarity": "Common",
+  "made_with": "NONE",
+  "flag": "it's a magic flower"
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Banners/Banner of the Fortunate.md": {
+  "item": "Banner of the Fortunate",
+  "rarity": "Uncommon",
+  "made_with": "heart of a lucky creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Banners/Battle Standard of Passage.md": {
+  "item": "Battle Standard of Passage",
+  "rarity": "Uncommon",
+  "made_with": "Anchoring Root",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Banners/Captain’s Flag.md": {
+  "item": "Captain’s Flag",
+  "rarity": "Rare",
+  "made_with": "roc feathers · blood from a creature that can't be frightened",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Banners/Flag of the Cursed Fleet.md": {
+  "item": "Flag of the Cursed Fleet",
+  "rarity": "Legendary",
+  "made_with": "Eternal’s Humor · Spectral Essence · Unliving Claw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Arcanaphage Stone.md": {
+  "item": "Arcanaphage Stone",
+  "rarity": "Rare",
+  "made_with": "Magic-Absorbing Organ · arcanaphage gizzard stone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Bituminous Orb.md": {
+  "item": "Bituminous Orb",
+  "rarity": "Very Rare",
+  "made_with": "Primordial Tar · Eternal’s Humor · Poisonous Pitch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Blood Pearl.md": {
+  "item": "Blood Pearl",
+  "rarity": "Uncommon",
+  "made_with": "Hardened Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Coral of Enchanted Colors.md": {
+  "item": "Coral of Enchanted Colors",
+  "rarity": "Legendary",
+  "made_with": "Scintillating Hide · Regenerative Coral · Elemental Gemstone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Countermelody Crystals.md": {
+  "item": "Countermelody Crystals",
+  "rarity": "Uncommon",
+  "made_with": "Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Craven’s Heart.md": {
+  "item": "Craven’s Heart",
+  "rarity": "Uncommon",
+  "made_with": "Fearful Eyedrops",
+  "flag": "Text says it's a dried humanoid heart, which the harvesting rules rule out. Listed a monster part instead."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Deepchill Orb.md": {
+  "item": "Deepchill Orb",
+  "rarity": "Common",
+  "made_with": "Ice Splinter",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Ebon Shards.md": {
+  "item": "Ebon Shards",
+  "rarity": "Very Rare",
+  "made_with": "Void Essence · Aberrant Brain · Otherworldly Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Feather Token.md": {
+  "item": "Feather Token",
+  "rarity": "Rare",
+  "made_with": "roc feathers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Gauntlet of the Iron Sphere.md": {
+  "item": "Gauntlet of the Iron Sphere",
+  "rarity": "Very Rare",
+  "made_with": "Besieging Plating · Colossal Tendon · Rending Claws",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Giggling Orb.md": {
+  "item": "Giggling Orb",
+  "rarity": "Rare",
+  "made_with": "Laughing Fruit",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Heat Stone.md": {
+  "item": "Heat Stone",
+  "rarity": "Common",
+  "made_with": "Warming Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Heliotrope Heart.md": {
+  "item": "Heliotrope Heart",
+  "rarity": "Uncommon",
+  "made_with": "Celestial Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Ioun Stone.md": {
+  "item": "Ioun Stone",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Elemental Gemstone · Aberrant Brain · Celestial Feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Jeweler’s Anvil.md": {
+  "item": "Jeweler’s Anvil",
+  "rarity": "Uncommon",
+  "made_with": "Elemental Gemstone (fire)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Lodestone Caltrops.md": {
+  "item": "Lodestone Caltrops",
+  "rarity": "Uncommon",
+  "made_with": "Magnetizing Agent",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Orb of Enthralling Patterns.md": {
+  "item": "Orb of Enthralling Patterns",
+  "rarity": "Uncommon",
+  "made_with": "Scintillating Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Pearl of Diving.md": {
+  "item": "Pearl of Diving",
+  "rarity": "Rare",
+  "made_with": "Bizarre Cartilage (a sea Monstrosity) · Thick Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Phoenix Ember.md": {
+  "item": "Phoenix Ember",
+  "rarity": "Legendary",
+  "made_with": "fossilized phoenix egg · Phoenix Feather · Celestial Blood",
+  "flag": "Text says it's a fossilized phoenix egg. A phoenix (Harvest DC 15) is under the Legendary floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/River Token.md": {
+  "item": "River Token",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone (water)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Skipstone.md": {
+  "item": "Skipstone",
+  "rarity": "Rare",
+  "made_with": "Chronomatic Gear",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Worry Stone.md": {
+  "item": "Worry Stone",
+  "rarity": "Common",
+  "made_with": "Chaos Nullifier",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Wondrous Items/Gems, Stones & Orbs/Wraithstone.md": {
+  "item": "Wraithstone",
+  "rarity": "Uncommon",
+  "made_with": "Spectral Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Spirit Honey/Honey of Ancient Meadows.md": {
+  "item": "Honey of Ancient Meadows",
+  "rarity": "Rare",
+  "made_with": "NONE",
+  "flag": "spirit honey from flowers in ancient meadows, per its own text"
+ },
+ "Rules/Magic/Magic Items/Spirit Honey/Honey of Dead Fields.md": {
+  "item": "Honey of Dead Fields",
+  "rarity": "Uncommon",
+  "made_with": "NONE",
+  "flag": "spirit honey from graveyard and battlefield flowers, per its own text"
+ },
+ "Rules/Magic/Magic Items/Spirit Honey/Honey of Gloomy Flowers.md": {
+  "item": "Honey of Gloomy Flowers",
+  "rarity": "Rare",
+  "made_with": "NONE",
+  "flag": "spirit honey from Shadow Realm flowers, per its own text"
+ },
+ "Rules/Magic/Magic Items/Spirit Honey/Honey of Planar Flora.md": {
+  "item": "Honey of Planar Flora",
+  "rarity": "Very Rare",
+  "made_with": "planar flora nectar · Primeval Sap",
+  "flag": "Text says nectar from planar flora. Planar flora (Harvest DC 12) is under the Very Rare floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Spirit Honey/Honey of Warped Wildflowers.md": {
+  "item": "Honey of Warped Wildflowers",
+  "rarity": "Very Rare",
+  "made_with": "NONE",
+  "flag": "spirit honey from magic-warped wildflowers, per its own text"
+ },
+ "Rules/Magic/Magic Items/Spirit Honey/Honey of the Hungry Flower.md": {
+  "item": "Honey of the Hungry Flower",
+  "rarity": "Uncommon",
+  "made_with": "Primeval Sap",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Spirit Honey/Honey of the Master Vine.md": {
+  "item": "Honey of the Master Vine",
+  "rarity": "Rare",
+  "made_with": "Poison Coil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Troll Blood/Potion of Troll Blood, Greater.md": {
+  "item": "Potion of Troll Blood, Greater",
+  "rarity": "Rare",
+  "made_with": "troll blood",
+  "flag": "No troll in your books reaches this rarity's floor, but troll blood is plainly the source."
+ },
+ "Rules/Magic/Magic Items/Troll Blood/Potion of Troll Blood, Superior.md": {
+  "item": "Potion of Troll Blood, Superior",
+  "rarity": "Very Rare",
+  "made_with": "troll blood · Troll Heart",
+  "flag": "No troll in your books reaches this rarity's floor, but troll blood is plainly the source."
+ },
+ "Rules/Magic/Magic Items/Troll Blood/Potion of Troll Blood, Supreme.md": {
+  "item": "Potion of Troll Blood, Supreme",
+  "rarity": "Legendary",
+  "made_with": "troll blood · Troll Heart",
+  "flag": "No troll in your books reaches this rarity's floor, but troll blood is plainly the source."
+ },
+ "Rules/Magic/Magic Items/Troll Blood/Potion of Troll Blood.md": {
+  "item": "Potion of Troll Blood",
+  "rarity": "Uncommon",
+  "made_with": "troll blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Akaasit Blade.md": {
+  "item": "Akaasit Blade",
+  "rarity": "Rare",
+  "made_with": "akaasit arm blade · Visionary Flesh",
+  "flag": "Text says it's made from an akaasit's arm blade. Check the akaasit's CR against the Rare floor; kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Anchor of Striking.md": {
+  "item": "Anchor of Striking",
+  "rarity": "Rare",
+  "made_with": "Demonic Thread · Living Tendril",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Angry Hornet.md": {
+  "item": "Angry Hornet",
+  "rarity": "Uncommon",
+  "made_with": "stinger of a swarming insect creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Anointing Mace.md": {
+  "item": "Anointing Mace",
+  "rarity": "Uncommon",
+  "made_with": "Breath Pouch",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Arrow of Grabbing.md": {
+  "item": "Arrow of Grabbing",
+  "rarity": "Very Rare",
+  "made_with": "Extraordinary Limb · barbed bone from any Monstrosity",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Arrow of Unpleasant Herbs.md": {
+  "item": "Arrow of Unpleasant Herbs",
+  "rarity": "Uncommon",
+  "made_with": "Poison Coil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Asp’s Kiss.md": {
+  "item": "Asp’s Kiss",
+  "rarity": "Legendary",
+  "made_with": "Throat Scales (ancient green dragon) · serpent venom · a blue-sheened fang",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Axe of the Ancients.md": {
+  "item": "Axe of the Ancients",
+  "rarity": "Uncommon",
+  "made_with": "Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Black and White Daggers.md": {
+  "item": "Black and White Daggers",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · Bizarre Cartilage",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Blackguard’s Blade.md": {
+  "item": "Blackguard’s Blade",
+  "rarity": "Common",
+  "made_with": "Wicked Bone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Blade of Petals.md": {
+  "item": "Blade of Petals",
+  "rarity": "Rare",
+  "made_with": "Primeval Sap · Fragrance Gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Blade of the Dervish.md": {
+  "item": "Blade of the Dervish",
+  "rarity": "Rare",
+  "made_with": "Whirling Gizmo · Trampling Hoof",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Blade of the Temple Guardian.md": {
+  "item": "Blade of the Temple Guardian",
+  "rarity": "Uncommon",
+  "made_with": "Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Bloodbow.md": {
+  "item": "Bloodbow",
+  "rarity": "Rare",
+  "made_with": "Frenzying Oil · Hardened Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Blooddrinker Spear.md": {
+  "item": "Blooddrinker Spear",
+  "rarity": "Rare",
+  "made_with": "Frenzying Oil · Ritual Bone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Bloodfuel Weapon.md": {
+  "item": "Bloodfuel Weapon",
+  "rarity": "Rare",
+  "made_with": "Hardened Blood · Frenzying Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Bloodthirsty Weapon.md": {
+  "item": "Bloodthirsty Weapon",
+  "rarity": "Rare",
+  "made_with": "heart of a blood-drinking creature · Frenzying Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Bludgeon of Nightmares.md": {
+  "item": "Bludgeon of Nightmares",
+  "rarity": "Rare",
+  "made_with": "Fearful Eyedrops · Unliving Claw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Bone Whip.md": {
+  "item": "Bone Whip",
+  "rarity": "Very Rare",
+  "made_with": "Unliving Claw · Living Tendril · Bizarre Cartilage",
+  "flag": "Text says it's humanoid vertebrae and skin, which the harvesting rules rule out. Listed monster parts instead."
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Bonebreaker Mace.md": {
+  "item": "Bonebreaker Mace",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · Spirit Acid",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Bow of Accuracy.md": {
+  "item": "Bow of Accuracy",
+  "rarity": "Common",
+  "made_with": "Telescopic Eyes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Breaker Lance.md": {
+  "item": "Breaker Lance",
+  "rarity": "Rare",
+  "made_with": "Besieging Plating · Trampling Hoof",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Bullseye Arrow.md": {
+  "item": "Bullseye Arrow",
+  "rarity": "Uncommon",
+  "made_with": "Everwatchful Eyes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Buzzing Blade.md": {
+  "item": "Buzzing Blade",
+  "rarity": "Rare",
+  "made_with": "Resonant Trunk · Clacking Mandibles",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Candied Axe.md": {
+  "item": "Candied Axe",
+  "rarity": "Very Rare",
+  "made_with": "royal jelly from a giant hive queen · Huecambra Gem · Adhesive Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Chainbreaker Blade.md": {
+  "item": "Chainbreaker Blade",
+  "rarity": "Rare",
+  "made_with": "Rending Claws · Rusting Antennae",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Chieftain’s Axe.md": {
+  "item": "Chieftain’s Axe",
+  "rarity": "Very Rare",
+  "made_with": "Colossal Tendon · Idolatrous Heart · Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Clockwork Mace of Divinity.md": {
+  "item": "Clockwork Mace of Divinity",
+  "rarity": "Uncommon",
+  "made_with": "Whirling Gizmo",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Constant Dagger.md": {
+  "item": "Constant Dagger",
+  "rarity": "Rare",
+  "made_with": "Rending Claws · Magebane Tooth",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Consuming Rod.md": {
+  "item": "Consuming Rod",
+  "rarity": "Very Rare",
+  "made_with": "Unliving Claw · ghoul fangs · Eternal’s Humor",
+  "flag": "Text says it's carved from a humanoid femur, which the harvesting rules rule out. Listed monster parts instead."
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Crimson Starfall Arrow.md": {
+  "item": "Crimson Starfall Arrow",
+  "rarity": "Uncommon",
+  "made_with": "Hardened Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Dagger of the Barbed Devil.md": {
+  "item": "Dagger of the Barbed Devil",
+  "rarity": "Rare",
+  "made_with": "Throwing Spine · barbed devil barb",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Dawn Shard.md": {
+  "item": "Dawn Shard",
+  "rarity": "Uncommon",
+  "made_with": "Celestial Feather",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Deadfall Arrow.md": {
+  "item": "Deadfall Arrow",
+  "rarity": "Rare",
+  "made_with": "Teratoid Bark",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Dimensional Net.md": {
+  "item": "Dimensional Net",
+  "rarity": "Rare",
+  "made_with": "celestial hair · fiend hair",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Dirgeblade.md": {
+  "item": "Dirgeblade",
+  "rarity": "Legendary",
+  "made_with": "Voltaic Organ · Elemental Gemstone (air) · Imitative Vocal Cords",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Dirk of Daring.md": {
+  "item": "Dirk of Daring",
+  "rarity": "Uncommon",
+  "made_with": "Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Dragonstooth Blade.md": {
+  "item": "Dragonstooth Blade",
+  "rarity": "Very Rare",
+  "made_with": "tooth of an adult or older dragon · Breath Pouch · Throat Scales",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Enraging Ammunition.md": {
+  "item": "Enraging Ammunition",
+  "rarity": "Uncommon",
+  "made_with": "Frenzying Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Ensnaring Ammunition.md": {
+  "item": "Ensnaring Ammunition",
+  "rarity": "Uncommon",
+  "made_with": "Adhesive Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Entrenching Mattock.md": {
+  "item": "Entrenching Mattock",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone (earth) · Earthen Claw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Exsanguinating Blade.md": {
+  "item": "Exsanguinating Blade",
+  "rarity": "Rare",
+  "made_with": "vampire fang · Hardened Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Flash Bullet.md": {
+  "item": "Flash Bullet",
+  "rarity": "Common",
+  "made_with": "Searsprite Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Fog Stone.md": {
+  "item": "Fog Stone",
+  "rarity": "Uncommon",
+  "made_with": "Shrouding Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Forgefire Hammer.md": {
+  "item": "Forgefire Hammer",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone (fire) · Fiendish Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Gale Javelin.md": {
+  "item": "Gale Javelin",
+  "rarity": "Uncommon",
+  "made_with": "Elemental Gemstone (air)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Glazed Blade.md": {
+  "item": "Glazed Blade",
+  "rarity": "Common",
+  "made_with": "Fragrance Gland",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Gnawing Spear.md": {
+  "item": "Gnawing Spear",
+  "rarity": "Rare",
+  "made_with": "Extraordinary Limb · predator fangs",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Golden Bolt.md": {
+  "item": "Golden Bolt",
+  "rarity": "Uncommon",
+  "made_with": "Throwing Spine",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Hammer of Throwing.md": {
+  "item": "Hammer of Throwing",
+  "rarity": "Uncommon",
+  "made_with": "Magnetizing Agent",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Hexen Blade.md": {
+  "item": "Hexen Blade",
+  "rarity": "Rare",
+  "made_with": "Scintillating Hide · shapechanger blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Hidden Armament.md": {
+  "item": "Hidden Armament",
+  "rarity": "Uncommon",
+  "made_with": "Photoadaptive Hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Humble Cudgel of Temperance.md": {
+  "item": "Humble Cudgel of Temperance",
+  "rarity": "Uncommon",
+  "made_with": "Poison Coil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Iceblink.md": {
+  "item": "Iceblink",
+  "rarity": "Rare",
+  "made_with": "Throat Scales (white dragon) · Ice Splinter",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Impact Club.md": {
+  "item": "Impact Club",
+  "rarity": "Uncommon",
+  "made_with": "Trampling Hoof",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Knockabout Billet.md": {
+  "item": "Knockabout Billet",
+  "rarity": "Common",
+  "made_with": "Trampling Hoof",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Kyshaarth’s Fang.md": {
+  "item": "Kyshaarth’s Fang",
+  "rarity": "Rare",
+  "made_with": "Void Essence · voidling barb",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Labyrs of the Raging Bull.md": {
+  "item": "Labyrs of the Raging Bull",
+  "rarity": "Rare",
+  "made_with": "Trampling Hoof · Colossal Tendon",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Leaf-Bladed Sword.md": {
+  "item": "Leaf-Bladed Sword",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · Teratoid Bark",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Lockbreaker.md": {
+  "item": "Lockbreaker",
+  "rarity": "Common",
+  "made_with": "Living Lockpick",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Manticore’s Tail.md": {
+  "item": "Manticore’s Tail",
+  "rarity": "Uncommon",
+  "made_with": "Throwing Spine (manticore)",
+  "flag": "Text says manticore spikes. A manticore (Harvest DC 12) is under the Uncommon floor. Kept because the item is built on it."
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Masher Basher.md": {
+  "item": "Masher Basher",
+  "rarity": "Uncommon",
+  "made_with": "Colossal Tendon (a giant)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Moonsteel Weapon.md": {
+  "item": "Moonsteel Weapon",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · Moon Drake Saliva",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Mordant Blade.md": {
+  "item": "Mordant Blade",
+  "rarity": "Rare",
+  "made_with": "Acrid Slag · Stone-Eating Acid",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Mountain Hewer.md": {
+  "item": "Mountain Hewer",
+  "rarity": "Very Rare",
+  "made_with": "Elemental Gemstone (earth) · Stone-Eating Acid · Colossal Tendon",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Mountaineer’s Crossbow.md": {
+  "item": "Mountaineer’s Crossbow",
+  "rarity": "Uncommon",
+  "made_with": "Gripping Spikes",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Mutineer’s Blade.md": {
+  "item": "Mutineer’s Blade",
+  "rarity": "Rare",
+  "made_with": "Aberrant Brain · Wicked Bone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Odd Bodkin.md": {
+  "item": "Odd Bodkin",
+  "rarity": "Rare",
+  "made_with": "Rending Claws · Hardened Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Pestilent Spear.md": {
+  "item": "Pestilent Spear",
+  "rarity": "Uncommon",
+  "made_with": "otyugh gut",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Phidjetz Spinner.md": {
+  "item": "Phidjetz Spinner",
+  "rarity": "Uncommon",
+  "made_with": "dragon scales of four colors",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Pick of Ice Breaking.md": {
+  "item": "Pick of Ice Breaking",
+  "rarity": "Uncommon",
+  "made_with": "Elemental Gemstone (fire)",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Pistol of the Umbral Court.md": {
+  "item": "Pistol of the Umbral Court",
+  "rarity": "Very Rare",
+  "made_with": "Shadowporting Blood · Fiendish Oil · Gloompetal",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Poison Strand.md": {
+  "item": "Poison Strand",
+  "rarity": "Very Rare",
+  "made_with": "venom from a deadly creature · Living Tendril · Poison Coil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Rain of Chaos.md": {
+  "item": "Rain of Chaos",
+  "rarity": "Uncommon",
+  "made_with": "Elemental Gemstone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Ravager’s Axe.md": {
+  "item": "Ravager’s Axe",
+  "rarity": "Very Rare",
+  "made_with": "Besieging Plating · Unliving Claw · Ice Splinter",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Reef Splitter.md": {
+  "item": "Reef Splitter",
+  "rarity": "Very Rare",
+  "made_with": "Elemental Gemstone (fire) · Primordial Tar · Regenerative Coral",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Riverine Blade.md": {
+  "item": "Riverine Blade",
+  "rarity": "Rare",
+  "made_with": "Flippers · Garroter Claw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Rowdy’s Club.md": {
+  "item": "Rowdy’s Club",
+  "rarity": "Uncommon",
+  "made_with": "Frenzying Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Ruby Crusher.md": {
+  "item": "Ruby Crusher",
+  "rarity": "Legendary",
+  "made_with": "Elemental Gemstone (fire) · Throat Scales (red dragon) · manticore hide",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Sacrificial Knife.md": {
+  "item": "Sacrificial Knife",
+  "rarity": "Rarity Varies",
+  "made_with": "VARIES: Idolatrous Heart · Unliving Claw",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Sanguine Lance.md": {
+  "item": "Sanguine Lance",
+  "rarity": "Uncommon",
+  "made_with": "vampire blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Scimitar of the Desert Winds.md": {
+  "item": "Scimitar of the Desert Winds",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone (air) · Primordial Tar",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Scourge of Devotion.md": {
+  "item": "Scourge of Devotion",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Sea Witch’s Blade.md": {
+  "item": "Sea Witch’s Blade",
+  "rarity": "Very Rare",
+  "made_with": "Spectral Essence · Lock of Hag (sea hag) · Forgetful Horn",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Searing Whip.md": {
+  "item": "Searing Whip",
+  "rarity": "Rare",
+  "made_with": "Luminous Scale · Living Tendril",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Serpent’s Tooth.md": {
+  "item": "Serpent’s Tooth",
+  "rarity": "Uncommon",
+  "made_with": "serpent venom",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Shepherd's Flail.md": {
+  "item": "Shepherd's Flail",
+  "rarity": "Legendary",
+  "made_with": "Animal Lord Essence · Celestial Blood · Fey Tongue",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Siege Arrow.md": {
+  "item": "Siege Arrow",
+  "rarity": "Common",
+  "made_with": "Stone-Eating Acid",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Signaling Ammunition.md": {
+  "item": "Signaling Ammunition",
+  "rarity": "Uncommon",
+  "made_with": "Illuminating Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Slimeblade.md": {
+  "item": "Slimeblade",
+  "rarity": "Rare",
+  "made_with": "Otherworldly Slime · Slippery Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Sling Stone of Screeching.md": {
+  "item": "Sling Stone of Screeching",
+  "rarity": "Uncommon",
+  "made_with": "Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Slipshod Hammer.md": {
+  "item": "Slipshod Hammer",
+  "rarity": "Uncommon",
+  "made_with": "Creator’s Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Spear of the North.md": {
+  "item": "Spear of the North",
+  "rarity": "Very Rare",
+  "made_with": "Throat Scales (white dragon) · Ice Heart · mammoth ivory",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Spear of the Stilled Heart.md": {
+  "item": "Spear of the Stilled Heart",
+  "rarity": "Very Rare",
+  "made_with": "Unliving Claw · Eternal’s Humor · Teratoid Bark",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Spear of the Western Whale.md": {
+  "item": "Spear of the Western Whale",
+  "rarity": "Very Rare",
+  "made_with": "bone from a sea monster · Flippers · Cephalopod Ink",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Spectral Blade.md": {
+  "item": "Spectral Blade",
+  "rarity": "Rare",
+  "made_with": "Spectral Essence · Angelic Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Standard of Divinity.md": {
+  "item": "Standard of Divinity",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · Idolatrous Heart",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Stinger.md": {
+  "item": "Stinger",
+  "rarity": "Rare",
+  "made_with": "Paralyzing Dust · stinger of a giant insect",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Survival Knife.md": {
+  "item": "Survival Knife",
+  "rarity": "Common",
+  "made_with": "Multitool Component",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Sweet Nature.md": {
+  "item": "Sweet Nature",
+  "rarity": "Uncommon",
+  "made_with": "Frenzying Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Sword of Fallen Saints.md": {
+  "item": "Sword of Fallen Saints",
+  "rarity": "Uncommon",
+  "made_with": "Spectral Essence",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Sword of Volsung.md": {
+  "item": "Sword of Volsung",
+  "rarity": "Very Rare",
+  "made_with": "heart of an ancient dragon · Throat Scales · Colossal Tendon",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Tamer’s Whip.md": {
+  "item": "Tamer’s Whip",
+  "rarity": "Rare",
+  "made_with": "Animal Lord Essence · hides of a dozen dangerous beasts",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Tenebrous Flail of Screams.md": {
+  "item": "Tenebrous Flail of Screams",
+  "rarity": "Rare",
+  "made_with": "Resonant Trunk · mammoth bone and owlbear beak",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Thirsting Scalpel.md": {
+  "item": "Thirsting Scalpel",
+  "rarity": "Uncommon",
+  "made_with": "heart of a blood-drinking creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Thirsting Thorn.md": {
+  "item": "Thirsting Thorn",
+  "rarity": "Rare",
+  "made_with": "corrupted treant wood · Eternal’s Humor",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Tipstaff.md": {
+  "item": "Tipstaff",
+  "rarity": "Rare",
+  "made_with": "Demonic Thread · Resonant Trunk",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Tracking Dart.md": {
+  "item": "Tracking Dart",
+  "rarity": "Common",
+  "made_with": "Mycoptyx Spores",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Trident of the Vortex.md": {
+  "item": "Trident of the Vortex",
+  "rarity": "Very Rare",
+  "made_with": "Elemental Gemstone (water) · Water-Absorbing Organ · Flippers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Trident of the Yearning Tide.md": {
+  "item": "Trident of the Yearning Tide",
+  "rarity": "Very Rare",
+  "made_with": "Elemental Gemstone (water) · Regenerative Coral · gills of an aquatic creature",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Tyrant’s Whip.md": {
+  "item": "Tyrant’s Whip",
+  "rarity": "Uncommon",
+  "made_with": "Aberrant Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Umbral Chopper.md": {
+  "item": "Umbral Chopper",
+  "rarity": "Rare",
+  "made_with": "Shadowporting Blood · Teratoid Bark",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Unquiet Dagger.md": {
+  "item": "Unquiet Dagger",
+  "rarity": "Very Rare",
+  "made_with": "Void Essence · Otherworldly Slime · Aberrant Brain",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Valkyrie’s Bite.md": {
+  "item": "Valkyrie’s Bite",
+  "rarity": "Rare",
+  "made_with": "Celestial Feather · raven feathers",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Vile Razor.md": {
+  "item": "Vile Razor",
+  "rarity": "Rare",
+  "made_with": "Whirling Gizmo · Frenzying Oil",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Web Arrows.md": {
+  "item": "Web Arrows",
+  "rarity": "Uncommon",
+  "made_with": "Adhesive Slime",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Whip of Fangs.md": {
+  "item": "Whip of Fangs",
+  "rarity": "Uncommon",
+  "made_with": "serpent skin",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Whip of the Blue Wyrm.md": {
+  "item": "Whip of the Blue Wyrm",
+  "rarity": "Uncommon",
+  "made_with": "VARIES: blue dragon tail scales · Throat Scales (blue dragon) · Voltaic Organ",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Whirlwind Bolas.md": {
+  "item": "Whirlwind Bolas",
+  "rarity": "Rare",
+  "made_with": "Elemental Gemstone (air) · Living Tendril",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Witch’s Circle.md": {
+  "item": "Witch’s Circle",
+  "rarity": "Very Rare",
+  "made_with": "Elemental Gemstone · Elemental Gemstone (a second element) · Hag’s Blood",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Magic Weapons/Wolf Brush.md": {
+  "item": "Wolf Brush",
+  "rarity": "Very Rare",
+  "made_with": "Spectral Essence · Colossal Tendon · Wicked Bone",
+  "flag": ""
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Assassin’s Chain.md": {
+  "item": "Assassin’s Chain",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Battlecaster’s Armor.md": {
+  "item": "Battlecaster’s Armor",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Blood Moon Orb.md": {
+  "item": "Blood Moon Orb",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Bracers of Ganis’briel.md": {
+  "item": "Bracers of Ganis’briel",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Cailebryn.md": {
+  "item": "Cailebryn",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Champion’s Plate.md": {
+  "item": "Champion’s Plate",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Fire Shield of Rathume.md": {
+  "item": "Fire Shield of Rathume",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Foulton Door.md": {
+  "item": "Foulton Door",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Gauntlets of the Arcane Fist.md": {
+  "item": "Gauntlets of the Arcane Fist",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Golden Griffon Shield.md": {
+  "item": "Golden Griffon Shield",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Grinning Skull.md": {
+  "item": "Grinning Skull",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Healer’s Hand Amulet.md": {
+  "item": "Healer’s Hand Amulet",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Helm of Velamish.md": {
+  "item": "Helm of Velamish",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Kelgror’s Hammer.md": {
+  "item": "Kelgror’s Hammer",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Mage Hunter’s Armor.md": {
+  "item": "Mage Hunter’s Armor",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Markum’s Glaive.md": {
+  "item": "Markum’s Glaive",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Matched Blades of the Eternal Feudalists.md": {
+  "item": "Matched Blades of the Eternal Feudalists",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Oak Heart Figurine.md": {
+  "item": "Oak Heart Figurine",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Raurrick’s Axe.md": {
+  "item": "Raurrick’s Axe",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Red Bulette’s Hide.md": {
+  "item": "Red Bulette’s Hide",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Sacred Mountain Armor.md": {
+  "item": "Sacred Mountain Armor",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Scorpion Sting Scimitar.md": {
+  "item": "Scorpion Sting Scimitar",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Sovereign’s Scepter.md": {
+  "item": "Sovereign’s Scepter",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Trickster’s Boots.md": {
+  "item": "Trickster’s Boots",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Uthariel’s Diadem.md": {
+  "item": "Uthariel’s Diadem",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Vrithmytrix’s Bane.md": {
+  "item": "Vrithmytrix’s Bane",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Wanderer’s Book.md": {
+  "item": "Wanderer’s Book",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ },
+ "Rules/Magic/Magic Items/Fabled Magic Items/Wolf’s Howl Ring.md": {
+  "item": "Wolf’s Howl Ring",
+  "rarity": "Fabled",
+  "made_with": "NOCRAFT",
+  "flag": "Fabled. The core rules put fabled items beyond mortal crafting."
+ }
+}

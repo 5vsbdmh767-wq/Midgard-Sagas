@@ -13,6 +13,8 @@ The exquisite sounds of this sitar are known to weaken the power of demons. Each
 
 ***Summon.*** If you spend 1 minute playing the sitar, you can summon animals to fight by your side. This works like the *[[3rd-Circle Spells#Conjure Animals|conjure animals]]* spell, except you can summon only 1 elephant, 1d2 tigers, or 2d4 wolves.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain · Resonant Trunk · Imitative Vocal Cords
+
 Part of [[Instruments]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ This finely balanced scimitar has an elaborate brass hilt. You gain a +2 bonus o
 
 When you roll a 20 on an attack roll made with this weapon, the target is overcome with the desire for mutiny. On the target’s next turn, it must make one attack against its nearest ally, then the effect ends, whether or not the attack was successful.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain · Wicked Bone
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -21,6 +21,8 @@ Phase mirrors connected to planes without moonlight or starlight can be recharge
 
 ***Floor (Legendary).*** This mirror is about 5 feet wide. Up to seven creatures can attune to it, and it must spend at least 56 total hours (approximately 7 days) exposed to moonlight or starlight before it can be activated.
 
+[[Crafting Magic Items|Made with]]: Teleport Tracer · Photoadaptive Hide · Spectral Essence. Use as many as the version's rarity calls for.
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

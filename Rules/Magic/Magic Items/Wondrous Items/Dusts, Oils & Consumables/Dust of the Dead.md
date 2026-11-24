@@ -11,6 +11,8 @@ When you use an action to sprinkle the dust on a willing humanoid, the target fa
 
 If the target is unwilling, it must succeed on a DC 11 CON save to avoid the effect of the dust. A sleeping creature is considered an unwilling target.
 
+[[Crafting Magic Items|Made with]]: Eternal’s Humor
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

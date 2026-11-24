@@ -15,6 +15,8 @@ This dreaded item is a black flag painted with an unsettlingly realistic skull. 
 
 When a creature that isn’t a construct or undead and isn’t part of the crew boards the vessel, it must succeed on a DC 17 CON save or be [[Conditions#Poisoned|poisoned]] while it remains on board. If the creature exits the vessel and boards it again, the creature must repeat the save.
 
+[[Crafting Magic Items|Made with]]: Eternal’s Humor · Spectral Essence · Unliving Claw
+
 Part of [[Banners]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

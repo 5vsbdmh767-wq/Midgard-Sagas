@@ -9,6 +9,8 @@ Carved from a single piece of solid crystal, this staff has numerous reflective 
 
 The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the crystal shatters, destroying the staff and dealing 2d6 piercing damage to each creature within 10 feet of it.
 
+[[Crafting Magic Items|Made with]]: Scintillating Hide · Elemental Gemstone · Aberrant Brain
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

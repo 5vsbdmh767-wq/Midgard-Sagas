@@ -9,6 +9,8 @@ This arrow is a magic weapon powered by the sacrifice of your own life energy an
 
 Hit Dice spent on this arrow’s feature can’t be used to regain hit points during a short rest. You regain spent Hit Dice as normal.
 
+[[Crafting Magic Items|Made with]]: Hardened Blood
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

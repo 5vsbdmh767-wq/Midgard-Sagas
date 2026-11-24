@@ -11,6 +11,8 @@ When you hit a creature with a melee attack with this magic weapon, you can expe
 
 ***Warrant.*** You can use an action to slip an officially issued warrant under the cords of the grip of this weapon. While it has a warrant in it, the weapon deals an extra 1d6 bludgeoning damage when you hit the creature listed in the warrant with this weapon. The tipstaff can have only one warrant in it at a time, and the warrant can name no more than three creatures.
 
+[[Crafting Magic Items|Made with]]: Demonic Thread · Resonant Trunk
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

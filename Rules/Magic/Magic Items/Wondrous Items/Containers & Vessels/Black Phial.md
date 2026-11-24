@@ -9,6 +9,8 @@ This black stone phial has a tightly fitting stopper and 3 charges. As an action
 
 The phial regains 1d3 expended charges daily at midnight. If you expend the phial’s last charge, roll a d20. On a 1, the phial crumbles into dust and is destroyed.
 
+[[Crafting Magic Items|Made with]]: vampire blood
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ You gain a +1 bonus to AC while you wield this tome as a shield. This bonus is i
 
 ***Verse of Vengeance.*** As a reaction when a creature hits you with a melee attack or when you hit a creature with the tome, you can shout a verse of vengeance, and the target takes 1d4 radiant damage. Such verses include, “Surrender and know divine mercy!”, “Repent! The hour of judgment is upon you!”, “Confess and be purged from your unrighteousness!” or similar verse appropriate to your deity.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · Scroll Parchment
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

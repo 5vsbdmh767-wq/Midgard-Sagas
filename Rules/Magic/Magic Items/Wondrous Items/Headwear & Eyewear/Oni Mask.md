@@ -11,6 +11,8 @@ This horned mask is fashioned into the fearsome likeness of a pale oni. The mask
 
 ***Change Shape.*** You can expend 3 charges as an action to magically polymorph into a Small or Medium humanoid, into a Large giant, or back into your true form. Other than your size, your statistics are the same in each form. The only equipment that is transformed is your weapon, which enlarges or shrinks so that it can be wielded in any form. If you die, you revert to your true form, and your weapon reverts to its normal size.
 
+[[Crafting Magic Items|Made with]]: Fiend Vellum · oni horn
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

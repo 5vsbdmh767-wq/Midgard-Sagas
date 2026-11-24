@@ -11,6 +11,8 @@ When you finish a long rest while wearing this amulet, you can choose one cantri
 
 ***Eternal Gift.*** The amulet can’t be taken from you against your will. If you want to part with the amulet, you must donate it willingly. If you exchange the amulet for money or some other good or service, you have disadvantage on WIS checks and WIS saves until the next dawn, at which time the amulet reappears on your person. At the GM’s discretion, the amulet can be exchanged in return for a service such as saving a life, rebuilding a burned home, or other selfless service.
 
+[[Crafting Magic Items|Made with]]: eye of a creature that sees fate · Celestial Feather
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

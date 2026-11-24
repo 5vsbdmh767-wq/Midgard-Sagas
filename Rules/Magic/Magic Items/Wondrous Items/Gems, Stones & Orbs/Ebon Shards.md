@@ -11,6 +11,8 @@ The shards have 10 charges and give you access to a powerful array of Void magic
 
 The shards regain 1d6 + 4 expended charges daily at dusk. Each time you use the ebon shards to cast a spell, you must succeed on a DC 12 CHA save or take 2d6 psychic damage.
 
+[[Crafting Magic Items|Made with]]: Void Essence · Aberrant Brain · Otherworldly Slime
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

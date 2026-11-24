@@ -7,6 +7,8 @@ publish: true
 
 When you hit with an attack using this magic spear, the target takes an extra 1d6 poison damage. In addition, while you hold the spear, you have advantage on DEX (Acrobatics) checks.
 
+[[Crafting Magic Items|Made with]]: serpent venom
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

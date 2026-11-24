@@ -7,6 +7,8 @@ publish: true
 
 This crystal-clear beverage tastes like a warm hug. For 8 hours after you consume this beverage, when you are reduced to 0 hit points, you regain 20 hit points. Then the beverage’s effect ends.
 
+[[Crafting Magic Items|Made with]]: phoenix tears · Celestial Blood
+
 Part of [[Fantastical Foods]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ Green gas swirls inside this slender, glass wand. The wand has 7 charges for the
 
 ***Gaseous Escape.*** When you are attacked while holding this wand, you can use your reaction to expend 3 of its charges to transform yourself and everything you are wearing and carrying into a cloud of green mist until the start of your next turn. While you are a cloud of green mist, you have resistance to nonmagical damage, and you can’t be [[Conditions#Grappled|grappled]] or [[Conditions#Restrained|restrained]]. While in this form, you also can’t talk or manipulate objects, any objects you were wearing or holding can’t be dropped, used, or otherwise interacted with, and you can’t attack or cast spells.
 
+[[Crafting Magic Items|Made with]]: Stench Gland · Shrouding Hide
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

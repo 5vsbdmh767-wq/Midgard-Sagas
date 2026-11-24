@@ -25,6 +25,8 @@ If you press button 5, the rod assumes or remains in its normal form and you can
 
 ***Create Specter.*** As an action, you can target a humanoid within 10 feet of you that was killed by the rod or one of its effects and has been dead for no longer than 1 minute. The target’s spirit rises as a specter under your control in the space of its corpse or in the nearest unoccupied space. You can have no more than one specter under your control at one time. Once used, this property can’t be used again until the next dusk.
 
+[[Crafting Magic Items|Made with]]: Demonic Thread · Unliving Claw · Eternal’s Humor
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

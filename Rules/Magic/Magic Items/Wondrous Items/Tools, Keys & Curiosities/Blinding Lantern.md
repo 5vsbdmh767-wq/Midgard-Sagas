@@ -11,6 +11,8 @@ You must use two hands to direct the lights precisely into the eyes of a foe. Th
 
 By opening the shutter on the opposite side, the device functions as a normal bullseye lantern, yet illuminates magically, requiring no fuel and giving off no heat.
 
+[[Crafting Magic Items|Made with]]: Illuminating Essence
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -18,6 +18,8 @@ A lesser golem created via a *manual of the lesser golem* is not immortal. The m
 | 14–17 | Glass | 10 days | 2,000 gp |
 | 18–20 | Wood | 15 days | 20,000 gp |
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Scroll Parchment
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

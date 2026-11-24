@@ -9,6 +9,8 @@ This iron-shod wooden staff is heavily worn, and it can be wielded as a quarters
 
 While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: *[[Rituals 1st–3rd Circle#Arcane Lock|arcane lock]]* (2 charges), *[[4th-Circle Spells#Dimension Door|dimension door]]* (4 charges), *[[2nd-Circle Spells#Knock|knock]]* (2 charges), or *[[5th-Circle Spells#Passwall|passwall]]* (5 charges).
 
+[[Crafting Magic Items|Made with]]: blood of a plane-walking creature · Teleport Tracer · Shadowporting Blood
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

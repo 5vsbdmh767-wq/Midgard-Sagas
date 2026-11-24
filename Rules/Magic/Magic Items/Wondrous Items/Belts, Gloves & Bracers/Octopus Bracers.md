@@ -13,6 +13,8 @@ While your arms are tentacles, you can’t wield weapons that require two hands,
 
 When the bracers’ property has been used for a total of 10 minutes, the magic ceases to function until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Extraordinary Limb
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

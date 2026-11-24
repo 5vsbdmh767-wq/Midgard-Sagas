@@ -11,6 +11,8 @@ If you wish to retrace your steps, you can use a bonus action to activate the wa
 
 The wand regains all expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a roll of 1, the wand straightens and the arrow falls off, rendering it nonmagical.
 
+[[Crafting Magic Items|Made with]]: Minotaur Brain
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

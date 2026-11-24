@@ -13,6 +13,8 @@ It has 3 charges. While holding the staff, you can use an action to expend 1 or 
 
 The staff regains 1d3 expended charges daily at dawn. Once daily, it can regain 1 expended charge by exposing the staff’s pearl to moonlight for 1 minute.
 
+[[Crafting Magic Items|Made with]]: silver dragon claw
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -13,6 +13,8 @@ The staff has 10 charges for the following properties. It regains 1d6 + 4 expend
 
 ***Thorned Strike.*** When you hit with a melee attack using the staff, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra 1d6 piercing damage.
 
+[[Crafting Magic Items|Made with]]: Primeval Sap · Teratoid Bark · Throwing Spine
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

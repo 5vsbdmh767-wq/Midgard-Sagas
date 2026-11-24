@@ -9,6 +9,8 @@ While wearing this steam-powered magic armor, you gain a +1 bonus to AC, your ST
 
 ***Curse.*** Once attuned to this armor, you can’t remove it unless you are the subject of a *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic. As long as you remain cursed, while wearing the armor, you gain an unnatural aura, causing all animals to panic when you are within 30 feet of them. You also gain disadvantage on attack rolls against incorporeal undead and on saves made against their spells and abilities.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Eternal’s Humor · Whirling Gizmo
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

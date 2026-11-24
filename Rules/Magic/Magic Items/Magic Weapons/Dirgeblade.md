@@ -11,6 +11,8 @@ This weapon, when unsheathed, sheds dim blue light in a 20-foot radius. When you
 
 Once a month under an open sky, you can use a bonus action to speak this magic sword’s command word and cause the sword to sing a sad dirge. This dirge conjures heavy rain (or snow in freezing temperatures) in the region for 2d6 hours. The precipitation falls in an X-mile radius around you, where X is equal to your level.
 
+[[Crafting Magic Items|Made with]]: Voltaic Organ · Elemental Gemstone (air) · Imitative Vocal Cords
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

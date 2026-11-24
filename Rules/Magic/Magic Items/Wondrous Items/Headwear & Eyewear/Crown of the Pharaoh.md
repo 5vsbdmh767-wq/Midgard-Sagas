@@ -13,6 +13,8 @@ The swirling gold bands of this crown recall the shape of desert dunes, and doze
 
 - While you are wearing no armor and not wielding a shield, your AC equals 16 + your DEX modifier.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain · gynosphinx brain · Eternal’s Humor (mummy)
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

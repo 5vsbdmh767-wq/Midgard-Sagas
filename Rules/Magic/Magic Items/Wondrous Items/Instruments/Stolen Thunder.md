@@ -17,6 +17,8 @@ If you are hit by a melee attack while using the drum as a shield, you can use a
 
 ***Thunderwave.*** You can expend 1 or more of its charges as an action to cast the *[[1st-Circle Spells#Thunderwave|thunderwave]]* spell from it, using your spell save DC. For 1 charge, you cast the 1st-circle version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 
+[[Crafting Magic Items|Made with]]: Voltaic Organ · Resonant Trunk · mammoth skin
+
 Part of [[Instruments]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

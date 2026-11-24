@@ -11,6 +11,8 @@ Delicate web-like designs are carved into the wood of this twisted staff, which 
 
 ***Spider Swarm.*** While holding the staff, you can use an action and expend 1 charge to cause a swarm of spiders to appear in a space that you can see within 60 feet of you. The swarm is friendly to you and your companions but otherwise acts on its own. The swarm of spiders remains for 1 minute, until you dismiss it as an action, or until you move more than 100 feet away from it.
 
+[[Crafting Magic Items|Made with]]: Gripping Spikes · giant spider silk
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

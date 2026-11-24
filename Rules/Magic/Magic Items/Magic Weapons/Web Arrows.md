@@ -11,6 +11,8 @@ The webs created by the arrows are difficult terrain and lightly obscure the are
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
 
+[[Crafting Magic Items|Made with]]: Adhesive Slime
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

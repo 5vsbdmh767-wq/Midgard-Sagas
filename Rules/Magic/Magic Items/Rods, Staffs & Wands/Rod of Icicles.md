@@ -11,6 +11,8 @@ While holding the rod, you can use an action to expend 1 of its charges to attac
 
 If you take fire damage while holding this rod, you become immune to fire damage for 1 minute, and the rod loses 2 charges. If the rod has only 1 charge remaining when you take fire damage, you become immune to fire damage, as normal, but the rod melts into a puddle of water and is destroyed.
 
+[[Crafting Magic Items|Made with]]: Breath Pouch (a cold-breathing dragon) · Ice Splinter
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

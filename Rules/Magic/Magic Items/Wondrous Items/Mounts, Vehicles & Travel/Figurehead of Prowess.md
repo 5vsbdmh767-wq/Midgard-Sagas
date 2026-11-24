@@ -27,6 +27,8 @@ Most figureheads are always active, but some have properties that must be activa
 
 ***Xorn (Very Rare).*** This figurehead can be mounted only on a ship designed for land travel. While this figurehead is mounted on a ship, the pilot can force the ship to burrow into the earth. The ship moves at its normal speed while burrowing, regardless of its normal method of locomotion. The ship can burrow through nonmagical, unworked sand, mud, earth, and stone, and it doesn’t disturb the material it moves through. Each creature on the ship remains on the ship and can breathe normally as long as the creature starts and ends its turn in contact with the ship. The pilot can end this effect as a bonus action, causing the ship to resurface at a rate of 60 feet per round. When the ship has spent a total of 1 hour burrowing, the figurehead’s magic ceases to function until the next dawn.
 
+[[Crafting Magic Items|Made with]]: parts of the creature the figurehead depicts · Besieging Plating · Flippers. Use as many as the version's rarity calls for.
+
 Part of [[Mounts, Vehicles & Travel]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

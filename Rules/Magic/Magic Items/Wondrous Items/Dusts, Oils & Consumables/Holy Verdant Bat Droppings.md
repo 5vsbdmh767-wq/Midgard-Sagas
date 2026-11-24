@@ -13,6 +13,8 @@ This ceramic jar, 3 inches in diameter, contains 1d4 +1 doses of a thick mixture
 
 - Regains 50 hit points
 
+[[Crafting Magic Items|Made with]]: verdant bat guano
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

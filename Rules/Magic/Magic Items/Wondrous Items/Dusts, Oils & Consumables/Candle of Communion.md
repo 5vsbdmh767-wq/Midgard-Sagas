@@ -9,6 +9,8 @@ This black candle burns with an eerie, violet flame. The candle’s magic is act
 
 Alternatively, when you light the candle for the first time, you can cast the *[[Rituals 1st–3rd Circle#Speak with Dead|speak with dead]]* spell with it. Doing so destroys the candle.
 
+[[Crafting Magic Items|Made with]]: Spectral Essence
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

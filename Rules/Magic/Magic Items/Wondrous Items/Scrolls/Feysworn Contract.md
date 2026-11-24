@@ -9,6 +9,8 @@ This long scroll is written in flowing Elvish, the words flickering with a pale 
 
 Should you and the fey reach an agreement that is satisfactory to both parties, you must sign the agreement and have the fey do likewise (or make its mark, if it has no form of writing). The writing on the scroll changes to reflect the terms of the agreement struck. The magic of the charter holds both you and the fey to the agreement until its service is rendered and the reward paid, at which point the scroll fades into nothingness. Fey are notoriously clever folk, and while they must adhere to the letter of any bargains they make, they always look for any advantage in their favor. If either party breaks the bargain, that creature immediately takes 10d6 poison damage, and the charter is destroyed, ending the contract.
 
+[[Crafting Magic Items|Made with]]: Fey Tongue
+
 Part of [[Scrolls]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

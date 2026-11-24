@@ -7,6 +7,8 @@ publish: true
 
 This white pearl shines iridescently in almost any light. While underwater and grasping the pearl, you have resistance to cold damage and to bludgeoning damage from nonmagical attacks.
 
+[[Crafting Magic Items|Made with]]: Bizarre Cartilage (a sea Monstrosity) · Thick Hide
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

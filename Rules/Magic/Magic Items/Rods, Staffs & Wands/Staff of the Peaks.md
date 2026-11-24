@@ -13,6 +13,8 @@ The staff has 10 charges for the following properties. It regains 1d6 + 4 expend
 
 ***Stone Strike.*** When you hit a creature or object made of stone or earth with this staff, you can expend 5 of its charges to shatter the target. The target must make a DC 17 CON save, taking an extra 10d6 force damage on a failed save, or half as much damage on a successful one. If the target is an object that is being worn or carried, the creature wearing or carrying it must make the save, but only the object takes the damage. If this damage reduces the target to 0 hit points, it shatters and is destroyed.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (earth) · roc feathers · Colossal Tendon
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

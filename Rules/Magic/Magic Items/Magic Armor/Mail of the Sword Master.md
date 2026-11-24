@@ -7,6 +7,8 @@ publish: true
 
 While wearing this armor, the maximum DEX modifier you can add to determine your AC is 4, instead of 2. While wearing this armor, if you are wielding a sword and no other weapons, you gain a +2 bonus to damage rolls with that sword.
 
+[[Crafting Magic Items|Made with]]: Insectoid Carapace
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

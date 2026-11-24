@@ -7,6 +7,8 @@ publish: true
 
 While wearing this circlet, you have advantage on CHA (Persuasion) checks.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ Made of strips of black leather, this cloak always shines as if freshly oiled. T
 
 Alternatively, you can use a bonus action to command the strips to aid you in grappling. If you do, you have advantage on your next attack roll made to grapple a creature. While grappling a creature in this way, you have advantage on the contested check if a creature attempts to escape your grapple.
 
+[[Crafting Magic Items|Made with]]: Extraordinary Limb · Living Tendril · Adhesive Slime
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ This small packet contains black pollen from a gloomflower. Hazy images swirl ar
 
 A creature reduced to 0 hit points by the dust’s psychic damage falls [[Conditions#Unconscious|unconscious]] and is stable. When the creature regains consciousness, it is permanently plagued by hallucinations and has disadvantage on ability checks until cured by a *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic.
 
+[[Crafting Magic Items|Made with]]: Gloompetal
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

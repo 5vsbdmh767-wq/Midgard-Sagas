@@ -11,6 +11,8 @@ This stout, oaken staff is 7 feet long, bound in iron, and topped with a carving
 
 ***Throw Boulder.*** You can use an action to expend up to 3 of the staff’s charges to force the staff's hand to grasp an object within 5 feet of you that is no larger than a Small boulder and hurl it at a point you can see within 100 feet of you. Each creature within 5 feet of that point must make a DEX save, using your spell save DC. For each charge you expend, a creature takes 1d10 bludgeoning damage on a failed save, or half as much damage on a successful one.
 
+[[Crafting Magic Items|Made with]]: Primordial Humor · Colossal Tendon
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

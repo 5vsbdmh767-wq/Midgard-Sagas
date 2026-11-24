@@ -13,6 +13,8 @@ You can use an action to touch the book to an object you wish to catalogue. The 
 
 ***Seek Object.*** If you and a catalogued object are on the same plane of existence, you can teleport to the object’s location. This property works like the *[[7th-Circle Spells#Teleport|teleport]]* spell, except you teleport only yourself and you treat the object’s location as “very familiar.” Once used, you can’t use this property again until 7 days have passed.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain · Excavator Eye
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

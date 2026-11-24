@@ -9,6 +9,8 @@ You gain a +1 bonus to attack and damage rolls with this magic weapon. When you 
 
 The lance has 3 charges. As part of an attack action with the lance, you can expend a charge while striking a barrier created by a spell, such as a wall of fire or wall of force, or an entryway protected by the *[[Rituals 1st–3rd Circle#Arcane Lock|arcane lock]]* spell. You must make a STR check against a DC equal to to 10 + the spell’s circle. On a successful check, the spell ends. The lance regains 1d3 expended charges daily at dawn.
 
+[[Crafting Magic Items|Made with]]: Besieging Plating · Trampling Hoof
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ This spirit honey is made from flowers that bloom in undead-filled graveyards, o
 
 ***Insight.*** At the end of the spirit honey’s duration, choose a corpse within 10 feet of you. You give the corpse a semblance of life and intelligence, allowing it to answer your questions. This works like the *[[Rituals 1st–3rd Circle#Speak with Dead|speak with dead]]* spell, except the corpse must answer truthfully, even if it recognizes you as an enemy.
 
+[[Crafting Magic Items|Made with]]: no monster parts; spirit honey from graveyard and battlefield flowers.
+
 Part of [[Spirit Honey]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

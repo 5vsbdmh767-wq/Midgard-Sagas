@@ -22,6 +22,8 @@ A creature with truesight or that uses its action to examine the illusion can de
 | 9 | Hezrou or psoglav demon |
 | 10 | Remorhaz or voidling |
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

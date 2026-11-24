@@ -9,6 +9,8 @@ This honey wine is marked by threads of some flowery, bright red strands that gi
 
 In addition, you leave fiery footprints on any solid surface, and WIS (Survival) checks made to track you succeed automatically. Any flammable object you touch ignites if you hold it long enough: instantly for sawdust or oil, after 1 round for sticks or dry cloth, or after 1 minute for more difficult fuel, such as damp logs or wet peat. Your footprints don’t burn the surface where you walk, and your fiery touch doesn’t harm creatures.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (fire)
+
 Part of [[Fantastical Foods]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

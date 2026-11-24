@@ -17,6 +17,8 @@ While wearing this ring, you can use an action to spend one or more Hit Dice, up
 
 Hit Dice spent on this ring’s features can’t be used to regain hit points during a short rest. You regain spent Hit Dice as normal.
 
+[[Crafting Magic Items|Made with]]: Troll Heart
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ The shadow emanates from the censer and moves with it. Completely enveloping the
 
 Once the censer is used to emit shadow, it can’t do so again until the next dusk.
 
+[[Crafting Magic Items|Made with]]: Shadowporting Blood
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ These two enchanted brass tablets each have gold styli chained to them by small,
 
 When the tablets have transferred a total of 150 words between them, their magic ceases to function until the next dawn. If one of the tablets is destroyed, the other one becomes a nonmagical block of brass worth 25 gp.
 
+[[Crafting Magic Items|Made with]]: Teleport Tracer
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

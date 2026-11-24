@@ -7,6 +7,8 @@ publish: true
 
 These bracers have the graven image of a bull’s head on them. Your STR score is 19 while you wear these bracers. It has no effect on you if your STR is already 19 or higher. In addition, when you use the Attack action to shove a creature, you have advantage on the STR (Athletics) check.
 
+[[Crafting Magic Items|Made with]]: Colossal Tendon
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

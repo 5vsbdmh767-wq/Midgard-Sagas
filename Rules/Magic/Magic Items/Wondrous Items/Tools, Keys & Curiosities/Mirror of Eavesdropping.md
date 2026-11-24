@@ -11,6 +11,8 @@ While holding the *mirror of eavesdropping* within 1 mile of its connected mirro
 
 When the mirror has been active for a total of 10 minutes, you can’t activate it again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Imitative Vocal Cords · Everwatchful Eyes
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

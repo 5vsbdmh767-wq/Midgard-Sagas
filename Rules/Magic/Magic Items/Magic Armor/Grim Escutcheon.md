@@ -9,6 +9,8 @@ This blackened iron shield is adorned with the menacing relief of a monstrously 
 
 While holding this shield, you can use a bonus action to speak its command word to cast the *[[3rd-Circle Spells#Fear|fear]]* spell (save DC 13). The shield can’t be used this way again until the next dusk.
 
+[[Crafting Magic Items|Made with]]: Unliving Claw
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

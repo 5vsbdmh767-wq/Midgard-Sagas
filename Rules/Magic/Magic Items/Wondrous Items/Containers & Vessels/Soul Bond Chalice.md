@@ -21,6 +21,8 @@ As a 1-minute ritual, you and another creature that isn’t a construct or undea
 
 - If your bonded partner dies, you must make a DC 15 CON save. On a failure, you drop to 0 hit points. On a success, you are [[Conditions#Stunned|stunned]] until the end of your next turn by the shock of the bond suddenly being broken. Once the chalice has been used to bond two creatures, it can’t be used again until 7 days have passed.
 
+[[Crafting Magic Items|Made with]]: Celestial Blood · Celestial Feather · raven feathers from a Fey
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

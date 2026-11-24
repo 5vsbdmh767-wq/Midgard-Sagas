@@ -15,6 +15,8 @@ The ring has 6 charges for the following properties. It regains 1d6 charges dail
 
 ***Shimmering Bolt.*** While wearing the ring, you can use an action to expend 1 to 3 of its charges to attack one creature you can see within 60 feet of you. The ring produces a bolt of silvery light and makes its attack roll with a +7 bonus. On a hit, the target takes 2d6 radiant damage for each charge you expend.
 
+[[Crafting Magic Items|Made with]]: Scintillating Hide · Illuminating Essence
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -31,6 +31,8 @@ While wielding this glaive, you can use an action to cast the *[[5th-Circle Spel
 
 **17th Level.** You gain a +3 bonus to attack and damage rolls with this glaive, instead of +2. In addition, you can now cast the *[[5th-Circle Spells#Dominate|dominate]]* spell (save DC 17) from the glaive at will on a beast that has an innate swimming speed. You can have only one beast dominated at a time. If you dominate another, the spell on the previous target ends.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

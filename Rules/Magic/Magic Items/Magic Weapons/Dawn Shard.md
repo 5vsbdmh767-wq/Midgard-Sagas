@@ -9,6 +9,8 @@ The blade of this magic weapon gleams with a faint golden shine, and the pommel 
 
 The weapon deals an extra 1d6 radiant damage to any creature it hits. This increases to 2d6 radiant damage if the target is undead or a creature of shadow.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ While this bezoar sits in your stomach, you are immune to the [[Conditions#Blind
 
 ***Curse.*** The animals—and even the forest spirits that you can now see floating and cavorting all around—are chattier and more distracting than would be ideal. You have disadvantage on WIS (Perception) checks.
 
+[[Crafting Magic Items|Made with]]: Bezoar (screech owlbear) · Fey Tongue
+
 Part of [[Bezoars]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

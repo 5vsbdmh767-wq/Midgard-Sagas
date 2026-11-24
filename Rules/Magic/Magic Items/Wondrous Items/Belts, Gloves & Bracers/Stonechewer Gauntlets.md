@@ -9,6 +9,8 @@ These impractically spiked gauntlets are made from adamantine, are charged with 
 
 ***Stone Burrow.*** You can use an action to speak the command word to gain a burrowing speed of 10 feet for 10 minutes. You can burrow through earth and stone, leaving a tunnel in your wake large enough for a Medium creature to pass through (Large creatures have their speed halved from stooping). The tunnel collapses when you lose the burrowing speed. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (earth) · Rending Claws
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

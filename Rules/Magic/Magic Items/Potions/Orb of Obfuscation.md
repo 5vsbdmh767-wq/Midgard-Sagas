@@ -13,6 +13,8 @@ Typically, 1d4 +1 orbs of obfuscation are found together. You can use an action 
 
 ***Explosive Orb of Obfuscation (Rare).*** This oblong orb has a putty grey color with a stripe of yellow paint encircling it. When activated, this orb releases the same opaque grey gas as the orb of obfuscation. In addition to the effects of that gas, this orb also releases a burst of caustic chemicals on impact. Each creature within a 15-foot radius of where the orb landed must make a DC 15 DEX save, taking 4d4 acid damage on a failed save, or half as much damage on a successful one. If a creature fails this save, the chemicals cling to it for 1 minute. At the end of each of its turns, the creature must succeed on a DC 15 CON save or take 2d4 acid damage from the clinging chemicals. Any creature can take an action to remove the clinging chemicals with a successful DC 15 WIS (Medicine) check.
 
+[[Crafting Magic Items|Made with]]: Cephalopod Ink · Eruptive Sac. Use as many as the version's rarity calls for.
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

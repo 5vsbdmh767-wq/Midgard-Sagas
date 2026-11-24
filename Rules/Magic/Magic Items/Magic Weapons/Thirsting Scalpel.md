@@ -15,6 +15,8 @@ In addition, once every 7 days while the scalpel is on your person, you must suc
 
 The *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell removes your attunement to the item and frees you from the curse. Alternatively, casting the *[[4th-Circle Spells#Banishment|banishment]]* spell on the dagger forces the bearded devil’s essence to leave it. The scalpel then becomes a +1 dagger with no other properties.
 
+[[Crafting Magic Items|Made with]]: heart of a blood-drinking creature
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

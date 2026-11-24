@@ -18,6 +18,8 @@ This magic weapon imbues arrows fired from it with random energies. When you hit
 | 7 | Radiant |
 | 8 | Thunder |
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

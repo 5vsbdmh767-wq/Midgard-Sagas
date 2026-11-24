@@ -19,6 +19,8 @@ Etchings of flames adorn this breastplate, which is wrapped in chains of red gol
 
 - You can use an action to sense the direction of your killer. This works like the *[[Rituals 1st–3rd Circle#Locate|locate]]* spell, except you can sense only the creature that killed you. You rise as an undead only if your death was caused with intent; accidental deaths or deaths from unintended consequences (such as dying from a disease unintentionally passed to you) don’t activate this property of the armor. You exist in this deathly state for up to 1 week per Hit Die or until you exact revenge on your killer, at which time your body crumbles to ash and you finally die. You can be restored to life only by means of a true resurrection or *[[9th-Circle Spells#Wish|wish]]* spell.
 
+[[Crafting Magic Items|Made with]]: Fiendish Oil · Abnormal Leather · Demonic Thread
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

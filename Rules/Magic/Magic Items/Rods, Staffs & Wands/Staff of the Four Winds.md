@@ -9,6 +9,8 @@ Made of gently twisting ash and engraved with spiraling runes, the staff feels s
 
 The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff crumbles into ashes and is taken away with the breeze.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (air) · Bottled Lightning · roc feathers
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

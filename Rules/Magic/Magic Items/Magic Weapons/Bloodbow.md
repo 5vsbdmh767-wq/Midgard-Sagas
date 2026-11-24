@@ -11,6 +11,8 @@ The bow is designed to harm the particular type of creature whose blood most rec
 
 Bloodbows are most commonly soaked in the blood of bandits, thieves, or other humanoids. If you soak this weapon in the blood of a different type of creature for at least 1 hour, it ceases to affect the previous type of creature. The bow affects the new type of creature after you finish a long rest.
 
+[[Crafting Magic Items|Made with]]: Frenzying Oil · Hardened Blood
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

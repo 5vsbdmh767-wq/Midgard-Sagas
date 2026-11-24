@@ -15,6 +15,8 @@ This antique set of four nesting dolls is colorfully painted though a bit worn f
 
 ***The Cutest Doll.*** The smallest doll has the cutest, little, smiling face. As an action, you can speak the doll’s name and expend 1 charge to captivate nearby humanoids. Each humanoid within 15 feet of the doll and that can see it must succeed on a DC 15 WIS save or have disadvantage on WIS (Perception) checks made to perceive any creature or object other than doll for 1 minute. The spell ends early if a target can no longer see the doll. If a target takes damage, it can repeat the save, ending the effect on itself on a success.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Astralsupial Pouch
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

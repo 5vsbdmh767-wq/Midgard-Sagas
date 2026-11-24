@@ -9,6 +9,8 @@ This crucial piece of survival gear guarantees safe use of the most basic of con
 
 Once it has purified 3 cubic feet of food and drink, it can’t be used to do so again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Bezoar
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

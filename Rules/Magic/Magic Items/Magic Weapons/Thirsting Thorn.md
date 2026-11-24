@@ -13,6 +13,8 @@ Each time you reduce a creature to 0 hit points with this weapon, you can regain
 
 As long as you remain cursed, you are unwilling to part with the sword, keeping it within reach at all times. If you have not damaged a creature with this sword within the past 24 hours, you have disadvantage on attack rolls with weapons other than this one as its hunger for blood drives you to slake its thirst.
 
+[[Crafting Magic Items|Made with]]: corrupted treant wood · Eternal’s Humor
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

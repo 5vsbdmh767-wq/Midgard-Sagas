@@ -11,6 +11,8 @@ If you play the vielle as the somatic component for a spell that causes a target
 
 ***Spells.*** The vielle has 5 charges and regains 1d4 + 1 expended charges daily at dusk. While playing it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 15) from it: *[[4th-Circle Spells#Banishment|banishment]]* (4 charges), *[[Rituals 4th–6th Circle#Contact Other Plane|contact other plane]]* (5 charges), *[[Rituals 1st–3rd Circle#Magic Circle|magic circle]]* (3 charges), or *[[1st-Circle Spells#Protection from Evil and Good|protection from evil and good]]* (1 charge).
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain · Resonant Trunk
+
 Part of [[Instruments]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

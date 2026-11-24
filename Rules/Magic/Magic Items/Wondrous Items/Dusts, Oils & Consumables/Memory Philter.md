@@ -21,6 +21,8 @@ A memory philter can be used only once, but the vial can be reused to store a ne
 
 ***Youthful Joy.*** The target regains 3d8 + 6 hit points and reduces its [[Conditions#Exhaustion|exhaustion]] level by one. To create this philter, a humanoid must sacrifice a favored childhood memory.
 
+[[Crafting Magic Items|Made with]]: no monster parts; it's a mortal's memory, traded to the fey.
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

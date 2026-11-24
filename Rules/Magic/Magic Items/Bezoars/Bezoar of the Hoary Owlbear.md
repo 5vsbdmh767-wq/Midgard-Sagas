@@ -9,6 +9,8 @@ While this bezoar sits in your stomach, you have resistance to cold damage, and 
 
 ***Curse.*** The bezoar is not sitting well with you and triggers intense heartburn and nausea. When you would regain hit points for any reason (magical healing, resting, or similar), you instead regain only half the amount.
 
+[[Crafting Magic Items|Made with]]: Bezoar (hoary owlbear) · Thick Hide
+
 Part of [[Bezoars]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

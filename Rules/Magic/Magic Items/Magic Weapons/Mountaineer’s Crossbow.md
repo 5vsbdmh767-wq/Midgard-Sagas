@@ -11,6 +11,8 @@ While the grappling hook is attached to a surface and you are holding the crossb
 
 This cable has AC 12, 20 hit points, and immunity to all damage except acid, lightning, and slashing damage from adamantine weapons. If the cable drops to 0 hit points, the crossbow can’t be used in this way again until 24 hours have passed.
 
+[[Crafting Magic Items|Made with]]: Gripping Spikes
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

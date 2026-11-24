@@ -11,6 +11,8 @@ The tips of this twisted wooden wand are exceptionally withered. The wand has 7 
 
 ***Pain.*** While holding the wand, you can use an action to expend 3 charges to cause a creature you can see within 60 feet of you to become wracked with terrible pain. The target must succeed on a DC 15 CON save or take 4d6 necrotic damage, and its movement speed is halved for 1 minute. A pained creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. If the target is also suffering from the Affliction property of this wand, it has disadvantage on the save.
 
+[[Crafting Magic Items|Made with]]: Unliving Claw · Hag’s Blood
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

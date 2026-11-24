@@ -33,6 +33,8 @@ While wearing this armor, you can use an action to cast the *[[Cantrips#Acid Spl
 
 **17th Level.** You now gain a +3 bonus to AC, instead of +2. In addition, you can use an action to make yourself immune to acid damage for 10 minutes. Once used, the armor can’t be used in this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

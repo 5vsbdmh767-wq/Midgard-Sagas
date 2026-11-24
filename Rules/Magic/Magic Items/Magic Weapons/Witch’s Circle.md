@@ -11,6 +11,8 @@ This damask steel weapon is a simple ring with the interior edge dulled to rest 
 
 ***Witch’s Light.*** While holding this weapon, you can use an action to cast the *[[2nd-Circle Spells#Moonbeam|moonbeam]]* spell from it, using your spell save DC. You cast the 6th-circle version of the spell. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone · Elemental Gemstone (a second element) · Hag’s Blood
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

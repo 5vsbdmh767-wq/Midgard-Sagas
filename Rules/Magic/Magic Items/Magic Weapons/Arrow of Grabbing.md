@@ -9,6 +9,8 @@ This arrow has a barbed head and is wound with a fine but strong thread that unr
 
 As an action, you can attempt to pull the grabbed creature up to 10 feet in a straight line toward you, forcing the creature to repeat the save. If the creature fails, it moves up to 10 feet closer to you. If it succeeds, it takes 4d6 piercing damage and the arrow is dislodged.
 
+[[Crafting Magic Items|Made with]]: Extraordinary Limb · barbed bone from any Monstrosity
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

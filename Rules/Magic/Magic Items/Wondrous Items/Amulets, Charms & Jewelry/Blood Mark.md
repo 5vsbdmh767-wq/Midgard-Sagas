@@ -11,6 +11,8 @@ To replenish an expended charge in a blood mark, a humanoid must pledge a pint o
 
 Any person foolish enough to pledge more than a single blood coin might find the coins all redeemed at once, since such redemptions often happen at great blood feasts held by vampires and other undead.
 
+[[Crafting Magic Items|Made with]]: vampire blood
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

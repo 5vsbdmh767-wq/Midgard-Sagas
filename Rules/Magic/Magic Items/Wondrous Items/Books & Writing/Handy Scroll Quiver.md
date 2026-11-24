@@ -13,6 +13,8 @@ The quiver has a few limitations. If it is overloaded, or if a sharp object pier
 
 Placing the quiver inside an extradimensional space created by a *[[Bag of Holding|bag of holding]]*, handy haversack, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
 
+[[Crafting Magic Items|Made with]]: Astralsupial Pouch
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -7,6 +7,8 @@ publish: true
 
 This potion's pale blue fluid smells like salty air, and a seagull's feather floats in it. You can breathe air for 1 hour after drinking this potion. If you could already breathe air, this potion has no effect.
 
+[[Crafting Magic Items|Made with]]: lungs of an amphibious creature
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

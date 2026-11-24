@@ -13,6 +13,8 @@ A creature, including the restrained target, can use an action to make a DC 17 S
 
 Once used, the scroll can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · Scroll Parchment
+
 Part of [[Scrolls]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

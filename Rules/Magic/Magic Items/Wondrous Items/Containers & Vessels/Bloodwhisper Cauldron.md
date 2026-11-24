@@ -13,6 +13,8 @@ This ancient, oxidized cauldron sits on three stubby legs and has images of sacr
 
 ***Visions.*** If you spend at least 1 minute gazing into the bubbling liquid within the cauldron, you gain insight into your immediate future. You have advantage on the next 3 ability checks or saves you make within 1 hour of receiving these visions. Afterwards, the cauldron’s liquid disappears, and the cauldron must be refilled before you can use this property again.
 
+[[Crafting Magic Items|Made with]]: heart of a blood-drinking creature · Hag’s Blood · Hardened Blood
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

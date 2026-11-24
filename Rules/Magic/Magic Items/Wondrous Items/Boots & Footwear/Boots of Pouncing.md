@@ -9,6 +9,8 @@ These soft leather boots have a collar made of albino death weasel fur. While yo
 
 If you move at least 20 feet straight toward a creature and hit it with a melee weapon attack on the same turn, that target must succeed on a DC 13 STR save or be knocked [[Conditions#Prone|prone]]. If the target is [[Conditions#Prone|prone]], you can make one melee weapon attack against it as a bonus action.
 
+[[Crafting Magic Items|Made with]]: Trampling Hoof · albino death weasel fur
+
 Part of [[Boots & Footwear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

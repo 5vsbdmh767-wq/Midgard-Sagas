@@ -44,6 +44,8 @@ To determine what a creature transforms into, roll a d20 and consult the followi
 
 ***Destroying the Crucible.*** Anuraag's crucible can be destroyed if a celestial and a fiend, both of at least challenge rating 15, willingly allow themselves to be transformed at the same time. If this happens, the crucible can’t take the burden of transforming both creatures and shatters in a spectacular explosion that deals 20d6 piercing damage to all creatures in a 60-foot radius, or half as much damage with a successful DC 15 DEX save.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

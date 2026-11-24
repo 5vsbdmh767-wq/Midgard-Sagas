@@ -15,6 +15,8 @@ If an item spends a full hour dissolving in the alembic, its magical energy coal
 
 An *alembic of unmaking* can distill or disenchant one item per 24 hours.
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · Acrid Slag · Stone-Eating Acid
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

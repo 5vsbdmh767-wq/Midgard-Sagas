@@ -11,6 +11,8 @@ You gain a +1 bonus to attack and damage rolls made with this magic mace. When i
 
 Alternatively, you can use your reaction to expend 5 charges when you hit a Medium or smaller creature and force the mace to swallow the target. The target must succeed on a DC 15 DEX save or be swallowed into an extra-dimensional space within the mace. While swallowed, the target is [[Conditions#Blinded|blinded]] and [[Conditions#Restrained|restrained]], and it has total cover against attacks and other effects outside the mace. The target can still breathe. As an action, you can force the mace to regurgitate the creature, which falls [[Conditions#Prone|prone]] in a space within 5 feet of the mace. The mace automatically regurgitates a trapped creature at dawn when it regains charges.
 
+[[Crafting Magic Items|Made with]]: Unliving Claw · ghoul fangs · Eternal’s Humor
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

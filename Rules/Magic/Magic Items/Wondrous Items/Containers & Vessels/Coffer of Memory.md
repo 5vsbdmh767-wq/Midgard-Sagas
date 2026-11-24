@@ -9,6 +9,8 @@ This small golden box resembles a jewelry box and is easily mistaken for a commo
 
 If a *coffer of memory* is found with memories already stored inside it, a newly-attuned owner can view a randomly-selected stored memory with a successful DC 15 CHA check.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain · Minotaur Brain
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

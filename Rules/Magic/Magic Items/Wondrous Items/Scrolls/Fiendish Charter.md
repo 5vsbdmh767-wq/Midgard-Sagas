@@ -9,6 +9,8 @@ This long scroll bears the mark of a powerful creature of the Lower Planes, whet
 
 Should you and the fiend reach an agreement that is satisfactory to both parties, you must sign the charter in blood and have the fiend do likewise (or make its mark, if it has no form of writing). The writing on the scroll changes to reflect the terms of the agreement struck. The magic of the charter holds both you and the fiend to the agreement until its service is rendered and the reward paid, at which point the scroll ignites and burns into ash. The contract's wording should be carefully considered, as fiends are notorious for finding loopholes or adhering to the letter of the agreement to their advantage. If either party breaks the bargain, that creature immediately takes 10d6 necrotic damage, and the charter is destroyed, ending the contract.
 
+[[Crafting Magic Items|Made with]]: Fiend Vellum
+
 Part of [[Scrolls]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

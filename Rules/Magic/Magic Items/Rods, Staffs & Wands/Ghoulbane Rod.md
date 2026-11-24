@@ -11,6 +11,8 @@ As an action, you can plant the haft end of the rod in the ground, whereupon the
 
 The rod’s magic remains active while planted in the ground, and after it has been active for a total of 10 minutes, its magic ceases to function until the next dawn. A creature can use an action to pull the rod from the ground, ending the effect early for use at a later time. Deduct the time it was active in increments of 1 minute from the rod’s total active time.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · Unliving Claw
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

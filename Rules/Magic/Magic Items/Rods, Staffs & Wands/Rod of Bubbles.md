@@ -11,6 +11,8 @@ The bubble floats in the exact spot where it was conjured for up to 1 minute, un
 
 When not in use, this rod can be commanded to take liquid form and be stored in a small vial. The rod regains 1d3 expended charges daily at dawn.
 
+[[Crafting Magic Items|Made with]]: gas bladder from an aquatic Monstrosity · Slippery Slime
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

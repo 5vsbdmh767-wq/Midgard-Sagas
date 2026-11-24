@@ -20,6 +20,8 @@ Once airborne, each dragon head emits a blast of elemental energy appropriate to
 
 After the attack, the spinner flies up to 60 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet.
 
+[[Crafting Magic Items|Made with]]: dragon scales of four colors
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

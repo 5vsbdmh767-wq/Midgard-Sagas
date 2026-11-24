@@ -9,6 +9,8 @@ This armor was crafted from the hide of an ancient grizzly bear. While wearing i
 
 The armor has 3 charges. You can use a bonus action to expend 1 charge to deal your unarmed strike damage to a creature you are grappling. The armor regains all expended charges daily at dawn.
 
+[[Crafting Magic Items|Made with]]: ancient grizzly bear hide · Colossal Tendon
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

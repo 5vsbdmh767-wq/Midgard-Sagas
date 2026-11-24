@@ -9,6 +9,8 @@ This painting appears to be a well-rendered piece of scenery, devoid of subjects
 
 You remain unharmed if the painting is damaged, but if it is destroyed, you are immediately shunted into the nearest unoccupied space.
 
+[[Crafting Magic Items|Made with]]: ink from an extraplanar creature
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

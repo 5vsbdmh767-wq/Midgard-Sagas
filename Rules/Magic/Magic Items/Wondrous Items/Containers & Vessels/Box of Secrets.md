@@ -11,6 +11,8 @@ To gain access to a particular batch of contents, the correct side must be facin
 
 If any side of the box is destroyed completely, the contents that were stored through that side are lost. Likewise, if the entire box is destroyed, the contents are lost forever.
 
+[[Crafting Magic Items|Made with]]: Photoadaptive Hide · Astralsupial Pouch
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

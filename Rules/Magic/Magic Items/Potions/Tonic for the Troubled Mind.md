@@ -7,6 +7,8 @@ publish: true
 
 This potion smells and tastes of lavender and chamomile. When you drink it, it removes any short-term madness afflicting you, and it suppresses any long-term madness afflicting you for 8 hours.
 
+[[Crafting Magic Items|Made with]]: Chaos Nullifier
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

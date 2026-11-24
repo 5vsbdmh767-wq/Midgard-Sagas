@@ -13,6 +13,8 @@ You can’t use the whip to make attacks while it is restraining a target, and i
 
 When the whip has restrained creatures for a total of 1 minute, you can’t restrain a creature with the whip again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: venom from a deadly creature · Living Tendril · Poison Coil
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

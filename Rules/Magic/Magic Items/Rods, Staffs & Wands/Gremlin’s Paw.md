@@ -9,6 +9,8 @@ This wand is fashioned from the fossilized forearm and claw of a gremlin. The wa
 
 The wand regains 1d4 + 1 expended charges daily at dusk. If you expend the wand’s last charge, roll a d20. On a 20, you must succeed on a DC 15 WIS save or become afflicted with short-term madness. On a 1, the rod crumbles into ashes and is destroyed.
 
+[[Crafting Magic Items|Made with]]: Lock of Hag · gremlin forearm and claw
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

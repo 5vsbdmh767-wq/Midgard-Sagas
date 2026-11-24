@@ -18,6 +18,8 @@ While wielding the shield in an area of dim or bright light, you can use an acti
 | 5 | **Green.** The target takes 4d6 poison damage and is [[Conditions#Poisoned\|poisoned]] until the start of your next turn on a failed save, or half as much damage and is not poisoned on a successful one. |
 | 6 | **Shadow.** The target takes 4d6 necrotic damage and its STR score is reduced by 1d4 on a failed save, or half as much damage and does not reduce its STR score on a successful one. The target dies if this STR reduction reduces its STR to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. |
 
+[[Crafting Magic Items|Made with]]: Throat Scales (a dragon killed by shadow magic) · Insectoid Carapace · dragon wyrmling scales
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

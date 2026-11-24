@@ -11,6 +11,8 @@ The wraps have 10 charges. When you hit with an unarmed strike while wearing the
 
 The wraps regain 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the wraps unravel and fall to the ground, becoming nonmagical.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone · Throat Scales · Primordial Tar
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

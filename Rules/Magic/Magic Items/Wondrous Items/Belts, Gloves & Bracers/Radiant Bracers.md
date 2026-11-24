@@ -11,6 +11,8 @@ While wearing these bracers, you have resistance to necrotic damage, and you can
 
 The bracers can’t be used to turn undead again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · Eternal’s Humor
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

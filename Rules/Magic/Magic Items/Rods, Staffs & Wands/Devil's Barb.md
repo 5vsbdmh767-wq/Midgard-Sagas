@@ -13,6 +13,8 @@ The wand has 6 charges for the following properties. It regains 1d6 expended cha
 
 ***Devil's Sight.*** While holding the wand, you can expend 1 charge as an action to cast the *[[2nd-Circle Spells#Darkvision|darkvision]]* spell on yourself. Magical darkness doesn't impede this darkvision.
 
+[[Crafting Magic Items|Made with]]: barbed devil quill · Fiendish Oil (cold)
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

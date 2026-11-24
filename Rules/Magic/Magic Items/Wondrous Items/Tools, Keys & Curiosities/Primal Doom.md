@@ -15,6 +15,8 @@ You can use an action to throw the globe up to 30 feet. It shatters on impact an
 
 ***Primal Doom of Rage (Very Rare).*** This globe deals 6d6 psychic damage and summons a bone devil or glabrezu (your choice) on a failed save.
 
+[[Crafting Magic Items|Made with]]: Infernal Tears · Frenzying Oil · Fearful Eyedrops. Use as many as the version's rarity calls for.
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

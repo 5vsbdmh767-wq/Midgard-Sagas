@@ -15,6 +15,8 @@ This piece of dead, white brain coral glistens with a myriad of colors when plac
 
 ***Pink.*** On a failed save, the target takes 10d6 acid damage and is wracked with pain for 1 minute. On a successful save, the target takes half the damage and isn’t wracked with pain. While wracked with pain, the creature has disadvantage on ability checks, attack rolls, and saves. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 
+[[Crafting Magic Items|Made with]]: Scintillating Hide · Regenerative Coral · Elemental Gemstone
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

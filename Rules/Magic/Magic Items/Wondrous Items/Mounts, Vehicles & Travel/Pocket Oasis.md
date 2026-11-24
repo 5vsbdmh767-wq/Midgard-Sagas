@@ -9,6 +9,8 @@ When you unfold and throw this 5-foot by 5-foot square of black cloth into the a
 
 When creatures enter the extra-dimensional space, they are protected from effects and creatures outside the oasis as if they were in the space created by a *[[2nd-Circle Spells#Rope Trick|rope trick]]* spell, and a vine dangles from the opening in place of a rope, allowing access to the oasis. The effect lasts for 24 hours or until all the creatures leave the extra-dimensional oasis, whichever occurs first. Any creatures still inside the oasis at the end of 24 hours are harmlessly ejected. Once used, the pocket oasis can’t be used again for 24 hours.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (water) · Astralsupial Pouch · Primeval Sap
+
 Part of [[Mounts, Vehicles & Travel]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

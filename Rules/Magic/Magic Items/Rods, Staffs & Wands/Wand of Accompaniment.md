@@ -11,6 +11,8 @@ Tiny musical notes have been etched into the sides of this otherwise plain, wood
 
 ***Song.*** While holding the wand, you can use an action to expend 1 charge to cause the area within a 30-foot radius of you to fill with music for 1 minute. The type of music played is up to you, but it is performed flawlessly. Each creature in the area that can hear the music has advantage on saves against being [[Conditions#Deafened|deafened]] and against spells and effects that deal thunder damage.
 
+[[Crafting Magic Items|Made with]]: throat of a magical singer · Imitative Vocal Cords · Shadhavar Horn
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ The tip of this twisted clear glass wand is razor-sharp. It can be wielded as a 
 
 This wand has 5 charges and regains 1d4 + 1 charges daily at dawn. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 17): *[[Rituals 1st–3rd Circle#Arcane Lock|arcane lock]]* (2 charges), *[[1st-Circle Spells#Disguise Self|disguise self]]* (1 charge), or *[[3rd-Circle Spells#Tongues|tongues]]* (3 charges).
 
+[[Crafting Magic Items|Made with]]: Broodpact Paste · Imitative Vocal Cords
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

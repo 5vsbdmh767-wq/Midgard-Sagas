@@ -9,6 +9,8 @@ This sling stone is carved with an open mouth that screams in hellish torment wh
 
 Once a sling stone of screeching has dealt its damage to a creature, it becomes a nonmagical sling stone.
 
+[[Crafting Magic Items|Made with]]: Resonant Trunk
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

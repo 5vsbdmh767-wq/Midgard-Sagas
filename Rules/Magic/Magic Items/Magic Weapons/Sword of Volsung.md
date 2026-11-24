@@ -21,6 +21,8 @@ Upon completing the Dragon Heart Ritual, the sword contains all remaining charge
 
 The sword regains all expended charges after you slay any dragon. For the purpose of this sword, “dragon” refers to any creature with the dragon type, including drakes and wyverns.
 
+[[Crafting Magic Items|Made with]]: heart of an ancient dragon · Throat Scales · Colossal Tendon
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

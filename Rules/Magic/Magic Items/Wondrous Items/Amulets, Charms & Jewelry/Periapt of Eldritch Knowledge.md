@@ -11,6 +11,8 @@ If the spell on the spell scroll isn’t on your class’s spell list, you can�
 
 The pendant can hold only one scroll at a time, and you can remove or replace the spell scroll in the pendant as an action. When you remove or replace the spell scroll, you don’t immediately regain spell slots expended on the scroll’s spell. You regain expended spell slots as normal for your class.
 
+[[Crafting Magic Items|Made with]]: Scroll Parchment
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

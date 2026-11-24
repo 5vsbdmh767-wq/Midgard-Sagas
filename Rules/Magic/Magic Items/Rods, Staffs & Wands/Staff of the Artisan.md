@@ -13,6 +13,8 @@ The staff has 10 charges for the following properties. It regains 1d6 + 4 expend
 
 ***Spells.*** While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: *[[5th-Circle Spells#Animate Objects|animate objects]]* (5 charges), *[[Rituals 4th–6th Circle#Fabricate|fabricate]]* (4 charges) or *[[1st-Circle Spells#Floating Disk|floating disk]]* (1 charge). You can also use an action to cast the *[[Cantrips#Mending|mending]]* spell from the staff without using any charges.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Multitool Component
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

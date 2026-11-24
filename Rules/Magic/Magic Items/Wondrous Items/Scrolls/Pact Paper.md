@@ -9,6 +9,8 @@ This smooth paper is like vellum but is prepared from dozens of scales cast off 
 
 Once a contract has been locked in place and signed, the paper can’t be cleared. If the contract has a duration or stipulation for its end, the pact paper is destroyed when the contract ends, releasing all signatories from any further obligations and immediately ending any effects on them.
 
+[[Crafting Magic Items|Made with]]: pact drake scales
+
 Part of [[Scrolls]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

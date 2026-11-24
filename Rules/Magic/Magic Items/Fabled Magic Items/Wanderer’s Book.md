@@ -25,6 +25,8 @@ The book contains simple stories of the local region, its history, and its relig
 
 **17th Level.** Your WIS score increases by 2, to a maximum of 20. If you die from a cause other than old age while attuned to this book, your memories appear on its pages, and your soul enters the book, unless the book already houses a soul. You can remain in the book or depart for the afterlife. While your soul inhabits the book, you are aware of your surroundings as if you were in the book’s space, you can’t move or take any actions, and you can telepathically communicate with any creature holding the book. As long as your soul is in the book, you can be restored to life, such as with the *[[Rituals 4th–6th Circle#Raise Dead|raise dead]]* and *[[Rituals 7th–9th Circle#Resurrection|resurrection]]* spells. Your body doesn’t need to be present, but the spellcaster must touch this book as part of the casting. When restored to life in this way, your body reforms, fully intact, in an unoccupied space within 10 feet of the book.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

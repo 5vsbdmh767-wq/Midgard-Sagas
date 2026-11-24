@@ -9,6 +9,8 @@ You gain a +1 bonus on attack and damage rolls made with this magic weapon. The 
 
 When you hit an undead creature with this magic weapon, treat that creature as if it is vulnerable to bludgeoning damage. If it is already vulnerable to bludgeoning damage, your attack deals an additional 1d6 radiant damage.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · Spirit Acid
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

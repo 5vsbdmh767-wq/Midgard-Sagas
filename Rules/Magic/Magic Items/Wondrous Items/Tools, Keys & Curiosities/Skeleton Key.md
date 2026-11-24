@@ -15,6 +15,8 @@ This arcane master key is the prized possession of many an intrepid thief. Sever
 
 ***Silver (Uncommon).*** While this key is on your person, you have advantage on ability checks made to disarm traps or open locks. In addition, while holding the key, you can use an action to cast the *[[2nd-Circle Spells#Knock|knock]]* spell. When you cast the spell, it is silent. The key can’t be used this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Living Lockpick · Unliving Claw. Use as many as the version's rarity calls for.
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

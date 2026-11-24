@@ -17,6 +17,8 @@ This garment is made of living plants—mosses, vines, and grasses—interwoven 
 
 ***Curse.*** Once you don and attune to this cursed mantle, you are cursed and can’t remove it unless you are targeted by the *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic. The mantle requires at least 1 pint of water each day. If you fail to provide water to it, it draws the moisture it needs from your body, dealing 3d6 necrotic damage to you. If it is unable to gain moisture, due to its host’s immunities or magical protections or being in a dry environment on a dead host, the mantle begins to wither. After the first 24 hours it is unable to gain moisture, the AC it provides is reduced by 1, and you lose resistance to radiant damage. After 48 hours without moisture, it no longer provides an AC, and you lose immunity to the [[Conditions#Poisoned|poisoned]] condition and plant-based poison damage. After 72 hours without moisture, it dies, becoming nonmagical, and you are able to remove it.
 
+[[Crafting Magic Items|Made with]]: Primeval Sap · Anchoring Root · Teratoid Bark
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

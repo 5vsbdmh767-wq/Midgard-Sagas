@@ -9,6 +9,8 @@ When wearing these cloth wraps, your forearms and hands swell to half again thei
 
 When you hit a target with an unarmed strike and the target is no more than one size larger than you, you can use a bonus action to automatically grapple the target. Once this special bonus action has been used three times, it can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Colossal Tendon · Primordial Humor
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

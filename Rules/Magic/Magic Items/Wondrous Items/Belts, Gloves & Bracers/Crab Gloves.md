@@ -13,6 +13,8 @@ A creature with an INT of 8 or higher that has two claws can wear these gloves. 
 
 Pulling the gloves on or off requires an action.
 
+[[Crafting Magic Items|Made with]]: Insectoid Carapace
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

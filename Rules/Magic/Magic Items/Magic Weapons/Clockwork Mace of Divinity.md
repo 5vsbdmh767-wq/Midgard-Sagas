@@ -7,6 +7,8 @@ publish: true
 
 This clockwork mace is composed of several different metals. While attuned to this magic weapon, you have proficiency with it. As a bonus action, you can command the mace to transform into a trident. When you hit with an attack using this weapon’s trident form, the target takes an extra 1d6 radiant damage.
 
+[[Crafting Magic Items|Made with]]: Whirling Gizmo
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

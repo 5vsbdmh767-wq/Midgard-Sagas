@@ -11,6 +11,8 @@ When a branded creature harms you, it takes 2d6 psychic damage and must succeed 
 
 ***Instruments of Law.*** If you are also attuned to and wearing a Justicar’s mask, you can cast the *[[Rituals 1st–3rd Circle#Locate|locate]]* ritual to detect a branded creature at will from the ring. If you are also attuned to and carrying a *[[Rod of the Disciplinarian|rod of the disciplinarian]]*, the psychic damage from the brand increases to 3d6 and the save DC increases to 16.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain · Angel Ear Wax
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

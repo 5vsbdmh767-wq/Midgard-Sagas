@@ -13,6 +13,8 @@ The staff has 10 charges for the following properties. The staff regains 1d6 + 4
 
 ***Thunderous Shout.*** While holding the staff, you can use an action to expend 1 charge and release a chorus of mighty shouts in a 15-foot cone from it. Each creature in the area must make a CON save. On a failure, a creature takes 2d8 thunder damage and is deafened for 1 minute. On a success, a creature takes half the damage and is deafened until the end of its next turn. A deafened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.
 
+[[Crafting Magic Items|Made with]]: Imitative Vocal Cords · Resonant Trunk
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

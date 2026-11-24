@@ -9,6 +9,8 @@ This pendant resembles an ornate, miniature clock and has 3 charges. While holdi
 
 If the pendant is destroyed (AC 14, 15 hit points) while it has 3 charges, it creates a temporal distortion for 1d4 rounds. For the duration, each creature and object that enters or starts its turn within 10 feet of the pendant has immunity to all damage, all spells, and all other physical or magical effects but is otherwise able to move and act normally. If a creature moves further than 10 feet from the pendant, these effects end for it. At the end of the duration, the pendant crumbles to dust.
 
+[[Crafting Magic Items|Made with]]: Chronomatic Gear · Whirling Gizmo
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

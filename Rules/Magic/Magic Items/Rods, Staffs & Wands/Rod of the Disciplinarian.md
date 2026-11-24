@@ -14,6 +14,8 @@ The creature can act normally, but if it performs the activity you forbid, you c
 > [!note] Justicars
 > Justicars keep law and order in some cities without belonging to the watch or the guard. They wear black hooded robes and silver masks and carry rods as weapons, and they answer to a mysterious wizard known only as the Magister, whose signet ring marks them. Each Justicar carries a mask, a rod and a ring, and the three are stronger together. They usually work alone. Some watch officers resent them, but many people are glad of the help, especially when magic is involved. %% paraphrased sidebar %%
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

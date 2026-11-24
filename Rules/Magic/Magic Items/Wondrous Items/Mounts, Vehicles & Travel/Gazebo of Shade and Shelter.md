@@ -13,6 +13,8 @@ The gazebo is 20 feet in diameter and is 10 feet tall. It is made of sandstone, 
 
 Once used, the gazebo can’t be used again until the next dusk. If reduced to 0 hit points, the gazebo can’t be used again until 7 days have passed.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Shrouding Hide
+
 Part of [[Mounts, Vehicles & Travel]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

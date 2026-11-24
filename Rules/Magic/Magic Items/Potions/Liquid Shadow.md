@@ -9,6 +9,8 @@ The contents of this bottle are inky black and seem to absorb the light. The dar
 
 Alternately, you can use an action to hurl the bottle up to 20 feet, shattering it on impact. Magical darkness spreads from the point of impact to fill a 15-foot-radius sphere for 1 minute. This darkness works like the *[[2nd-Circle Spells#Darkness|darkness]]* spell.
 
+[[Crafting Magic Items|Made with]]: Shadowporting Blood
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

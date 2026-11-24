@@ -9,6 +9,8 @@ The head of this weapon is shaped like an anvil, and engravings of fire and arca
 
 When you roll a 20 on an attack roll made with this weapon against a target holding or wearing a metal object, such as a metal weapon or metal armor, the target takes an extra 1d4 fire damage and the metal object becomes red-hot for 1 minute. While the object is red-hot and the creature still wears or carries it, the creature takes 1d4 fire damage at the start of each of its turns.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (fire) · Fiendish Oil
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ Several long sharp thorns sprout along the edge of this stout wooden rod, and it
 
 ***Embed Thorn.*** When you hit a creature with this rod, you can expend 1 of its charges to embed a thorn in the creature. At the start of each of the creature’s turns, it must succeed on a DC 15 CON save or take 2d6 piercing damage from the embedded thorn. If the creature succeeds on two saves, the thorn falls out and crumbles to dust. The successes don’t need to be consecutive. If the creature dies while the thorn is embedded, its body transforms into a patch of nonmagical brambles, which fill its space with difficult terrain.
 
+[[Crafting Magic Items|Made with]]: Teratoid Bark · Throwing Spine
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

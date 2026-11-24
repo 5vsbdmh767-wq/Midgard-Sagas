@@ -35,6 +35,8 @@ While wearing this helm, you have advantage on initiative rolls.
 
 **17th Level.** You can use an action to imbue a sword you are holding with divine power for 10 minutes. While imbued with divine power, the sword emits an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saves against spells and other magical effects. In addition, you gain a +3 bonus to attack and damage rolls made with the magic sword, and, when you hit a fiend with it, the fiend takes an extra 2d10 radiant damage. The sword immediately loses the divine power if wielded by anyone but you. Once used, you can’t imbue a sword with divine power again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

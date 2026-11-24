@@ -9,6 +9,8 @@ This delicate cloak is covered in an array of pink, purple, and yellow flowers. 
 
 The cloak has 3 charges. When a creature you can see targets you with an attack, you can use your reaction to expend 1 of its charges to release a shower of petals from the cloak. If you do so, the attacker has disadvantage on the attack roll. The cloak regains 1d3 expended charges daily at dawn.
 
+[[Crafting Magic Items|Made with]]: Camouflaged Hide (flowering meadow)
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

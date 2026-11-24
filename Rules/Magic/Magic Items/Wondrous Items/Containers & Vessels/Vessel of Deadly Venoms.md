@@ -15,6 +15,8 @@ The word “spit” causes the snake to spray a stream of poison at a creature y
 
 Once used, the vessel can’t be used to create poison again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Poison Coil · serpent venom
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

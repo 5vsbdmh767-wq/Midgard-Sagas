@@ -15,6 +15,8 @@ This unassuming staff appears to be little more than the branch of a tree. While
 
 ***Venerated Tree.*** If you spend 1 hour in silent reverence at the base of a Huge or larger tree, you can use an action to plant this staff in the soil above the tree’s roots and awaken the tree as a treant. The treant isn’t under your control, but it regards you as a friend as long as you don’t harm it or the natural world around it. Roll a d20. On a 1, the staff roots into the ground, growing into a sapling, and losing its magic. Otherwise, after you awaken a treant with this staff, you can’t do so again until 30 days have passed.
 
+[[Crafting Magic Items|Made with]]: Primeval Sap · Teratoid Bark · Anchoring Root
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

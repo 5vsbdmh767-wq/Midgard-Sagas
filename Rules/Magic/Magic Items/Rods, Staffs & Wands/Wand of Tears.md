@@ -9,6 +9,8 @@ The top half of this wooden wand is covered in thorns. The wand has 3 charges. W
 
 The wand regains all expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand transforms into a *[[Wand of Giggles|wand of giggles]]*.
 
+[[Crafting Magic Items|Made with]]: Fearful Eyedrops
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

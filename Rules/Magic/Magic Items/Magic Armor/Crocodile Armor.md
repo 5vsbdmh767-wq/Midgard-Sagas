@@ -7,6 +7,8 @@ publish: true
 
 While wearing this armor fashioned from crocodile skin, you gain a +1 bonus to AC. In addition, you can hold your breath for 15 minutes, and you have a swimming speed equal to your walking speed.
 
+[[Crafting Magic Items|Made with]]: giant crocodile hide · Flippers
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

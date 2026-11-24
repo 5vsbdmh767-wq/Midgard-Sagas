@@ -11,6 +11,8 @@ This ornate harp is fashioned from maple and engraved with heroic scenes of warr
 
 ***Clarity of Thought.*** When you play this harp as part of your [[Bard#Bardic Performance: Clarity of Thought|Clarity of Thought]] performance, you and any friendly creatures within 30 feet of you also have resistance to thunder damage and have advantage on saves against being [[Conditions#Paralyzed|paralyzed]]. When this property has been used for a total of 10 minutes, this property can’t be used again until the next dawn. %% house rule: replaces Countercharm, 22 Nov 2026 %%
 
+[[Crafting Magic Items|Made with]]: Resonant Trunk · troll or dragon bone
+
 Part of [[Instruments]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

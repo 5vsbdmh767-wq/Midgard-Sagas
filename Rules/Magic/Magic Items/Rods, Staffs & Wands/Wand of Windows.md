@@ -9,6 +9,8 @@ This clear, crystal wand has 3 charges. You can use an action to expend 1 charge
 
 The wand regains 1d3 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand slowly becomes cloudy until it is completely opaque and becomes nonmagical.
 
+[[Crafting Magic Items|Made with]]: Telescopic Eyes
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

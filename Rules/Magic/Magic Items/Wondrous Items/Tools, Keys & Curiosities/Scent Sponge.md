@@ -11,6 +11,8 @@ You can use an action to wipe the sponge on a creature or object, masking its na
 
 The sponge can hold a scent indefinitely, but it can hold only one scent at a time.
 
+[[Crafting Magic Items|Made with]]: Fragrance Gland
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

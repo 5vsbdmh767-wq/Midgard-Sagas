@@ -15,6 +15,8 @@ This mithral and gold lantern is emblazoned with a sunburst symbol. While holdin
 
 - Douse the lantern’s light. When you cause the lantern to shed bright light, you can speak an additional command word to cause the light to become sunlight. The sunlight lasts for 1 minute after which the lantern goes dark and can’t used again until the next dawn. During this time, the lantern can function as a standard hooded lantern if provided with oil.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · Angel Ear Wax · Illuminating Essence
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

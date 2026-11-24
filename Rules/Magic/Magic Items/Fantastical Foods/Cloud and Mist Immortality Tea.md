@@ -9,6 +9,8 @@ The first time you drink this tea, you are reduced to 0 hit points, regardless o
 
 With each subsequent use of cloud and mist immortality tea, the tea is only half as effective as the last time you drank it. On your second use, for example, you awaken only 30 years younger. On the third use, you awaken 15 years younger, and so on. However, you are reduced to 0 hit points on only your first use of this tea. Each subsequent time you drink this tea, you fall [[Conditions#Unconscious|unconscious]] for 30 seconds, then awaken younger and with all of your hit points.
 
+[[Crafting Magic Items|Made with]]: Celestial Blood · Phoenix Feather
+
 Part of [[Fantastical Foods]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

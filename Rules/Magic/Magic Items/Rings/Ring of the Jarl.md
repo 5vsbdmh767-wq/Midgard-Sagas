@@ -14,6 +14,8 @@ This thick band of hammered yellow gold is warm to the touch even in the coldest
 > [!note] Rings of the Jarl in the Northlands
 > Warriors of the [[Northlands]] prize these rings as a mark of standing, and chieftains and reaver leaders hunt for them. The duplicates are prized too: an owner gives them to their most trusted thegns or to someone who has done them great service. Rumor says some of the rings are cursed. Their wearers grow too greedy to give the duplicates away and end up guarding a hoard they can’t bear to leave. %% source: Vault of Magic (paraphrased sidebar) %%
 
+[[Crafting Magic Items|Made with]]: Primordial Humor (a cold-dwelling giant) · Thick Hide
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

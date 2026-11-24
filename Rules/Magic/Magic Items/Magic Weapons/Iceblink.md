@@ -11,6 +11,8 @@ The blade of this weapon is cool to the touch and gives off a yellow-white radia
 
 ***Snowblind.*** While holding the sword, you can use an action to generate a bright flash of light from the blade at one creature you can see within 5 feet of you. The target must succeed on a DC 15 CON save or be [[Conditions#Blinded|blinded]] for 1 minute. The creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Throat Scales (white dragon) · Ice Splinter
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

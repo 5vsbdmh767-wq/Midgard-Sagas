@@ -9,6 +9,8 @@ While this bezoar sits in your stomach, you are immune to [[Conditions#Exhaustio
 
 ***Curse.*** Your bloodlust gets the most of you. Once you enter melee, you aren’t willing to stop fighting the creature until one of you is dead or you’re both somehow physically separated for at least 3 rounds.
 
+[[Crafting Magic Items|Made with]]: Bezoar (dire owlbear) · Hag’s Blood · Frenzying Oil
+
 Part of [[Bezoars]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

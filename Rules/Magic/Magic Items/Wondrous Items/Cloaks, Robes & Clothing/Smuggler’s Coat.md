@@ -11,6 +11,8 @@ As a bonus action, you can force the pockets to become visible on the coat. Whil
 
 If the coat is destroyed, its contents are lost forever, although an artifact always turns up again somewhere. Placing the coat inside an extradimensional space, such as a *[[Bag of Holding|bag of holding]]*, instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
 
+[[Crafting Magic Items|Made with]]: Breath Pouch · Astralsupial Pouch · Photoadaptive Hide
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

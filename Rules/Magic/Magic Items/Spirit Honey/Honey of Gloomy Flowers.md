@@ -9,6 +9,8 @@ This spirit honey is made from flowers growing in the [[The Shadow Realm|Shadow 
 
 ***Insight.*** At the end of the spirit honey’s duration, the terrain in a 150-foot cube around you changes to your liking. This works like the *[[Rituals 4th–6th Circle#Hallucinatory Terrain|hallucinatory terrain]]* spell, except its duration is equal to the number of hours you spent under the effects of this spirit honey.
 
+[[Crafting Magic Items|Made with]]: no monster parts; spirit honey from Shadow Realm flowers.
+
 Part of [[Spirit Honey]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

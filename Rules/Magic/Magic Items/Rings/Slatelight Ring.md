@@ -9,6 +9,8 @@ This decorated thick gold band is adorned with a single polished piece of slate.
 
 In addition, you can use an action to cast the *[[1st-Circle Spells#Faerie Fire|faerie fire]]* spell (DC 15) from it. The ring can’t be used this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Devil’s Eyes · glow gland
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

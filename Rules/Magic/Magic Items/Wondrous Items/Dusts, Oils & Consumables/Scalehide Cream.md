@@ -9,6 +9,8 @@ As an action, you can rub this dull green cream over your skin. When you do, you
 
 A jar of scalehide cream contains 1d6 + 1 doses.
 
+[[Crafting Magic Items|Made with]]: Abnormal Leather
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

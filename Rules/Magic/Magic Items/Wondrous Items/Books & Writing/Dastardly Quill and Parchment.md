@@ -11,6 +11,8 @@ The parchment is approximately 9 inches wide by 13 inches long. If the quill’s
 
 If either item is destroyed, the other item becomes nonmagical.
 
+[[Crafting Magic Items|Made with]]: Teleport Tracer · Ward’s Quills
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

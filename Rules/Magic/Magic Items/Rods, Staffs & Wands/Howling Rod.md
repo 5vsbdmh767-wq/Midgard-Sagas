@@ -11,6 +11,8 @@ This sturdy, iron rod is topped with the head of a howling wolf with red carneli
 
 ***Wolf Bite.*** While holding the rod, you can use a bonus action to expend 2 of its charges to attack one frightened creature you can see within 20 feet of you. A spectral wolf head leaps out of the rod and makes its attack roll with a +7 bonus. On a hit, the target takes 2d6 force damage.
 
+[[Crafting Magic Items|Made with]]: Spectral Essence · wolf fangs
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ You can render a dose of blue rose into three doses of blue rose tea with a succ
 
 ***Blue Rose Addiction.*** Consuming blue rose tea doesn’t cause addiction like its more potent counterpart. However, if you are addicted to blue rose, consuming one dose of this tea removes one level of [[Conditions#Exhaustion|exhaustion]] and halts the effects of the addiction for 24 hours. This effect can’t reduce your exhaustion level below 1 and can’t end the addiction.
 
+[[Crafting Magic Items|Made with]]: no monster parts; brewed from blue rose petals.
+
 Part of [[Fantastical Foods]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ You can use an action to secure the effigy on any natural organic substrate (suc
 
 The totem has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If it drops to 0 hit points, it is destroyed.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · woodland beast bones
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

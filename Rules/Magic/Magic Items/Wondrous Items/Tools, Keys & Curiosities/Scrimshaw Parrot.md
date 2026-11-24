@@ -15,6 +15,8 @@ This parrot is carved from bits of whalebone and decorated with bright feathers 
 
 You can use a bonus action to speak a different command word, and the parrot repeats the sounds it heard. Effects that limit or block sound, such as a closed door or the *[[2nd-Circle Spells#Silence|silence]]* spell, similarly limit or block the sounds the parrot records.
 
+[[Crafting Magic Items|Made with]]: Everwatchful Eyes · whalebone
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

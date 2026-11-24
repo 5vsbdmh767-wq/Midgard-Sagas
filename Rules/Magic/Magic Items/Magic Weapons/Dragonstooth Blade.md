@@ -18,6 +18,8 @@ When you hit with an attack using this magic sword, the target takes an extra 1d
 | 5 | Cold | Silver or White |
 | 6 | Necrotic | Undead |
 
+[[Crafting Magic Items|Made with]]: tooth of an adult or older dragon · Breath Pouch · Throat Scales
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

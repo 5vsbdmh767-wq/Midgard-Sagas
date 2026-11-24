@@ -9,6 +9,8 @@ The withered, clawed hand of a demon or devil tops this iron rod. While holding 
 
 ***Frightful Eyes.*** While holding this rod, you can use a bonus action to cause your eyes to glow with infernal fire for 1 minute. While your eyes are glowing, a creature that starts its turn or enters a space within 10 feet of you must succeed on a WIS save against your spell save DC or become [[Conditions#Frightened|frightened]] of you until your eyes stop glowing. A [[Conditions#Frightened|frightened]] creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Once used, you can’t use this property again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Devil’s Eyes · Fiendish Oil · demon or devil hand
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

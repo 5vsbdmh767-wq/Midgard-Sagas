@@ -18,6 +18,8 @@ Each scroll of treasure finding works for a specific type of treasure. You can u
 | 76–80 | Art objects |
 | 81–00 | Magic items |
 
+[[Crafting Magic Items|Made with]]: Treasure-Sensitive Nose
+
 Part of [[Scrolls]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

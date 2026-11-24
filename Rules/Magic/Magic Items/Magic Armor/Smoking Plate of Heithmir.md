@@ -9,6 +9,8 @@ This armor is soot-colored plate with grim dwarf visages on the pauldrons. The p
 
 In addition, when you are struck by an attack while wearing this armor, you can use a reaction to fill a 30-foot cone in front of you with dense smoke. The smoke spreads around corners, and its area is heavily obscured. Each creature in the smoke when it appears and each creature that ends its turn in the smoke must succeed on a DC 17 CON save or be [[Conditions#Poisoned|poisoned]] for 1 minute. A wind of at least 20 miles per hour disperses the smoke. Otherwise, the smoke lasts for 5 minutes. Once used, this property of the armor can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Throat Scales (white dragon) · Shrouding Hide · Flame Haze
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

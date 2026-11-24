@@ -11,6 +11,8 @@ The front of this shield is fashioned in the shape of a snarling wolf’s head.
 
 ***Adamantine Spearbiter (Rare).*** A more powerful version of this shield exists. Its wolf’s head is fitted with adamantine fangs and appears larger and more menacing. When you use your reaction and animate the wolf’s head to snap at the attacker’s weapon, you have advantage on the attack roll. In addition, there is no longer a limit to the number of times you can use this property of the shield.
 
+[[Crafting Magic Items|Made with]]: Rending Claws · Metal-Crushing Beak. Use as many as the version's rarity calls for.
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

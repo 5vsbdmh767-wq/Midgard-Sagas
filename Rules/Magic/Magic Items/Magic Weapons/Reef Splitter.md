@@ -9,6 +9,8 @@ The head of this warhammer is constructed of undersea volcanic rock and etched w
 
 When you roll a 20 on an attack roll made with this weapon, the hammer erupts with magma, and the target takes an extra 4d6 fire damage. In addition, if the target is underwater, the water around it begins to boil with the heat of your blow, and each creature other than you within 5 feet of the target takes 2d6 fire damage.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (fire) · Primordial Tar · Regenerative Coral
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

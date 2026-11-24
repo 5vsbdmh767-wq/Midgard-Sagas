@@ -9,6 +9,8 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. The 
 
 Hit Dice spent using this weapon’s feature can’t be used to regain hit points during a short rest. You regain spent Hit Dice as normal.
 
+[[Crafting Magic Items|Made with]]: Hardened Blood · Frenzying Oil
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

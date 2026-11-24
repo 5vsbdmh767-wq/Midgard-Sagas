@@ -7,6 +7,8 @@ publish: true
 
 This magic arrow’s tip is enchanted to soften stone and warp wood. When this arrow hits an object or structure, it deals double damage then becomes a nonmagical arrow.
 
+[[Crafting Magic Items|Made with]]: Stone-Eating Acid
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

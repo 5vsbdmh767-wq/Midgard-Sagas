@@ -15,6 +15,8 @@ You can use a bonus action to expend 1 charge from the dagger to cause one of th
 
 - The next time you hit a creature that has blood with this weapon, it deals an extra 2d8 necrotic damage.
 
+[[Crafting Magic Items|Made with]]: vampire fang · Hardened Blood
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ After you pour these magic caltrops out of the bag into an area, you can use a b
 
 ***Tripping Hazard.*** You can use a reaction when a creature enters the area containing the caltrops to make the caltrops skitter into the creature’s path. If the creature isn’t moving at half speed, it has disadvantage on the save. If the creature is moving at half speed, it must make the save, but it doesn’t have disadvantage. Once used, this feature of the caltrops can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Whirling Gizmo
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

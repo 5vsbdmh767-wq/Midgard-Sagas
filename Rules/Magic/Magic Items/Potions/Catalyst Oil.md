@@ -9,6 +9,8 @@ This special elemental compound draws on nearby energy sources. Catalyst oils ar
 
 This redirected spell is easier to evade. Targets have advantage on saves against the spell, and the caster has disadvantage on the spell attack roll.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

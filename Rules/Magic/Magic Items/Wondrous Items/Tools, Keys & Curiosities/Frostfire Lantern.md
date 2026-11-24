@@ -11,6 +11,8 @@ When a creature enters the lantern’s light for the first time on a turn or sta
 
 ***Freezing Light.*** While holding this lit lantern, you can use an action to force the lantern’s flame to emit a freezing chill. Each creature in the lantern’s light must make a DC 17 CON save, taking 5d6 cold damage on a failed save, or half as much damage on a successful one. For 1 minute, the lantern’s flame continues emitting wisps of cold air, making the area in the light difficult terrain as surfaces become slick with frost. Each creature you chose when you lit the lantern is also immune to this freezing light, and the difficult terrain caused by this freezing light doesn’t cost it extra movement. Once used, this property of the lantern can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Illuminating Essence · Ice Heart · Fiendish Oil (cold)
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

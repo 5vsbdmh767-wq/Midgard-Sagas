@@ -31,6 +31,8 @@ While wearing this ring, you have advantage on WIS (Perception) checks that rely
 
 **17th Level.** You can now use the 5th-level property of this ring to transform into an arctic dire wolf, instead of a dire wolf. This effect works exactly like that property, except you don’t have to maintain concentration on the spell, and it lasts for a number of hours equal to half your level. An arctic dire wolf has the statistics of a winter wolf, except it is a beast, not a monstrosity, and it doesn’t know the Giant or Winter Wolf languages.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

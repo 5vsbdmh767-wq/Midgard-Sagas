@@ -13,6 +13,8 @@ The staff has 20 charges for the following properties. It regains 2d8 + 4 expend
 
 ***Extract Ageless Knowledge.*** As an action, you can touch the head of the staff to a corpse. You must form a question in your mind as part of this action. If the corpse has an answer to your question, it reveals the information to you. The answer is always brief—no more than one sentence—and very specific to the framed question. The corpse doesn’t need a mouth to answer; you receive the information telepathically. The corpse knows only what it knew in life, and it is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. This property doesn’t return the creature’s soul to its body, only its animating spirit. Thus, the corpse can’t learn new information, doesn’t comprehend anything that has happened since it died, and can’t speculate about future events. Once the staff has been used to ask a corpse 5 questions, it can’t be used to extract knowledge from that same corpse again until 3 days have passed.
 
+[[Crafting Magic Items|Made with]]: Devil’s Eyes · Fiendish Oil · Infernal Tears
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

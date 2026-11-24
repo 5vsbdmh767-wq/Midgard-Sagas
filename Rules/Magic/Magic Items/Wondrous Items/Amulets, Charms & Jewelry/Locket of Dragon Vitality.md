@@ -15,6 +15,8 @@ Attuning to the locket requires you to mix your blood with the blood within the 
 
 ***Dragon Heart Ritual.*** If you are also attuned to the *[[Sword of Volsung|sword of volsung]]*, you can drain 3 charges of the locket into the sword of volsung, rendering this item broken and irreparable, but you passively gain its effects while attuned to the sword. Doing this requires a long rest where you also re-attune with the newly charged sword of volsung.
 
+[[Crafting Magic Items|Made with]]: heart of an ancient dragon · Throat Scales · Colossal Tendon
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

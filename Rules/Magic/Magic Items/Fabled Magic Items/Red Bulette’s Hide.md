@@ -33,6 +33,8 @@ While wearing this armor, you can cast the *[[1st-Circle Spells#Longstrider|long
 
 **17th Level.** You now gain a +3 bonus to AC, instead of +2, and your burrowing speed increases to 40 feet, instead of 20. In addition, you gain tremorsense out to a range of 30 feet.
 
+[[Crafting Magic Items|Made with]]: can't be crafted.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ This small gray pouch appears empty, though it weighs 3 pounds. Reaching inside 
 
 The metal balls remain for 1 minute. Once the bag’s contents have been emptied three times, the bag can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Magnetizing Agent
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ A bronze boss is set in the center of this round shield. When you attune to the 
 
 ***Versatile Cantrip.*** While holding the shield, you can try to cast a cantrip that you don’t know. The cantrip must be on your spell list, and you must make a DC 10 INT (Religion) check. If the check succeeds, you cast the spell. If the check fails, so does the spell, and the action used to cast the spell is wasted. In either case, you can’t use this property again until you finish a long rest.
 
+[[Crafting Magic Items|Made with]]: Idolatrous Heart
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

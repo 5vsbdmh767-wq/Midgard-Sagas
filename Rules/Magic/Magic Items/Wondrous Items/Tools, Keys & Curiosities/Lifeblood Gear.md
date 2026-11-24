@@ -11,6 +11,8 @@ If it participates in combat, the servant lasts for up to 5 rounds or until dest
 
 Once affixed to the servant, the gear pulsates like a beating heart. If the gear is removed, you lose control of the servant, which then attacks indiscriminately for up to 5 rounds or until destroyed. Once the duration expires or the servant is destroyed, the gear becomes a nonmagical gear.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

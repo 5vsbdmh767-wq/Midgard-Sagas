@@ -9,6 +9,8 @@ This small rusty iron anchor feels sturdy in spite of its appearance. You gain a
 
 When you roll a 20 on an attack roll made with this weapon, the target is wrapped in ethereal golden chains that extend from the bottom of the anchor. As an action, the chained target can make a DC 15 STR or DEX check, freeing itself from the chains on a success. Alternatively, you can use a bonus action to command the chains to disappear, freeing the target. The chains are constructed of magical force and can’t be damaged, though they can be destroyed with a *[[6th-Circle Spells#Disintegrate|disintegrate]]* spell. While the target is wrapped in these chains, you and the target can’t move further than 50 feet from each other.
 
+[[Crafting Magic Items|Made with]]: Demonic Thread · Living Tendril
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

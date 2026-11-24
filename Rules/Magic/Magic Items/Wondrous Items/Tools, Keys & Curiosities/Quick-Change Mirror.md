@@ -11,6 +11,8 @@ The mirror can hold up to 12 outfits. An outfit must be a set of clothing or arm
 
 To store an outfit you are wearing in the mirror, you must spend at least 1 minute rotating slowly in front of the mirror and speak the mirror’s second command word. You can use a bonus action to speak a third command word to cause the mirror to display the outfits it contains. When found, the mirror contains 1d10 + 2 outfits. If the mirror is destroyed, all outfits it contains fall in a heap at its base.
 
+[[Crafting Magic Items|Made with]]: shapechanger blood
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

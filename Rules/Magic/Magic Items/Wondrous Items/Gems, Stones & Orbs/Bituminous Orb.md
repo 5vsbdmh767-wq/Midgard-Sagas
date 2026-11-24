@@ -11,6 +11,8 @@ This orb has 6 charges and regains 1d6 daily at dawn. You can expend 1 charge as
 
 You can end the grapple at any time (no action required). The orb’s power can grapple only one creature at a time.
 
+[[Crafting Magic Items|Made with]]: Primordial Tar · Eternal’s Humor · Poisonous Pitch
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

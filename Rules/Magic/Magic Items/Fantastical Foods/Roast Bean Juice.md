@@ -7,6 +7,8 @@ publish: true
 
 This dark beverage has a bitter taste. When you consume this food, you have advantage on initiative rolls and on saves against being knocked [[Conditions#Unconscious|unconscious]] for 8 hours.
 
+[[Crafting Magic Items|Made with]]: blood from a creature that never sleeps
+
 Part of [[Fantastical Foods]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

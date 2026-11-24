@@ -9,6 +9,8 @@ This ceramic jar contains 1d4 + 1 doses of a thick, creamy substance that smells
 
 If you add a piece of a specific creature (such as a single hair, nail paring, or drop of blood), the ointment becomes more powerful allowing you to flawlessly imitate that creature, as long as its body shape is humanoid and within one size category of your own. While imitating that creature, you have advantage on CHA checks made to convince others you are that specific creature, provided they didn’t see you change form.
 
+[[Crafting Magic Items|Made with]]: shapechanger blood
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

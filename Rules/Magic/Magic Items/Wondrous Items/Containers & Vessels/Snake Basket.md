@@ -13,6 +13,8 @@ The swarm is friendly to you and your companions, and it acts on your turn. You 
 
 Once the basket has been used to summon a swarm of poisonous snakes, it can’t be used in this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Animal Lord Essence (snake) · serpent venom
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

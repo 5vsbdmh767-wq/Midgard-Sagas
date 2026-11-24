@@ -23,6 +23,8 @@ If a creature consumes a meal cooked with a spice, it gains a benefit based on t
 
 ***Turmeric.*** The feaster has advantage on saves against spells.
 
+[[Crafting Magic Items|Made with]]: Celestial Blood · Fragrance Gland · Mandrake Root
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ The book holds the following spells: *semblance of dread*, *ectoplasm*, *[[Ritua
 
 If you are attuned to this book, you can use it as a spellbook and as an arcane focus. In addition, while holding the book, you can use a bonus action to cast a necromancy spell that is written in this tome without expending a spell slot or using any verbal or somatic components. Once used, this property of the book can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Void Essence · Eternal’s Humor · Scroll Parchment
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

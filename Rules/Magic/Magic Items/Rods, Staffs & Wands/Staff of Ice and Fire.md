@@ -9,6 +9,8 @@ Made from the branch of a white ash tree, this staff holds a sapphire at one end
 
 The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff and its gems crumble into ash and snow and are destroyed.
 
+[[Crafting Magic Items|Made with]]: Throat Scales (red dragon) · Throat Scales (white dragon) · Elemental Gemstone
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

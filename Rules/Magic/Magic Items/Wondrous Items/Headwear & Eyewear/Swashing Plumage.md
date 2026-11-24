@@ -9,6 +9,8 @@ This plumage, a colorful bouquet of tropical hat feathers, has a small pin at it
 
 ***Swash.*** As a bonus action, you can flick the plumage with your hand or a toss of your head and choose a creature within 30 feet of you that can see the plumage. The target must make a DC 13 CHA save. If the target fails, you have advantage on your next attack roll against the target. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Scarlet Feathers
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

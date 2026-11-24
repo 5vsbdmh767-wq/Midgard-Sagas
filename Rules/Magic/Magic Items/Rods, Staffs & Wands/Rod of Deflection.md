@@ -9,6 +9,8 @@ This thin, flexible rod is made of braided silver and brass wire and topped with
 
 The rod has 3 charges. You can expend a charge as a reaction to redirect a ranged spell attack as if it were a ranged weapon attack, up to the spell’s maximum range. The rod regains 1d3 expended charges daily at dawn.
 
+[[Crafting Magic Items|Made with]]: Energy-Converting Module · Magnetizing Agent
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

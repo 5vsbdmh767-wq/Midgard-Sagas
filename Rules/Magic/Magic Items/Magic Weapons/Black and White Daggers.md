@@ -9,6 +9,8 @@ These matched daggers are identical except for the stones set in their pommels. 
 
 When you hit a monstrosity or undead with both daggers in the same turn, that creature takes an extra 1d6 piercing damage from the second attack.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · Bizarre Cartilage
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

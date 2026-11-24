@@ -31,6 +31,8 @@ This salve is created by burning bark from a rare ebon birch tree then mixing th
 
 - Stomach. The creature’s maximum hit points increase by 10 for 1 hour.
 
+[[Crafting Magic Items|Made with]]: Fiendish Oil
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

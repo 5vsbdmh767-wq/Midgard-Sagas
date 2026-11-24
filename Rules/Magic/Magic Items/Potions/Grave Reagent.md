@@ -9,6 +9,8 @@ This luminous green concoction creates an undead servant. If you spend 1 minute 
 
 On each of your turns, you can use a bonus action to verbally command the zombie if it is within 60 feet of you. You decide what action the zombie will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the zombie only defends itself against hostile creatures. Once given an order, the zombie continues to follow it until its task is complete. The zombie is under your control for 24 hours, after which it stops obeying any command you've given it.
 
+[[Crafting Magic Items|Made with]]: Drudge Slime
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

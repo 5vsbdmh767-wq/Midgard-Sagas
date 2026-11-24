@@ -9,6 +9,8 @@ You gain a +2 bonus to attack and damage rolls made with this magic weapon. The 
 
 As a bonus action, choose a creature you can see. For 1 minute, that creature must succeed on a DC 15 WIS save each time it is damaged by the axe or become [[Conditions#Frightened|frightened]] until the end of your next turn. Creatures of Large size or greater have disadvantage on this save. Once used, this property of the axe can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (earth) · Stone-Eating Acid · Colossal Tendon
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

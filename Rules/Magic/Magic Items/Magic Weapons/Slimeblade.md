@@ -9,6 +9,8 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. The 
 
 In addition, you can use an action to fling some of the sword’s slime at a creature you can see within 30 feet of you. The target must make a DC 15 CON save. On a failure, the target takes 2d4 poison damage and is [[Conditions#Poisoned|poisoned]] until the end of its next turn. On a success, the target takes half the damage and isn’t [[Conditions#Poisoned|poisoned]]. The sword can’t be used this way again until 1 hour has passed.
 
+[[Crafting Magic Items|Made with]]: Otherworldly Slime · Slippery Slime
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

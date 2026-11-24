@@ -54,6 +54,8 @@ A stone has AC 24 and 10 HP, and it is resistant to all damage. It is considered
 
 ***Slate (Rare, 4,000 gp).*** While this slate spindle orbits your head, you have advantage on saves against spells.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone · Aberrant Brain · Celestial Feather. Use as many as the version's rarity calls for.
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

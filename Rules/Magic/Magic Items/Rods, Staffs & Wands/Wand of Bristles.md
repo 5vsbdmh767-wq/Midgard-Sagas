@@ -11,6 +11,8 @@ This wand is made from the bristles of a giant boar bound together with magical,
 
 ***Truffle (2 bristles).*** You plant the bristles in the ground to conjure up a magical truffle. Consuming the mushroom restores 2d8 hit points.
 
+[[Crafting Magic Items|Made with]]: Throwing Spine · giant boar bristles
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---
