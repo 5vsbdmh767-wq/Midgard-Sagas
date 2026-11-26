@@ -5,6 +5,8 @@ publish: true
 
 *+ armor base cost* These suits of armor are etched with cloud and feather motifs. When you would take falling damage while wearing this armor, roll a d12 and subtract the result from the damage taken.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

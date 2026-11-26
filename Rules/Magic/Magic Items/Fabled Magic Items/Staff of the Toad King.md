@@ -19,6 +19,8 @@ Warts dot the length of this green staff, an emerald frog sitting at its top. Wh
 
 **17th Level.** You are immune to poison damage and to the poisoned condition. The staff now has 20 charges. In addition to the previously listed spells, you can cast the following additional spells from the staff, expending the necessary number of charges: *[[8th-Circle Spells#Animal Shapes|animal shapes]]* (8 charges) and *[[7th-Circle Spells#Transmogrification|transmogrification]]* (7 charges).
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

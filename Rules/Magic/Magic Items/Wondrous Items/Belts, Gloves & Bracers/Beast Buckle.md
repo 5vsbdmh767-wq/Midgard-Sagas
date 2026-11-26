@@ -7,6 +7,8 @@ publish: true
 
 This burnished brass belt buckle is shaped like a heavily muscled bison. While attuned, your hit points and hit point maximum increase by 5.
 
+[[Crafting Magic Items|Made with]]: Thick Hide
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

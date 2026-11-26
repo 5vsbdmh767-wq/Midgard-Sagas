@@ -7,6 +7,8 @@ publish: true
 
 While wearing these bracers, you have proficiency with longbow and shortbow, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons.
 
+[[Crafting Magic Items|Made with]]: Throwing Spine
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

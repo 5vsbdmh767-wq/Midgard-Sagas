@@ -7,6 +7,8 @@ Each of this quiver’s three compartments connects to an extradimensional space
 
 You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
 
+[[Crafting Magic Items|Made with]]: Teleport Tracer
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

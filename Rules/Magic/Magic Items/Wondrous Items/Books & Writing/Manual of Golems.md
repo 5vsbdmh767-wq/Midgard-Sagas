@@ -18,6 +18,8 @@ To create a golem, you must spend the time shown on the **Manual of Golems Type*
 
 Once you finish creating the golem, the book is consumed in flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Whirling Gizmo · Spell-Empowered Ink
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

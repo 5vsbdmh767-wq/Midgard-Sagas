@@ -5,6 +5,8 @@ publish: true
 
 When you drink this potion, you gain the effect of the *[[2nd-Circle Spells#Detect Thoughts|detect thoughts]]* spell (save DC 13). The potion’s dense, purple liquid has an ovoid cloud of pink floating in it.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -7,6 +7,8 @@ This cape smells faintly of brimstone. %% errata 2025-05-29 %% While wearing it,
 
 When you disappear, you leave behind a cloud of smoke, and you appear in a cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.
 
+[[Crafting Magic Items|Made with]]: Shadowporting Blood · Fiendish Oil
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

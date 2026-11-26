@@ -5,6 +5,8 @@ publish: true
 
 This armor has sharp porcupine quills sewn throughout the body. While you are grappling a creature, the creature takes 1d4 damage at the start of each of your turns.
 
+[[Crafting Magic Items|Made with]]: Throwing Spine
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

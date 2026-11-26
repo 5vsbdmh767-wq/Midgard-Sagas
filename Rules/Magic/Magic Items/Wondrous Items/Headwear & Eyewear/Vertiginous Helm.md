@@ -9,6 +9,8 @@ This helm has 3 charges and regains 1d3 expended charges daily at dawn. While we
 
 An affected creature can repeat its WIS save at the end of each of its turns, ending the effect on itself on a success.
 
+[[Crafting Magic Items|Made with]]: Scintillating Hide
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

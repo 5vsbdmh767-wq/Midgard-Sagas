@@ -19,6 +19,8 @@ The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last
 | 11 to 20 ft. away | 6 × the number of charges in the staff |
 | 21 to 30 ft. away | 4 × the number of charges in the staff |
 
+[[Crafting Magic Items|Made with]]: Colossal Tendon · Besieging Plating · Primordial Humor
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

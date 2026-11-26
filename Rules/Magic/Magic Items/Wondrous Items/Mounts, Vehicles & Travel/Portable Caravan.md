@@ -9,6 +9,8 @@ This set of festively painted brass figurines includes horses, mules, camels, an
 
 The caravan reverts to brass figurines 2 weeks after it is activated, but you can spend a minute speaking a series of command words to retain an existing caravan for another 2 weeks. Once the caravan becomes inert, you must wait a week before using its magic again.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Trampling Hoof · Whirling Gizmo
+
 Part of [[Mounts, Vehicles & Travel]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

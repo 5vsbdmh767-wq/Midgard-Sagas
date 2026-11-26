@@ -15,6 +15,8 @@ You must have proficiency with instruments (strings) to use this lyre. The lyre 
 
 ***Screeching Wail.*** As an action, you can expend 1 charge to play a high-pitched chord in 15-foot cone that assaults the ears of your enemies. A creature in the area must make a DC 15 CON save, taking 2d6 thunder damage on a failed save or half as much damage on a successful one.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (earth) · Resonant Trunk
+
 Part of [[Instruments]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -13,6 +13,8 @@ You have a bonus to attack and damage rolls made with this piece of magic ammuni
 | +2 | Rare | 100 gp (each) |
 | +3 | Very Rare | 350 gp (each) |
 
+[[Crafting Magic Items|Made with]]: Throwing Spine · Bizarre Cartilage. Use as many as the version's rarity calls for.
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

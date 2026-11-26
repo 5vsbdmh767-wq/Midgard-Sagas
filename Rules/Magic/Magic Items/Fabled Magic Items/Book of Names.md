@@ -21,6 +21,8 @@ This leather-bound tome smells faintly of blood and brimstone and is filled with
 
 - **Bane.** The creature is cursed for the next 7 days. For the duration, the target is vulnerable to all damage types. If it has any damage resistances, this negates those resistances. If it has any damage immunities, it instead has resistance to those damage types. In addition, each dawn for the duration, the target gains one level of [[Conditions#Exhaustion|exhaustion]].
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

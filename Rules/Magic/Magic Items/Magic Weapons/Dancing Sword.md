@@ -9,6 +9,8 @@ While the sword hovers, you can use a bonus action to cause it to fly up to 30 f
 
 After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Celestial Feather · Whirling Gizmo
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

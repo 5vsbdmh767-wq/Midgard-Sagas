@@ -23,6 +23,8 @@ The staff has 7 charges and regains 1d6 + 1 expended charges daily at dawn. Whil
 
 - 1d12 **eagles**, **hawks**, **owls**, **ravens**, or **vultures**. All summoned creatures are friendly to you and your companions. They act on your initiative, taking their turns immediately after yours, and disappear when reduced to 0 HP or when the duration ends. They obey any verbal commands you give them (no action required by you). If you don’t give any commands, they defend themselves from hostile creatures but otherwise take no actions.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather · Bezoar
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

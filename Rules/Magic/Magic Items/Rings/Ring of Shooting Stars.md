@@ -22,6 +22,8 @@ For its other properties, the ring has 6 charges.
 
 ***Shooting Stars.*** You can expend 1 to 3 charges as an action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of you. Each creature within a 15-foot cube originating from that point is showered in sparks and must make a DC 15 DEX save, taking 5d4 fire damage on a failed save or half as much damage on a successful one. The ring regains 1d6 expended charges daily at dawn.
 
+[[Crafting Magic Items|Made with]]: Illuminating Essence · Bottled Lightning · Searsprite Essence
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

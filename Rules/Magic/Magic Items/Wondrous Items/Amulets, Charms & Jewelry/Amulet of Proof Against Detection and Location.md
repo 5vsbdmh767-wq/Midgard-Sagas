@@ -7,6 +7,8 @@ publish: true
 
 While carrying this amulet, you are hidden from divination magic. You can’t be targeted by spells from the divination school or perceived through magical scrying sensors.
 
+[[Crafting Magic Items|Made with]]: Photoadaptive Hide
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -7,6 +7,8 @@ This sticky black unguent is thick and heavy in the container, but it flows quic
 
 Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the *[[1st-Circle Spells#Grease|grease]]* spell in that area for 8 hours.
 
+[[Crafting Magic Items|Made with]]: Slippery Slime
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

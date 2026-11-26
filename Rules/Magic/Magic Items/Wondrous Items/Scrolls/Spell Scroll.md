@@ -24,6 +24,8 @@ The circle of the spell on the scroll determines the spell’s save DC and attac
 | 8th | Very Rare | 18 | +10 | 5,000 gp |
 | 9th | Legendary | 19 | +11 | 10,500 gp |
 
+[[Crafting Magic Items|Made with]]: Spell-Empowered Ink · Scroll Parchment. Use as many as the version's rarity calls for.
+
 Part of [[Scrolls]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

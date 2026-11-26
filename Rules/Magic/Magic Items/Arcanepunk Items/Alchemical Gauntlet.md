@@ -9,6 +9,8 @@ This silver gauntlet has five gems on the inside of its palm in a circle, which 
 
 **Repairing.** The gems must be replaced with similarly colored gems. As part of repairing the item, each gem must be touched with the corresponding element, such as fire from a burning ember or cold from a block of ice.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone
+
 Part of [[Arcanepunk Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

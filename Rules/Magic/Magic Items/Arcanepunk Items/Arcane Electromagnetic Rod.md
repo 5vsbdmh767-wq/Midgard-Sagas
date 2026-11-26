@@ -9,6 +9,8 @@ This rod resembles a jagged lightning bolt. Sparks pop from a sapphire fixed to 
 
 **Repairing.** The gem must be replaced with a similarly colored gem. The rod must then be struck by lightning, natural or magical, to reactivate.
 
+[[Crafting Magic Items|Made with]]: Magnetizing Agent · Voltaic Organ
+
 Part of [[Arcanepunk Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

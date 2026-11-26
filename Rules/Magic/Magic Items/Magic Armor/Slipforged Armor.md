@@ -5,6 +5,8 @@ publish: true
 
 Every surface of this armor is slippery and hard to hold on to. While you wear this armor, creatures have disadvantage on checks made to grapple or restrain you and you have advantage on checks made to escape a grapple.
 
+[[Crafting Magic Items|Made with]]: Slippery Slime
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

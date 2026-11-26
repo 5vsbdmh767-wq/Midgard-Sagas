@@ -9,6 +9,8 @@ If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and it
 
 Placing a *bag of holding* inside an extradimensional space created by a *handy haversack, portable hole,* or similar item instantly destroys both items and opens a gate to another plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location within another plane. The gate then closes. The gate is one-way only and can’t be reopened.
 
+[[Crafting Magic Items|Made with]]: Teleport Tracer
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

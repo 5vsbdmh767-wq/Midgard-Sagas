@@ -7,6 +7,8 @@ publish: true
 
 You gain a +1 bonus to AC and saves while wearing this ring.
 
+[[Crafting Magic Items|Made with]]: Abnormal Leather · Celestial Feather
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

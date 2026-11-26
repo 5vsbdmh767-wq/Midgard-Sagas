@@ -38,6 +38,8 @@ The *cube* loses charges when the barrier is targeted by certain spells or comes
 
 The *cube* regains 1d20 expended charges daily at dawn.
 
+[[Crafting Magic Items|Made with]]: Angelic Oil · Creator’s Essence
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

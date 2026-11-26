@@ -7,6 +7,8 @@ publish: true
 
 When you use this sling to make a ranged attack, the ammunition bursts into flames and hurtles toward its target, dealing 1d6 bludgeoning damage and 1d6 fire damage instead of its normal damage.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (fire) · Eruptive Sac
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

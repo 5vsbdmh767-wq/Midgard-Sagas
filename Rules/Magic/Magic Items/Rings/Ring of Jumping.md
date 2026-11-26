@@ -7,6 +7,8 @@ publish: true
 
 While wearing this ring, you can cast the *[[1st-Circle Spells#Longstrider|longstrider]]* spell from it as a bonus action. %% errata 2025-05-29 %% You can target only yourself with it.
 
+[[Crafting Magic Items|Made with]]: Trampling Hoof
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

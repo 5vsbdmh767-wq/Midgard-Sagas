@@ -9,6 +9,8 @@ While you wear these boots, you can use a bonus action and click the boots’ he
 
 When the boots’ property has been used for a total of 10 minutes, the magic ceases to function until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Trampling Hoof · Chronomatic Gear
+
 Part of [[Boots & Footwear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

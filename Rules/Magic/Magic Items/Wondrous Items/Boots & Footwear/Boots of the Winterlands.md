@@ -13,6 +13,8 @@ These furred boots are snug and feel quite warm. While you wear them, you gain t
 
 - You can tolerate temperatures as low as −50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as −100 degrees Fahrenheit.
 
+[[Crafting Magic Items|Made with]]: Thick Hide (polar bear)
+
 Part of [[Boots & Footwear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

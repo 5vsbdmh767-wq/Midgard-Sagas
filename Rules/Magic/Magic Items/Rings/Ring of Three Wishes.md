@@ -5,6 +5,8 @@ publish: true
 
 This ring has 3 charges. While wearing it, you can use an action to expend 1 charge to cast the *[[9th-Circle Spells#Wish|wish]]* spell from it. The ring becomes nonmagical when you use the last charge.
 
+[[Crafting Magic Items|Made with]]: Idolatrous Heart · Celestial Blood · Elemental Essence
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

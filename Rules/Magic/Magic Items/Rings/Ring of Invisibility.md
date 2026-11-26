@@ -7,6 +7,8 @@ publish: true
 
 While wearing this ring, you can turn [[Conditions#Invisible|invisible]] as an action. Anything you are wearing or carrying is [[Conditions#Invisible|invisible]] with you. You remain invisible until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again.
 
+[[Crafting Magic Items|Made with]]: Photoadaptive Hide · Shadowporting Blood · Spectral Essence
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

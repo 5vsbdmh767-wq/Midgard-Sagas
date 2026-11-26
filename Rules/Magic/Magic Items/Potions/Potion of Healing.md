@@ -14,6 +14,8 @@ This red, glimmering potion allows you to regain hit points when you drink it. T
 | Superior Healing | Rare | 8d4 + 8 | 350 gp |
 | Supreme Healing | Very Rare | 10d4 + 20 | 1,500 gp |
 
+[[Crafting Magic Items|Made with]]: Celestial Blood · Troll Heart. Use as many as the version's rarity calls for.
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

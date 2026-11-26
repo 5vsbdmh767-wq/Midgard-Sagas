@@ -7,6 +7,8 @@ publish: true
 
 You gain a +1 bonus to AC and saves while you wear this cloak.
 
+[[Crafting Magic Items|Made with]]: Abnormal Leather
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -15,6 +15,8 @@ This gold coin bears a representation of comedy on one face and tragedy on the o
 
 - If the d6 results in a 5 or 6, use the highest d20 result. You can spend Luck to change the value of the d6, rather than any of the d20s. Once used, the coin can’t be used again for 1 hour.
 
+[[Crafting Magic Items|Made with]]: Fey Tongue
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,7 +11,7 @@ In addition, each spellcaster within 30 feet of you and that can hear the horn m
 
 Once used, the horn can’t be used again until the next dawn.
 
-[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · spellhound throat
+[[Crafting Magic Items|Made with]]: spellhound fur · Magic-Absorbing Organ
 
 Part of [[Instruments]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

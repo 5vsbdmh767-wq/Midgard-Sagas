@@ -11,6 +11,8 @@ While you are attuned to this tattoo, your unarmed strikes deal a minimum of 1d4
 
 Additionally, when you successfully hit with an unarmed strike, you can convert any amount of the bludgeoning damage dealt to force damage. You can use this property a number of times equal to your PB, regaining all expended uses daily at dawn.
 
+[[Crafting Magic Items|Made with]]: Colossal Tendon
+
 Part of [[Magic Tattoos]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

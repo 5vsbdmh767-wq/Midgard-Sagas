@@ -9,6 +9,8 @@ An opalite gem adorns the center of the chest of this red scale armor trimmed in
 
 **Repairing.** The gem must be replaced with an opalite gem, which you must imbue with magic using an available spell slot.
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · Throat Scales
+
 Part of [[Arcanepunk Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -5,6 +5,8 @@ publish: true
 
 While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on DEX (Stealth) checks that rely on moving silently.
 
+[[Crafting Magic Items|Made with]]: Camouflaged Hide
+
 Part of [[Boots & Footwear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

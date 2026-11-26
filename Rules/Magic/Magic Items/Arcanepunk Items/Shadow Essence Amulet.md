@@ -15,6 +15,8 @@ The amulet regains 1d6 + 1 expended charges daily at dawn.
 
 **Repairing.** The gem must be replaced with a similarly colored gem and repaired at night in a graveyard or an area of the recently deceased. The spirits of the dead might try to stop the repair.
 
+[[Crafting Magic Items|Made with]]: Spectral Essence
+
 Part of [[Arcanepunk Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

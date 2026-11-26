@@ -18,6 +18,8 @@ Four sizes of *carpet of flying* exist. The GM chooses the size of a given carpe
 
 A carpet can carry up to twice the weight shown on the table, but it flies at half speed if it carries more than its normal capacity.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (air) · Celestial Feather · Dusty Wings
+
 Part of [[Mounts, Vehicles & Travel]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

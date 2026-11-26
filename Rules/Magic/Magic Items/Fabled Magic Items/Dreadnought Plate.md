@@ -17,6 +17,8 @@ This especially thick plate armor is crafted from ancient metal, heavily scarred
 
 **17th Level.** You gain a +2 bonus to STR. This bonus can’t raise your STR above 20.
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -5,6 +5,8 @@ publish: true
 
 While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (water)
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

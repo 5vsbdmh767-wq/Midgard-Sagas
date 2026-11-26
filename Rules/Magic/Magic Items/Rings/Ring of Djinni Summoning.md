@@ -9,6 +9,8 @@ While summoned, the djinni is friendly to you and your companions. It obeys any 
 
 After the djinni departs, it can’t be summoned again for 24 hours. The ring becomes nonmagical if the djinni dies.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (air) · Bottled Lightning · Elemental Essence
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

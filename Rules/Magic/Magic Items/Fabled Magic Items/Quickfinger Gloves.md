@@ -17,6 +17,8 @@ These gloves are made of a soft, supple leather. While wearing these gloves, you
 
 **17th Level.** If you fail a DEX (Sleight of Hand) or DEX check using tools, you can choose to succeed instead. Once used, the gloves can’t be used in this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

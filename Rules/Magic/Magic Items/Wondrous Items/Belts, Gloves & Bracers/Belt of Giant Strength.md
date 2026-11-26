@@ -17,6 +17,8 @@ Six varieties of this belt exist, corresponding with and having rarity according
 | Cloud giant | 27 | Legendary | 60,000 gp |
 | Storm giant | 29 | Legendary | 80,000 gp |
 
+[[Crafting Magic Items|Made with]]: Primordial Humor (that kind of giant) · Colossal Tendon · Abnormal Leather. Use as many as the version's rarity calls for.
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

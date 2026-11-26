@@ -7,6 +7,8 @@ publish: true
 
 While wearing these gloves, climbing and swimming don’t cost you extra movement, and you gain a +5 bonus to STR (Athletics) checks made to climb or swim.
 
+[[Crafting Magic Items|Made with]]: Gripping Spikes
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

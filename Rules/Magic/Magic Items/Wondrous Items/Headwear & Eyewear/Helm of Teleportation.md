@@ -7,6 +7,8 @@ publish: true
 
 This helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the *[[7th-Circle Spells#Teleport|teleport]]* spell from it. The helm regains 1d3 expended charges daily at dawn.
 
+[[Crafting Magic Items|Made with]]: Teleport Tracer · Shadowporting Blood
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

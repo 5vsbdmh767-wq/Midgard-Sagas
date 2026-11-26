@@ -13,6 +13,8 @@ If you are a spellcaster holding the rod, you can convert energy stored in it in
 
 A newly found *rod of absorption* has 1d10 circles of spell energy stored in it already. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical.
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · Energy-Converting Module · Magebane Tooth
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

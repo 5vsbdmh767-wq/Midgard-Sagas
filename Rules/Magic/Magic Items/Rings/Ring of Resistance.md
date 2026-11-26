@@ -17,6 +17,8 @@ You are resistant to one damage type while wearing this ring. The gem in the rin
 | 4 | Force | Sapphire | 9 | Radiant | Topaz |
 | 5 | Lightning | Citrine | 10 | Thunder | Spinel |
 
+[[Crafting Magic Items|Made with]]: Abnormal Leather · Elemental Gemstone
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

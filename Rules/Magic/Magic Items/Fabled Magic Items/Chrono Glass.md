@@ -30,6 +30,8 @@ This bronze hourglass contains fine white quartz sand. This magic hourglass, onc
 
 **17th Level.** You are immune to spells and effects that would slow or age you. The hourglass now has 18 charges, and as an action, you can expend 9 charges to cast the *[[4th-Circle Spells#Banishment|banishment]]* spell on up to six creatures. In addition to the previously listed spells, you can cast the following additional spells from the hourglass, expending the necessary number of charges: *[[7th-Circle Spells#Sequester|sequester]]* (7 charges) and *[[9th-Circle Spells#Time Stop|time stop]]* (9 charges).
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -7,6 +7,8 @@ publish: true
 
 When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

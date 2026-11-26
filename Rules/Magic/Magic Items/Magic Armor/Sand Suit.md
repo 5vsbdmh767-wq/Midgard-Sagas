@@ -11,7 +11,7 @@ While wearing this armor, you gain a +1 bonus to AC, and you can understand and 
 
 This armor has 3 charges, and it regains 1d3 expended charges daily at dawn. As a reaction, when you are hit by an attack, you can expend 1 charge and make the armor flow like sand. Roll a d12 and reduce the damage you take by the number rolled.
 
-[[Crafting Magic Items|Made with]]: Demonic Thread · Elemental Gemstone (earth) · Spectral Essence
+[[Crafting Magic Items|Made with]]: apaxrusl sandy flesh · Demonic Thread · Elemental Gemstone (earth)
 
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

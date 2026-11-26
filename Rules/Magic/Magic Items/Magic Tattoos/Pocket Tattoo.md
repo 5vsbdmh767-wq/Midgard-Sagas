@@ -11,6 +11,8 @@ As an action, you can touch an item of Medium size or smaller that isn’t being
 
 If the tattoo is destroyed or otherwise loses its magical properties, any items stored within it appear in the nearest unoccupied space that can accommodate them. Items stored in the tattoo aren’t shielded from divination spells or similar detection magic.
 
+[[Crafting Magic Items|Made with]]: Astralsupial Pouch
+
 Part of [[Magic Tattoos]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

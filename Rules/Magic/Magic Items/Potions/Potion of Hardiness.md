@@ -7,6 +7,8 @@ publish: true
 
 When you drink this potion, you remove one level of [[Conditions#Exhaustion|exhaustion]]. The liquid is thick and viscous with unmixing swirls of rich brown and dark green, plus occasional flecks of gold.
 
+[[Crafting Magic Items|Made with]]: Troll Heart
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

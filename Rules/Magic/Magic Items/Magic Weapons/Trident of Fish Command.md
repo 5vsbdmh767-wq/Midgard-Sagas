@@ -5,6 +5,8 @@ publish: true
 
 This trident is a magic weapon. It has 3 charges and regains 1d3 expended charges daily at dawn. While you carry it, you can use an action and expend 1 charge to cast *[[5th-Circle Spells#Dominate|dominate]]* (save DC 15) from it on a Beast that has an innate swimming speed.
 
+[[Crafting Magic Items|Made with]]: Flippers
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

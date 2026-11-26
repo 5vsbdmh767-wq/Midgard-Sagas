@@ -11,6 +11,8 @@ When you use this weapon to make a ranged attack, you can use the command word t
 
 The bow has 3 charges and regains 1d3 expended charges daily at dawn. As an action, you can expend 1 charge along with an arrow to create a hail of arrows that rain down on a 30-foot radius, centered on a point within the bow’s normal range. (You can instead expend 2 charges to increase this to the bow’s long range.) Each creature in the area must make a DC 16 DEX save, taking 8d6 piercing damage (shortbow) or 8d8 piercing damage (longbow) on a failed save, or half as much damage on a successful one. If this reduces one or more creatures to 0 HP, the bow regains 1 charge.
 
+[[Crafting Magic Items|Made with]]: Throwing Spine · Colossal Tendon · Extraordinary Limb
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

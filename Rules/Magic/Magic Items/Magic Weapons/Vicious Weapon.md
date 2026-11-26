@@ -5,6 +5,8 @@ publish: true
 
 When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon’s type to the target.
 
+[[Crafting Magic Items|Made with]]: Throwing Spine · Rending Claws · Frenzying Oil
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

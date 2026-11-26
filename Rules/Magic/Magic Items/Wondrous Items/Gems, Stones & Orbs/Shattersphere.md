@@ -9,6 +9,8 @@ As an action, you can throw this small crystalline sphere at a point up to 60 fe
 
 The circle of the *[[2nd-Circle Spells#Shatter|shatter]]* spell determines the spell’s save DC, as well as the item’s rarity, as shown in the **Shattersphere Rarity** table.
 
+[[Crafting Magic Items|Made with]]: Eruptive Sac · Ringing Claw. Use as many as the version's rarity calls for.
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -5,6 +5,8 @@ publish: true
 
 While wearing these goggles, you have darkvision to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet.
 
+[[Crafting Magic Items|Made with]]: Devil’s Eyes
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

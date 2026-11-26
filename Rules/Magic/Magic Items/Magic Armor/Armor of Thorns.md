@@ -13,6 +13,8 @@ While wearing this armor, you gain a +2 bonus to AC. In addition, as a bonus act
 
 - You gain a climbing speed of 30 feet. The thorns remain in place for 1 minute or until you use a bonus action to dismiss them.
 
+[[Crafting Magic Items|Made with]]: Throwing Spine · Teratoid Bark · Abnormal Leather
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

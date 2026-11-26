@@ -15,6 +15,8 @@ This short, stubby staff with a jester’s hat at its crown has 10 charges and r
 
 ***Unnerving Laughter.*** While holding the staff, as a reaction when you are targeted by a melee attack from a creature you can see within 10 feet, you can expend 1 charge and impose disadvantage on the attack roll.
 
+[[Crafting Magic Items|Made with]]: Fey Tongue · Laughing Fruit
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ You can release the creature by using a bonus action to speak a second command w
 
 The rope has AC 20 and 20 HP. It regains 1 HP every 5 minutes as long as it has at least 1 HP. If the rope drops to 0 HP, it is destroyed.
 
+[[Crafting Magic Items|Made with]]: Extraordinary Limb · Living Tendril
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

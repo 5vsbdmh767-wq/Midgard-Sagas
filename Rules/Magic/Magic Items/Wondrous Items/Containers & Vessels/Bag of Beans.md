@@ -26,6 +26,8 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 | 91–99 | A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a mummy lord. The pyramid is treated as the mummy lord’s lair, and its sarcophagus contains treasure of the GM’s choice. |
 | 00 | A giant beanstalk sprouts, growing to a height of the GM’s choice. The top leads where the GM chooses, such as to a great view, a cloud giant’s castle, or a different plane of existence. |
 
+[[Crafting Magic Items|Made with]]: Primeval Sap · Mandrake Root
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

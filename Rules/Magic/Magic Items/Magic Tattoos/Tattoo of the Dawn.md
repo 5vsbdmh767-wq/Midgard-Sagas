@@ -11,6 +11,8 @@ As an action, you shed sunlight from your body in a 20-foot radius and dim light
 
 You can use this property for up to 5 minutes, either all at once or in shorter spans of 1 minute each. The tattoo regains 1d4 + 1 expended minutes daily at dawn.
 
+[[Crafting Magic Items|Made with]]: Illuminating Essence · Spell-Empowered Ink
+
 Part of [[Magic Tattoos]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

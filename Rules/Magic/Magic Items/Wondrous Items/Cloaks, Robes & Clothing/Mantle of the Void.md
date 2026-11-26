@@ -9,7 +9,7 @@ While wearing this midnight-blue mantle covered in writhing runes, you gain a +1
 
 ***Void-Powered Strike.*** You can use a bonus action to infuse your next spell or attack with power from the Void. Choose one creature that failed its save against your spell or that was hit by your attack. That creature is [[Conditions#Stunned|stunned]] until the end of its next turn. Once used, you can’t use this property again until the next dawn.
 
-[[Crafting Magic Items|Made with]]: Void Essence · Magic-Absorbing Organ
+[[Crafting Magic Items|Made with]]: void giant rune-covered flesh · Void Essence
 
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

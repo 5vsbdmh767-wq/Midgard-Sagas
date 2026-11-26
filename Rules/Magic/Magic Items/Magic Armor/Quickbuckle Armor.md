@@ -5,6 +5,8 @@ publish: true
 
 While carrying or wearing this armor, you can use your action to speak a command word to instantly don or doff it.
 
+[[Crafting Magic Items|Made with]]: Slippery Slime
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -19,6 +19,8 @@ Fashioned from the remains of a dragon, the type of that dragon determines the s
 
 If the spell protects against an energy type or deals damage, use the staff’s associated energy type instead of the spell’s normal type. You can expend double the charges to choose an alternative damage type.
 
+[[Crafting Magic Items|Made with]]: Breath Pouch · Throat Scales · dragon bone
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

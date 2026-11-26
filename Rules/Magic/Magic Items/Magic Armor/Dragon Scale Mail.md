@@ -19,6 +19,8 @@ In addition, you can focus your senses as an action to magically discern the dis
 | Bronze | Lightning | Silver | Cold |
 | Copper | Acid | White | Cold |
 
+[[Crafting Magic Items|Made with]]: Throat Scales (the armor’s kind of dragon) · Breath Pouch · Colossal Tendon
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

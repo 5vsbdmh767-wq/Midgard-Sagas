@@ -17,6 +17,8 @@ This staff can be wielded as a magic quarterstaff that grants a +2 bonus to atta
 
 ***Thunder and Lightning.*** You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn’t expend the daily use of those properties, only the use of this one. When one of these properties is used, it can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Voltaic Organ · Bottled Lightning · Primordial Humor (storm giant)
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

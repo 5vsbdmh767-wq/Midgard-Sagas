@@ -9,6 +9,8 @@ Once an *arrow of slaying* deals its extra damage to a creature, it becomes a no
 
 Ammunition of this type exists for other weapons, such as *bolts of slaying* meant for a crossbow, though arrows are most common.
 
+[[Crafting Magic Items|Made with]]: Throwing Spine · parts of a creature of the arrow’s type
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

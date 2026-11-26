@@ -5,6 +5,8 @@ publish: true
 
 This brass brazier weighs 5 pounds. While a fire burns in it, you can use an action to speak the brazier’s command word and summon a **fire elemental**, as if you had cast the *conjure* *elemental* spell. The brazier can’t be used this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (fire) · Fire Heart
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

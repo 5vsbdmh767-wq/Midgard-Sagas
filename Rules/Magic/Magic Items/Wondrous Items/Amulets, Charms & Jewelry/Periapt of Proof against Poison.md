@@ -5,6 +5,8 @@ publish: true
 
 This delicate silver chain has a brilliant-cut black and green gem pendant. While you wear it, poisons have no effect on you. You are immune to the [[Conditions#Poisoned|poisoned]] condition and to poison damage.
 
+[[Crafting Magic Items|Made with]]: Bezoar · Poison Coil
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

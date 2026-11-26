@@ -5,6 +5,8 @@ publish: true
 
 You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects are suppressed while you wear the pendant.
 
+[[Crafting Magic Items|Made with]]: Celestial Blood
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

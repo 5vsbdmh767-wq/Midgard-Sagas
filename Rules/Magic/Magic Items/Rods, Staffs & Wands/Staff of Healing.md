@@ -9,6 +9,8 @@ This staff has 10 charges. While holding it, you can use an action to expend 1 o
 
 The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff vanishes in a flash of light, lost forever.
 
+[[Crafting Magic Items|Made with]]: Celestial Blood · Troll Heart
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

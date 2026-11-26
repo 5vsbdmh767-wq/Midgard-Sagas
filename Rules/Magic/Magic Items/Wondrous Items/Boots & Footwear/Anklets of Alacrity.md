@@ -7,6 +7,8 @@ This pair of light silver anklets look like a running cat chasing a swallow in f
 
 Once this feature is used, you can’t use it again until you finish a long rest.
 
+[[Crafting Magic Items|Made with]]: Trampling Hoof
+
 Part of [[Boots & Footwear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

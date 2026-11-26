@@ -17,6 +17,8 @@ This ring is made of a reddish metal and set with a brilliant star ruby. While w
 
 **17th Level.** You have immunity to fire damage. In addition, once per day, you can use a bonus action to speak the ring’s command word and polymorph into a fire elemental. While in this form, your statistics are replaced by the statistics of the fire elemental, but you retain your personality, and INT, WIS, and CHA scores. This change lasts for 4 hours, until you use a bonus action to revert to your normal form, or until you drop to 0 HP or die.
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

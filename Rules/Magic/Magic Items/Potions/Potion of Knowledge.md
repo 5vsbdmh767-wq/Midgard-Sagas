@@ -7,6 +7,8 @@ publish: true
 
 When you drink this potion, you have advantage on all INT checks for 1 hour. This liquid is translucent with an iridescent shimmer at its surface. Motes of soft light seem to dance within it.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

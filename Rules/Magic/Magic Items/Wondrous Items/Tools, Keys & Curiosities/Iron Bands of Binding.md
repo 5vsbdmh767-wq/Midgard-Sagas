@@ -11,6 +11,8 @@ A creature, including the one [[Conditions#Restrained|restrained]], can use an a
 
 Once the bands are used, they can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Extraordinary Limb · Magnetizing Agent
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -7,6 +7,8 @@ publish: true
 
 When you drink this potion, you have advantage on initiative rolls and cannot be [[Conditions#Surprised|surprised]] for 1 hour. The liquid is thick yet also seemingly ethereal, and it beads readily, like quicksilver.
 
+[[Crafting Magic Items|Made with]]: Everwatchful Eyes
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

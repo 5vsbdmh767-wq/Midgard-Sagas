@@ -7,6 +7,8 @@ publish: true
 
 While wearing this necklace, you can breathe normally in any environment. You also have advantage on saves made against harmful gases and vapors, such as *[[5th-Circle Spells#Cloudkill|cloudkill]]* and *[[3rd-Circle Spells#Stinking Cloud|stinking cloud]]* effects, inhaled poisons, and the breath weapons of some dragons.
 
+[[Crafting Magic Items|Made with]]: Breath Pouch
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

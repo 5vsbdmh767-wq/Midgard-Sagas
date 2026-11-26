@@ -7,6 +7,8 @@ This item appears to be a longsword hilt. While grasping the hilt, you can use a
 
 The sword’s luminous blade emits bright light in a 15‑foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.
 
+[[Crafting Magic Items|Made with]]: Illuminating Essence · Angelic Oil
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

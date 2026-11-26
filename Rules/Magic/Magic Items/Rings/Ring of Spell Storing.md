@@ -11,6 +11,8 @@ Any creature can store a spell of 1st through 5th circle that it knows or has pr
 
 While wearing this ring, you can cast any spell stored in it, using the appropriate action. If the spell has a trigger, its conditions must be met to cast it. The spell uses the slot circle, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. A spell cast from the ring is no longer stored in it, freeing up space.
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · Spell-Empowered Ink
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

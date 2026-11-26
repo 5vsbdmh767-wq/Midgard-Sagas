@@ -11,6 +11,8 @@ As an action, you can alter your appearance to that of another Humanoid for up t
 
 If you are attempting to impersonate a specific individual, creatures familiar with that individual can discern that you are an imposter by using an action to make an INT (Investigation) or WIS (Insight) check, with advantage, against your CHA (Deception or Performance) check. At the GM’s discretion, those closest to the Humanoid being impersonated—such as a spouse or sibling—automatically succeed on this check.
 
+[[Crafting Magic Items|Made with]]: Scintillating Hide
+
 Part of [[Magic Tattoos]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

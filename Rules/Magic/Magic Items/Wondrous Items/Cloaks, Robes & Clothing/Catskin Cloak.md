@@ -19,6 +19,8 @@ These cloaks are made from the pelts of various large cats. While wearing one, y
 
 ***Tiger.*** You have advantage on DEX (Stealth) checks.
 
+[[Crafting Magic Items|Made with]]: large cat pelt · Sensitive Whisker
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

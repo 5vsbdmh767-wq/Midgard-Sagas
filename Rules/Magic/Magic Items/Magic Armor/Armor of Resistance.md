@@ -15,6 +15,8 @@ You are resistant to one type of damage while you wear this armor. The GM choose
 | 4 | Force | 9 | Radiant |
 | 5 | Lightning | 10 | Thunder |
 
+[[Crafting Magic Items|Made with]]: Abnormal Leather · Elemental Gemstone
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

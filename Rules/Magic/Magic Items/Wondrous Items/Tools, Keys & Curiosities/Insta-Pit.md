@@ -9,6 +9,8 @@ As an action, you can throw this heavy black blob at a point within 60 feet. It 
 
 The pit remains in place for 1 minute or until you use a bonus action to return the condensed blob to your hand. When the pit disappears, any creature still in the pit is ejected harmlessly to the corresponding space on the surface. Once used, the item can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Stone-Eating Acid · Astralsupial Pouch
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -25,6 +25,8 @@ This sword has a long cylindrical hilt with five metal rings fitted over the hil
 
 **17th Level.** When you activate the rings, you can activate all five rings at once, and the total duration the rings can be active increases to 5 minutes.
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

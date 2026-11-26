@@ -7,6 +7,8 @@ publish: true
 
 While wearing this ring, you can cast the *[[5th-Circle Spells#Telekinesis|telekinesis]]* spell, but you can target only objects that aren’t being worn or carried.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain · Magnetizing Agent · Extraordinary Limb
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

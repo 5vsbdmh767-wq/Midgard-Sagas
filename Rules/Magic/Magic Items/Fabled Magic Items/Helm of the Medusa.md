@@ -19,6 +19,8 @@ This tarnished bronze helm covers the wearer’s eyes and is embossed with snake
 
 **17th Level.** As an action, you can turn your magical gaze toward a creature you can see within 30 feet that can also see you. That creature must make a DC 17 CON save. If the save fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is [[Conditions#Restrained|restrained]]. The [[Conditions#Restrained|restrained]] creature must repeat the save at the end of its next turn, becoming petrified on a failure or ending the effect on itself on a success. The petrification lasts for 1 minute, or until the creature is freed by the *[[5th-Circle Spells#Greater Restoration|greater restoration]]* spell or other magic.
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

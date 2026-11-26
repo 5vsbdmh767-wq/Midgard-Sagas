@@ -5,6 +5,8 @@ publish: true
 
 While wielding this shield, you have advantage on saves against spells and other magical effects, and spell attacks have disadvantage against you.
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · Magebane Tooth · Abnormal Leather
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

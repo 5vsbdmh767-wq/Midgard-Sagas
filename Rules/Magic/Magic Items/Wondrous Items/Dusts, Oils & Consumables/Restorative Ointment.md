@@ -7,6 +7,8 @@ This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture 
 
 As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2d8 + 2 hit points, ceases to be [[Conditions#Poisoned|poisoned]], and is cured of any disease.
 
+[[Crafting Magic Items|Made with]]: Celestial Blood
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

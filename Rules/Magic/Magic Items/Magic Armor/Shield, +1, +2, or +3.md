@@ -13,6 +13,8 @@ While wielding this shield, you have a bonus to AC determined by the shield’s 
 | +2 | Rare | 5,000 gp + shield base cost |
 | +3 | Very Rare | 15,000 gp + shield base cost |
 
+[[Crafting Magic Items|Made with]]: Abnormal Leather · Thick Hide · Colossal Tendon. Use as many as the version's rarity calls for.
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

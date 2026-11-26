@@ -11,6 +11,8 @@ Six stars, located on the robe’s upper front portion, are particularly large. 
 
 While you wear the robe, you can use an action to enter the Astral Plane along with everything you are wearing and carrying. You remain there until you use an action to return to the plane you were on. You reappear in the last space you occupied, or if that space is occupied, the nearest unoccupied space.
 
+[[Crafting Magic Items|Made with]]: Void Essence · Illuminating Essence · Searsprite Essence
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

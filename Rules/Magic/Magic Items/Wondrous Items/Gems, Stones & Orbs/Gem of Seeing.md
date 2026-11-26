@@ -9,6 +9,8 @@ This gem has 3 charges. As an action, you can speak the gem’s command word and
 
 The gem regains 1d3 expended charges daily at dawn.
 
+[[Crafting Magic Items|Made with]]: Devil’s Eyes · Emerald Shard
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

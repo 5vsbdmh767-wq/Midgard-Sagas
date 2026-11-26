@@ -15,6 +15,8 @@ This ancient plate armor is crafted from a strange, black metal. Vicious spikes 
 
 **17th Level.** You now gain a +3 bonus to AC and to attack and damage rolls with the armor’s spikes, instead of +2.
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

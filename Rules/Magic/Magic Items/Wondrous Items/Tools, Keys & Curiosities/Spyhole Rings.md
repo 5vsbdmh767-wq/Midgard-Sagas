@@ -9,6 +9,8 @@ These paired rings must be used together. As a bonus action, you can affix each 
 
 Once the “spyhole” is created, it works in both directions, so creatures on the other end could potentially look through to see you as well. As a bonus action, you can detach an affixed ring from its surface.
 
+[[Crafting Magic Items|Made with]]: Everwatchful Eyes · Teleport Tracer
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

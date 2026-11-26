@@ -11,6 +11,8 @@ Barbs make the dart difficult to remove after a hit. The target, or another crea
 
 Once its magic is expended, the dart can be treated as a nonmagical dart, which can be left embedded in a target’s body as part of a successful attack.
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

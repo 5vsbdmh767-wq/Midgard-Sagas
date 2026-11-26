@@ -7,6 +7,8 @@ This magic item functions as a normal set of thieves’ tools (see **Tools** in 
 
 The *lockpicks* regain 1d3 charges daily at dusk. If you expend the last charge, roll a d20. On a 1, the set permanently transforms into a nonmagical set of thieves’ tools (see **Adventuring Gear** in **Chapter 5**).
 
+[[Crafting Magic Items|Made with]]: Living Lockpick
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

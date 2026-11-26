@@ -7,6 +7,8 @@ publish: true
 
 While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, when you roll a hit die to regain hit points, double the number of hit points it restores.
 
+[[Crafting Magic Items|Made with]]: Troll Heart
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

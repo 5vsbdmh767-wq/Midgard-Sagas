@@ -5,6 +5,8 @@ publish: true
 
 *+ weapon base cost* When you miss an attack with this clockwork-enhanced polearm, you can gain advantage on your next attack made with it within 1 minute. Once used, this property can’t be used again for 1 minute.
 
+[[Crafting Magic Items|Made with]]: Whirling Gizmo
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

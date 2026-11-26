@@ -14,6 +14,8 @@ This gem contains a mote of elemental energy. When you use an action to break th
 | Red corundum | Fire elemental |
 | Emerald | Water elemental |
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

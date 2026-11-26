@@ -5,6 +5,8 @@ publish: true
 
 When you drink this potion, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on STR (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone.
 
+[[Crafting Magic Items|Made with]]: Gripping Spikes
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

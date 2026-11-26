@@ -5,6 +5,8 @@ publish: true
 
 When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you are resistant to fire damage.
 
+[[Crafting Magic Items|Made with]]: Primordial Humor (frost giant) · Ice Heart · Ice Splinter
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

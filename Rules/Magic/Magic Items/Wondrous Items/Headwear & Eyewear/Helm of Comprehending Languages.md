@@ -5,6 +5,8 @@ publish: true
 
 While wearing this helm, you can use an action to cast the *[[1st-Circle Spells#Comprehend Languages|comprehend languages]]* spell from it.
 
+[[Crafting Magic Items|Made with]]: Fey Tongue
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

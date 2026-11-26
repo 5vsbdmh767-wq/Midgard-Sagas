@@ -24,6 +24,8 @@ Once three fuzzy objects have been pulled from the bag, the bag can’t be used 
 | 7 | Dire wolf | 8 | Brown bear | 8 | Tiger |
 | 8 | Giant elk |  |  |  |  |
 
+[[Crafting Magic Items|Made with]]: Animal Lord Essence
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

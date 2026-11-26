@@ -5,6 +5,8 @@ publish: true
 
 This ammunition is made from hollowed antler or bone and emits a shrill whistle while airborne. When you hit a creature with it, the ammunition deals only half its damage, but the target must succeed on a DC 11 CON save or be [[Conditions#Deafened|deafened]] until the end of its next turn.
 
+[[Crafting Magic Items|Made with]]: hollowed antler or bone
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

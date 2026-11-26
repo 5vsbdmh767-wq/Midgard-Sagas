@@ -7,6 +7,8 @@ You can use an action to speak the horn’s command word and then blow the horn,
 
 Each use of the horn’s magic has a 20 percent chance of causing the horn to explode. The explosion deals 10d6 fire damage to the blower and destroys the horn.
 
+[[Crafting Magic Items|Made with]]: Resonant Trunk · Eruptive Sac
+
 Part of [[Instruments]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

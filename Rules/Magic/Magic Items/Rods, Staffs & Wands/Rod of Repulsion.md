@@ -11,6 +11,8 @@ While holding this rod, as an action, you can target one creature that you can s
 
 If this movement is interrupted by the target encountering a solid surface (such as being pushed into a stone wall), the target also takes 1d6 bludgeoning damage for each 5-foot increment it moved.
 
+[[Crafting Magic Items|Made with]]: Magnetizing Agent · Colossal Tendon
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

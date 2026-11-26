@@ -22,6 +22,8 @@ The following crystal ball variants are legendary items and have additional prop
 | Crystal Ball of Telepathy | Legendary | 60,000 gp |
 | Crystal Ball of True Seeing | Legendary | 70,000 gp |
 
+[[Crafting Magic Items|Made with]]: Everwatchful Eyes · Devil’s Eyes · Aberrant Brain. Use as many as the version's rarity calls for.
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

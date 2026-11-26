@@ -5,6 +5,8 @@ publish: true
 
 This brass locket contains an image of a smiling kobold. While wearing the amulet, you can use the Help action as a bonus action. Once used, you can’t use this property again until you spend 1 Luck to recharge the amulet (no action required to recharge).
 
+[[Crafting Magic Items|Made with]]: Fragrance Gland
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

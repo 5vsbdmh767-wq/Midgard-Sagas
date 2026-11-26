@@ -9,6 +9,8 @@ You can use an action to throw a bead up to 60 feet. The bead explodes on impact
 
 An enclosed creature can use its action to push against the sphere’s wall, moving the sphere up to half the creature’s walking speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
 
+[[Crafting Magic Items|Made with]]: Angelic Oil
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

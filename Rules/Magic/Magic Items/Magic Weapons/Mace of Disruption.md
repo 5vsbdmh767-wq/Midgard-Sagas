@@ -7,6 +7,8 @@ When you hit a Fiend or Undead with this magic weapon, the target takes an extra
 
 While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
+[[Crafting Magic Items|Made with]]: Angelic Oil · Illuminating Essence
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

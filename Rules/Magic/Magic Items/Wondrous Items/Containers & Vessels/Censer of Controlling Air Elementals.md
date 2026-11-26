@@ -5,6 +5,8 @@ publish: true
 
 This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. It weighs 1 pound. While incense is burning in this censer, you can use an action to speak the censer’s command word and summon an **air elemental**, as if you had cast the *[[5th-Circle Spells#Conjure Elemental|conjure elemental]]* spell. The censer can’t be used this way again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (air) · Bottled Lightning
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

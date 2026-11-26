@@ -7,7 +7,7 @@ publish: true
 
 A pendant fashioned from the claw or horn of a pact drake is affixed to a thin gold chain. While you wear it, you know if you hear a lie, but this doesn’t apply to evasive statements that remain within the boundaries of the truth. If you lie while wearing this pendant, you become [[Conditions#Poisoned|poisoned]] for 10 minutes.
 
-[[Crafting Magic Items|Made with]]: Angel Ear Wax · pact drake horn
+[[Crafting Magic Items|Made with]]: pact drake claw or horn · Angel Ear Wax
 
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

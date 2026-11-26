@@ -7,6 +7,8 @@ publish: true
 
 Your INT score is 19 while you wear this headband. It has no effect on you if your INT is already 19 or higher.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

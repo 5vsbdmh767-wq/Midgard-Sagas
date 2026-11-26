@@ -23,6 +23,8 @@ This warhammer, unblemished and with a seemingly eternal shine, appears to be ma
 
 **17th Level.** You gain a +3 bonus to attack and damage rolls made with this weapon, instead of +2. When you roll a 20 on an attack roll with this weapon against a creature, the target takes an extra 2d10 (or 2d12 if used with two hands) bludgeoning damage, instead of 1d10 (or 1d12). If the target has 100 HP or fewer after taking this damage, it dies.
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

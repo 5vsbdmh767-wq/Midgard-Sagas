@@ -7,6 +7,8 @@ publish: true
 
 You have advantage on saves against spells while you wear this cloak.
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · Magebane Tooth
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

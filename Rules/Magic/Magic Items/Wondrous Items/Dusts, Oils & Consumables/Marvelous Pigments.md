@@ -13,6 +13,8 @@ Nothing created by the pigments can have a value greater than 25 gp. If you pain
 
 If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, doing no harm.
 
+[[Crafting Magic Items|Made with]]: Creator’s Essence · Spell-Empowered Ink
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

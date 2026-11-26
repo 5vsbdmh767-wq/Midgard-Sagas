@@ -11,6 +11,8 @@ This small hand mirror sits inside an unassuming, folding case. While holding th
 
 The mirror can only contain one captured semblance at a time. If you capture a new semblance, it replaces any held in the mirror.
 
+[[Crafting Magic Items|Made with]]: Scintillating Hide · Photoadaptive Hide · shapechanger blood
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

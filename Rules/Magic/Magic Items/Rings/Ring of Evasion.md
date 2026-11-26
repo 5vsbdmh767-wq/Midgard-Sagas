@@ -5,6 +5,8 @@ publish: true
 
 This ring has 3 charges and regains 1d3 expended charges daily at dawn. When you fail a DEX save while wearing it, you can use your reaction to expend 1 charge to succeed on that save instead.
 
+[[Crafting Magic Items|Made with]]: Slippery Slime · Photoadaptive Hide
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

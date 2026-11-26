@@ -9,6 +9,8 @@ When you make a ranged attack roll with this weapon against your sworn enemy, yo
 
 While your sworn enemy lives, you have disadvantage on attack rolls with all other weapons.
 
+[[Crafting Magic Items|Made with]]: Fey Tongue · Throwing Spine · Primeval Sap
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -7,6 +7,8 @@ publish: true
 
 While you wear this ring, difficult terrain doesn’t cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be [[Conditions#Paralyzed|paralyzed]] or [[Conditions#Restrained|restrained]].
 
+[[Crafting Magic Items|Made with]]: Slippery Slime · Gripping Spikes
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

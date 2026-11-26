@@ -9,7 +9,7 @@ Script from dozens of languages flows across this sandstone pyramid’s surface.
 
 The pyramid has 3 charges, and it regains 1d3 expended charges daily at dawn. You can use an action to expend 1 of its charges to imbue yourself with magical speech for 1 hour. For the duration, any creature that knows at least one language and that can hear you understands any words you speak. In addition, you can use an action to expend 1 of the pyramid’s charges to imbue up to six creatures within 30 feet of you with magical understanding for 1 hour. For the duration, each target can understand any spoken language that it hears.
 
-[[Crafting Magic Items|Made with]]: Fey Tongue · Imitative Vocal Cords
+[[Crafting Magic Items|Made with]]: repository language module · Fey Tongue
 
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

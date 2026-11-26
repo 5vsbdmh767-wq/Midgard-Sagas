@@ -9,6 +9,8 @@ You can use an action to present the rod and command obedience from each creatur
 
 The rod can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Idolatrous Heart · Fey Tongue
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ When you hit with an attack using this magic weapon, you gain insight into the t
 
 In addition, while you hold the weapon, you have resistance to psychic damage.
 
+[[Crafting Magic Items|Made with]]: Fey Tongue · Imitative Vocal Cords · Hag’s Blood
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

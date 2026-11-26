@@ -5,6 +5,8 @@ publish: true
 
 This clockwork necklace contains tiny weights and gyroscopes enchanted to maintain balance with each other. When you make a weapon attack while wearing the necklace, you can forgo rolling a d20 to choose a result of 1 (failing in this way doesn't generate Luck). The next weapon attack you make within 1 minute is considered a critical hit, no roll required. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Whirling Gizmo
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

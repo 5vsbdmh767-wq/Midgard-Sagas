@@ -9,6 +9,8 @@ While wearing this armor, you gain a +1 bonus to AC. In addition, you have advan
 
 Each day at dawn, the armor grows three pieces of magical fruit, which you can pick as a bonus action and eat as an action. A creature eating one of these fruits regains 1d8 + 4 hit points and has sufficient nourishment to sustain them for 24 hours.
 
+[[Crafting Magic Items|Made with]]: Camouflaged Hide (forest) · Teratoid Bark
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

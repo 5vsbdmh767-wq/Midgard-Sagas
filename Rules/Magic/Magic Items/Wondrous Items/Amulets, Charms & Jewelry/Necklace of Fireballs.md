@@ -7,6 +7,8 @@ This necklace has 1d6 + 3 beads hanging from it. You can use an action to detach
 
 You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the spell circle of the *[[3rd-Circle Spells#Fireball|fireball]]* by 1 for each bead beyond the first.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (fire) · Eruptive Sac
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

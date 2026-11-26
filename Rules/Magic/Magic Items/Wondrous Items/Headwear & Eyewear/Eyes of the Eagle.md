@@ -19,6 +19,8 @@ These crystal lenses fit over the eyes. While wearing them, you have advantage o
 
 ***Whip.*** You can use an action to throw this token to a point within 10 feet of you. The token disappears, and a floating whip takes its place. You can then use a bonus action to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes 1d6 + 5 force damage. As a bonus action on your turn, you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of it. The whip disappears after 1 hour, when you use an action to dismiss it, or when you are [[Conditions#Incapacitated|incapacitated]] or die.
 
+[[Crafting Magic Items|Made with]]: Telescopic Eyes
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -13,6 +13,8 @@ This wand has 5 charges and regains 1d4 + 1 expended charges daily at dawn. As a
 
 If you expend the last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
+[[Crafting Magic Items|Made with]]: Imitative Vocal Cords · Resonant Trunk
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

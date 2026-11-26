@@ -5,6 +5,8 @@ publish: true
 
 When you drink this potion, you gain the effect of the *[[3rd-Circle Spells#Haste|haste]]* spell for 1 minute (no concentration required). The potion’s yellow fluid is streaked with black and swirls on its own.
 
+[[Crafting Magic Items|Made with]]: Trampling Hoof · Chronomatic Gear
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

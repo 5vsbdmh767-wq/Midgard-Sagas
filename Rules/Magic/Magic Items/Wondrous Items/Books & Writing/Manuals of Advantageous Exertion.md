@@ -16,6 +16,8 @@ These handwritten books contain exercises and insights into improving your abili
 | Tome of Leadership and Influence | CHA |
 | Tome of Understanding | WIS |
 
+[[Crafting Magic Items|Made with]]: Primordial Humor · Aberrant Brain · Spell-Empowered Ink
+
 Part of [[Books & Writing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

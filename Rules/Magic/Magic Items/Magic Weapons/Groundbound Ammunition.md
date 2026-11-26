@@ -9,6 +9,8 @@ When a flying creature is hit by an attack using this ammunition, it takes norma
 
 Once the creature is on the ground, you have advantage on attack rolls against it when using this ammunition. If you hit the grounded creature with additional *groundbound* *ammunition*, the creature makes any subsequent saves against its effect with disadvantage.
 
+[[Crafting Magic Items|Made with]]: Magnetizing Agent · Anchoring Root. Use as many as the version's rarity calls for.
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

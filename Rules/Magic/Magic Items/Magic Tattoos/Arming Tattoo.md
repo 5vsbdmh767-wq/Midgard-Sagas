@@ -11,6 +11,8 @@ When you wield a weapon with the Ammunition property, this tattoo summons a piec
 
 Unfired ammunition disappears when you stow the weapon and fired ammunition disappears immediately after each attack is resolved.
 
+[[Crafting Magic Items|Made with]]: Spell-Empowered Ink
+
 Part of [[Magic Tattoos]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -13,6 +13,8 @@ If the *hole* is folded up, a creature within the *hole’s* extradimensional sp
 
 Placing a *portable hole* inside an extradimensional space created by a *[[Bag of Holding|bag of holding]]*, *[[Handy Haversack|handy haversack]]*, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
 
+[[Crafting Magic Items|Made with]]: Void Essence · Astralsupial Pouch
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

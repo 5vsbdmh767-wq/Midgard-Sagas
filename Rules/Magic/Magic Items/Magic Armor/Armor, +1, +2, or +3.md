@@ -13,6 +13,8 @@ While wearing this armor, you receive the armor’s standard bonus to AC and an 
 | +2 | Very Rare | 7,500 gp + armor base cost |
 | +3 | Legendary | 25,000 gp + armor base cost |
 
+[[Crafting Magic Items|Made with]]: Abnormal Leather · Colossal Tendon · Besieging Plating. Use as many as the version's rarity calls for.
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -21,6 +21,8 @@ This greataxe has a dulled, brushed texture and shows many scars, but it occasio
 
 **17th Level.** You gain a +3 bonus to attack and damage rolls made with this weapon, instead of +2. While wielding this weapon, as a reaction when you are hit by a weapon attack, you can cause another creature within range of the attack (which can include the attacker) to take an amount of psychic damage equal to the amount of damage you took from the attack. You can use this property a number of times per day equal to your PB, regaining all expended uses at the next dawn.
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

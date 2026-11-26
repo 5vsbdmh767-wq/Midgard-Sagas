@@ -11,6 +11,8 @@ This wand has 5 charges and regains 1d4 + 1 expended charges daily at dawn. If y
 
 ***Spells.*** While holding the wand, as an action, you can expend some of its charges to cast one of the following spells (save DC 15): *[[1st-Circle Spells#Entangle|entangle]]* (1 charge) and *[[2nd-Circle Spells#Spike Growth|spike growth]]* (2 charges).
 
+[[Crafting Magic Items|Made with]]: Anchoring Root · Living Tendril
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

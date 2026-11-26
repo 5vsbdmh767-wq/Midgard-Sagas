@@ -7,6 +7,8 @@ publish: true
 
 While wearing this ring, you have resistance to cold damage. In addition, you and your equipment are unharmed by temperatures as low as -50 degrees Fahrenheit.
 
+[[Crafting Magic Items|Made with]]: Fiendish Oil
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

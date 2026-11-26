@@ -7,6 +7,8 @@ publish: true
 
 Your CON score is 19 while you carry this amulet. It has no effect on you if your CON is already 19 or higher.
 
+[[Crafting Magic Items|Made with]]: Celestial Blood · Troll Heart
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

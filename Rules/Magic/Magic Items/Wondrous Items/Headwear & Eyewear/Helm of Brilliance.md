@@ -17,6 +17,8 @@ You gain the following benefits while wearing it:
 
 - As long as the helm has at least one fire opal, you can use an action and speak a command word to cause one weapon you are wielding to burst into flames. The flames emit bright light in a 10-foot radius and dim light for an additional 10 feet. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon, the target takes an extra 1d6 fire damage. The flames last until you use a bonus action to speak the command word again or until you drop or stow the weapon. Roll a d20 if you are wearing the helm and take fire damage as a result of failing a save against a spell. On a roll of 1, the helm emits beams of light from its remaining gems. Each creature within 60 feet of the helm other than you must succeed on a DC 17 DEX save or be struck by a beam, taking radiant damage equal to the number of gems in the helm. The helm and its gems are then destroyed.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (fire) · Illuminating Essence · Huecambra Gem
+
 Part of [[Headwear & Eyewear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

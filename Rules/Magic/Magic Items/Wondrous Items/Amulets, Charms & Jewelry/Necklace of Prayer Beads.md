@@ -20,6 +20,8 @@ Six types of magic beads exist. The GM decides the type of each bead on the neck
 | 19 | Summons | Planar ally |
 | 20 | Wind walking | Wind walk |
 
+[[Crafting Magic Items|Made with]]: Idolatrous Heart · Celestial Blood
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

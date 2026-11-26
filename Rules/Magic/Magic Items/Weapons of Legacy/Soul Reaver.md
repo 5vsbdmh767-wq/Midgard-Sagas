@@ -27,6 +27,8 @@ Potential mighty deeds for this weapon include the following:
 
 - Bathe the weapon in the blood of a legendary creature.
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Weapons of Legacy]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

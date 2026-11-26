@@ -9,6 +9,8 @@ A creature can use an action to smash the pellet against a hard surface, causing
 
 An elemental composed mostly of water that is exposed to a pinch of the dust must make a DC 13 CON save, taking 10d6 necrotic damage on a failed save, or half as much damage on a successful one.
 
+[[Crafting Magic Items|Made with]]: Water-Absorbing Organ
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -24,6 +24,8 @@ A creature inside the compartment can use an action to move up to two of the lev
 | 9 | The apparatus sinks as much as 20 feet in liquid. | The apparatus rises up to 20 feet in liquid. |
 | 10 | The rear hatch unseals and opens. | The rear hatch closes and seals. |
 
+[[Crafting Magic Items|Made with]]: Insectoid Carapace · Whirling Gizmo · Garroter Claw
+
 Part of [[Mounts, Vehicles & Travel]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ This wand has 7 charges and regains 1d6 + 1 expended charges daily at dawn. If y
 
 ***Assisted Escape.*** While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a save you make to avoid being [[Conditions#Paralyzed|paralyzed]] or [[Conditions#Restrained|restrained]], or you can expend 1 charge and gain advantage on any check you make to escape a grapple.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain · Paralytic Silk
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

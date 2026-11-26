@@ -5,6 +5,8 @@ publish: true
 
 While wearing this ring, your swimming speed is 40 feet.
 
+[[Crafting Magic Items|Made with]]: Flippers
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

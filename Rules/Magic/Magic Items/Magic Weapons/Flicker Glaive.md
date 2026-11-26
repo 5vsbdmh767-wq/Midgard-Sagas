@@ -11,6 +11,8 @@ As a glaive, the weapon can also make a ranged weapon attack, firing its blade w
 
 The blade housing can hold up to three glaive blades, and if the blades are recovered, they can be reloaded as a bonus action. Once fired, a new blade automatically replaces it from within the blade housing if there are any available. Blades can be replaced with standard nonmagical glaive blades.
 
+[[Crafting Magic Items|Made with]]: Shadowporting Blood · Bizarre Cartilage
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

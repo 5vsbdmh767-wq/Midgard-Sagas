@@ -11,6 +11,8 @@ This stoppered flask sloshes when shaken, as if it contains water. The decanter 
 
 - “Geyser” produces 30 gallons of water that gushes forth in a geyser 30 feet long and 1 foot wide. As a bonus action while holding the decanter, you can aim the geyser at a creature you can see within 30 feet of you. The target must succeed on a DC 13 STR save or take 1d4 bludgeoning damage and fall [[Conditions#Prone|prone]]. Instead of a creature, you can target an object that isn’t being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 15 feet away from you.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (water)
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

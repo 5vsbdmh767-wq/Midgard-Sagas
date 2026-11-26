@@ -9,6 +9,8 @@ These magic tattoos often depict symbols of fortune like dice, clovers, coins, r
 
 Whenever you gain Luck, you can choose to store it in this tattoo. The tattoo can hold a number of Luck equal to your PB. Luck stored in the tattoo doesn’t count against your maximum Luck. When you spend Luck, you can spend any combination of Luck stored in the tattoo and Luck accrued normally, up to a maximum of 5 Luck total spent on the same roll.
 
+[[Crafting Magic Items|Made with]]: Fey Tongue · Gluckshund Heart
+
 Part of [[Magic Tattoos]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

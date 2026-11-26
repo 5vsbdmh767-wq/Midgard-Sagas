@@ -9,6 +9,8 @@ These shards are always created in pairs and can take any form, such as polished
 
 Once used, the item can’t be used again until the next dawn. If one shard is destroyed, or its magic otherwise permanently deactivated, its twin suffers the same fate.
 
+[[Crafting Magic Items|Made with]]: Imitative Vocal Cords
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

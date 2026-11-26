@@ -23,6 +23,8 @@ While wearing the vial, as indicated in the **Dragon Type** table, you gain a co
 
 **17th Level.** As an action, you manifest a dragon’s frightful presence. Each creature of your choice within 30 feet of you and aware of you must succeed on a DC 19 WIS save or be [[Conditions#Frightened|frightened]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

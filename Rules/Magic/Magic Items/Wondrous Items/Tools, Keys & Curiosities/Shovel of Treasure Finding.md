@@ -9,6 +9,8 @@ When holding this shovel, as an action, you can speak its command word to make i
 
 Once the location is pinpointed, the shovel can be treated as adamantine for 1 minute to more easily dig up the treasure. Once this feature is used, the item can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Treasure-Sensitive Nose · Stone-Eating Acid
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

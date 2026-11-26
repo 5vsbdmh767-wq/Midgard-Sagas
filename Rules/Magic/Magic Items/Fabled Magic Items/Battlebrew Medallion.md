@@ -21,6 +21,8 @@ In addition, if you reach out your empty hand, you can conjure a chilled, empty 
 
 **17th Level.** You can use the medallion to cast the *[[Rituals 4th–6th Circle#Heroes’ Feast|heroes’ feast]]* spell. The feast you conjure can be made entirely of drink instead of food if you wish, and creatures consuming it will get a pleasant buzz if desired but suffer no ill effects. Once used, this property can’t be used again until 7 days have passed.
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

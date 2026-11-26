@@ -7,6 +7,8 @@ You can use an action to place these shackles on an [[Conditions#Incapacitated|i
 
 You and any creature you designate when you use the shackles can use an action to remove them. Once every 30 days, the bound creature can make a DC 30 STR (Athletics) check. On a success, the creature breaks free and destroys the shackles.
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · Teleport Tracer
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

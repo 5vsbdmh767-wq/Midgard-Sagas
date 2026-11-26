@@ -7,6 +7,8 @@ publish: true
 
 This medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the *[[2nd-Circle Spells#Detect Thoughts|detect thoughts]]* spell (save DC 13) from it. The *medallion* regains 1d3 expended charges daily at dawn.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ This curved blade has a garnet gem below the guard. The blade has 5 charges. Aft
 
 **Repairing.** The gem must be replaced with a similarly colored gem, and a nonmagical, rusted metal item must be broken the next morning after the gem is repaired to complete the ritual.
 
+[[Crafting Magic Items|Made with]]: Stone-Eating Acid · Rusting Antennae
+
 Part of [[Arcanepunk Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

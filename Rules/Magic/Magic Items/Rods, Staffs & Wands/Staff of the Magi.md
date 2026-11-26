@@ -21,6 +21,8 @@ The staff has 50 charges and regains 4d6 + 2 expended charges daily at dawn. If 
 | 11 to 20 ft. away | 6 × the number of charges in the staff |
 | 21 to 30 ft. away | 4 × the number of charges in the staff |
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · Elemental Gemstone · Aberrant Brain
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

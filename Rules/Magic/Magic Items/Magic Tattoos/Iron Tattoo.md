@@ -11,6 +11,8 @@ The tattoo has a number of hit points equal to 5 times your PB. When you take da
 
 The tattoo will automatically reduce your damage taken if you are [[Conditions#Unconscious|unconscious]], but it will stop when it has 1 HP remaining. That last hit point can only be used while you are conscious.
 
+[[Crafting Magic Items|Made with]]: Insectoid Carapace
+
 Part of [[Magic Tattoos]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

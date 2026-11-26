@@ -9,6 +9,8 @@ While you wear these boots, you have a flying speed equal to your walking speed.
 
 The boots regain 2 hours of flying capability for every 12 hours they aren’t in use.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather
+
 Part of [[Boots & Footwear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

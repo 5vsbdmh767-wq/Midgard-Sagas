@@ -9,6 +9,8 @@ This wand has 7 charges. While holding it, you can use an action and expend 1 ch
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
+[[Crafting Magic Items|Made with]]: Everwatchful Eyes · Sensitive Whisker
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

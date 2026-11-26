@@ -17,6 +17,8 @@ The armor has 3 charges and regains 1d3 expended charges daily at dawn. While we
 
 - You can occupy another creature’s space, and vice versa. While a swarm, you can no longer deal weapon damage, but you can target a creature in your space with an attack, dealing your unarmed strike damage on a hit, or half that damage if you have half your HP or fewer. You can still cast spells, but only those with verbal or somatic components. As a bonus action, you can return to your normal form.
 
+[[Crafting Magic Items|Made with]]: Insectoid Carapace · Clacking Mandibles
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

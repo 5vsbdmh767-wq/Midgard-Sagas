@@ -11,6 +11,8 @@ On your turn, you can mentally command the snake if it is within 60 feet of you 
 
 If the snake is reduced to 0 HP, it dies and reverts to its staff form. The staff then shatters and is destroyed. If the snake reverts to staff form before losing all its HP, it regains all of them.
 
+[[Crafting Magic Items|Made with]]: Thick Hide (giant constrictor snake)
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

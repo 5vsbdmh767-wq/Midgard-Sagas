@@ -15,6 +15,8 @@ You gain these benefits while wearing the robe:
 
 - Your spell save DC and spell attack bonus each increase by 2.
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · Magebane Tooth · Celestial Feather
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

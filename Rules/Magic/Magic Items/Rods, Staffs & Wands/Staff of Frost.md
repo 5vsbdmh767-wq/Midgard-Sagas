@@ -11,6 +11,8 @@ The staff has 10 charges. While holding it, you can use an action to expend 1 or
 
 The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns to water and is destroyed.
 
+[[Crafting Magic Items|Made with]]: Primordial Humor (frost giant) · Ice Heart · Elemental Gemstone (water)
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

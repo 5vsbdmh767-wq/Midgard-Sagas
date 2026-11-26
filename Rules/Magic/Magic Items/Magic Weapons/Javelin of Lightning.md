@@ -7,6 +7,8 @@ This javelin is a magic weapon. When you hurl it and speak its command word, it 
 
 The javelin’s property can’t be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon.
 
+[[Crafting Magic Items|Made with]]: Voltaic Organ
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ While wearing this cloak, you have advantage on DEX (Stealth) checks. In an area
 
 While wearing the cloak in an area of dim light or darkness, you can use your action to cast *[[4th-Circle Spells#Polymorph|polymorph]]* on yourself, transforming into a **bat**. While you are in the form of the bat, you retain your INT, WIS, and CHA scores. The cloak can’t be used this way again until the next dusk.
 
+[[Crafting Magic Items|Made with]]: Photoadaptive Hide · giant bat wing
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -11,6 +11,8 @@ This axe doubles as a magical lute, and you can simply will the axe’s strings 
 
 If you score a critical hit with the axe, your music fills the target’s head, forcing it to make a CHA save against your spell save DC. On a failed save, the creature is so enthralled by the music that it drops anything it’s holding and becomes [[Conditions#Incapacitated|incapacitated]] until the start of your next turn. While [[Conditions#Incapacitated|incapacitated]] in this way, the only thing the creature can do is dance to the music.
 
+[[Crafting Magic Items|Made with]]: Rending Claws · Abnormal Leather · Colossal Tendon. Use as many as the version's rarity calls for.
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -9,6 +9,8 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. In a
 
 When a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 WIS save or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.
 
+[[Crafting Magic Items|Made with]]: Frenzying Oil · Troll Heart
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

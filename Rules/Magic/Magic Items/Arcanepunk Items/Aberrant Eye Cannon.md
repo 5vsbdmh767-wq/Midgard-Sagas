@@ -17,6 +17,8 @@ The eye cannon regains 1d6 + 1 expended charges daily at dawn.
 
 **Repairing.** The eye cannon can only be repaired by finding another Aberration eye, which must then be petrified before being fitted into the eye cannon.
 
+[[Crafting Magic Items|Made with]]: Aberrant Brain · Everwatchful Eyes · Extraordinary Limb
+
 Part of [[Arcanepunk Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

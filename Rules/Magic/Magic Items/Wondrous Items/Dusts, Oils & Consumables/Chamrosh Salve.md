@@ -9,7 +9,7 @@ This 3-inch-diameter ceramic jar contains 1d4 + 1 doses of a syrupy mixture that
 
 As an action, one dose of the ointment can be applied to the skin. The creature that receives it regains 2d8 + 1 hit points and is cured of the [[Conditions#Charmed|charmed]], [[Conditions#Frightened|frightened]], and [[Conditions#Poisoned|poisoned]] conditions.
 
-[[Crafting Magic Items|Made with]]: Celestial Blood
+[[Crafting Magic Items|Made with]]: chamrosh saliva
 
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 

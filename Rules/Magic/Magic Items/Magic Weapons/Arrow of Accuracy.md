@@ -7,6 +7,8 @@ publish: true
 
 When this arrow is used to make an attack, it grants advantage to your attack roll. Once it successfully hits a target, the arrow becomes nonmagical.
 
+[[Crafting Magic Items|Made with]]: Celestial Feather
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

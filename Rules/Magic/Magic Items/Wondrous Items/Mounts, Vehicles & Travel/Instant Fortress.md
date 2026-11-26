@@ -11,6 +11,8 @@ Each creature in the area where the fortress appears must make a DC 15 DEX save,
 
 The tower is made of adamantine, and its magic prevents it from being tipped over. The roof, the door, and the walls each have 100 HP, are immune to damage from nonmagical weapons excluding siege weapons, and are resistant to all other damage. Only a *[[9th-Circle Spells#Wish|wish]]* spell can repair the fortress. Each casting of *[[9th-Circle Spells#Wish|wish]]* causes the roof, the door, or one wall to regain 50 HP.
 
+[[Crafting Magic Items|Made with]]: Colossal Tendon · Besieging Plating
+
 Part of [[Mounts, Vehicles & Travel]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

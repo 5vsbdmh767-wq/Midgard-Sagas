@@ -18,6 +18,8 @@ As a reaction when you cast a spell using a spell slot of a circle equal to or l
 | Rare | 4th | 8,350 gp |
 | Very Rare | 5th | 16,650 gp |
 
+[[Crafting Magic Items|Made with]]: Spell-Empowered Ink · Magic-Absorbing Organ · Cephalopod Ink. Use as many as the version's rarity calls for.
+
 Part of [[Magic Tattoos]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

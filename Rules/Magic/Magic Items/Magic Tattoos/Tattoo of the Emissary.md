@@ -23,6 +23,8 @@ While you are attuned to this tattoo, you gain the following benefits:
 
 ***Sky.*** Your speed is doubled as you are carried by swift winds.
 
+[[Crafting Magic Items|Made with]]: can't be crafted; only powerful Fey grant it.
+
 Part of [[Magic Tattoos]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

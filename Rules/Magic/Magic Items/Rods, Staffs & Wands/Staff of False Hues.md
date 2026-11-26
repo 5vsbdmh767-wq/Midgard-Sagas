@@ -7,6 +7,8 @@ If you touch a Large or smaller item with this staff, you can cause the item to 
 
 Creatures that can see through illusions can see the true color of an item transformed by the staff.
 
+[[Crafting Magic Items|Made with]]: Scintillating Hide
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

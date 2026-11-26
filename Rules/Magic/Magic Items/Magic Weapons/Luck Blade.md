@@ -9,6 +9,8 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. Whil
 
 ***Wish.*** The sword has 1d4 − 1 charges. While holding it, you can use an action to expend 1 charge and cast the *[[9th-Circle Spells#Wish|wish]]* spell from it. This property can’t be used again until the next dawn and never recharges. The sword loses this property if it has no charges.
 
+[[Crafting Magic Items|Made with]]: Idolatrous Heart · Gluckshund Heart · Elemental Essence
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

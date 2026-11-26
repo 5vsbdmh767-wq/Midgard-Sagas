@@ -11,6 +11,8 @@ This ring has 3 charges and regains 1d3 expended charges daily at dawn. While we
 
 - *[[1st-Circle Spells#Speak with Animals|Speak with animals]]*
 
+[[Crafting Magic Items|Made with]]: Animal Lord Essence · Fey Tongue
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

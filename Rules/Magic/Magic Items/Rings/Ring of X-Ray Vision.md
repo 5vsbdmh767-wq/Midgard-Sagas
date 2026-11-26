@@ -9,6 +9,8 @@ While wearing this ring, you can use an action to speak its command word. When y
 
 When you use the ring again before taking a long rest, you must succeed on a DC 15 CON save or gain one level of [[Conditions#Exhaustion|exhaustion]].
 
+[[Crafting Magic Items|Made with]]: Devil’s Eyes · Stone-Eating Acid
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

@@ -19,6 +19,8 @@ These anointed wrappings are inked with delicate holy scripts. While wearing the
 
 **17th Level.** When you hit a Celestial, Fey, Fiend, or Undead with a melee weapon attack, including unarmed strikes, the target must succeed on a DC 17 WIS save or be turned for 1 minute or until it takes any damage. A creature turned by this feature must try to move as far away from you as it can, though it can’t first get closer to you to do it. On its turn, it can use only the Dash action or otherwise try to escape from an effect that prevents it from moving. If there’s nowhere to move, it can use the Dodge action. It can’t take any reactions. Once per turn, if you hit a creature turned by this feature with a melee weapon attack, you can damage it without ending the turned effect.
 
+[[Crafting Magic Items|Made with]]: can't be crafted; fabled items are beyond mortal crafting.
+
 Part of [[Fabled Magic Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

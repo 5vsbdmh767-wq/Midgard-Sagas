@@ -19,6 +19,8 @@ The staff has 7 charges and regains 1d6 expended charges daily at dawn. If you e
 
 ***Summon Apes.*** You can use an action to spend 2 charges to summon either 1d2 **apes** or 1d8 **baboons**, which appear within 60 feet in unoccupied spaces that you can see. A summoned creature disappears when it drops to 0 HP or when the spell ends. The summoned creatures are friendly to you and your companions and act on your initiative, taking their turns immediately after yours. They obey any verbal commands you give them (no action required by you). If you don’t give any commands, they defend themselves from hostile creatures but otherwise take no actions.
 
+[[Crafting Magic Items|Made with]]: Gripping Spikes · Extraordinary Limb
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

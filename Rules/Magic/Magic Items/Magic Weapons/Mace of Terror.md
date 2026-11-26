@@ -7,6 +7,8 @@ This magic weapon has 3 charges. While holding it, you can use an action and exp
 
 The mace regains 1d3 expended charges daily at dawn.
 
+[[Crafting Magic Items|Made with]]: Hag’s Blood · Fearful Eyedrops
+
 Part of [[Magic Weapons]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

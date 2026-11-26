@@ -19,6 +19,8 @@ In addition, the rod has four embedded gemstones that change color when rotated:
 
 ***Yellow.*** Acid mist fills a 10-foot cube within range. A creature in the area must make a DC 15 DEX save, taking 2d6 acid damage on a failed save, or half as much damage on a success. A creature that enters the area or ends it turn there must also succeed on a DC 15 CON save or be [[Conditions#Poisoned|poisoned]].
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (water) · Water-Absorbing Organ
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

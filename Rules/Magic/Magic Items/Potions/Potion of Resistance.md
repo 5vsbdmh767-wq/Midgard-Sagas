@@ -15,6 +15,8 @@ When you drink this potion, you become resistant to one type of damage for 1 hou
 | 4 | Force | 9 | Radiant |
 | 5 | Lightning | 10 | Thunder |
 
+[[Crafting Magic Items|Made with]]: Abnormal Leather
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

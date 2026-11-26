@@ -18,6 +18,8 @@ You can use an action to remove the flask’s stopper and release the creature t
 
 An *[[Rituals 1st–3rd Circle#Identify|identify]]* spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the GM or determined randomly. The GM has the creature’s statistics.
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · Astralsupial Pouch · Devil’s Eyes
+
 Part of [[Containers & Vessels]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

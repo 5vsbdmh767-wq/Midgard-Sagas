@@ -13,6 +13,8 @@ While the gem has images of any length stored within it, as an action, you can p
 
 Physical interaction with the image reveals it to be an illusion, for things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful DC 15 INT (Investigation) check. If a creature discerns the illusion for what it is, it can see through the image to the true appearance beneath, the illusory qualities becoming only faint afterimages.
 
+[[Crafting Magic Items|Made with]]: Everwatchful Eyes · Huecambra Gem
+
 Part of [[Gems, Stones & Orbs]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

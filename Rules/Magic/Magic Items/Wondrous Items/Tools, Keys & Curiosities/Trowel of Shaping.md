@@ -11,6 +11,8 @@ Whenever you make an INT check related to agriculture, masonry, or stonework—i
 
 As an action, you can use this trowel to cast the *[[4th-Circle Spells#Stone Shape|stone shape]]* spell. Once used, this property can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (earth) · Stone-Eating Acid
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

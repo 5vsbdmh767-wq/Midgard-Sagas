@@ -7,6 +7,8 @@ publish: true
 
 This magic key has 6 charges and regains 1d6 expended charges daily at dawn. While holding it, as an action, you can expend 2 charges to cast one of the following spells from it: *[[Rituals 1st–3rd Circle#Arcane Lock|arcane lock]] or [[2nd-Circle Spells#Knock|knock]]*.
 
+[[Crafting Magic Items|Made with]]: Living Lockpick
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

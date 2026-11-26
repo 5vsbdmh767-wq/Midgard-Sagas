@@ -7,6 +7,8 @@ publish: true
 
 While wearing these magic boots, you can stand up from [[Conditions#Prone|prone]] without spending any of your movement.
 
+[[Crafting Magic Items|Made with]]: Bizarre Cartilage
+
 Part of [[Boots & Footwear]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

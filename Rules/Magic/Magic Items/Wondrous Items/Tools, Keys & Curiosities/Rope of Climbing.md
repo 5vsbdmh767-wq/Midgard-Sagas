@@ -9,6 +9,8 @@ If you tell the rope to knot, large knots appear at 1-foot intervals along the r
 
 The rope has AC 20 and 20 HP. It regains 1 HP every 5 minutes as long as it has at least 1 HP. If the rope drops to 0 HP, it is destroyed.
 
+[[Crafting Magic Items|Made with]]: Gripping Spikes
+
 Part of [[Tools, Keys & Curiosities]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

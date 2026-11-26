@@ -17,6 +17,8 @@ This fine garment is made of black silk interwoven with faint silvery threads. W
 
 - You can use an action to cast the *[[2nd-Circle Spells#Web|web]]* spell (save DC 13). The web created by the spell fills twice its normal area. Once used, this property of the cloak can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Gripping Spikes · Paralytic Silk · Insectoid Carapace
+
 Part of [[Cloaks, Robes & Clothing]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

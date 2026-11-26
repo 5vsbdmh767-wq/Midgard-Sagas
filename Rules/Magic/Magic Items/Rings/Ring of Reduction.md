@@ -11,6 +11,8 @@ While reduced, you have disadvantage on STR checks and STR saves. Also, your wea
 
 Once used, the ring can’t be used again until the next dawn.
 
+[[Crafting Magic Items|Made with]]: Insectoid Carapace · Bizarre Cartilage
+
 Part of [[Rings]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

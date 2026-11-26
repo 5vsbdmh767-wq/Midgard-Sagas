@@ -7,6 +7,8 @@ While wearing this armor, you gain a +1 bonus to AC, and you can understand and 
 
 ***Curse.*** Once you don this cursed armor, you can’t doff it unless you are targeted by a *[[3rd-Circle Spells#Remove Curse|remove curse]]* spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saves against their spells and special abilities.
 
+[[Crafting Magic Items|Made with]]: Demonic Thread · Fiend Vellum · Rending Claws
+
 Part of [[Magic Armor]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

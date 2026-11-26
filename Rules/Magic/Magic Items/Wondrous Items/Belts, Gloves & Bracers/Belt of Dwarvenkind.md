@@ -17,6 +17,8 @@ While wearing this belt, you gain the following benefits:
 
 - You can speak, read, and write Dwarvish.
 
+[[Crafting Magic Items|Made with]]: Elemental Gemstone (earth) · Thick Hide
+
 Part of [[Belts, Gloves & Bracers]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

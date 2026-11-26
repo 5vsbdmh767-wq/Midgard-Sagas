@@ -13,6 +13,8 @@ While holding this wand, you gain a bonus to spell attack rolls determined by th
 | +2 | Rare | 5,000 gp +wand base cost |
 | +3 | Very Rare | 15,000 gp + wand base cost |
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ · Devil’s Eyes · Elemental Gemstone. Use as many as the version's rarity calls for.
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

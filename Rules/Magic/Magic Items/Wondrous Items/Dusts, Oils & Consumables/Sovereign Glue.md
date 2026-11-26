@@ -7,6 +7,8 @@ This viscous, milky-white substance can form a permanent bond between any two ob
 
 One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of *[[Universal Solvent|universal solvent]]* or *[[Oil of Etherealness|oil of etherealness]]*, or with a *[[9th-Circle Spells#Wish|wish]]* spell.
 
+[[Crafting Magic Items|Made with]]: Gripping Spikes · Adhesive Slime
+
 Part of [[Dusts, Oils & Consumables]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

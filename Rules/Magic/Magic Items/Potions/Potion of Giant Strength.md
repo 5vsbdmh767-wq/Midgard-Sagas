@@ -19,6 +19,8 @@ This potion’s transparent liquid has floating in it a sliver of fingernail fro
 
 %% errata 2025-05-29: fire giant price; table rows rebuilt from a broken conversion %%
 
+[[Crafting Magic Items|Made with]]: Primordial Humor (that kind of giant) · Colossal Tendon. Use as many as the version's rarity calls for.
+
 Part of [[Potions]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

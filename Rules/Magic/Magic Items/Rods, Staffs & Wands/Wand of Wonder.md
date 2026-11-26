@@ -40,6 +40,8 @@ If an effect covers an area, you must center the spell on and include the target
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.
 
+[[Crafting Magic Items|Made with]]: Fey Tongue · Eruptive Sac
+
 Part of [[Rods, Staffs & Wands]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

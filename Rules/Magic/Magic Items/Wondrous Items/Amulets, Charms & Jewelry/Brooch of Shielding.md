@@ -7,6 +7,8 @@ publish: true
 
 While wearing this brooch, you are resistant to force damage, and you are immune to the damage from the *magic* *missile* spell.
 
+[[Crafting Magic Items|Made with]]: Magic-Absorbing Organ
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

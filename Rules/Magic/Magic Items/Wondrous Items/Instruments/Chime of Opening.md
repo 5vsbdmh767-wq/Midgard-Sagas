@@ -7,6 +7,8 @@ This hollow metal tube measures about 1 foot long and weighs 1 pound. You can st
 
 The chime can be used ten times. After the tenth time, it cracks and becomes useless.
 
+[[Crafting Magic Items|Made with]]: Resonant Trunk · Living Lockpick
+
 Part of [[Instruments]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---

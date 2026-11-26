@@ -7,6 +7,8 @@ publish: true
 
 While carrying this polished agate, you gain a +1 bonus to ability checks and saves.
 
+[[Crafting Magic Items|Made with]]: Fey Tongue
+
 Part of [[Amulets, Charms & Jewelry]] in [[Wondrous Items]]. See also [[Magic Items A–Z]] and [[Magic Items by Rarity]].
 
 ---
